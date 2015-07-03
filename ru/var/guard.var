@@ -1,4 +1,4 @@
-Quantity: 477
+Quantity: 481
 
 /0 Пусто
 Quantity: 5/1
@@ -508,7 +508,8 @@ Quantity: 4/1
 Initiative: 0/1
 Unit1: 16, 5, 2, 2
 Unit2: 256, 4, 1, 1
-Unit3: 156, 5, 1, 1;
+Unit3: 156, 5, 1, 1
+Unit4: 255, 3, 0, 1;
 LootPoss: 14
 MaxLoot: 1
 Power: 2
@@ -3147,11 +3148,11 @@ Item3: 63, 1;
 /218 Гномья артиллерия 0
 Quantity: 7/3
 Initiative: 1/2
-Unit1: 156, 11, 1, 4
-Unit2: 103, 10, 2, 3
-Unit3: 184, 8, 2, 3
-Unit4: 258, 6, 0, 1
-Unit5: 104, 5, 2, 2;
+Unit1: 156, 11, 2, 3
+Unit2: 255, 12, 1, 2
+Unit3: 184, 8, 2, 2
+Unit4: 104, 5, 1, 1
+Unit5: 79, 1, 1, 0;
 LootPoss: 20
 MaxLoot: 2
 Power: 9
@@ -3162,11 +3163,11 @@ Item3: 63, 1;
 /219 Гномья артиллерия 1
 Quantity: 8/4
 Initiative: 2/2
-Unit1: 156, 15, 1, 4
-Unit2: 103, 14, 2, 3
-Unit3: 184, 11, 2, 3
-Unit4: 258, 9, 1, 1
-Unit5: 104, 8, 2, 2;
+Unit1: 156, 16, 3, 3
+Unit2: 255, 17, 1, 2
+Unit3: 184, 13, 2, 3
+Unit4: 104, 10, 1, 2
+Unit5: 79, 6, 1, 1;
 LootPoss: 20
 MaxLoot: 2
 Power: 11
@@ -3177,11 +3178,11 @@ Item3: 63, 1;
 /220 Гномья артиллерия 2
 Quantity: 9/5
 Initiative: 2/2
-Unit1: 156, 19, 1, 4
-Unit2: 103, 18, 2, 3
-Unit3: 184, 14, 2, 3
-Unit4: 258, 12, 2, 1
-Unit5: 104, 11, 2, 2;
+Unit1: 156, 21, 3, 2
+Unit2: 255, 22, 1, 1
+Unit3: 184, 18, 2, 2
+Unit4: 104, 15, 1, 1
+Unit5: 79, 11, 2, 1;
 LootPoss: 20
 MaxLoot: 2
 Power: 13
@@ -3192,11 +3193,11 @@ Item3: 63, 1;
 /221 Гномья артиллерия 3
 Quantity: 10/6
 Initiative: 2/2
-Unit1: 156, 25, 1, 4
-Unit2: 103, 22, 2, 3
-Unit3: 184, 19, 2, 3
-Unit4: 258, 16, 2, 1
-Unit5: 104, 15, 3, 2;
+Unit1: 156, 26, 3, 2
+Unit2: 255, 27, 1, 1
+Unit3: 184, 23, 2, 2
+Unit4: 104, 20, 2, 2
+Unit5: 79, 16, 2, 2;
 LootPoss: 20
 MaxLoot: 2
 Power: 18
@@ -6002,49 +6003,54 @@ Item1: 5, 2
 Item2: 42, 1
 Item3: 55, 1;
 
-/421 Механики 0
-Quantity: 2/0
+/421 Владыки рун 0
+Quantity: 3/1
 Initiative: 0/1
-Unit1: 156, 3, 1, 0
-Unit2: 184, 1, 1, 0;
+Unit1: 156, 6, 1, 1
+Unit2: 103, 2, 1, 0
+Unit3: 71, 1, 1, 0;
 LootPoss: 14
 MaxLoot: 1
-Power: 4
+Power: 5
 Item1: 1, 1
 Item2: 17, 1
 Item3: 63, 1;
 
-/422 Механики 1
-Quantity: 4/1
+/422 Владыки рун 1
+Quantity: 6/2
 Initiative: 1/0
-Unit1: 156, 6, 2, 3
-Unit2: 184, 4, 2, 1;
+Unit1: 156, 9, 2, 2
+Unit2: 103, 5, 2, 1
+Unit3: 71, 4, 2, 1;
 LootPoss: 16
 MaxLoot: 1
-Power: 6
+Power: 8
 Item1: 1, 1
 Item2: 17, 1
 Item3: 63, 1;
 
-/423 Механики 2
-Quantity: 7/2
+/423 Владыки рун 2
+Quantity: 9/3
 Initiative: 1/1
-Unit1: 156, 9, 4, 3
-Unit2: 184, 7, 2, 1
-Unit3: 103, 5, 1, 2;
+Unit1: 156, 12, 3, 2
+Unit2: 103, 8, 2, 1
+Unit3: 71, 7, 3, 1
+Unit4: 258, 2, 1, 0;
 LootPoss: 18
 MaxLoot: 1
-Power: 9
+Power: 10
 Item1: 1, 1
 Item2: 17, 1
 Item3: 63, 1;
 
-/424 Механики 3
-Quantity: 10/3
+/424 Владыки рун 3
+Quantity: 12/4
 Initiative: 2/1
-Unit1: 156, 12, 4, 3
-Unit2: 184, 10, 3, 1
-Unit3: 103, 8, 3, 2;
+Unit1: 156, 15, 4, 3
+Unit2: 103, 11, 3, 2
+Unit3: 71, 10, 3, 2
+Unit4: 258, 2, 1, 1
+Unit5: 258, 7, 1, 0;
 LootPoss: 20
 MaxLoot: 1
 Power: 12
@@ -6478,8 +6484,8 @@ Item3: 63, 1;
 /452 Гномий клан 0
 Quantity: 3/1
 Initiative: 0/1
-Unit1: 16, 5, 2, 2
-Unit2: 184, 1, 1, 0;
+Unit1: 16, 5, 2, 1
+Unit2: 145, 2, 1, 0;
 LootPoss: 16
 MaxLoot: 2
 Power: 2
@@ -6491,8 +6497,9 @@ Item3: 63, 1;
 Quantity: 5/2
 Initiative: 0/2
 Unit1: 16, 8, 2, 2
-Unit2: 156, 10, 2, 2
-Unit3: 184, 5, 1, 1;
+Unit2: 156, 10, 1, 2
+Unit3: 145, 5, 1, 1
+Unit4: 184, 1, 1, 0;
 LootPoss: 18
 MaxLoot: 2
 Power: 5
@@ -6503,11 +6510,11 @@ Item3: 63, 1;
 /454 Гномий клан 2
 Quantity: 7/3
 Initiative: 1/2
-Unit1: 16, 12, 2, 3
-Unit2: 156, 14, 1, 2
-Unit3: 256, 9, 2, 2
-Unit7: 184, 6, 1, 1
-Unit8: 103, 7, 1, 1;
+Unit1: 16, 12, 1, 1
+Unit2: 156, 15, 2, 2
+Unit3: 145, 8, 2, 2
+Unit4: 184, 5, 1, 1
+Unit5: 147, 6, 1, 0;
 LootPoss: 20
 MaxLoot: 2
 Power: 7
@@ -6518,11 +6525,11 @@ Item3: 63, 1;
 /455 Гномий клан 3
 Quantity: 10/4
 Initiative: 1/3
-Unit1: 16, 16, 2, 3
-Unit2: 156, 20, 1, 3
-Unit3: 256, 13, 2, 3
-Unit4: 184, 10, 2, 2
-Unit5: 103, 12, 2, 2
+Unit1: 16, 17, 2, 1
+Unit2: 156, 20, 3, 2
+Unit3: 145, 11, 1, 2
+Unit4: 184, 9, 2, 2
+Unit5: 147, 11, 1, 2
 Unit6: 104, 3, 1, 1;
 LootPoss: 22
 MaxLoot: 2
@@ -6847,3 +6854,61 @@ Power: 3
 Item1: 1, 1
 Item2: 80, 1
 Item3: 67, 1;
+
+/478 Обитатели подземелий 0
+Quantity: 3/1
+Initiative: 1/1
+Unit1: 188, 5, 2, 2
+Unit2: 31, 2, 1, 1;
+LootPoss: 4
+MaxLoot: 1
+Power: 2
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/479 Обитатели подземелий 1
+Quantity: 6/2
+Initiative: 1/2
+Unit1: 188, 10, 3, 3
+Unit2: 31, 6, 2, 2
+Unit3: 67, 3, 1, 1;
+LootPoss: 6
+MaxLoot: 1
+Power: 4
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/480 Обитатели подземелий 2
+Quantity: 9/3
+Initiative: 2/1
+Unit1: 188, 15, 3, 2
+Unit2: 31, 10, 2, 2
+Unit3: 67, 6, 1, 2
+Unit4: 51, 4, 2, 2
+Unit5: 52, 3, 1, 2
+Unit6: 182, 1, 0, 1;
+LootPoss: 8
+MaxLoot: 1
+Power: 7
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/481 Обитатели подземелий 3
+Quantity: 12/4
+Initiative: 2/2
+Unit1: 188, 20, 3, 2
+Unit2: 31, 14, 2, 2
+Unit3: 67, 9, 2, 2
+Unit4: 51, 7, 2, 2
+Unit5: 52, 6, 2, 2
+Unit6: 182, 4, 1, 1
+Unit7: 60, 1, 0, 0;
+LootPoss: 10
+MaxLoot: 1
+Power: 13
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;

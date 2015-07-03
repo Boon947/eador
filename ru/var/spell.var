@@ -3674,8 +3674,8 @@ ItemLevel: 8
 Level: 5
 PowerMod: 0
 DurationMod: 100
-Target: 1
-Area: 1
+Target: 0
+Area: 2
 Radius: 0
 Karma: 0
 Building: 0
@@ -3686,7 +3686,7 @@ Sacrifice: 0
 ResistPower: 0
 ResistDuration: 0
 DefencePower: 0
-RestoreOnly: 0
+RestoreOnly: 1
 Cumulative: 1
 Sound: 107
 UnitKind: (1, 2, 3, 5)
@@ -12583,7 +12583,7 @@ AntiEffect: (30)
 Effects:
 Resist: 223
 Power: 50
-Duration: 4
+Duration: 3
 
 MoraleChange: 222
 Power: 2

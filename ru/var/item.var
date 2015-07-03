@@ -2338,7 +2338,7 @@ Area: 0;
 Name: Латные перчатки;
 Slot: 8
 Class: 8
-Durability: 35
+Durability: 40
 GoldCost: 100
 GemCost: 0
 ShopLevel: 3
@@ -3336,6 +3336,10 @@ Area: 0
 
 Stamina: 11
 Power: 5
+Area: 0
+
+CastStamina: 161
+Power: 2
 Area: 0;
 
 /146

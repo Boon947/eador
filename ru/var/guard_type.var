@@ -1,4 +1,4 @@
-Quantity: 159
+Quantity: 160
 
 /0
 Name: Пусто;
@@ -668,7 +668,7 @@ Guard3: 217
 
 /74
 Name: Гномья артиллерия;
-Power: 6
+Power: 9
 Karma: 0
 Guard0: 218
 Guard1: 219
@@ -1252,8 +1252,8 @@ Guard2: 419
 Guard3: 420
 
 /139
-Name: Механики;
-Power: 2
+Name: Владыки рун;
+Power: 5
 Karma: 2
 Guard0: 421
 Guard1: 422
@@ -1439,3 +1439,12 @@ Guard0: 477
 Guard1: 477
 Guard2: 477
 Guard3: 477
+
+/160
+Name: Обитатели подземелий;
+Power: 2
+Karma: -1
+Guard0: 478
+Guard1: 479
+Guard2: 480
+Guard3: 481

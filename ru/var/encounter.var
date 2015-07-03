@@ -1,4 +1,4 @@
-Quantity: 1456
+Quantity: 1462
 
 /0
 Type: 0
@@ -3813,13 +3813,19 @@ Karma: 0
 *Answers*:
 Answer1: 149
 Answer2: 4
-Answer3: 3;
+Answer3: 3
+Answer4: 1457;
 
 *Effects*:
 Condition: 4
 Power: 1
 Param1: 7
-Param2: 1;
+Param2: 1
+
+Condition: 4
+Power: 4
+Param1: 7
+Param2: 2;
 
 /149 Диалог с кентаврами (попытка дипломатии)
 Type: 0
@@ -3835,13 +3841,14 @@ Karma: 0
 
 *Answers*:
 Answer1: 4
-Answer2: 3;
+Answer2: 3
+Answer3: 1457;
 
 *Effects*:
-Condition: 0
-Power: 0
-Param1: 0
-Param2: 0;
+Condition: 4
+Power: 3
+Param1: 7
+Param2: 3;
 
 /150 Диалог с кентаврами (переход к получению задания)
 Type: 0
@@ -34845,4 +34852,164 @@ Answer3: 11;
 Condition: 0
 Power: 0
 Param1: 0
+Param2: 0;
+
+/1457 Переговоры с кентаврами (предложение присоединиться)
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Condition: 11
+Power: 1458
+Param1: 1459
+Param2: 60;
+
+/1458 Переговоры с кентаврами (дипломатия, неудача)
+Type: 0
+Possibility: 0
+Dialog: 2381
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 4
+Answer2: 3;
+
+*Effects*:
+Condition: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/1459 Переговоры с кентаврами (дипломатия, удача)
+Type: 0
+Possibility: 0
+Dialog: 2382
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 4
+Answer2: 3
+Answer3: 1460
+Answer4: 1461;
+
+*Effects*:
+Condition: 4
+Power: 3
+Param1: 1
+Param2: 500
+
+Condition: 4
+Power: 4
+Param1: 7
+Param2: 4
+
+Condition: 4
+Power: 4
+Param1: 1
+Param2: 250;
+
+/1460 Переговоры с кентаврами (платим 500)
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Condition: 1
+Power: -500
+Param1: 0
+Param2: 0
+
+GoTo: 11
+Power: 1462
+Param1: 0
+Param2: 0;
+
+/1461 Переговоры с кентаврами (платим 250)
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Condition: 1
+Power: -250
+Param1: 0
+Param2: 0
+
+GoTo: 11
+Power: 1462
+Param1: 0
+Param2: 0;
+
+/1462 Переговоры с кентаврами (присоединение провинции без союза)
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Flag: 10
+Power: 105
+Param1: 0
+Param2: 0
+
+Attitude: 20
+Power: -3
+Param1: 0
+Param2: 0
+
+Exp: 25
+Power: 20
+Param1: 20
 Param2: 0;

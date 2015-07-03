@@ -729,11 +729,17 @@ Poss: 4
 Guard: 2
 Poss: 4
 
+Guard: 3
+Poss: 1
+
 Guard: 4
 Poss: 4
 
 Guard: 5
 Poss: 4
+
+Guard: 16
+Poss: 2
 
 Guard: 150
 Poss: 3
@@ -802,11 +808,17 @@ Guards:
 Guard: 1
 Poss: 4
 
+Guard: 3
+Poss: 2
+
 Guard: 4
 Poss: 4
 
 Guard: 150
 Poss: 3
+
+Guard: 16
+Poss: 2
 
 Guard: 7
 Poss: 4
@@ -897,6 +909,9 @@ Guard: 100
 Poss: 1
 
 Guard: 150
+Poss: 1
+
+Guard: 160
 Poss: 1;
 
 Ability:
@@ -961,6 +976,9 @@ Guard: 100
 Poss: 2
 
 Guard: 150
+Poss: 1
+
+Guard: 160
 Poss: 1;
 
 Ability:
@@ -1034,6 +1052,9 @@ Guard: 102
 Poss: 2
 
 Guard: 150
+Poss: 1
+
+Guard: 160
 Poss: 1;
 
 Ability:
@@ -1338,6 +1359,9 @@ Guard: 146
 Poss: 1
 
 Guard: 150
+Poss: 1
+
+Guard: 160
 Poss: 1;
 
 Ability:
@@ -5127,10 +5151,13 @@ Tundra: 10
 
 Guards:
 Guard: 100
-Poss: 2
+Poss: 4
 
 Guard: 102
-Poss: 2;
+Poss: 3
+
+Guard: 160
+Poss: 1;
 
 Ability:
 Ability: 3
@@ -5745,6 +5772,9 @@ Guard: 147
 Poss: 1
 
 Guard: 140
+Poss: 1
+
+Guard: 160
 Poss: 1;
 
 Ability:

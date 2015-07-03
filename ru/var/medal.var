@@ -30,7 +30,7 @@ Power: 50;
 Name: Медаль за Отвагу;
 GoldSpent: 3
 GemSpent: 0
-Rarity: 2
+Rarity: 1
 Effects:
 
 Morale: 12
@@ -197,10 +197,10 @@ Smite_good: 200
 Power: 2;
 
 /16
-Name: Звезда Разведчика;
+Name: Лента Разведчика;
 GoldSpent: 5
 GemSpent: 0
-Rarity: 2
+Rarity: 3
 Effects:
 
 Forster: 32
@@ -214,7 +214,7 @@ Power: 4;
 
 /17
 Name: Медаль за мастерство;
-GoldSpent: 2
+GoldSpent: 3
 GemSpent: 0
 Rarity: 2
 Effects:
@@ -268,7 +268,7 @@ Effects:
 RangedAttack: 8
 Power: 2
 
-Damage_Aura: 212
+Damage_Aura_Shoot: 213
 Power: 2;
 
 /22

@@ -1,4 +1,4 @@
-Quantity: 104
+Quantity: 105
 
 /0
 Name: Пусто;
@@ -4268,4 +4268,46 @@ Param2: -9
 
 Ability: 3
 Param1: 3
+Param2: 0;
+
+/105
+Name: Клан кентавров;
+Illustration: 21
+Power: 0
+GoldCost: 0
+GemGost: 0
+GoldPayment: -1
+GemPayment: 0
+Building: 0
+Initiative: 1
+Karma: 0
+LootPoss: 10
+LootNum: 1
+NoDismiss: 1
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Resource: (0)
+Units:
+Unit1: 25, 7, 2
+Unit2: 26, 7, 4;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 1
+Param1: -100
+Param2: -100
+
+Ability: 2
+Param1: 4
+Param2: 0
+
+Ability: 12
+Param1: 1
 Param2: 0;
