@@ -1,0 +1,103 @@
+/1 Warrior
+Health: 6
+Magic: 1
+Leader: 3
+
+/2 Scout
+Health: 4
+Magic: 3
+Leader: 3
+
+/3 Commander
+Health: 3
+Magic: 1
+Leader: 6
+
+/4 Wizard
+Health: 2
+Magic: 6
+Leader: 2
+
+
+/5 Knight
+Health: 4
+Magic: 2
+Leader: 4
+
+/6 Asassin
+Health: 4
+Magic: 3
+Leader: 3
+
+/7 Berserk
+Health: 3
+Magic: 1
+Leader: 6
+
+/8 Dark Knight
+Health: 3
+Magic: 6
+Leader: 1
+
+
+/9 Marksman
+Health: 6
+Magic: 1
+Leader: 3
+
+/10 Spy
+Health: 4
+Magic: 3
+Leader: 3
+
+/11 Gang leader
+Health: 3
+Magic: 1
+Leader: 6
+
+/12 Ranger
+Health: 2
+Magic: 6
+Leader: 2
+
+
+/13 Lord
+Health: 5
+Magic: 1
+Leader: 4
+
+/14 Strateg
+Health: 4
+Magic: 2
+Leader: 4
+
+/15 General
+Health: 3
+Magic: 3
+Leader: 4
+
+/16 Priest
+Health: 1
+Magic: 5
+Leader: 4
+
+
+/17 Thaumaturger
+Health: 6
+Magic: 4
+Leader: 0
+
+/18 Druid
+Health: 1
+Magic: 4
+Leader: 5
+
+/19 Necromancer
+Health: 1
+Magic: 3
+Leader: 6
+
+/20 Mage
+Health: 2
+Magic: 4
+Leader: 4

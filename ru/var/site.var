@@ -1,0 +1,6849 @@
+Quantity: 141
+
+/0
+Name: Пусто;
+MinLevel: 0
+MaxLevel: 0
+Guarded: 0
+Place: 0
+Event: 0
+Dialog: 0
+Dialog2: 0
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 0
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 0
+Poss: 0;
+
+Ability:
+Ability: 0
+Param1: 0
+Param2: 0;
+
+/1
+Name: Залежи железа;
+MinLevel: 1
+MaxLevel: 3
+Guarded: 40
+Place: 0
+Event: 2
+Dialog: 36
+Dialog2: 37
+Treasure: -20
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 1
+CanEnter: 0
+SelfDestroy: 0
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 1
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 6
+Poss: 1;
+
+Ability:
+Ability: 1
+Param1: 1
+Param2: 0
+
+Ability: 2
+Param1: 1
+Param2: 0;
+
+/2
+Name: Красная дубрава;
+MinLevel: 1
+MaxLevel: 3
+Guarded: 40
+Place: 0
+Event: 2
+Dialog: 38
+Dialog2: 39
+Treasure: -20
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 1
+CanEnter: 0
+SelfDestroy: 0
+
+Terrain:
+Plain: 0
+Forest: 1
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 2
+Poss: 1;
+
+Ability:
+Ability: 1
+Param1: 2
+Param2: 0
+
+Ability: 2
+Param1: 1
+Param2: 0;
+
+/3
+Name: Табун лошадей;
+MinLevel: 1
+MaxLevel: 3
+Guarded: 50
+Place: 0
+Event: 2
+Dialog: 40
+Dialog2: 41
+Treasure: -20
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 1
+CanEnter: 0
+SelfDestroy: 0
+
+Terrain:
+Plain: 1
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 3
+Poss: 1;
+
+Ability:
+Ability: 1
+Param1: 3
+Param2: 0
+
+Ability: 2
+Param1: 1
+Param2: 0;
+
+/4
+Name: Поляна мандрагоры;
+MinLevel: 1
+MaxLevel: 3
+Guarded: 30
+Place: 0
+Event: 2
+Dialog: 42
+Dialog2: 43
+Treasure: -20
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 1
+CanEnter: 0
+SelfDestroy: 0
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 1
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 4
+Poss: 1;
+
+Ability:
+Ability: 1
+Param1: 4
+Param2: 0
+
+Ability: 2
+Param1: 0
+Param2: 1;
+
+/5
+Name: Мерцающие топи;
+MinLevel: 2
+MaxLevel: 4
+Guarded: 40
+Place: 0
+Event: 2
+Dialog: 44
+Dialog2: 45
+Treasure: -20
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 1
+CanEnter: 0
+SelfDestroy: 0
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 1
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 4
+Poss: 1
+
+Guard: 12
+Poss: 1
+
+Guard: 55
+Poss: 1
+
+Guard: 42
+Poss: 2
+
+Guard: 43
+Poss: 1
+
+Guard: 26
+Poss: 1
+
+Guard: 57
+Poss: 1
+
+Guard: 138
+Poss: 1;
+
+Ability:
+Ability: 1
+Param1: 5
+Param2: 0
+
+Ability: 2
+Param1: 0
+Param2: 2;
+
+/6
+Name: Залежи мрамора;
+MinLevel: 2
+MaxLevel: 4
+Guarded: 40
+Place: 0
+Event: 2
+Dialog: 46
+Dialog2: 47
+Treasure: -20
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 1
+CanEnter: 0
+SelfDestroy: 0
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 1
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 6
+Poss: 2
+
+Guard: 58
+Poss: 2
+
+Guard: 9
+Poss: 2
+
+Guard: 60
+Poss: 2
+
+Guard: 39
+Poss: 2
+
+Guard: 81
+Poss: 1
+
+Guard: 100
+Poss: 1;
+
+Ability:
+Ability: 1
+Param1: 6
+Param2: 0
+
+Ability: 2
+Param1: 2
+Param2: 0;
+
+/7
+Name: Залежи мифрила;
+MinLevel: 2
+MaxLevel: 4
+Guarded: 40
+Place: 0
+Event: 2
+Dialog: 48
+Dialog2: 49
+Treasure: -20
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 1
+CanEnter: 0
+SelfDestroy: 0
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 1
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 58
+Poss: 1
+
+Guard: 9
+Poss: 1
+
+Guard: 60
+Poss: 1
+
+Guard: 78
+Poss: 1
+
+Guard: 102
+Poss: 1;
+
+Ability:
+Ability: 1
+Param1: 7
+Param2: 0
+
+Ability: 2
+Param1: 3
+Param2: 0;
+
+/8
+Name: Пуща Дионитов;
+MinLevel: 4
+MaxLevel: 7
+Guarded: 70
+Place: 0
+Event: 2
+Dialog: 50
+Dialog2: 51
+Treasure: -20
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 1
+CanEnter: 0
+SelfDestroy: 0
+
+Terrain:
+Plain: 0
+Forest: 1
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 8
+Poss: 1
+
+Guard: 15
+Poss: 1
+
+Guard: 26
+Poss: 1
+
+Guard: 34
+Poss: 1
+
+Guard: 138
+Poss: 1;
+
+Ability:
+Ability: 1
+Param1: 8
+Param2: 0
+
+Ability: 2
+Param1: 3
+Param2: 2;
+
+/9
+Name: Чёрный омут;
+MinLevel: 4
+MaxLevel: 8
+Guarded: 80
+Place: 0
+Event: 2
+Dialog: 52
+Dialog2: 53
+Treasure: -20
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 1
+CanEnter: 0
+SelfDestroy: 0
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 1
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 12
+Poss: 2
+
+Guard: 55
+Poss: 1
+
+Guard: 14
+Poss: 2
+
+Guard: 26
+Poss: 2
+
+Guard: 42
+Poss: 3
+
+Guard: 127
+Poss: 2
+
+Guard: 33
+Poss: 1
+
+Guard: 57
+Poss: 1
+
+Guard: 138
+Poss: 1;
+
+Ability:
+Ability: 1
+Param1: 9
+Param2: 0
+
+Ability: 2
+Param1: 0
+Param2: 3;
+
+/10
+Name: Древний склеп;
+MinLevel: 1
+MaxLevel: 8
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 18
+Dialog2: 0
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 65
+Forest: 65
+Hill: 65
+Swamp: 65
+Desert: 65
+Tundra: 65
+
+Guards:
+Guard: 5
+Poss: 10
+
+Guard: 57
+Poss: 3
+
+Guard: 11
+Poss: 3
+
+Guard: 58
+Poss: 3
+
+Guard: 25
+Poss: 4
+
+Guard: 125
+Poss: 3
+
+Guard: 27
+Poss: 3
+
+Guard: 60
+Poss: 3
+
+Guard: 43
+Poss: 3
+
+Guard: 134
+Poss: 1
+
+Guard: 77
+Poss: 4
+
+Guard: 81
+Poss: 2
+
+Guard: 102
+Poss: 2;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/11
+Name: Древние руины;
+MinLevel: 1
+MaxLevel: 8
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 19
+Dialog2: 0
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 90
+Forest: 90
+Hill: 90
+Swamp: 90
+Desert: 90
+Tundra: 90
+
+Guards:
+Guard: 5
+Poss: 4
+
+Guard: 4
+Poss: 4
+
+Guard: 11
+Poss: 4
+
+Guard: 18
+Poss: 3
+
+Guard: 123
+Poss: 1
+
+Guard: 124
+Poss: 1
+
+Guard: 27
+Poss: 4
+
+Guard: 84
+Poss: 4
+
+Guard: 150
+Poss: 3
+
+Guard: 129
+Poss: 2
+
+Guard: 57
+Poss: 2
+
+Guard: 43
+Poss: 4
+
+Guard: 51
+Poss: 2
+
+Guard: 95
+Poss: 2
+
+Guard: 101
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/12
+Name: Развалины башни;
+MinLevel: 1
+MaxLevel: 8
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 20
+Dialog2: 0
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 90
+Forest: 90
+Hill: 90
+Swamp: 60
+Desert: 60
+Tundra: 60
+
+Guards:
+Guard: 2
+Poss: 4
+
+Guard: 6
+Poss: 4
+
+Guard: 150
+Poss: 3
+
+Guard: 19
+Poss: 4
+
+Guard: 125
+Poss: 2
+
+Guard: 78
+Poss: 3
+
+Guard: 58
+Poss: 3
+
+Guard: 30
+Poss: 3
+
+Guard: 129
+Poss: 2
+
+Guard: 145
+Poss: 1
+
+Guard: 60
+Poss: 2
+
+Guard: 44
+Poss: 3
+
+Guard: 95
+Poss: 2
+
+Guard: 101
+Poss: 1
+
+Guard: 104
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/13
+Name: Заброшенная ферма;
+MinLevel: 1
+MaxLevel: 4
+Guarded: 100
+Place: 2
+Event: 2
+Dialog: 23
+Dialog2: 0
+Treasure: -1
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 1
+CanEnter: 0
+SelfDestroy: 0
+
+Terrain:
+Plain: 25
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 1
+Poss: 4
+
+Guard: 2
+Poss: 4
+
+Guard: 4
+Poss: 4
+
+Guard: 5
+Poss: 4
+
+Guard: 150
+Poss: 3
+
+Guard: 57
+Poss: 3
+
+Guard: 6
+Poss: 4
+
+Guard: 7
+Poss: 4
+
+Guard: 27
+Poss: 3
+
+Guard: 43
+Poss: 3
+
+Guard: 78
+Poss: 3
+
+Guard: 84
+Poss: 3
+
+Guard: 101
+Poss: 2
+
+Guard: 147
+Poss: 2
+
+Guard: 130
+Poss: 1;
+
+Ability:
+Ability: 2
+Param1: 1
+Param2: 0;
+
+/14
+Name: Старый ветряк;
+MinLevel: 2
+MaxLevel: 5
+Guarded: 100
+Place: 2
+Event: 2
+Dialog: 24
+Dialog2: 0
+Treasure: -1
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 1
+CanEnter: 0
+SelfDestroy: 0
+
+Terrain:
+Plain: 20
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 1
+Poss: 4
+
+Guard: 4
+Poss: 4
+
+Guard: 150
+Poss: 3
+
+Guard: 7
+Poss: 4
+
+Guard: 14
+Poss: 4
+
+Guard: 27
+Poss: 3
+
+Guard: 78
+Poss: 3
+
+Guard: 127
+Poss: 1
+
+Guard: 81
+Poss: 2
+
+Guard: 147
+Poss: 2
+
+Guard: 101
+Poss: 2;
+
+Ability:
+Ability: 2
+Param1: 2
+Param2: 0;
+
+/15
+Name: Серебряный рудник;
+MinLevel: 1
+MaxLevel: 5
+Guarded: 100
+Place: 2
+Event: 2
+Dialog: 54
+Dialog2: 0
+Treasure: -1
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 1
+CanEnter: 0
+SelfDestroy: 0
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 18
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 6
+Poss: 4
+
+Guard: 58
+Poss: 3
+
+Guard: 9
+Poss: 4
+
+Guard: 149
+Poss: 3
+
+Guard: 60
+Poss: 3
+
+Guard: 77
+Poss: 3
+
+Guard: 139
+Poss: 2
+
+Guard: 129
+Poss: 2
+
+Guard: 78
+Poss: 3
+
+Guard: 81
+Poss: 2
+
+Guard: 100
+Poss: 1
+
+Guard: 150
+Poss: 1;
+
+Ability:
+Ability: 2
+Param1: 3
+Param2: 0;
+
+/16
+Name: Золотая жила;
+MinLevel: 2
+MaxLevel: 8
+Guarded: 100
+Place: 2
+Event: 2
+Dialog: 55
+Dialog2: 0
+Treasure: -1
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 1
+CanEnter: 0
+SelfDestroy: 0
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 5
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 6
+Poss: 4
+
+Guard: 58
+Poss: 3
+
+Guard: 9
+Poss: 4
+
+Guard: 149
+Poss: 3
+
+Guard: 60
+Poss: 3
+
+Guard: 139
+Poss: 2
+
+Guard: 129
+Poss: 2
+
+Guard: 78
+Poss: 3
+
+Guard: 81
+Poss: 2
+
+Guard: 100
+Poss: 2
+
+Guard: 150
+Poss: 1;
+
+Ability:
+Ability: 2
+Param1: 5
+Param2: 0;
+
+/17
+Name: Самоцветы;
+MinLevel: 3
+MaxLevel: 8
+Guarded: 100
+Place: 2
+Event: 2
+Dialog: 56
+Dialog2: 0
+Treasure: -1
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 1
+CanEnter: 0
+SelfDestroy: 0
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 2
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 6
+Poss: 5
+
+Guard: 58
+Poss: 3
+
+Guard: 9
+Poss: 5
+
+Guard: 149
+Poss: 4
+
+Guard: 60
+Poss: 3
+
+Guard: 18
+Poss: 4
+
+Guard: 139
+Poss: 2
+
+Guard: 123
+Poss: 2
+
+Guard: 124
+Poss: 1
+
+Guard: 78
+Poss: 3
+
+Guard: 81
+Poss: 2
+
+Guard: 100
+Poss: 2
+
+Guard: 102
+Poss: 2
+
+Guard: 150
+Poss: 1;
+
+Ability:
+Ability: 2
+Param1: 8
+Param2: 1;
+
+/18
+Name: Заброшенный храм;
+MinLevel: 1
+MaxLevel: 8
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 57
+Dialog2: 0
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 35
+Forest: 35
+Hill: 35
+Swamp: 35
+Desert: 35
+Tundra: 35
+
+Guards:
+Guard: 5
+Poss: 4
+
+Guard: 14
+Poss: 4
+
+Guard: 20
+Poss: 7
+
+Guard: 28
+Poss: 3
+
+Guard: 31
+Poss: 5
+
+Guard: 33
+Poss: 2
+
+Guard: 34
+Poss: 3
+
+Guard: 127
+Poss: 3
+
+Guard: 147
+Poss: 2
+
+Guard: 91
+Poss: 3
+
+Guard: 129
+Poss: 3
+
+Guard: 57
+Poss: 2
+
+Guard: 146
+Poss: 2
+
+Guard: 102
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/19
+Name: Башня магов;
+MinLevel: 1
+MaxLevel: 8
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 58
+Encounter: 363
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 15
+Forest: 15
+Hill: 15
+Swamp: 15
+Desert: 15
+Tundra: 15
+
+Guards:
+Guard: 19
+Poss: 13
+
+Guard: 125
+Poss: 7
+
+Guard: 25
+Poss: 4
+
+Guard: 145
+Poss: 8
+
+Guard: 60
+Poss: 2
+
+Guard: 26
+Poss: 4
+
+Guard: 146
+Poss: 5
+
+Guard: 33
+Poss: 3
+
+Guard: 58
+Poss: 2
+
+Guard: 39
+Poss: 2
+
+Guard: 56
+Poss: 2
+
+Guard: 57
+Poss: 2
+
+Guard: 138
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18
+
+Ability: 15
+Param1: 22
+Param2: 50;
+
+
+/20
+Name: Дремучая чащоба;
+MinLevel: 1
+MaxLevel: 8
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 59
+Dialog2: 0
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 120
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 2
+Poss: 4
+	
+Guard: 8
+Poss: 5
+
+Guard: 11
+Poss: 5
+
+Guard: 15
+Poss: 5
+
+Guard: 17
+Poss: 4
+
+Guard: 26
+Poss: 3
+
+Guard: 32
+Poss: 4
+
+Guard: 134
+Poss: 2
+
+Guard: 34
+Poss: 3
+
+Guard: 53
+Poss: 4
+
+Guard: 83
+Poss: 3
+
+Guard: 138
+Poss: 1
+
+Guard: 150
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+
+/21
+Name: Тёмная пещера;
+MinLevel: 1
+MaxLevel: 8
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 60
+Dialog2: 0
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 45
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 6
+Poss: 6
+
+Guard: 13
+Poss: 8
+
+Guard: 14
+Poss: 5
+
+Guard: 58
+Poss: 4
+
+Guard: 24
+Poss: 6
+
+Guard: 60
+Poss: 3
+
+Guard: 53
+Poss: 6
+
+Guard: 127
+Poss: 3
+
+Guard: 81
+Poss: 2
+
+Guard: 129
+Poss: 2
+
+Guard: 83
+Poss: 3
+
+Guard: 130
+Poss: 1
+
+Guard: 146
+Poss: 1
+
+Guard: 150
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+
+/22
+Name: Монолит;
+MinLevel: 1
+MaxLevel: 8
+Guarded: 100
+Place: 2
+Event: 2
+Dialog: 61
+Dialog2: 0
+Treasure: -1
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 1
+CanEnter: 0
+SelfDestroy: 0
+
+Terrain:
+Plain: 10
+Forest: 15
+Hill: 15
+Swamp: 25
+Desert: 15
+Tundra: 15
+
+Guards:
+Guard: 5
+Poss: 5
+
+Guard: 19
+Poss: 5
+
+Guard: 125
+Poss: 2
+
+Guard: 25
+Poss: 3
+
+Guard: 26
+Poss: 3
+
+Guard: 33
+Poss: 3
+
+Guard: 60
+Poss: 2
+
+Guard: 44
+Poss: 3
+
+Guard: 146
+Poss: 2
+
+Guard: 145
+Poss: 2
+
+Guard: 57
+Poss: 3
+
+Guard: 78
+Poss: 2
+
+Guard: 129
+Poss: 2
+
+Guard: 147
+Poss: 2
+
+Guard: 103
+Poss: 1
+
+Guard: 104
+Poss: 1;
+
+Ability:
+Ability: 2
+Param1: 0
+Param2: 2;
+
+/23
+Name: Бандитское логово;
+MinLevel: 0
+MaxLevel: 0
+Guarded: 100
+Place: 2
+Event: 2
+Dialog: 81
+Dialog2: 0
+Treasure: 1
+Coastal: 0
+WorkHide: 1
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 21
+Poss: 2;
+
+Ability:
+Ability: 4
+Param1: 16
+Param2: 80
+
+Ability: 5
+Param1: 2
+Param2: 0
+
+Ability: 6
+Param1: -30
+Param2: 0
+
+Ability: 4
+Param1: 689
+Param2: 80;
+
+/24
+Name: Врата Хаоса;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 2
+Event: 2
+Dialog: 97
+Dialog2: 0
+Treasure: 1
+Coastal: 0
+WorkHide: 1
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 133
+Poss: 1;
+
+Ability:
+Ability: 8
+Param1: 2
+Param2: 0
+
+Ability: 4
+Param1: 36
+Param2: 50
+
+Ability: 5
+Param1: 15
+Param2: 0
+
+Ability: 7
+Param1: -2
+Param2: 0;
+
+/25
+Name: Драконье логово;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 102
+Dialog2: 0
+Treasure: 4
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 5
+Forest: 8
+Hill: 18
+Swamp: 9
+Desert: 9
+Tundra: 9
+
+Guards:
+Guard: 157
+Poss: 4
+
+Guard: 158
+Poss: 2
+
+Guard: 23
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18
+
+Ability: 4
+Param1: 768
+Param2: 10;
+
+/26
+Name: Алтарь Смерти;
+MinLevel: 1
+MaxLevel: 12
+Guarded: 100
+Place: 2
+Event: 2
+Dialog: 143
+Encounter: 1009
+Treasure: 2
+Coastal: 0
+WorkHide: 1
+WorkGuard: 1
+WorkFree: 1
+CanEnter: 1
+SelfDestroy: 0
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 25
+Poss: 3
+
+Guard: 125
+Poss: 3
+
+Guard: 57
+Poss: 2
+
+Guard: 77
+Poss: 2
+
+Guard: 81
+Poss: 1;
+
+Ability:
+Ability: 8
+Param1: 2
+Param2: 0
+
+Ability: 4
+Param1: 56
+Param2: 50
+
+Ability: 4
+Param1: 8
+Param2: 30
+
+Ability: 5
+Param1: 5
+Param2: 0
+
+Ability: 7
+Param1: -4
+Param2: 0
+
+Ability: 2
+Param1: 0
+Param2: 5
+
+Ability: 17
+Param1: 1012
+Param2: 0;
+
+/27
+Name: Храм Света;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 391
+Encounter: 237
+Treasure: 2
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 1
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 20
+Poss: 3
+
+Guard: 91
+Poss: 1;
+
+Ability:
+Ability: 8
+Param1: 3
+Param2: 0
+
+Ability: 7
+Param1: 2
+Param2: 0;
+
+/28
+Name: Сокровища;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 0
+Place: 2
+Event: 2
+Dialog: 437
+Encounter: 0
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 3
+Forest: 10
+Hill: 5
+Swamp: 12
+Desert: 6
+Tundra: 6
+
+Guards:
+Guard: 0
+Poss: 1;
+
+Ability:
+Ability: 12
+Param1: 0
+Param2: 0;
+
+/29
+Name: Опыт;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 0
+Place: 2
+Event: 2
+Dialog: 438
+Encounter: 0
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 3
+Forest: 15
+Hill: 9
+Swamp: 15
+Desert: 6
+Tundra: 6
+
+Guards:
+Guard: 0
+Poss: 1;
+
+Ability:
+Ability: 9
+Param1: 20
+Param2: 10;
+
+/30
+Name: Золото;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 0
+Place: 2
+Event: 2
+Dialog: 439
+Encounter: 0
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 3
+Forest: 12
+Hill: 15
+Swamp: 12
+Desert: 6
+Tundra: 6
+
+Guards:
+Guard: 0
+Poss: 1;
+
+Ability:
+Ability: 10
+Param1: 50
+Param2: 50;
+
+/31
+Name: Кристаллы;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 0
+Place: 2
+Event: 2
+Dialog: 440
+Encounter: 0
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 3
+Forest: 14
+Hill: 9
+Swamp: 15
+Desert: 6
+Tundra: 6
+
+Guards:
+Guard: 0
+Poss: 1;
+
+Ability:
+Ability: 11
+Param1: 20
+Param2: 10;
+
+/32
+Name: Лавка скорняка;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 441
+Encounter: 309
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 1
+SelfDestroy: 1
+
+Terrain:
+Plain: 1
+Forest: 2
+Hill: 1
+Swamp: 1
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 7
+Poss: 1
+
+Guard: 9
+Poss: 2
+
+Guard: 149
+Poss: 1
+
+Guard: 10
+Poss: 2;
+
+Ability:
+Ability: 8
+Param1: 3
+Param2: 0
+
+Ability: 13
+Param1: 6
+Param2: 4
+
+Ability: 14
+Param1: 9
+Param2: 300;
+
+/33
+Name: Лавка оружейника;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 462
+Encounter: 347
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 1
+SelfDestroy: 1
+
+Terrain:
+Plain: 2
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 6
+Poss: 2
+
+Guard: 9
+Poss: 2
+
+Guard: 149
+Poss: 1
+
+Guard: 10
+Poss: 2;
+
+Ability:
+Ability: 8
+Param1: 3
+Param2: 0
+
+Ability: 13
+Param1: 1
+Param2: 5
+
+Ability: 14
+Param1: 9
+Param2: 300;
+
+/34
+Name: Лавка стрелка;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 465
+Encounter: 349
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 1
+SelfDestroy: 1
+
+Terrain:
+Plain: 1
+Forest: 2
+Hill: 1
+Swamp: 1
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 8
+Poss: 2
+
+Guard: 16
+Poss: 2
+
+Guard: 10
+Poss: 2;
+
+Ability:
+Ability: 8
+Param1: 3
+Param2: 0
+
+Ability: 13
+Param1: 3
+Param2: 4
+
+Ability: 14
+Param1: 7
+Param2: 300;
+
+/35
+Name: Лавка чародея;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 468
+Encounter: 351
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 1
+SelfDestroy: 1
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 2
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 8
+Poss: 3
+
+Guard: 19
+Poss: 3
+
+Guard: 125
+Poss: 2
+
+Guard: 58
+Poss: 1
+
+Guard: 10
+Poss: 3
+
+Guard: 60
+Poss: 2
+
+Guard: 145
+Poss: 2
+
+Guard: 39
+Poss: 3
+
+Guard: 103
+Poss: 1;
+
+Ability:
+Ability: 8
+Param1: 3
+Param2: 0
+
+Ability: 13
+Param1: 4
+Param2: 4
+
+Ability: 14
+Param1: 6
+Param2: 300;
+
+/36
+Name: Лавка кольчуг;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 471
+Encounter: 353
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 1
+SelfDestroy: 1
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 2
+Swamp: 1
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 9
+Poss: 2
+
+Guard: 149
+Poss: 1
+
+Guard: 28
+Poss: 2
+
+Guard: 10
+Poss: 2;
+
+Ability:
+Ability: 8
+Param1: 3
+Param2: 0
+
+Ability: 13
+Param1: 7
+Param2: 4
+
+Ability: 14
+Param1: 9
+Param2: 300;
+
+/37
+Name: Лавка лат;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 474
+Encounter: 355
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 1
+SelfDestroy: 1
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 2
+Swamp: 1
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 9
+Poss: 2
+
+Guard: 149
+Poss: 1
+
+Guard: 28
+Poss: 2
+
+Guard: 10
+Poss: 2;
+
+Ability:
+Ability: 8
+Param1: 3
+Param2: 0
+
+Ability: 13
+Param1: 8
+Param2: 4
+
+Ability: 14
+Param1: 9
+Param2: 300;
+
+/38
+Name: Лавка портного;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 477
+Encounter: 357
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 1
+SelfDestroy: 1
+
+Terrain:
+Plain: 2
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 7
+Poss: 2
+
+Guard: 8
+Poss: 2
+
+Guard: 10
+Poss: 2;
+
+Ability:
+Ability: 8
+Param1: 3
+Param2: 0
+
+Ability: 13
+Param1: -1
+Param2: 4
+
+Ability: 14
+Param1: 9
+Param2: 300;
+
+/39
+Name: Лавка ювелира;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 480
+Encounter: 359
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 1
+SelfDestroy: 1
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 2
+Swamp: 1
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 9
+Poss: 4
+
+Guard: 149
+Poss: 3
+
+Guard: 8
+Poss: 4
+
+Guard: 10
+Poss: 3
+
+Guard: 104
+Poss: 1;
+
+Ability:
+Ability: 8
+Param1: 3
+Param2: 0
+
+Ability: 13
+Param1: -2
+Param2: 4
+
+Ability: 14
+Param1: 7
+Param2: 300;
+
+/40
+Name: Лавка знаний;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 483
+Encounter: 361
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 1
+SelfDestroy: 1
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 2
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 19
+Poss: 3
+
+Guard: 25
+Poss: 3
+
+Guard: 58
+Poss: 2
+
+Guard: 10
+Poss: 3
+
+Guard: 39
+Poss: 2
+
+Guard: 145
+Poss: 2
+
+Guard: 60
+Poss: 2
+
+Guard: 84
+Poss: 2;
+
+Ability:
+Ability: 8
+Param1: 3
+Param2: 0
+
+Ability: 13
+Param1: 10
+Param2: 4
+
+Ability: 14
+Param1: 9
+Param2: 300;
+
+/41
+Name: Арена;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 0
+Place: 1
+Event: 2
+Dialog: 440
+Encounter: 0
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 1
+SelfDestroy: 0
+
+Terrain:
+Plain: 3
+Forest: 1
+Hill: 2
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Guards:
+Guard: 0
+Poss: 1;
+
+Ability:
+Ability: 16
+Param1: 0
+Param2: 0;
+
+/42
+Name: Лабиринт;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 0
+Place: 1
+Event: 2
+Dialog: 381
+Encounter: 381
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 1
+SelfDestroy: 0
+
+Terrain:
+Plain: 3
+Forest: 1
+Hill: 2
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Guards:
+Guard: 0
+Poss: 1;
+
+Ability:
+Ability: 0
+Param1: 0
+Param2: 0;
+
+/43
+Name: Дерево фей;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 872
+Encounter: 401
+Treasure: 2
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 1
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 8
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 15
+Poss: 1;
+
+Ability:
+Ability: 5
+Param1: 16
+Param2: 0;
+
+/44
+Name: Гнёзда гарпий;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 874
+Encounter: 410
+Treasure: 2
+Coastal: 0
+WorkHide: 1
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 1
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 10
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 13
+Poss: 1;
+
+Ability:
+Ability: 5
+Param1: 14
+Param2: 0
+
+Ability: 4
+Param1: 586
+Param2: 80
+
+Ability: 6
+Param1: -10
+Param2: 0;
+
+/45
+Name: Логово троллей;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 878
+Encounter: 416
+Treasure: 2
+Coastal: 0
+WorkHide: 1
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 1
+SelfDestroy: 0
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 10
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 30
+Poss: 1;
+
+Ability:
+Ability: 8
+Param1: 2
+Param2: 0
+
+Ability: 5
+Param1: 20
+Param2: 0
+
+Ability: 4
+Param1: 584
+Param2: 80
+
+Ability: 4
+Param1: 877
+Param2: 80
+
+Ability: 6
+Param1: -20
+Param2: 0
+
+Ability: 7
+Param1: -2
+Param2: 0
+
+Ability: 17
+Param1: 419
+Param2: 0;
+
+/46
+Name: Засада разбойников;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 0
+Place: 2
+Event: 2
+Dialog: 440
+Encounter: 420
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 3
+Forest: 22
+Hill: 7
+Swamp: 12
+Desert: 6
+Tundra: 10
+
+Guards:
+Guard: 0
+Poss: 1;
+
+Ability:
+Ability: 0
+Param1: 0
+Param2: 0;
+
+/47
+Name: Тихий омут;
+MinLevel: 1
+MaxLevel: 12
+Guarded: 0
+Place: 2
+Event: 2
+Dialog: 440
+Encounter: 432
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 6
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 0
+Poss: 1;
+
+Ability:
+Ability: 0
+Param1: 0
+Param2: 0;
+
+/48
+Name: Кристалл;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 0
+Place: 1
+Event: 2
+Dialog: 381
+Encounter: 438
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 1
+SelfDestroy: 0
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 0
+Poss: 1;
+
+Ability:
+Ability: 18
+Param1: 1
+Param2: 0;
+
+/49
+Name: Древнее святилище;
+MinLevel: 1
+MaxLevel: 12
+Guarded: 100
+Place: 2
+Event: 2
+Dialog: 985
+Dialog2: 0
+Treasure: 2
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 1
+CanEnter: 0
+SelfDestroy: 0
+
+Terrain:
+Plain: 2
+Forest: 3
+Hill: 2
+Swamp: 4
+Desert: 3
+Tundra: 3
+
+Guards:
+Guard: 5
+Poss: 5
+
+Guard: 14
+Poss: 5
+
+Guard: 20
+Poss: 12
+
+Guard: 28
+Poss: 5
+
+Guard: 31
+Poss: 8
+
+Guard: 33
+Poss: 5
+
+Guard: 42
+Poss: 4
+
+Guard: 134
+Poss: 1
+
+Guard: 127
+Poss: 2
+
+Guard: 34
+Poss: 4
+
+Guard: 146
+Poss: 2
+
+Guard: 57
+Poss: 3
+
+Guard: 78
+Poss: 3
+
+Guard: 129
+Poss: 2
+
+Guard: 84
+Poss: 3
+
+Guard: 91
+Poss: 2
+
+Guard: 147
+Poss: 2
+
+Guard: 90
+Poss: 1
+
+Guard: 93
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18
+
+Ability: 19
+Param1: 1
+Param2: 0;
+
+/50
+Name: Гильдия воров;
+MinLevel: 1
+MaxLevel: 10
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 986
+Dialog2: 0
+Treasure: 1
+Coastal: 0
+WorkHide: 1
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 0
+
+Terrain:
+Plain: 6
+Forest: 5
+Hill: 4
+Swamp: 3
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 21
+Poss: 2;
+
+Ability:
+Ability: 6
+Param1: -30
+Param2: 0
+
+Ability: 4
+Param1: 723
+Param2: 60
+
+Ability: 4
+Param1: 745
+Param2: 20
+
+Ability: 20
+Param1: 10
+Param2: 0
+
+Ability: 17
+Param1: 459
+Param2: 0;
+
+/51
+Name: Гильдия воров;
+MinLevel: 1
+MaxLevel: 10
+Guarded: 0
+Place: 1
+Event: 2
+Dialog: 0
+Encounter: 1266
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 1
+CanEnter: 1
+SelfDestroy: 0
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 0
+Poss: 1;
+
+Ability:
+Ability: 2
+Param1: 5
+Param2: 0
+
+Ability: 19
+Param1: -1
+Param2: 0
+
+Ability: 4
+Param1: 723
+Param2: 60
+
+Ability: 4
+Param1: 745
+Param2: 30
+
+Ability: 20
+Param1: 10
+Param2: 0;
+
+/52
+Name: Избушка ведьмы;
+MinLevel: 0
+MaxLevel: 12
+Guarded: 0
+Place: 2
+Event: 2
+Dialog: 381
+Encounter: 462
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 1
+CanEnter: 0
+SelfDestroy: 0
+
+Terrain:
+Plain: 0
+Forest: 10
+Hill: 0
+Swamp: 10
+Desert: 0
+Tundra: 3
+
+Guards:
+Guard: 0
+Poss: 1;
+
+Ability:
+Ability: 2
+Param1: 0
+Param2: 2
+
+Ability: 19
+Param1: -1
+Param2: 0;
+
+/53
+Name: команду авантюристов;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 2
+Event: 2
+Dialog: 994
+Encounter: 469
+Treasure: 2
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 10
+Forest: 10
+Hill: 10
+Swamp: 10
+Desert: 6
+Tundra: 10
+
+Guards:
+Guard: 27
+Poss: 1;
+
+Ability:
+Ability: 21
+Param1: 995
+Param2: 0;
+
+/54
+Name: Поляна единорога;
+MinLevel: 0
+MaxLevel: 12
+Guarded: 0
+Place: 2
+Event: 2
+Dialog: 381
+Encounter: 475
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 13
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 3
+
+Guards:
+Guard: 0
+Poss: 1;
+
+Ability:
+Ability: 5
+Param1: 16
+Param2: 0;
+
+/55
+Name: Монастырь;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 2
+Event: 2
+Dialog: 1028
+Encounter: 487
+Treasure: 1
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 4
+Hill: 3
+Swamp: 4
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 20
+Poss: 3
+
+Guard: 91
+Poss: 1;
+
+Ability:
+Ability: 21
+Param1: 1027
+Param2: 0;
+
+/56
+Name: троллей;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 2
+Event: 2
+Dialog: 1056
+Encounter: 487
+Treasure: 3
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 11
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 30
+Poss: 1;
+
+Ability:
+Ability: 21
+Param1: 1055
+Param2: 0;
+
+/57
+Name: Хутор половинчиков;
+MinLevel: 1
+MaxLevel: 12
+Guarded: 0
+Place: 2
+Event: 2
+Dialog: 440
+Encounter: 495
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 1
+CanEnter: 0
+SelfDestroy: 0
+
+Terrain:
+Plain: 10
+Forest: 0
+Hill: 6
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 0
+Poss: 1;
+
+Ability:
+Ability: 2
+Param1: 3
+Param2: 0;
+
+/58
+Name: Хутор половинчиков;
+MinLevel: 1
+MaxLevel: 12
+Guarded: 0
+Place: 2
+Event: 2
+Dialog: 0
+Encounter: 0
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 1
+CanEnter: 0
+SelfDestroy: 0
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 0
+Poss: 1;
+
+Ability:
+Ability: 2
+Param1: 1
+Param2: 0;
+
+/59
+Name: Зачарованный омут;
+MinLevel: 1
+MaxLevel: 8
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 1373
+Dialog2: 0
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 120
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 4
+Poss: 1
+	
+Guard: 12
+Poss: 3
+
+Guard: 55
+Poss: 2
+
+Guard: 26
+Poss: 2
+
+Guard: 30
+Poss: 2
+
+Guard: 131
+Poss: 2
+
+Guard: 42
+Poss: 3
+
+Guard: 144
+Poss: 2
+
+Guard: 38
+Poss: 1
+
+Guard: 43
+Poss: 1
+
+Guard: 44
+Poss: 1
+
+Guard: 138
+Poss: 1
+
+Guard: 146
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 2
+Param2: 0;
+
+/60
+Name: торговца;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 2
+Event: 2
+Dialog: 1443
+Encounter: 664
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 4
+Forest: 5
+Hill: 4
+Swamp: 4
+Desert: 4
+Tundra: 4
+
+Guards:
+Guard: 50
+Poss: 1;
+
+Ability:
+Ability: 21
+Param1: 1442
+Param2: 0
+
+Ability: 22
+Param1: 1
+Param2: 0;
+
+/61
+Name: Тайная лощина;
+MinLevel: 0
+MaxLevel: 12
+Guarded: 0
+Place: 2
+Event: 2
+Dialog: 0
+Encounter: 688
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 1
+CanEnter: 0
+SelfDestroy: 0
+
+Terrain:
+Plain: 6
+Forest: 0
+Hill: 12
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 0
+Poss: 1;
+
+Ability:
+Ability: 2
+Param1: 0
+Param2: 2;
+
+/62
+Name: Плодородная долина;
+MinLevel: 0
+MaxLevel: 12
+Guarded: 0
+Place: 2
+Event: 2
+Dialog: 0
+Encounter: 688
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 1
+CanEnter: 0
+SelfDestroy: 0
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 0
+Poss: 1;
+
+Ability:
+Ability: 2
+Param1: 5
+Param2: 0;
+
+/63
+Name: Живописная долина;
+MinLevel: 0
+MaxLevel: 12
+Guarded: 0
+Place: 2
+Event: 2
+Dialog: 0
+Encounter: 688
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 1
+CanEnter: 0
+SelfDestroy: 0
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 0
+Poss: 1;
+
+Ability:
+Ability: 19
+Param1: 1
+Param2: 0
+
+Ability: 7
+Param1: 1
+Param2: 0;
+
+/64
+Name: Тайник Древних;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 2
+Event: 2
+Dialog: 1484
+Dialog2: 0
+Treasure: 3
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 1
+Forest: 3
+Hill: 2
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Guards:
+Guard: 51
+Poss: 5
+
+Guard: 56
+Poss: 1
+
+Guard: 105
+Poss: 2;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/65
+Name: Паучье гнездо;
+MinLevel: 0
+MaxLevel: 12
+Guarded: 0
+Place: 2
+Event: 2
+Dialog: 0
+Encounter: 692
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 5
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 0
+Poss: 1;
+
+Ability:
+Ability: 5
+Param1: 12
+Param2: 0;
+
+/66
+Name: Крепость ведьмаков;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 1702
+Encounter: 1004
+Treasure: 3
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 1
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 52
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18
+
+Ability: 7
+Param1: -1
+Param2: 0
+
+Ability: 19
+Param1: -1
+Param2: 0;
+
+/67
+Name: Военная школа;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 1707
+Encounter: 1013
+Treasure: 2
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 1
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 54
+Poss: 1;
+
+Ability:
+Ability: 0
+Param1: 0
+Param2: 0;
+
+/68
+Name: Врата Бездны;
+MinLevel: 1
+MaxLevel: 8
+Guarded: 100
+Place: 2
+Event: 2
+Dialog: 1711
+Encounter: 1015
+Treasure: 3
+Coastal: 0
+WorkHide: 1
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 1
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 133
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18
+
+Ability: 4
+Param1: 36
+Param2: 35
+
+Ability: 7
+Param1: -1
+Param2: 0
+
+Ability: 8
+Param1: 1
+Param2: 0
+
+Ability: 2
+Param1: 0
+Param2: 5;
+
+/69
+Name: Цитадель эльфов;
+MinLevel: 5
+MaxLevel: 8
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 1712
+Encounter: 1019
+Treasure: 4
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 1
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 8
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/70
+Name: Цитадель гномов;
+MinLevel: 5
+MaxLevel: 8
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 1714
+Encounter: 1021
+Treasure: 4
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 1
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 9
+Poss: 1
+
+Guard: 149
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/71
+Name: Цитадель орков;
+MinLevel: 5
+MaxLevel: 8
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 1716
+Encounter: 1023
+Treasure: 3
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 1
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 6
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/72
+Name: Цитадель ящеров;
+MinLevel: 5
+MaxLevel: 8
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 1718
+Encounter: 1025
+Treasure: 3
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 1
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 44
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/73
+Name: Цитадель кентавров;
+MinLevel: 5
+MaxLevel: 8
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 1720
+Encounter: 1027
+Treasure: 3
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 1
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 17
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/74
+Name: Цитадель гоблинов;
+MinLevel: 5
+MaxLevel: 8
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 1722
+Encounter: 1029
+Treasure: 3
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 1
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 4
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/75
+Name: Цитадель половинчиков;
+MinLevel: 5
+MaxLevel: 8
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 1724
+Encounter: 1031
+Treasure: 2
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 1
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 7
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/76
+Name: Святая обитель;
+MinLevel: 5
+MaxLevel: 8
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 1726
+Encounter: 1444
+Treasure: 3
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 1
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 64
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18
+
+Ability: 19
+Param1: -1
+Param2: 0;
+
+/77
+Name: Казино;
+MinLevel: 3
+MaxLevel: 8
+Guarded: 0
+Place: 1
+Event: 2
+Dialog: 1728
+Encounter: 1035
+Treasure: 2
+Coastal: 0
+WorkHide: 1
+WorkGuard: 1
+WorkFree: 1
+CanEnter: 1
+SelfDestroy: 0
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 0
+Poss: 1;
+
+Ability:
+Ability: 2
+Param1: 5
+Param2: 0
+
+Ability: 2
+Param1: 0
+Param2: 1
+
+Ability: 4
+Param1: 1677
+Param2: 20;
+
+/78
+Name: Игорный дом;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 0
+Place: 1
+Event: 2
+Dialog: 1743
+Encounter: 1066
+Treasure: 3
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 1
+SelfDestroy: 0
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 0
+Poss: 1;
+
+Ability:
+Ability: 2
+Param1: 10
+Param2: 0
+
+Ability: 2
+Param1: 0
+Param2: 2;
+
+/79
+Name: Цитадель альваров;
+MinLevel: 5
+MaxLevel: 8
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 1754
+Encounter: 1082
+Treasure: 4
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 1
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 58
+Poss: 1
+
+Guard: 60
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/80
+Name: Цитадель дроу;
+MinLevel: 5
+MaxLevel: 8
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 1756
+Encounter: 1084
+Treasure: 4
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 1
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 58
+Poss: 1
+
+Guard: 60
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/81
+Name: Старая шахта;
+MinLevel: 2
+MaxLevel: 4
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 1758
+Dialog2: 0
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 1
+CanEnter: 0
+SelfDestroy: 0
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 15
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 59
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18
+
+Ability: 2
+Param1: 1
+Param2: 0;
+
+/82
+Name: Бандитский схрон;
+MinLevel: 1
+MaxLevel: 4
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 1806
+Dialog2: 0
+Treasure: 1
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 63
+Poss: 1;
+
+Ability:
+Ability: 5
+Param1: 2
+Param2: 0;
+
+/83
+Name: Усыпальница;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 1832
+Dialog2: 0
+Treasure: 4
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 3
+Swamp: 2
+Desert: 6
+Tundra: 4
+
+Guards:
+Guard: 65
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18
+
+Ability: 4
+Param1: 727
+Param2: 10;
+
+/84
+Name: Оплот Света;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 1833
+Dialog2: 0
+Treasure: 4
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 2
+Forest: 1
+Hill: 2
+Swamp: 1
+Desert: 2
+Tundra: 1
+
+Guards:
+Guard: 66
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/85
+Name: Слияние Стихий;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 1834
+Dialog2: 0
+Treasure: 5
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 2
+Forest: 2
+Hill: 1
+Swamp: 1
+Desert: 2
+Tundra: 2
+
+Guards:
+Guard: 67
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/86
+Name: Алтарь Дракона;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 1835
+Dialog2: 0
+Treasure: 3
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 2
+Swamp: 1
+Desert: 2
+Tundra: 2
+
+Guards:
+Guard: 68
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/87
+Name: Мистическая башня;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 1836
+Dialog2: 0
+Treasure: 4
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 2
+Swamp: 2
+Desert: 2
+Tundra: 1
+
+Guards:
+Guard: 69
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/88
+Name: Чёрный замок;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 1838
+Dialog2: 0
+Treasure: 5
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 2
+Swamp: 2
+Desert: 1
+Tundra: 2
+
+Guards:
+Guard: 70
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18
+
+Ability: 4
+Param1: 727
+Param2: 10;
+
+/89
+Name: Твердыня Хаоса;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 1839
+Dialog2: 0
+Treasure: 5
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 2
+Forest: 1
+Hill: 2
+Swamp: 1
+Desert: 3
+Tundra: 2
+
+Guards:
+Guard: 71
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18
+
+Ability: 4
+Param1: 36
+Param2: 5;
+
+/90
+Name: Логово чудовищ;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 1903
+Dialog2: 0
+Treasure: -20
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Guards:
+Guard: 73
+Poss: 1;
+
+Ability:
+Ability: 17
+Param1: 1216
+Param2: 0;
+
+/91
+Name: Гномья крепость;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 1905
+Dialog2: 0
+Treasure: -20
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Guards:
+Guard: 74
+Poss: 1;
+
+Ability:
+Ability: 17
+Param1: 1217
+Param2: 0;
+
+/92
+Name: Логово Зверя;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 1907
+Dialog2: 0
+Treasure: -20
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Guards:
+Guard: 75
+Poss: 1;
+
+Ability:
+Ability: 17
+Param1: 1218
+Param2: 0;
+
+/93
+Name: Конклав;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 1909
+Dialog2: 0
+Treasure: -20
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Guards:
+Guard: 76
+Poss: 1;
+
+Ability:
+Ability: 17
+Param1: 1219
+Param2: 0;
+
+/94
+Name: Цитадель гноллов;
+MinLevel: 5
+MaxLevel: 8
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 1927
+Encounter: 1240
+Treasure: 3
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 1
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 78
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/95
+Name: Древние руины;
+MinLevel: 4
+MaxLevel: 7
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 19
+Dialog2: 0
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 5
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/96
+Name: Цитадель алкари;
+MinLevel: 5
+MaxLevel: 8
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 1988
+Encounter: 1275
+Treasure: 3
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 1
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 84
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/97
+Name: Старый особняк;
+MinLevel: 3
+MaxLevel: 10
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 2013
+Dialog2: 0
+Treasure: 2
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 10
+Forest: 10
+Hill: 10
+Swamp: 10
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 85
+Poss: 3
+
+Guard: 86
+Poss: 3
+
+Guard: 94
+Poss: 1
+
+Guard: 143
+Poss: 2;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/98
+Name: Логово оборотня;
+MinLevel: 3
+MaxLevel: 8
+Guarded: 0
+Place: 2
+Event: 2
+Dialog: 0
+Encounter: 1305
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 2
+Forest: 3
+Hill: 5
+Swamp: 1
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 0
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/99
+Name: Тёмная лощина;
+MinLevel: 1
+MaxLevel: 8
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 2040
+Dialog2: 0
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 10
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 88
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/100
+Name: Древние руины;
+MinLevel: 1
+MaxLevel: 8
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 2048
+Dialog2: 0
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 90
+Forest: 90
+Hill: 90
+Swamp: 90
+Desert: 90
+Tundra: 90
+
+Guards:
+Guard: 2
+Poss: 5
+
+Guard: 6
+Poss: 5
+
+Guard: 14
+Poss: 5
+
+Guard: 17
+Poss: 5
+
+Guard: 42
+Poss: 5
+
+Guard: 127
+Poss: 3
+
+Guard: 33
+Poss: 5
+
+Guard: 134
+Poss: 2
+
+Guard: 44
+Poss: 5
+
+Guard: 78
+Poss: 5
+
+Guard: 130
+Poss: 2;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/101
+Name: Развалины башни;
+MinLevel: 1
+MaxLevel: 8
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 2049
+Dialog2: 0
+Treasure: 1
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 90
+Forest: 90
+Hill: 90
+Swamp: 60
+Desert: 60
+Tundra: 60
+
+Guards:
+Guard: 4
+Poss: 5
+
+Guard: 14
+Poss: 4
+
+Guard: 24
+Poss: 4
+
+Guard: 28
+Poss: 4
+
+Guard: 39
+Poss: 4
+
+Guard: 134
+Poss: 1
+
+Guard: 127
+Poss: 3
+
+Guard: 84
+Poss: 3
+
+Guard: 81
+Poss: 2
+
+Guard: 90
+Poss: 2
+
+Guard: 93
+Poss: 2
+
+Guard: 130
+Poss: 1
+
+Guard: 140
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/102
+Name: Монолит;
+MinLevel: 1
+MaxLevel: 8
+Guarded: 100
+Place: 2
+Event: 2
+Dialog: 2050
+Dialog2: 0
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 1
+CanEnter: 0
+SelfDestroy: 0
+
+Terrain:
+Plain: 9
+Forest: 15
+Hill: 15
+Swamp: 25
+Desert: 15
+Tundra: 15
+
+Guards:
+Guard: 14
+Poss: 4
+
+Guard: 20
+Poss: 4
+
+Guard: 58
+Poss: 2
+
+Guard: 31
+Poss: 3
+
+Guard: 34
+Poss: 3
+
+Guard: 39
+Poss: 3
+
+Guard: 127
+Poss: 2
+
+Guard: 56
+Poss: 2
+
+Guard: 84
+Poss: 2
+
+Guard: 91
+Poss: 1;
+
+Ability:
+Ability: 2
+Param1: 0
+Param2: 2;
+
+/103
+Name: Древнее святилище;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 2
+Event: 2
+Dialog: 2051
+Dialog2: 0
+Treasure: 3
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 1
+CanEnter: 0
+SelfDestroy: 0
+
+Terrain:
+Plain: 1
+Forest: 2
+Hill: 1
+Swamp: 3
+Desert: 2
+Tundra: 2
+
+Guards:
+Guard: 45
+Poss: 1
+
+Guard: 46
+Poss: 1
+
+Guard: 47
+Poss: 1
+
+Guard: 48
+Poss: 1
+
+Guard: 96
+Poss: 1
+
+Guard: 97
+Poss: 1
+
+Guard: 98
+Poss: 1
+
+Guard: 99
+Poss: 1
+
+Guard: 135
+Poss: 1
+
+Guard: 128
+Poss: 1
+
+Guard: 89
+Poss: 1
+
+Guard: 136
+Poss: 1
+
+Guard: 92
+Poss: 1
+
+Guard: 56
+Poss: 1
+
+Guard: 93
+Poss: 1
+
+Guard: 137
+Poss: 1
+
+Guard: 105
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18
+
+Ability: 19
+Param1: 1
+Param2: 0;
+
+/104
+Name: Заброшенный храм;
+MinLevel: 4
+MaxLevel: 10
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 2052
+Dialog2: 0
+Treasure: 2
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 15
+Forest: 20
+Hill: 10
+Swamp: 15
+Desert: 25
+Tundra: 10
+
+Guards:
+Guard: 90
+Poss: 3
+
+Guard: 93
+Poss: 2
+
+Guard: 45
+Poss: 1
+
+Guard: 46
+Poss: 1
+
+Guard: 47
+Poss: 1
+
+Guard: 48
+Poss: 1
+
+Guard: 96
+Poss: 1
+
+Guard: 135
+Poss: 1
+
+Guard: 97
+Poss: 1
+
+Guard: 128
+Poss: 1
+
+Guard: 89
+Poss: 1
+
+Guard: 136
+Poss: 1
+
+Guard: 98
+Poss: 1
+
+Guard: 99
+Poss: 1
+
+Guard: 137
+Poss: 1
+
+Guard: 92
+Poss: 1
+
+Guard: 105
+Poss: 1
+
+Guard: 140
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/105
+Name: Гильдия наёмников;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 2053
+Dialog2: 0
+Treasure: 2
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 5
+Forest: 7
+Hill: 3
+Swamp: 5
+Desert: 8
+Tundra: 3
+
+Guards:
+Guard: 90
+Poss: 5
+
+Guard: 93
+Poss: 2
+
+Guard: 95
+Poss: 1;
+
+Ability:
+Ability: 8
+Param1: 2
+Param2: 0
+
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/106
+Name: Подземный грот;
+MinLevel: 4
+MaxLevel: 7
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 2081
+Dialog2: 0
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 8
+Forest: 6
+Hill: 17
+Swamp: 0
+Desert: 7
+Tundra: 10
+
+Guards:
+Guard: 100
+Poss: 2
+
+Guard: 102
+Poss: 2;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/107
+Name: Катакомбы;
+MinLevel: 5
+MaxLevel: 10
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 2082
+Dialog2: 0
+Treasure: 1
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 5
+Forest: 8
+Hill: 15
+Swamp: 9
+Desert: 10
+Tundra: 10
+
+Guards:
+Guard: 101
+Poss: 3
+
+Guard: 102
+Poss: 3
+
+Guard: 103
+Poss: 3
+
+Guard: 104
+Poss: 3
+
+Guard: 105
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/108
+Name: Старые стоки;
+MinLevel: 1
+MaxLevel: 8
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 2083
+Dialog2: 0
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 20
+Forest: 10
+Hill: 15
+Swamp: 10
+Desert: 5
+Tundra: 0
+
+Guards:
+Guard: 12
+Poss: 4
+
+Guard: 43
+Poss: 3
+
+Guard: 134
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18
+
+Ability: 4
+Param1: 1143
+Param2: 75;
+
+/109
+Name: Нора крысолюдов;
+MinLevel: 3
+MaxLevel: 8
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 2084
+Encounter: 1348
+Treasure: 1
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 1
+CanEnter: 1
+SelfDestroy: 0
+
+Terrain:
+Plain: 5
+Forest: 2
+Hill: 8
+Swamp: 3
+Desert: 6
+Tundra: 1
+
+Guards:
+Guard: 101
+Poss: 1
+
+Guard: 102
+Poss: 1
+
+Guard: 103
+Poss: 1
+
+Guard: 104
+Poss: 1;
+
+Ability:
+Ability: 6
+Param1: -10
+Param2: 0
+
+Ability: 19
+Param1: -1
+Param2: 0
+
+Ability: 17
+Param1: 1351
+Param2: 0;
+
+/110
+Name: Город крысолюдов;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 2087
+Dialog2: 0
+Treasure: 3
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 1
+Forest: 2
+Hill: 3
+Swamp: 2
+Desert: 1
+Tundra: 0
+
+Guards:
+Guard: 106
+Poss: 1
+
+Guard: 132
+Poss: 2;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/111
+Name: Канализация;
+MinLevel: 1
+MaxLevel: 8
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 2088
+Dialog2: 0
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 20
+Forest: 15
+Hill: 15
+Swamp: 15
+Desert: 5
+Tundra: 5
+
+Guards:
+Guard: 12
+Poss: 2
+
+Guard: 101
+Poss: 2
+
+Guard: 43
+Poss: 2
+
+Guard: 102
+Poss: 2
+
+Guard: 131
+Poss: 1
+
+Guard: 103
+Poss: 2
+
+Guard: 134
+Poss: 1
+
+Guard: 104
+Poss: 2;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18
+
+Ability: 4
+Param1: 1143
+Param2: 50;
+
+/112
+Name: Катакомбы;
+MinLevel: 1
+MaxLevel: 8
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 2089
+Dialog2: 0
+Treasure: 1
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 10
+Forest: 15
+Hill: 25
+Swamp: 15
+Desert: 20
+Tundra: 20
+
+Guards:
+Guard: 5
+Poss: 4
+
+Guard: 25
+Poss: 4
+
+Guard: 125
+Poss: 3
+
+Guard: 27
+Poss: 4
+
+Guard: 33
+Poss: 4
+
+Guard: 51
+Poss: 3
+
+Guard: 58
+Poss: 3
+
+Guard: 59
+Poss: 2
+
+Guard: 60
+Poss: 3
+
+Guard: 72
+Poss: 1
+
+Guard: 77
+Poss: 2
+
+Guard: 81
+Poss: 2
+
+Guard: 147
+Poss: 2
+
+Guard: 119
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/113
+Name: Цех бурильщиков;
+MinLevel: 5
+MaxLevel: 8
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 2100
+Encounter: 1352
+Treasure: 1
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 1
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 100
+Poss: 1
+
+Guard: 101
+Poss: 1
+
+Guard: 102
+Poss: 1
+
+Guard: 103
+Poss: 1
+
+Guard: 104
+Poss: 1;
+
+Ability:
+Ability: 6
+Param1: -50
+Param2: 0
+
+Ability: 19
+Param1: -2
+Param2: 0;
+
+/114
+Name: Храм Искателей;
+MinLevel: 5
+MaxLevel: 8
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 2102
+Encounter: 1354
+Treasure: 1
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 1
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 100
+Poss: 1
+
+Guard: 101
+Poss: 1
+
+Guard: 102
+Poss: 1
+
+Guard: 103
+Poss: 1
+
+Guard: 104
+Poss: 1;
+
+Ability:
+Ability: 6
+Param1: -50
+Param2: 0
+
+Ability: 19
+Param1: -2
+Param2: 0;
+
+/115
+Name: Башня Тьмы;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 2134
+Dialog2: 0
+Treasure: 4
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 1
+Forest: 2
+Hill: 2
+Swamp: 3
+Desert: 2
+Tundra: 1
+
+Guards:
+Guard: 120
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/116
+Name: Цитадель Даокона;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 2135
+Dialog2: 0
+Treasure: 3
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 4
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Guards:
+Guard: 121
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/117
+Name: Цитадель Ордена;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 2136
+Dialog2: 0
+Treasure: 4
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 3
+Forest: 2
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Guards:
+Guard: 122
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/118
+Name: Тёмная пещера;
+MinLevel: 1
+MaxLevel: 8
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 2137
+Dialog2: 0
+Treasure: 1
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 25
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 18
+Poss: 5
+
+Guard: 123
+Poss: 3
+
+Guard: 124
+Poss: 2
+
+Guard: 157
+Poss: 3
+
+Guard: 158
+Poss: 2
+
+Guard: 23
+Poss: 1
+
+Guard: 134
+Poss: 2
+
+Guard: 29
+Poss: 3
+
+Guard: 30
+Poss: 4
+
+Guard: 78
+Poss: 4
+
+Guard: 147
+Poss: 1
+
+Guard: 140
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/119
+Name: Рынок рабов;
+MinLevel: 3
+MaxLevel: 10
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 2162
+Dialog2: 0
+Treasure: 3
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 1
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 21
+Poss: 4
+
+Guard: 90
+Poss: 2
+
+Guard: 93
+Poss: 1;
+
+Ability:
+Ability: 8
+Param1: 2
+Param2: 0
+
+Ability: 2
+Param1: 8
+Param2: 0
+
+Ability: 7
+Param1: -3
+Param2: 0
+
+Ability: 19
+Param1: -2
+Param2: 0;
+
+/120
+Name: Старая крепость;
+MinLevel: 4
+MaxLevel: 10
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 2191
+Dialog2: 0
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 40
+Forest: 30
+Hill: 50
+Swamp: 10
+Desert: 20
+Tundra: 10
+
+Guards:
+Guard: 6
+Poss: 4
+
+Guard: 9
+Poss: 4
+
+Guard: 149
+Poss: 3
+
+Guard: 10
+Poss: 4
+
+Guard: 21
+Poss: 3
+
+Guard: 139
+Poss: 2
+
+Guard: 28
+Poss: 3
+
+Guard: 33
+Poss: 3
+
+Guard: 78
+Poss: 5
+
+Guard: 90
+Poss: 1
+
+Guard: 93
+Poss: 1
+
+Guard: 125
+Poss: 2
+
+Guard: 130
+Poss: 1
+
+Guard: 150
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/121
+Name: Сторожевая башня;
+MinLevel: 1
+MaxLevel: 8
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 2192
+Dialog2: 0
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 60
+Forest: 20
+Hill: 70
+Swamp: 30
+Desert: 50
+Tundra: 40
+
+Guards:
+Guard: 2
+Poss: 6
+
+Guard: 6
+Poss: 6
+
+Guard: 10
+Poss: 5
+
+Guard: 25
+Poss: 4
+
+Guard: 27
+Poss: 4
+
+Guard: 31
+Poss: 4
+
+Guard: 58
+Poss: 4
+
+Guard: 78
+Poss: 7
+
+Guard: 84
+Poss: 7
+
+Guard: 90
+Poss: 2
+
+Guard: 91
+Poss: 1
+
+Guard: 125
+Poss: 3
+
+Guard: 150
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/122
+Name: Проклятый храм;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 2199
+Dialog2: 0
+Treasure: 5
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 2
+Swamp: 2
+Desert: 2
+Tundra: 2
+
+Guards:
+Guard: 126
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/123
+Name: Алтарь Хаоса;
+MinLevel: 3
+MaxLevel: 8
+Guarded: 100
+Place: 2
+Event: 2
+Dialog: 2200
+Dialog2: 0
+Treasure: 1
+Coastal: 0
+WorkHide: 1
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 3
+Forest: 8
+Hill: 7
+Swamp: 10
+Desert: 5
+Tundra: 4
+
+Guards:
+Guard: 22
+Poss: 5
+
+Guard: 33
+Poss: 1
+
+Guard: 127
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18
+
+Ability: 7
+Param1: -1
+Param2: 0;
+
+/124
+Name: Город альваров;
+MinLevel: 3
+MaxLevel: 10
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 2201
+Dialog2: 0
+Treasure: 2
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 5
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 61
+Poss: 2
+
+Guard: 62
+Poss: 2
+
+Guard: 146
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/125
+Name: Идол;
+MinLevel: 1
+MaxLevel: 8
+Guarded: 100
+Place: 2
+Event: 2
+Dialog: 2202
+Dialog2: 0
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 10
+Forest: 15
+Hill: 15
+Swamp: 25
+Desert: 15
+Tundra: 15
+
+Guards:
+Guard: 3
+Poss: 2
+
+Guard: 4
+Poss: 2
+
+Guard: 6
+Poss: 2
+
+Guard: 19
+Poss: 3
+
+Guard: 25
+Poss: 3
+
+Guard: 26
+Poss: 3
+
+Guard: 145
+Poss: 2
+
+Guard: 33
+Poss: 4
+
+Guard: 58
+Poss: 3
+
+Guard: 129
+Poss: 3
+
+Guard: 57
+Poss: 3
+
+Guard: 103
+Poss: 3
+
+Guard: 125
+Poss: 5
+
+Guard: 130
+Poss: 2
+
+Guard: 147
+Poss: 2
+
+Guard: 146
+Poss: 1;
+
+Ability:
+Ability: 7
+Param1: -1
+Param2: 0;
+
+/126
+Name: Отряд инквизиции;
+MinLevel: 3
+MaxLevel: 8
+Guarded: 0
+Place: 2
+Event: 2
+Dialog: 440
+Encounter: 1385
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 5
+Forest: 10
+Hill: 7
+Swamp: 12
+Desert: 6
+Tundra: 7
+
+Guards:
+Guard: 0
+Poss: 1;
+
+Ability:
+Ability: 0
+Param1: 0
+Param2: 0;
+
+/127
+Name: Великие Врата;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 2
+Event: 2
+Dialog: 2234
+Dialog2: 0
+Treasure: 4
+Coastal: 0
+WorkHide: 1
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 133
+Poss: 1;
+
+Ability:
+Ability: 4
+Param1: 36
+Param2: 75
+
+Ability: 7
+Param1: -3
+Param2: 0
+
+Ability: 8
+Param1: 3
+Param2: 0;
+
+/128
+Name: Древняя чаща;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 2250
+Dialog2: 0
+Treasure: 3
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 2
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 148
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/129
+Name: Зиккурат;
+MinLevel: 4
+MaxLevel: 10
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 2252
+Dialog2: 0
+Treasure: 1
+Coastal: 0
+WorkHide: 1
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 3
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 78
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18
+
+Ability: 4
+Param1: 1346
+Param2: 30
+
+Ability: 5
+Param1: 26
+Param2: 0;
+
+
+/130
+Name: Башня магов;
+MinLevel: 1
+MaxLevel: 8
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 2274
+Dialog2: 0
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 19
+Poss: 13
+
+Guard: 125
+Poss: 7
+
+Guard: 25
+Poss: 4
+
+Guard: 145
+Poss: 8
+
+Guard: 60
+Poss: 2
+
+Guard: 26
+Poss: 4
+
+Guard: 146
+Poss: 5
+
+Guard: 33
+Poss: 3;
+
+Ability:
+Ability: 8
+Param1: 1
+Param2: 0
+
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/131
+Name: Бандитское логово;
+MinLevel: 0
+MaxLevel: 0
+Guarded: 100
+Place: 2
+Event: 2
+Dialog: 2276
+Dialog2: 0
+Treasure: 1
+Coastal: 0
+WorkHide: 1
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 21
+Poss: 1;
+
+Ability:
+Ability: 8
+Param1: 1
+Param2: 0
+
+Ability: 4
+Param1: 16
+Param2: 80
+
+Ability: 6
+Param1: -30
+Param2: 0
+
+Ability: 4
+Param1: 689
+Param2: 80;
+
+/132
+Name: Притон бандитов;
+MinLevel: 1
+MaxLevel: 4
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 2287
+Dialog2: 0
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 150
+Poss: 10
+
+Guard: 2
+Poss: 6
+
+Guard: 3
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 2
+
+Ability: 23
+Param1: 30
+Param2: -18
+
+Ability: 5
+Param1: 7
+Param2: 0;
+
+/133
+Name: Разорённое поселение;
+MinLevel: 0
+MaxLevel: 12
+Guarded: 0
+Place: 2
+Event: 2
+Dialog: 0
+Encounter: 1408
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 5
+Forest: 5
+Hill: 6
+Swamp: 8
+Desert: 3
+Tundra: 2
+
+Guards:
+Guard: 0
+Poss: 1;
+
+Ability:
+Ability: 0
+Param1: 0
+Param2: 0;
+
+/134
+Name: Заброшенный храм;
+MinLevel: 1
+MaxLevel: 8
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 2313
+Dialog2: 0
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 14
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/135
+Name: Древние руины;
+MinLevel: 1
+MaxLevel: 8
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 2314
+Dialog2: 0
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 33
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/136
+Name: Врата Хаоса;
+MinLevel: 4
+MaxLevel: 8
+Guarded: 100
+Place: 2
+Event: 2
+Dialog: 2315
+Dialog2: 0
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 133
+Poss: 1;
+
+Ability:
+Ability: 8
+Param1: 1
+Param2: 0
+
+Ability: 4
+Param1: 36
+Param2: 50
+
+Ability: 7
+Param1: -2
+Param2: 0;
+
+/137
+Name: Питомник тварей;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 2336
+Dialog2: 0
+Treasure: 2
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 1
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 26
+Poss: 1;
+
+Ability:
+Ability: 2
+Param1: 4
+Param2: 1
+
+Ability: 4
+Param1: 1787
+Param2: 80
+
+Ability: 7
+Param1: -2
+Param2: 0
+
+Ability: 8
+Param1: 3
+Param2: 0
+
+Ability: 19
+Param1: -1
+Param2: 0
+
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/138
+Name: Логово гидры;
+MinLevel: 1
+MaxLevel: 8
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 2337
+Dialog2: 0
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 38
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 2
+Param2: 0;
+
+/139
+Name: Мрачная деревня;
+MinLevel: 0
+MaxLevel: 12
+Guarded: 0
+Place: 2
+Event: 2
+Dialog: 0
+Encounter: 1420
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 4
+Forest: 4
+Hill: 3
+Swamp: 4
+Desert: 1
+Tundra: 1
+
+Guards:
+Guard: 0
+Poss: 1;
+
+Ability:
+Ability: 0
+Param1: 0
+Param2: 0;
+
+/140
+Name: Древний склеп;
+MinLevel: 5
+MaxLevel: 12
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 2348
+Dialog2: 0
+Treasure: 2
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 156
+Poss: 1;
+
+Ability:
+Ability: 19
+Param1: -1
+Param2: 0
+
+Ability: 6
+Param1: -50
+Param2: 0
+
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;
+
+/141
+Name: Древний склеп;
+MinLevel: 1
+MaxLevel: 8
+Guarded: 100
+Place: 1
+Event: 2
+Dialog: 2367
+Dialog2: 0
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 159
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18;

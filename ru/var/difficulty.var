@@ -1,0 +1,104 @@
+/0
+Name: Начинающий;
+Start gold: 1000
+Start gem: 100
+Gold income add: 15
+Gem income add: 5
+Population: 1100
+Exp mod: 70
+Loot mod: 110
+Neutral HP: 55
+Corruption start: 20
+Corruption max: 54
+Hero advice: 1
+Score: 25
+
+/1
+Name: Опытный;
+Start gold: 850
+Start gem: 85
+Gold income add: 10
+Gem income add: 3
+Population: 550
+Exp mod: 80
+Loot mod: 100
+Neutral HP: 70
+Corruption start: 18
+Corruption max: 60
+Hero advice: 1
+Score: 50
+
+/2
+Name: Знающий;
+Start gold: 700
+Start gem: 70
+Gold income add: 5
+Gem income add: 1
+Population: 110
+Exp mod: 90
+Loot mod: 90
+Neutral HP: 85
+Corruption start: 16
+Corruption max: 66
+Hero advice: 1
+Score: 75
+
+/3
+Name: Эксперт;
+Start gold: 600
+Start gem: 55
+Gold income add: 0
+Gem income add: 0
+Population: 10
+Exp mod: 100
+Loot mod: 80
+Neutral HP: 100
+Corruption start: 14
+Corruption max: 72
+Hero advice: 0
+Score: 100
+
+/4
+Name: Мастер;
+Start gold: 500
+Start gem: 40
+Gold income add: 0
+Gem income add: 0
+Population: 10
+Exp mod: 110
+Loot mod: 70
+Neutral HP: 115
+Corruption start: 12
+Corruption max: 78
+Hero advice: 0
+Score: 125
+
+/5
+Name: Повелитель;
+Start gold: 500
+Start gem: 30
+Gold income add: 0
+Gem income add: 0
+Population: 10
+Exp mod: 120
+Loot mod: 60
+Neutral HP: 130
+Corruption start: 10
+Corruption max: 84
+Hero advice: 0
+Score: 150
+
+/6
+Name: Властелин;
+Start gold: 500
+Start gem: 20
+Gold income add: 0
+Gem income add: 0
+Population: 10
+Exp mod: 130
+Loot mod: 50
+Neutral HP: 145
+Corruption start: 8
+Corruption max: 90
+Hero advice: 0
+Score: 175

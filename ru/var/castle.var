@@ -1,0 +1,3072 @@
+Quantity: 306
+
+/0 Фон
+Layer: 0
+Opacity: 0
+X: 0
+Y: 0
+Group: 0
+Yplace: 0
+Buildings: (0)
+Antibuildings: (0)
+
+/1 Усадьба
+Layer: 2
+Opacity: 0
+X: 199
+Y: 88
+Group: 0
+Yplace: 147
+Buildings: (-1)
+Antibuildings: (104)
+
+/2 Частокол
+Layer: 2
+Opacity: 0
+X: 0
+Y: 546
+Group: 0
+Yplace: 665
+Buildings: (39)
+Antibuildings: (104)
+
+/3 Жилые дома 1
+Layer: 2
+Opacity: 0
+X: 0
+Y: 256
+Group: 0
+Yplace: 315
+Buildings: (153, 126, 127, 128, 129, 130, 131, 154)
+Antibuildings: (0)
+
+/4 Жилой дом
+Layer: 2
+Opacity: 0
+X: 397
+Y: 366
+Group: 0
+Yplace: 410
+Buildings: (50)
+Antibuildings: (0)
+
+/5 Амбар
+Layer: 2
+Opacity: 0
+X: 6
+Y: 204
+Group: 0
+Yplace: 240
+Buildings: (4)
+Antibuildings: (32)
+
+/6 Рынок-пристройка
+Layer: 2
+Opacity: 0
+X: 43
+Y: 246
+Group: 0
+Yplace: 270
+Buildings: (32)
+Antibuildings: (0)
+
+/7 Мастерские
+Layer: 2
+Opacity: 0
+X: 285
+Y: 456
+Group: 0
+Yplace: 510
+Buildings: (1)
+Antibuildings: (27)
+
+/8 Мастерские-тень
+Layer: 1
+Opacity: 66
+X: 279
+Y: 466
+Group: 0
+Yplace: 510
+Buildings: (1)
+Antibuildings: (27)
+
+/9 Библиотека
+Layer: 2
+Opacity: 0
+X: 327
+Y: 206
+Group: 0
+Yplace: 250
+Buildings: (3)
+Antibuildings: (43)
+
+/10 Подложка магического квартала
+Layer: 1
+Opacity: 0
+X: 322
+Y: 186
+Group: 0
+Yplace: 270
+Buildings: (43)
+Antibuildings: (0)
+
+/11 Гильдия мудрецов
+Layer: 2
+Opacity: 0
+X: 327
+Y: 194
+Group: 0
+Yplace: 250
+Buildings: (43)
+Antibuildings: (103)
+
+/12 Кузница
+Layer: 2
+Opacity: 0
+X: 354
+Y: 436
+Group: 0
+Yplace: 505
+Buildings: (2)
+Antibuildings: (26)
+
+/13 Литейный цех
+Layer: 1
+Opacity: 0
+X: 353
+Y: 414
+Group: 0
+Yplace: 505
+Buildings: (26)
+Antibuildings: (0)
+
+/14 Дым маяка
+Layer: 2
+Opacity: 50
+X: 207
+Y: 588
+Group: 0
+Yplace: 763
+Buildings: (148)
+Antibuildings: (0)
+
+/15 Подложка военного квартала, 1й ранг
+Layer: 0
+Opacity: 0
+X: 252
+Y: 261
+Group: 0
+Yplace:  375
+Buildings: (7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18)
+Antibuildings: (0)
+
+/16 Вербовочный пункт
+Layer: 2
+Opacity: 0
+X: 26
+Y: 46
+Group: 1
+Yplace: 0
+Buildings: (7)
+Antibuildings: (61)
+
+/17 Казарма
+Layer: 2
+Opacity: 0
+X: 32
+Y: 46
+Group: 1
+Yplace: 0
+Buildings: (61)
+Antibuildings: (0)
+
+/18 Школа пращников
+Layer: 2
+Opacity: 0
+X: 27
+Y: 45
+Group: 1
+Yplace: 0
+Buildings: (8)
+Antibuildings: (67)
+
+/19 Дозорная башня
+Layer: 2
+Opacity: 0
+X: 27
+Y: 63
+Group: 1
+Yplace: 0
+Buildings: (67)
+Antibuildings: (0)
+
+/20 Школа копейщиков
+Layer: 2
+Opacity: 0
+X: 32
+Y: 55
+Group: 1
+Yplace: 0
+Buildings: (9)
+Antibuildings: (0)
+
+/21 Стрельбище
+Layer: 2
+Opacity: 0
+X: 29
+Y: 44
+Group: 1
+Yplace: 0
+Buildings: (10)
+Antibuildings: (63)
+
+/22 Лагерь охотников
+Layer: 2
+Opacity: 0
+X: 29
+Y: 58
+Group: 1
+Yplace: 0
+Buildings: (63)
+Antibuildings: (0)
+
+/23 Школа мечников
+Layer: 2
+Opacity: 0
+X: 27
+Y: 55
+Group: 1
+Yplace: 0
+Buildings: (11)
+Antibuildings: (0)
+
+/24 Школа пикинёров
+Layer: 2
+Opacity: 0
+X: 25
+Y: 49
+Group: 1
+Yplace: 0
+Buildings: (12)
+Antibuildings: (68)
+
+/25 Гильдия воинов
+Layer: 2
+Opacity: 0
+X: 27
+Y: 49
+Group: 1
+Yplace: 0
+Buildings: (68)
+Antibuildings: (0)
+
+/26 Школа арбалетчиков
+Layer: 2
+Opacity: 0
+X: 27
+Y: 49
+Group: 1
+Yplace: 0
+Buildings: (13)
+Antibuildings: (66)
+
+/27 Сторожевая башня
+Layer: 2
+Opacity: 0
+X: 27
+Y: 65
+Group: 1
+Yplace: 0
+Buildings: (66)
+Antibuildings: (0)
+
+/28 Братство Света
+Layer: 2
+Opacity: 0
+X: 36
+Y: 58
+Group: 1
+Yplace: 0
+Buildings: (14)
+Antibuildings: (69)
+
+/29 Аббатство
+Layer: 2
+Opacity: 0
+X: 37
+Y: 69
+Group: 1
+Yplace: 0
+Buildings: (69)
+Antibuildings: (0)
+
+/30 Лагерь варваров
+Layer: 2
+Opacity: 0
+X: 24
+Y: 50
+Group: 1
+Yplace: 0
+Buildings: (15)
+Antibuildings: (62)
+
+/31 Шатёр вождя
+Layer: 2
+Opacity: 0
+X: 26
+Y: 60
+Group: 1
+Yplace: 0
+Buildings: (62)
+Antibuildings: (0)
+
+/32 Воровской притон
+Layer: 2
+Opacity: 0
+X: 28
+Y: 48
+Group: 1
+Yplace: 0
+Buildings: (16)
+Antibuildings: (65)
+
+/33 Гильдия воров
+Layer: 2
+Opacity: 0
+X: 28
+Y: 48
+Group: 1
+Yplace: 0
+Buildings: (65)
+Antibuildings: (0)
+
+/34 Логово разбойников
+Layer: 2
+Opacity: 0
+X: 30
+Y: 43
+Group: 1
+Yplace: 0
+Buildings: (17)
+Antibuildings: (64)
+
+/35 Логово бандитов
+Layer: 2
+Opacity: 0
+X: 29
+Y: 43
+Group: 1
+Yplace: 0
+Buildings: (64)
+Antibuildings: (0)
+
+/36 Тотем
+Layer: 2
+Opacity: 0
+X: 21
+Y: 49
+Group: 1
+Yplace: 0
+Buildings: (18)
+Antibuildings: (0)
+
+/37 Оружейная
+Layer: 2
+Opacity: 0
+X: 327
+Y: 274
+Group: 0
+Yplace: 315
+Buildings: (37)
+Antibuildings: (48)
+
+/38 Тренировочные залы
+Layer: 2
+Opacity: 0
+X: 317
+Y: 275
+Group: 0
+Yplace: 315
+Buildings: (48)
+Antibuildings: (100)
+
+/39 Военная школа
+Layer: 2
+Opacity: 0
+X: 318
+Y: 251
+Group: 0
+Yplace: 310
+Buildings: (100)
+Antibuildings: (146)
+
+/40 Военная академия
+Layer: 2
+Opacity: 0
+X: 313
+Y: 252
+Group: 0
+Yplace: 315
+Buildings: (146)
+Antibuildings: (0)
+
+/41 Военный квартал, подложка, 3й ранг
+Layer: 1
+Opacity: 0
+X: 90
+Y: 304
+Group: 0
+Yplace: 380
+Buildings: (126, 127, 128, 129, 130, 131)
+Antibuildings: (0)
+
+/42 Волшебная роща
+Layer: 2
+Opacity: 0
+X: 186
+Y: 514
+Group: 0
+Yplace: 600
+Buildings: (57)
+Antibuildings: (94)
+
+/43 Стоунхендж
+Layer: 2
+Opacity: 0
+X: 160
+Y: 514
+Group: 0
+Yplace: 600
+Buildings: (94)
+Antibuildings: (152)
+
+/44 Оракул
+Layer: 2
+Opacity: 0
+X: 160
+Y: 514
+Group: 0
+Yplace: 600
+Buildings: (152)
+Antibuildings: (0)
+
+/45 Гильдия следопытов
+Layer: 2
+Opacity: 0
+X: 55
+Y: 555
+Group: 0
+Yplace: 640
+Buildings: (54)
+Antibuildings: (97)
+
+/46 Гильдия травников
+Layer: 2
+Opacity: 0
+X: 131
+Y: 483
+Group: 0
+Yplace: 548
+Buildings: (56)
+Antibuildings: (0)
+
+/47 Магический колодец
+Layer: 2
+Opacity: 0
+X: 173
+Y: 597
+Group: 0
+Yplace: 635
+Buildings: (95)
+Antibuildings: (116)
+
+/48 Сад кристаллов
+Layer: 2
+Opacity: 0
+X: 22
+Y: 482
+Group: 0
+Yplace: 535
+Buildings: (96)
+Antibuildings: (115)
+
+/49 Подложка под военный квартал, ранг 2
+Layer: 1
+Opacity: 0
+X: 351
+Y: 257
+Group: 0
+Yplace: 315
+Buildings: (71, 72, 73, 74, 75, 76, 77, 78, 79)
+Antibuildings: (0)
+
+/50 Гильдия плотников
+Layer: 2
+Opacity: 0
+X: 273
+Y: 451
+Group: 0
+Yplace: 512
+Buildings: (27)
+Antibuildings: (46)
+
+/51 Ремесленный цех
+Layer: 2
+Opacity: 0
+X: 273
+Y: 451
+Group: 0
+Yplace: 512
+Buildings: (46)
+Antibuildings: (101)
+
+/52 Ремесленный цех
+Layer: 2
+Opacity: 0
+X: 273
+Y: 443
+Group: 0
+Yplace: 512
+Buildings: (101)
+Antibuildings: (0)
+
+/53 Гильдия каменщиков
+Layer: 2
+Opacity: 0
+X: 301
+Y: 512
+Group: 0
+Yplace: 590
+Buildings: (28)
+Antibuildings: (41)
+
+/54 Гильдия строителей
+Layer: 2
+Opacity: 0
+X: 301
+Y: 502
+Group: 0
+Yplace: 590
+Buildings: (41)
+Antibuildings: (108)
+
+/55 Гильдия зодчих
+Layer: 2
+Opacity: 0
+X: 301
+Y: 502
+Group: 0
+Yplace: 590
+Buildings: (108)
+Antibuildings: (157)
+
+/56 Гильдия архитекторов
+Layer: 2
+Opacity: 0
+X: 287
+Y: 499
+Group: 0
+Yplace: 590
+Buildings: (157)
+Antibuildings: (0)
+
+/57 Гончарная мастерская
+Layer: 2
+Opacity: 0
+X: 373
+Y: 507
+Group: 0
+Yplace: 565
+Buildings: (36)
+Antibuildings: (47)
+
+/58 Пивоварня
+Layer: 2
+Opacity: 0
+X: 372
+Y: 505
+Group: 0
+Yplace: 565
+Buildings: (47)
+Antibuildings: (59)
+
+/59 Винокурня
+Layer: 2
+Opacity: 0
+X: 384
+Y: 503
+Group: 0
+Yplace: 565
+Buildings: (59)
+Antibuildings: (0)
+
+/60 Гильдия шахтёров
+Layer: 2
+Opacity: 0
+X: 425
+Y: 460
+Group: 0
+Yplace: 530
+Buildings: (29)
+Antibuildings: (55)
+
+/61 Гильдия геологов
+Layer: 2
+Opacity: 0
+X: 422
+Y: 459
+Group: 0
+Yplace: 530
+Buildings: (55)
+Antibuildings: (0)
+
+/62 Гильдия судостроителей
+Layer: 2
+Opacity: 0
+X: 188
+Y: 664
+Group: 0
+Yplace: 745
+Buildings: (52)
+Antibuildings: (111)
+
+/63 Гильдия мореходов
+Layer: 2
+Opacity: 0
+X: 100
+Y: 663 
+Group: 0
+Yplace: 760
+Buildings: (111)
+Antibuildings: (148)
+
+/64 Гильдия исследователей
+Layer: 2
+Opacity: 0
+X: 98
+Y: 596
+Group: 0
+Yplace: 760
+Buildings: (148)
+Antibuildings: (0)
+
+/65 Алтарь
+Layer: 2
+Opacity: 0
+X: 64
+Y: 407
+Group: 0
+Yplace: 455
+Buildings: (6)
+Antibuildings: (33)
+
+/66 Святая земля
+Layer: 1
+Opacity: 0
+X: 0
+Y: 376
+Group: 0
+Yplace: 480
+Buildings: (33)
+Antibuildings: (0)
+
+/67 Церковь
+Layer: 2
+Opacity: 0
+X: 88
+Y: 404
+Group: 0
+Yplace: 470
+Buildings: (33)
+Antibuildings: (60)
+
+/68 Храм Бессмертных
+Layer: 2
+Opacity: 0
+X: 85
+Y: 384
+Group: 0
+Yplace: 470
+Buildings: (60)
+Antibuildings: (154)
+
+/69 Собор Бессмертных
+Layer: 2
+Opacity: 0
+X: 86
+Y: 376
+Group: 0
+Yplace: 470
+Buildings: (154)
+Antibuildings: (0)
+
+/70 Лекарня
+Layer: 2
+Opacity: 0
+X: 214
+Y: 299
+Group: 0
+Yplace: 345
+Buildings: (49)
+Antibuildings: (106)
+
+/71 Аптека
+Layer: 2
+Opacity: 0
+X: 212
+Y: 299
+Group: 0
+Yplace: 345
+Buildings: (106)
+Antibuildings: (114)
+
+/72 Гильдия Целителей
+Layer: 2
+Opacity: 0
+X: 209
+Y: 287
+Group: 0
+Yplace: 345
+Buildings: (114)
+Antibuildings: (0)
+
+/73 Кристалл Силы
+Layer: 2
+Opacity: 0
+X: 96
+Y: 105
+Group: 0
+Yplace: 155
+Buildings: (34)
+Antibuildings: (102)
+
+/74 Кристалл Власти
+Layer: 2
+Opacity: 0
+X: 93
+Y: 99
+Group: 0
+Yplace: 155
+Buildings: (102)
+Antibuildings: (113)
+
+
+/75 Кристалл Могущества
+Layer: 2
+Opacity: 0
+X: 88
+Y: 88
+Group: 0
+Yplace: 155
+Buildings: (113)
+Antibuildings: (0)
+
+/76 Храм Мира
+Layer: 2
+Opacity: 0
+X: 5
+Y: 342
+Group: 0
+Yplace: 470
+Buildings: (162)
+Antibuildings: (0)
+
+/77 Храм Войны
+Layer: 2
+Opacity: 0
+X: 8
+Y: 338
+Group: 0
+Yplace: 470
+Buildings: (163)
+Antibuildings: (0)
+
+/78 Балаган
+Layer: 2
+Opacity: 0
+X: 239
+Y: 349
+Group: 0
+Yplace: 395
+Buildings: (30)
+Antibuildings: (156)
+
+/79 Театр
+Layer: 2
+Opacity: 0
+X: 173
+Y: 355
+Group: 0
+Yplace: 430
+Buildings: (44)
+Antibuildings: (156)
+
+/80 Бродячий цирк
+Layer: 2
+Opacity: 0
+X: 166
+Y: 346
+Group: 0
+Yplace: 435
+Buildings: (156)
+Antibuildings: (250)
+
+/81 Арена
+Layer: 2
+Opacity: 0
+X: 183
+Y: 437
+Group: 0
+Yplace: 490
+Buildings: (112)
+Antibuildings: (160)
+
+/82 Колизей
+Layer: 2
+Opacity: 0
+X: 163
+Y: 426
+Group: 0
+Yplace: 495
+Buildings: (160)
+Antibuildings: (0)
+
+/83 Ипподром
+Layer: 2
+Opacity: 0
+X: 270
+Y: 356
+Group: 0
+Yplace: 460
+Buildings: (124)
+Antibuildings: (0)
+
+/84 Гильдия лесников
+Layer: 2
+Opacity: 0
+X: 56
+Y: 588
+Group: 0
+Yplace: 640
+Buildings: (40)
+Antibuildings: (54)
+
+/85 Гильдия звероловов
+Layer: 2
+Opacity: 0
+X: 56
+Y: 552
+Group: 0
+Yplace: 640
+Buildings: (97)
+Antibuildings: (240)
+
+/86 Гильдия монстрологов
+Layer: 2
+Opacity: 0
+X: 55
+Y: 544
+Group: 0
+Yplace: 640
+Buildings: (155)
+Antibuildings: (0)
+
+/87 Источник Золота
+Layer: 2
+Opacity: 0
+X: 171
+Y: 596
+Group: 0
+Yplace: 635
+Buildings: (116)
+Antibuildings: (0)
+
+/88 Источник кристаллов
+Layer: 2
+Opacity: 0
+X: 22
+Y: 482
+Group: 0
+Yplace: 530
+Buildings: (115)
+Antibuildings: (0)
+
+/89 Центр, брусчатка
+Layer: 1
+Opacity: 0
+X: 241
+Y: 217
+Group: 0
+Yplace: 315
+Buildings: (50)
+Antibuildings: (0)
+
+/90 Центр, клумба
+Layer: 1
+Opacity: 0
+X: 172
+Y: 208
+Group: 0
+Yplace: 375
+Buildings: (99, 105)
+Antibuildings: (189)
+
+/91 Управа
+Layer: 2
+Opacity: 0
+X: 257
+Y: 225
+Group: 0
+Yplace: 290
+Buildings: (50)
+Antibuildings: (153)
+
+/92 Магистрат
+Layer: 2
+Opacity: 0
+X: 253
+Y: 221
+Group: 0
+Yplace: 300
+Buildings: (153)
+Antibuildings: (187)
+
+/93 Капитолий
+Layer: 2
+Opacity: 0
+X: 242
+Y: 221
+Group: 0
+Yplace: 305
+Buildings: (187)
+Antibuildings: (0)
+
+/94 Темница
+Layer: 2
+Opacity: 0
+X: 128
+Y: 200
+Group: 0
+Yplace: 250
+Buildings: (51)
+Antibuildings: (105)
+
+/95 Суд
+Layer: 2
+Opacity: 0
+X: 128
+Y: 200
+Group: 0
+Yplace: 250
+Buildings: (105)
+Antibuildings: (161)
+
+/96 Залы Правосудия
+Layer: 2
+Opacity: 0
+X: 127
+Y: 194
+Group: 0
+Yplace: 250
+Buildings: (161)
+Antibuildings: (0)
+
+/97 Сокровищница
+Layer: 2
+Opacity: 0
+X: 178
+Y: 199
+Group: 0
+Yplace: 225
+Buildings: (99)
+Antibuildings: (109)
+
+/98 Ростовщик
+Layer: 2
+Opacity: 0
+X: 177
+Y: 187
+Group: 0
+Yplace: 230
+Buildings: (109)
+Antibuildings: (151)
+
+/99 Банк
+Layer: 2
+Opacity: 0
+X: 169
+Y: 186
+Group: 0
+Yplace: 230
+Buildings: (151)
+Antibuildings: (0)
+
+/100 Фонтан Молодости
+Layer: 2
+Opacity: 0
+X: 172
+Y: 208
+Group: 0
+Yplace: 250
+Buildings: (189)
+Antibuildings: (0)
+
+/101 Дворец
+Layer: 2
+Opacity: 0
+X: 232
+Y: 162
+Group: 0
+Yplace: 230
+Buildings: (190)
+Antibuildings: (0)
+
+/102 Фермерский рынок
+Layer: 2
+Opacity: 0
+X: 0
+Y: 204
+Group: 0
+Yplace: 250
+Buildings: (32)
+Antibuildings: (42)
+
+/103 Базарная площадь
+Layer: 1
+Opacity: 0
+X: 8
+Y: 180
+Group: 0
+Yplace: 260
+Buildings: (42)
+Antibuildings: (0)
+
+/104 Базар
+Layer: 2
+Opacity: 0
+X: 0
+Y: 204
+Group: 0
+Yplace: 250
+Buildings: (42)
+Antibuildings: (58)
+
+/105 Гильдия торговцев
+Layer: 2
+Opacity: 0
+X: 0
+Y: 194
+Group: 0
+Yplace: 250
+Buildings: (58)
+Antibuildings: (98)
+
+/106 Торговая палата
+Layer: 2
+Opacity: 0
+X: 0
+Y: 194
+Group: 0
+Yplace: 250
+Buildings: (98)
+Antibuildings: (110)
+
+/107 Гильдия купцов
+Layer: 2
+Opacity: 0
+X: 0
+Y: 194
+Group: 0
+Yplace: 250
+Buildings: (110)
+Antibuildings: (0)
+
+/108 Конюшни
+Layer: 2
+Opacity: 0
+X: 52
+Y: 210
+Group: 0
+Yplace: 250
+Buildings: (25)
+Antibuildings: (38)
+
+/109 Гильдия возчиков
+Layer: 2
+Opacity: 0
+X: 52
+Y: 210
+Group: 0
+Yplace: 250
+Buildings: (38)
+Antibuildings: (0)
+
+/110 Таверна
+Layer: 2
+Opacity: 0
+X: 88
+Y: 210
+Group: 0
+Yplace: 250
+Buildings: (5)
+Antibuildings: (241)
+
+/111 Постоялый двор
+Layer: 2
+Opacity: 0
+X: 88
+Y: 201
+Group: 0
+Yplace: 250
+Buildings: (31)
+Antibuildings: (45)
+
+/112 Гостинный двор
+Layer: 2
+Opacity: 0
+X: 88
+Y: 195
+Group: 0
+Yplace: 250
+Buildings: (45)
+Antibuildings: (53)
+
+/113 Гильдия наёмников
+Layer: 2
+Opacity: 0
+X: 88
+Y: 194
+Group: 0
+Yplace: 250
+Buildings: (53)
+Antibuildings: (271)
+
+/114 Лавка ювелира
+Layer: 2
+Opacity: 0
+X: 15
+Y: 31
+Group: 6
+Yplace: 0
+Buildings: (86)
+Antibuildings: (138)
+
+/115 Умелец ювелир
+Layer: 2
+Opacity: 0
+X: 17
+Y: 37
+Group: 6
+Yplace: 0
+Buildings: (138)
+Antibuildings: (179)
+
+/116 Мастер ювелир
+Layer: 2
+Opacity: 0
+X: 19
+Y: 42
+Group: 6
+Yplace: 0
+Buildings: (179)
+Antibuildings: (244)
+
+/117 Рынок-флажки
+Layer: 2
+Opacity: 0
+X: 118
+Y: 183
+Group: 0
+Yplace: 220
+Buildings: (32)
+Antibuildings: (0)
+
+/118 Лавка кольчуг
+Layer: 2
+Opacity: 0
+X: 9
+Y: 27
+Group: 6
+Yplace: 0
+Buildings: (87)
+Antibuildings: (139)
+
+/119 Умелец кольчуг
+Layer: 2
+Opacity: 0
+X: 19
+Y: 36
+Group: 6
+Yplace: 0
+Buildings: (139)
+Antibuildings: (180)
+
+/120 Мастер кольчуг
+Layer: 2
+Opacity: 0
+X: 18
+Y: 43
+Group: 6
+Yplace: 0
+Buildings: (180)
+Antibuildings: (246)
+
+/121 Лавка лат
+Layer: 2
+Opacity: 0
+X: 13
+Y: 31
+Group: 6
+Yplace: 0
+Buildings: (88)
+Antibuildings: (140)
+
+/122 Умелец лат
+Layer: 2
+Opacity: 0
+X: 16
+Y: 37
+Group: 6
+Yplace: 0
+Buildings: (140)
+Antibuildings: (181)
+
+/123 Мастер лат
+Layer: 2
+Opacity: 0
+X: 19
+Y: 43
+Group: 6
+Yplace: 0
+Buildings: (181)
+Antibuildings: (247)
+
+/124 Лавка оружейника
+Layer: 2
+Opacity: 0
+X: 14
+Y: 22
+Group: 6
+Yplace: 0
+Buildings: (89)
+Antibuildings: (141)
+
+/125 Умелец оружейник
+Layer: 2
+Opacity: 0
+X: 15
+Y: 35
+Group: 6
+Yplace: 0
+Buildings: (141)
+Antibuildings: (182)
+
+/126 Мастер оружейник
+Layer: 2
+Opacity: 0
+X: 15
+Y: 43
+Group: 6
+Yplace: 0
+Buildings: (182)
+Antibuildings: (249)
+
+/127 Лавка плотника
+Layer: 2
+Opacity: 0
+X: 18
+Y: 34
+Group: 6
+Yplace: 0
+Buildings: (90)
+Antibuildings: (142)
+
+/128 Умелец плотник
+Layer: 2
+Opacity: 0
+X: 18
+Y: 34
+Group: 6
+Yplace: 0
+Buildings: (142)
+Antibuildings: (183)
+
+/129 Мастер плотник
+Layer: 2
+Opacity: 0
+X: 18
+Y: 39
+Group: 6
+Yplace: 0
+Buildings: (183)
+Antibuildings: (242)
+
+/130 Лавка скорняка
+Layer: 2
+Opacity: 0
+X: 14
+Y: 22
+Group: 6
+Yplace: 0
+Buildings: (91)
+Antibuildings: (143)
+
+/131 Умелец скорняк
+Layer: 2
+Opacity: 0
+X: 19
+Y: 29
+Group: 6
+Yplace: 0
+Buildings: (143)
+Antibuildings: (184)
+
+/132 Мастер скорняк
+Layer: 2
+Opacity: 0
+X: 19
+Y: 32
+Group: 6
+Yplace: 0
+Buildings: (184)
+Antibuildings: (245)
+
+/133 Лавка портного
+Layer: 2
+Opacity: 0
+X: 14
+Y: 22
+Group: 6
+Yplace: 0
+Buildings: (92)
+Antibuildings: (144)
+
+/134 Умелец портной
+Layer: 2
+Opacity: 0
+X: 14
+Y: 27
+Group: 6
+Yplace: 0
+Buildings: (144)
+Antibuildings: (185)
+
+/135 Мастер портной
+Layer: 2
+Opacity: 0
+X: 16
+Y: 33
+Group: 6
+Yplace: 0
+Buildings: (185)
+Antibuildings: (248)
+
+/136 Лавка чародея
+Layer: 2
+Opacity: 0
+X: 16
+Y: 27
+Group: 6
+Yplace: 0
+Buildings: (93)
+Antibuildings: (145)
+
+/137 Умелец чародей
+Layer: 2
+Opacity: 0
+X: 18
+Y: 54
+Group: 6
+Yplace: 0
+Buildings: (145)
+Antibuildings: (186)
+
+/138 Мастер чародей
+Layer: 2
+Opacity: 0
+X: 22
+Y: 59
+Group: 6
+Yplace: 0
+Buildings: (186)
+Antibuildings: (243)
+
+/139 Система дорог
+Layer: 1
+Opacity: 0
+X: 0
+Y: 188
+Group: 0
+Yplace: 0
+Buildings: (147)
+Antibuildings: (0)
+
+/140 Цитадель
+Layer: 2
+Opacity: 0
+X: 182
+Y: 60
+Group: 0
+Yplace: 180
+Buildings: (104)
+Antibuildings: (149)
+
+/141 Замок
+Layer: 2
+Opacity: 0
+X: 181
+Y: 40
+Group: 0
+Yplace: 180
+Buildings: (149)
+Antibuildings: (0)
+
+/142 Каменная стена
+Layer: 2
+Opacity: 0
+X: 0
+Y: 542
+Group: 0
+Yplace: 700
+Buildings: (104)
+Antibuildings: (149)
+
+/143 Крепостная стена
+Layer: 2
+Opacity: 0
+X: 0
+Y: 535
+Group: 0
+Yplace: 700
+Buildings: (149)
+Antibuildings: (0)
+
+/144 Подложка таверны и конюшни
+Layer: 1
+Opacity: 0
+X: 57
+Y: 211
+Group: 0
+Yplace: 1
+Buildings: (5, 25, 51)
+Antibuildings: (0)
+
+/145 Монастырь
+Layer: 2
+Opacity: 0
+X: 37
+Y: 45
+Group: 2
+Yplace: 0
+Buildings: (71)
+Antibuildings: (122)
+
+/146 Тайный Монастырь
+Layer: 2
+Opacity: 0
+X: 37
+Y: 45
+Group: 2
+Yplace: 0
+Buildings: (122)
+Antibuildings: (0)
+
+/147 Казармы гвардейцев
+Layer: 2
+Opacity: 0
+X: 39
+Y: 36
+Group: 2
+Yplace: 0
+Buildings: (72)
+Antibuildings: (120)
+
+/148 Офицерское училище
+Layer: 2
+Opacity: 0
+X: 45
+Y: 46
+Group: 2
+Yplace: 0
+Buildings: (120)
+Antibuildings: (0)
+
+/149 Стойла пегасов
+Layer: 2
+Opacity: 0
+X: 36
+Y: 41
+Group: 2
+Yplace: 0
+Buildings: (73)
+Antibuildings: (0)
+
+/150 Осадные Мастерские
+Layer: 2
+Opacity: 0
+X: 29
+Y: 41
+Group: 2
+Yplace: 0
+Buildings: (74)
+Antibuildings: (0)
+
+/151 Манеж
+Layer: 2
+Opacity: 0
+X: 25
+Y: 39
+Group: 2
+Yplace: 0
+Buildings: (75)
+Antibuildings: (121)
+
+/152 Лагерь Кочевников
+Layer: 2
+Opacity: 0
+X: 28
+Y: 48
+Group: 2
+Yplace: 0
+Buildings: (121)
+Antibuildings: (0)
+
+/153 Ристалище
+Layer: 2
+Opacity: 0
+X: 28
+Y: 36
+Group: 2
+Yplace: 0
+Buildings: (76)
+Antibuildings: (125)
+
+/154 Кавалерийские казармы
+Layer: 2
+Opacity: 0
+X: 30
+Y: 52
+Group: 2
+Yplace: 0
+Buildings: (125)
+Antibuildings: (0)
+
+/155 Бойцовские бараки
+Layer: 2
+Opacity: 0
+X: 29
+Y: 45
+Group: 2
+Yplace: 0
+Buildings: (77)
+Antibuildings: (118)
+
+/156 Бандитский клан
+Layer: 2
+Opacity: 0
+X: 33
+Y: 45
+Group: 2
+Yplace: 0
+Buildings: (118)
+Antibuildings: (0)
+
+/157 Круг колдунов
+Layer: 2
+Opacity: 0
+X: 24
+Y: 36
+Group: 2
+Yplace: 0
+Buildings: (78)
+Antibuildings: (123)
+
+/158 Черная башня
+Layer: 2
+Opacity: 0
+X: 26
+Y: 69
+Group: 2
+Yplace: 0
+Buildings: (123)
+Antibuildings: (0)
+
+/159 Гильдия убийц
+Layer: 2
+Opacity: 0
+X: 28
+Y: 39
+Group: 2
+Yplace: 0
+Buildings: (79)
+Antibuildings: (117)
+
+/160 Теневая гильдия
+Layer: 2
+Opacity: 0
+X: 30
+Y: 51
+Group: 2
+Yplace: 0
+Buildings: (117)
+Antibuildings: (119)
+
+/161 Братство Ночи
+Layer: 2
+Opacity: 0
+X: 29
+Y: 56
+Group: 2
+Yplace: 0
+Buildings: (119)
+Antibuildings: (0)
+
+/162 Рыцарский орден
+Layer: 2
+Opacity: 0
+X: 33
+Y: 57
+Group: 3
+Yplace: 0
+Buildings: (126)
+Antibuildings: (166)
+
+/163 Замок белого щита
+Layer: 2
+Opacity: 0
+X: 36
+Y: 66
+Group: 3
+Yplace: 0
+Buildings: (166)
+Antibuildings: (0)
+
+/164 Храм Орла
+Layer: 2
+Opacity: 0
+X: 35
+Y: 69
+Group: 3
+Yplace: 0
+Buildings: (127)
+Antibuildings: (169)
+
+/165 Собор Великого Орла
+Layer: 2
+Opacity: 0
+X: 39
+Y: 67
+Group: 3
+Yplace: 0
+Buildings: (169)
+Antibuildings: (0)
+
+/166 Осадный цех
+Layer: 2
+Opacity: 0
+X: 27
+Y: 56
+Group: 3
+Yplace: 0
+Buildings: (128)
+Antibuildings: (165)
+
+/167 Гильдия механиков
+Layer: 2
+Opacity: 0
+X: 31
+Y: 56
+Group: 3
+Yplace: 0
+Buildings: (165)
+Antibuildings: (0)
+
+/168 Гнёзда грифонов
+Layer: 2
+Opacity: 0
+X: 27
+Y: 54
+Group: 3
+Yplace: 0
+Buildings: (129)
+Antibuildings: (167)
+
+/169 Небесный храм
+Layer: 2
+Opacity: 0
+X: 34
+Y: 76
+Group: 3
+Yplace: 0
+Buildings: (167)
+Antibuildings: (0)
+
+/170 Башня магов
+Layer: 2
+Opacity: 0
+X: 32
+Y: 72
+Group: 3
+Yplace: 0
+Buildings: (130)
+Antibuildings: (168)
+
+/171 Башня Ночи
+Layer: 2
+Opacity: 0
+X: 36
+Y: 74
+Group: 3
+Yplace: 0
+Buildings: (168)
+Antibuildings: (0)
+
+/172 Пыточная
+Layer: 2
+Opacity: 0
+X: 32
+Y: 59
+Group: 3
+Yplace: 0
+Buildings: (131)
+Antibuildings: (164)
+
+/173 Эшафот
+Layer: 2
+Opacity: 0
+X: 39
+Y: 70
+Group: 3
+Yplace: 0
+Buildings: (164)
+Antibuildings: (0)
+
+/174 Священный орден
+Layer: 2
+Opacity: 0
+X: 150
+Y: 210
+Group: 0
+Yplace: 0
+Buildings: (170)
+Antibuildings: (0)
+
+/175 Слоновник
+Layer: 2
+Opacity: 0
+X: 155
+Y: 219
+Group: 0
+Yplace: 0
+Buildings: (171)
+Antibuildings: (0)
+
+/176 Замок Тьмы
+Layer: 2
+Opacity: 0
+X: 153
+Y: 219
+Group: 0
+Yplace: 0
+Buildings: (172)
+Antibuildings: (0)
+
+/177 Военный квартал, подложка 4-й ранг
+Layer: 1
+Opacity: 0
+X: 101
+Y: 239
+Group: 0
+Yplace: 300
+Buildings: (170, 171, 172, 105, 153)
+Antibuildings: (0)
+
+/178 Гильдия алхимиков
+Layer: 2
+Opacity: 0
+X: 327
+Y: 194
+Group: 0
+Yplace: 250
+Buildings: (103)
+Antibuildings: (107)
+
+/179 Тайная библиотека
+Layer: 2
+Opacity: 0
+X: 327
+Y: 190
+Group: 0
+Yplace: 250
+Buildings: (107)
+Antibuildings: (159)
+
+/180 Башня знаний
+Layer: 2
+Opacity: 0
+X: 327
+Y: 172
+Group: 0
+Yplace: 250
+Buildings: (159)
+Antibuildings: (251)
+
+/181 Мастерская колдуна
+Layer: 2
+Opacity: 0
+X: 371
+Y: 215
+Group: 0
+Yplace: 0
+Buildings: (35)
+Antibuildings: (150)
+
+/182 Рынок артефактов
+Layer: 2
+Opacity: 0
+X: 371
+Y: 200
+Group: 0
+Yplace: 260
+Buildings: (150)
+Antibuildings: (158)
+
+/183 Мастер артефактов
+Layer: 2
+Opacity: 0
+X: 371
+Y: 192
+Group: 0
+Yplace: 260
+Buildings: (158)
+Antibuildings: (188)
+
+/184 Башня артефактов
+Layer: 2
+Opacity: 0
+X: 367
+Y: 184
+Group: 0
+Yplace: 260
+Buildings: (188)
+Antibuildings: (239)
+
+/185 Школа Волшебства
+Layer: 2
+Opacity: 0
+X: 21
+Y: 56
+Group: 5
+Yplace: 0
+Buildings: (19)
+Antibuildings: (80)
+
+/186 Гильдия магов
+Layer: 2
+Opacity: 0
+X: 22
+Y: 62
+Group: 5
+Yplace: 0
+Buildings: (80)
+Antibuildings: (134)
+
+/187 Школа Высшей магии
+Layer: 2
+Opacity: 0
+X: 25
+Y: 65
+Group: 5
+Yplace: 0
+Buildings: (134)
+Antibuildings: (177)
+
+/188 Тайная гильдия
+Layer: 2
+Opacity: 0
+X: 28
+Y: 69
+Group: 5
+Yplace: 0
+Buildings: (177)
+Antibuildings: (237)
+
+/189 Сфера Ветров
+Layer: 2
+Opacity: 0
+X: 15
+Y: 52
+Group: 5
+Yplace: 0
+Buildings: (20)
+Antibuildings: (83)
+
+/190 Сфера Камня
+Layer: 2
+Opacity: 0
+X: 28
+Y: 46
+Group: 5
+Yplace: 0
+Buildings: (83)
+Antibuildings: (132)
+
+/191 Сфера Льда
+Layer: 2
+Opacity: 0
+X: 27
+Y: 46
+Group: 5
+Yplace: 0
+Buildings: (132)
+Antibuildings: (175)
+
+/192 Сфера Пламени
+Layer: 2
+Opacity: 0
+X: 28
+Y: 69
+Group: 5
+Yplace: 0
+Buildings: (175)
+Antibuildings: (236)
+
+/193 Святилище
+Layer: 2
+Opacity: 0
+X: 10
+Y: 37
+Group: 5
+Yplace: 0
+Buildings: (21)
+Antibuildings: (85)
+
+/194 Храм Жизни
+Layer: 2
+Opacity: 0
+X: 15
+Y: 44
+Group: 5
+Yplace: 0
+Buildings: (85)
+Antibuildings: (135)
+
+/195 Башня Воскрешения
+Layer: 2
+Opacity: 0
+X: 14
+Y: 60
+Group: 5
+Yplace: 0
+Buildings: (135)
+Antibuildings: (173)
+
+/196 Собор Света
+Layer: 2
+Opacity: 0
+X: 14
+Y: 71
+Group: 5
+Yplace: 0
+Buildings: (173)
+Antibuildings: (234)
+
+/197 Школа некромантии
+Layer: 2
+Opacity: 0
+X: 14
+Y: 35
+Group: 5
+Yplace: 0
+Buildings: (22)
+Antibuildings: (70)
+
+/198 Беспокойное кладбище
+Layer: 2
+Opacity: 0
+X: 27
+Y: 36
+Group: 5
+Yplace: 0
+Buildings: (70)
+Antibuildings: (82)
+
+/199 Гильдия Некромантов
+Layer: 2
+Opacity: 0
+X: 27
+Y: 44
+Group: 5
+Yplace: 0
+Buildings: (82)
+Antibuildings: (137)
+
+/200 Башня Некромантов
+Layer: 2
+Opacity: 0
+X: 28
+Y: 52
+Group: 5
+Yplace: 0
+Buildings: (137)
+Antibuildings: (262)
+
+/201 Некрополь
+Layer: 2
+Opacity: 0
+X: 26
+Y: 52
+Group: 5
+Yplace: 0
+Buildings: (174)
+Antibuildings: (212)
+
+/202 Школа колдовства
+Layer: 2
+Opacity: 0
+X: 26
+Y: 62
+Group: 5
+Yplace: 0
+Buildings: (23)
+Antibuildings: (81)
+
+/203 Гильдия иллюзионистов
+Layer: 2
+Opacity: 0
+X: 26
+Y: 69
+Group: 5
+Yplace: 0
+Buildings: (81)
+Antibuildings: (136)
+
+/204 Башня Гипноза
+Layer: 2
+Opacity: 0
+X: 26
+Y: 80
+Group: 5
+Yplace: 0
+Buildings: (136)
+Antibuildings: (178)
+
+/205 Пси-Монолит
+Layer: 2
+Opacity: 0
+X: 39
+Y: 91
+Group: 5
+Yplace: 0
+Buildings: (178)
+Antibuildings: (238)
+
+/206 Алтарь Хаоса
+Layer: 2
+Opacity: 0
+X: 7
+Y: 25
+Group: 5
+Yplace: 0
+Buildings: (24)
+Antibuildings: (84)
+
+/207 Храм Хаоса
+Layer: 2
+Opacity: 0
+X: 19
+Y: 44
+Group: 5
+Yplace: 0
+Buildings: (84)
+Antibuildings: (133)
+
+/208 Башня Хаоса
+Layer: 2
+Opacity: 0
+X: 18
+Y: 61
+Group: 5
+Yplace: 0
+Buildings: (133)
+Antibuildings: (176)
+
+/209 Врата Хаоса
+Layer: 2
+Opacity: 0
+X: 19
+Y: 61
+Group: 5
+Yplace: 0
+Buildings: (176)
+Antibuildings: (0)
+
+/210 Врата Хаоса-сияние
+Layer: 2
+Opacity: 30
+X: 30
+Y: 30
+Group: 5
+Yplace: 0
+Buildings: (176)
+Antibuildings: (235)
+
+/211 Эльфийский квартал
+Layer: 2
+Opacity: 0
+X: 391
+Y: 591
+Group: 0
+Yplace: 710
+Buildings: (191)
+Antibuildings: (213)
+
+/212 Эльфийская пуща
+Layer: 2
+Opacity: 0
+X: 353
+Y: 603
+Group: 0
+Yplace: 720
+Buildings: (192)
+Antibuildings: (214)
+
+/213 Эльфийский театр
+Layer: 2
+Opacity: 0
+X: 417
+Y: 680
+Group: 0
+Yplace: 750
+Buildings: (193)
+Antibuildings: (0)
+
+/214 Гномий квартал
+Layer: 2
+Opacity: 0
+X: 401
+Y: 602
+Group: 0
+Yplace: 710
+Buildings: (194)
+Antibuildings: (216)
+
+/215 Гильдия горняков
+Layer: 2
+Opacity: 0
+X: 356
+Y: 630
+Group: 0
+Yplace: 720
+Buildings: (195)
+Antibuildings: (217)
+
+/216 Гномья кузня
+Layer: 2
+Opacity: 0
+X: 379
+Y: 686
+Group: 0
+Yplace: 750
+Buildings: (196)
+Antibuildings: (284)
+
+/217 Гоблинский квартал
+Layer: 2
+Opacity: 0
+X: 398
+Y: 609
+Group: 0
+Yplace: 710
+Buildings: (197)
+Antibuildings: (219)
+
+/218 Грязь
+Layer: 2
+Opacity: 0
+X: 360
+Y: 619
+Group: 0
+Yplace: 720
+Buildings: (198)
+Antibuildings: (220)
+
+/219 Мастерские гоблинов
+Layer: 2
+Opacity: 0
+X: 395
+Y: 697
+Group: 0
+Yplace: 750
+Buildings: (199)
+Antibuildings: (0)
+
+/220 Орочий квартал
+Layer: 2
+Opacity: 0
+X: 407
+Y: 608
+Group: 0
+Yplace: 720
+Buildings: (200)
+Antibuildings: (222)
+
+/221 Каменный идол
+Layer: 2
+Opacity: 0
+X: 357
+Y: 614
+Group: 0
+Yplace: 710
+Buildings: (201)
+Antibuildings: (223)
+
+/222 Знамя Орды
+Layer: 2
+Opacity: 0
+X: 404
+Y: 676
+Group: 0
+Yplace: 750
+Buildings: (202)
+Antibuildings: (0)
+
+/223 Квартал полуросликов
+Layer: 2
+Opacity: 0
+X: 393
+Y: 602
+Group: 0
+Yplace: 720
+Buildings: (203)
+Antibuildings: (225)
+
+/224 Рынок полуросликов
+Layer: 2
+Opacity: 0
+X: 352
+Y: 616
+Group: 0
+Yplace: 710
+Buildings: (204)
+Antibuildings: (226)
+
+/225 Ярмарка
+Layer: 2
+Opacity: 0
+X: 394
+Y: 691
+Group: 0
+Yplace: 760
+Buildings: (205)
+Antibuildings: (0)
+
+/226 Шатры кентавров
+Layer: 2
+Opacity: 0
+X: 361
+Y: 600
+Group: 0
+Yplace: 720
+Buildings: (206)
+Antibuildings: (228)
+
+/227 Священный огонь
+Layer: 2
+Opacity: 0
+X: 409
+Y: 647
+Group: 0
+Yplace: 710
+Buildings: (207)
+Antibuildings: (229)
+
+/228 Шатёр Клана
+Layer: 2
+Opacity: 0
+X: 391
+Y: 687
+Group: 0
+Yplace: 750
+Buildings: (208)
+Antibuildings: (0)
+
+/229 Квартал ящеров
+Layer: 2
+Opacity: 0
+X: 347
+Y: 588
+Group: 0
+Yplace: 740
+Buildings: (209)
+Antibuildings: (231)
+
+/230 Костяной тотем
+Layer: 2
+Opacity: 0
+X: 358
+Y: 662
+Group: 0
+Yplace: 750
+Buildings: (210)
+Antibuildings: (232)
+
+/231 Омут
+Layer: 2
+Opacity: 0
+X: 409
+Y: 672
+Group: 0
+Yplace: 745
+Buildings: (211)
+Antibuildings: (0)
+
+/232 Святилище Тьмы
+Layer: 2
+Opacity: 0
+X: 26
+Y: 52
+Group: 5
+Yplace: 0
+Buildings: (212)
+Antibuildings: (0)
+
+/233 Эльфийский гарнизон
+Layer: 2
+Opacity: 0
+X: 391
+Y: 591
+Group: 0
+Yplace: 710
+Buildings: (213)
+Antibuildings: (215)
+
+/234 Эльфийская роща
+Layer: 2
+Opacity: 0
+X: 353
+Y: 603
+Group: 0
+Yplace: 720
+Buildings: (192)
+Antibuildings: (0)
+
+/235 Великое Дерево
+Layer: 2
+Opacity: 0
+X: 391
+Y: 591
+Group: 0
+Yplace: 710
+Buildings: (215)
+Antibuildings: (0)
+
+/236 Мастерская рун
+Layer: 2
+Opacity: 0
+X: 401
+Y: 602
+Group: 0
+Yplace: 710
+Buildings: (216)
+Antibuildings: (218)
+
+/237 Залы мастеров
+Layer: 2
+Opacity: 0
+X: 356
+Y: 630
+Group: 0
+Yplace: 720
+Buildings: (217)
+Antibuildings: (0)
+
+/238 Великий чертог
+Layer: 2
+Opacity: 0
+X: 401
+Y: 602
+Group: 0
+Yplace: 710
+Buildings: (218)
+Antibuildings: (0)
+
+/239 Лачуги гоблинов
+Layer: 2
+Opacity: 0
+X: 398
+Y: 609
+Group: 0
+Yplace: 710
+Buildings: (219)
+Antibuildings: (221)
+
+/240 Топь
+Layer: 2
+Opacity: 0
+X: 360
+Y: 619
+Group: 0
+Yplace: 720
+Buildings: (220)
+Antibuildings: (0)
+
+/241 Палаты чародеев
+Layer: 2
+Opacity: 0
+X: 398
+Y: 609
+Group: 0
+Yplace: 710
+Buildings: (221)
+Antibuildings: (0)
+
+/242 Казармы орков
+Layer: 2
+Opacity: 0
+X: 407
+Y: 608
+Group: 0
+Yplace: 720
+Buildings: (222)
+Antibuildings: (224)
+
+/243 Каменный истукан
+Layer: 2
+Opacity: 0
+X: 357
+Y: 614
+Group: 0
+Yplace: 710
+Buildings: (223)
+Antibuildings: (0)
+
+/244 Военный лагерь
+Layer: 2
+Opacity: 0
+X: 407
+Y: 608
+Group: 0
+Yplace: 720
+Buildings: (224)
+Antibuildings: (0)
+
+/245 Пригород полуросликов
+Layer: 2
+Opacity: 0
+X: 393
+Y: 602
+Group: 0
+Yplace: 720
+Buildings: (225)
+Antibuildings: (0)
+
+/246 Торжок полуросликов
+Layer: 2
+Opacity: 0
+X: 352
+Y: 616
+Group: 0
+Yplace: 710
+Buildings: (226)
+Antibuildings: (0)
+
+/247 Великая кузня
+Layer: 2
+Opacity: 0
+X: 379
+Y: 686
+Group: 0
+Yplace: 750
+Buildings: (227)
+Antibuildings: (0)
+
+/248 Лагерь кентавров
+Layer: 2
+Opacity: 0
+X: 361
+Y: 600
+Group: 0
+Yplace: 720
+Buildings: (228)
+Antibuildings: (230)
+
+/249 Священное пламя
+Layer: 2
+Opacity: 0
+X: 409
+Y: 647
+Group: 0
+Yplace: 710
+Buildings: (229)
+Antibuildings: (0)
+
+/250 Стойбище кентавров
+Layer: 2
+Opacity: 0
+X: 361
+Y: 600
+Group: 0
+Yplace: 720
+Buildings: (230)
+Antibuildings: (0)
+
+/251 Вечный Источник
+Layer: 2
+Opacity: 0
+X: 347
+Y: 588
+Group: 0
+Yplace: 740
+Buildings: (231)
+Antibuildings: (233)
+
+/252 Костяной идол
+Layer: 2
+Opacity: 0
+X: 358
+Y: 662
+Group: 0
+Yplace: 750
+Buildings: (232)
+Antibuildings: (0)
+
+/253 Храм Силы
+Layer: 2
+Opacity: 0
+X: 347
+Y: 588
+Group: 0
+Yplace: 740
+Buildings: (233)
+Antibuildings: (0)
+
+/254 Пресветлые чертоги
+Layer: 2
+Opacity: 0
+X: 14
+Y: 71
+Group: 5
+Yplace: 0
+Buildings: (234)
+Antibuildings: (0)
+
+/255 Сердце Бездны-сияние
+Layer: 2
+Opacity: 40
+X: 30
+Y: 30
+Group: 5
+Yplace: 0
+Buildings: (235)
+Antibuildings: (0)
+
+/256 Алтарь Первоэлементов
+Layer: 2
+Opacity: 0
+X: 28
+Y: 69
+Group: 5
+Yplace: 0
+Buildings: (236)
+Antibuildings: (0)
+
+/257 Академия Волшебства
+Layer: 2
+Opacity: 0
+X: 28
+Y: 89
+Group: 5
+Yplace: 0
+Buildings: (237)
+Antibuildings: (0)
+
+/258 Замок псионов
+Layer: 2
+Opacity: 0
+X: 39
+Y: 91
+Group: 5
+Yplace: 0
+Buildings: (238)
+Antibuildings: (0)
+
+/259 Реликварий
+Layer: 2
+Opacity: 0
+X: 367
+Y: 184
+Group: 0
+Yplace: 260
+Buildings: (239)
+Antibuildings: (0)
+
+/260 Гильдия трапперов
+Layer: 2
+Opacity: 0
+X: 56
+Y: 552
+Group: 0
+Yplace: 640
+Buildings: (240)
+Antibuildings: (263)
+
+/261 Игральня
+Layer: 2
+Opacity: 0
+X: 88
+Y: 210
+Group: 0
+Yplace: 250
+Buildings: (241)
+Antibuildings: (31)
+
+/262 Великий плотник
+Layer: 2
+Opacity: 0
+X: 18
+Y: 39
+Group: 6
+Yplace: 0
+Buildings: (242)
+Antibuildings: (0)
+
+/263 Великий чародей
+Layer: 2
+Opacity: 0
+X: 22
+Y: 59
+Group: 6
+Yplace: 0
+Buildings: (243)
+Antibuildings: (0)
+
+/264 Великий ювелир
+Layer: 2
+Opacity: 0
+X: 19
+Y: 42
+Group: 6
+Yplace: 0
+Buildings: (244)
+Antibuildings: (0)
+
+/265 Великий скорняк
+Layer: 2
+Opacity: 0
+X: 19
+Y: 32
+Group: 6
+Yplace: 0
+Buildings: (245)
+Antibuildings: (0)
+
+/266 Великий кольчужник
+Layer: 2
+Opacity: 0
+X: 18
+Y: 43
+Group: 6
+Yplace: 0
+Buildings: (246)
+Antibuildings: (0)
+
+/267 Великий бронник
+Layer: 2
+Opacity: 0
+X: 19
+Y: 43
+Group: 6
+Yplace: 0
+Buildings: (247)
+Antibuildings: (0)
+
+/268 Великий портной
+Layer: 2
+Opacity: 0
+X: 16
+Y: 33
+Group: 6
+Yplace: 0
+Buildings: (248)
+Antibuildings: (0)
+
+/269 Великий оружейник
+Layer: 2
+Opacity: 0
+X: 15
+Y: 43
+Group: 6
+Yplace: 0
+Buildings: (249)
+Antibuildings: (0)
+
+/270 Игорный дом
+Layer: 2
+Opacity: 0
+X: 166
+Y: 346
+Group: 0
+Yplace: 435
+Buildings: (250)
+Antibuildings: (0)
+
+/271 Квартал альваров подложка
+Layer: 2
+Opacity: 75
+X: 347
+Y: 587
+Group: 0
+Yplace: 710
+Buildings: (251)
+Antibuildings: (0)
+
+/272 Клетки кобольдов
+Layer: 2
+Opacity: 0
+X: 432
+Y: 596
+Group: 0
+Yplace: 740
+Buildings: (251)
+Antibuildings: (252)
+
+/273 Гильдия рабовладельцев
+Layer: 2
+Opacity: 0
+X: 432
+Y: 596
+Group: 0
+Yplace: 740
+Buildings: (252)
+Antibuildings: (0)
+
+/274 Военная школа альваров
+Layer: 2
+Opacity: 0
+X: 442
+Y: 693
+Group: 0
+Yplace: 750
+Buildings: (253)
+Antibuildings: (260)
+
+/275 Лагерь разведчиков
+Layer: 2
+Opacity: 0
+X: 357
+Y: 585
+Group: 0
+Yplace: 720
+Buildings: (254)
+Antibuildings: (256)
+
+/276 Тёмный путь
+Layer: 2
+Opacity: 0
+X: 347
+Y: 665
+Group: 0
+Yplace: 760
+Buildings: (255)
+Antibuildings: (261)
+
+/277 Крепость охотников
+Layer: 2
+Opacity: 0
+X: 357
+Y: 585
+Group: 0
+Yplace: 720
+Buildings: (256)
+Antibuildings: (0)
+
+/278 Храм Тени
+Layer: 2
+Opacity: 0
+X: 371
+Y: 668
+Group: 0
+Yplace: 750
+Buildings: (257)
+Antibuildings: (258)
+
+/279 Башня Тени
+Layer: 2
+Opacity: 0
+X: 371
+Y: 668
+Group: 0
+Yplace: 750
+Buildings: (258)
+Antibuildings: (259)
+
+/280 Цитадель Тени
+Layer: 2
+Opacity: 0
+X: 371
+Y: 668
+Group: 0
+Yplace: 750
+Buildings: (259)
+Antibuildings: (0)
+
+/281 Академия Тьмы
+Layer: 2
+Opacity: 0
+X: 442
+Y: 693
+Group: 0
+Yplace: 750
+Buildings: (260)
+Antibuildings: (0)
+
+/282 Сердце Ночи
+Layer: 2
+Opacity: 0
+X: 347
+Y: 665
+Group: 0
+Yplace: 760
+Buildings: (261)
+Antibuildings: (0)
+
+/283 Сердце Ночи тень
+Layer: 2
+Opacity: 50
+X: 347
+Y: 665
+Group: 0
+Yplace: 740
+Buildings: (261)
+Antibuildings: (0)
+
+/284 Алтарь Смерти
+Layer: 2
+Opacity: 0
+X: 28
+Y: 52
+Group: 5
+Yplace: 0
+Buildings: (262)
+Antibuildings: (174)
+
+/285 Гильдия дрессировщиков
+Layer: 2
+Opacity: 0
+X: 56
+Y: 552
+Group: 0
+Yplace: 640
+Buildings: (263)
+Antibuildings: (155)
+
+/286 Квартал гноллов
+Layer: 2
+Opacity: 0
+X: 404
+Y: 666
+Group: 0
+Yplace: 760
+Buildings: (264)
+Antibuildings: (265)
+
+/287 Пирамида гноллов
+Layer: 2
+Opacity: 0
+X: 404
+Y: 666
+Group: 0
+Yplace: 760
+Buildings: (265)
+Antibuildings: (268)
+
+/288 Шатёр охотников
+Layer: 2
+Opacity: 0
+X: 348
+Y: 602
+Group: 0
+Yplace: 740
+Buildings: (266)
+Antibuildings: (0)
+
+/289 Рабский барак
+Layer: 2
+Opacity: 0
+X: 417
+Y: 601
+Group: 0
+Yplace: 720
+Buildings: (267)
+Antibuildings: (0)
+
+/290 Великая пирамида
+Layer: 2
+Opacity: 0
+X: 392
+Y: 666
+Group: 0
+Yplace: 760
+Buildings: (268)
+Antibuildings: (0)
+
+/291 Сумеречное братство
+Layer: 2
+Opacity: 0
+X: 273
+Y: 332
+Group: 0
+Yplace: 460
+Buildings: (269)
+Antibuildings: (0)
+
+/292 Орден Воинов Храма
+Layer: 2
+Opacity: 0
+X: 286
+Y: 319
+Group: 0
+Yplace: 460
+Buildings: (270)
+Antibuildings: (0)
+
+/293 Гильдия бойцов
+Layer: 2
+Opacity: 0
+X: 88
+Y: 187
+Group: 0
+Yplace: 250
+Buildings: (271)
+Antibuildings: (0)
+
+/294 Квартал алкари
+Layer: 2
+Opacity: 0
+X: 368
+Y: 591
+Group: 0
+Yplace: 710
+Buildings: (272)
+Antibuildings: (273)
+
+/295 Белая башня
+Layer: 2
+Opacity: 0
+X: 368
+Y: 591
+Group: 0
+Yplace: 710
+Buildings: (273)
+Antibuildings: (277)
+
+/296 Небесное око
+Layer: 2
+Opacity: 0
+X: 449
+Y: 610
+Group: 0
+Yplace: 720
+Buildings: (274)
+Antibuildings: (276)
+
+/297 Кристальные столпы
+Layer: 2
+Opacity: 0
+X: 407
+Y: 680
+Group: 0
+Yplace: 750
+Buildings: (275)
+Antibuildings: (0)
+
+/298 Менторий
+Layer: 2
+Opacity: 0
+X: 449
+Y: 610
+Group: 0
+Yplace: 720
+Buildings: (276)
+Antibuildings: (0)
+
+/299 Сияющий шпиль
+Layer: 2
+Opacity: 0
+X: 368
+Y: 591
+Group: 0
+Yplace: 710
+Buildings: (277)
+Antibuildings: (0)
+
+/300 Цех туннелепроходчиков
+Layer: 2
+Opacity: 0
+X: 359
+Y: 623
+Group: 0
+Yplace: 720
+Buildings: (278)
+Antibuildings: (0)
+
+/301 Храм клана Искателей
+Layer: 2
+Opacity: 0
+X: 366
+Y: 604
+Group: 0
+Yplace: 720
+Buildings: (279)
+Antibuildings: (0)
+
+/302 Фабрика клана Скрежет
+Layer: 2
+Opacity: 0
+X: 438
+Y: 606
+Group: 0
+Yplace: 710
+Buildings: (280)
+Antibuildings: (0)
+
+/303 Фабрика чумы
+Layer: 2
+Opacity: 0
+X: 443
+Y: 599
+Group: 0
+Yplace: 710
+Buildings: (281)
+Antibuildings: (0)
+
+/304 Лаборатория Искателей
+Layer: 2
+Opacity: 0
+X: 383
+Y: 690
+Group: 0
+Yplace: 760
+Buildings: (282)
+Antibuildings: (0)
+
+/305 Алтарь Великого Крысса
+Layer: 2
+Opacity: 0
+X: 431
+Y: 690
+Group: 0
+Yplace: 740
+Buildings: (283)
+Antibuildings: (0)
+
+/306 Игорный дом - огонь
+Layer: 2
+Opacity: 50
+X: 166
+Y: 346
+Group: 0
+Yplace: 435
+Buildings: (250)
+Antibuildings: (0)

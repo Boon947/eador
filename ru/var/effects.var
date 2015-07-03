@@ -1,0 +1,1273 @@
+Quantity: 211
+
+/0
+Name: Пусто;
+Ability: 0
+Spell: 0
+Numeric: 0
+
+/1
+Name: Боевое безумие;
+Ability: 25
+Spell: 0
+Numeric: 1
+
+/2
+Name: Отравлен;
+Ability: 41
+Spell: 0
+Numeric: 1
+
+/3
+Name: Сглажен;
+Ability: 43
+Spell: 0
+Numeric: 0
+
+/4
+Name: Броня повреждена;
+Ability: 45
+Spell: 0
+Numeric: 0
+
+/5
+Name: Окаменел;
+Ability: 46
+Spell: 0
+Numeric: 0
+
+/6
+Name: Запутан в паутине;
+Ability: 47
+Spell: 18
+Numeric: 0
+
+/7
+Name: Травмирован;
+Ability: 51
+Spell: 0
+Numeric: 0
+
+/8
+Name: Оружие повреждено;
+Ability: 52
+Spell: 0
+Numeric: 0
+
+/9
+Name: Оплетён корнями;
+Ability: 67
+Spell: 0
+Numeric: 0
+
+/10
+Name: Понижена защита;
+Ability: 69
+Spell: 0
+Numeric: 0
+
+/11
+Name: Отравлен;
+Ability: 78
+Spell: 0
+Numeric: 1
+
+/12
+Name: Волшебная броня;
+Ability: 0
+Spell: 5
+Numeric: 0
+
+/13
+Name: Волшебное оружие;
+Ability: 0
+Spell: 6
+Numeric: 0
+
+/14
+Name: Замедление;
+Ability: 0
+Spell: 7
+Numeric: 0
+
+/15
+Name: Ускорение;
+Ability: 0
+Spell: 8
+Numeric: 0
+
+/16
+Name: Воздушный щит;
+Ability: 0
+Spell: 9
+Numeric: 0
+
+/17
+Name: Проклятие;
+Ability: 0
+Spell: 10
+Numeric: 0
+
+/18
+Name: Благословение;
+Ability: 0
+Spell: 11
+Numeric: 0
+
+/19
+Name: Астральная энергия;
+Ability: 0
+Spell: 17
+Numeric: 0
+
+/20
+Name: Уязвимость;
+Ability: 0
+Spell: 21
+Numeric: 0
+
+/21
+Name: Огненный клинок;
+Ability: 0
+Spell: 24
+Numeric: 0
+
+/22
+Name: Фантомная форма;
+Ability: 0
+Spell: 25
+Numeric: 0
+
+/23
+Name: Сон;
+Ability: 0
+Spell: 26
+Numeric: 0
+
+/24
+Name: Галлюцинации;
+Ability: 0
+Spell: 27
+Numeric: 0
+
+/25
+Name: Вампиризм;
+Ability: 0
+Spell: 29
+Numeric: 0
+
+/26
+Name: Болезнь;
+Ability: 0
+Spell: 30
+Numeric: 0
+
+/27
+Name: Камнекожа;
+Ability: 0
+Spell: 33
+Numeric: 0
+
+/28
+Name: Слепота;
+Ability: 0
+Spell: 36
+Numeric: 0
+
+/29
+Name: Слово Жизни;
+Ability: 0
+Spell: 39
+Numeric: 0
+
+/30
+Name: Слово Льда;
+Ability: 0
+Spell: 40
+Numeric: 0
+
+/31
+Name: Кислота;
+Ability: 0
+Spell: 41
+Numeric: 0
+
+/32
+Name: Замедление;
+Ability: 0
+Spell: 42
+Numeric: 0
+
+/33
+Name: Тёмный Пакт;
+Ability: 0
+Spell: 43
+Numeric: 0
+
+/34
+Name: Антимагия;
+Ability: 0
+Spell: 47
+Numeric: 0
+
+/35
+Name: Магическая защита;
+Ability: 0
+Spell: 50
+Numeric: 0
+
+/36
+Name: Слово Власти;
+Ability: 0
+Spell: 52
+Numeric: 0
+
+/37
+Name: Ускорение;
+Ability: 0
+Spell: 53
+Numeric: 0
+
+/38
+Name: Магическая атака;
+Ability: 0
+Spell: 54
+Numeric: 0
+
+/39
+Name: Проклятие;
+Ability: 0
+Spell: 56
+Numeric: 0
+
+/40
+Name: Реинкарнация;
+Ability: 0
+Spell: 59
+Numeric: 0
+
+/41
+Name: Неуязвимость;
+Ability: 0
+Spell: 60
+Numeric: 0
+
+/42
+Name: Чума;
+Ability: 0
+Spell: 62
+Numeric: 0
+
+/43
+Name: Порча;
+Ability: 0
+Spell: 69
+Numeric: 0
+
+/44
+Name: Форма Дракона;
+Ability: 0
+Spell: 71
+Numeric: 0
+
+/45
+Name: Полиморф;
+Ability: 0
+Spell: 72
+Numeric: 0
+
+/46
+Name: Ментальный раб;
+Ability: 0
+Spell: 74
+Numeric: 0
+
+/47
+Name: Сон;
+Ability: 0
+Spell: 75
+Numeric: 0
+
+/48
+Name: Регенерация нежити;
+Ability: 0
+Spell: 81
+Numeric: 0
+
+/49
+Name: Зловонное облако;
+Ability: 0
+Spell: 82
+Numeric: 0
+
+/50
+Name: Контроль разума;
+Ability: 0
+Spell: 84
+Numeric: 0
+
+/51
+Name: Подчинение;
+Ability: 0
+Spell: 89
+Numeric: 0
+
+/52
+Name: Волшебный щит;
+Ability: 0
+Spell: 93
+Numeric: 0
+
+/53
+Name: Рой ос;
+Ability: 0
+Spell: 94
+Numeric: 0
+
+/54
+Name: Туча ос;
+Ability: 0
+Spell: 95
+Numeric: 0
+
+/55
+Name: Руна власти;
+Ability: 0
+Spell: 102
+Numeric: 0
+
+/56
+Name: Руна восстановления;
+Ability: 0
+Spell: 99
+Numeric: 0
+
+/57
+Name: Касание вампира;
+Ability: 0
+Spell: 104
+Numeric: 0
+
+/58
+Name: Могучее оружие;
+Ability: 0
+Spell: 105
+Numeric: 0
+
+/59
+Name: Ярость;
+Ability: 0
+Spell: 107
+Numeric: 0
+
+/60
+Name: Общая ярость;
+Ability: 0
+Spell: 109
+Numeric: 0
+
+/61
+Name: Ярость орды;
+Ability: 0
+Spell: 110
+Numeric: 0
+
+/62
+Name: Трясина;
+Ability: 0
+Spell: 112
+Numeric: 0
+
+/63
+Name: Ослабление;
+Ability: 0
+Spell: 113
+Numeric: 0
+
+/64
+Name: Разрушение брони;
+Ability: 0
+Spell: 114
+Numeric: 0
+
+/65
+Name: Чума;
+Ability: 0
+Spell: 115
+Numeric: 0
+
+/66
+Name: Слово Силы - проклятье;
+Ability: 0
+Spell: 117
+Numeric: 0
+
+/67
+Name: Слово Силы - удержание;
+Ability: 0
+Spell: 118
+Numeric: 0
+
+/68
+Name: Слово Силы - боль;
+Ability: 0
+Spell: 119
+Numeric: 0
+
+/69
+Name: Ледяное сердце;
+Ability: 0
+Spell: 121
+Numeric: 0
+
+/70
+Name: Заморозка;
+Ability: 0
+Spell: 122
+Numeric: 0
+
+/71
+Name: Бронебойный выстрел;
+Ability: 0
+Spell: 124
+Numeric: 0
+
+/72
+Name: Густой туман;
+Ability: 0
+Spell: 125
+Numeric: 0
+
+/73
+Name: Двойной выстрел;
+Ability: 0
+Spell: 126
+Numeric: 0
+
+/74
+Name: Ярость предков;
+Ability: 0
+Spell: 128
+Numeric: 0
+
+/75
+Name: Щит предков;
+Ability: 0
+Spell: 129
+Numeric: 0
+
+/76
+Name: Исступление;
+Ability: 0
+Spell: 133
+Numeric: 0
+
+/77
+Name: Кровавая ярость;
+Ability: 0
+Spell: 134
+Numeric: 0
+
+/78
+Name: Силок;
+Ability: 0
+Spell: 135
+Numeric: 0
+
+/79
+Name: Капкан;
+Ability: 0
+Spell: 136
+Numeric: 0
+
+/80
+Name: Яд болот;
+Ability: 0
+Spell: 137
+Numeric: 0
+
+/81
+Name: Регенерация;
+Ability: 0
+Spell: 138
+Numeric: 0
+
+/82
+Name: Отравить оружие;
+Ability: 0
+Spell: 139
+Numeric: 0
+
+/83
+Name: Стремительность;
+Ability: 0
+Spell: 141
+Numeric: 0
+
+/84
+Name: Убийца демонов;
+Ability: 0
+Spell: 143
+Numeric: 0
+
+/85
+Name: Благодать;
+Ability: 0
+Spell: 144
+Numeric: 0
+
+/86
+Name: Прочность камня;
+Ability: 0
+Spell: 146
+Numeric: 0
+
+/87
+Name: Святилище;
+Ability: 0
+Spell: 148
+Numeric: 0
+
+/88
+Name: Божественный свет;
+Ability: 0
+Spell: 150
+Numeric: 0
+
+/89
+Name: Божественная печать;
+Ability: 0
+Spell: 145
+Numeric: 0
+
+/90
+Name: Встречный ветер;
+Ability: 0
+Spell: 161
+Numeric: 0
+
+/91
+Name: Медлительность;
+Ability: 0
+Spell: 162
+Numeric: 0
+
+/92
+Name: Зыбучие пески;
+Ability: 0
+Spell: 163
+Numeric: 0
+
+/93
+Name: Общая огнеупорность;
+Ability: 0
+Spell: 166
+Numeric: 0
+
+/94
+Name: Превращение в скелета;
+Ability: 0
+Spell: 174
+Numeric: 0
+
+/95
+Name: Превращение в чёрта;
+Ability: 0
+Spell: 175
+Numeric: 0
+
+/96
+Name: Превращение в жреца;
+Ability: 0
+Spell: 176
+Numeric: 0
+
+/97
+Name: Фанатизм;
+Ability: 0
+Spell: 178
+Numeric: 0
+
+/98
+Name: Подчинить волю;
+Ability: 0
+Spell: 182
+Numeric: 0
+
+/99
+Name: Знак "Аард";
+Ability: 0
+Spell: 78
+Numeric: 0
+
+/100
+Name: Приказ;
+Ability: 0
+Spell: 157
+Numeric: 0
+
+/101
+Name: Сейсмозаряд;
+Ability: 0
+Spell: 186
+Numeric: 0
+
+/102
+Name: Не колдует;
+Ability: 150
+Spell: 0
+Numeric: 0
+
+/103
+Name: Кокон Тьмы;
+Ability: 0
+Spell: 288
+Numeric: 0
+
+/104
+Name: Сияние Тьмы;
+Ability: 0
+Spell: 98
+Numeric: 0
+
+/105
+Name: Огненный шторм;
+Ability: 0
+Spell: 155
+Numeric: 0
+
+/106
+Name: Очищающее пламя;
+Ability: 0
+Spell: 167
+Numeric: 0
+
+/107
+Name: Левитация;
+Ability: 0
+Spell: 188
+Numeric: 0
+
+/108
+Name: Объятия Тьмы;
+Ability: 0
+Spell: 189
+Numeric: 0
+
+/109
+Name: Ливень стрел;
+Ability: 0
+Spell: 184
+Numeric: 0
+
+/110
+Name: Вопль Баньши;
+Ability: 0
+Spell: 191
+Numeric: 0
+
+/111
+Name: Паралич;
+Ability: 0
+Spell: 192
+Numeric: 0
+
+/112
+Name: Массовый сон;
+Ability: 0
+Spell: 193
+Numeric: 0
+
+/113
+Name: Благословенный круг;
+Ability: 0
+Spell: 195
+Numeric: 0
+
+/114
+Name: Теневая форма;
+Ability: 0
+Spell: 194
+Numeric: 0
+
+/115
+Name: Астральный паразит;
+Ability: 0
+Spell: 199
+Numeric: 0
+
+/116
+Name: Руки Тьмы;
+Ability: 0
+Spell: 200
+Numeric: 0
+
+/117
+Name: Контроль нежити;
+Ability: 0
+Spell: 185
+Numeric: 0
+
+/118
+Name: Чудесное оружие;
+Ability: 0
+Spell: 202
+Numeric: 0
+
+/119
+Name: Знак "Квен";
+Ability: 0
+Spell: 80
+Numeric: 0
+
+/120
+Name: Сила титана;
+Ability: 0
+Spell: 209
+Numeric: 0
+
+/121
+Name: Восстановление нежити;
+Ability: 0
+Spell: 211
+Numeric: 0
+
+/122
+Name: Вечное рабство;
+Ability: 0
+Spell: 213
+Numeric: 0
+
+/123
+Name: Землепроходчество;
+Ability: 0
+Spell: 215
+Numeric: 0
+
+/124
+Name: Глас мира;
+Ability: 0
+Spell: 216
+Numeric: 0
+
+/125
+Name: Запутан в паутине;
+Ability: 0
+Spell: 217
+Numeric: 0
+
+/126
+Name: Героизм;
+Ability: 0
+Spell: 220
+Numeric: 0
+
+/127
+Name: Тёмная сталь;
+Ability: 0
+Spell: 223
+Numeric: 0
+
+/128
+Name: Истончение брони;
+Ability: 0
+Spell: 224
+Numeric: 0
+
+/129
+Name: Кошачьи рефлексы;
+Ability: 0
+Spell: 225
+Numeric: 0
+
+/130
+Name: Знак "Ирден";
+Ability: 0
+Spell: 227
+Numeric: 0
+
+/131
+Name: Ледяной шторм;
+Ability: 0
+Spell: 228
+Numeric: 0
+
+/132
+Name: Смертельное облако;
+Ability: 0
+Spell: 230
+Numeric: 0
+
+/133
+Name: Общее благословение;
+Ability: 0
+Spell: 233
+Numeric: 0
+
+/134
+Name: Целебный сон;
+Ability: 0
+Spell: 234
+Numeric: 0
+
+/135
+Name: Кошмар;
+Ability: 0
+Spell: 235
+Numeric: 0
+
+/136
+Name: Высшая сила;
+Ability: 0
+Spell: 219
+Numeric: 0
+
+/137
+Name: Бесстрашие;
+Ability: 0
+Spell: 244
+Numeric: 0
+
+/138
+Name: Рунный выстрел;
+Ability: 0
+Spell: 245
+Numeric: 0
+
+/139
+Name: Утяжеление;
+Ability: 0
+Spell: 249
+Numeric: 0
+
+/140
+Name: Сдерживание;
+Ability: 0
+Spell: 252
+Numeric: 0
+
+/141
+Name: Тёмный выкуп;
+Ability: 0
+Spell: 253
+Numeric: 0
+
+/142
+Name: Ледяная змея;
+Ability: 0
+Spell: 254
+Numeric: 0
+
+/143
+Name: Шаровая молния;
+Ability: 0
+Spell: 255
+Numeric: 0
+
+/144
+Name: Раскалённая почва;
+Ability: 0
+Spell: 256
+Numeric: 0
+
+/145
+Name: Природное оружие;
+Ability: 0
+Spell: 259
+Numeric: 0
+
+/146
+Name: Волшебный клык;
+Ability: 0
+Spell: 260
+Numeric: 0
+
+/147
+Name: Склизкая бомба;
+Ability: 0
+Spell: 261
+Numeric: 0
+
+/148
+Name: Общая хладоустойчивость;
+Ability: 0
+Spell: 264
+Numeric: 0
+
+/149
+Name: Массовое заземление;
+Ability: 0
+Spell: 265
+Numeric: 0
+
+/150
+Name: Стихийная неуязвимость;
+Ability: 0
+Spell: 266
+Numeric: 0
+
+/151
+Name: Каменная корка;
+Ability: 0
+Spell: 263
+Numeric: 0
+
+/152
+Name: Облако тьмы;
+Ability: 0
+Spell: 208
+Numeric: 0
+
+/153
+Name: Небесный щит;
+Ability: 0
+Spell: 222
+Numeric: 0
+
+/154
+Name: Адский огонь;
+Ability: 0
+Spell: 239
+Numeric: 0
+
+/155
+Name: Глухая оборона;
+Ability: 193
+Spell: 0
+Numeric: 0
+
+/156
+Name: Подвижность;
+Ability: 0
+Spell: 273
+Numeric: 0
+
+/157
+Name: Очищающее пламя;
+Ability: 0
+Spell: 277
+Numeric: 0
+
+/158
+Name: Свидетельство веры;
+Ability: 0
+Spell: 279
+Numeric: 0
+
+/159
+Name: Мор;
+Ability: 0
+Spell: 293
+Numeric: 0
+
+/160
+Name: Варево;
+Ability: 0
+Spell: 287
+Numeric: 0
+
+/161
+Name: Не перемещается;
+Ability: 88
+Spell: 0
+Numeric: 0
+
+/162
+Name: Лихорадка;
+Ability: 0
+Spell: 290
+Numeric: 0
+
+/163
+Name: Истощение;
+Ability: 0
+Spell: 291
+Numeric: 0
+
+/164
+Name: Чёрная чума;
+Ability: 0
+Spell: 292
+Numeric: 0
+
+/165
+Name: Слепая вера;
+Ability: 0
+Spell: 301
+Numeric: 0
+
+/166
+Name: Ядовитый дождь;
+Ability: 0
+Spell: 302
+Numeric: 0
+
+/167
+Name: Чёрная кровь;
+Ability: 0
+Spell: 313
+Numeric: 0
+
+/168
+Name: Газообразная форма;
+Ability: 0
+Spell: 314
+Numeric: 0
+
+/169
+Name: Рунная броня;
+Ability: 0
+Spell: 319
+Numeric: 0
+
+/170
+Name: Рунное оружие;
+Ability: 0
+Spell: 320
+Numeric: 0
+
+/171
+Name: Рунный оберег;
+Ability: 0
+Spell: 321
+Numeric: 0
+
+/172
+Name: Едкая смесь;
+Ability: 0
+Spell: 322
+Numeric: 0
+
+/173
+Name: Леденящее касание;
+Ability: 0
+Spell: 323
+Numeric: 0
+
+/174
+Name: Вечный свет;
+Ability: 0
+Spell: 315
+Numeric: 0
+
+/175
+Name: Ярость небес;
+Ability: 0
+Spell: 316
+Numeric: 0
+
+/176
+Name: Помутнение разума;
+Ability: 0
+Spell: 267
+Numeric: 0
+
+/177
+Name: Астральный раскол;
+Ability: 0
+Spell: 348
+Numeric: 0
+
+/178
+Name: Слово Лорда;
+Ability: 0
+Spell: 325
+Numeric: 0
+
+/179
+Name: Ментальная поддержка;
+Ability: 0
+Spell: 326
+Numeric: 0
+
+/180
+Name: Ментальный поединок;
+Ability: 0
+Spell: 327
+Numeric: 0
+
+/181
+Name: Ментальная проповедь;
+Ability: 0
+Spell: 328
+Numeric: 0
+
+/182
+Name: Ментальный резонанс;
+Ability: 0
+Spell: 329
+Numeric: 0
+
+/183
+Name: Подвиг веры;
+Ability: 0
+Spell: 330
+Numeric: 0
+
+/184
+Name: Ментальная тень;
+Ability: 0
+Spell: 333
+Numeric: 0
+
+/185
+Name: Ловчая сеть;
+Ability: 0
+Spell: 334
+Numeric: 0
+
+/186
+Name: Кровоточащая рана;
+Ability: 208
+Spell: 0
+Numeric: 1
+
+/187
+Name: Повреждена аура;
+Ability: 212
+Spell: 0
+Numeric: 1
+
+/188
+Name: Каменная форма;
+Ability: 0
+Spell: 335
+Numeric: 0
+
+/189
+Name: Поцелуй Тьмы;
+Ability: 0
+Spell: 198
+Numeric: 0
+
+/190
+Name: Теневая форма;
+Ability: 0
+Spell: 336
+Numeric: 0
+
+/191
+Name: Ярость альваров;
+Ability: 0
+Spell: 337
+Numeric: 0
+
+/192
+Name: Тёмное равновесие;
+Ability: 0
+Spell: 338
+Numeric: 0
+
+/193
+Name: Кровь тени;
+Ability: 0
+Spell: 339
+Numeric: 0
+
+/194
+Name: Стимул;
+Ability: 0
+Spell: 341
+Numeric: 0
+
+/195
+Name: Теневая форма;
+Ability: 0
+Spell: 342
+Numeric: 0
+
+/196
+Name: Дрожащая тень;
+Ability: 0
+Spell: 343
+Numeric: 0
+
+/197
+Name: Теневая форма;
+Ability: 0
+Spell: 344
+Numeric: 0
+
+/198
+Name: Теневая форма;
+Ability: 0
+Spell: 345
+Numeric: 0
+
+/199
+Name: Танец теней;
+Ability: 0
+Spell: 346
+Numeric: 0
+
+/200
+Name: Теневая форма;
+Ability: 0
+Spell: 347
+Numeric: 0
+
+/201
+Name: Горит;
+Ability: 143
+Spell: 0
+Numeric: 1
+
+/202
+Name: Всплеск Тьмы;
+Ability: 0
+Spell: 349
+Numeric: 0
+
+/203
+Name: Шторм Тьмы;
+Ability: 0
+Spell: 350
+Numeric: 0
+
+/204
+Name: Иммунитет к внушениям;
+Ability: 100
+Spell: 183
+Numeric: 0
+
+/205
+Name: Не сражается;
+Ability: 38
+Spell: 0
+Numeric: 0
+
+/206
+Name: Штормовой ветер;
+Ability: 0
+Spell: 351
+Numeric: 0
+
+/207
+Name: Гниющие раны;
+Ability: 136
+Spell: 0
+Numeric: 0
+
+/208
+Name: Руна обновления;
+Ability: 0
+Spell: 101
+Numeric: 0
+
+/209
+Name: Насмешка;
+Ability: 0
+Spell: 187
+Numeric: 0
+
+/210
+Name: Осадный режим;
+Ability: 170
+Spell: 0
+Numeric: 0
+
+/211
+Name: Издёвка;
+Ability: 0
+Spell: 317
+Numeric: 0

@@ -1,0 +1,76 @@
+Quantity: 6
+
+/0
+Name: Пусто;
+Type: 0
+Gold: 0
+Gem: 0
+Population: 0
+Explore: 0
+BF_Pass: 0
+BF_Impass: 0
+
+/1
+Name: Равнина;
+Type: 1
+Gold: 8
+Gem: 1
+Population: 100
+Explore: 100
+BF_Pass: 1
+BF_Impass: 5
+
+
+/2
+Name: Лес;
+Type: 1
+Gold: 5
+Gem: 2
+Population: 70
+Explore: 60
+BF_Pass: 2
+BF_Impass: 6
+
+
+/3
+Name: Холмы;
+Type: 1
+Gold: 6
+Gem: 2
+Population: 60
+Explore: 75
+BF_Pass: 3
+BF_Impass: 7
+
+
+/4
+Name: Болото;
+Type: 1
+Gold: 2
+Gem: 4
+Population: 40
+Explore: 50
+BF_Pass: 4
+BF_Impass: 8
+
+
+/5
+Name: Пустыня;
+Type: 1
+Gold: 3
+Gem: 3
+Population: 30
+Explore: 70
+BF_Pass: 1
+BF_Impass: 5
+
+
+/6
+Name: Тундра;
+Type: 1
+Gold: 4
+Gem: 2
+Population: 30
+Explore: 70
+BF_Pass: 1
+BF_Impass: 5

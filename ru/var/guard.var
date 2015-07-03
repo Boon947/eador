@@ -1,0 +1,6849 @@
+Quantity: 477
+
+/0 Пусто
+Quantity: 5/1
+Initiative: 0/0
+Unit1: 1, 3, 2, 2
+Unit2: 2, 3, 1, 1
+Unit3: 3, 3, 1, 1
+Unit4: 4, 5, 1, 1;
+LootPoss: 10
+MaxLoot: 1
+Power: 0
+Item1: 1, 1
+Item2: 2, 1
+Item3: 3, 1;
+
+/1 Ополчение 0
+Quantity: 4/2
+Initiative: 0/0
+Unit1: 1, 3, 2, 3
+Unit2: 2, 3, 1, 2
+Unit3: 3, 3, 1, 1;
+LootPoss: 10
+MaxLoot: 1
+Power: 1
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/2 Ополчение 1
+Quantity: 7/3
+Initiative: 0/0
+Unit1: 1, 6, 2, 4
+Unit2: 2, 6, 2, 3
+Unit3: 3, 6, 1, 2
+Unit4: 4, 6, 1, 2
+Unit5: 6, 4, 1, 2
+Unit6: 86, 1, 0, 1;
+LootPoss: 11
+MaxLoot: 1
+Power: 3
+Item1: 6, 2
+Item2: 111, 1
+Item3: 117, 1;
+
+/3 Ополчение 2
+Quantity: 9/4
+Initiative: 0/0
+Unit1: 1, 10, 2, 5
+Unit2: 2, 10, 2, 4
+Unit3: 3, 10, 1, 3
+Unit4: 4, 10, 1, 3
+Unit5: 6, 8, 1, 3
+Unit6: 5, 7, 1, 3
+Unit7: 133, 6, 0, 1
+Unit8: 86, 2, 1, 0;
+LootPoss: 12
+MaxLoot: 1
+Power: 5
+Item1: 94, 1
+Item2: 65, 1
+Item3: 7, 1;
+
+/4 Ополчение 3
+Quantity: 10/5
+Initiative: 0/0
+Unit1: 1, 15, 2, 4
+Unit2: 2, 15, 0, 3
+Unit3: 119, 8, 1, 0
+Unit4: 3, 15, 1, 3
+Unit5: 86, 7, 1, 1
+Unit6: 4, 15, 1, 2
+Unit7: 80, 4, 0, 1
+Unit8: 6, 10, 1, 2
+Unit9: 5, 10, 1, 2
+Unit10: 7, 10, 1, 2
+Unit11: 133, 9, 1, 0;
+LootPoss: 14
+MaxLoot: 1
+Power: 7
+Item1: 4, 1
+Item2: 113, 1
+Item3: 53, 1;
+
+/5 Разбойники 0
+Quantity: 4/1
+Initiative: 1/1
+Unit1: 11, 3, 2, 2
+Unit2: 10, 3, 1, 1
+Unit3: 219, 3, 1, 1;
+LootPoss: 15
+MaxLoot: 1
+Power: 1
+Item1: 51, 1
+Item2: 9, 1
+Item3: 41, 1;
+
+/6 Разбойники 1
+Quantity: 6/3
+Initiative: 1/2
+Unit1: 128, 2, 1, 0
+Unit2: 11, 6, 1, 4
+Unit3: 10, 6, 2, 3
+Unit4: 112, 2, 0, 1
+Unit5: 219, 6, 1, 2
+Unit6: 30, 3, 1, 1;
+LootPoss: 16
+MaxLoot: 2
+Power: 4
+Item1: 2, 1
+Item2: 47, 1
+Item3: 84, 1
+Item4: 126, 1;
+
+/7 Разбойники 2
+Quantity: 8/4
+Initiative: 2/2
+Unit1: 128, 5, 1, 0
+Unit2: 11, 10, 1, 4
+Unit3: 10, 10, 1, 3
+Unit4: 112, 6, 1, 2
+Unit5: 219, 10, 2, 2
+Unit6: 30, 6, 1, 2
+Unit7: 88, 2, 0, 1
+Unit8: 28, 6, 1, 1;
+LootPoss: 17
+MaxLoot: 2
+Power: 6
+Item1: 3, 1
+Item2: 72, 1
+Item3: 128, 1
+Item4: 97, 1;
+
+/8 Разбойники 3
+Quantity: 10/5
+Initiative: 3/3
+Unit1: 128, 10, 1, 0
+Unit2: 11, 15, 2, 4
+Unit3: 10, 15, 1, 3
+Unit4: 112, 11, 1, 2
+Unit5: 219, 15, 3, 1
+Unit6: 30, 10, 0, 1
+Unit7: 88, 5, 1, 0
+Unit8: 28, 10, 1, 1;
+LootPoss: 18
+MaxLoot: 2
+Power: 8
+Item1: 12, 1
+Item2: 54, 1
+Item3: 98, 1
+Item4: 116, 1;
+
+/9 Варвары 0
+Quantity: 3/1
+Initiative: 1/0
+Unit1: 9, 3, 2, 2
+Unit2: 12, 3, 1, 0;
+LootPoss: 10
+MaxLoot: 1
+Power: 1
+Item1: 13, 4
+Item2: 25, 2
+Item3: 37, 1;
+
+/10 Варвары 1
+Quantity: 6/3
+Initiative: 1/0
+Unit1: 9, 6, 4, 3
+Unit2: 85, 10, 1, 2
+Unit3: 12, 6, 1, 1;
+LootPoss: 11
+MaxLoot: 1
+Power: 4
+Item1: 14, 2
+Item2: 71, 1
+Item3: 105, 1;
+
+/11 Варвары 2
+Quantity: 8/4
+Initiative: 2/1
+Unit1: 9, 10, 5, 4
+Unit2: 85, 14, 2, 3
+Unit3: 12, 10, 1, 2
+Unit4: 76, 2, 0, 1;
+LootPoss: 13
+MaxLoot: 1
+Power: 7
+Item1: 15, 2
+Item2: 53, 1
+Item3: 106, 1;
+
+/12 Варвары 3
+Quantity: 9/5
+Initiative: 2/2
+Unit1: 9, 15, 4, 3
+Unit2: 85, 19, 2, 2
+Unit3: 12, 15, 2, 2
+Unit4: 76, 5, 1, 0;
+LootPoss: 15
+MaxLoot: 2
+Power: 9
+Item1: 16, 3
+Item2: 86, 2
+Item3: 125, 1;
+
+/13 Гоблины 0
+Quantity: 4/2
+Initiative: 1/1
+Unit1: 13, 3, 3, 2
+Unit2: 77, 2, 1, 1;
+LootPoss: 8
+MaxLoot: 1
+Power: 1
+Item1: 1, 1
+Item2: 80, 1
+Item3: 67, 1;
+
+/14 Гоблины 1
+Quantity: 6/3
+Initiative: 1/2
+Unit1: 13, 6, 3, 3
+Unit2: 77, 5, 1, 2
+Unit3: 96, 3, 1, 0
+Unit4: 129, 3, 1, 1;
+LootPoss: 9
+MaxLoot: 1
+Power: 4
+Item1: 10, 2
+Item2: 120, 1
+Item3: 43, 1;
+
+/15 Гоблины 2
+Quantity: 7/4
+Initiative: 2/2
+Unit1: 13, 10, 3, 3
+Unit2: 77, 8, 1, 2
+Unit3: 96, 8, 1, 1
+Unit4: 129, 8, 1, 1
+Unit5: 130, 10, 1, 0;
+LootPoss: 10
+MaxLoot: 2
+Power: 6
+Item1: 11, 1
+Item2: 69, 1
+Item3: 85, 1;
+
+/16 Гоблины 3
+Quantity: 9/5
+Initiative: 3/2
+Unit1: 13, 15, 4, 4
+Unit2: 77, 12, 2, 3
+Unit3: 96, 12, 1, 2
+Unit4: 129, 10, 1, 2
+Unit5: 130, 16, 1, 1
+Unit6: 131, 4, 0, 1;
+LootPoss: 12
+MaxLoot: 2
+Power: 8
+Item1: 4, 2
+Item2: 130, 1
+Item3: 73, 1;
+
+/17 Нежить 0
+Quantity: 4/2
+Initiative: 0/0
+Unit1: 19, 3, 1, 2
+Unit2: 91, 1, 1, 0
+Unit3: 20, 3, 2, 1;
+LootPoss: 5
+MaxLoot: 1
+Power: 2
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/18 Нежить 1
+Quantity: 6/3
+Initiative: 0/0
+Unit1: 19, 6, 2, 4
+Unit2: 91, 4, 1, 2
+Unit3: 20, 6, 2, 3
+Unit4: 92, 2, 0, 1
+Unit5: 36, 3, 1, 2;
+LootPoss: 7
+MaxLoot: 1
+Power: 4
+Item1: 26, 1
+Item2: 68, 1
+Item3: 99, 1;
+
+/19 Нежить 2
+Quantity: 8/4
+Initiative: 0/0
+Unit1: 19, 9, 2, 3
+Unit2: 91, 7, 1, 2
+Unit3: 20, 9, 1, 2
+Unit4: 92, 5, 1, 1
+Unit5: 36, 6, 2, 2
+Unit6: 55, 3, 1, 1
+Unit7: 74, 10, 0, 1;
+LootPoss: 9
+MaxLoot: 2
+Power: 7
+Item1: 7, 1
+Item2: 118, 1
+Item3: 124, 1;
+
+/20 Нежить 3
+Quantity: 10/5
+Initiative: 0/0
+Unit1: 19, 12, 1, 3
+Unit2: 91, 10, 2, 2
+Unit3: 20, 12, 1, 2
+Unit4: 92, 8, 2, 1
+Unit5: 36, 9, 1, 2
+Unit6: 55, 6, 1, 1
+Unit7: 74, 15, 1, 1
+Unit8: 64, 3, 1, 1
+Unit9: 170, 3, 0, 1;
+LootPoss: 11
+MaxLoot: 3
+Power: 11
+Item1: 12, 1
+Item2: 95, 1
+Item3: 112, 1
+Item4: 70, 1
+Item5: 131, 1;
+
+/21 Орки 0
+Quantity: 4/1
+Initiative: 0/0
+Unit1: 100, 3, 1, 1
+Unit2: 14, 2, 2, 1
+Unit3: 109, 1, 1, 0;
+LootPoss: 11
+MaxLoot: 1
+Power: 2
+Item1: 21, 1
+Item2: 41, 1
+Item3: 55, 1;
+
+/22 Орки 1
+Quantity: 6/2
+Initiative: 0/0
+Unit1: 100, 7, 2, 2
+Unit2: 14, 5, 2, 2
+Unit3: 109, 5, 1, 1
+Unit4: 73, 1, 1, 0;
+LootPoss: 14
+MaxLoot: 1
+Power: 4
+Item1: 22, 1
+Item2: 74, 1
+Item3: 87, 1;
+
+/23 Орки 2
+Quantity: 7/3
+Initiative: 0/0
+Unit1: 100, 11, 2, 2
+Unit2: 14, 8, 2, 2
+Unit3: 109, 9, 1, 1
+Unit4: 73, 6, 1, 0
+Unit5: 169, 7, 0, 1
+Unit6: 195, 3, 1, 0;
+LootPoss: 15
+MaxLoot: 1
+Power: 6
+Item1: 23, 1
+Item2: 75, 1
+Item3: 44, 1;
+
+/24 Орки 3
+Quantity: 10/4
+Initiative: 0/0
+Unit1: 100, 15, 2, 4
+Unit2: 14, 11, 2, 4
+Unit3: 109, 13, 2, 3
+Unit4: 73, 10, 1, 3
+Unit5: 169, 11, 0, 2
+Unit6: 195, 8, 1, 2
+Unit7: 110, 11, 1, 1
+Unit8: 111, 8, 1, 0;
+LootPoss: 16
+MaxLoot: 1
+Power: 9
+Item1: 24, 1
+Item2: 119, 1
+Item3: 89, 1;
+
+/25 Половинчики 0
+Quantity: 3/2
+Initiative: 0/1
+Unit1: 18, 3, 2, 3
+Unit2: 259, 2, 1, 1
+Unit3: 262, 3, 0, 2;
+LootPoss: 10
+MaxLoot: 1
+Power: 2
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/26 Половинчики 1
+Quantity: 6/3
+Initiative: 1/1
+Unit1: 18, 6, 2, 3
+Unit2: 259, 5, 1, 1
+Unit3: 262, 6, 0, 3
+Unit4: 132, 4, 1, 2
+Unit5: 261, 3, 2, 1;
+LootPoss: 12
+MaxLoot: 1
+Power: 3
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/27 Половинчики 2
+Quantity: 9/4
+Initiative: 1/2
+Unit1: 18, 10, 3, 2
+Unit2: 259, 9, 2, 1
+Unit3: 262, 10, 1, 2
+Unit4: 132, 8, 1, 2
+Unit5: 261, 7, 2, 2;
+LootPoss: 13
+MaxLoot: 1
+Power: 5
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/28 Половинчики 3
+Quantity: 11/5
+Initiative: 2/2
+Unit1: 18, 15, 3, 2
+Unit2: 259, 14, 3, 1
+Unit3: 262, 15, 1, 2
+Unit4: 132, 13, 2, 2
+Unit5: 261, 12, 2, 2;
+LootPoss: 15
+MaxLoot: 1
+Power: 7
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/29 Эльфы 0
+Quantity: 5/1
+Initiative: 2/1
+Unit1: 15, 3, 3, 1
+Unit2: 126, 4, 2, 1;
+LootPoss: 10
+MaxLoot: 1
+Power: 2
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/30 Эльфы 1
+Quantity: 7/2
+Initiative: 2/3
+Unit1: 15, 6, 3, 2
+Unit2: 126, 7, 2, 2
+Unit3: 105, 3, 1, 1
+Unit4: 106, 2, 1, 1;
+LootPoss: 12
+MaxLoot: 1
+Power: 5
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/31 Эльфы 2
+Quantity: 9/3
+Initiative: 3/3
+Unit1: 15, 10, 3, 3
+Unit2: 126, 11, 3, 3
+Unit3: 105, 6, 1, 2
+Unit4: 106, 5, 1, 2
+Unit5: 107, 5, 1, 1
+Unit6: 127, 6, 0, 1;
+LootPoss: 14
+MaxLoot: 1
+Power: 8
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/32 Эльфы 3
+Quantity: 11/4
+Initiative: 4/4
+Unit1: 15, 15, 3, 3
+Unit2: 126, 16, 3, 3
+Unit3: 105, 12, 2, 2
+Unit4: 106, 11, 1, 2
+Unit5: 107, 9, 1, 1
+Unit6: 127, 10, 1, 1;
+LootPoss: 16
+MaxLoot: 2
+Power: 11
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/33 Гномы 0
+Quantity: 4/1
+Initiative: 0/1
+Unit1: 16, 5, 2, 2
+Unit2: 256, 4, 1, 1
+Unit3: 156, 5, 1, 1;
+LootPoss: 14
+MaxLoot: 1
+Power: 2
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/34 Гномы 1
+Quantity: 6/2
+Initiative: 0/2
+Unit1: 16, 8, 3, 3
+Unit2: 256, 7, 1, 2
+Unit3: 156, 7, 1, 2
+Unit4: 255, 5, 1, 1;
+LootPoss: 16
+MaxLoot: 2
+Power: 5
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/35 Гномы 2
+Quantity: 8/3
+Initiative: 1/2
+Unit1: 16, 12, 3, 3
+Unit2: 256, 12, 2, 2
+Unit3: 156, 12, 0, 2
+Unit4: 156, 20, 1, 0
+Unit5: 255, 8, 1, 2
+Unit6: 103, 7, 1, 1;
+LootPoss: 18
+MaxLoot: 2
+Power: 7
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/36 Гномы 3
+Quantity: 10/4
+Initiative: 1/3
+Unit1: 16, 16, 3, 3
+Unit2: 256, 16, 1, 2
+Unit3: 156, 13, 1, 2
+Unit4: 156, 25, 1, 0
+Unit5: 255, 12, 2, 2
+Unit6: 184, 12, 1, 1
+Unit7: 103, 23, 1, 0;
+LootPoss: 20
+MaxLoot: 2
+Power: 9
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/37 Дружина 0
+Quantity: 4/2
+Initiative: 1/1
+Unit1: 4, 3, 1, 4
+Unit2: 5, 3, 1, 3
+Unit3: 6, 3, 1, 3
+Unit4: 7, 3, 1, 2
+Unit5: 80, 1, 0, 1
+Unit6: 81, 1, 0, 1
+Unit7: 84, 1, 0, 1;
+LootPoss: 10
+MaxLoot: 1
+Power: 2
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/38 Дружина 1
+Quantity: 6/3
+Initiative: 1/2
+Unit1: 4, 6, 1, 4
+Unit2: 5, 6, 1, 3
+Unit3: 6, 6, 1, 4
+Unit4: 7, 6, 1, 3
+Unit5: 80, 3, 0, 1
+Unit6: 81, 3, 0, 1
+Unit7: 84, 3, 0, 2
+Unit8: 23, 3, 1, 1
+Unit9: 25, 3, 1, 0;
+LootPoss: 11
+MaxLoot: 1
+Power: 5
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/39 Дружина 2
+Quantity: 8/4
+Initiative: 2/2
+Unit1: 4, 10, 1, 4
+Unit2: 5, 10, 1, 5
+Unit3: 6, 10, 2, 4
+Unit4: 7, 10, 1, 4
+Unit5: 80, 5, 0, 1
+Unit6: 81, 5, 0, 1
+Unit7: 84, 5, 0, 2
+Unit8: 23, 8, 1, 1
+Unit9: 25, 8, 1, 0
+Unit10: 44, 5, 1, 0
+Unit11: 78, 6, 0, 1;
+LootPoss: 12
+MaxLoot: 1
+Power: 8
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/40 Дружина 3
+Quantity: 11/5
+Initiative: 2/3
+Unit1: 4, 15, 1, 4
+Unit2: 5, 15, 1, 4
+Unit3: 6, 15, 2, 4
+Unit4: 7, 15, 1, 4
+Unit5: 80, 7, 0, 1
+Unit6: 81, 7, 1, 1
+Unit7: 84, 7, 1, 2
+Unit8: 23, 10, 1, 1
+Unit9: 25, 10, 1, 0
+Unit10: 44, 7, 1, 1
+Unit11: 78, 8, 1, 0;
+LootPoss: 13
+MaxLoot: 1
+Power: 9
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/41 Пауки 0
+Quantity: 3/1
+Initiative: 1/2
+Unit1: 33, 4, 2, 2
+Unit2: 166, 3, 1, 1;
+LootPoss: 5
+MaxLoot: 1
+Power: 4
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/42 Пауки 1
+Quantity: 5/2
+Initiative: 2/3
+Unit1: 33, 8, 3, 3
+Unit2: 166, 6, 2, 2;
+LootPoss: 6
+MaxLoot: 1
+Power: 6
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/43 Пауки 2
+Quantity: 6/3
+Initiative: 3/3
+Unit1: 33, 13, 3, 3
+Unit2: 166, 10, 2, 2
+Unit3: 167, 3, 1, 2;
+LootPoss: 7
+MaxLoot: 1
+Power: 7
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/44 Пауки 3
+Quantity: 6/4
+Initiative: 4/3
+Unit1: 33, 17, 2, 3
+Unit2: 166, 13, 2, 2
+Unit3: 167, 6, 1, 2
+Unit4: 168, 1, 1, 2;
+LootPoss: 8
+MaxLoot: 2
+Power: 9
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/45 Болотные твари 0
+Quantity: 3/1
+Initiative: 0/1
+Unit1: 32, 3, 1, 2
+Unit2: 151, 3, 1, 1
+Unit3: 68, 3, 1, 3;
+LootPoss: 5
+MaxLoot: 1
+Power: 4
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/46 Болотные твари 1
+Quantity: 5/2
+Initiative: 0/2
+Unit1: 32, 6, 2, 3
+Unit2: 151, 6, 2, 2
+Unit3: 68, 6, 1, 4;
+LootPoss: 6
+MaxLoot: 1
+Power: 6
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/47 Болотные твари 2
+Quantity: 7/3
+Initiative: 1/1
+Unit1: 32, 10, 3, 3
+Unit2: 151, 10, 2, 2
+Unit3: 68, 10, 2, 4
+Unit4: 131, 1, 0, 1;
+LootPoss: 7
+MaxLoot: 1
+Power: 8
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/48 Болотные твари 3
+Quantity: 8/4
+Initiative: 1/2
+Unit1: 32, 13, 2, 3
+Unit2: 151, 13, 2, 2
+Unit3: 68, 13, 2, 3
+Unit4: 62, 3, 1, 0
+Unit5: 131, 5, 1, 0;
+LootPoss: 8
+MaxLoot: 2
+Power: 12
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/49 Крылатые твари 0
+Quantity: 3/1
+Initiative: 1/2
+Unit1: 31, 3, 3, 3;
+LootPoss: 4
+MaxLoot: 1
+Power: 4
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/50 Крылатые твари 1
+Quantity: 5/2
+Initiative: 2/2
+Unit1: 31, 6, 5, 3;
+LootPoss: 5
+MaxLoot: 1
+Power: 6
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/51 Крылатые твари 2
+Quantity: 7/3
+Initiative: 2/3
+Unit1: 31, 10, 6, 3
+Unit1: 52, 3, 1, 1;
+LootPoss: 7
+MaxLoot: 1
+Power: 8
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/52 Крылатые твари 3
+Quantity: 9/4
+Initiative: 3/3
+Unit1: 31, 13, 7, 3
+Unit1: 52, 6, 2, 2;
+LootPoss: 8
+MaxLoot: 2
+Power: 9
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/53 Демоны 0
+Quantity: 4/2
+Initiative: 0/2
+Unit1: 21, 3, 2, 3
+Unit2: 99, 5, 2, 3;
+LootPoss: 5
+MaxLoot: 1
+Power: 2
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/54 Демоны 1
+Quantity: 6/3
+Initiative: 1/2
+Unit1: 21, 6, 2, 3
+Unit2: 99, 8, 2, 3
+Unit3: 37, 3, 1, 2
+Unit4: 38, 3, 1, 2
+Unit5: 95, 2, 0, 1;
+LootPoss: 6
+MaxLoot: 1
+Power: 5
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/55 Демоны 2
+Quantity: 8/4
+Initiative: 2/3
+Unit1: 21, 10, 2, 4
+Unit2: 283, 4, 0, 1
+Unit3: 99, 12, 1, 4
+Unit4: 37, 6, 2, 3
+Unit5: 38, 6, 1, 3
+Unit6: 56, 3, 1, 0
+Unit7: 95, 5, 1, 2
+Unit8: 97, 1, 0, 1;
+LootPoss: 7
+MaxLoot: 1
+Power: 8
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/56 Демоны 3
+Quantity: 10/5
+Initiative: 3/3
+Unit1: 21, 15, 2, 4
+Unit2: 283, 9, 0, 1
+Unit3: 99, 13, 1, 4
+Unit4: 37, 10, 1, 4
+Unit5: 38, 10, 2, 3
+Unit6: 56, 6, 1, 3
+Unit7: 257, 1, 0, 1
+Unit8: 65, 3, 1, 2
+Unit9: 95, 9, 2, 3
+Unit10: 97, 4, 0, 2
+Unit11: 98, 4, 0, 1;
+LootPoss: 8
+MaxLoot: 1
+Power: 11
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/57 Стражи леса 0
+Quantity: 5/2
+Initiative: 1/1
+Unit1: 17, 4, 2, 2
+Unit2: 35, 3, 1, 2
+Unit3: 83, 5, 2, 2;
+LootPoss: 5
+MaxLoot: 1
+Power: 2
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/58 Стражи леса 1
+Quantity: 7/3
+Initiative: 1/2
+Unit1: 17, 8, 2, 3
+Unit2: 35, 5, 2, 2
+Unit3: 83, 9, 2, 3
+Unit4: 210, 3, 1, 1;
+LootPoss: 6
+MaxLoot: 1
+Power: 5
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/59 Стражи леса 2
+Quantity: 9/4
+Initiative: 2/2
+Unit1: 17, 12, 3, 4
+Unit2: 35, 8, 2, 3
+Unit3: 53, 3, 1, 1
+Unit4: 83, 14, 2, 4
+Unit5: 210, 6, 1, 2;
+LootPoss: 7
+MaxLoot: 1
+Power: 8
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/60 Стражи леса 3
+Quantity: 11/5
+Initiative: 2/3
+Unit1: 17, 16, 3, 4
+Unit2: 35, 12, 2, 3
+Unit3: 53, 6, 1, 3
+Unit4: 61, 3, 1, 2
+Unit5: 83, 17, 3, 4
+Unit6: 210, 10, 1, 3;
+LootPoss: 8
+MaxLoot: 1
+Power: 11
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/61 Кочевники 0
+Quantity: 2/2
+Initiative: 2/2
+Unit1: 26, 3, 1, 1
+Unit2: 25, 3, 1, 1;
+LootPoss: 10
+MaxLoot: 1
+Power: 3
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/62 Кочевники 1
+Quantity: 4/3
+Initiative: 2/3
+Unit1: 26, 6, 2, 1
+Unit2: 25, 6, 2, 1;
+LootPoss: 12
+MaxLoot: 1
+Power: 5
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/63 Кочевники 2
+Quantity: 6/4
+Initiative: 3/3
+Unit1: 26, 10, 2, 2
+Unit2: 25, 10, 3, 2
+Unit3: 138, 2, 1, 1;
+LootPoss: 14
+MaxLoot: 1
+Power: 7
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/64 Кочевники 3
+Quantity: 8/5
+Initiative: 4/3
+Unit1: 26, 15, 3, 2
+Unit2: 25, 15, 3, 2
+Unit3: 138, 7, 2, 1;
+LootPoss: 16
+MaxLoot: 2
+Power: 9
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/65 Кентавры 0
+Quantity: 4/1
+Initiative: 2/2
+Unit1: 122, 6, 1, 3
+Unit2: 34, 3, 2, 2
+Unit3: 123, 4, 1, 1;
+LootPoss: 7
+MaxLoot: 1
+Power: 4
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/66 Кентавры 1
+Quantity: 6/3
+Initiative: 2/3
+Unit1: 122, 10, 2, 3
+Unit2: 34, 6, 3, 2
+Unit3: 123, 7, 1, 2;
+LootPoss: 8
+MaxLoot: 1
+Power: 6
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/67 Кентавры 2
+Quantity: 7/4
+Initiative: 2/2
+Unit1: 122, 12, 2, 4
+Unit2: 34, 9, 3, 3
+Unit3: 123, 10, 1, 3
+Unit4: 124, 8, 1, 2;
+LootPoss: 9
+MaxLoot: 1
+Power: 7
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/68 Кентавры 3
+Quantity: 8/5
+Initiative: 2/2
+Unit1: 122, 19, 2, 3
+Unit2: 34, 15, 3, 2
+Unit3: 123, 16, 1, 2
+Unit4: 124, 14, 1, 1
+Unit5: 125, 14, 1, 0;
+LootPoss: 10
+MaxLoot: 1
+Power: 8
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/69 Гиганты 0
+Quantity: 2/1
+Initiative: 0/0
+Unit1: 50, 3, 2, 3;
+LootPoss: 5
+MaxLoot: 1
+Power: 5
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/70 Гиганты 1
+Quantity: 4/2
+Initiative: 0/0
+Unit1: 50, 6, 3, 3
+Unit2: 66, 3, 1, 1;
+LootPoss: 6
+MaxLoot: 1
+Power: 8
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/71 Гиганты 2
+Quantity: 6/3
+Initiative: 0/0
+Unit1: 50, 10, 3, 3
+Unit2: 66, 6, 2, 1
+Unit3: 63, 6, 1, 1;
+LootPoss: 7
+MaxLoot: 1
+Power: 12
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/72 Гиганты 3
+Quantity: 8/4
+Initiative: 0/0
+Unit1: 50, 13, 4, 3
+Unit2: 66, 9, 2, 2
+Unit3: 63, 9, 2, 2;
+LootPoss: 8
+MaxLoot: 1
+Power: 15
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/73 Чародеи 0
+Quantity: 4/1
+Initiative: 1/1
+Unit1: 12, 5, 3, 3
+Unit2: 211, 3, 1, 1;
+LootPoss: 10
+MaxLoot: 1
+Power: 3
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/74 Чародеи 1
+Quantity: 6/3
+Initiative: 1/2
+Unit1: 12, 8, 2, 3
+Unit2: 211, 5, 1, 2
+Unit3: 39, 5, 2, 2
+Unit4: 87, 4, 1, 1;
+LootPoss: 12
+MaxLoot: 1
+Power: 5
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/75 Чародеи 2
+Quantity: 8/4
+Initiative: 2/2
+Unit1: 12, 12, 2, 2
+Unit2: 211, 8, 1, 2
+Unit3: 39, 8, 2, 2
+Unit4: 48, 3, 1, 1
+Unit5: 71, 1, 1, 1
+Unit6: 87, 10, 1, 2;
+LootPoss: 14
+MaxLoot: 1
+Power: 9
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/76 Чародеи 3
+Quantity: 11/5
+Initiative: 2/3
+Unit1: 12, 15, 1, 2
+Unit2: 211, 12, 1, 2
+Unit3: 39, 12, 2, 2
+Unit4: 48, 6, 1, 1
+Unit5: 148, 5, 1, 0
+Unit6: 71, 4, 1, 2
+Unit7: 59, 5, 1, 1
+Unit8: 70, 3, 1, 1
+Unit9: 87, 8, 2, 3;
+LootPoss: 16
+MaxLoot: 2
+Power: 13
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/77 Клерики 0
+Quantity: 4/2
+Initiative: 1/1
+Unit1: 5, 5, 2, 3
+Unit2: 8, 5, 1, 3
+Unit3: 22, 3, 1, 1;
+LootPoss: 10
+MaxLoot: 1
+Power: 2
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/78 Клерики 1
+Quantity: 6/3
+Initiative: 1/2
+Unit1: 5, 8, 2, 3
+Unit2: 8, 8, 2, 3
+Unit3: 121, 4, 0, 2
+Unit4: 22, 6, 1, 2
+Unit5: 192, 4, 1, 1
+Unit6: 72, 8, 0, 1;
+LootPoss: 12
+MaxLoot: 1
+Power: 4
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/79 Клерики 2
+Quantity: 8/4
+Initiative: 2/2
+Unit1: 5, 12, 2, 3
+Unit2: 8, 12, 1, 3
+Unit3: 121, 8, 1, 0
+Unit4: 22, 9, 1, 3
+Unit5: 192, 6, 0, 2
+Unit6: 23, 9, 1, 3
+Unit7: 45, 5, 1, 1
+Unit8: 72, 11, 1, 0;
+LootPoss: 14
+MaxLoot: 1
+Power: 7
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/80 Клерики 3
+Quantity: 10/5
+Initiative: 2/3
+Unit1: 5, 15, 2, 3
+Unit2: 8, 15, 1, 3
+Unit3: 121, 11, 1, 2
+Unit4: 22, 12, 1, 3
+Unit5: 192, 8, 1, 2
+Unit6: 23, 12, 2, 3
+Unit7: 146, 5, 0, 2
+Unit8: 45, 8, 1, 2
+Unit9: 149, 4, 1, 0
+Unit10: 142, 9, 0, 1;
+LootPoss: 16
+MaxLoot: 2
+Power: 8
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/81 Бандиты 0
+Quantity: 5/2
+Initiative: 1/2
+Unit1: 11, 6, 2, 2
+Unit2: 10, 6, 1, 1
+Unit3: 219, 6, 1, 1
+Unit4: 30, 3, 1, 1;
+LootPoss: 15
+MaxLoot: 1
+Power: 3
+Item1: 51, 1
+Item2: 9, 1
+Item3: 41, 1;
+
+/82 Бандиты 1
+Quantity: 7/4
+Initiative: 2/2
+Unit1: 128, 4, 1, 0
+Unit2: 11, 9, 1, 4
+Unit3: 10, 9, 1, 2
+Unit4: 112, 5, 0, 1
+Unit5: 219, 9, 1, 1
+Unit6: 30, 6, 1, 2
+Unit7: 88, 2, 1, 0
+Unit8: 28, 6, 1, 2;
+LootPoss: 17
+MaxLoot: 2
+Power: 5
+Item1: 2, 1
+Item2: 47, 1
+Item3: 84, 1
+Item4: 126, 1;
+
+/83 Бандиты 2
+Quantity: 9/5
+Initiative: 3/2
+Unit1: 128, 7, 1, 0
+Unit2: 11, 12, 1, 4
+Unit3: 10, 12, 1, 3
+Unit4: 112, 8, 1, 2
+Unit5: 219, 12, 1, 2
+Unit6: 30, 9, 1, 2
+Unit7: 88, 4, 1, 2
+Unit8: 28, 9, 1, 2
+Unit9: 49, 6, 1, 1;
+LootPoss: 19
+MaxLoot: 3
+Power: 7
+Item1: 3, 1
+Item2: 72, 1
+Item3: 128, 1
+Item4: 97, 1;
+
+/84 Бандиты 3
+Quantity: 11/5
+Initiative: 3/4
+Unit1: 128, 10, 1, 0
+Unit2: 11, 15, 1, 4
+Unit3: 10, 15, 1, 3
+Unit4: 112, 11, 1, 2
+Unit5: 219, 15, 1, 3
+Unit6: 30, 12, 1, 2
+Unit7: 88, 8, 1, 1
+Unit7: 28, 12, 1, 2
+Unit8: 152, 3, 1, 0
+Unit9: 49, 9, 2, 2;
+LootPoss: 20
+MaxLoot: 3
+Power: 9
+Item1: 12, 1
+Item2: 54, 1
+Item3: 98, 1
+Item4: 116, 1;
+
+/85 Армия хаоса 0
+Quantity: 7/3
+Initiative: 1/2
+Unit1: 21, 6, 2, 3
+Unit2: 283, 1, 0, 1
+Unit3: 99, 8, 1, 3
+Unit4: 37, 3, 1, 2
+Unit5: 38, 3, 2, 2
+Unit6: 95, 2, 1, 1;
+LootPoss: 10
+MaxLoot: 1
+Power: 4
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/86 Армия хаоса 1
+Quantity: 8/4
+Initiative: 2/2
+Unit1: 21, 10, 2, 3
+Unit2: 283, 5, 0, 1
+Unit3: 99, 12, 1, 3
+Unit4: 37, 6, 1, 3
+Unit5: 38, 6, 2, 2
+Unit6: 56, 3, 1, 2
+Unit7: 95, 5, 1, 2;
+LootPoss: 11
+MaxLoot: 1
+Power: 7
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/87 Армия хаоса 2
+Quantity: 10/5
+Initiative: 3/3
+Unit1: 21, 15, 2, 2
+Unit2: 283, 10, 0, 1
+Unit3: 99, 17, 1, 3
+Unit4: 37, 10, 1, 3
+Unit5: 38, 10, 2, 2
+Unit6: 56, 6, 1, 2
+Unit7: 257, 1, 0, 1
+Unit8: 65, 3, 1, 1
+Unit9: 95, 9, 1, 2
+Unit10: 97, 8, 1, 1;
+LootPoss: 12
+MaxLoot: 1
+Power: 11
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/88 Армия хаоса 3
+Quantity: 12/4
+Initiative: 4/3
+Unit1: 21, 18, 2, 2
+Unit2: 283, 13, 0, 1
+Unit3: 99, 17, 1, 3
+Unit4: 37, 13, 1, 3
+Unit5: 38, 13, 2, 2
+Unit6: 56, 10, 2, 2
+Unit7: 257, 5, 0, 1
+Unit8: 65, 6, 1, 2
+Unit9: 95, 12, 1, 2
+Unit10: 97, 14, 1, 2
+Unit11: 98, 9, 1, 1;
+LootPoss: 13
+MaxLoot: 1
+Power: 12
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/89 Стая драконов 0
+Quantity: 2/0
+Initiative: 2/2
+Unit1: 60, 3, 2, 0;
+LootPoss: 16
+MaxLoot: 2
+Power: 14
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/90 Стая драконов 1
+Quantity: 3/1
+Initiative: 3/2
+Unit1: 60, 6, 3, 1;
+LootPoss: 19
+MaxLoot: 3
+Power: 17
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/91 Стая драконов 2
+Quantity: 4/2
+Initiative: 3/2
+Unit1: 60, 9, 4, 1;
+LootPoss: 19
+MaxLoot: 3
+Power: 17
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/92 Стая драконов 3
+Quantity: 5/2
+Initiative: 4/3
+Unit1: 60, 12, 5, 1;
+LootPoss: 22
+MaxLoot: 3
+Power: 19
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/93 Минотавры 0
+Quantity: 2/1
+Initiative: 1/1
+Unit1: 51, 3, 2, 1;
+LootPoss: 10
+MaxLoot: 1
+Power: 5
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/94 Минотавры 1
+Quantity: 4/2
+Initiative: 1/2
+Unit1: 51, 6, 4, 1;
+LootPoss: 12
+MaxLoot: 1
+Power: 8
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/95 Минотавры 2
+Quantity: 6/3
+Initiative: 2/2
+Unit1: 51, 9, 6, 1;
+LootPoss: 14
+MaxLoot: 1
+Power: 10
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/96 Минотавры 3
+Quantity: 9/4
+Initiative: 2/3
+Unit1: 51, 12, 9, 1;
+LootPoss: 16
+MaxLoot: 2
+Power: 12
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/97 Некроманты 0
+Quantity: 5/3
+Initiative: 0/1
+Unit1: 19, 5, 1, 2
+Unit2: 91, 3, 1, 0
+Unit3: 20, 5, 1, 1
+Unit4: 36, 3, 1, 1
+Unit5: 144, 5, 1, 0
+Unit6: 211, 6, 0, 1;
+LootPoss: 10
+MaxLoot: 1
+Power: 3
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/98 Некроманты 1
+Quantity: 7/4
+Initiative: 1/1
+Unit1: 19, 8, 1, 3
+Unit2: 91, 6, 1, 2
+Unit3: 20, 8, 1, 2
+Unit4: 92, 4, 1, 1
+Unit5: 36, 6, 1, 1
+Unit6: 144, 8, 1, 1
+Unit7: 211, 10, 0, 1
+Unit8: 74, 7, 1, 1;
+LootPoss: 13
+MaxLoot: 1
+Power: 7
+Item1: 26, 1
+Item2: 68, 1
+Item3: 99, 1;
+
+/99 Некроманты 2
+Quantity: 9/5
+Initiative: 1/2
+Unit1: 19, 12, 1, 3
+Unit2: 91, 9, 1, 2
+Unit3: 20, 12, 1, 2
+Unit4: 92, 7, 1, 1
+Unit5: 36, 9, 1, 2
+Unit6: 144, 12, 1, 1
+Unit7: 211, 13, 0, 1
+Unit8: 74, 12, 1, 1
+Unit9: 55, 5, 1, 1
+Unit10: 59, 5, 1, 1
+Unit11: 170, 5, 0, 1;
+LootPoss: 15
+MaxLoot: 1
+Power: 10
+Item1: 7, 1
+Item2: 118, 1
+Item3: 124, 1;
+
+/100 Некроманты 3
+Quantity: 11/5
+Initiative: 2/2
+Unit1: 19, 15, 1, 4
+Unit2: 91, 12, 1, 3
+Unit3: 20, 15, 1, 4
+Unit4: 92, 11, 1, 3
+Unit5: 36, 12, 2, 3
+Unit6: 144, 15, 1, 2
+Unit7: 211, 16, 0, 3
+Unit8: 74, 17, 1, 2
+Unit9: 55, 8, 1, 2
+Unit10: 59, 8, 1, 1
+Unit11: 64, 6, 1, 1
+Unit12: 75, 3, 0, 1
+Unit13: 170, 7, 0, 1;
+LootPoss: 17
+MaxLoot: 2
+Power: 12
+Item1: 12, 1
+Item2: 95, 1
+Item3: 112, 1
+Item4: 70, 1
+Item5: 131, 1;
+
+/101 Тёмные друиды 0
+Quantity: 3/1
+Initiative: 1/1
+Unit1: 12, 9, 0, 2
+Unit2: 87, 5, 0, 1
+Unit3: 211, 5, 1, 0
+Unit4: 32, 3, 1, 1
+Unit5: 33, 3, 1, 1
+Unit6: 151, 3, 0, 2
+Unit7: 68, 3, 0, 2;
+LootPoss: 10
+MaxLoot: 1
+Power: 4
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/102 Тёмные друиды 1
+Quantity: 5/3
+Initiative: 2/1
+Unit1: 12, 12, 1, 1
+Unit2: 87, 8, 0, 2
+Unit3: 211, 8, 1, 0
+Unit4: 32, 6, 1, 1
+Unit5: 33, 6, 1, 1
+Unit6: 151, 6, 0, 2
+Unit7: 68, 6, 1, 2;
+LootPoss: 12
+MaxLoot: 1
+Power: 6
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/103 Тёмные друиды 2
+Quantity: 7/5
+Initiative: 2/2
+Unit1: 12, 20, 0, 3
+Unit2: 87, 15, 1, 2
+Unit3: 211, 13, 1, 2
+Unit4: 32, 10, 1, 2
+Unit5: 33, 10, 1, 2
+Unit6: 151, 10, 0, 3
+Unit7: 68, 10, 1, 3
+Unit7: 48, 7, 1, 1
+Unit8: 52, 5, 1, 1
+Unit9: 152, 5, 0, 1;
+LootPoss: 14
+MaxLoot: 1
+Power: 8
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/104 Тёмные друиды 3
+Quantity: 9/6
+Initiative: 2/3
+Unit1: 12, 20, 0, 3
+Unit2: 87, 15, 1, 2
+Unit3: 211, 15, 1, 2
+Unit4: 32, 13, 1, 2
+Unit5: 33, 13, 1, 3
+Unit6: 151, 13, 0, 3
+Unit7: 68, 13, 1, 3
+Unit7: 48, 10, 1, 2
+Unit8: 52, 8, 1, 2
+Unit9: 217, 9, 1, 2
+Unit10: 62, 5, 1, 1
+Unit11: 220, 4, 0, 1;
+LootPoss: 16
+MaxLoot: 2
+Power: 13
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/105 Авантюристы 0
+Quantity: 3/1
+Initiative: 0/1
+Unit1: 15, 3, 1, 0
+Unit2: 16, 3, 1, 0
+Unit3: 18, 3, 1, 0
+Unit4: 8, 3, 0, 1
+Unit5: 10, 5, 0, 1
+Unit6: 12, 3, 0, 1
+Unit7: 69, 3, 0, 1
+Unit8: 202, 1, 0, 1
+Unit9: 262, 2, 0, 1;
+LootPoss: 12
+MaxLoot: 1
+Power: 2
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/106 Авантюристы 1
+Quantity: 5/2
+Initiative: 1/1
+Unit1: 15, 6, 1, 1
+Unit2: 16, 6, 1, 1
+Unit3: 18, 6, 1, 1
+Unit4: 22, 3, 1, 1
+Unit5: 10, 7, 0, 3
+Unit6: 211, 3, 1, 1
+Unit7: 69, 6, 0, 3
+Unit8: 158, 2, 0, 1
+Unit9: 202, 4, 0, 1
+Unit10: 262, 5, 0, 1;
+LootPoss: 14
+MaxLoot: 1
+Power: 5
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/107 Авантюристы 2
+Quantity: 8/3
+Initiative: 1/2
+Unit1: 15, 10, 1, 1
+Unit2: 16, 10, 1, 1
+Unit3: 18, 10, 1, 1
+Unit4: 22, 6, 1, 1
+Unit5: 10, 12, 1, 1
+Unit6: 211, 6, 1, 1
+Unit7: 17, 10, 1, 1
+Unit8: 23, 6, 0, 2
+Unit9: 69, 10, 0, 2
+Unit10: 158, 5, 1, 0
+Unit11: 202, 8, 0, 1
+Unit12: 262, 9, 0, 1;
+LootPoss: 16
+MaxLoot: 2
+Power: 7
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/108 Авантюристы 3
+Quantity: 10/5
+Initiative: 2/2
+Unit1: 15, 15, 1, 1
+Unit2: 16, 15, 1, 1
+Unit3: 18, 15, 1, 1
+Unit4: 22, 10, 1, 1
+Unit5: 10, 17, 1, 1
+Unit6: 211, 10, 1, 1
+Unit7: 17, 15, 1, 1
+Unit8: 23, 10, 1, 1
+Unit9: 28, 10, 0, 2
+Unit10: 30, 10, 1, 0
+Unit11: 69, 15, 0, 2
+Unit12: 158, 8, 1, 1
+Unit13: 202, 12, 0, 1
+Unit14: 262, 14, 0, 1;
+LootPoss: 18
+MaxLoot: 3
+Power: 8
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/109 Рыцари 0
+Quantity: 3/2
+Initiative: 1/1
+Unit1: 44, 3, 1, 0
+Unit2: 5, 3, 0, 1
+Unit3: 6, 3, 1, 0
+Unit4: 7, 3, 1, 0
+Unit5: 8, 3, 0, 1;
+LootPoss: 12
+MaxLoot: 1
+Power: 4
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/110 Рыцари 1
+Quantity: 6/3
+Initiative: 1/2
+Unit1: 44, 6, 1, 0
+Unit2: 5, 6, 1, 1
+Unit3: 6, 6, 1, 1
+Unit4: 7, 6, 1, 1
+Unit5: 8, 6, 0, 2
+Unit6: 22, 3, 1, 1
+Unit7: 23, 3, 0, 2
+Unit8: 78, 8, 1, 0;
+LootPoss: 14
+MaxLoot: 2
+Power: 7
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/111 Рыцари 2
+Quantity: 9/5
+Initiative: 2/2
+Unit1: 44, 10, 2, 0
+Unit2: 5, 10, 0, 2
+Unit3: 6, 10, 1, 1
+Unit4: 7, 10, 1, 1
+Unit5: 8, 10, 0, 2
+Unit6: 22, 6, 1, 1
+Unit7: 23, 6, 1, 1
+Unit8: 45, 5, 1, 1
+Unit9: 57, 5, 1, 0
+Unit10: 78, 12, 1, 0;
+LootPoss: 16
+MaxLoot: 3
+Power: 10
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/112 Рыцари 3
+Quantity: 11/5
+Initiative: 2/3
+Unit1: 44, 15, 2, 0
+Unit2: 5, 15, 1, 1
+Unit3: 6, 15, 1, 1
+Unit4: 7, 15, 1, 1
+Unit5: 121, 10, 0, 1
+Unit6: 22, 10, 1, 1
+Unit7: 23, 10, 1, 1
+Unit8: 45, 10, 1, 1
+Unit9: 57, 10, 2, 0
+Unit10: 78, 15, 1, 0;
+LootPoss: 18
+MaxLoot: 3
+Power: 12
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/113 Грифоны 0
+Quantity: 3/1
+Initiative: 2/2
+Unit1: 47, 3, 1, 3
+Unit2: 82, 5, 2, 3;
+LootPoss: 0
+MaxLoot: 0
+Power: 6
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/114 Грифоны 1
+Quantity: 5/2
+Initiative: 2/3
+Unit1: 47, 6, 2, 3
+Unit2: 82, 9, 3, 3;
+LootPoss: 0
+MaxLoot: 0
+Power: 8
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/115 Грифоны 2
+Quantity: 8/3
+Initiative: 3/3
+Unit1: 47, 10, 4, 3
+Unit2: 82, 14, 4, 3;
+LootPoss: 0
+MaxLoot: 0
+Power: 10
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/116 Грифоны 3
+Quantity: 11/4
+Initiative: 3/4
+Unit1: 47, 14, 5, 3
+Unit2: 82, 20, 6, 3;
+LootPoss: 0
+MaxLoot: 0
+Power: 12
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/117 Тролли 0
+Quantity: 2/1
+Initiative: 0/0
+Unit1: 54, 3, 2, 3;
+LootPoss: 0
+MaxLoot: 0
+Power: 5
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/118 Тролли 1
+Quantity: 4/2
+Initiative: 0/1
+Unit1: 54, 6, 4, 3;
+LootPoss: 0
+MaxLoot: 0
+Power: 7
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/119 Тролли 2
+Quantity: 6/3
+Initiative: 1/1
+Unit1: 54, 10, 6, 3;
+LootPoss: 0
+MaxLoot: 0
+Power: 9
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/120 Тролли 3
+Quantity: 8/4
+Initiative: 1/2
+Unit1: 54, 14, 8, 3;
+LootPoss: 0
+MaxLoot: 0
+Power: 11
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/121 Инквизиторы 0
+Quantity: 4/2
+Initiative: 1/1
+Unit1: 139, 3, 1, 1
+Unit2: 140, 1, 1, 0
+Unit3: 146, 2, 2, 0;
+LootPoss: 12
+MaxLoot: 1
+Power: 4
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/122 Инквизиторы 1
+Quantity: 6/3
+Initiative: 1/2
+Unit1: 139, 6, 2, 1
+Unit2: 140, 4, 2, 1
+Unit3: 146, 5, 2, 2;
+LootPoss: 15
+MaxLoot: 1
+Power: 5
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/123 Инквизиторы 2
+Quantity: 8/4
+Initiative: 2/2
+Unit1: 139, 9, 2, 1
+Unit2: 140, 7, 2, 2
+Unit3: 146, 8, 2, 3
+Unit4: 141, 5, 1, 1
+Unit5: 142, 4, 1, 1;
+LootPoss: 17
+MaxLoot: 1
+Power: 8
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/124 Инквизиторы 3
+Quantity: 10/5
+Initiative: 2/3
+Unit1: 139, 12, 3, 1
+Unit2: 140, 10, 3, 2
+Unit3: 146, 11, 1, 3
+Unit4: 141, 10, 1, 1
+Unit5: 142, 7, 1, 1
+Unit6: 143, 5, 1, 1;
+LootPoss: 19
+MaxLoot: 2
+Power: 10
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/125 Пегасы 0
+Quantity: 2/1
+Initiative: 2/2
+Unit1: 24, 3, 2, 3;
+LootPoss: 0
+MaxLoot: 0
+Power: 3
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/126 Пегасы 1
+Quantity: 4/2
+Initiative: 2/3
+Unit1: 24, 6, 4, 3;
+LootPoss: 0
+MaxLoot: 0
+Power: 5
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/127 Пегасы 2
+Quantity: 6/4
+Initiative: 3/3
+Unit1: 24, 11, 6, 3;
+LootPoss: 0
+MaxLoot: 0
+Power: 7
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/128 Пегасы 3
+Quantity: 8/6
+Initiative: 3/4
+Unit1: 24, 17, 8, 3;
+LootPoss: 0
+MaxLoot: 0
+Power: 9
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/129 Демонологи 0
+Quantity: 3/2
+Initiative: 0/2
+Unit1: 21, 3, 1, 3
+Unit2: 99, 5, 1, 2
+Unit3: 190, 6, 1, 0;
+LootPoss: 8
+MaxLoot: 1
+Power: 3
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/130 Демонологи 1
+Quantity: 6/3
+Initiative: 1/2
+Unit1: 21, 6, 1, 3
+Unit2: 283, 1, 0, 1
+Unit3: 99, 8, 1, 3
+Unit4: 37, 3, 1, 2
+Unit5: 38, 3, 1, 2
+Unit6: 190, 10, 2, 1;
+LootPoss: 12
+MaxLoot: 1
+Power: 6
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/131 Демонологи 2
+Quantity: 8/4
+Initiative: 2/3
+Unit1: 21, 10, 1, 3
+Unit2: 283, 4, 0, 1
+Unit3: 99, 12, 1, 3
+Unit4: 37, 6, 1, 2
+Unit5: 38, 6, 1, 2
+Unit6: 56, 3, 1, 1
+Unit7: 190, 16, 3, 2;
+LootPoss: 16
+MaxLoot: 1
+Power: 9
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/132 Демонологи 3
+Quantity: 10/5
+Initiative: 3/3
+Unit1: 21, 15, 1, 3
+Unit2: 283, 9, 0, 1
+Unit3: 99, 17, 1, 3
+Unit4: 37, 10, 1, 2
+Unit5: 38, 10, 1, 1
+Unit6: 56, 6, 1, 1
+Unit7: 257, 1, 0, 1
+Unit8: 65, 3, 1, 1
+Unit9: 190, 21, 4, 2;
+LootPoss: 18
+MaxLoot: 2
+Power: 12
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/133 Друиды 0
+Quantity: 4/2
+Initiative: 1/1
+Unit1: 8, 5, 1, 2
+Unit2: 17, 3, 1, 2
+Unit3: 83, 6, 0, 2
+Unit4: 24, 3, 1, 1
+Unit5: 107, 3, 1, 0;
+LootPoss: 10
+MaxLoot: 1
+Power: 3
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/134 Друиды 1
+Quantity: 6/3
+Initiative: 2/1
+Unit1: 8, 8, 1, 2
+Unit2: 17, 6, 1, 2
+Unit3: 83, 8, 0, 2
+Unit4: 121, 6, 1, 1
+Unit5: 24, 6, 1, 1
+Unit6: 35, 6, 1, 1
+Unit7: 210, 6, 0, 1
+Unit8: 107, 6, 1, 0;
+LootPoss: 12
+MaxLoot: 1
+Power: 5
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/135 Друиды 2
+Quantity: 8/4
+Initiative: 2/2
+Unit1: 8, 12, 1, 3
+Unit2: 17, 10, 2, 3
+Unit3: 83, 14, 0, 3
+Unit4: 121, 10, 2, 3
+Unit5: 24, 10, 1, 2
+Unit6: 35, 10, 1, 2
+Unit7: 210, 10, 0, 2
+Unit8: 107, 10, 1, 1
+Unit9: 53, 8, 0, 1;
+LootPoss: 14
+MaxLoot: 1
+Power: 7
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/136 Друиды 3
+Quantity: 11/5
+Initiative: 2/3
+Unit1: 8, 16, 1, 4
+Unit2: 17, 14, 2, 4
+Unit3: 83, 18, 0, 4
+Unit4: 121, 14, 2, 4
+Unit5: 24, 14, 1, 3
+Unit6: 35, 14, 1, 3
+Unit7: 210, 10, 0, 3
+Unit8: 107, 14, 2, 2
+Unit9: 53, 12, 1, 2
+Unit10: 47, 12, 0, 2
+Unit11: 61, 5, 1, 1;
+LootPoss: 16
+MaxLoot: 2
+Power: 11
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/137 13 чертей
+Quantity: 13/0
+Initiative: 3/3
+Unit1: 37, 10, 12, 3
+Unit2: 191, 5, 1, 0;
+LootPoss: 10
+MaxLoot: 2
+Power: 7
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/138 Единорог
+Quantity: 1/0
+Initiative: 3/3
+Unit1: 53, 10, 1, 3;
+LootPoss: 10
+MaxLoot: 2
+Power: 3
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/139 Тролль
+Quantity: 1/0
+Initiative: 1/1
+Unit1: 54, 10, 1, 3;
+LootPoss: 0
+MaxLoot: 0
+Power: 3
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/140 Гидра
+Quantity: 1/0
+Initiative: 1/1
+Unit1: 62, 10, 1, 3;
+LootPoss: 0
+MaxLoot: 0
+Power: 6
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/141 Горгульи 0
+Quantity: 2/1
+Initiative: 2/2
+Unit1: 39, 3, 2, 3;
+LootPoss: 0
+MaxLoot: 0
+Power: 3
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/142 Горгульи 1
+Quantity: 4/2
+Initiative: 2/3
+Unit1: 39, 6, 4, 3;
+LootPoss: 0
+MaxLoot: 0
+Power: 5
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/143 Горгульи 2
+Quantity: 6/4
+Initiative: 3/3
+Unit1: 39, 11, 6, 3;
+LootPoss: 0
+MaxLoot: 0
+Power: 7
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/144 Горгульи 3
+Quantity: 8/6
+Initiative: 3/4
+Unit1: 39, 17, 8, 3;
+LootPoss: 0
+MaxLoot: 0
+Power: 9
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/145 Гончие Хаоса
+Quantity: 8/1
+Initiative: 3/3
+Unit1: 38, 10, 4, 3
+Unit2: 56, 6, 2, 1
+Unit3: 95, 8, 2, 2;
+LootPoss: 8
+MaxLoot: 1
+Power: 10
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/146 Древний Дракон 0
+Quantity: 1/0
+Initiative: 4/2
+Unit1: 60, 25, 1, 1;
+LootPoss: 25
+MaxLoot: 1
+Power: 13
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/147 Медузы 0
+Quantity: 2/1
+Initiative: 0/1
+Unit1: 67, 3, 2, 3;
+LootPoss: 8
+MaxLoot: 1
+Power: 5
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/148 Медузы 1
+Quantity: 4/2
+Initiative: 1/1
+Unit1: 67, 6, 4, 3
+Unit2: 165, 1, 0, 1;
+LootPoss: 10
+MaxLoot: 1
+Power: 7
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/149 Медузы 2
+Quantity: 5/3
+Initiative: 2/1
+Unit1: 67, 11, 4, 3
+Unit2: 165, 6, 1, 1;
+LootPoss: 12
+MaxLoot: 2
+Power: 9
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/150 Медузы 3
+Quantity: 7/5
+Initiative: 2/2
+Unit1: 67, 17, 5, 3
+Unit2: 165, 11, 2, 1;
+LootPoss: 14
+MaxLoot: 2
+Power: 11
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/151 Слизни 0
+Quantity: 3/1
+Initiative: 1/2
+Unit1: 68, 3, 3, 3;
+LootPoss: 5
+MaxLoot: 1
+Power: 4
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/152 Слизни 1
+Quantity: 5/2
+Initiative: 2/3
+Unit1: 68, 6, 5, 3;
+LootPoss: 6
+MaxLoot: 1
+Power: 6
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/153 Слизни 2
+Quantity: 7/3
+Initiative: 3/3
+Unit1: 68, 10, 7, 3;
+LootPoss: 7
+MaxLoot: 1
+Power: 7
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/154 Слизни 3
+Quantity: 9/4
+Initiative: 4/3
+Unit1: 68, 13, 9, 3;
+LootPoss: 8
+MaxLoot: 2
+Power: 9
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/155 Ящеры 0
+Quantity: 4/1
+Initiative: 1/1
+Unit1: 69, 3, 3, 2
+Unit2: 113, 4, 1, 1;
+LootPoss: 8
+MaxLoot: 1
+Power: 2
+Item1: 1, 1
+Item2: 80, 1
+Item3: 67, 1;
+
+/156 Ящеры 1
+Quantity: 6/2
+Initiative: 1/2
+Unit1: 69, 6, 3, 3
+Unit2: 113, 7, 1, 2
+Unit3: 114, 6, 1, 1
+Unit4: 115, 4, 1, 1;
+LootPoss: 9
+MaxLoot: 1
+Power: 4
+Item1: 10, 2
+Item2: 120, 1
+Item3: 43, 1;
+
+/157 Ящеры 2
+Quantity: 9/3
+Initiative: 2/2
+Unit1: 69, 10, 3, 3
+Unit2: 113, 11, 1, 2
+Unit3: 114, 12, 2, 2
+Unit4: 115, 7, 2, 2
+Unit5: 116, 3, 1, 1;
+LootPoss: 10
+MaxLoot: 1
+Power: 7
+Item1: 11, 1
+Item2: 69, 1
+Item3: 85, 1;
+
+/158 Ящеры 3
+Quantity: 11/4
+Initiative: 3/2
+Unit1: 69, 15, 3, 4
+Unit2: 113, 15, 1, 4
+Unit3: 114, 18, 2, 3
+Unit4: 115, 12, 2, 3
+Unit5: 116, 7, 2, 2
+Unit6: 117, 10, 1, 1;
+LootPoss: 12
+MaxLoot: 1
+Power: 10
+Item1: 4, 2
+Item2: 130, 1
+Item3: 73, 1;
+
+/159 Культ Гидры
+Quantity: 12/4
+Initiative: 3/2
+Unit1: 13, 15, 4, 3
+Unit2: 12, 15, 3, 3
+Unit3: 211, 12, 2, 2
+Unit4: 67, 10, 2, 1
+Unit5: 62, 20, 1, 0;
+LootPoss: 12
+MaxLoot: 1
+Power: 11
+Item1: 4, 2
+Item2: 130, 1
+Item3: 73, 1;
+
+/160 Культ Дракона
+Quantity: 12/4
+Initiative: 3/2
+Unit1: 69, 15, 4, 3
+Unit2: 22, 15, 2, 3
+Unit3: 192, 7, 1, 2
+Unit4: 45, 12, 2, 2
+Unit5: 47, 10, 2, 1
+Unit6: 60, 20, 1, 0;
+LootPoss: 12
+MaxLoot: 1
+Power: 17
+Item1: 4, 2
+Item2: 130, 1
+Item3: 73, 1;
+
+/161 Культ Феникса
+Quantity: 12/4
+Initiative: 3/2
+Unit1: 15, 15, 4, 3
+Unit2: 22, 15, 2, 3
+Unit3: 192, 7, 1, 2
+Unit4: 45, 12, 2, 2
+Unit5: 53, 10, 2, 1
+Unit6: 70, 20, 1, 0;
+LootPoss: 12
+MaxLoot: 1
+Power: 13
+Item1: 4, 2
+Item2: 130, 1
+Item3: 73, 1;
+
+/162 Культ Гиганта
+Quantity: 12/4
+Initiative: 3/2
+Unit1: 14, 15, 4, 3
+Unit2: 12, 15, 3, 3
+Unit3: 211, 12, 2, 2
+Unit4: 71, 5, 2, 1
+Unit5: 66, 20, 1, 0;
+LootPoss: 11
+MaxLoot: 1
+Power: 11
+Item1: 4, 2
+Item2: 130, 1
+Item3: 73, 1;
+
+/163 Феникс
+Quantity: 1/0
+Initiative: 3/2
+Unit1: 70, 10, 1, 1;
+LootPoss: 8
+MaxLoot: 1
+Power: 12
+Item1: 4, 2
+Item2: 130, 1
+Item3: 73, 1;
+
+/164 Големы
+Quantity: 4/6
+Initiative: 0/1
+Unit1: 71, 6, 4, 3;
+LootPoss: 0
+MaxLoot: 0
+Power: 12
+Item1: 4, 2
+Item2: 130, 1
+Item3: 73, 1;
+
+/165 Стражи Древних 0
+Quantity: 6/1
+Initiative: 1/2
+Unit1: 101, 4, 2, 3
+Unit2: 102, 4, 1, 3
+Unit3: 71, 2, 3, 3;
+LootPoss: 8
+MaxLoot: 1
+Power: 10
+Item1: 1, 1
+Item2: 80, 1
+Item3: 67, 1;
+
+/166 Стражи Древних 1
+Quantity: 9/1
+Initiative: 1/2
+Unit1: 101, 8, 3, 3
+Unit2: 102, 8, 2, 3
+Unit3: 71, 4, 4, 3;
+LootPoss: 9
+MaxLoot: 1
+Power: 12
+Item1: 10, 2
+Item2: 120, 1
+Item3: 43, 1;
+
+/167 Стражи Древних 2
+Quantity: 12/1
+Initiative: 1/2
+Unit1: 101, 12, 4, 3
+Unit2: 102, 12, 3, 3
+Unit3: 71, 6, 5, 3;
+LootPoss: 10
+MaxLoot: 2
+Power: 14
+Item1: 11, 1
+Item2: 69, 1
+Item3: 85, 1;
+
+/168 Стражи Древних 3
+Quantity: 15/1
+Initiative: 1/2
+Unit1: 101, 16, 5, 3
+Unit2: 102, 16, 4, 3
+Unit3: 71, 9, 6, 3;
+LootPoss: 12
+MaxLoot: 2
+Power: 15
+Item1: 4, 2
+Item2: 130, 1
+Item3: 73, 1;
+
+/169 Ведьмаки
+Quantity: 6/4
+Initiative: 3/2
+Unit1: 72, 14, 2, 1
+Unit2: 72, 8, 4, 2;
+LootPoss: 100
+MaxLoot: 2
+Power: 10
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/170 Волки 0
+Quantity: 6/3
+Initiative: 1/1
+Unit1: 83, 3, 5, 3
+Unit2: 83, 6, 1, 1;
+LootPoss: 10
+MaxLoot: 1
+Power: 1
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/171 Волки 1
+Quantity: 7/4
+Initiative: 2/1
+Unit1: 83, 6, 6, 3
+Unit2: 83, 10, 1, 1;
+LootPoss: 10
+MaxLoot: 1
+Power: 2
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/172 Волки 2
+Quantity: 9/5
+Initiative: 2/2
+Unit1: 83, 9, 8, 3
+Unit2: 83, 14, 1, 1;
+LootPoss: 10
+MaxLoot: 1
+Power: 2
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/173 Волки 3
+Quantity: 10/6
+Initiative: 3/2
+Unit1: 83, 15, 9, 3
+Unit2: 83, 20, 1, 1;
+LootPoss: 10
+MaxLoot: 1
+Power: 3
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/174 Латники
+Quantity: 5/3
+Initiative: 3/2
+Unit1: 78, 12, 5, 2;
+LootPoss: 100
+MaxLoot: 3
+Power: 12
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/175 Обитатели болот 0
+Quantity: 3/1
+Initiative: 3/2
+Unit1: 151, 3, 3, 1;
+LootPoss: 5
+MaxLoot: 1
+Power: 4
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/176 Обитатели болот 1
+Quantity: 4/2
+Initiative: 3/1
+Unit1: 151, 6, 3, 1
+Unit2: 150, 1, 1, 0;
+LootPoss: 6
+MaxLoot: 1
+Power: 6
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/177 Обитатели болот 2
+Quantity: 5/3
+Initiative: 2/2
+Unit1: 151, 10, 3, 2
+Unit2: 150, 3, 1, 1
+Unit3: 131, 1, 1, 0;
+LootPoss: 7
+MaxLoot: 1
+Power: 8
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/178 Обитатели болот 3
+Quantity: 6/4
+Initiative: 2/1
+Unit1: 151, 13, 3, 2
+Unit2: 150, 5, 2, 1
+Unit3: 131, 3, 1, 1;
+LootPoss: 8
+MaxLoot: 2
+Power: 10
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/179 Воплощения стихий 0
+Quantity: 2/1
+Initiative: 2/1
+Unit1: 153, 3, 1, 2
+Unit2: 154, 3, 1, 1
+Unit3: 118, 3, 0, 1
+Unit4: 155, 3, 0, 1;
+LootPoss: 5
+MaxLoot: 2
+Power: 5
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/180 Воплощения стихий 1
+Quantity: 4/2
+Initiative: 3/1
+Unit1: 153, 6, 1, 2
+Unit2: 154, 6, 1, 2
+Unit3: 118, 6, 1, 1
+Unit4: 155, 6, 1, 1;
+LootPoss: 7
+MaxLoot: 3
+Power: 7
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/181 Воплощения стихий 2
+Quantity: 6/3
+Initiative: 2/1
+Unit1: 153, 9, 2, 2
+Unit2: 154, 9, 2, 2
+Unit3: 118, 9, 1, 2
+Unit4: 155, 9, 1, 1;
+LootPoss: 9
+MaxLoot: 4
+Power: 9
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/182 Воплощения стихий 3
+Quantity: 8/4
+Initiative: 2/1
+Unit1: 153, 12, 2, 1
+Unit2: 154, 12, 2, 1
+Unit3: 118, 12, 2, 1
+Unit4: 155, 12, 2, 1;
+LootPoss: 11
+MaxLoot: 5
+Power: 12
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/183 Слуги Смерти 0
+Quantity: 2/1
+Initiative: 2/1
+Unit1: 173, 1, 1, 0
+Unit2: 91, 10, 1, 1;
+LootPoss: 8
+MaxLoot: 1
+Power: 4
+Item1: 4, 2
+Item2: 130, 1
+Item3: 73, 1;
+
+/184 Слуги Смерти 1
+Quantity: 3/2
+Initiative: 2/2
+Unit1: 173, 3, 1, 1
+Unit2: 91, 15, 2, 3;
+LootPoss: 10
+MaxLoot: 1
+Power: 6
+Item1: 4, 2
+Item2: 130, 1
+Item3: 73, 1;
+
+/185 Слуги Смерти 2
+Quantity: 4/3
+Initiative: 3/2
+Unit1: 174, 6, 0, 1
+Unit2: 173, 6, 1, 2
+Unit3: 91, 20, 2, 4
+Unit4: 193, 5, 1, 1;
+LootPoss: 12
+MaxLoot: 2
+Power: 8
+Item1: 4, 2
+Item2: 130, 1
+Item3: 73, 1;
+
+/186 Слуги Смерти 3
+Quantity: 5/4
+Initiative: 3/3
+Unit1: 174, 12, 1, 1
+Unit2: 173, 10, 1, 4
+Unit3: 91, 25, 2, 5
+Unit4: 193, 10, 1, 3
+Unit5: 194, 6, 0, 2;
+LootPoss: 14
+MaxLoot: 2
+Power: 10
+Item1: 4, 2
+Item2: 130, 1
+Item3: 73, 1;
+
+/187 Тёмные эльфы 0
+Quantity: 4/2
+Initiative: 2/1
+Unit1: 175, 5, 3, 1
+Unit2: 183, 2, 1, 0;
+LootPoss: 10
+MaxLoot: 1
+Power: 3
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/188 Тёмные эльфы 1
+Quantity: 5/3
+Initiative: 3/1
+Unit1: 175, 8, 3, 2
+Unit2: 176, 3, 1, 1
+Unit3: 183, 4, 1, 1
+Unit4: 180, 4, 0, 1;
+LootPoss: 12
+MaxLoot: 1
+Power: 5
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/189 Тёмные эльфы 2
+Quantity: 7/4
+Initiative: 4/2
+Unit1: 175, 11, 2, 3
+Unit2: 176, 6, 1, 2
+Unit3: 183, 6, 1, 2
+Unit4: 180, 7, 1, 1
+Unit5: 177, 5, 1, 0
+Unit6: 181, 4, 1, 0;
+LootPoss: 14
+MaxLoot: 1
+Power: 7
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/190 Тёмные эльфы 3
+Quantity: 9/5
+Initiative: 5/2
+Unit1: 175, 14, 2, 3
+Unit2: 176, 9, 1, 2
+Unit3: 183, 8, 2, 2
+Unit4: 180, 10, 0, 2
+Unit5: 177, 8, 1, 1
+Unit6: 181, 7, 1, 2
+Unit7: 178, 6, 1, 0
+Unit8: 182, 6, 1, 0;
+LootPoss: 15
+MaxLoot: 1
+Power: 9
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/191 Кобольды
+Quantity: 10/0
+Initiative: 2/1
+Unit1: 188, 8, 10, 0;
+LootPoss: 10
+MaxLoot: 1
+Power: 7
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/192 Погонщики 0
+Quantity: 5/2
+Initiative: 1/1
+Unit1: 187, 5, 4, 3
+Unit2: 179, 8, 1, 1;
+LootPoss: 10
+MaxLoot: 1
+Power: 2
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/193 Погонщики 1
+Quantity: 7/3
+Initiative: 1/1
+Unit1: 187, 8, 5, 4
+Unit2: 179, 12, 2, 2;
+LootPoss: 11
+MaxLoot: 1
+Power: 4
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/194 Погонщики 2
+Quantity: 9/4
+Initiative: 1/1
+Unit1: 187, 11, 5, 4
+Unit2: 179, 15, 3, 2
+Unit3: 182, 5, 1, 1;
+LootPoss: 13
+MaxLoot: 1
+Power: 6
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/195 Погонщики 3
+Quantity: 11/5
+Initiative: 1/1
+Unit1: 187, 14, 4, 6
+Unit2: 179, 18, 3, 4
+Unit3: 182, 9, 3, 2
+Unit4: 185, 6, 1, 1;
+LootPoss: 15
+MaxLoot: 1
+Power: 8
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/196 Воины альваров
+Quantity: 7/3
+Initiative: 1/1
+Unit1: 175, 11, 2, 3
+Unit2: 176, 8, 2, 2
+Unit3: 183, 9, 1, 2
+Unit4: 181, 5, 2, 1;
+LootPoss: 13
+MaxLoot: 1
+Power: 8
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/197 Маги альваров
+Quantity: 7/3
+Initiative: 1/1
+Unit1: 183, 15, 4, 2
+Unit2: 182, 10, 1, 2
+Unit3: 177, 12, 1, 2
+Unit4: 178, 6, 1, 1;
+LootPoss: 13
+MaxLoot: 1
+Power: 8
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/198 Шайка разбойников 0
+Quantity: 4/0
+Initiative: 1/1
+Unit1: 11, 5, 3, 0
+Unit2: 128, 3, 1, 0;
+LootPoss: 15
+MaxLoot: 1
+Power: 1
+Item1: 51, 1
+Item2: 9, 1
+Item3: 41, 1;
+
+/199 Шайка разбойников 1
+Quantity: 7/0
+Initiative: 2/1
+Unit1: 11, 10, 6, 0
+Unit2: 128, 6, 1, 0;
+LootPoss: 15
+MaxLoot: 1
+Power: 2
+Item1: 51, 1
+Item2: 9, 1
+Item3: 41, 1;
+
+/200 Шайка разбойников 2
+Quantity: 10/0
+Initiative: 2/2
+Unit1: 11, 15, 9, 0
+Unit2: 128, 9, 1, 0;
+LootPoss: 15
+MaxLoot: 2
+Power: 3
+Item1: 51, 1
+Item2: 9, 1
+Item3: 41, 1;
+
+/201 Шайка разбойников 3
+Quantity: 13/0
+Initiative: 2/2
+Unit1: 11, 20, 12, 0
+Unit2: 128, 12, 1, 0;
+LootPoss: 15
+MaxLoot: 2
+Power: 4
+Item1: 51, 1
+Item2: 9, 1
+Item3: 41, 1;
+
+/202 Стражи святой обители
+Quantity: 10/5
+Initiative: 3/1
+Unit1: 139, 15, 2, 1
+Unit2: 146, 11, 2, 1
+Unit3: 140, 16, 2, 1
+Unit4: 141, 14, 2, 1
+Unit5: 142, 9, 1, 1
+Unit6: 143, 6, 1, 1;
+LootPoss: 20
+MaxLoot: 2
+Power: 7
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/203 Повелитель мёртвых
+Quantity: 13/3
+Initiative: 2/2
+Unit1: 19, 19, 2, 5
+Unit2: 91, 14, 2, 4
+Unit3: 20, 18, 2, 4
+Unit4: 92, 13, 1, 3
+Unit5: 36, 15, 2, 4
+Unit6: 55, 12, 1, 3
+Unit7: 74, 25, 1, 0
+Unit8: 64, 10, 1, 2
+Unit9: 75, 8, 1, 0;
+LootPoss: 22
+MaxLoot: 3
+Power: 12
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/204 Дитя Света
+Quantity: 12/4
+Initiative: 2/2
+Unit1: 6, 18, 3, 5
+Unit2: 7, 16, 2, 5
+Unit3: 23, 15, 2, 5
+Unit4: 146, 12, 1, 3
+Unit5: 149, 12, 2, 2
+Unit6: 57, 12, 1, 2
+Unit7: 157, 10, 1, 1;
+LootPoss: 22
+MaxLoot: 3
+Power: 12
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/205 Элементалы
+Quantity: 8/4
+Initiative: 3/2
+Unit1: 153, 12, 2, 1
+Unit2: 154, 12, 2, 1
+Unit3: 118, 12, 2, 2
+Unit4: 155, 12, 2, 2;
+LootPoss: 22
+MaxLoot: 3
+Power: 10
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/206 Волшебные драконы
+Quantity: 2/2
+Initiative: 4/3
+Unit1: 162, 25, 1, 1
+Unit2: 162, 15, 1, 2;
+LootPoss: 22
+MaxLoot: 3
+Power: 8
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/207 Владыка фантомов
+Quantity: 7/3
+Initiative: 2/3
+Unit1: 164, 30, 1, 1
+Unit2: 163, 20, 6, 3;
+LootPoss: 22
+MaxLoot: 3
+Power: 14
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/208 Лич 0
+Quantity: 8/2
+Initiative: 2/2
+Unit1: 189, 7, 1, 0
+Unit2: 193, 6, 2, 4
+Unit3: 91, 9, 2, 3
+Unit4: 173, 1, 1, 2
+Unit5: 171, 6, 1, 2
+Unit6: 55, 3, 0, 1
+Unit7: 64, 1, 0, 1
+Unit8: 75, 1, 1, 0;
+LootPoss: 15
+MaxLoot: 1
+Power: 15
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/209 Лич 1
+Quantity: 10/2
+Initiative: 2/3
+Unit1: 189, 11, 1, 0
+Unit2: 193, 9, 2, 4
+Unit3: 91, 16, 2, 3
+Unit4: 173, 3, 1, 2
+Unit5: 171, 9, 2, 2
+Unit6: 55, 6, 1, 1
+Unit7: 64, 3, 0, 1
+Unit8: 75, 3, 1, 0;
+LootPoss: 17
+MaxLoot: 2
+Power: 18
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/210 Лич 2
+Quantity: 12/2
+Initiative: 3/3
+Unit1: 189, 15, 1, 0
+Unit2: 193, 12, 2, 4
+Unit3: 91, 17, 2, 3
+Unit4: 173, 6, 1, 2
+Unit5: 171, 12, 2, 2
+Unit6: 55, 9, 2, 1
+Unit7: 64, 6, 1, 1
+Unit8: 75, 5, 1, 0;
+LootPoss: 19
+MaxLoot: 3
+Power: 20
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/211 Лич 3
+Quantity: 13/3
+Initiative: 4/3
+Unit1: 189, 19, 1, 0
+Unit2: 193, 15, 2, 4
+Unit3: 91, 21, 2, 3
+Unit4: 173, 8, 2, 2
+Unit5: 171, 15, 2, 2
+Unit6: 55, 12, 2, 1
+Unit7: 64, 8, 1, 1
+Unit8: 75, 7, 1, 0;
+LootPoss: 22
+MaxLoot: 3
+Power: 22
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/212 Лорд Хаоса
+Quantity: 11/5
+Initiative: 3/3
+Unit1: 21, 18, 1, 3
+Unit2: 283, 11, 0, 1
+Unit3: 99, 17, 1, 4
+Unit4: 37, 13, 1, 3
+Unit5: 38, 13, 1, 3
+Unit6: 95, 12, 1, 3
+Unit7: 56, 10, 1, 2
+Unit8: 257, 4, 0, 1
+Unit9: 97, 12, 1, 2
+Unit10: 65, 8, 1, 1
+Unit11: 98, 14, 1, 1
+Unit12: 190, 20, 1, 3
+Unit13: 160, 15, 1, 0;
+LootPoss: 22
+MaxLoot: 3
+Power: 16
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/213 Иллитиды
+Quantity: 2/1
+Initiative: 1/1
+Unit1: 185, 18, 2, 1;
+LootPoss: 0
+MaxLoot: 0
+Power: 6
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/214 Чудовища 0
+Quantity: 2/1
+Initiative: 1/1
+Unit1: 76, 5, 2, 1;
+LootPoss: 15
+MaxLoot: 1
+Power: 8
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/215 Чудовища 1
+Quantity: 3/2
+Initiative: 1/2
+Unit1: 76, 8, 3, 1;
+LootPoss: 15
+MaxLoot: 1
+Power: 12
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/216 Чудовища 2
+Quantity: 4/3
+Initiative: 2/1
+Unit1: 76, 11, 4, 1;
+LootPoss: 15
+MaxLoot: 1
+Power: 16
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/217 Чудовища 3
+Quantity: 5/4
+Initiative: 2/2
+Unit1: 76, 14, 5, 1;
+LootPoss: 15
+MaxLoot: 1
+Power: 20
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/218 Гномья артиллерия 0
+Quantity: 7/3
+Initiative: 1/2
+Unit1: 156, 11, 1, 4
+Unit2: 103, 10, 2, 3
+Unit3: 184, 8, 2, 3
+Unit4: 258, 6, 0, 1
+Unit5: 104, 5, 2, 2;
+LootPoss: 20
+MaxLoot: 2
+Power: 9
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/219 Гномья артиллерия 1
+Quantity: 8/4
+Initiative: 2/2
+Unit1: 156, 15, 1, 4
+Unit2: 103, 14, 2, 3
+Unit3: 184, 11, 2, 3
+Unit4: 258, 9, 1, 1
+Unit5: 104, 8, 2, 2;
+LootPoss: 20
+MaxLoot: 2
+Power: 11
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/220 Гномья артиллерия 2
+Quantity: 9/5
+Initiative: 2/2
+Unit1: 156, 19, 1, 4
+Unit2: 103, 18, 2, 3
+Unit3: 184, 14, 2, 3
+Unit4: 258, 12, 2, 1
+Unit5: 104, 11, 2, 2;
+LootPoss: 20
+MaxLoot: 2
+Power: 13
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/221 Гномья артиллерия 3
+Quantity: 10/6
+Initiative: 2/2
+Unit1: 156, 25, 1, 4
+Unit2: 103, 22, 2, 3
+Unit3: 184, 19, 2, 3
+Unit4: 258, 16, 2, 1
+Unit5: 104, 15, 3, 2;
+LootPoss: 20
+MaxLoot: 2
+Power: 18
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/222 Тарраск 0
+Quantity: 1/0
+Initiative: 2/1
+Unit1: 196, 7, 1, 0;
+LootPoss: 25
+MaxLoot: 1
+Power: 12
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/223 Тарраск 1
+Quantity: 1/0
+Initiative: 2/2
+Unit1: 196, 14, 1, 0;
+LootPoss: 25
+MaxLoot: 1
+Power: 14
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/224 Тарраск 2
+Quantity: 1/0
+Initiative: 3/2
+Unit1: 196, 20, 1, 0;
+LootPoss: 25
+MaxLoot: 1
+Power: 16
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/225 Тарраск 3
+Quantity: 1/0
+Initiative: 3/3
+Unit1: 196, 26, 1, 0;
+LootPoss: 25
+MaxLoot: 1
+Power: 19
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/226 Маги 0
+Quantity: 8/2
+Initiative: 1/2
+Unit1: 197, 7, 3, 2
+Unit2: 198, 6, 2, 1
+Unit3: 199, 5, 2, 1
+Unit4: 200, 7, 1, 0
+Unit5: 201, 3, 0, 1;
+LootPoss: 10
+MaxLoot: 1
+Power: 10
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/227 Маги 1
+Quantity: 9/3
+Initiative: 2/2
+Unit1: 197, 11, 2, 2
+Unit2: 198, 10, 3, 2
+Unit3: 199, 9, 3, 2
+Unit4: 200, 11, 1, 0
+Unit5: 201, 6, 0, 1;
+LootPoss: 10
+MaxLoot: 1
+Power: 12
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/228 Маги 2
+Quantity: 10/4
+Initiative: 2/3
+Unit1: 197, 15, 2, 2
+Unit2: 198, 14, 3, 2
+Unit3: 199, 13, 3, 3
+Unit4: 200, 15, 1, 0
+Unit5: 201, 9, 1, 0;
+LootPoss: 10
+MaxLoot: 1
+Power: 15
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/229 Маги 3
+Quantity: 11/5
+Initiative: 3/3
+Unit1: 197, 19, 3, 3
+Unit2: 198, 18, 3, 3
+Unit3: 199, 16, 3, 3
+Unit4: 200, 18, 1, 0
+Unit5: 201, 12, 1, 0;
+LootPoss: 10
+MaxLoot: 1
+Power: 18
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/230 Стражи гробницы 0
+Quantity: 3/1
+Initiative: 1/1
+Unit1: 91, 1, 1, 1
+Unit2: 92, 1, 1, 1
+Unit3: 170, 1, 1, 0;
+LootPoss: 8
+MaxLoot: 1
+Power: 3
+Item1: 4, 2
+Item2: 130, 1
+Item3: 73, 1;
+
+/231 Стражи гробницы 1
+Quantity: 5/2
+Initiative: 2/1
+Unit1: 91, 5, 1, 2
+Unit2: 92, 4, 2, 1
+Unit3: 170, 4, 1, 1
+Unit4: 171, 2, 1, 1;
+LootPoss: 8
+MaxLoot: 1
+Power: 5
+Item1: 4, 2
+Item2: 130, 1
+Item3: 73, 1;
+
+/232 Стражи гробницы 2
+Quantity: 8/3
+Initiative: 2/2
+Unit1: 91, 9, 2, 1
+Unit2: 92, 7, 2, 1
+Unit3: 170, 7, 1, 1
+Unit4: 171, 4, 2, 1
+Unit5: 193, 2, 1, 1;
+LootPoss: 8
+MaxLoot: 1
+Power: 7
+Item1: 4, 2
+Item2: 130, 1
+Item3: 73, 1;
+
+/233 Стражи гробницы 3
+Quantity: 12/4
+Initiative: 3/2
+Unit1: 91, 13, 3, 1
+Unit2: 92, 10, 3, 1
+Unit3: 170, 10, 1, 1
+Unit4: 171, 6, 2, 1
+Unit5: 193, 4, 2, 1
+Unit6: 172, 2, 1, 1;
+LootPoss: 8
+MaxLoot: 1
+Power: 9
+Item1: 4, 2
+Item2: 130, 1
+Item3: 73, 1;
+
+/234 Гноллы 0
+Quantity: 3/1
+Initiative: 1/0
+Unit1: 202, 3, 2, 1
+Unit2: 203, 1, 1, 0;
+LootPoss: 11
+MaxLoot: 1
+Power: 3
+Item1: 21, 1
+Item2: 41, 1
+Item3: 55, 1;
+
+/235 Гноллы 1
+Quantity: 5/2
+Initiative: 1/1
+Unit1: 202, 6, 4, 2
+Unit2: 203, 3, 1, 1;
+LootPoss: 11
+MaxLoot: 1
+Power: 4
+Item1: 21, 1
+Item2: 41, 1
+Item3: 55, 1;
+
+/236 Гноллы 2
+Quantity: 8/3
+Initiative: 1/2
+Unit1: 202, 9, 4, 3
+Unit2: 203, 5, 2, 2
+Unit3: 204, 2, 2, 1;
+LootPoss: 11
+MaxLoot: 1
+Power: 8
+Item1: 21, 1
+Item2: 41, 1
+Item3: 55, 1;
+
+/237 Гноллы 3
+Quantity: 10/4
+Initiative: 2/2
+Unit1: 202, 12, 4, 3
+Unit2: 203, 7, 2, 2
+Unit3: 204, 3, 3, 2
+Unit4: 206, 1, 1, 1;
+LootPoss: 11
+MaxLoot: 1
+Power: 12
+Item1: 21, 1
+Item2: 41, 1
+Item3: 55, 1;
+
+/238 Скелетное охранение 0
+Quantity: 3/1
+Initiative: 1/0
+Unit1: 207, 1, 1, 0
+Unit2: 193, 4, 2, 1;
+LootPoss: 5
+MaxLoot: 1
+Power: 3
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/239 Скелетное охранение 1
+Quantity: 4/2
+Initiative: 1/1
+Unit1: 207, 4, 1, 0
+Unit2: 193, 7, 3, 1;
+LootPoss: 5
+MaxLoot: 1
+Power: 5
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/240 Скелетное охранение 2
+Quantity: 5/3
+Initiative: 2/1
+Unit1: 207, 7, 1, 0
+Unit2: 193, 10, 4, 1;
+LootPoss: 5
+MaxLoot: 1
+Power: 7
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/241 Скелетное охранение 3
+Quantity: 6/4
+Initiative: 2/2
+Unit1: 207, 11, 1, 0
+Unit2: 193, 14, 5, 1;
+LootPoss: 5
+MaxLoot: 1
+Power: 9
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/242 Чародеи Изравиуса
+Quantity: 8/4
+Initiative: 2/3
+Unit1: 148, 15, 1, 0
+Unit2: 12, 12, 1, 3
+Unit3: 87, 6, 1, 2
+Unit4: 211, 10, 1, 3
+Unit5: 39, 10, 1, 2
+Unit6: 71, 5, 2, 1
+Unit7: 70, 1, 1, 0;
+LootPoss: 16
+MaxLoot: 2
+Power: 10
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/243 Костяная стая 0
+Quantity: 4/3
+Initiative: 0/0
+Unit1: 144, 1, 1, 0
+Unit2: 208, 3, 3, 1;
+LootPoss: 5
+MaxLoot: 1
+Power: 1
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/244 Костяная стая 1
+Quantity: 6/4
+Initiative: 0/1
+Unit1: 211, 6, 1, 2
+Unit2: 144, 3, 1, 1
+Unit3: 208, 7, 4, 3;
+LootPoss: 5
+MaxLoot: 1
+Power: 3
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/245 Костяная стая 2
+Quantity: 8/5
+Initiative: 0/2
+Unit1: 211, 9, 1, 2
+Unit2: 144, 5, 1, 1
+Unit3: 208, 11, 6, 3;
+LootPoss: 5
+MaxLoot: 1
+Power: 5
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/246 Костяная стая 3
+Quantity: 10/6
+Initiative: 1/2
+Unit1: 211, 12, 1, 2
+Unit2: 144, 7, 1, 1
+Unit3: 208, 15, 8, 3;
+LootPoss: 5
+MaxLoot: 1
+Power: 8
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/247 Стражи границ 0
+Quantity: 2/1
+Initiative: 1/1
+Unit1: 133, 3, 2, 1;
+LootPoss: 5
+MaxLoot: 1
+Power: 3
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/248 Стражи границ 1
+Quantity: 3/2
+Initiative: 2/1
+Unit1: 133, 6, 3, 1;
+LootPoss: 5
+MaxLoot: 1
+Power: 4
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/249 Стражи границ 2
+Quantity: 5/3
+Initiative: 2/2
+Unit1: 133, 9, 5, 1;
+LootPoss: 5
+MaxLoot: 1
+Power: 6
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/250 Стражи границ 3
+Quantity: 6/4
+Initiative: 2/3
+Unit1: 133, 12, 6, 1;
+LootPoss: 5
+MaxLoot: 1
+Power: 7
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/251 Медведи 0
+Quantity: 3/1
+Initiative: 0/1
+Unit1: 210, 2, 3, 1;
+LootPoss: 10
+MaxLoot: 1
+Power: 2
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/252 Медведи 1
+Quantity: 5/2
+Initiative: 1/1
+Unit1: 210, 5, 5, 1;
+LootPoss: 10
+MaxLoot: 1
+Power: 4
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/253 Медведи 2
+Quantity: 7/3
+Initiative: 1/2
+Unit1: 210, 8, 7, 1;
+LootPoss: 10
+MaxLoot: 1
+Power: 6
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/254 Медведи 3
+Quantity: 9/4
+Initiative: 1/2
+Unit1: 210, 11, 9, 1;
+LootPoss: 10
+MaxLoot: 1
+Power: 8
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/255 Алкари 0
+Quantity: 4/1
+Initiative: 1/2
+Unit1: 212, 4, 3, 1
+Unit2: 213, 3, 1, 0
+Unit3: 214, 3, 0, 1;
+LootPoss: 11
+MaxLoot: 1
+Power: 2
+Item1: 21, 1
+Item2: 41, 1
+Item3: 55, 1;
+
+/256 Алкари 1
+Quantity: 5/2
+Initiative: 2/2
+Unit1: 212, 6, 2, 4
+Unit2: 213, 3, 1, 2
+Unit3: 214, 3, 1, 2
+Unit4: 215, 6, 1, 1;
+LootPoss: 13
+MaxLoot: 1
+Power: 4
+Item1: 21, 1
+Item2: 41, 1
+Item3: 55, 1;
+
+/257 Алкари 2
+Quantity: 7/3
+Initiative: 2/3
+Unit1: 212, 9, 2, 4
+Unit2: 213, 9, 1, 2
+Unit3: 214, 9, 2, 2
+Unit4: 215, 10, 1, 2
+Unit5: 279, 2, 0, 1
+Unit6: 280, 6, 1, 1;
+LootPoss: 15
+MaxLoot: 1
+Power: 8
+Item1: 21, 1
+Item2: 41, 1
+Item3: 55, 1;
+
+/258 Алкари 3
+Quantity: 10/4
+Initiative: 3/3
+Unit1: 212, 14, 2, 5
+Unit2: 213, 12, 2, 3
+Unit3: 214, 12, 2, 3
+Unit4: 215, 14, 1, 3
+Unit5: 279, 6, 1, 2
+Unit6: 280, 10, 1, 2
+Unit7: 281, 6, 1, 1;
+LootPoss: 15
+MaxLoot: 1
+Power: 12
+Item1: 21, 1
+Item2: 41, 1
+Item3: 55, 1;
+
+/259 Вампиры 0
+Quantity: 1/0
+Initiative: 1/1
+Unit1: 64, 3, 1, 0;
+LootPoss: 10
+MaxLoot: 1
+Power: 2
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/260 Вампиры 1
+Quantity: 1/1
+Initiative: 1/2
+Unit1: 64, 6, 1, 1;
+LootPoss: 10
+MaxLoot: 1
+Power: 3
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/261 Вампиры 2
+Quantity: 2/1
+Initiative: 2/2
+Unit1: 64, 9, 2, 1;
+LootPoss: 10
+MaxLoot: 1
+Power: 4
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/262 Вампиры 3
+Quantity: 2/2
+Initiative: 2/3
+Unit1: 64, 12, 2, 2;
+LootPoss: 10
+MaxLoot: 1
+Power: 6
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/263 Привидения 0
+Quantity: 2/0
+Initiative: 0/1
+Unit1: 55, 4, 2, 0;
+LootPoss: 10
+MaxLoot: 1
+Power: 2
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/264 Привидения 1
+Quantity: 2/1
+Initiative: 1/1
+Unit1: 55, 8, 2, 1;
+LootPoss: 10
+MaxLoot: 1
+Power: 3
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/265 Привидения 2
+Quantity: 3/1
+Initiative: 1/2
+Unit1: 55, 12, 3, 2;
+LootPoss: 10
+MaxLoot: 1
+Power: 4
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/266 Привидения 3
+Quantity: 4/2
+Initiative: 1/2
+Unit1: 55, 16, 4, 2;
+LootPoss: 10
+MaxLoot: 1
+Power: 6
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/267 Ликан
+Quantity: 1/0
+Initiative: 1/0
+Unit1: 217, 10, 1, 0;
+LootPoss: 10
+MaxLoot: 1
+Power: 2
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/268 Тёмные единороги 0
+Quantity: 1/0
+Initiative: 0/1
+Unit1: 220, 4, 1, 0;
+LootPoss: 10
+MaxLoot: 1
+Power: 2
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/269 Тёмные единороги 1
+Quantity: 1/1
+Initiative: 1/1
+Unit1: 220, 8, 1, 1;
+LootPoss: 12
+MaxLoot: 1
+Power: 3
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/270 Тёмные единороги 2
+Quantity: 2/1
+Initiative: 1/2
+Unit1: 220, 12, 2, 1;
+LootPoss: 14
+MaxLoot: 1
+Power: 4
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/271 Тёмные единороги 3
+Quantity: 2/2
+Initiative: 2/2
+Unit1: 220, 12, 2, 1;
+LootPoss: 17
+MaxLoot: 1
+Power: 6
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/272 Культ Силы
+Quantity: 10/5
+Initiative: 2/2
+Unit1: 202, 15, 4, 3
+Unit2: 203, 10, 3, 2
+Unit3: 206, 5, 2, 1
+Unit4: 76, 20, 1, 0;
+LootPoss: 12
+MaxLoot: 1
+Power: 15
+Item1: 4, 2
+Item2: 130, 1
+Item3: 73, 1;
+
+/273 Наёмники 0
+Quantity: 3/2
+Initiative: 1/1
+Unit1: 93, 3, 1, 0
+Unit2: 81, 3, 0, 1
+Unit3: 120, 3, 1, 0
+Unit4: 84, 3, 1, 0
+Unit5: 121, 3, 0, 1;
+LootPoss: 13
+MaxLoot: 1
+Power: 5
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/274 Наёмники 1
+Quantity: 6/3
+Initiative: 1/2
+Unit1: 93, 6, 1, 0
+Unit2: 81, 6, 1, 1
+Unit3: 120, 6, 1, 1
+Unit4: 84, 6, 1, 1
+Unit5: 121, 6, 0, 2
+Unit6: 192, 3, 1, 1
+Unit7: 78, 10, 1, 0;
+LootPoss: 14
+MaxLoot: 2
+Power: 8
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/275 Наёмники 2
+Quantity: 9/5
+Initiative: 2/2
+Unit1: 93, 10, 2, 0
+Unit2: 81, 10, 1, 2
+Unit3: 120, 10, 1, 1
+Unit4: 84, 10, 1, 1
+Unit5: 121, 10, 1, 2
+Unit6: 192, 6, 1, 1
+Unit7: 149, 5, 1, 1
+Unit8: 78, 15, 1, 0;
+LootPoss: 16
+MaxLoot: 3
+Power: 12
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/276 Наёмники 3
+Quantity: 11/5
+Initiative: 2/3
+Unit1: 93, 15, 2, 0
+Unit2: 81, 15, 1, 1
+Unit3: 120, 15, 2, 1
+Unit4: 84, 15, 1, 1
+Unit5: 121, 10, 1, 1
+Unit6: 192, 10, 1, 1
+Unit7: 149, 10, 1, 1
+Unit8: 78, 19, 2, 0;
+LootPoss: 18
+MaxLoot: 3
+Power: 15
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/277 Фанатики 0
+Quantity: 4/2
+Initiative: 1/1
+Unit1: 121, 10, 2, 2
+Unit2: 22, 7, 1, 2
+Unit3: 137, 4, 1, 1;
+LootPoss: 10
+MaxLoot: 1
+Power: 3
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/278 Фанатики 1
+Quantity: 6/3
+Initiative: 1/2
+Unit1: 121, 14, 2, 2
+Unit2: 22, 10, 1, 2
+Unit3: 137, 6, 3, 1;
+LootPoss: 12
+MaxLoot: 1
+Power: 5
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/279 Фанатики 2
+Quantity: 8/4
+Initiative: 2/2
+Unit1: 121, 18, 2, 3
+Unit2: 22, 13, 1, 3
+Unit3: 137, 8, 4, 2
+Unit4: 146, 3, 1, 1;
+LootPoss: 14
+MaxLoot: 1
+Power: 7
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/280 Фанатики 3
+Quantity: 10/5
+Initiative: 2/3
+Unit1: 121, 22, 2, 3
+Unit2: 22, 16, 1, 3
+Unit3: 137, 10, 4, 2
+Unit4: 146, 5, 2, 1
+Unit5: 142, 2, 1, 1;
+LootPoss: 17
+MaxLoot: 1
+Power: 9
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/281 Культ Дьявола
+Quantity: 14/2
+Initiative: 3/2
+Unit1: 99, 15, 2, 3
+Unit2: 21, 13, 1, 3
+Unit3: 283, 6, 1, 1
+Unit4: 37, 11, 2, 2
+Unit5: 38, 12, 2, 2
+Unit6: 95, 9, 2, 1
+Unit7: 190, 20, 2, 3
+Unit8: 56, 7, 1, 1
+Unit9: 65, 25, 1, 0;
+LootPoss: 12
+MaxLoot: 1
+Power: 11
+Item1: 4, 2
+Item2: 130, 1
+Item3: 73, 1;
+
+/282 Армада 0
+Quantity: 3/1
+Initiative: 0/1
+Unit1: 28, 7, 1, 2
+Unit2: 49, 3, 1, 1
+Unit3: 58, 1, 1, 0;
+LootPoss: 10
+MaxLoot: 1
+Power: 3
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/283 Армада 1
+Quantity: 5/2
+Initiative: 1/1
+Unit1: 28, 11, 2, 3
+Unit2: 152, 3, 1, 2
+Unit3: 49, 6, 1, 2
+Unit4: 58, 3, 1, 1;
+LootPoss: 12
+MaxLoot: 1
+Power: 6
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/284 Армада 2
+Quantity: 7/3
+Initiative: 1/2
+Unit1: 28, 15, 2, 4
+Unit2: 152, 6, 1, 3
+Unit3: 49, 9, 2, 3
+Unit4: 136, 1, 1, 2
+Unit5: 58, 5, 1, 1;
+LootPoss: 15
+MaxLoot: 1
+Power: 9
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/285 Армада 3
+Quantity: 9/4
+Initiative: 2/2
+Unit1: 28, 19, 2, 4
+Unit2: 152, 9, 2, 3
+Unit3: 49, 12, 2, 3
+Unit4: 136, 3, 1, 3
+Unit5: 58, 7, 2, 2;
+LootPoss: 18
+MaxLoot: 1
+Power: 12
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/286 Баньши 0
+Quantity: 1/0
+Initiative: 0/1
+Unit1: 172, 3, 1, 0;
+LootPoss: 10
+MaxLoot: 1
+Power: 2
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/287 Баньши 1
+Quantity: 1/1
+Initiative: 1/1
+Unit1: 172, 6, 1, 1;
+LootPoss: 10
+MaxLoot: 1
+Power: 3
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/288 Баньши 2
+Quantity: 2/1
+Initiative: 1/2
+Unit1: 172, 9, 2, 1;
+LootPoss: 10
+MaxLoot: 1
+Power: 4
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/289 Баньши 3
+Quantity: 2/2
+Initiative: 2/2
+Unit1: 172, 12, 2, 2;
+LootPoss: 10
+MaxLoot: 1
+Power: 6
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/290 Осадные инженеры 0
+Quantity: 6/1
+Initiative: 0/1
+Unit1: 209, 3, 1, 3
+Unit2: 8, 3, 1, 2
+Unit3: 119, 3, 1, 0
+Unit4: 27, 3, 2, 2
+Unit5: 145, 1, 0, 1
+Unit6: 46, 2, 1, 1;
+LootPoss: 10
+MaxLoot: 1
+Power: 6
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/291 Осадные инженеры 1
+Quantity: 8/2
+Initiative: 1/1
+Unit1: 209, 6, 2, 4
+Unit2: 8, 6, 1, 3
+Unit3: 119, 6, 1, 0
+Unit4: 27, 6, 2, 3
+Unit5: 145, 2, 1, 2
+Unit6: 46, 5, 1, 2
+Unit7: 147, 1, 0, 1;
+LootPoss: 10
+MaxLoot: 1
+Power: 8
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/292 Осадные инженеры 2
+Quantity: 10/3
+Initiative: 1/2
+Unit1: 209, 9, 3, 4
+Unit2: 8, 9, 1, 4
+Unit3: 119, 9, 1, 0
+Unit4: 27, 9, 2, 3
+Unit5: 145, 3, 1, 2
+Unit6: 46, 7, 1, 2
+Unit7: 147, 2, 1, 1;
+LootPoss: 10
+MaxLoot: 1
+Power: 10
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/293 Осадные инженеры 3
+Quantity: 12/4
+Initiative: 2/2
+Unit1: 209, 12, 4, 4
+Unit2: 8, 12, 2, 3
+Unit3: 119, 12, 1, 0
+Unit4: 27, 12, 2, 3
+Unit5: 145, 4, 1, 2
+Unit6: 46, 9, 1, 2
+Unit7: 147, 3, 1, 1;
+LootPoss: 10
+MaxLoot: 1
+Power: 12
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/294 Культ Огня
+Quantity: 12/4
+Initiative: 2/3
+Unit1: 9, 15, 3, 3
+Unit2: 85, 7, 2, 3
+Unit3: 87, 15, 2, 2
+Unit4: 155, 10, 2, 1
+Unit5: 161, 20, 2, 0
+Unit6: 201, 15, 1, 0;
+LootPoss: 12
+MaxLoot: 1
+Power: 17
+Item1: 4, 2
+Item2: 130, 1
+Item3: 73, 1;
+
+/295 Культ Воды
+Quantity: 12/4
+Initiative: 2/2
+Unit1: 69, 15, 3, 3
+Unit2: 68, 7, 2, 3
+Unit3: 211, 15, 2, 2
+Unit4: 118, 10, 2, 1
+Unit5: 161, 20, 2, 0
+Unit6: 201, 15, 1, 0;
+LootPoss: 12
+MaxLoot: 1
+Power: 18
+Item1: 4, 2
+Item2: 130, 1
+Item3: 73, 1;
+
+/296 Культ Воздуха
+Quantity: 12/4
+Initiative: 3/2
+Unit1: 17, 15, 4, 3
+Unit2: 90, 12, 2, 3
+Unit3: 47, 7, 1, 2
+Unit4: 153, 10, 2, 1
+Unit5: 161, 20, 2, 0
+Unit6: 201, 15, 1, 0;
+LootPoss: 12
+MaxLoot: 1
+Power: 17
+Item1: 4, 2
+Item2: 130, 1
+Item3: 73, 1;
+
+/297 Культ Земли
+Quantity: 14/2
+Initiative: 1/2
+Unit1: 83, 15, 5, 3
+Unit2: 80, 7, 3, 2
+Unit3: 217, 15, 1, 1
+Unit4: 154, 10, 2, 2
+Unit5: 161, 20, 2, 0
+Unit6: 201, 15, 1, 0;
+LootPoss: 12
+MaxLoot: 1
+Power: 17
+Item1: 4, 2
+Item2: 130, 1
+Item3: 73, 1;
+
+/298 Буровики 0
+Quantity: 4/3
+Initiative: 1/2
+Unit1: 221, 4, 2, 2
+Unit2: 224, 3, 2, 1;
+LootPoss: 5
+MaxLoot: 1
+Power: 3
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/299 Буровики 1
+Quantity: 7/3
+Initiative: 2/2
+Unit1: 221, 8, 3, 2
+Unit2: 224, 7, 3, 2
+Unit3: 227, 4, 1, 1;
+LootPoss: 5
+MaxLoot: 1
+Power: 5
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/300 Буровики 2
+Quantity: 10/3
+Initiative: 2/3
+Unit1: 221, 12, 4, 2
+Unit2: 224, 11, 4, 2
+Unit3: 227, 6, 2, 1;
+LootPoss: 5
+MaxLoot: 1
+Power: 7
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/301 Буровики 3
+Quantity: 13/3
+Initiative: 3/3
+Unit1: 221, 16, 4, 3
+Unit2: 224, 15, 5, 2
+Unit3: 227, 8, 3, 2
+Unit4: 231, 7, 1, 1;
+LootPoss: 5
+MaxLoot: 1
+Power: 9
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/302 Стая крысолюдов 0
+Quantity: 5/2
+Initiative: 1/2
+Unit1: 222, 3, 2, 2
+Unit2: 221, 4, 3, 1;
+LootPoss: 5
+MaxLoot: 1
+Power: 3
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/303 Стая крысолюдов 1
+Quantity: 7/2
+Initiative: 2/2
+Unit1: 222, 7, 3, 2
+Unit2: 221, 8, 3, 2
+Unit3: 225, 6, 1, 1;
+LootPoss: 5
+MaxLoot: 1
+Power: 5
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/304 Стая крысолюдов 2
+Quantity: 10/2
+Initiative: 2/3
+Unit1: 222, 11, 3, 3
+Unit2: 221, 12, 4, 2
+Unit3: 225, 8, 2, 2
+Unit4: 229, 4, 1, 1;
+LootPoss: 5
+MaxLoot: 1
+Power: 7
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/305 Стая крысолюдов 3
+Quantity: 13/3
+Initiative: 3/3
+Unit1: 222, 15, 4, 3
+Unit2: 221, 16, 4, 2
+Unit3: 225, 10, 3, 2
+Unit4: 229, 6, 1, 1
+Unit5: 232, 4, 1, 1;
+LootPoss: 5
+MaxLoot: 1
+Power: 9
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/306 Клан Скрежет 0
+Quantity: 4/2
+Initiative: 0/2
+Unit1: 224, 3, 3, 3
+Unit2: 226, 1, 1, 1;
+LootPoss: 5
+MaxLoot: 1
+Power: 3
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/307 Клан Скрежет 1
+Quantity: 6/3
+Initiative: 1/2
+Unit1: 224, 6, 3, 2
+Unit2: 226, 3, 2, 1
+Unit3: 227, 2, 1, 1;
+LootPoss: 5
+MaxLoot: 1
+Power: 5
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/308 Клан Скрежет 2
+Quantity: 8/4
+Initiative: 2/2
+Unit1: 224, 10, 3, 2
+Unit2: 226, 5, 2, 1
+Unit3: 227, 4, 2, 1
+Unit4: 228, 6, 1, 1;
+LootPoss: 5
+MaxLoot: 1
+Power: 7
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/309 Клан Скрежет 3
+Quantity: 10/5
+Initiative: 3/2
+Unit1: 224, 14, 4, 3
+Unit2: 226, 7, 2, 2
+Unit3: 227, 6, 2, 2
+Unit4: 228, 7, 1, 2
+Unit5: 231, 4, 1, 1;
+LootPoss: 5
+MaxLoot: 1
+Power: 9
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/310 Клан Искателей 0
+Quantity: 4/2
+Initiative: 1/1
+Unit1: 223, 3, 3, 2
+Unit2: 226, 1, 1, 1;
+LootPoss: 5
+MaxLoot: 1
+Power: 3
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/311 Клан Искателей 1
+Quantity: 6/3
+Initiative: 2/1
+Unit1: 223, 6, 3, 2
+Unit2: 226, 3, 2, 1
+Unit3: 225, 2, 1, 1;
+LootPoss: 5
+MaxLoot: 1
+Power: 5
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/312 Клан Искателей 2
+Quantity: 9/4
+Initiative: 3/1
+Unit1: 223, 9, 3, 3
+Unit2: 226, 5, 3, 2
+Unit3: 225, 4, 2, 2
+Unit4: 232, 1, 1, 1;
+LootPoss: 5
+MaxLoot: 1
+Power: 7
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/313 Клан Искателей 3
+Quantity: 12/4
+Initiative: 3/3
+Unit1: 223, 12, 3, 3
+Unit2: 226, 7, 3, 2
+Unit3: 225, 6, 3, 2
+Unit4: 232, 2, 2, 1
+Unit5: 232, 15, 1, 0;
+LootPoss: 5
+MaxLoot: 1
+Power: 9
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/314 Крысоводы 0
+Quantity: 3/2
+Initiative: 1/1
+Unit1: 230, 1, 1, 0
+Unit2: 221, 1, 1, 1
+Unit3: 222, 2, 1, 1;
+LootPoss: 5
+MaxLoot: 1
+Power: 3
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/315 Крысоводы 1
+Quantity: 5/3
+Initiative: 2/1
+Unit1: 230, 3, 1, 1
+Unit2: 221, 5, 2, 2
+Unit3: 222, 6, 2, 3;
+LootPoss: 5
+MaxLoot: 1
+Power: 4
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/316 Крысоводы 2
+Quantity: 7/4
+Initiative: 2/2
+Unit1: 230, 5, 2, 1
+Unit2: 229, 3, 1, 0
+Unit3: 221, 9, 2, 2
+Unit4: 222, 10, 2, 3;
+LootPoss: 5
+MaxLoot: 1
+Power: 6
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/317 Крысоводы 3
+Quantity: 9/5
+Initiative: 3/2
+Unit1: 230, 7, 2, 1
+Unit2: 229, 5, 2, 1
+Unit3: 221, 13, 3, 2
+Unit4: 222, 14, 2, 3;
+LootPoss: 5
+MaxLoot: 1
+Power: 9
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/318 Крысиный король
+Quantity: 12/4
+Initiative: 4/2
+Unit1: 221, 20, 3, 4
+Unit2: 225, 16, 2, 3
+Unit3: 227, 12, 2, 2
+Unit4: 231, 11, 1, 2
+Unit5: 232, 18, 2, 2
+Unit6: 229, 12, 1, 1
+Unit7: 233, 25, 1, 0;
+LootPoss: 5
+MaxLoot: 1
+Power: 12
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/319 Великий крысс
+Quantity: 12/4
+Initiative: 4/3
+Unit1: 221, 20, 2, 4
+Unit2: 225, 16, 2, 4
+Unit3: 227, 12, 2, 3
+Unit4: 231, 11, 1, 3
+Unit5: 232, 18, 2, 2
+Unit6: 229, 12, 1, 2
+Unit7: 233, 12, 1, 1
+Unit8: 234, 25, 1, 0;
+LootPoss: 5
+MaxLoot: 1
+Power: 15
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/320 Гоблины 0
+Quantity: 4/2
+Initiative: 1/2
+Unit1: 13, 6, 2, 4
+Unit2: 77, 5, 1, 3
+Unit3: 96, 2, 0, 1
+Unit4: 129, 1, 1, 0;
+LootPoss: 9
+MaxLoot: 1
+Power: 3
+Item1: 10, 2
+Item2: 120, 1
+Item3: 43, 1;
+
+/321 Гоблины 1
+Quantity: 6/3
+Initiative: 2/2
+Unit1: 13, 10, 2, 4
+Unit2: 77, 8, 2, 3
+Unit3: 96, 8, 1, 1
+Unit4: 129, 8, 1, 1;
+LootPoss: 10
+MaxLoot: 2
+Power: 5
+Item1: 11, 1
+Item2: 69, 1
+Item3: 85, 1;
+
+/322 Гоблины 2
+Quantity: 8/4
+Initiative: 3/2
+Unit1: 13, 15, 2, 4
+Unit2: 77, 12, 2, 3
+Unit3: 96, 12, 1, 2
+Unit4: 129, 10, 2, 2
+Unit5: 130, 16, 1, 1;
+LootPoss: 12
+MaxLoot: 2
+Power: 8
+Item1: 4, 2
+Item2: 130, 1
+Item3: 73, 1;
+
+/323 Гоблины 3
+Quantity: 11/5
+Initiative: 3/3
+Unit1: 13, 20, 3, 3
+Unit2: 77, 16, 2, 3
+Unit3: 96, 16, 1, 3
+Unit4: 129, 12, 2, 3
+Unit5: 130, 19, 2, 2
+Unit6: 131, 7, 1, 1;
+LootPoss: 14
+MaxLoot: 2
+Power: 11
+Item1: 4, 2
+Item2: 130, 1
+Item3: 73, 1;
+
+/324 Орки 0
+Quantity: 4/2
+Initiative: 0/0
+Unit1: 100, 7, 1, 4
+Unit2: 14, 5, 2, 4
+Unit3: 109, 5, 1, 2
+Unit4: 73, 1, 0, 1;
+LootPoss: 12
+MaxLoot: 1
+Power: 2
+Item1: 22, 1
+Item2: 74, 1
+Item3: 87, 1;
+
+/325 Орки 1
+Quantity: 6/3
+Initiative: 0/1
+Unit1: 100, 11, 2, 4
+Unit2: 14, 8, 2, 4
+Unit3: 109, 9, 1, 2
+Unit4: 73, 6, 1, 0
+Unit5: 169, 7, 0, 1;
+LootPoss: 14
+MaxLoot: 1
+Power: 4
+Item1: 23, 1
+Item2: 75, 1
+Item3: 44, 1;
+
+/326 Орки 2
+Quantity: 8/4
+Initiative: 1/1
+Unit1: 100, 15, 2, 4
+Unit2: 14, 11, 1, 4
+Unit3: 109, 13, 2, 3
+Unit4: 73, 10, 1, 2
+Unit5: 169, 11, 0, 2
+Unit6: 195, 8, 1, 1
+Unit7: 110, 11, 1, 1;
+LootPoss: 16
+MaxLoot: 1
+Power: 7
+Item1: 24, 1
+Item2: 119, 1
+Item3: 89, 1;
+
+/327 Орки 3
+Quantity: 12/4
+Initiative: 1/2
+Unit1: 100, 19, 2, 4
+Unit2: 14, 14, 1, 5
+Unit3: 109, 17, 2, 4
+Unit4: 73, 14, 1, 3
+Unit5: 169, 15, 2, 3
+Unit6: 195, 12, 2, 1
+Unit7: 110, 14, 1, 2
+Unit8: 111, 11, 1, 0;
+LootPoss: 18
+MaxLoot: 1
+Power: 10
+Item1: 24, 1
+Item2: 119, 1
+Item3: 89, 1;
+
+/328 Половинчики 0
+Quantity: 4/2
+Initiative: 1/1
+Unit1: 18, 6, 2, 3
+Unit2: 259, 5, 1, 1
+Unit3: 262, 6, 1, 2;
+LootPoss: 12
+MaxLoot: 1
+Power: 3
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/329 Половинчики 1
+Quantity: 7/3
+Initiative: 1/2
+Unit1: 18, 10, 2, 3
+Unit2: 259, 9, 1, 1
+Unit3: 262, 10, 1, 3
+Unit4: 132, 8, 1, 2
+Unit5: 261, 7, 2, 1;
+LootPoss: 13
+MaxLoot: 1
+Power: 4
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/330 Половинчики 2
+Quantity: 10/4
+Initiative: 2/2
+Unit1: 18, 15, 3, 2
+Unit2: 259, 14, 2, 1
+Unit3: 262, 15, 1, 2
+Unit4: 132, 13, 1, 2
+Unit5: 261, 12, 3, 2;
+LootPoss: 15
+MaxLoot: 1
+Power: 6
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/331 Половинчики 3
+Quantity: 12/4
+Initiative: 2/3
+Unit1: 18, 20, 3, 2
+Unit2: 259, 19, 3, 1
+Unit3: 262, 20, 1, 2
+Unit4: 132, 18, 2, 2
+Unit5: 261, 17, 3, 2;
+LootPoss: 17
+MaxLoot: 1
+Power: 8
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/332 Эльфы 0
+Quantity: 5/1
+Initiative: 2/3
+Unit1: 15, 6, 3, 2
+Unit2: 126, 7, 2, 2
+Unit3: 105, 3, 0, 1;
+LootPoss: 12
+MaxLoot: 1
+Power: 3
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/333 Эльфы 1
+Quantity: 7/2
+Initiative: 3/3
+Unit1: 15, 10, 3, 3
+Unit2: 126, 11, 2, 3
+Unit3: 105, 6, 1, 1
+Unit4: 106, 5, 0, 2
+Unit5: 107, 5, 1, 0;
+LootPoss: 14
+MaxLoot: 1
+Power: 5
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/334 Эльфы 2
+Quantity: 9/3
+Initiative: 3/4
+Unit1: 15, 15, 3, 3
+Unit2: 126, 16, 2, 3
+Unit3: 105, 12, 1, 2
+Unit4: 106, 11, 1, 2
+Unit5: 107, 9, 1, 1
+Unit6: 127, 10, 1, 0;
+LootPoss: 16
+MaxLoot: 2
+Power: 8
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/335 Эльфы 3
+Quantity: 12/4
+Initiative: 4/4
+Unit1: 15, 20, 3, 4
+Unit2: 126, 21, 3, 4
+Unit3: 105, 18, 2, 3
+Unit4: 106, 17, 1, 3
+Unit5: 107, 13, 2, 2
+Unit6: 127, 14, 1, 1;
+LootPoss: 18
+MaxLoot: 2
+Power: 11
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/336 Гномы 0
+Quantity: 4/2
+Initiative: 0/2
+Unit1: 16, 8, 2, 3
+Unit2: 256, 4, 1, 2
+Unit3: 156, 7, 1, 2
+Unit4: 255, 5, 0, 1;
+LootPoss: 16
+MaxLoot: 2
+Power: 3
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/337 Гномы 1
+Quantity: 5/3
+Initiative: 1/2
+Unit1: 16, 12, 2, 3
+Unit2: 256, 8, 1, 2
+Unit3: 156, 10, 0, 2
+Unit4: 156, 20, 1, 0
+Unit5: 255, 8, 1, 1;
+LootPoss: 18
+MaxLoot: 2
+Power: 5
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/338 Гномы 2
+Quantity: 8/4
+Initiative: 2/1
+Unit1: 16, 17, 1, 4
+Unit2: 256, 12, 2, 3
+Unit3: 156, 13, 0, 3
+Unit4: 156, 24, 1, 0
+Unit5: 255, 10, 1, 3
+Unit6: 103, 11, 2, 3
+Unit7: 184, 6, 1, 2;
+LootPoss: 20
+MaxLoot: 2
+Power: 8
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/339 Гномы 3
+Quantity: 11/5
+Initiative: 2/2
+Unit1: 16, 22, 2, 4
+Unit2: 256, 18, 1, 3
+Unit3: 156, 16, 1, 3
+Unit4: 156, 28, 1, 0
+Unit5: 255, 12, 1, 3
+Unit6: 184, 10, 2, 3
+Unit7: 103, 12, 2, 2
+Unit8: 104, 2, 1, 0
+Unit9: 258, 2, 0, 1;
+LootPoss: 22
+MaxLoot: 2
+Power: 11
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/340 Кентавры 0
+Quantity: 4/2
+Initiative: 2/3
+Unit1: 122, 10, 1, 3
+Unit2: 34, 6, 2, 2
+Unit3: 123, 7, 1, 1;
+LootPoss: 8
+MaxLoot: 1
+Power: 3
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/341 Кентавры 1
+Quantity: 6/4
+Initiative: 2/2
+Unit1: 122, 12, 2, 4
+Unit2: 34, 9, 2, 3
+Unit3: 123, 10, 2, 1;
+LootPoss: 9
+MaxLoot: 1
+Power: 5
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/342 Кентавры 2
+Quantity: 9/4
+Initiative: 2/2
+Unit1: 122, 19, 3, 3
+Unit2: 34, 15, 3, 2
+Unit3: 123, 16, 2, 2
+Unit4: 124, 14, 1, 1;
+LootPoss: 11
+MaxLoot: 1
+Power: 8
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/343 Кентавры 3
+Quantity: 12/4
+Initiative: 3/2
+Unit1: 122, 25, 3, 3
+Unit2: 34, 21, 3, 2
+Unit3: 123, 20, 3, 2
+Unit4: 124, 19, 2, 1
+Unit5: 125, 18, 1, 0;
+LootPoss: 13
+MaxLoot: 1
+Power: 11
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/344 Ящеры 0
+Quantity: 4/2
+Initiative: 1/2
+Unit1: 69, 6, 2, 2
+Unit2: 113, 5, 1, 2
+Unit3: 114, 6, 0, 1
+Unit4: 115, 4, 1, 0;
+LootPoss: 9
+MaxLoot: 1
+Power: 3
+Item1: 10, 2
+Item2: 120, 1
+Item3: 43, 1;
+
+/345 Ящеры 1
+Quantity: 6/3
+Initiative: 2/2
+Unit1: 69, 10, 3, 2
+Unit2: 113, 9, 1, 3
+Unit3: 114, 12, 1, 1
+Unit4: 115, 7, 1, 1;
+LootPoss: 10
+MaxLoot: 1
+Power: 5
+Item1: 11, 1
+Item2: 69, 1
+Item3: 85, 1;
+
+/346 Ящеры 2
+Quantity: 9/4
+Initiative: 3/2
+Unit1: 69, 15, 2, 4
+Unit2: 113, 14, 2, 4
+Unit3: 114, 18, 2, 3
+Unit4: 115, 12, 2, 3
+Unit5: 116, 7, 1, 2
+Unit6: 117, 10, 0, 1;
+LootPoss: 12
+MaxLoot: 1
+Power: 8
+Item1: 4, 2
+Item2: 130, 1
+Item3: 73, 1;
+
+/347 Ящеры 3
+Quantity: 11/5
+Initiative: 3/3
+Unit1: 69, 20, 2, 4
+Unit2: 113, 19, 2, 4
+Unit3: 114, 24, 2, 3
+Unit4: 115, 17, 2, 3
+Unit5: 116, 11, 2, 2
+Unit6: 117, 15, 1, 1;
+LootPoss: 14
+MaxLoot: 1
+Power: 11
+Item1: 4, 2
+Item2: 130, 1
+Item3: 73, 1;
+
+/348 Тёмные эльфы 0
+Quantity: 5/2
+Initiative: 3/1
+Unit1: 175, 8, 2, 2
+Unit2: 176, 4, 1, 1
+Unit3: 183, 4, 1, 1
+Unit4: 180, 4, 1, 1;
+LootPoss: 12
+MaxLoot: 1
+Power: 3
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/349 Тёмные эльфы 1
+Quantity: 7/3
+Initiative: 4/1
+Unit1: 175, 11, 2, 4
+Unit2: 176, 6, 1, 2
+Unit3: 183, 6, 2, 3
+Unit4: 180, 7, 2, 2
+Unit5: 177, 5, 0, 1
+Unit6: 181, 4, 0, 1;
+LootPoss: 14
+MaxLoot: 1
+Power: 5
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/350 Тёмные эльфы 2
+Quantity: 9/4
+Initiative: 4/2
+Unit1: 175, 14, 2, 4
+Unit2: 176, 9, 1, 2
+Unit3: 183, 8, 2, 3
+Unit4: 180, 10, 2, 2
+Unit5: 177, 8, 1, 1
+Unit6: 181, 7, 1, 1;
+LootPoss: 15
+MaxLoot: 1
+Power: 8
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/351 Тёмные эльфы 3
+Quantity: 11/5
+Initiative: 5/2
+Unit1: 175, 17, 3, 4
+Unit2: 176, 12, 1, 3
+Unit3: 183, 16, 2, 3
+Unit4: 180, 13, 1, 3
+Unit5: 177, 11, 1, 2
+Unit6: 181, 10, 1, 2
+Unit7: 182, 8, 1, 1
+Unit8: 178, 9, 1, 1
+Unit9: 185, 10, 0, 1;
+LootPoss: 17
+MaxLoot: 1
+Power: 11
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/352 Гноллы 0
+Quantity: 3/2
+Initiative: 1/1
+Unit1: 202, 6, 2, 2
+Unit2: 203, 3, 1, 0;
+LootPoss: 11
+MaxLoot: 1
+Power: 3
+Item1: 21, 1
+Item2: 41, 1
+Item3: 55, 1;
+
+/353 Гноллы 1
+Quantity: 5/3
+Initiative: 1/2
+Unit1: 202, 9, 3, 2
+Unit2: 203, 5, 1, 1
+Unit3: 204, 2, 1, 0;
+LootPoss: 13
+MaxLoot: 1
+Power: 5
+Item1: 21, 1
+Item2: 41, 1
+Item3: 55, 1;
+
+/354 Гноллы 2
+Quantity: 8/4
+Initiative: 2/2
+Unit1: 202, 12, 4, 2
+Unit2: 203, 7, 2, 1
+Unit3: 204, 3, 2, 1;
+LootPoss: 15
+MaxLoot: 1
+Power: 8
+Item1: 21, 1
+Item2: 41, 1
+Item3: 55, 1;
+
+/355 Гноллы 3
+Quantity: 11/5
+Initiative: 3/2
+Unit1: 202, 15, 3, 3
+Unit2: 203, 9, 3, 2
+Unit3: 204, 4, 3, 1
+Unit4: 205, 5, 1, 1
+Unit5: 206, 2, 1, 0;
+LootPoss: 17
+MaxLoot: 1
+Power: 11
+Item1: 21, 1
+Item2: 41, 1
+Item3: 55, 1;
+
+/356 Алкари 0
+Quantity: 4/2
+Initiative: 2/2
+Unit1: 212, 7, 2, 2
+Unit2: 213, 6, 1, 0
+Unit3: 214, 6, 1, 0;
+LootPoss: 13
+MaxLoot: 1
+Power: 3
+Item1: 21, 1
+Item2: 41, 1
+Item3: 55, 1;
+
+/357 Алкари 1
+Quantity: 6/3
+Initiative: 2/3
+Unit1: 212, 9, 2, 6
+Unit2: 213, 6, 1, 3
+Unit3: 214, 6, 1, 2
+Unit4: 215, 6, 2, 1;
+LootPoss: 15
+MaxLoot: 1
+Power: 5
+Item1: 21, 1
+Item2: 41, 1
+Item3: 55, 1;
+
+/358 Алкари 2
+Quantity: 9/4
+Initiative: 3/3
+Unit1: 212, 12, 3, 4
+Unit2: 213, 12, 1, 2
+Unit3: 214, 12, 2, 2
+Unit4: 215, 11, 1, 2
+Unit5: 279, 5, 0, 1
+Unit6: 280, 7, 1, 1
+Unit7: 281, 9, 1, 0;
+LootPoss: 17
+MaxLoot: 1
+Power: 8
+Item1: 21, 1
+Item2: 41, 1
+Item3: 55, 1;
+
+/359 Алкари 3
+Quantity: 12/4
+Initiative: 3/4
+Unit1: 212, 17, 2, 2
+Unit2: 213, 15, 1, 2
+Unit3: 214, 15, 1, 2
+Unit4: 215, 15, 2, 2
+Unit5: 279, 9, 2, 2
+Unit6: 280, 12, 2, 2
+Unit7: 281, 13, 1, 1
+Unit8: 282, 3, 1, 0;
+LootPoss: 19
+MaxLoot: 1
+Power: 11
+Item1: 21, 1
+Item2: 41, 1
+Item3: 55, 1;
+
+/360 Крысолюды 0
+Quantity: 5/2
+Initiative: 2/2
+Unit1: 222, 7, 2, 2
+Unit2: 221, 8, 1, 2
+Unit3: 223, 8, 1, 2
+Unit4: 224, 8, 1, 2;
+LootPoss: 5
+MaxLoot: 1
+Power: 3
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/361 Крысолюды 1
+Quantity: 8/3
+Initiative: 2/3
+Unit1: 222, 11, 2, 2
+Unit2: 221, 12, 1, 2
+Unit3: 223, 12, 1, 2
+Unit4: 224, 12, 1, 2
+Unit5: 225, 9, 1, 1
+Unit6: 226, 8, 1, 1
+Unit7: 227, 7, 1, 1;
+LootPoss: 6
+MaxLoot: 1
+Power: 5
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/362 Крысолюды 2
+Quantity: 10/3
+Initiative: 3/3
+Unit1: 222, 15, 2, 2
+Unit2: 221, 16, 1, 2
+Unit3: 223, 16, 1, 2
+Unit4: 224, 16, 1, 2
+Unit5: 225, 12, 1, 1
+Unit6: 226, 11, 1, 1
+Unit7: 227, 10, 1, 1
+Unit8: 228, 15, 0, 1
+Unit9: 229, 6, 1, 1
+Unit10: 230, 8, 0, 1
+Unit11: 232, 12, 1, 1;
+LootPoss: 8
+MaxLoot: 1
+Power: 8
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/363 Крысолюды 3
+Quantity: 12/4
+Initiative: 3/4
+Unit1: 222, 19, 2, 2
+Unit2: 221, 20, 1, 2
+Unit3: 223, 20, 1, 2
+Unit4: 224, 20, 1, 2
+Unit5: 225, 15, 1, 1
+Unit6: 226, 14, 1, 1
+Unit7: 227, 13, 1, 1
+Unit8: 228, 19, 1, 1
+Unit9: 229, 8, 1, 1
+Unit10: 230, 10, 0, 1
+Unit11: 231, 11, 0, 1
+Unit12: 232, 15, 1, 1
+Unit13: 233, 5, 1, 0;
+LootPoss: 10
+MaxLoot: 1
+Power: 11
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/364 Крысиная стая 0
+Quantity: 5/2
+Initiative: 1/1
+Unit1: 222, 3, 5, 1;
+LootPoss: 5
+MaxLoot: 1
+Power: 2
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/365 Крысиная стая 1
+Quantity: 7/3
+Initiative: 1/2
+Unit1: 222, 7, 7, 1;
+LootPoss: 6
+MaxLoot: 1
+Power: 4
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/366 Крысиная стая 2
+Quantity: 9/4
+Initiative: 2/2
+Unit1: 222, 11, 9, 1;
+LootPoss: 7
+MaxLoot: 1
+Power: 6
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/367 Крысиная стая 3
+Quantity: 11/5
+Initiative: 2/3
+Unit1: 222, 15, 11, 1;
+LootPoss: 8
+MaxLoot: 1
+Power: 8
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/368 Ликаны 0
+Quantity: 1/0
+Initiative: 1/0
+Unit1: 217, 8, 1, 0;
+LootPoss: 10
+MaxLoot: 1
+Power: 2
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/369 Ликаны 1
+Quantity: 2/1
+Initiative: 1/1
+Unit1: 217, 12, 2, 1;
+LootPoss: 12
+MaxLoot: 1
+Power: 4
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/370 Ликаны 2
+Quantity: 4/2
+Initiative: 2/1
+Unit1: 217, 16, 4, 1;
+LootPoss: 14
+MaxLoot: 1
+Power: 7
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/371 Ликаны 3
+Quantity: 6/3
+Initiative: 2/1
+Unit1: 217, 20, 6, 1;
+LootPoss: 17
+MaxLoot: 1
+Power: 10
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/372 Тёмный Конклав
+Quantity: 12/4
+Initiative: 2/2
+Unit1: 211, 15, 3, 2
+Unit2: 144, 12, 2, 2
+Unit3: 74, 12, 1, 1
+Unit4: 207, 12, 2, 1
+Unit5: 59, 7, 2, 1
+Unit6: 59, 15, 1, 0
+Unit7: 237, 10, 1, 0;
+LootPoss: 17
+MaxLoot: 1
+Power: 10
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/373 Великая Армада
+Quantity: 12/4
+Initiative: 1/2
+Unit1: 28, 15, 3, 2
+Unit2: 152, 12, 2, 2
+Unit3: 49, 12, 2, 1
+Unit4: 136, 10, 1, 1
+Unit5: 58, 6, 2, 1
+Unit6: 58, 15, 1, 0
+Unit7: 235, 10, 1, 0;
+LootPoss: 17
+MaxLoot: 1
+Power: 11
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/374 Орден Света
+Quantity: 10/6
+Initiative: 3/2
+Unit1: 146, 12, 2, 2
+Unit2: 44, 12, 2, 2
+Unit3: 93, 10, 1, 1
+Unit4: 78, 12, 1, 1
+Unit5: 57, 6, 2, 1
+Unit6: 57, 15, 1, 0
+Unit7: 236, 10, 1, 0;
+LootPoss: 17
+MaxLoot: 1
+Power: 10
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/375 Людоеды 0
+Quantity: 1/1
+Initiative: 0/0
+Unit1: 50, 5, 1, 1;
+LootPoss: 0
+MaxLoot: 0
+Power: 1
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/376 Людоеды 1
+Quantity: 2/1
+Initiative: 0/1
+Unit1: 50, 9, 2, 2;
+LootPoss: 0
+MaxLoot: 0
+Power: 3
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/377 Людоеды 2
+Quantity: 3/2
+Initiative: 1/1
+Unit1: 50, 13, 3, 2;
+LootPoss: 0
+MaxLoot: 0
+Power: 5
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/378 Людоеды 3
+Quantity: 4/3
+Initiative: 1/2
+Unit1: 50, 17, 4, 3;
+LootPoss: 0
+MaxLoot: 0
+Power: 8
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/379 Циклопы 0
+Quantity: 1/0
+Initiative: 0/1
+Unit1: 63, 4, 1, 0;
+LootPoss: 0
+MaxLoot: 0
+Power: 2
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/380 Циклопы 1
+Quantity: 2/1
+Initiative: 1/1
+Unit1: 63, 7, 2, 1;
+LootPoss: 0
+MaxLoot: 0
+Power: 4
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/381 Циклопы 2
+Quantity: 3/2
+Initiative: 1/2
+Unit1: 63, 10, 3, 2;
+LootPoss: 0
+MaxLoot: 0
+Power: 7
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/382 Циклопы 3
+Quantity: 4/3
+Initiative: 2/2
+Unit1: 63, 13, 4, 3;
+LootPoss: 0
+MaxLoot: 0
+Power: 10
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/383 Круг колдунов 0
+Quantity: 3/1
+Initiative: 1/0
+Unit1: 144, 2, 1, 0
+Unit2: 12, 6, 0, 3
+Unit3: 87, 4, 1, 2
+Unit4: 211, 3, 1, 1;
+LootPoss: 11
+MaxLoot: 1
+Power: 4
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/384 Круг колдунов 1
+Quantity: 6/2
+Initiative: 1/1
+Unit1: 144, 5, 1, 1
+Unit2: 12, 10, 1, 3
+Unit3: 87, 8, 2, 2
+Unit4: 211, 6, 2, 2;
+LootPoss: 13
+MaxLoot: 1
+Power: 6
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/385 Круг колдунов 2
+Quantity: 9/3
+Initiative: 2/1
+Unit1: 144, 8, 2, 1
+Unit2: 12, 14, 1, 3
+Unit3: 87, 12, 3, 2
+Unit4: 211, 9, 2, 2
+Unit5: 59, 2, 1, 1;
+LootPoss: 15
+MaxLoot: 1
+Power: 8
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/386 Круг колдунов 3
+Quantity: 12/4
+Initiative: 2/2
+Unit1: 144, 11, 2, 1
+Unit2: 12, 18, 1, 3
+Unit3: 87, 16, 3, 2
+Unit4: 211, 12, 3, 2
+Unit5: 59, 4, 2, 1
+Unit6: 237, 1, 1, 0;
+LootPoss: 18
+MaxLoot: 1
+Power: 10
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/387 Культ Некруса
+Quantity: 9/0
+Initiative: 2/1
+Unit1: 237, 30, 1, 0
+Unit2: 59, 12, 3, 0
+Unit3: 64, 20, 5, 0;
+LootPoss: 11
+MaxLoot: 1
+Power: 12
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/388 Адская когорта 0
+Quantity: 3/1
+Initiative: 0/1
+Unit1: 37, 2, 1, 1
+Unit2: 94, 3, 1, 1
+Unit3: 191, 5, 1, 0;
+LootPoss: 5
+MaxLoot: 1
+Power: 3
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/389 Адская когорта 1
+Quantity: 5/2
+Initiative: 1/1
+Unit1: 283, 3, 0, 1
+Unit2: 37, 5, 1, 1
+Unit3: 94, 6, 1, 1
+Unit4: 95, 4, 1, 1
+Unit5: 191, 8, 1, 0
+Unit6: 56, 3, 1, 0;
+LootPoss: 7
+MaxLoot: 1
+Power: 5
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/390 Адская когорта 2
+Quantity: 7/3
+Initiative: 1/2
+Unit1: 283, 6, 0, 1
+Unit2: 37, 8, 1, 2
+Unit3: 94, 9, 1, 2
+Unit4: 95, 7, 2, 2
+Unit5: 191, 11, 1, 1
+Unit6: 56, 5, 2, 1;
+LootPoss: 9
+MaxLoot: 1
+Power: 8
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/391 Адская когорта 3
+Quantity: 9/4
+Initiative: 2/2
+Unit1: 283, 9, 0, 1
+Unit2: 37, 11, 1, 3
+Unit3: 94, 12, 1, 3
+Unit4: 95, 10, 2, 3
+Unit5: 191, 14, 1, 2
+Unit6: 56, 7, 2, 2
+Unit7: 257, 1, 0, 1
+Unit8: 98, 5, 1, 1
+Unit9: 65, 3, 1, 1;
+LootPoss: 12
+MaxLoot: 1
+Power: 11
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/392 Культ Паука
+Quantity: 12/4
+Initiative: 2/2
+Unit1: 179, 18, 3, 2
+Unit2: 183, 15, 2, 2
+Unit3: 33, 16, 1, 3
+Unit4: 166, 14, 1, 3
+Unit5: 167, 10, 1, 3
+Unit6: 181, 12, 2, 1
+Unit7: 178, 12, 1, 0
+Unit8: 168, 25, 1, 0;
+LootPoss: 12
+MaxLoot: 1
+Power: 12
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/393 Шаманы Орды 0
+Quantity: 4/2
+Initiative: 1/0
+Unit1: 109, 3, 2, 1
+Unit2: 83, 6, 2, 1;
+LootPoss: 5
+MaxLoot: 1
+Power: 1
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/394 Шаманы Орды 1
+Quantity: 6/3
+Initiative: 1/1
+Unit1: 109, 6, 3, 1
+Unit2: 83, 10, 2, 1
+Unit3: 169, 4, 1, 1;
+LootPoss: 7
+MaxLoot: 1
+Power: 3
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/395 Шаманы Орды 2
+Quantity: 8/4
+Initiative: 2/1
+Unit1: 109, 9, 4, 1
+Unit2: 83, 14, 2, 1
+Unit3: 169, 7, 1, 1
+Unit4: 110, 4, 1, 1;
+LootPoss: 9
+MaxLoot: 1
+Power: 5
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/396 Шаманы Орды 3
+Quantity: 10/5
+Initiative: 2/2
+Unit1: 109, 12, 4, 2
+Unit2: 83, 18, 2, 2
+Unit3: 169, 10, 1, 2
+Unit4: 110, 7, 2, 2
+Unit5: 110, 15, 1, 1;
+LootPoss: 11
+MaxLoot: 1
+Power: 7
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/397 Великий циклоп 0
+Quantity: 3/1
+Initiative: 1/1
+Unit1: 63, 2, 1, 0
+Unit2: 14, 3, 2, 1;
+LootPoss: 6
+MaxLoot: 1
+Power: 5
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/398 Великий циклоп 1
+Quantity: 5/2
+Initiative: 2/1
+Unit1: 63, 5, 1, 0
+Unit2: 14, 6, 3, 2
+Unit3: 73, 4, 1, 1;
+LootPoss: 8
+MaxLoot: 1
+Power: 6
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/399 Великий циклоп 2
+Quantity: 7/3
+Initiative: 2/2
+Unit1: 63, 8, 1, 0
+Unit2: 14, 10, 3, 3
+Unit3: 73, 9, 2, 2
+Unit4: 50, 5, 1, 1;
+LootPoss: 10
+MaxLoot: 1
+Power: 8
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/400 Великий циклоп 3
+Quantity: 10/4
+Initiative: 3/2
+Unit1: 63, 11, 1, 0
+Unit2: 14, 15, 4, 3
+Unit3: 73, 12, 2, 3
+Unit4: 50, 8, 2, 2
+Unit5: 63, 1, 1, 1;
+LootPoss: 12
+MaxLoot: 1
+Power: 10
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/401 Заводчики тварей 0
+Quantity: 3/2
+Initiative: 1/0
+Unit1: 96, 2, 1, 1
+Unit2: 129, 2, 1, 1
+Unit3: 32, 2, 1, 1
+Unit4: 151, 2, 0, 1;
+LootPoss: 8
+MaxLoot: 1
+Power: 3
+Item1: 1, 1
+Item2: 80, 1
+Item3: 67, 1;
+
+/402 Заводчики тварей 1
+Quantity: 5/3
+Initiative: 1/1
+Unit1: 96, 5, 1, 2
+Unit2: 129, 5, 1, 2
+Unit3: 32, 5, 2, 2
+Unit4: 151, 5, 1, 2;
+LootPoss: 10
+MaxLoot: 1
+Power: 5
+Item1: 1, 1
+Item2: 80, 1
+Item3: 67, 1;
+
+/403 Заводчики тварей 2
+Quantity: 7/4
+Initiative: 2/1
+Unit1: 96, 10, 1, 3
+Unit2: 129, 10, 1, 3
+Unit3: 32, 9, 2, 2
+Unit4: 151, 9, 1, 2
+Unit5: 68, 9, 0, 2
+Unit6: 130, 7, 1, 2
+Unit7: 150, 4, 1, 1
+Unit8: 54, 6, 0, 1;
+LootPoss: 12
+MaxLoot: 1
+Power: 7
+Item1: 1, 1
+Item2: 80, 1
+Item3: 67, 1;
+
+/404 Заводчики тварей 3
+Quantity: 10/5
+Initiative: 2/2
+Unit1: 96, 15, 2, 4
+Unit2: 129, 15, 1, 4
+Unit3: 32, 14, 2, 3
+Unit4: 151, 14, 1, 3
+Unit5: 68, 13, 0, 3
+Unit6: 130, 13, 1, 2
+Unit7: 150, 12, 1, 2
+Unit8: 54, 12, 1, 2
+Unit9: 131, 5, 1, 1
+Unit10: 62, 2, 0, 1;
+LootPoss: 14
+MaxLoot: 1
+Power: 10
+Item1: 1, 1
+Item2: 80, 1
+Item3: 67, 1;
+
+/405 Серый Совет
+Quantity: 12/4
+Initiative: 3/2
+Unit1: 223, 20, 3, 4
+Unit2: 226, 16, 2, 3
+Unit3: 229, 11, 2, 2
+Unit4: 232, 16, 3, 3
+Unit5: 233, 15, 1, 1
+Unit6: 234, 25, 1, 0;
+LootPoss: 6
+MaxLoot: 1
+Power: 11
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/406 Легион Хаоса 0
+Quantity: 6/2
+Initiative: 1/2
+Unit1: 21, 6, 1, 3
+Unit2: 283, 1, 0, 1
+Unit3: 99, 8, 1, 3
+Unit4: 37, 3, 1, 2
+Unit5: 38, 3, 1, 2
+Unit6: 95, 2, 1, 1
+Unit7: 254, 1, 1, 0;
+LootPoss: 10
+MaxLoot: 1
+Power: 5
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/407 Легион хаоса 1
+Quantity: 8/3
+Initiative: 2/2
+Unit1: 21, 10, 1, 3
+Unit2: 283, 5, 0, 1
+Unit3: 99, 12, 1, 3
+Unit4: 37, 6, 1, 3
+Unit5: 38, 6, 1, 2
+Unit6: 95, 5, 2, 2
+Unit7: 56, 3, 1, 0
+Unit8: 254, 5, 1, 0;
+LootPoss: 11
+MaxLoot: 1
+Power: 8
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/408 Легион хаоса 2
+Quantity: 10/3
+Initiative: 3/3
+Unit1: 21, 15, 2, 2
+Unit2: 283, 10, 0, 1
+Unit3: 99, 17, 1, 3
+Unit4: 37, 10, 1, 3
+Unit5: 38, 10, 1, 2
+Unit6: 95, 9, 1, 2
+Unit7: 56, 6, 1, 2
+Unit8: 257, 1, 0, 1
+Unit9: 97, 8, 1, 1
+Unit10: 65, 3, 1, 1
+Unit11: 254, 10, 1, 0;
+LootPoss: 12
+MaxLoot: 1
+Power: 13
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/409 Легион хаоса 3
+Quantity: 12/4
+Initiative: 4/3
+Unit1: 21, 18, 2, 3
+Unit2: 99, 17, 1, 3
+Unit3: 37, 13, 1, 3
+Unit4: 38, 13, 2, 3
+Unit5: 95, 12, 1, 3
+Unit6: 56, 10, 1, 2
+Unit7: 257, 4, 0, 1
+Unit8: 97, 14, 1, 2
+Unit9: 98, 9, 1, 1
+Unit10: 65, 6, 1, 1
+Unit11: 254, 16, 1, 0;
+LootPoss: 13
+MaxLoot: 1
+Power: 15
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/410 Монстроловы 0
+Quantity: 3/2
+Initiative: 1/0
+Unit1: 72, 1, 1, 0
+Unit2: 3, 4, 1, 1
+Unit3: 4, 3, 1, 1;
+LootPoss: 11
+MaxLoot: 1
+Power: 2
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/411 Монстроловы 1
+Quantity: 5/3
+Initiative: 2/1
+Unit1: 72, 3, 1, 0
+Unit2: 3, 7, 2, 2
+Unit3: 4, 6, 1, 2
+Unit4: 80, 4, 1, 1;
+LootPoss: 13
+MaxLoot: 1
+Power: 4
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/412 Монстроловы 2
+Quantity: 7/4
+Initiative: 3/2
+Unit1: 72, 6, 1, 1
+Unit2: 3, 12, 2, 3
+Unit3: 86, 9, 1, 2
+Unit4: 4, 10, 2, 3
+Unit5: 80, 8, 1, 2;
+LootPoss: 15
+MaxLoot: 1
+Power: 6
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/413 Монстроловы 3
+Quantity: 10/5
+Initiative: 4/3
+Unit1: 72, 10, 2, 1
+Unit2: 3, 18, 2, 3
+Unit3: 86, 13, 2, 2
+Unit4: 4, 16, 2, 3
+Unit5: 80, 12, 2, 2;
+LootPoss: 18
+MaxLoot: 1
+Power: 9
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/414 Стражи Вечности
+Quantity: 4/2
+Initiative: 3/1
+Unit1: 236, 20, 1, 1
+Unit2: 157, 20, 1, 2
+Unit3: 161, 25, 1, 2
+Unit4: 162, 20, 1, 2;
+LootPoss: 15
+MaxLoot: 1
+Power: 12
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/415 Стражи Рока
+Quantity: 4/2
+Initiative: 2/2
+Unit1: 237, 20, 1, 1
+Unit2: 75, 20, 1, 2
+Unit3: 160, 20, 1, 2
+Unit4: 164, 25, 1, 2;
+LootPoss: 15
+MaxLoot: 1
+Power: 12
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/416 Стражи Тайн
+Quantity: 4/2
+Initiative: 1/3
+Unit1: 235, 20, 1, 1
+Unit2: 161, 20, 1, 2
+Unit3: 162, 25, 1, 2
+Unit4: 164, 25, 1, 2;
+LootPoss: 15
+MaxLoot: 1
+Power: 12
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/417 Монстрологи 0
+Quantity: 3/1
+Initiative: 1/1
+Unit1: 48, 1, 1, 0
+Unit2: 47, 1, 1, 0
+Unit3: 33, 3, 1, 1
+Unit4: 151, 3, 0, 2
+Unit5: 68, 3, 0, 2;
+LootPoss: 10
+MaxLoot: 1
+Power: 4
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/418 Монстрологи 1
+Quantity: 5/3
+Initiative: 2/1
+Unit1: 48, 3, 1, 0
+Unit2: 47, 3, 1, 0
+Unit3: 33, 6, 2, 1
+Unit4: 151, 6, 1, 1
+Unit5: 68, 6, 0, 2;
+LootPoss: 12
+MaxLoot: 1
+Power: 6
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/419 Монстрологи 2
+Quantity: 7/5
+Initiative: 2/2
+Unit1: 48, 6, 2, 1
+Unit2: 47, 6, 1, 1
+Unit3: 33, 10, 2, 2
+Unit4: 151, 10, 1, 2
+Unit5: 68, 10, 1, 2
+Unit6: 135, 4, 0, 1;
+LootPoss: 14
+MaxLoot: 1
+Power: 8
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/420 Монстрологи 3
+Quantity: 9/6
+Initiative: 2/3
+Unit1: 48, 9, 2, 2
+Unit2: 47, 9, 1, 2
+Unit3: 33, 14, 2, 3
+Unit4: 151, 14, 1, 3
+Unit5: 68, 14, 1, 3
+Unit6: 135, 6, 0, 2
+Unit7: 148, 8, 1, 0
+Unit8: 58, 5, 1, 1;
+LootPoss: 16
+MaxLoot: 1
+Power: 13
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/421 Механики 0
+Quantity: 2/0
+Initiative: 0/1
+Unit1: 156, 3, 1, 0
+Unit2: 184, 1, 1, 0;
+LootPoss: 14
+MaxLoot: 1
+Power: 4
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/422 Механики 1
+Quantity: 4/1
+Initiative: 1/0
+Unit1: 156, 6, 2, 3
+Unit2: 184, 4, 2, 1;
+LootPoss: 16
+MaxLoot: 1
+Power: 6
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/423 Механики 2
+Quantity: 7/2
+Initiative: 1/1
+Unit1: 156, 9, 4, 3
+Unit2: 184, 7, 2, 1
+Unit3: 103, 5, 1, 2;
+LootPoss: 18
+MaxLoot: 1
+Power: 9
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/424 Механики 3
+Quantity: 10/3
+Initiative: 2/1
+Unit1: 156, 12, 4, 3
+Unit2: 184, 10, 3, 1
+Unit3: 103, 8, 3, 2;
+LootPoss: 20
+MaxLoot: 1
+Power: 12
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/425 Белый маг
+Quantity: 10/0
+Initiative: 2/2
+Unit1: 18, 20, 2, 0
+Unit2: 260, 16, 1, 0
+Unit3: 132, 17, 1, 0
+Unit4: 261, 16, 1, 0
+Unit5: 15, 22, 1, 0
+Unit6: 16, 25, 1, 0
+Unit7: 133, 28, 1, 0
+Unit8: 78, 20, 1, 1
+Unit9: 134, 30, 1, 0;
+LootPoss: 25
+MaxLoot: 1
+Power: 7
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/426 Крысолюды 0
+Quantity: 3/2
+Initiative: 1/1
+Unit1: 222, 7, 0, 2
+Unit2: 221, 8, 1, 1
+Unit3: 223, 8, 1, 1
+Unit4: 224, 8, 1, 1;
+LootPoss: 4
+MaxLoot: 1
+Power: 2
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/427 Крысолюды 1
+Quantity: 6/3
+Initiative: 2/1
+Unit1: 222, 11, 1, 2
+Unit2: 221, 12, 1, 2
+Unit3: 223, 12, 1, 2
+Unit4: 224, 12, 1, 2
+Unit5: 225, 9, 1, 1
+Unit6: 226, 8, 1, 1
+Unit7: 227, 7, 0, 1;
+LootPoss: 5
+MaxLoot: 1
+Power: 4
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/428 Крысолюды 2
+Quantity: 8/4
+Initiative: 2/2
+Unit1: 222, 15, 1, 3
+Unit2: 221, 16, 1, 3
+Unit3: 223, 16, 1, 3
+Unit4: 224, 16, 1, 3
+Unit5: 225, 12, 1, 2
+Unit6: 226, 11, 1, 2
+Unit7: 227, 10, 1, 2
+Unit8: 228, 15, 0, 1
+Unit9: 229, 6, 1, 1
+Unit10: 230, 8, 0, 1
+Unit11: 232, 12, 0, 2;
+LootPoss: 7
+MaxLoot: 1
+Power: 7
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/429 Крысолюды 3
+Quantity: 10/4
+Initiative: 3/2
+Unit1: 222, 19, 1, 3
+Unit2: 221, 20, 1, 3
+Unit3: 223, 20, 1, 3
+Unit4: 224, 20, 1, 3
+Unit5: 225, 15, 1, 2
+Unit6: 226, 14, 1, 2
+Unit7: 227, 13, 1, 2
+Unit8: 228, 19, 0, 2
+Unit9: 229, 8, 1, 1
+Unit10: 230, 10, 0, 1
+Unit11: 231, 11, 0, 1
+Unit12: 232, 15, 1, 1
+Unit13: 233, 5, 1, 0;
+LootPoss: 9
+MaxLoot: 1
+Power: 9
+Item1: 5, 2
+Item2: 42, 1
+Item3: 55, 1;
+
+/430 Шпион
+Quantity: 1/0
+Initiative: 1/0
+Unit1: 218, 10, 1, 0;
+LootPoss: 1
+MaxLoot: 1
+Power: 0
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/431 Скелеты Мрака 0
+Quantity: 3/1
+Initiative: 1/0
+Unit1: 207, 1, 1, 0
+Unit2: 193, 3, 2, 1;
+LootPoss: 10
+MaxLoot: 1
+Power: 2
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/432 Скелеты Мрака 1
+Quantity: 4/1
+Initiative: 1/1
+Unit1: 207, 3, 1, 0
+Unit2: 193, 6, 3, 1;
+LootPoss: 12
+MaxLoot: 1
+Power: 3
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/433 Скелеты Мрака 2
+Quantity: 5/2
+Initiative: 1/2
+Unit1: 207, 6, 1, 0
+Unit2: 193, 4, 4, 1;
+LootPoss: 14
+MaxLoot: 1
+Power: 4
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/434 Скелеты Мрака 3
+Quantity: 6/2
+Initiative: 2/2
+Unit1: 207, 10, 1, 0
+Unit2: 193, 14, 5, 1;
+LootPoss: 16
+MaxLoot: 1
+Power: 6
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/435 Стражи болот 0
+Quantity: 4/1
+Initiative: 1/0
+Unit1: 69, 3, 1, 2
+Unit2: 113, 3, 2, 2
+Unit3: 151, 3, 1, 1
+Unit4: 32, 3, 0, 1;
+LootPoss: 8
+MaxLoot: 1
+Power: 2
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/436 Стражи болот 1
+Quantity: 6/2
+Initiative: 1/1
+Unit1: 69, 6, 2, 2
+Unit2: 113, 6, 2, 2
+Unit3: 151, 6, 1, 1
+Unit4: 32, 6, 1, 1;
+LootPoss: 9
+MaxLoot: 1
+Power: 4
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/437 Стражи болот 2
+Quantity: 8/3
+Initiative: 2/1
+Unit1: 69, 10, 2, 3
+Unit2: 113, 10, 2, 3
+Unit3: 151, 10, 1, 2
+Unit4: 32, 10, 1, 2
+Unit5: 67, 6, 1, 1
+Unit6: 150, 4, 1, 1;
+LootPoss: 11
+MaxLoot: 1
+Power: 6
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/438 Стражи болот 3
+Quantity: 10/4
+Initiative: 2/2
+Unit1: 69, 15, 2, 3
+Unit2: 113, 15, 2, 3
+Unit3: 151, 15, 2, 2
+Unit4: 32, 15, 1, 2
+Unit5: 67, 10, 2, 1
+Unit6: 150, 6, 1, 1;
+LootPoss: 13
+MaxLoot: 1
+Power: 8
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/439 Заклинатели 0
+Quantity: 3/1
+Initiative: 1/0
+Unit1: 197, 3, 1, 2
+Unit2: 39, 3, 1, 1
+Unit3: 48, 1, 1, 0;
+LootPoss: 8
+MaxLoot: 1
+Power: 2
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/440 Заклинатели 1
+Quantity: 5/2
+Initiative: 2/1
+Unit1: 197, 6, 1, 3
+Unit2: 39, 5, 2, 1
+Unit3: 198, 5, 1, 2
+Unit4: 48, 3, 1, 0;
+LootPoss: 11
+MaxLoot: 1
+Power: 4
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/441 Заклинатели 2
+Quantity: 7/3
+Initiative: 3/1
+Unit1: 197, 10, 2, 3
+Unit2: 39, 9, 2, 2
+Unit3: 198, 10, 1, 3
+Unit4: 48, 5, 1, 1
+Unit5: 71, 3, 1, 1;
+LootPoss: 14
+MaxLoot: 1
+Power: 6
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/442 Заклинатели 3
+Quantity: 10/4
+Initiative: 4/2
+Unit1: 197, 15, 2, 3
+Unit2: 39, 13, 2, 3
+Unit3: 198, 14, 1, 3
+Unit4: 48, 9, 1, 2
+Unit5: 71, 6, 2, 2
+Unit6: 159, 4, 1, 1
+Unit7: 148, 5, 1, 0
+Unit8: 200, 4, 0, 1;
+LootPoss: 17
+MaxLoot: 1
+Power: 9
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/443 Тёмные жрицы 0
+Quantity: 3/2
+Initiative: 1/1
+Unit1: 183, 3, 1, 2
+Unit2: 176, 3, 1, 1
+Unit3: 179, 3, 1, 1;
+LootPoss: 9
+MaxLoot: 1
+Power: 2
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/444 Тёмные жрицы 1
+Quantity: 5/3
+Initiative: 2/1
+Unit1: 183, 6, 2, 1
+Unit2: 176, 6, 1, 1
+Unit3: 179, 6, 2, 1;
+LootPoss: 12
+MaxLoot: 1
+Power: 4
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/445 Тёмные жрицы 2
+Quantity: 7/4
+Initiative: 3/2
+Unit1: 183, 10, 3, 3
+Unit2: 176, 10, 1, 3
+Unit3: 179, 10, 2, 3
+Unit4: 177, 6, 1, 2
+Unit5: 182, 5, 0, 1;
+LootPoss: 15
+MaxLoot: 1
+Power: 6
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/446 Тёмные жрицы 3
+Quantity: 10/5
+Initiative: 4/2
+Unit1: 183, 15, 2, 3
+Unit2: 176, 15, 2, 3
+Unit3: 179, 15, 2, 3
+Unit4: 177, 10, 2, 2
+Unit5: 182, 8, 1, 1
+Unit6: 178, 6, 1, 1;
+LootPoss: 18
+MaxLoot: 1
+Power: 8
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/447 Шабаш 0
+Quantity: 2/1
+Initiative: 0/1
+Unit1: 12, 3, 1, 3
+Unit2: 87, 2, 0, 2
+Unit3: 109, 3, 1, 2
+Unit4: 211, 1, 0, 1
+Unit5: 96, 1, 0, 1
+Unit6: 183, 2, 0, 1;
+LootPoss: 10
+MaxLoot: 1
+Power: 1
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/448 Шабаш 1
+Quantity: 4/2
+Initiative: 1/1
+Unit1: 12, 6, 1, 3
+Unit2: 87, 5, 0, 3
+Unit3: 109, 6, 1, 3
+Unit4: 211, 3, 1, 2
+Unit5: 144, 2, 0, 2
+Unit6: 96, 3, 1, 2
+Unit7: 183, 4, 0, 2
+Unit8: 130, 1, 0, 1
+Unit9: 110, 1, 0, 1
+Unit10: 177, 1, 0, 1;
+LootPoss: 12
+MaxLoot: 1
+Power: 3
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/449 Шабаш 2
+Quantity: 7/3
+Initiative: 2/1
+Unit1: 12, 9, 1, 3
+Unit2: 87, 8, 1, 3
+Unit3: 109, 9, 1, 3
+Unit4: 211, 6, 1, 3
+Unit5: 144, 2, 0, 3
+Unit6: 96, 6, 1, 3
+Unit7: 183, 7, 1, 3
+Unit8: 130, 3, 0, 2
+Unit9: 110, 3, 1, 2
+Unit10: 177, 3, 0, 2
+Unit11: 59, 1, 0, 1
+Unit12: 178, 1, 0, 1;
+LootPoss: 14
+MaxLoot: 1
+Power: 5
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/450 Шабаш 3
+Quantity: 10/4
+Initiative: 3/1
+Unit1: 12, 12, 1, 4
+Unit2: 87, 11, 1, 4
+Unit3: 109, 12, 1, 4
+Unit4: 211, 8, 1, 3
+Unit5: 144, 5, 1, 3
+Unit6: 96, 8, 1, 3
+Unit7: 183, 9, 1, 3
+Unit8: 130, 5, 0, 3
+Unit9: 110, 5, 1, 3
+Unit10: 177, 5, 1, 3
+Unit11: 59, 2, 0, 2
+Unit12: 178, 2, 1, 2
+Unit13: 237, 1, 0, 1;
+LootPoss: 16
+MaxLoot: 1
+Power: 8
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/451 Стража чащи
+Quantity: 12/4
+Initiative: 1/3
+Unit1: 61, 25, 4, 1
+Unit2: 35, 30, 8, 3;
+LootPoss: 1
+MaxLoot: 1
+Power: 10
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/452 Гномий клан 0
+Quantity: 3/1
+Initiative: 0/1
+Unit1: 16, 5, 2, 2
+Unit2: 184, 1, 1, 0;
+LootPoss: 16
+MaxLoot: 2
+Power: 2
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/453 Гномий клан 1
+Quantity: 5/2
+Initiative: 0/2
+Unit1: 16, 8, 2, 2
+Unit2: 156, 10, 2, 2
+Unit3: 184, 5, 1, 1;
+LootPoss: 18
+MaxLoot: 2
+Power: 5
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/454 Гномий клан 2
+Quantity: 7/3
+Initiative: 1/2
+Unit1: 16, 12, 2, 3
+Unit2: 156, 14, 1, 2
+Unit3: 256, 9, 2, 2
+Unit7: 184, 6, 1, 1
+Unit8: 103, 7, 1, 1;
+LootPoss: 20
+MaxLoot: 2
+Power: 7
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/455 Гномий клан 3
+Quantity: 10/4
+Initiative: 1/3
+Unit1: 16, 16, 2, 3
+Unit2: 156, 20, 1, 3
+Unit3: 256, 13, 2, 3
+Unit4: 184, 10, 2, 2
+Unit5: 103, 12, 2, 2
+Unit6: 104, 3, 1, 1;
+LootPoss: 22
+MaxLoot: 2
+Power: 10
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/456 Мятежники 0
+Quantity: 4/1
+Initiative: 0/0
+Unit1: 1, 3, 2, 1
+Unit2: 2, 3, 1, 1
+Unit3: 11, 3, 1, 1;
+LootPoss: 10
+MaxLoot: 1
+Power: 1
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/457 Мятежники 1
+Quantity: 7/2
+Initiative: 0/1
+Unit1: 1, 6, 2, 1
+Unit2: 2, 6, 2, 1
+Unit3: 11, 6, 1, 1
+Unit4: 4, 6, 1, 1
+Unit5: 10, 6, 1, 1
+Unit6: 128, 1, 0, 1;
+LootPoss: 11
+MaxLoot: 1
+Power: 2
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/458 Мятежники 2
+Quantity: 10/3
+Initiative: 0/1
+Unit1: 1, 10, 2, 3
+Unit2: 2, 10, 2, 3
+Unit3: 11, 10, 2, 3
+Unit4: 4, 10, 1, 3
+Unit5: 10, 10, 1, 3
+Unit6: 219, 12, 0, 3
+Unit7: 128, 2, 1, 3
+Unit8: 28, 2, 1, 2
+Unit9: 49, 1, 0, 1;
+LootPoss: 13
+MaxLoot: 1
+Power: 4
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/459 Мятежники 3
+Quantity: 12/4
+Initiative: 1/2
+Unit1: 1, 15, 2, 3
+Unit2: 119, 8, 1, 2
+Unit3: 2, 15, 1, 3
+Unit4: 11, 15, 1, 3
+Unit5: 4, 15, 1, 3
+Unit6: 80, 4, 0, 2
+Unit7: 10, 15, 1, 3
+Unit8: 219, 20, 1, 3
+Unit9: 128, 7, 1, 3
+Unit10: 28, 7, 2, 2
+Unit11: 49, 3, 1, 0;
+LootPoss: 15
+MaxLoot: 1
+Power: 6
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/460 Фантомы
+Quantity: 3/3
+Initiative: 2/2
+Unit1: 163, 14, 3, 1;
+LootPoss: 0
+MaxLoot: 0
+Power: 4
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/461 Ведьмак
+Quantity: 1/0
+Initiative: 2/1
+Unit1: 72, 14, 1, 0;
+LootPoss: 15
+MaxLoot: 1
+Power: 2
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/462 Слабые демоны
+Quantity: 2/0
+Initiative: 1/1
+Unit1: 21, 4, 1, 0
+Unit2: 99, 6, 1, 0;
+LootPoss: 5
+MaxLoot: 1
+Power: 0
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/463 Твари 0
+Quantity: 2/1
+Initiative: 1/1
+Unit1: 33, 3, 0, 3
+Unit2: 166, 3, 1, 2
+Unit3: 68, 3, 0, 3
+Unit4: 32, 3, 1, 2
+Unit5: 151, 3, 0, 3;
+LootPoss: 5
+MaxLoot: 1
+Power: 3
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/464 Твари 1
+Quantity: 4/2
+Initiative: 1/2
+Unit1: 33, 6, 1, 2
+Unit2: 166, 6, 1, 2
+Unit3: 68, 6, 1, 2
+Unit4: 32, 6, 1, 2
+Unit5: 151, 6, 0, 3;
+LootPoss: 7
+MaxLoot: 1
+Power: 5
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/465 Твари 2
+Quantity: 7/3
+Initiative: 2/2
+Unit1: 33, 9, 1, 3
+Unit2: 166, 9, 1, 3
+Unit3: 68, 9, 1, 3
+Unit4: 32, 9, 1, 3
+Unit5: 151, 9, 1, 3
+Unit6: 52, 4, 1, 2
+Unit7: 150, 4, 1, 2;
+LootPoss: 9
+MaxLoot: 1
+Power: 8
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/466 Твари 3
+Quantity: 10/4
+Initiative: 3/2
+Unit1: 33, 12, 2, 3
+Unit2: 166, 12, 1, 4
+Unit3: 68, 12, 1, 4
+Unit4: 32, 12, 1, 4
+Unit5: 151, 12, 1, 4
+Unit6: 52, 7, 2, 2
+Unit7: 150, 7, 2, 2;
+LootPoss: 12
+MaxLoot: 1
+Power: 11
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/467 Слабая нежить
+Quantity: 2/0
+Initiative: 0/1
+Unit1: 19, 4, 1, 0
+Unit2: 20, 3, 1, 0;
+LootPoss: 5
+MaxLoot: 1
+Power: 0
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/468 Чернокнижник 0
+Quantity: 6/1
+Initiative: 1/1
+Unit1: 19, 4, 2, 2
+Unit2: 20, 3, 2, 2
+Unit3: 91, 1, 1, 1
+Unit4: 59, 2, 1, 0;
+LootPoss: 5
+MaxLoot: 1
+Power: 3
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/469 Чернокнижник 1
+Quantity: 8/2
+Initiative: 1/2
+Unit1: 19, 8, 2, 3
+Unit2: 20, 7, 2, 3
+Unit3: 91, 5, 1, 2
+Unit4: 92, 4, 1, 1
+Unit5: 36, 6, 1, 1
+Unit6: 59, 5, 1, 0;
+LootPoss: 8
+MaxLoot: 1
+Power: 5
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/470 Чернокнижник 2
+Quantity: 10/3
+Initiative: 2/2
+Unit1: 19, 11, 2, 3
+Unit2: 20, 10, 2, 3
+Unit3: 91, 8, 1, 3
+Unit4: 92, 7, 1, 2
+Unit5: 36, 9, 1, 2
+Unit6: 171, 5, 1, 1
+Unit7: 55, 4, 1, 1
+Unit8: 59, 8, 1, 0;
+LootPoss: 12
+MaxLoot: 1
+Power: 8
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/471 Чернокнижник 3
+Quantity: 12/4
+Initiative: 3/2
+Unit1: 19, 14, 2, 3
+Unit2: 20, 13, 2, 3
+Unit3: 91, 11, 1, 3
+Unit4: 92, 10, 1, 3
+Unit5: 36, 12, 1, 3
+Unit6: 171, 8, 1, 2
+Unit7: 55, 7, 1, 2
+Unit8: 172, 3, 1, 1
+Unit9: 64, 4, 1, 1
+Unit10: 237, 7, 1, 0;
+LootPoss: 15
+MaxLoot: 2
+Power: 11
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/472 Дракон
+Quantity: 1/0
+Initiative: 2/2
+Unit1: 60, 3, 1, 0;
+LootPoss: 12
+MaxLoot: 1
+Power: 9
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/473 Драконы 0
+Quantity: 1/0
+Initiative: 2/1
+Unit1: 60, 3, 1, 0;
+LootPoss: 12
+MaxLoot: 1
+Power: 9
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/474 Драконы 1
+Quantity: 1/1
+Initiative: 2/2
+Unit1: 60, 6, 1, 1;
+LootPoss: 14
+MaxLoot: 2
+Power: 12
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/475 Драконы 2
+Quantity: 2/1
+Initiative: 3/1
+Unit1: 60, 9, 2, 1;
+LootPoss: 16
+MaxLoot: 3
+Power: 15
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/476 Драконы 3
+Quantity: 2/2
+Initiative: 3/2
+Unit1: 60, 12, 2, 1;
+LootPoss: 21
+MaxLoot: 3
+Power: 18
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/477 Гоблины-воры
+Quantity: 6/3
+Initiative: 1/1
+Unit1: 13, 7, 2, 3
+Unit2: 77, 5, 1, 2
+Unit3: 96, 3, 1, 1
+Unit4: 129, 2, 1, 1
+Unit5: 182, 0, 1, 0;
+LootPoss: 8
+MaxLoot: 1
+Power: 3
+Item1: 1, 1
+Item2: 80, 1
+Item3: 67, 1;

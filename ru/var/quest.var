@@ -1,0 +1,1831 @@
+Quantity: 60
+
+/0
+Name: Пусто;
+Giver: 0
+Type: 0
+Possibility: 0
+EncInit: 0
+EncWait: 0
+EncFound: 0
+EncNotFound: 0
+EncDone: 0
+EncSuccess: 0
+EncFailGiver: 0
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 0
+
+*Objectives*:
+Index: 0
+Param: 0
+Quantity: 0
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/1
+Name: Спасение эльфиек;
+Giver: 0
+Type: 1
+Possibility: 10
+EncInit: 64
+EncWait: 66
+EncFound: 77
+EncNotFound: 78
+EncDone: 0
+EncSuccess: 0
+EncFailGiver: 79
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 200
+
+*Objectives*:
+Index: 130
+Param: 100
+Quantity: 1
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/2
+Name: Священная секира;
+Giver: 0
+Type: 1
+Possibility: 10
+EncInit: 91
+EncWait: 99
+EncFound: 114
+EncNotFound: 113
+EncDone: 0
+EncSuccess: 0
+EncFailGiver: 115
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 200
+
+*Objectives*:
+Index: 131
+Param: 100
+Quantity: 1
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/3
+Name: Кровавое золото;
+Giver: 0
+Type: 6
+Possibility: 10
+EncInit: 136
+EncWait: 138
+EncFound: 142
+EncNotFound: 0
+EncDone: 143
+EncSuccess: 0
+EncFailGiver: 144
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 200
+
+*Objectives*:
+Index: 1
+Param: 0
+Quantity: 300
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/4
+Name: Месть людоедам;
+Giver: 0
+Type: 3
+Possibility: 10
+EncInit: 154
+EncWait: 156
+EncFound: 0
+EncNotFound: 0
+EncDone: 166
+EncSuccess: 0
+EncFailGiver: 167
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 300
+
+*Objectives*:
+Index: 50
+Param: 0
+Quantity: 5
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/5
+Name: Проблемы с разбойниками;
+Giver: 0
+Type: 3
+Possibility: 10
+EncInit: 181
+EncWait: 183
+EncFound: 0
+EncNotFound: 0
+EncDone: 192
+EncSuccess: 0
+EncFailGiver: 193
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 200
+
+*Objectives*:
+Index: 11
+Param: 0
+Quantity: 10
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/6
+Name: Эльфийское ожерелье;
+Giver: 0
+Type: 2
+Possibility: 10
+EncInit: 210
+EncWait: 217
+EncFound: 0
+EncNotFound: 0
+EncDone: 226
+EncSuccess: 0
+EncFailGiver: 227
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 200
+
+*Objectives*:
+Index: 15
+Param: 0
+Quantity: 5
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/7
+Name: Изгнание демонов;
+Giver: 27
+Type: 3
+Possibility: 10
+EncInit: 247
+EncWait: 245
+EncFound: 0
+EncNotFound: 0
+EncDone: 260
+EncSuccess: 250
+EncFailGiver: 244
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 200
+
+*Objectives*:
+Index: 56
+Param: 0
+Quantity: 4
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/8
+Name: Изгнание бесов;
+Giver: 27
+Type: 3
+Possibility: 10
+EncInit: 248
+EncWait: 245
+EncFound: 0
+EncNotFound: 0
+EncDone: 261
+EncSuccess: 251
+EncFailGiver: 244
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 150
+
+*Objectives*:
+Index: 21
+Param: 0
+Quantity: 15
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/9
+Name: Уничтожение Врат;
+Giver: 27
+Type: 1
+Possibility: 10
+EncInit: 249
+EncWait: 245
+EncFound: 0
+EncNotFound: 0
+EncDone: 262
+EncSuccess: 252
+EncFailGiver: 244
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 250
+
+*Objectives*:
+Index: 24
+Param: 100
+Quantity: 1
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/10
+Name: Изгнание чертей;
+Giver: 27
+Type: 3
+Possibility: 10
+EncInit: 264
+EncWait: 245
+EncFound: 0
+EncNotFound: 0
+EncDone: 268
+EncSuccess: 265
+EncFailGiver: 244
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 180
+
+*Objectives*:
+Index: 37
+Param: 0
+Quantity: 7
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/11
+Name: Изгнание гончих;
+Giver: 27
+Type: 3
+Possibility: 10
+EncInit: 269
+EncWait: 245
+EncFound: 0
+EncNotFound: 0
+EncDone: 273
+EncSuccess: 270
+EncFailGiver: 244
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 180
+
+*Objectives*:
+Index: 38
+Param: 0
+Quantity: 7
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/12
+Name: Изгнание дьяволов;
+Giver: 27
+Type: 3
+Possibility: 10
+EncInit: 274
+EncWait: 245
+EncFound: 0
+EncNotFound: 0
+EncDone: 278
+EncSuccess: 275
+EncFailGiver: 244
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 230
+
+*Objectives*:
+Index: 65
+Param: 0
+Quantity: 2
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/13
+Name: Упокоение скелетов;
+Giver: 27
+Type: 3
+Possibility: 10
+EncInit: 279
+EncWait: 245
+EncFound: 0
+EncNotFound: 0
+EncDone: 283
+EncSuccess: 280
+EncFailGiver: 244
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 120
+
+*Objectives*:
+Index: 19
+Param: 0
+Quantity: 15
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/14
+Name: Упокоение зомби;
+Giver: 27
+Type: 3
+Possibility: 10
+EncInit: 284
+EncWait: 245
+EncFound: 0
+EncNotFound: 0
+EncDone: 288
+EncSuccess: 285
+EncFailGiver: 244
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 150
+
+*Objectives*:
+Index: 20
+Param: 0
+Quantity: 15
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/15
+Name: Упокоение упырей;
+Giver: 27
+Type: 3
+Possibility: 10
+EncInit: 289
+EncWait: 245
+EncFound: 0
+EncNotFound: 0
+EncDone: 293
+EncSuccess: 290
+EncFailGiver: 244
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 180
+
+*Objectives*:
+Index: 36
+Param: 0
+Quantity: 7
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/16
+Name: Упокоение призраков;
+Giver: 27
+Type: 3
+Possibility: 10
+EncInit: 294
+EncWait: 245
+EncFound: 0
+EncNotFound: 0
+EncDone: 298
+EncSuccess: 295
+EncFailGiver: 244
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 220
+
+*Objectives*:
+Index: 55
+Param: 0
+Quantity: 4
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/17
+Name: Упокоение вампиров;
+Giver: 27
+Type: 3
+Possibility: 10
+EncInit: 299
+EncWait: 245
+EncFound: 0
+EncNotFound: 0
+EncDone: 303
+EncSuccess: 300
+EncFailGiver: 244
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 260
+
+*Objectives*:
+Index: 64
+Param: 0
+Quantity: 2
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/18
+Name: Разрушение Алтаря смерти;
+Giver: 27
+Type: 1
+Possibility: 10
+EncInit: 304
+EncWait: 245
+EncFound: 0
+EncNotFound: 0
+EncDone: 308
+EncSuccess: 305
+EncFailGiver: 244
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 250
+
+*Objectives*:
+Index: 26
+Param: 100
+Quantity: 1
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/19
+Name: Охота на василисков;
+Giver: 32
+Type: 2
+Possibility: 10
+EncInit: 314
+EncWait: 317
+EncFound: 324
+EncNotFound: 0
+EncDone: 325
+EncSuccess: 317
+EncFailGiver: 326
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 180
+
+*Objectives*:
+Index: 32
+Param: 0
+Quantity: 5
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/20
+Name: Охота на мантикор;
+Giver: 32
+Type: 2
+Possibility: 10
+EncInit: 327
+EncWait: 329
+EncFound: 335
+EncNotFound: 0
+EncDone: 336
+EncSuccess: 329
+EncFailGiver: 326
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 220
+
+*Objectives*:
+Index: 52
+Param: 0
+Quantity: 3
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/21
+Name: Охота на единорогов;
+Giver: 32
+Type: 2
+Possibility: 10
+EncInit: 337
+EncWait: 339
+EncFound: 345
+EncNotFound: 0
+EncDone: 346
+EncSuccess: 339
+EncFailGiver: 326
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 220
+
+*Objectives*:
+Index: 53
+Param: 0
+Quantity: 3
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/22
+Name: Свиток %s;
+Giver: 19
+Type: 7
+Possibility: 10
+EncInit: 728
+EncWait: 368
+EncFound: 0
+EncNotFound: 0
+EncDone: 368
+EncSuccess: 0
+EncFailGiver: 372
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 100
+
+*Objectives*:
+Index: 1
+Param: 0
+Quantity: 0
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/23
+Name: Задание кристалла, враг;
+Giver: 48
+Type: 8
+Possibility: 10
+EncInit: 444
+EncWait: 446
+EncFound: 0
+EncNotFound: 0
+EncDone: 449
+EncSuccess: 446
+EncFailGiver: 0
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 100
+
+*Objectives*:
+Index: 1
+Param: 3
+Quantity: 8
+Target: 1
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/24
+Name: Задание кристалла, враг;
+Giver: 48
+Type: 8
+Possibility: 10
+EncInit: 444
+EncWait: 447
+EncFound: 0
+EncNotFound: 0
+EncDone: 449
+EncSuccess: 447
+EncFailGiver: 0
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 150
+
+*Objectives*:
+Index: 2
+Param: 3
+Quantity: 6
+Target: 2
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/25
+Name: Задание кристалла, враг;
+Giver: 48
+Type: 8
+Possibility: 10
+EncInit: 444
+EncWait: 448
+EncFound: 0
+EncNotFound: 0
+EncDone: 449
+EncSuccess: 448
+EncFailGiver: 0
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 230
+
+*Objectives*:
+Index: 3
+Param: 3
+Quantity: 4
+Target: 3
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/26
+Name: Манускрипт о Ключах;
+Giver: -13
+Type: 0
+Possibility: 30
+EncInit: 0
+EncWait: 0
+EncFound: 0
+EncNotFound: 0
+EncDone: 0
+EncSuccess: 942
+EncFailGiver: 0
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 0
+
+*Objectives*:
+Index: 0
+Param: 0
+Quantity: 0
+Target: 11
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/27
+Name: Долина Древних;
+Giver: -17
+Type: 0
+Possibility: 0
+EncInit: 0
+EncWait: 943
+EncFound: 0
+EncNotFound: 0
+EncDone: 293
+EncSuccess: 945
+EncFailGiver: 0
+EncFailTarget: 0
+EncFailTime: 0
+Time: 3
+Exp: 1
+
+*Objectives*:
+Index: 22
+Param: 1
+Quantity: 3
+Target: 18
+Place: 1;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/28
+Name: Железные Ноги;
+Giver: -20
+Type: 0
+Possibility: 0
+EncInit: 341
+EncWait: 0
+EncFound: 0
+EncNotFound: 0
+EncDone: 0
+EncSuccess: 954
+EncFailGiver: 0
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 2
+
+*Objectives*:
+Index: 4
+Param: 1
+Quantity: 4
+Target: 12
+Place: -1;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/29
+Name: Блеклый фимиам;
+Giver: 0
+Type: 0
+Possibility: 30
+EncInit: 0
+EncWait: 0
+EncFound: 0
+EncNotFound: 959
+EncDone: 0
+EncSuccess: 960
+EncFailGiver: 0
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 0
+
+*Objectives*:
+Index: 0
+Param: 0
+Quantity: 0
+Target: 18
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/30
+Name: Камень Тишины;
+Giver: 0
+Type: 0
+Possibility: 0
+EncInit: 0
+EncWait: 0
+EncFound: 0
+EncNotFound: 0
+EncDone: 0
+EncSuccess: 0
+EncFailGiver: 0
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 0
+
+*Objectives*:
+Index: 0
+Param: 0
+Quantity: 0
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/31
+Name: Древо Мудрости;
+Giver: 0
+Type: 0
+Possibility: 20
+EncInit: 0
+EncWait: 0
+EncFound: 0
+EncNotFound: 962
+EncDone: 0
+EncSuccess: 963
+EncFailGiver: 0
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 0
+
+*Objectives*:
+Index: 0
+Param: 0
+Quantity: 0
+Target: 20
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/32
+Name: Хорианские топи;
+Giver: 0
+Type: 0
+Possibility: 0
+EncInit: 0
+EncWait: 988
+EncFound: 0
+EncNotFound: 0
+EncDone: 1022
+EncSuccess: 989
+EncFailGiver: 0
+EncFailTarget: 0
+EncFailTime: 0
+Time: 4
+Exp: 1
+
+*Objectives*:
+Index: 38
+Param: 1
+Quantity: 3
+Target: 11
+Place: 4;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/33
+Name: Лес Забытой Мечты;
+Giver: 0
+Type: 0
+Possibility: 0
+EncInit: 0
+EncWait: 996
+EncFound: 0
+EncNotFound: 0
+EncDone: 1236
+EncSuccess: 997
+EncFailGiver: 0
+EncFailTarget: 0
+EncFailTime: 0
+Time: 8
+Exp: 3
+
+*Objectives*:
+Index: 8
+Param: 1
+Quantity: 4
+Target: 12
+Place: 2;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/34
+Name: Дракония;
+Giver: 0
+Type: 0
+Possibility: 0
+EncInit: 0
+EncWait: 998
+EncFound: 0
+EncNotFound: 0
+EncDone: 1285
+EncSuccess: 999
+EncFailGiver: 0
+EncFailTarget: 0
+EncFailTime: 0
+Time: 5
+Exp: 1
+
+*Objectives*:
+Index: 41
+Param: 1
+Quantity: 4
+Target: 25
+Place: 3;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/35
+Name: Деталь, руины;
+Giver: 0
+Type: 0
+Possibility: 2
+EncInit: 0
+EncWait: 0
+EncFound: 0
+EncNotFound: 0
+EncDone: 1295
+EncSuccess: 1000
+EncFailGiver: 0
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 0
+
+*Objectives*:
+Index: 0
+Param: 0
+Quantity: 0
+Target: 11
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/36
+Name: Деталь, башня;
+Giver: 0
+Type: 0
+Possibility: 2
+EncInit: 0
+EncWait: 0
+EncFound: 0
+EncNotFound: 0
+EncDone: 1295
+EncSuccess: 1001
+EncFailGiver: 0
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 0
+
+*Objectives*:
+Index: 0
+Param: 0
+Quantity: 0
+Target: 12
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/37
+Name: Деталь, пещера;
+Giver: 0
+Type: 0
+Possibility: 6
+EncInit: 0
+EncWait: 0
+EncFound: 0
+EncNotFound: 0
+EncDone: 1295
+EncSuccess: 1002
+EncFailGiver: 0
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 0
+
+*Objectives*:
+Index: 0
+Param: 0
+Quantity: 0
+Target: 21
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/38
+Name: Деталь, чаща;
+Giver: 0
+Type: 0
+Possibility: 6
+EncInit: 0
+EncWait: 0
+EncFound: 0
+EncNotFound: 0
+EncDone: 1295
+EncSuccess: 1003
+EncFailGiver: 0
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 0
+
+*Objectives*:
+Index: 0
+Param: 0
+Quantity: 0
+Target: 20
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/39
+Name: Охота на пауков;
+Giver: 38
+Type: 2
+Possibility: 10
+EncInit: 519
+EncWait: 521
+EncFound: 527
+EncNotFound: 0
+EncDone: 528
+EncSuccess: 521
+EncFailGiver: 326
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 180
+
+*Objectives*:
+Index: 33
+Param: 0
+Quantity: 5
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/40
+Name: Пыльца фэйри;
+Giver: 38
+Type: 2
+Possibility: 10
+EncInit: 529
+EncWait: 531
+EncFound: 537
+EncNotFound: 0
+EncDone: 538
+EncSuccess: 531
+EncFailGiver: 326
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 150
+
+*Objectives*:
+Index: 17
+Param: 0
+Quantity: 7
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/41
+Name: Полотно Древних;
+Giver: 38
+Type: 1
+Possibility: 10
+EncInit: 539
+EncWait: 541
+EncFound: 548
+EncNotFound: 547
+EncDone: 0
+EncSuccess: 541
+EncFailGiver: 326
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 200
+
+*Objectives*:
+Index: 50
+Param: 50
+Quantity: 1
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/42
+Name: Подвиг Героя;
+Giver: 36
+Type: 3
+Possibility: 10
+EncInit: 549
+EncWait: 551
+EncFound: 0
+EncNotFound: 0
+EncDone: 558
+EncSuccess: 551
+EncFailGiver: 326
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 220
+
+*Objectives*:
+Index: 51
+Param: 0
+Quantity: 4
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/43
+Name: Охота на дракона;
+Giver: 36
+Type: 2
+Possibility: 10
+EncInit: 559
+EncWait: 561
+EncFound: 0
+EncNotFound: 0
+EncDone: 567
+EncSuccess: 561
+EncFailGiver: 326
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 250
+
+*Objectives*:
+Index: 60
+Param: 0
+Quantity: 1
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/44
+Name: Особая руда;
+Giver: 36
+Type: 1
+Possibility: 10
+EncInit: 569
+EncWait: 571
+EncFound: 578
+EncNotFound: 577
+EncDone: 0
+EncSuccess: 571
+EncFailGiver: 326
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 180
+
+*Objectives*:
+Index: 21
+Param: 40
+Quantity: 1
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/45
+Name: Враги Света;
+Giver: 37
+Type: 3
+Possibility: 10
+EncInit: 579
+EncWait: 581
+EncFound: 0
+EncNotFound: 0
+EncDone: 588
+EncSuccess: 581
+EncFailGiver: 326
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 200
+
+*Objectives*:
+Index: 211
+Param: 0
+Quantity: 5
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/46
+Name: Тёмное серебро;
+Giver: 37
+Type: 2
+Possibility: 10
+EncInit: 589
+EncWait: 591
+EncFound: 597
+EncNotFound: 0
+EncDone: 598
+EncSuccess: 591
+EncFailGiver: 326
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 220
+
+*Objectives*:
+Index: 49
+Param: 0
+Quantity: 3
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/47
+Name: Сердце гидры;
+Giver: 37
+Type: 2
+Possibility: 10
+EncInit: 599
+EncWait: 601
+EncFound: 0
+EncNotFound: 0
+EncDone: 607
+EncSuccess: 601
+EncFailGiver: 326
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 250
+
+*Objectives*:
+Index: 62
+Param: 0
+Quantity: 1
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/48
+Name: Охота на грифонов;
+Giver: 34
+Type: 2
+Possibility: 10
+EncInit: 608
+EncWait: 609
+EncFound: 611
+EncNotFound: 0
+EncDone: 612
+EncSuccess: 609
+EncFailGiver: 326
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 300
+
+*Objectives*:
+Index: 47
+Param: 0
+Quantity: 3
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/49
+Name: Особая древесина;
+Giver: 34
+Type: 2
+Possibility: 10
+EncInit: 613
+EncWait: 614
+EncFound: 0
+EncNotFound: 0
+EncDone: 616
+EncSuccess: 614
+EncFailGiver: 326
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 240
+
+*Objectives*:
+Index: 61
+Param: 0
+Quantity: 1
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/50
+Name: Пополнение коллекций;
+Giver: 39
+Type: 9
+Possibility: 10
+EncInit: 626
+EncWait: 629
+EncFound: 0
+EncNotFound: 0
+EncDone: 629
+EncSuccess: 0
+EncFailGiver: 326
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 200
+
+*Objectives*:
+Index: 0
+Param: 392
+Quantity: 1
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/51
+Name: Охота на слизней;
+Giver: 0
+Type: 3
+Possibility: 10
+EncInit: 644
+EncWait: 646
+EncFound: 0
+EncNotFound: 0
+EncDone: 651
+EncSuccess: 0
+EncFailGiver: 652
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 250
+
+*Objectives*:
+Index: 68
+Param: 0
+Quantity: 6
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/52
+Name: Особые чернила;
+Giver: 40
+Type: 9
+Possibility: 10
+EncInit: 660
+EncWait: 662
+EncFound: 0
+EncNotFound: 0
+EncDone: 662
+EncSuccess: 0
+EncFailGiver: 326
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 200
+
+*Objectives*:
+Index: 0
+Param: 391
+Quantity: 1
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/53
+Name: Украденные инструменты;
+Giver: 39
+Type: 1
+Possibility: 10
+EncInit: 665
+EncWait: 666
+EncFound: 674
+EncNotFound: 673
+EncDone: 0
+EncSuccess: 666
+EncFailGiver: 326
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 200
+
+*Objectives*:
+Index: 44
+Param: 80
+Quantity: 1
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/54
+Name: Держи вора!;
+Giver: 40
+Type: 2
+Possibility: 10
+EncInit: 675
+EncWait: 677
+EncFound: 678
+EncNotFound: 0
+EncDone: 679
+EncSuccess: 677
+EncFailGiver: 326
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 180
+
+*Objectives*:
+Index: 10
+Param: 10
+Quantity: 1
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/55
+Name: Лунный камень;
+Giver: 33
+Type: 1
+Possibility: 10
+EncInit: 710
+EncWait: 713
+EncFound: 716
+EncNotFound: 715
+EncDone: 0
+EncSuccess: 713
+EncFailGiver: 326
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 200
+
+*Objectives*:
+Index: 59
+Param: 40
+Quantity: 1
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/56
+Name: Борьба с конкуренцией;
+Giver: 35
+Type: 1
+Possibility: 10
+EncInit: 719
+EncWait: 722
+EncFound: 0
+EncNotFound: 0
+EncDone: 727
+EncSuccess: 722
+EncFailGiver: 326
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 300
+
+*Objectives*:
+Index: 40
+Param: 100
+Quantity: 1
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/57
+Name: Тёмная икринка;
+Giver: 0
+Type: 1
+Possibility: 10
+EncInit: 1096
+EncWait: 1104
+EncFound: 1114
+EncNotFound: 1113
+EncDone: 0
+EncSuccess: 0
+EncFailGiver: 1115
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 200
+
+*Objectives*:
+Index: 141
+Param: 100
+Quantity: 1
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/58
+Name: Гномьи бороды;
+Giver: 0
+Type: 2
+Possibility: 10
+EncInit: 1250
+EncWait: 1252
+EncFound: 1261
+EncNotFound: 0
+EncDone: 1262
+EncSuccess: 0
+EncFailGiver: 1263
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 300
+
+*Objectives*:
+Index: 16
+Param: 0
+Quantity: 7
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/59
+Name: Врата Хаоса;
+Giver: 0
+Type: 3
+Possibility: 10
+EncInit: 1288
+EncWait: 1290
+EncFound: 0
+EncNotFound: 0
+EncDone: 1301
+EncSuccess: 0
+EncFailGiver: 1303
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 150
+
+*Objectives*:
+Index: 254
+Param: 0
+Quantity: 1
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/60
+Name: Горькая пища;
+Giver: 0
+Type: 3
+Possibility: 10
+EncInit: 1329
+EncWait: 1331
+EncFound: 0
+EncNotFound: 0
+EncDone: 1340
+EncSuccess: 0
+EncFailGiver: 1341
+EncFailTarget: 0
+EncFailTime: 0
+Time: 0
+Exp: 250
+
+*Objectives*:
+Index: 144
+Param: 0
+Quantity: 4
+Target: 0
+Place: 0;
+
+*Ability*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;

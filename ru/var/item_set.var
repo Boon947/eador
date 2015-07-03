@@ -1,0 +1,1628 @@
+Quantity: 63
+
+/0
+Name: Пусто;
+ItemsNum: 3
+Items: 0, 0, 0
+Bonus: 1
+
+Items: 3
+Ability: 0
+Power: 0
+Area: 0;
+
+
+/1
+Name: Командирские регалии;
+ItemsNum: 3
+Items: 88, 101, 123
+Bonus: 2
+
+Items: 2
+Morale: 12
+Power: 1
+Area: 1;
+
+Items: 3
+Morale: 12
+Power: 1
+Area: 1;
+
+
+/2
+Name: Одеяние Волшебника;
+ItemsNum: 3
+Items: 83, 93, 118
+Bonus: 2
+
+Items: 2
+Stamina: 11
+Power: 1
+Area: 0;
+
+Items: 3
+Durations: 906
+Power: 1
+Area: 0;
+
+
+/3
+Name: Одежда Следопыта;
+ItemsNum: 3
+Items: 73, 85, 122
+Bonus: 2
+
+Items: 2
+Explore: 996
+Power: 5
+Area: 0;
+
+Items: 3
+BowAttack: 8
+Power: 1
+Area: 0;
+
+
+/4
+Name: Рыцарский доспех;
+ItemsNum: 3
+Items: 45, 79, 91
+Bonus: 2
+
+Items: 2
+RangedDefence: 5
+Power: 1
+Area: 0;
+
+Items: 3
+Defence: 4
+Power: 1
+Area: 0;
+
+
+/5
+Name: Облачение Иллюзий;
+ItemsNum: 5
+Items: 238, 265, 285, 305, 355
+Bonus: 3
+
+Items: 2
+RangedDefence: 5
+Power: 2
+Area: 0;
+
+Items: 4
+SpellDuration: 906
+Power: 1
+Area: 0;
+
+Items: 5
+RangedDefence: 5
+Power: 2
+Area: 0
+
+SpellDuration: 906
+Power: 1
+Area: 0;
+
+
+/6
+Name: Одеяния Воплощений;
+ItemsNum: 5
+Items: 240, 266, 286, 306, 347
+Bonus: 3
+
+Items: 2
+Summon: 907
+Power: 1
+Area: 0;
+
+Items: 4
+Life: 1
+Power: 8
+Area: 0
+
+Summon: 907
+Power: 1
+Area: 0;
+
+Items: 5
+GemIncome: 82
+Power: 5
+Area: 0
+
+Summon: 907
+Power: 1
+Area: 0;
+
+
+/7
+Name: Покровы Тайны;
+ItemsNum: 5
+Items: 242, 268, 288, 308, 374
+Bonus: 3
+
+Items: 2
+SpellPower: 905
+Power: 1
+Area: 0
+
+Resist: 6
+Power: 1
+Area: 0;
+
+Items: 4
+Resist: 6
+Power: 2
+Area: 0;
+
+Items: 5
+SpellPenetration: 908
+Power: 2
+Area: 0;
+
+
+/8
+Name: Доспехи Василиска;
+ItemsNum: 5
+Items: 247, 271, 291, 311, 369
+Bonus: 2
+
+Items: 3
+Regeneration: 48
+Power: 2
+Area: 0;
+
+Items: 5
+Defence: 4
+Power: 2
+Area: 0
+
+RangedDefence: 5
+Power: 2
+Area: 0
+
+PoisonImmunity: 42
+Power: 1
+Area: 0;
+
+
+/9
+Name: Доспех Мантикоры;
+ItemsNum: 5
+Items: 248, 272, 292, 312, 350
+Bonus: 2
+
+Items: 3
+PoisonAttack: 41
+Power: 3
+Area: 0
+
+PoisonShot: 78
+Power: 3
+Area: 0;
+
+Items: 5
+Speed: 7
+Power: 2
+Area: 0;
+
+
+/10
+Name: Доспех Единорога;
+ItemsNum: 5
+Items: 249, 273, 293, 313, 363
+Bonus: 2
+
+Items: 3
+Resist: 6
+Power: 3
+Area: 0
+
+Speed: 7
+Power: 1
+Area: 0;
+
+Items: 5
+Attack: 2
+Power: 4
+Area: 0
+
+CounterAttack: 3
+Power: 4
+Area: 0
+
+RangedAttack: 8
+Power: 4
+Area: 0;
+
+
+/11
+Name: Доспех Ветерана;
+ItemsNum: 5
+Items: 252, 275, 295, 316, 356
+Bonus: 2
+
+Items: 3
+ExpGain: 991
+Power: 25
+Area: 0;
+
+Items: 5
+ArmyExpGain: 990
+Power: 25
+Area: 0;
+
+
+/12
+Name: Доспех Героя;
+ItemsNum: 5
+Items: 254, 276, 296, 317, 368
+Bonus: 3
+
+Items: 2
+Morale: 12
+Power: 3
+Area: 1;
+
+Items: 4
+Life: 1
+Power: 4
+Area: 1;
+
+Items: 5
+Attack: 2
+Power: 2
+Area: 1;
+
+/13
+Name: Драконьи доспехи;
+ItemsNum: 8
+Items: 227, 256, 278, 298, 319, 351, 362, 373
+Bonus: 4
+
+Items: 2
+Life: 1
+Power: 8
+Area: 0
+
+Stamina: 11
+Power: 3
+Area: 0;
+
+Items: 4
+Attack: 2
+Power: 4
+Area: 0
+
+CounterAttack: 3
+Power: 4
+Area: 0;
+
+Items: 6
+Defence: 4
+Power: 2
+Area: 0
+
+RangedDefence: 5
+Power: 2
+Area: 0;
+
+Items: 8
+MagicImmunity: 30
+Power: 1
+Area: 0;
+
+
+/14
+Name: Доспех Паладина;
+ItemsNum: 5
+Items: 259, 280, 300, 321, 357
+Bonus: 2
+
+Items: 3
+Resist: 6
+Power: 3
+Area: 0
+
+SmiteEvil: 61
+Power: 2
+Area: 0;
+
+Items: 5
+Defence: 4
+Power: 2
+Area: 0
+
+RangedDefence: 5
+Power: 2
+Area: 0;
+
+
+/15
+Name: Доспех Доблести;
+ItemsNum: 5
+Items: 261, 281, 301, 322, 348
+Bonus: 2
+
+Items: 3
+Life: 1
+Power: 10
+Area: 0
+
+Morale: 12
+Power: 3
+Area: 1;
+
+Items: 5
+Speed: 7
+Power: 1
+Area: 0
+
+Morale: 12
+Power: 10
+Area: 0;
+
+
+/16
+Name: Доспех Величия;
+ItemsNum: 5
+Items: 263, 283, 303, 324, 372
+Bonus: 2
+
+Items: 3
+Attack: 2
+Power: 4
+Area: 0
+
+CounterAttack: 3
+Power: 4
+Area: 0;
+
+Items: 5
+Speed: 7
+Power: 1
+Area: 0
+
+Defence: 4
+Power: 4
+Area: 0
+
+RangedDefence: 5
+Power: 4
+Area: 0;
+
+
+/17
+Name: Артефакты Вечности;
+ItemsNum: 4
+Items: 211, 220, 354, 375
+Bonus: 3
+
+Items: 2
+SpellCost: 983
+Power: 10
+Area: 0;
+
+Items: 3
+Summon: 907
+Power: 2
+Area: 0
+
+SpellPenetration: 908
+Power: 1
+Area: 0;
+
+Items: 4
+SpellPower: 905
+Power: 2
+Area: 0
+
+SpellDuration: 906
+Power: 1
+Area: 0;
+
+
+/18
+Name: Одеяние Оинора;
+ItemsNum: 9
+Items: 456, 457, 458, 459, 460, 461, 462, 464, 504
+Bonus: 4
+
+Items: 3
+SpellCost: 983
+Power: 25
+Area: 0;
+
+Items: 6
+SpellDuration: 906
+Power: 2
+Area: 0
+
+SpellPenetration: 908
+Power: 2
+Area: 0;
+
+Items: 8
+Summon: 907
+Power: 4
+Area: 0
+
+SpellPower: 905
+Power: 2
+Area: 0;
+
+Items: 9
+Archmage: 984
+Power: 1
+Area: 0;
+
+
+/19
+Name: Завоеватель Гарроса;
+ItemsNum: 9
+Items: 465, 466, 467, 468, 469, 470, 471, 473, 474
+Bonus: 4
+
+Items: 3
+Attack: 2
+Power: 2
+Area: 0
+
+CounterAttack: 3
+Power: 2
+Area: 0
+
+DrainLife: 68
+Power: 15
+Area: 0;
+
+Items: 6
+Defence: 4
+Power: 2
+Area: 0
+
+RangedDefence: 5
+Power: 2
+Area: 0;
+
+Items: 8
+Speed: 7
+Power: 1
+Area: 0
+
+Restless: 18
+Power: 1
+Area: 0;
+
+Items: 9
+RoundAttack: 66
+Power: 4
+Area: 0;
+
+
+/20
+Name: Облачение Дариола;
+ItemsNum: 9
+Items: 475, 476, 477, 478, 479, 480, 481, 482, 484
+Bonus: 4
+
+Items: 3
+Initiative: 999
+Power: 1
+Area: 0
+
+AimedShot: 77
+Power: 2
+Area: 0;
+
+Items: 6
+Stamina: 11
+Power: 4
+Area: 0
+
+Initiative: 999
+Power: 1
+Area: 0
+
+BowAttack: 8
+Power: 4
+Area: 0;
+
+Items: 8
+Initiative: 999
+Power: 1
+Area: 0
+
+AimedShot: 77
+Power: 3
+Area: 0
+
+FireArrows: 60
+Power: 7
+Area: 0;
+
+Items: 9
+DoubleShot: 20
+Power: 3
+Area: 0
+
+Restless: 18
+Power: 1
+Area: 0;
+
+
+/21
+Name: Регалии Герскила;
+ItemsNum: 9
+Items: 485, 486, 487, 488, 489, 490, 491, 493, 505
+Bonus: 4
+
+Items: 3
+Defence: 4
+Power: 2
+Area: 1
+
+RangedDefence: 5
+Power: 2
+Area: 1;
+
+Items: 6
+Attack: 2
+Power: 2
+Area: 1
+
+Resist: 6
+Power: 2
+Area: 1
+
+Initiative: 999
+Power: 1
+Area: 0;
+
+Items: 8
+Float: 15
+Power: 1
+Area: 1
+
+CounterAttack: 3
+Power: 2
+Area: 1;
+
+Items: 9
+Restless: 18
+Power: 1
+Area: 1
+
+Initiative: 999
+Power: 1
+Area: 0;
+
+
+/22
+Name: Удача рецидивиста;
+ItemsNum: 5
+Items: 506, 507, 508, 509, 510
+Bonus: 4
+
+Items: 2
+Initiative: 999
+Power: 1
+Area: 0;
+
+Items: 3
+Attack: 2
+Power: 4
+Area: 0
+
+CounterAttack: 3
+Power: 4
+Area: 0;
+
+Items: 4
+Pillage: 982
+Power: 25
+Area: 0
+
+Looter: 992
+Power: 3
+Area: 0;
+
+Items: 5
+Initiative: 999
+Power: 1
+Area: 0;
+
+
+/23
+Name: Нунций Церкви;
+ItemsNum: 5
+Items: 512, 513, 514, 515, 516
+Bonus: 4
+
+Items: 2
+RangeAttack: 8
+Power: 1
+Area: 0
+
+Heal: 24
+Power: 1
+Area: 0;
+
+Items: 3
+RangeAttack: 8
+Power: 1
+Area: 0
+
+Heal: 24
+Power: 1
+Area: 0
+
+Ambassador: 979
+Power: 1
+Area: 0;
+
+Items: 4
+RangeAttack: 8
+Power: 2
+Area: 0
+
+Heal: 24
+Power: 2
+Area: 0;
+
+Items: 5
+RangeAttack: 8
+Power: 2
+Area: 0
+
+Heal: 24
+Power: 2
+Area: 0
+
+Ambassador: 979
+Power: 1
+Area: 0;
+
+
+/24
+Name: Пылающие доспехи;
+ItemsNum: 6
+Items: 540, 541, 542, 543, 544, 545
+Bonus: 3
+
+Items: 2
+BurningFlesh: 154
+Power: 2
+Area: 0;
+
+Items: 4
+Burning: 143
+Power: 2
+Area: 0;
+
+Items: 6
+Speed: 7
+Power: 1
+Area: 0;
+
+
+/25
+Name: Неуловимый диверсант;
+ItemsNum: 6
+Items: 546, 547, 548, 549, 550, 551
+Bonus: 4
+
+Items: 2
+Explore: 996
+Power: 5
+Area: 0;
+
+Items: 3
+PoisonImmunity: 42
+Power: 1
+Area: 0;
+
+Items: 5
+Explore: 996
+Power: 10
+Area: 0;
+
+Items: 6
+CripplingArrows: 197
+Power: 2
+Area: 0
+
+Sabotage: 981
+Power: 1
+Area: 0;
+
+
+/26
+Name: Ночная Тень;
+ItemsNum: 4
+Items: 571, 572, 573, 574
+Bonus: 3
+
+Items: 2
+Defence: 4
+Power: 1
+Area: 0
+
+RangedDefence: 5
+Power: 1
+Area: 0;
+
+Items: 3
+Defence: 4
+Power: 1
+Area: 0
+
+Resist: 6
+Power: 1
+Area: 0;
+
+Items: 4
+RangedDefence: 5
+Power: 1
+Area: 0
+
+Resist: 6
+Power: 1
+Area: 0
+
+Agility: 26
+Power: 1
+Area: 0;
+
+
+/27
+Name: Облачение Носферату;
+ItemsNum: 4
+Items: 576, 577, 578, 579
+Bonus: 3
+
+Items: 2
+Defence: 4
+Power: 1
+Area: 0
+
+RangedDefence: 5
+Power: 1
+Area: 0;
+
+Items: 3
+DrainLife: 68
+Power: 25
+Area: 0
+
+RangeDrain: 104
+Power: 25
+Area: 0;
+
+Items: 4
+Painless: 13
+Power: 1
+Area: 0
+
+Fearless: 19
+Power: 1
+Area: 0
+
+PoisonImmunity: 42
+Power: 1
+Area: 0
+
+Speed: 7
+Power: 1
+Area: 0
+
+StealSoul: 57
+Power: 5
+Area: 0;
+
+
+/28
+Name: Воин Света;
+ItemsNum: 9
+Items: 587, 588, 589, 590, 591, 592, 593, 594, 595
+Bonus: 4
+
+Items: 3
+Resist: 6
+Power: 1
+Area: 1
+
+MindImmunity: 100
+Power: 1
+Area: 1;
+
+Items: 5
+Resist: 6
+Power: 1
+Area: 1
+
+Morale: 12
+Power: 2
+Area: 1;
+
+Items: 7
+Smite_Evil: 61
+Power: 2
+Area: 1
+
+Morale: 12
+Power: 3
+Area: 1;
+
+Items: 9
+Speed: 7
+Power: 1
+Area: 1
+
+Morale: 12
+Power: 5
+Area: 1;
+
+
+/29
+Name: Воплощение Л'Аншара;
+ItemsNum: 7
+Items: 605, 607, 602, 603, 606, 604, 608
+Bonus: 4
+
+Items: 2
+PowerfulUndead: 909
+Power: 2
+Area: 0
+
+Cannibalize: 49
+Power: 10
+Area: 1;
+
+Items: 4
+PowerfulUndead: 909
+Power: 2
+Area: 0
+
+StealSoul: 57
+Power: 5
+Area: 1;
+
+Items: 6
+PowerfulUndeads: 909
+Power: 2
+Area: 0
+
+DrainLife: 68
+Power: 30
+Area: 1;
+
+Items: 7
+LayDisease: 80
+Power: 3
+Area: 1
+
+PoisonImmunity: 42
+Power: 1
+Area: 1
+
+Economy: 997
+Power: 20
+Area: 0;
+
+
+/30
+Name: Великий торговец;
+ItemsNum: 5
+Items: 239, 290, 326, 367, 377
+Bonus: 4
+
+Items: 2
+GemIncome: 82
+Power: 2
+Area: 0;
+
+Items: 3
+GemIncome: 82
+Power: 3
+Area: 0;
+
+Items: 4
+GemIncome: 82
+Power: 5
+Area: 0;
+
+Items: 5
+GemIncome: 82
+Power: 10
+Area: 0
+
+Ambassador: 979
+Power: 1
+Area: 0;
+
+
+/31
+Name: Одеяние Магистра;
+ItemsNum: 5
+Items: 619, 615, 616, 617, 618
+Bonus: 4
+
+Items: 2
+Energy_control: 95
+Power: 2
+Area: 0;
+
+Items: 3
+SpellPenetration: 908
+Power: 1
+Area: 0
+
+RangedDefence: 5
+Power: 1
+Area: 0;
+
+Items: 4
+SpellPower: 905
+Power: 1
+Area: 0
+
+Defence: 4
+Power: 1
+Area: 0;
+
+Items: 5
+Energy_control: 95
+Power: 2
+Area: 0
+
+Ammo: 10
+Power: 2
+Area: 0
+
+Range: 9
+Power: 1
+Area: 0;
+
+
+/32
+Name: Мститель;
+ItemsNum: 4
+Items: 622, 620, 621, 627
+Bonus: 3
+
+Items: 2
+Bleeding: 208
+Power: 1
+Area: 0
+
+RangeBleeding: 209
+Power: 1
+Area: 0;
+
+Items: 3
+Initiative: 999
+Power: 1
+Area: 0
+
+First_strike: 16
+Power: 1
+Area: 0;
+
+Items: 4
+Speed: 7
+Power: 1
+Area: 0
+
+Agility: 26
+Power: 1
+Area: 0;
+
+
+/33
+Name: Воплощённая ярость;
+ItemsNum: 2
+Items: 178, 522
+Bonus: 1
+
+Items: 2
+Berserk: 25
+Power: 4
+Area: 0
+
+BloodRage: 211
+Power: 3
+Area: 0;
+
+
+/34
+Name: Одеяние Архимага;
+ItemsNum: 3
+Items: 145, 243, 390
+Bonus: 2
+
+Items: 2
+SpellPenetration: 908
+Power: 1
+Area: 0;
+
+Items: 3
+SpellPenetration: 908
+Power: 1
+Area: 0;
+
+
+/35
+Name: Мощь тролля;
+ItemsNum: 3
+Items: 168, 250, 353
+Bonus: 2
+
+Items: 2
+Life: 1
+Power: 10
+Area: 0
+
+Regeneration: 48
+Power: 1
+Area: 0;
+
+Items: 3
+Attack: 2
+Power: 2
+Area: 0
+
+CounterAttack: 3
+Power: 2
+Area: 0
+
+Swampwalk: 34
+Power: 1
+Area: 0;
+
+
+/36
+Name: Абсолютный лидер;
+ItemsNum: 4
+Items: 279, 297, 320, 364
+Bonus: 3
+
+Items: 2
+Morale: 12
+Power: 5
+Area: 1;
+
+Items: 3
+ExpGain: 991
+Power: 10
+Area: 0
+
+Economy: 997
+Power: 5
+Area: 0;
+
+Items: 4
+ExpGain: 991
+Power: 10
+Area: 0
+
+Economy: 997
+Power: 5
+Area: 0;
+
+
+/37
+Name: Жажда крови;
+ItemsNum: 2
+Items: 180, 262
+Bonus: 1
+
+Items: 2
+Attack: 2
+Power: 3
+Area: 0
+
+Defence: 4
+Power: -1
+Area: 0
+
+Agility: 26
+Power: 1
+Area: 0;
+
+
+/38
+Name: Бессмертный;
+ItemsNum: 4
+Items: 181, 264, 325, 343
+Bonus: 3
+
+Items: 2
+Regeneration: 48
+Power: 1
+Area: 0;
+
+Items: 3
+Defence: 4
+Power: 2
+Area: 0
+
+RangedDefence: 5
+Power: 2
+Area: 0;
+
+Items: 4
+Resist: 6
+Power: 1
+Area: 0
+
+Regeneration: 48
+Power: 2
+Area: 0;
+
+
+/39
+Name: Воин Древних;
+ItemsNum: 3
+Items: 153, 257, 304
+Bonus: 2
+
+Items: 2
+Attack: 2
+Power: 1
+Area: 0
+
+CounterAttack: 3
+Power: 1
+Area: 0;
+
+Items: 3
+Defence: 4
+Power: 1
+Area: 0
+
+RangedDefence: 5
+Power: 1
+Area: 0;
+
+
+/40
+Name: Кара богов;
+ItemsNum: 4
+Items: 150, 228, 255, 524
+Bonus: 3
+
+Items: 2
+CounterAttack: 3
+Power: 1
+Area: 0
+
+SmiteEvil: 61
+Power: 1
+Area: 0;
+
+Items: 3
+Attack: 2
+Power: 1
+Area: 0
+
+FirstAid: 35
+Power: 2
+Area: 0;
+
+Items: 4
+Attack: 2
+Power: 2
+Area: 0
+
+CounterAttack: 3
+Power: 2
+Area: 0;
+
+
+/41
+Name: Подгорный воитель;
+ItemsNum: 4
+Items: 154, 222, 251, 315
+Bonus: 3
+
+Items: 2
+CounterAttack: 3
+Power: 1
+Area: 0;
+
+Items: 3
+Defence: 4
+Power: 1
+Area: 0
+
+RangedDefence: 5
+Power: 1
+Area: 0;
+
+Items: 4
+Attack: 2
+Power: 1
+Area: 0
+
+Resist: 6
+Power: 1
+Area: 0;
+
+
+/42
+Name: Тайна Ренвера;
+ItemsNum: 2
+Items: 197, 236
+Bonus: 1
+
+Items: 2
+Aimed_Shot: 77
+Power: 5
+Area: 0
+
+FireArrows: 60
+Power: 7
+Area: 0;
+
+
+/43
+Name: Эльфийский стрелок;
+ItemsNum: 2
+Items: 193, 232
+Bonus: 1
+
+Items: 2
+RangedAttack: 8
+Power: 1
+Area: 0
+
+AimedShot: 77
+Power: 1
+Area: 0;
+
+
+/44
+Name: Сын степи;
+ItemsNum: 2
+Items: 190, 229
+Bonus: 1
+
+Items: 2
+Ammo: 10
+Power: 4
+Area: 0;
+
+
+/45
+Name: Огненное воздаяние;
+ItemsNum: 2
+Items: 195, 233
+Bonus: 1
+
+Items: 2
+Burning: 144
+Power: 3
+Area: 0;
+
+
+/46
+Name: Танцующий-со-смертью;
+ItemsNum: 2
+Items: 253, 398
+Bonus: 1
+
+Items: 2
+Attack: 2
+Power: 1
+Area: 0
+
+CounterAttack: 3
+Power: 1
+Area: 0
+
+Defence: 4
+Power: 1
+Area: 0
+
+RangedDefence: 5
+Power: 1
+Area: 0
+
+Resist: 6
+Power: 1
+Area: 0;
+
+
+/47
+Name: Великий заклинатель;
+ItemsNum: 4
+Items: 141, 241, 309, 388
+Bonus: 3
+
+Items: 2
+Stamina: 11
+Power: 3
+Area: 0;
+
+Items: 3
+SpellCost: 983
+Power: 15
+Area: 0;
+
+Items: 4
+SpellPenetration: 908
+Power: 1
+Area: 0;
+
+
+/48
+Name: Удача чародея;
+ItemsNum: 3
+Items: 136, 389, 609
+Bonus: 2
+
+Items: 2
+Resist: 6
+Power: 1
+Area: 0
+
+SpellPenetration: 908
+Power: 1
+Area: 0;
+
+Items: 3
+Agility: 26
+Power: 1
+Area: 0;
+
+
+/49
+Name: Старый колдун;
+ItemsNum: 2
+Items: 39, 237
+Bonus: 1
+
+Items: 2
+Energy_control: 95
+Power: 1
+Area: 0
+
+LayCurse: 43
+Power: 4
+Area: 0;
+
+
+/50
+Name: Искатель приключений;
+ItemsNum: 3
+Items: 191, 246, 336
+Bonus: 3
+
+Items: 2
+Looter: 992
+Power: 1
+Area: 0;
+
+Items: 3
+Looter: 992
+Power: 2
+Area: 0;
+
+Items: 4
+Looter: 992
+Power: 3
+Area: 0;
+
+
+/51
+Name: Жулик;
+ItemsNum: 2
+Items: 245, 310
+Bonus: 1
+
+Items: 2
+Speed: 7
+Power: 1
+Area: 0;
+
+
+/52
+Name: Вечный странник;
+ItemsNum: 3
+Items: 244, 270, 366
+Bonus: 2
+
+Items: 2
+Explore: 996
+Power: 5
+Area: 0;
+
+Items: 3
+Explore: 996
+Power: 5
+Area: 0
+
+Mobility: 998
+Power: 1
+Area: 0;
+
+
+/53
+Name: Великий некромант;
+ItemsNum: 3
+Items: 135, 165, 287, 383
+Bonus: 2
+
+Items: 2
+UndeadPower: 909
+Power: 1
+Area: 0;
+
+Items: 3
+UndeadPower: 909
+Power: 1
+Area: 0;
+
+
+/54
+Name: Регалии стратега;
+ItemsNum: 2
+Items: 186, 401
+Bonus: 1
+
+Items: 2
+RangedAttack: 8
+Power: 1
+Area: 1
+
+Morale: 12
+Power: 2
+Area: 1;
+
+
+/55
+Name: Повелитель яда;
+ItemsNum: 2
+Items: 338, 402
+Bonus: 2
+
+Items: 2
+Poisonous_Flash: 96
+Power: 1
+Area: 0;
+
+Items: 3
+PoisonAttack: 41
+Power: 1
+Area: 0
+
+PoisonImmunity: 42
+Power: 1
+Area: 0;
+
+
+/56
+Name: Лунная тень;
+ItemsNum: 2
+Items: 144, 334
+Bonus: 1
+
+Items: 2
+Defence: 4
+Power: 1
+Area: 0
+
+RangedDefence: 5
+Power: 2
+Area: 0;
+
+
+/57
+Name: Сила Некруса;
+ItemsNum: 2
+Items: 208, 399
+Bonus: 1
+
+Items: 2
+Summon: 907
+Power: 2
+Area: 0
+
+Necromancy: 909
+Power: 2
+Area: 0;
+
+
+/58
+Name: Палач;
+ItemsNum: 2
+Items: 155, 260
+Bonus: 1
+
+Items: 2
+Attack: 2
+Power: 2
+Area: 0;
+
+
+/59
+Name: Неотвратимая смерть;
+ItemsNum: 2
+Items: 204, 235
+Bonus: 1
+
+Items: 2
+Poison_Shot: 78
+Power: 2
+Area: 0;
+
+
+/60
+Name: Отражения Тьмы;
+ItemsNum: 2
+Items: 207, 694
+Bonus: 1
+
+Items: 2
+Feared_Shot: 169
+Power: 2
+Area: 0
+
+Astral_Shot: 213
+Power: 2
+Area: 0;
+
+
+/61
+Name: Буйство пламени;
+ItemsNum: 2
+Items: 205, 215
+Bonus: 1
+
+Items: 2
+Burning: 144
+Power: 1
+Area: 0
+
+PierceResist: 196
+Power: 1
+Area: 0;
+
+
+/62
+Name: Отражённая боль;
+ItemsNum: 3
+Items: 170, 340, 532
+Bonus: 2
+
+Items: 2
+Attack: 2
+Power: 1
+Area: 0
+
+Thorns: 210
+Power: 1
+Area: 0;
+
+Items: 3
+Thorns: 210
+Power: 2
+Area: 0;
+
+
+/63
+Name: Астральная энергия;
+ItemsNum: 2
+Items: 267, 307
+Bonus: 1
+
+Items: 2
+Stamina: 11
+Power: 2
+Area: 0
+
+CastStamina: 161
+Power: 1
+Area: 0;

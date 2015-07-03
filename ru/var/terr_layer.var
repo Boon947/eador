@@ -1,0 +1,8 @@
+Sea     : 0, 0, 1, 0
+Plain   : 15, 1, 1, 0
+Forest  : 30, 20, 60, 0
+Hill    : 10, 6, 8, 0
+Swamp   : 20, 25, 10, 0
+Desetr  : 0, 0, 0, 0
+Tundra  : 0, 0, 0, 0
+Mountain: 10, 6, 8, 0

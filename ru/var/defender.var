@@ -1,0 +1,4271 @@
+Quantity: 104
+
+/0
+Name: Пусто;
+Illustration: 0
+Power: 0
+GoldCost: 0
+GemGost: 0
+GoldPayment: 0
+GemPayment: 0
+Building: 0
+Initiative: 0
+Karma: 0
+LootPoss: 0
+LootNum: 0
+NoDismiss: 0
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Resource: (0)
+Units:
+Unit1: 1, 3, 2
+Unit2: 2, 3, 1
+Unit3: 3, 3, 1
+Unit4: 4, 5, 1;
+Loot:
+Item1: 1, 1
+Item2: 2, 1
+Item3: 3, 1;
+Ability:
+Ability: 0
+Param1: 0
+Param2: 0;
+
+/1
+Name: Местное ополчение;
+Illustration: 28
+Power: 1
+GoldCost: 30
+GemGost: 0
+GoldPayment: 3
+GemPayment: 0
+Building: 0
+Initiative: 0
+Karma: 0
+LootPoss: 5
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (0)
+Units:
+Unit1: 1, 5, 5
+Unit2: 2, 3, 2
+Unit3: 3, 3, 1
+Unit4: 86, 1, 1;
+Loot:
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+Ability:
+Ability: 0
+Param1: 0
+Param2: 0;
+
+/2
+Name: Шайка воров;
+Illustration: 29
+Power: 1
+GoldCost: 10
+GemGost: 0
+GoldPayment: 0
+GemPayment: 0
+Building: 65
+Initiative: 2
+Karma: -2
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (0)
+Units:
+Unit1: 10, 7, 6
+Unit2: 112, 3, 2;
+Loot:
+Item1: 2, 2
+Item2: 126, 1
+Item3: 84, 1;
+Ability:
+Ability: 1
+Param1: -10
+Param2: 0
+
+Ability: 2
+Param1: -1
+Param2: 0;
+
+/3
+Name: Племя;
+Illustration: 17
+Power: 2
+GoldCost: 100
+GemGost: 0
+GoldPayment: 5
+GemPayment: 0
+Building: 0
+Initiative: 1
+Karma: -1
+LootPoss: 5
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Resource: (0)
+Units:
+Unit1: 9, 9, 4
+Unit2: 12, 5, 2
+Unit3: 85, 3, 1
+Unit4: 87, 1, 1;
+Loot:
+Item1: 13, 3
+Item2: 37, 1
+Item3: 51, 2;
+Ability:
+Ability: 0
+Param1: 0
+Param2: 0;
+
+/4
+Name: Головорезы;
+Illustration: 29
+Power: 1
+GoldCost: 20
+GemGost: 0
+GoldPayment: 0
+GemPayment: 0
+Building: 0
+Initiative: 1
+Karma: -2
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (0)
+Units:
+Unit1: 128, 2, 1
+Unit2: 11, 5, 7
+Unit3: 219, 4, 3;
+Loot:
+Item1: 9, 2
+Item2: 41, 2
+Item3: 46, 1;
+Ability:
+Ability: 1
+Param1: -20
+Param2: 0
+
+Ability: 2
+Param1: -2
+Param2: 0;
+
+/5
+Name: Стражники;
+Illustration: 31
+Power: 2
+GoldCost: 120
+GemGost: 0
+GoldPayment: 8
+GemPayment: 0
+Building: 0
+Initiative: 1
+Karma: 1
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (1, 1, 2)
+Units:
+Unit1: 5, 6, 5
+Unit2: 7, 6, 3
+Unit3: 81, 2, 1
+Unit4: 84, 1, 1;
+Loot:
+Item1: 33, 1
+Item2: 9, 1
+Item3: 55, 1;
+Ability:
+Ability: 3
+Param1: 3
+Param2: 0;
+
+/6
+Name: Патрульные;
+Illustration: 31
+Power: 2
+GoldCost: 110
+GemGost: 0
+GoldPayment: 7
+GemPayment: 0
+Building: 0
+Initiative: 1
+Karma: 1
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (1, 2)
+Units:
+Unit1: 6, 5, 5
+Unit2: 120, 1, 1
+Unit3: 4, 5, 2
+Unit4: 5, 8, 1
+Unit5: 80, 1, 1
+Unit6: 81, 2, 1;
+Loot:
+Item1: 42, 1
+Item2: 18, 1
+Item3: 55, 1;
+Ability:
+Ability: 3
+Param1: 2
+Param2: 0;
+
+/7
+Name: Охотники;
+Illustration: 0
+Power: 1
+GoldCost: 50
+GemGost: 0
+GoldPayment: 0
+GemPayment: 0
+Building: 0
+Initiative: 1
+Karma: 0
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (2)
+Units:
+Unit1: 4, 5, 4
+Unit2: 80, 1, 1;
+Loot:
+Item1: 29, 1
+Item2: 46, 1
+Item3: 47, 1;
+Ability:
+Ability: 4
+Param1: 50
+Param2: 0;
+
+/8
+Name: Дозорные;
+Illustration: 0
+Power: 1
+GoldCost: 70
+GemGost: 0
+GoldPayment: 5
+GemPayment: 0
+Building: 0
+Initiative: 4
+Karma: 0
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (0)
+Units:
+Unit1: 2, 6, 4
+Unit2: 119, 2, 1
+Unit3: 3, 4, 2
+Unit4: 86, 1, 1;
+Loot:
+Item1: 17, 1
+Item2: 63, 1
+Item3: 80, 1;
+Ability:
+Ability: 5
+Param1: 1
+Param2: 0;
+
+/9
+Name: Светлые братья;
+Illustration: 74
+Power: 1
+GoldCost: 60
+GemGost: 0
+GoldPayment: 5
+GemPayment: 0
+Building: 0
+Initiative: 0
+Karma: 2
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (4)
+Units:
+Unit1: 1, 6, 5
+Unit2: 8, 3, 1
+Unit3: 121, 1, 1
+Unit3: 22, 6, 1;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 2
+Param1: 1
+Param2: 0
+Ability: 6
+Param1: 10
+Param2: 0;
+
+/10
+Name: Егеря;
+Illustration: 0
+Power: 1
+GoldCost: 100
+GemGost: 0
+GoldPayment: 2
+GemPayment: 0
+Building: 40
+Initiative: 4
+Karma: 0
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 0
+Forest: 1
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Resource: (2)
+Units:
+Unit1: 80, 8, 4;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 1
+Param1: 10
+Param2: 0;
+
+/11
+Name: Наёмники;
+Illustration: 31
+Power: 3
+GoldCost: 200
+GemGost: 0
+GoldPayment: 12
+GemPayment: 0
+Building: 53
+Initiative: 2
+Karma: 0
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (1, 2, 3)
+Units:
+Unit1: 3, 11, 2
+Unit2: 4, 9, 2
+Unit3: 9, 19, 2
+Unit4: 25, 7, 1
+Unit5: 26, 7, 1
+Unit6: 86, 3, 1
+Unit7: 80, 2, 1
+Unit8: 89, 1, 1;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 0
+Param1: 0
+Param2: 0;
+
+/12
+Name: Духи леса;
+Illustration: 50
+Power: 2
+GoldCost: 50
+GemGost: 20
+GoldPayment: 0
+GemPayment: 1
+Building: 57
+Initiative: 4
+Karma: 2
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 0
+Forest: 1
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Resource: (4)
+Units:
+Unit1: 17, 12, 4
+Unit2: 35, 8, 3;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 2
+Param1: 2
+Param2: 0
+
+Ability: 12
+Param1: 1
+Param2: 0;
+
+/13
+Name: Неупокоенные;
+Illustration: 36
+Power: 2
+GoldCost: 40
+GemGost: 20
+GoldPayment: 0
+GemPayment: 1
+Building: 70
+Initiative: 0
+Karma: -2
+LootPoss: 5
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (4)
+Units:
+Unit1: 19, 9, 3
+Unit2: 91, 5, 2
+Unit3: 20, 7, 3
+Unit4: 92, 3, 1
+Unit5: 36, 6, 2;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 2
+Param1: -1
+Param2: 0
+
+Ability: 11
+Param1: 1
+Param2: 0
+
+Ability: 12
+Param1: 1
+Param2: 0;
+
+/14
+Name: Хранители леса;
+Illustration: 50
+Power: 3
+GoldCost: 140
+GemGost: 60
+GoldPayment: 0
+GemPayment: 5
+Building: 94
+Initiative: 4
+Karma: 2
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 0
+Forest: 1
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Resource: (4, 5)
+Units:
+Unit1: 17, 15, 6
+Unit2: 35, 12, 4
+Unit3: 53, 9, 1;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 2
+Param1: 3
+Param2: 0
+
+Ability: 12
+Param1: 1
+Param2: 0;
+
+/15
+Name: Воители;
+Illustration: 31
+Power: 4
+GoldCost: 280
+GemGost: 0
+GoldPayment: 17
+GemPayment: 0
+Building: 100
+Initiative: 1
+Karma: 0
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (1, 2, 3)
+Units:
+Unit1: 5, 12, 2
+Unit2: 6, 12, 3
+Unit3: 7, 12, 4
+Unit4: 25, 10, 2
+Unit5: 81, 6, 1
+Unit6: 84, 6, 1
+Unit7: 89, 4, 1;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 0
+Param1: 0
+Param2: 0;
+
+/16
+Name: Тайные агенты;
+Illustration: 29
+Power: 3
+GoldCost: 150
+GemGost: 0
+GoldPayment: 4
+GemPayment: 0
+Building: 117
+Initiative: 3
+Karma: -1
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (1)
+Units:
+Unit1: 10, 12, 3
+Unit2: 112, 8, 1
+Unit2: 30, 8, 3
+Unit3: 88, 1, 1;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 2
+Param1: -1
+Param2: 0
+
+Ability: 5
+Param1: 1
+Param2: 0
+
+Ability: 3
+Param1: 2
+Param2: 0;
+
+/17
+Name: Банда;
+Illustration: 29
+Power: 3
+GoldCost: 180
+GemGost: 0
+GoldPayment: 0
+GemPayment: 0
+Building: 118
+Initiative: 2
+Karma: -2
+LootPoss: 10
+LootNum: 1
+NoDismiss: 1
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (1, 2)
+Units:
+Unit1: 128, 8, 1
+Unit2: 11, 12, 3
+Unit3: 112, 9, 2
+Unit4: 219, 12, 3
+Unit5: 28, 7, 2
+Unit6: 80, 8, 1;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 2
+Param1: -2
+Param2: 0
+
+Ability: 1
+Param1: -30
+Param2: 0;
+
+/18
+Name: Гвардия;
+Illustration: 31
+Power: 3
+GoldCost: 350
+GemGost: 0
+GoldPayment: 10
+GemPayment: 0
+Building: 120
+Initiative: 1
+Karma: 1
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (1, 1, 1)
+Units:
+Unit1: 6, 12, 4
+Unit2: 120, 8, 1
+Unit3: 7, 12, 4
+Unit4: 23, 9, 4
+Unit5: 84, 4, 1;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 0
+Param1: 0
+Param2: 0;
+
+/19
+Name: Кочевники;
+Illustration: 23
+Power: 3
+GoldCost: 250
+GemGost: 0
+GoldPayment: 10
+GemPayment: 0
+Building: 121
+Initiative: 1
+Karma: 0
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Resource: (2, 3, 3)
+Units:
+Unit1: 25, 9, 3
+Unit2: 26, 9, 6;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 7
+Param1: 3
+Param2: 12;
+
+/20
+Name: Братство Орла;
+Illustration: 74
+Power: 2
+GoldCost: 200
+GemGost: 20
+GoldPayment: 12
+GemPayment: 0
+Building: 122
+Initiative: 1
+Karma: 2
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (4, 5)
+Units:
+Unit1: 22, 9, 8;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 2
+Param1: 1
+Param2: 0
+
+Ability: 6
+Param1: 10
+Param2: 0;
+
+/21
+Name: Тёмное братство;
+Illustration: 24
+Power: 3
+GoldCost: 130
+GemGost: 25
+GoldPayment: 7
+GemPayment: 0
+Building: 123
+Initiative: 1
+Karma: -2
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (4, 5)
+Units:
+Unit1: 12, 12, 4
+Unit2: 87, 4, 2
+Unit3: 29, 9, 2
+Unit4: 144, 3, 1;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 2
+Param1: -1
+Param2: 0;
+
+/22
+Name: Кавалерия;
+Illustration: 23
+Power: 3
+GoldCost: 300
+GemGost: 0
+GoldPayment: 15
+GemPayment: 0
+Building: 125
+Initiative: 3
+Karma: 0
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (1, 3, 3)
+Units:
+Unit1: 25, 15, 4
+Unit2: 89, 7, 2;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 0
+Param1: 0
+Param2: 0;
+
+/23
+Name: Надзиратели;
+Illustration: 0
+Power: 4
+GoldCost: 400
+GemGost: 0
+GoldPayment: 15
+GemPayment: 0
+Building: 164
+Initiative: 1
+Karma: -1
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (1, 1, 7)
+Units:
+Unit1: 28, 12, 6
+Unit2: 49, 9, 3;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 3
+Param1: 4
+Param2: 0;
+
+/24
+Name: Осадные инженеры;
+Illustration: 0
+Power: 4
+GoldCost: 400
+GemGost: 0
+GoldPayment: 14
+GemPayment: 0
+Building: 165
+Initiative: 1
+Karma: 0
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (1, 2, 7)
+Units:
+Unit1: 209, 10, 5
+Unit2: 1, 20, 2
+Unit3: 119, 12, 1
+Unit4: 27, 12, 2
+Unit5: 145, 3, 1
+Unit6: 46, 9, 1
+Unit7: 147, 1, 1;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 8
+Param1: 5
+Param2: 0;
+
+/25
+Name: Орден Белого Щита;
+Illustration: 76
+Power: 4
+GoldCost: 550
+GemGost: 0
+GoldPayment: 20
+GemPayment: 0
+Building: 166
+Initiative: 3
+Karma: 2
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (1, 3, 7)
+Units:
+Unit1: 5, 15, 2
+Unit2: 6, 15, 3
+Unit3: 120, 10, 1
+Unit4: 7, 15, 2
+Unit5: 44, 9, 2
+Unit6: 93, 1, 1
+Unit7: 81, 7, 1
+Unit8: 84, 7, 1;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 0
+Param1: 0
+Param2: 0;
+
+/26
+Name: Крылатая стража;
+Illustration: 32
+Power: 4
+GoldCost: 500
+GemGost: 25
+GoldPayment: 15
+GemPayment: 2
+Building: 167
+Initiative: 5
+Karma: 1
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (4, 5)
+Units:
+Unit1: 24, 12, 4
+Unit2: 47, 9, 3
+Unit3: 90, 4, 2;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 5
+Param1: 1
+Param2: 0;
+
+/27
+Name: Боевые чародеи;
+Illustration: 24
+Power: 4
+GoldCost: 500
+GemGost: 60
+GoldPayment: 20
+GemPayment: 0
+Building: 168
+Initiative: 2
+Karma: -2
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (4, 5, 5)
+Units:
+Unit1: 12, 15, 3
+Unit2: 87, 7, 1
+Unit3: 29, 12, 3
+Unit4: 144, 4, 2
+Unit5: 48, 8, 2
+Unit6: 148, 1, 1;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 2
+Param1: -1
+Param2: 0
+
+Ability: 1
+Param1: 0
+Param2: 30
+
+Ability: 9
+Param1: -1
+Param2: 0;
+
+/28
+Name: Боевые жрецы;
+Illustration: 74
+Power: 4
+GoldCost: 500
+GemGost: 40
+GoldPayment: 18
+GemPayment: 0
+Building: 169
+Initiative: 2
+Karma: 3
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (4, 5, 5)
+Units:
+Unit1: 22, 11, 4
+Unit2: 137, 6, 2
+Unit3: 45, 9, 2
+Unit4: 149, 3, 1;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 2
+Param1: 1
+Param2: 0
+
+Ability: 6
+Param1: 10
+Param2: 0;
+
+/29
+Name: Грабители;
+Illustration: 29
+Power: 3
+GoldCost: 0
+GemGost: 0
+GoldPayment: 0
+GemPayment: 0
+Building: 0
+Initiative: 2
+Karma: -1
+LootPoss: 10
+LootNum: 1
+NoDismiss: 1
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (0)
+Units:
+Unit1: 128, 8, 1
+Unit2: 11, 12, 3
+Unit3: 112, 9, 2
+Unit4: 219, 12, 3
+Unit5: 28, 7, 2
+Unit6: 80, 8, 1;;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 1
+Param1: -40
+Param2: 0
+
+Ability: 2
+Param1: -2
+Param2: 0;
+
+/30
+Name: Местное ополчение;
+Illustration: 28
+Power: 0
+GoldCost: 0
+GemGost: 0
+GoldPayment: -1
+GemPayment: 0
+Building: 0
+Initiative: 0
+Karma: 0
+LootPoss: 5
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (0)
+Units:
+Unit1: 1, 3, 4
+Unit2: 2, 3, 1
+Unit3: 3, 3, 1;
+Loot:
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+Ability:
+Ability: 0
+Param1: 0
+Param2: 0;
+
+/31
+Name: Вассал;
+Illustration: 31
+Power: 0
+GoldCost: 0
+GemGost: 0
+GoldPayment: 0
+GemPayment: 0
+Building: 0
+Initiative: 0
+Karma: 0
+LootPoss: 5
+LootNum: 1
+NoDismiss: 1
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (0)
+Units:
+Unit1: 1, 3, 4
+Unit2: 2, 3, 1
+Unit3: 3, 3, 1;
+Loot:
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+Ability:
+Ability: 1
+Param1: -90
+Param2: -90;
+
+/32
+Name: Дружина;
+Illustration: 31
+Power: 0
+GoldCost: 0
+GemGost: 0
+GoldPayment: -1
+GemPayment: 0
+Building: 0
+Initiative: 0
+Karma: 0
+LootPoss: 5
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (0)
+Units:
+Unit1: 1, 3, 4
+Unit2: 2, 3, 1
+Unit3: 3, 3, 1;
+Loot:
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+Ability:
+Ability: 0
+Param1: 0
+Param2: 0;
+
+/33
+Name: Лёгкая пехота;
+Illustration: 31
+Power: 2
+GoldCost: 70
+GemGost: 0
+GoldPayment: 5
+GemPayment: 0
+Building: 61
+Initiative: 1
+Karma: 0
+LootPoss: 5
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (0)
+Units:
+Unit1: 1, 10, 6
+Unit2: 3, 7, 3
+Unit3: 4, 6, 2
+Unit4: 86, 2, 2
+Unit5: 80, 1, 1;
+Loot:
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+Ability:
+Ability: 0
+Param1: 0
+Param2: 0;
+
+/34
+Name: Лесная стража;
+Illustration: 50
+Power: 0
+GoldCost: 0
+GemGost: 0
+GoldPayment: -1
+GemPayment: 6
+Building: 0
+Initiative: 4
+Karma: 3
+LootPoss: 10
+LootNum: 1
+NoDismiss: 1
+Terrain:
+Plain: 0
+Forest: 1
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Resource: (4, 5)
+Units:
+Unit1: 17, 12, 5
+Unit2: 35, 9, 3
+Unit3: 53, 6, 1;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 2
+Param1: 3
+Param2: 0
+
+Ability: 12
+Param1: 1
+Param2: 0;
+
+/35
+Name: Кочевое племя;
+Illustration: 23
+Power: 0
+GoldCost: 0
+GemGost: 0
+GoldPayment: -1
+GemPayment: 0
+Building: 0
+Initiative: 1
+Karma: 0
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Resource: (2, 3, 3)
+Units:
+Unit1: 25, 7, 2
+Unit2: 26, 7, 4;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 7
+Param1: 3
+Param2: 12;
+
+/36
+Name: Тёмные друиды;
+Illustration: 24
+Power: 0
+GoldCost: 0
+GemGost: 0
+GoldPayment: -1
+GemPayment: 5
+Building: 0
+Initiative: 1
+Karma: 0
+LootPoss: 10
+LootNum: 1
+NoDismiss: 1
+Terrain:
+Plain: 1
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Resource: (0)
+Units:
+Unit1: 25, 7, 2
+Unit2: 26, 7, 4;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 9
+Param1: -20
+Param2: 0;
+
+/37
+Name: Эльфийская стража;
+Illustration: 34
+Power: 0
+GoldCost: 0
+GemGost: 0
+GoldPayment: -1
+GemPayment: 0
+Building: 0
+Initiative: 3
+Karma: 0
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Resource: (0)
+Units:
+Unit1: 25, 7, 2
+Unit2: 26, 7, 4;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 0
+Param1: 0
+Param2: 0;
+
+/38
+Name: Гномий патруль;
+Illustration: 39
+Power: 0
+GoldCost: 0
+GemGost: 0
+GoldPayment: -1
+GemPayment: 0
+Building: 0
+Initiative: 3
+Karma: 0
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Resource: (0)
+Units:
+Unit1: 25, 7, 2
+Unit2: 26, 7, 4;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 7
+Param1: 1
+Param2: 5
+
+Ability: 7
+Param1: 6
+Param2: 10
+
+Ability: 7
+Param1: 7
+Param2: 15;
+
+/39
+Name: Гномий клан;
+Illustration: 39
+Power: 3
+GoldCost: 300
+GemGost: 6
+GoldPayment: 15
+GemPayment: 0
+Building: 195
+Initiative: 1
+Karma: 1
+LootPoss: 13
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 1
+Swamp: 0
+Desert: 0
+Tundra: 0
+Resource: (1, 1, 2)
+Units:
+Unit1: 16, 12, 2
+Unit2: 255, 8, 1
+Unit3: 156, 10, 1
+Unit4: 256, 10, 2
+Unit5: 103, 4, 1
+Unit6: 184, 5, 1;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 10
+Param1: 3
+Param2: 2
+
+Ability: 2
+Param1: 1
+Param2: 3
+
+Ability: 7
+Param1: 1
+Param2: 5
+
+Ability: 7
+Param1: 6
+Param2: 10
+
+Ability: 7
+Param1: 7
+Param2: 15;
+
+/40
+Name: Орда;
+Illustration: 22
+Power: 2
+GoldCost: 50
+GemGost: 0
+GoldPayment: 0
+GemPayment: 0
+Building: 202
+Initiative: 1
+Karma: -2
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (1)
+Units:
+Unit1: 100, 12, 4
+Unit2: 14, 14, 4
+Unit3: 109, 10, 2
+Unit3: 73, 7, 1;
+Loot:
+Item1: 2, 2
+Item2: 126, 1
+Item3: 84, 1;
+Ability:
+Ability: 10
+Param1: 1
+Param2: 2
+
+Ability: 1
+Param1: -20
+Param2: 0
+
+Ability: 2
+Param1: -1
+Param2: -5;
+
+/41
+Name: Кентавры;
+Illustration: 21
+Power: 3
+GoldCost: 200
+GemGost: 0
+GoldPayment: 6
+GemPayment: 0
+Building: 208
+Initiative: 3
+Karma: 0
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Resource: (2)
+Units:
+Unit1: 122, 13, 3
+Unit2: 34, 9, 2
+Unit3: 123, 10, 2
+Unit4: 124, 5, 1;
+Loot:
+Item1: 2, 2
+Item2: 126, 1
+Item3: 84, 1;
+Ability:
+Ability: 10
+Param1: 2
+Param2: 2
+
+Ability: 2
+Param1: 1
+Param2: 7
+
+Ability: 12
+Param1: 1
+Param2: 0;
+
+/42
+Name: Орочий патруль;
+Illustration: 22
+Power: 0
+GoldCost: 0
+GemGost: 0
+GoldPayment: -1
+GemPayment: 0
+Building: 0
+Initiative: 1
+Karma: 0
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Resource: (0)
+Units:
+Unit1: 25, 7, 2
+Unit2: 26, 7, 4;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 0
+Param1: 0
+Param2: 0;
+
+/43
+Name: Гоблины;
+Illustration: 37
+Power: 0
+GoldCost: 0
+GemGost: 0
+GoldPayment: -1
+GemPayment: 0
+Building: 0
+Initiative: 1
+Karma: 0
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Resource: (0)
+Units:
+Unit1: 25, 7, 2
+Unit2: 26, 7, 4;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 0
+Param1: 0
+Param2: 0;
+
+/44
+Name: Клан кентавров;
+Illustration: 21
+Power: 0
+GoldCost: 0
+GemGost: 0
+GoldPayment: -1
+GemPayment: 0
+Building: 0
+Initiative: 1
+Karma: 0
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Resource: (0)
+Units:
+Unit1: 25, 7, 2
+Unit2: 26, 7, 4;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 12
+Param1: 1
+Param2: 0;
+
+/45
+Name: Полурослики;
+Illustration: 40
+Power: 0
+GoldCost: 0
+GemGost: 0
+GoldPayment: -1
+GemPayment: 0
+Building: 0
+Initiative: 1
+Karma: 0
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Resource: (0)
+Units:
+Unit1: 25, 7, 2
+Unit2: 26, 7, 4;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 0
+Param1: 0
+Param2: 0;
+
+/46
+Name: Братство Друидов;
+Illustration: 0
+Power: 6
+GoldCost: 100
+GemGost: 40
+GoldPayment: 0
+GemPayment: 5
+Building: 0
+Initiative: 3
+Karma: 2
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 0
+Forest: 1
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Resource: (4, 5, 8)
+Units:
+Unit1: 17, 15, 2
+Unit2: 35, 12, 2
+Unit3: 24, 12, 2
+Unit4: 45, 15, 3
+Unit5: 47, 10, 2
+Unit6: 53, 10, 2
+Unit7: 61, 9, 2;
+Loot:
+Item1: 2, 2
+Item2: 126, 1
+Item3: 84, 1;
+*Ability*:
+Ability: 10
+Param1: 4
+Param2: 3
+
+Ability: 2
+Param1: 1
+Param2: 0
+
+Ability: 6
+Param1: 20
+Param2: 0;
+
+/47
+Name: Имперская Стража;
+Illustration: 31
+Power: 6
+GoldCost: 300
+GemGost: 0
+GoldPayment: 30
+GemPayment: 0
+Building: 0
+Initiative: 3
+Karma: 1
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (1, 3, 7)
+Units:
+Unit1: 7, 15, 4
+Unit2: 23, 15, 2
+Unit3: 25, 15, 2
+Unit4: 44, 10, 3
+Unit5: 78, 4, 1
+Unit6: 58, 9, 2;
+Loot:
+Item1: 2, 2
+Item2: 126, 1
+Item3: 84, 1;
+*Ability*:
+Ability: 10
+Param1: 4
+Param2: 2
+
+Ability: 3
+Param1: 5
+Param2: 0;
+
+/48
+Name: Орден Великой Тьмы;
+Illustration: 24
+Power: 6
+GoldCost: 150
+GemGost: 90
+GoldPayment: 10
+GemPayment: 6
+Building: 0
+Initiative: 3
+Karma: -2
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (5, 9, 9)
+Units:
+Unit1: 39, 20, 3
+Unit2: 29, 15, 2
+Unit3: 144, 7, 2
+Unit4: 48, 13, 3
+Unit5: 148, 4, 1
+Unit6: 59, 10, 3;
+Loot:
+Item1: 2, 2
+Item2: 126, 1
+Item3: 84, 1;
+*Ability*:
+Ability: 10
+Param1: 4
+Param2: 3
+
+Ability: 2
+Param1: -1
+Param2: 0
+
+Ability: 9
+Param1: -1
+Param2: 0;
+
+/49
+Name: Армада;
+Illustration: 31
+Power: 6
+GoldCost: 400
+GemGost: 0
+GoldPayment: 40
+GemPayment: 0
+Building: 0
+Initiative: 3
+Karma: 0
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (1, 7, 7)
+Units:
+Unit1: 28, 17, 4
+Unit2: 152, 8, 2
+Unit3: 49, 15, 4
+Unit4: 58, 12, 5;
+Loot:
+Item1: 2, 2
+Item2: 126, 1
+Item3: 84, 1;
+*Ability*:
+Ability: 10
+Param1: 4
+Param2: 4
+
+Ability: 3
+Param1: 3
+Param2: 0;
+
+/50
+Name: Дракон;
+Illustration: 27
+Power: 6
+GoldCost: 500
+GemGost: 100
+GoldPayment: 50
+GemPayment: 10
+Building: 0
+Initiative: 5
+Karma: 0
+LootPoss: 10
+LootNum: 1
+NoDismiss: 1
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (8, 8, 9)
+Units:
+Unit1: 60, 5, 1;
+Loot:
+Item1: 2, 2
+Item2: 126, 1
+Item3: 84, 1;
+*Ability*:
+Ability: 10
+Param1: 4
+Param2: 4
+
+Ability: 1
+Param1: -50
+Param2: -50;
+
+/51
+Name: Питомник Тварей;
+Illustration: 59
+Power: 6
+GoldCost: 220
+GemGost: 50
+GoldPayment: 10
+GemPayment: 4
+Building: 0
+Initiative: 1
+Karma: 0
+LootPoss: 10
+LootNum: 1
+NoDismiss: 1
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 1
+Desert: 0
+Tundra: 0
+Resource: (4, 5, 5)
+Units:
+Unit1: 32, 13, 3
+Unit2: 68, 13, 3
+Unit3: 151, 13, 2
+Unit4: 150, 11, 1
+Unit5: 62, 9, 1;
+Loot:
+Item1: 2, 2
+Item2: 126, 1
+Item3: 84, 1;
+*Ability*:
+Ability: 10
+Param1: 4
+Param2: 3
+
+Ability: 9
+Param1: -1
+Param2: 0;
+
+/52
+Name: Клан гигантов;
+Illustration: 0
+Power: 6
+GoldCost: 300
+GemGost: 0
+GoldPayment: 30
+GemPayment: 0
+Building: 0
+Initiative: 2
+Karma: -1
+LootPoss: 10
+LootNum: 1
+NoDismiss: 1
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 1
+Swamp: 0
+Desert: 0
+Tundra: 0
+Resource: (1)
+Units:
+Unit1: 66, 12, 6;
+Loot:
+Item1: 2, 2
+Item2: 126, 1
+Item3: 84, 1;
+*Ability*:
+Ability: 10
+Param1: 4
+Param2: 3
+
+Ability: 2
+Param1: -1
+Param2: 0
+
+Ability: 9
+Param1: -1
+Param2: 0;
+
+/53
+Name: Клан циклопов;
+Illustration: 0
+Power: 6
+GoldCost: 250
+GemGost: 0
+GoldPayment: 25
+GemPayment: 0
+Building: 0
+Initiative: 2
+Karma: -1
+LootPoss: 10
+LootNum: 1
+NoDismiss: 1
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 1
+Swamp: 0
+Desert: 0
+Tundra: 0
+Resource: (1)
+Units:
+Unit1: 63, 12, 6;
+Loot:
+Item1: 2, 2
+Item2: 126, 1
+Item3: 84, 1;
+*Ability*:
+Ability: 10
+Param1: 4
+Param2: 3
+
+Ability: 2
+Param1: -1
+Param2: 0
+
+Ability: 9
+Param1: -1
+Param2: 0;
+
+/54
+Name: Людоеды;
+Illustration: 0
+Power: 4
+GoldCost: 180
+GemGost: 0
+GoldPayment: 20
+GemPayment: 0
+Building: 0
+Initiative: 1
+Karma: -1
+LootPoss: 10
+LootNum: 1
+NoDismiss: 1
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 0
+Desert: 1
+Tundra: 1
+Resource: (0)
+Units:
+Unit1: 50, 12, 6;
+Loot:
+Item1: 2, 2
+Item2: 126, 1
+Item3: 84, 1;
+*Ability*:
+Ability: 10
+Param1: 3
+Param2: 3
+
+Ability: 2
+Param1: -1
+Param2: 0
+
+Ability: 9
+Param1: -1
+Param2: 0;
+
+/55
+Name: Тролли;
+Illustration: 48
+Power: 4
+GoldCost: 180
+GemGost: 5
+GoldPayment: 15
+GemPayment: 1
+Building: 0
+Initiative: 2
+Karma: -1
+LootPoss: 10
+LootNum: 1
+NoDismiss: 1
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 1
+Desert: 0
+Tundra: 0
+Resource: (3)
+Units:
+Unit1: 54, 12, 6;
+Loot:
+Item1: 2, 2
+Item2: 126, 1
+Item3: 84, 1;
+*Ability*:
+Ability: 10
+Param1: 3
+Param2: 3
+
+Ability: 2
+Param1: -1
+Param2: 0
+
+Ability: 9
+Param1: -1
+Param2: 0;
+
+/56
+Name: Стражи лабиринта;
+Illustration: 0
+Power: 4
+GoldCost: 250
+GemGost: 0
+GoldPayment: 25
+GemPayment: 0
+Building: 0
+Initiative: 4
+Karma: 0
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (1)
+Units:
+Unit1: 51, 14, 6;
+Loot:
+Item1: 2, 2
+Item2: 126, 1
+Item3: 84, 1;
+*Ability*:
+Ability: 10
+Param1: 3
+Param2: 3;
+
+/57
+Name: Мёртвое воинство;
+Illustration: 36
+Power: 5
+GoldCost: 100
+GemGost: 40
+GoldPayment: 0
+GemPayment: 5
+Building: 0
+Initiative: 2
+Karma: -3
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (4, 5, 9)
+Units:
+Unit1: 19, 19, 2
+Unit2: 91, 16, 1
+Unit3: 20, 18, 2
+Unit4: 92, 15, 1
+Unit3: 36, 15, 3
+Unit4: 55, 12, 3
+Unit5: 64, 10, 2;
+Loot:
+Item1: 2, 2
+Item2: 126, 1
+Item3: 84, 1;
+*Ability*:
+Ability: 10
+Param1: 4
+Param2: 2
+
+Ability: 2
+Param1: -2
+Param2: 0
+
+Ability: 9
+Param1: -1
+Param2: 0
+
+Ability: 11
+Param1: 1
+Param2: 0
+
+Ability: 12
+Param1: 1
+Param2: 0;
+
+/58
+Name: Армия Хаоса;
+Illustration: 26
+Power: 5
+GoldCost: 150
+GemGost: 30
+GoldPayment: 10
+GemPayment: 4
+Building: 0
+Initiative: 4
+Karma: -3
+LootPoss: 10
+LootNum: 1
+NoDismiss: 1
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (5, 9, 9)
+Units:
+Unit1: 21, 19, 2
+Unit2: 99, 19, 1
+Unit3: 37, 18, 3
+Unit4: 38, 17, 1
+Unit5: 94, 7, 1
+Unit6: 95, 14, 2
+Unit7: 56, 12, 1
+Unit8: 97, 11, 1
+Unit9: 65, 12, 1
+Unit10: 98, 10, 1;
+Loot:
+Item1: 2, 2
+Item2: 126, 1
+Item3: 84, 1;
+*Ability*:
+Ability: 10
+Param1: 4
+Param2: 2
+
+Ability: 2
+Param1: -2
+Param2: 0
+
+Ability: 9
+Param1: -1
+Param2: 0;
+
+/59
+Name: Воины Света;
+Illustration: 76
+Power: 6
+GoldCost: 400
+GemGost: 20
+GoldPayment: 40
+GemPayment: 3
+Building: 0
+Initiative: 4
+Karma: 3
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (3, 7, 8)
+Units:
+Unit1: 22, 18, 2
+Unit2: 137, 9, 1
+Unit3: 23, 18, 2
+Unit4: 146, 7, 1
+Unit5: 44, 12, 3
+Unit6: 45, 12, 2
+Unit7: 149, 5, 1
+Unit8: 57, 10, 3;
+Loot:
+Item1: 2, 2
+Item2: 126, 1
+Item3: 84, 1;
+*Ability*:
+Ability: 10
+Param1: 4
+Param2: 3
+
+Ability: 2
+Param1: 1
+Param2: 0
+
+Ability: 12
+Param1: 1
+Param2: 0;
+
+/60
+Name: Повелители тварей;
+Illustration: 59
+Power: 6
+GoldCost: 200
+GemGost: 50
+GoldPayment: 20
+GemPayment: 5
+Building: 0
+Initiative: 3
+Karma: 0
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (4, 5, 5)
+Units:
+Unit1: 32, 18, 2
+Unit2: 33, 18, 2
+Unit3: 68, 18, 2
+Unit4: 48, 12, 3
+Unit5: 52, 12, 2
+Unit6: 62, 10, 1;
+Loot:
+Item1: 2, 2
+Item2: 126, 1
+Item3: 84, 1;
+*Ability*:
+Ability: 10
+Param1: 4
+Param2: 3;
+
+/61
+Name: Монстры;
+Illustration: 82
+Power: 5
+GoldCost: 450
+GemGost: 20
+GoldPayment: 45
+GemPayment: 2
+Building: 155
+Initiative: 3
+Karma: 0
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (4)
+Units:
+Unit1: 32, 12, 2
+Unit2: 33, 10, 3
+Unit3: 166, 12, 1
+Unit4: 68, 10, 2
+Unit5: 52, 8, 2
+Unit6: 150, 9, 2;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 0
+Param1: 0
+Param2: 0;
+
+/62
+Name: Авантюристы;
+Illustration: 0
+Power: 3
+GoldCost: 50
+GemGost: 0
+GoldPayment: 5
+GemPayment: 0
+Building: 0
+Initiative: 4
+Karma: 0
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (0)
+Units:
+Unit1: 8, 10, 1
+Unit2: 10, 10, 1
+Unit3: 12, 10, 1
+Unit4: 13, 10, 1
+Unit5: 14, 10, 1
+Unit6: 15, 10, 1
+Unit7: 16, 10, 1
+Unit8: 17, 10, 1
+Unit9: 18, 10, 1
+Unit10: 22, 9, 1
+Unit11: 23, 8, 1;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 10
+Param1: 2
+Param2: 2;
+
+/63
+Name: Мастера горгулий;
+Illustration: 0
+Power: 4
+GoldCost: 250
+GemGost: 50
+GoldPayment: 20
+GemPayment: 6
+Building: 158
+Initiative: 3
+Karma: 0
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (4, 5, 6)
+Units:
+Unit1: 39, 10, 6
+Unit2: 29, 10, 3
+Unit3: 48, 8, 2
+Unit4: 71, 8, 2;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 0
+Param1: 0
+Param2: 0;
+
+/64
+Name: Небесная стража;
+Illustration: 32
+Power: 4
+GoldCost: 0
+GemGost: 45
+GoldPayment: 0
+GemPayment: 5
+Building: 0
+Initiative: 6
+Karma: 3
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (0)
+Units:
+Unit1: 24, 15, 8;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 2
+Param1: 2
+Param2: 0
+
+Ability: 5
+Param1: 1
+Param2: 0;
+
+/65
+Name: Новобранцы;
+Illustration: 28
+Power: 1
+GoldCost: 40
+GemGost: 0
+GoldPayment: 4
+GemPayment: 0
+Building: 0
+Initiative: 0
+Karma: 0
+LootPoss: 5
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (1)
+Units:
+Unit1: 1, 0, 2
+Unit2: 2, 0, 1
+Unit3: 3, 0, 1
+Unit4: 6, 0, 1
+Unit5: 7, 0, 1
+Unit6: 10, 0, 1
+Unit7: 11, 0, 1;
+Loot:
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+Ability:
+Ability: 0
+Param1: 0
+Param2: 0;
+
+/66
+Name: Инквизиция;
+Illustration: 74
+Power: 0
+GoldCost: 0
+GemGost: 0
+GoldPayment: 0
+GemPayment: 0
+Building: 0
+Initiative: 0
+Karma: -1
+LootPoss: 10
+LootNum: 1
+NoDismiss: 1
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (0)
+Units:
+Unit1: 1, 3, 4
+Unit2: 2, 3, 1
+Unit3: 3, 3, 1;
+Loot:
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+Ability:
+Ability: 1
+Param1: -100
+Param2: -100
+
+Ability: 2
+Param1: -2
+Param2: 0
+
+Ability: 3
+Param1: 5
+Param2: 0;
+
+/67
+Name: Медузы;
+Illustration: 78
+Power: 0
+GoldCost: 0
+GemGost: 0
+GoldPayment: -1
+GemPayment: 0
+Building: 0
+Initiative: 0
+Karma: -1
+LootPoss: 10
+LootNum: 1
+NoDismiss: 1
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (0)
+Units:
+Unit1: 1, 3, 4
+Unit2: 2, 3, 1
+Unit3: 3, 3, 1;
+Loot:
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+Ability:
+Ability: 9
+Param1: -1
+Param2: 0
+
+Ability: 2
+Param1: -1
+Param2: 0;
+
+/68
+Name: Людоящеры;
+Illustration: 75
+Power: 0
+GoldCost: 0
+GemGost: 0
+GoldPayment: -1
+GemPayment: 0
+Building: 0
+Initiative: 1
+Karma: 0
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Resource: (0)
+Units:
+Unit1: 25, 7, 2
+Unit2: 26, 7, 4;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 0
+Param1: 0
+Param2: 0;
+
+/69
+Name: Стража Ящеров;
+Illustration: 75
+Power: 3
+GoldCost: 170
+GemGost: 10
+GoldPayment: 8
+GemPayment: 0
+Building: 211
+Initiative: 2
+Karma: 0
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 1
+Desert: 0
+Tundra: 0
+Resource: (4)
+Units:
+Unit1: 69, 10, 4
+Unit2: 113, 8, 2
+Unit3: 114, 5, 2
+Unit4: 115, 5, 2
+Unit5: 116, 3, 1;
+Loot:
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+Ability:
+Ability: 10
+Param1: 2
+Param2: 2
+
+Ability: 2
+Param1: 1
+Param2: 8;
+
+/70
+Name: Феникс;
+Illustration: 0
+Power: 4
+GoldCost: 200
+GemGost: 30
+GoldPayment: 0
+GemPayment: 5
+Building: 0
+Initiative: 7
+Karma: 0
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (8)
+Units:
+Unit1: 70, 15, 1;
+Loot:
+Item1: 2, 2
+Item2: 126, 1
+Item3: 84, 1;
+*Ability*:
+Ability: 10
+Param1: 3
+Param2: 3
+
+Ability: 11
+Param1: 1
+Param2: 0
+
+Ability: 12
+Param1: 1
+Param2: 0;
+
+/71
+Name: Стражи Древних;
+Illustration: 0
+Power: 5
+GoldCost: 300
+GemGost: 100
+GoldPayment: 0
+GemPayment: 10
+Building: 0
+Initiative: 1
+Karma: 0
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (5, 6)
+Units:
+Unit1: 71, 15, 7;
+Loot:
+Item1: 2, 2
+Item2: 126, 1
+Item3: 84, 1;
+*Ability*:
+Ability: 10
+Param1: 3
+Param2: 4
+
+Ability: 1
+Param1: 30
+Param2: 0
+
+Ability: 11
+Param1: 1
+Param2: 0
+
+Ability: 12
+Param1: 1
+Param2: 0;
+
+/72
+Name: Повелитель нежити;
+Illustration: 36
+Power: 6
+GoldCost: 150
+GemGost: 100
+GoldPayment: 15
+GemPayment: 10
+Building: 0
+Initiative: 3
+Karma: -3
+LootPoss: 10
+LootNum: 2
+NoDismiss: 1
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (4, 5, 9)
+Units:
+Unit1: 19, 19, 2
+Unit2: 91, 14, 2
+Unit3: 20, 18, 2
+Unit4: 92, 13, 1
+Unit5: 36, 15, 2
+Unit6: 55, 12, 1
+Unit7: 74, 25, 1
+Unit8: 64, 10, 1
+Unit9: 75, 8, 1;
+Loot:
+Item1: 2, 2
+Item2: 126, 1
+Item3: 84, 1;
+*Ability*:
+Ability: 10
+Param1: 5
+Param2: 6
+
+Ability: 2
+Param1: -2
+Param2: 0
+
+Ability: 9
+Param1: -2
+Param2: 0
+
+Ability: 11
+Param1: 1
+Param2: 0
+
+Ability: 12
+Param1: 1
+Param2: 0;
+
+/73
+Name: Дитя Света;
+Illustration: 86
+Power: 6
+GoldCost: 450
+GemGost: 30
+GoldPayment: 40
+GemPayment: 5
+Building: 0
+Initiative: 3
+Karma: 3
+LootPoss: 10
+LootNum: 2
+NoDismiss: 1
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (5, 5, 8)
+Units:
+Unit1: 6, 18, 3
+Unit2: 7, 16, 2
+Unit3: 23, 15, 2
+Unit4: 146, 12, 1
+Unit5: 149, 12, 2
+Unit6: 57, 12, 1
+Unit7: 157, 10, 1;
+Loot:
+Item1: 2, 2
+Item2: 126, 1
+Item3: 84, 1;
+
+*Ability*:
+Ability: 10
+Param1: 5
+Param2: 6
+
+Ability: 2
+Param1: 2
+Param2: 0
+
+Ability: 6
+Param1: 20
+Param2: 0
+
+Ability: 11
+Param1: 1
+Param2: 0
+
+Ability: 12
+Param1: 1
+Param2: 0;
+
+/74
+Name: Элементалы;
+Illustration: 87
+Power: 6
+GoldCost: 250
+GemGost: 60
+GoldPayment: 0
+GemPayment: 15
+Building: 0
+Initiative: 4
+Karma: 0
+LootPoss: 10
+LootNum: 2
+NoDismiss: 1
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (5, 5, 8)
+Units:
+Unit1: 153, 12, 3
+Unit2: 154, 12, 3
+Unit3: 118, 12, 2
+Unit4: 155, 12, 2;
+Loot:
+Item1: 2, 2
+Item2: 126, 1
+Item3: 84, 1;
+
+*Ability*:
+Ability: 10
+Param1: 5
+Param2: 6
+
+Ability: 11
+Param1: 1
+Param2: 0
+
+Ability: 12
+Param1: 1
+Param2: 0
+
+Ability: 3
+Param1: 3
+Param2: 0;
+
+/75
+Name: Волшебный дракон;
+Illustration: 35
+Power: 6
+GoldCost: 500
+GemGost: 30
+GoldPayment: 50
+GemPayment: 5
+Building: 0
+Initiative: 6
+Karma: 0
+LootPoss: 10
+LootNum: 2
+NoDismiss: 1
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (5, 8, 9)
+Units:
+Unit1: 162, 25, 1;
+Loot:
+Item1: 2, 2
+Item2: 126, 1
+Item3: 84, 1;
+
+*Ability*:
+Ability: 10
+Param1: 5
+Param2: 6
+
+Ability: 1
+Param1: 0
+Param2: 100
+
+Ability: 11
+Param1: 1
+Param2: 0
+
+Ability: 12
+Param1: 1
+Param2: 0;
+
+/76
+Name: Повелитель фантомов;
+Illustration: 89
+Power: 6
+GoldCost: 400
+GemGost: 60
+GoldPayment: 20
+GemPayment: 10
+Building: 0
+Initiative: 4
+Karma: 0
+LootPoss: 10
+LootNum: 2
+NoDismiss: 1
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (5, 5, 9)
+Units:
+Unit1: 164, 30, 1
+Unit2: 163, 20, 5;
+Loot:
+Item1: 2, 2
+Item2: 126, 1
+Item3: 84, 1;
+
+*Ability*:
+Ability: 10
+Param1: 5
+Param2: 6
+
+Ability: 4
+Param1: 35
+Param2: 0
+
+Ability: 3
+Param1: 2
+Param2: 0
+
+Ability: 11
+Param1: 1
+Param2: 0
+
+Ability: 12
+Param1: 1
+Param2: 0;
+
+/77
+Name: Варвары;
+Illustration: 17
+Power: 0
+GoldCost: 0
+GemGost: 0
+GoldPayment: -1
+GemPayment: 0
+Building: 0
+Initiative: 1
+Karma: 0
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Resource: (0)
+Units:
+Unit1: 25, 7, 2
+Unit2: 26, 7, 4;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 0
+Param1: 0
+Param2: 0;
+
+/78
+Name: Патруль альваров;
+Illustration: 110
+Power: 0
+GoldCost: 0
+GemGost: 0
+GoldPayment: -1
+GemPayment: 0
+Building: 0
+Initiative: 1
+Karma: 0
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Resource: (0)
+Units:
+Unit1: 25, 7, 2
+Unit2: 26, 7, 4;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 0
+Param1: 0
+Param2: 0;
+
+/79
+Name: Чёрный Отряд;
+Illustration: 110
+Power: 2
+GoldCost: 130
+GemGost: 0
+GoldPayment: 8
+GemPayment: 0
+Building: 252
+Initiative: 4
+Karma: 0
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (1, 2, 5)
+Units:
+Unit1: 175, 11, 2
+Unit2: 176, 8, 2
+Unit3: 180, 9, 2
+Unit4: 181, 5, 1;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 2
+Param1: -1
+Param2: -9;
+
+/80
+Name: Армия Тьмы;
+Illustration: 110
+Power: 6
+GoldCost: 280
+GemGost: 50
+GoldPayment: 10
+GemPayment: 10
+Building: 259
+Initiative: 4
+Karma: 0
+LootPoss: 15
+LootNum: 2
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (4, 5, 9)
+Units:
+Unit1: 175, 20, 3
+Unit2: 176, 16, 2
+Unit3: 180, 18, 2
+Unit4: 183, 15, 2
+Unit5: 181, 11, 2
+Unit6: 177, 10, 1
+Unit7: 182, 8, 1
+Unit8: 178, 6, 1;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 10
+Param1: 4
+Param2: 5
+
+Ability: 1
+Param1: -10
+Param2: 0
+
+Ability: 2
+Param1: -1
+Param2: -9
+
+Ability: 9
+Param1: -1
+Param2: 0;
+
+/81
+Name: Эльфийский отряд;
+Illustration: 34
+Power: 3
+GoldCost: 300
+GemGost: 10
+GoldPayment: 15
+GemPayment: 2
+Building: 0
+Initiative: 3
+Karma: 1
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 0
+Forest: 1
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Resource: (1, 2, 2)
+Units:
+Unit1: 15, 10, 4
+Unit2: 126, 12, 3
+Unit3: 105, 12, 1
+Unit4: 106, 9, 1
+Unit5: 107, 5, 1;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 2
+Param1: 1
+Param2: 0
+
+Ability: 2
+Param1: 1
+Param2: 2;
+
+/82
+Name: Эльфийская армия;
+Illustration: 34
+Power: 6
+GoldCost: 450
+GemGost: 60
+GoldPayment: 20
+GemPayment: 5
+Building: 0
+Initiative: 4
+Karma: 1
+LootPoss: 12
+LootNum: 2
+NoDismiss: 0
+Terrain:
+Plain: 0
+Forest: 1
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Resource: (2, 2, 7)
+Units:
+Unit1: 15, 18, 4
+Unit2: 126, 20, 4
+Unit3: 105, 17, 2
+Unit4: 106, 14, 2
+Unit5: 107, 7, 2
+Unit6: 127, 7, 1;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 2
+Param1: 2
+Param2: 0
+
+Ability: 2
+Param1: 1
+Param2: 2;
+
+/83
+Name: Армия гномов;
+Illustration: 39
+Power: 6
+GoldCost: 450
+GemGost: 50
+GoldPayment: 20
+GemPayment: 3
+Building: 0
+Initiative: 2
+Karma: 1
+LootPoss: 15
+LootNum: 2
+NoDismiss: 0
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 1
+Swamp: 0
+Desert: 0
+Tundra: 0
+Resource: (1, 2, 7)
+Units:
+Unit1: 16, 20, 2
+Unit2: 156, 17, 1
+Unit3: 255, 15, 1
+Unit4: 256, 16, 2
+Unit5: 184, 14, 2
+Unit6: 103, 11, 2
+Unit7: 104, 4, 1;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 10
+Param1: 5
+Param2: 4
+
+Ability: 2
+Param1: 1
+Param2: 3
+
+Ability: 7
+Param1: 1
+Param2: 10
+
+Ability: 7
+Param1: 6
+Param2: 15
+
+Ability: 7
+Param1: 7
+Param2: 20;
+
+/84
+Name: Банда гоблинов;
+Illustration: 37
+Power: 6
+GoldCost: 300
+GemGost: 20
+GoldPayment: 10
+GemPayment: 3
+Building: 0
+Initiative: 2
+Karma: -2
+LootPoss: 15
+LootNum: 2
+NoDismiss: 1
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (2, 4, 4)
+Units:
+Unit1: 13, 24, 4
+Unit2: 77, 20, 3
+Unit3: 96, 15, 3
+Unit4: 129, 16, 2
+Unit5: 130, 14, 1
+Unit6: 131, 5, 2;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 1
+Param1: -10
+Param2: 0
+
+Ability: 2
+Param1: -1
+Param2: -4;
+
+/85
+Name: Великая Орда;
+Illustration: 22
+Power: 6
+GoldCost: 250
+GemGost: 10
+GoldPayment: 10
+GemPayment: 2
+Building: 0
+Initiative: 2
+Karma: -2
+LootPoss: 10
+LootNum: 1
+NoDismiss: 1
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (1, 1)
+Units:
+Unit1: 100, 20, 3
+Unit2: 14, 18, 4
+Unit3: 109, 16, 2
+Unit4: 73, 13, 1
+Unit5: 110, 10, 1
+Unit6: 195, 9, 2
+Unit7: 111, 8, 1;
+Loot:
+Item1: 2, 2
+Item2: 126, 1
+Item3: 84, 1;
+Ability:
+Ability: 10
+Param1: 5
+Param2: 4
+
+Ability: 1
+Param1: -20
+Param2: 0
+
+Ability: 2
+Param1: -2
+Param2: -5
+
+Ability: 9
+Param1: -1
+Param2: 0;
+
+/86
+Name: Пограничники;
+Illustration: 40
+Power: 4
+GoldCost: 350
+GemGost: 0
+GoldPayment: 12
+GemPayment: 0
+Building: 0
+Initiative: 3
+Karma: 2
+LootPoss: 12
+LootNum: 2
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (1, 5, 7)
+Units:
+Unit1: 18, 12, 4
+Unit2: 259, 10, 2
+Unit3: 261, 10, 4
+Unit4: 132, 14, 2;
+Loot:
+Item1: 2, 2
+Item2: 126, 1
+Item3: 84, 1;
+Ability:
+Ability: 10
+Param1: 5
+Param2: 4
+
+Ability: 2
+Param1: 1
+Param2: 6
+
+Ability: 5
+Param1: 1
+Param2: 0;
+
+/87
+Name: Племя кентавров;
+Illustration: 21
+Power: 6
+GoldCost: 500
+GemGost: 0
+GoldPayment: 10
+GemPayment: 0
+Building: 0
+Initiative: 3
+Karma: 0
+LootPoss: 11
+LootNum: 2
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Resource: (1, 2)
+Units:
+Unit1: 122, 19, 5
+Unit2: 34, 14, 4
+Unit3: 123, 13, 3
+Unit4: 124, 9, 2
+Unit5: 125, 4, 1;
+Loot:
+Item1: 2, 2
+Item2: 126, 1
+Item3: 84, 1;
+Ability:
+Ability: 10
+Param1: 5
+Param2: 4
+
+Ability: 2
+Param1: 1
+Param2: 7
+
+Ability: 12
+Param1: 1
+Param2: 0;
+
+/88
+Name: Армия Ящеров;
+Illustration: 75
+Power: 6
+GoldCost: 370
+GemGost: 20
+GoldPayment: 15
+GemPayment: 2
+Building: 0
+Initiative: 2
+Karma: 0
+LootPoss: 12
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 1
+Desert: 0
+Tundra: 0
+Resource: (4)
+Units:
+Unit1: 69, 16, 4
+Unit2: 113, 14, 4
+Unit3: 114, 10, 2
+Unit4: 115, 10, 2
+Unit5: 116, 7, 2
+Unit6: 117, 5, 1;
+Loot:
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+Ability:
+Ability: 10
+Param1: 5
+Param2: 4
+
+Ability: 2
+Param1: 1
+Param2: 8;
+
+/89
+Name: Стая гноллов;
+Illustration: 167
+Power: 0
+GoldCost: 0
+GemGost: 0
+GoldPayment: -1
+GemPayment: 0
+Building: 0
+Initiative: 1
+Karma: 0
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Resource: (0)
+Units:
+Unit1: 25, 7, 2
+Unit2: 26, 7, 4;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 0
+Param1: 0
+Param2: 0;
+
+/90
+Name: Банда гноллов;
+Illustration: 167
+Power: 3
+GoldCost: 75
+GemGost: 0
+GoldPayment: 5
+GemPayment: 0
+Building: 265
+Initiative: 3
+Karma: -1
+LootPoss: 10
+LootNum: 1
+NoDismiss: 1
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 0
+Desert: 0
+Tundra: 0
+Resource: (1, 1)
+Units:
+Unit1: 202, 12, 6
+Unit2: 203, 8, 1;
+Loot:
+Item1: 2, 2
+Item2: 126, 1
+Item3: 84, 1;
+Ability:
+Ability: 10
+Param1: 2
+Param2: 2
+
+Ability: 9
+Param1: -2
+Param2: 0
+
+Ability: 2
+Param1: -1
+Param2: -10;
+
+/91
+Name: Орда гноллов;
+Illustration: 167
+Power: 5
+GoldCost: 350
+GemGost: 0
+GoldPayment: 15
+GemPayment: 0
+Building: 268
+Initiative: 4
+Karma: -1
+LootPoss: 10
+LootNum: 1
+NoDismiss: 1
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 0
+Desert: 0
+Tundra: 0
+Resource: (1, 2, 7)
+Units:
+Unit1: 202, 18, 6
+Unit2: 203, 12, 2
+Unit3: 204, 10, 3
+Unit4: 206, 20, 1;
+Loot:
+Item1: 2, 2
+Item2: 126, 1
+Item3: 84, 1;
+Ability:
+Ability: 10
+Param1: 4
+Param2: 4
+
+Ability: 1
+Param1: -20
+Param2: 0
+
+Ability: 2
+Param1: -3
+Param2: -10
+
+Ability: 9
+Param1: -2
+Param2: 0;
+
+/92
+Name: Крылатый дозор;
+Illustration: 32
+Power: 0
+GoldCost: 0
+GemGost: 0
+GoldPayment: -1
+GemPayment: 0
+Building: 0
+Initiative: 2
+Karma: 0
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Resource: (0)
+Units:
+Unit1: 212, 10, 5
+Unit2: 213, 6, 1;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 5
+Param1: 1
+Param2: 0
+
+Ability: 12
+Param1: 1
+Param2: 0;
+
+/93
+Name: Боевое Крыло;
+Illustration: 32
+Power: 2
+GoldCost: 180
+GemGost: 10
+GoldPayment: 4
+GemPayment: 1
+Building: 273
+Initiative: 3
+Karma: 1
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 0
+Tundra: 0
+Resource: (1, 4)
+Units:
+Unit1: 212, 14, 3
+Unit2: 213, 9, 1
+Unit3: 214, 9, 1
+Unit4: 215, 7, 1;
+Loot:
+Item1: 2, 2
+Item2: 126, 1
+Item3: 84, 1;
+Ability:
+Ability: 2
+Param1: 1
+Param2: 11
+
+Ability: 5
+Param1: 1
+Param2: 0
+
+Ability: 12
+Param1: 1
+Param2: 0;
+
+/94
+Name: Небесная эскадрилья;
+Illustration: 32
+Power: 6
+GoldCost: 400
+GemGost: 25
+GoldPayment: 18
+GemPayment: 5
+Building: 277
+Initiative: 4
+Karma: 2
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 0
+Desert: 0
+Tundra: 0
+Resource: (1, 4)
+Units:
+Unit1: 212, 19, 4
+Unit2: 213, 15, 2
+Unit3: 214, 15, 2
+Unit4: 215, 11, 2
+Unit5: 279, 13, 3
+Unit6: 280, 14, 1
+Unit7: 281, 6, 1;
+Loot:
+Item1: 2, 2
+Item2: 126, 1
+Item3: 84, 1;
+Ability:
+Ability: 10
+Param1: 5
+Param2: 4
+
+Ability: 2
+Param1: 1
+Param2: 11
+
+Ability: 5
+Param1: 1
+Param2: 0
+
+Ability: 11
+Param1: 1
+Param2: 0
+
+Ability: 12
+Param1: 1
+Param2: 0;
+
+/95
+Name: Стая крысолюдов;
+Illustration: 191
+Power: 3
+GoldCost: 120
+GemGost: 10
+GoldPayment: 5
+GemPayment: 1
+Building: 281
+Initiative: 3
+Karma: 0
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 0
+Tundra: 0
+Resource: (1, 4)
+Units:
+Unit1: 222, 8, 3
+Unit2: 221, 6, 3
+Unit3: 223, 4, 2
+Unit4: 226, 3, 1
+Unit5: 225, 2, 1;
+Loot:
+Item1: 2, 2
+Item2: 126, 1
+Item3: 84, 1;
+Ability:
+Ability: 1
+Param1: -20
+Param2: 0;
+
+/96
+Name: Буровики;
+Illustration: 191
+Power: 4
+GoldCost: 180
+GemGost: 15
+GoldPayment: 9
+GemPayment: 5
+Building: 280
+Initiative: 2
+Karma: 0
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 0
+Hill: 1
+Swamp: 0
+Desert: 0
+Tundra: 0
+Resource: (1, 5)
+Units:
+Unit1: 222, 12, 2
+Unit2: 221, 11, 2
+Unit3: 224, 10, 6
+Unit4: 225, 6, 2
+Unit5: 227, 5, 2;
+Loot:
+Item1: 2, 2
+Item2: 126, 1
+Item3: 84, 1;
+Ability:
+Ability: 10
+Param1: 3
+Param2: 3
+
+Ability: 1
+Param1: 25
+Param2: 0
+
+Ability: 2
+Param1: -1
+Param2: -12;
+
+/97
+Name: Крысолюды;
+Illustration: 191
+Power: 0
+GoldCost: 0
+GemGost: 0
+GoldPayment: -1
+GemPayment: 0
+Building: 0
+Initiative: 1
+Karma: 0
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Resource: (0)
+Units:
+Unit1: 222, 8, 4
+Unit2: 221, 6, 4
+Unit3: 223, 4, 2
+Unit4: 225, 2, 1;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 0
+Param1: 0
+Param2: 0;
+
+/98
+Name: Крысиный король;
+Illustration: 191
+Power: 5
+GoldCost: 300
+GemGost: 20
+GoldPayment: 15
+GemPayment: 4
+Building: 283
+Initiative: 4
+Karma: 0
+LootPoss: 12
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 0
+Tundra: 0
+Resource: (7, 5, 9)
+Units:
+Unit1: 221, 17, 3
+Unit2: 225, 13, 2
+Unit3: 227, 9, 2
+Unit4: 231, 8, 1
+Unit5: 232, 14, 2
+Unit6: 229, 10, 1
+Unit7: 233, 20, 1;
+Loot:
+Item1: 2, 2
+Item2: 126, 1
+Item3: 84, 1;
+Ability:
+Ability: 1
+Param1: -10
+Param2: 0
+
+Ability: 2
+Param1: -1
+Param2: -12
+
+Ability: 5
+Param1: 1
+Param2: 0;
+
+/99
+Name: Горгульи;
+Illustration: 0
+Power: 2
+GoldCost: 40
+GemGost: 30
+GoldPayment: 4
+GemPayment: 4
+Building: 150
+Initiative: 3
+Karma: 0
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (4, 6)
+Units:
+Unit1: 39, 6, 4
+Unit1: 39, 12, 1;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 0
+Param1: 0
+Param2: 0;
+
+/100
+Name: Слизни;
+Illustration: 47
+Power: 4
+GoldCost: 50
+GemGost: 50
+GoldPayment: 0
+GemPayment: 8
+Building: 0
+Initiative: 1
+Karma: 0
+LootPoss: 10
+LootNum: 1
+NoDismiss: 1
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 1
+Desert: 0
+Tundra: 0
+Resource: (4)
+Units:
+Unit1: 68, 10, 6
+Unit2: 68, 18, 2;
+Loot:
+Item1: 2, 2
+Item2: 126, 1
+Item3: 84, 1;
+Ability:
+Ability: 10
+Param1: 3
+Param2: 2
+
+Ability: 2
+Param1: -1
+Param2: 0
+
+Ability: 9
+Param1: -2
+Param2: 0
+
+Ability: 11
+Param1: 1
+Param2: 0
+
+Ability: 12
+Param1: 1
+Param2: 0;
+
+/101
+Name: Механики;
+Illustration: 39
+Power: 5
+GoldCost: 375
+GemGost: 30
+GoldPayment: 15
+GemPayment: 2
+Building: 284
+Initiative: 2
+Karma: 1
+LootPoss: 15
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 1
+Swamp: 0
+Desert: 0
+Tundra: 0
+Resource: (1, 7, 7)
+Units:
+Unit1: 256, 20, 3
+Unit2: 156, 12, 2
+Unit3: 156, 20, 1
+Unit4: 103, 12, 1
+Unit5: 258, 5, 1;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 8
+Param1: 10
+Param2: 0;
+
+/102
+Name: Фантомы;
+Illustration: 89
+Power: 4
+GoldCost: 250
+GemGost: 30
+GoldPayment: 0
+GemPayment: 10
+Building: 0
+Initiative: 3
+Karma: 0
+LootPoss: 10
+LootNum: 2
+NoDismiss: 1
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (5, 5)
+Units:
+Unit1: 163, 14, 5;
+Loot:
+Item1: 2, 2
+Item2: 126, 1
+Item3: 84, 1;
+
+*Ability*:
+Ability: 3
+Param1: 2
+Param2: 0
+
+Ability: 11
+Param1: 1
+Param2: 0
+
+Ability: 12
+Param1: 1
+Param2: 0;
+
+/103
+Name: Вассал;
+Illustration: 31
+Power: 3
+GoldCost: 25
+GemGost: 5
+GoldPayment: 0
+GemPayment: 0
+Building: 187
+Initiative: 0
+Karma: 1
+LootPoss: 5
+LootNum: 1
+NoDismiss: 1
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (0)
+Units:
+Unit1: 44, 5, 1
+Unit2: 5, 8, 2
+Unit3: 6, 9, 2
+Unit4: 7, 11, 3
+Unit5: 8, 10, 2
+Unit6: 23, 7, 1;
+Loot:
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+Ability:
+Ability: 10
+Param1: 3
+Param2: 3
+
+Ability: 1
+Param1: -90
+Param2: -90;
+
+/104
+Name: Посвящённые Сумерек;
+Illustration: 110
+Power: 3
+GoldCost: 75
+GemGost: 5
+GoldPayment: 3
+GemPayment: 1
+Building: 257
+Initiative: 3
+Karma: 0
+LootPoss: 10
+LootNum: 1
+NoDismiss: 0
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+Resource: (1, 4, 5)
+Units:
+Unit1: 179, 11, 2
+Unit2: 183, 12, 3
+Unit3: 180, 11, 2
+Unit4: 177, 7, 1;
+Loot:
+Item1: 5, 1
+Item2: 63, 1
+Item3: 67, 1;
+Ability:
+Ability: 2
+Param1: -2
+Param2: -9
+
+Ability: 3
+Param1: 3
+Param2: 0;

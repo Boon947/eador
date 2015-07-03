@@ -1,0 +1,732 @@
+Quantity: 16
+
+/0
+Name: Пусто;
+Land: Пусто;
+Karma: 0
+Strategy: 0
+Magic: 0
+Target: 0
+Diplomacy: 0
+Aggro: 0
+Greed: 0
+Loyal: 0
+Random: 0
+Herb: 0
+Color1: 0
+Color2: 0
+Y: 0
+EventFirstMeet: 0
+EventMeet: 0
+EventDefeat: 0
+EventAttack: 0
+LandType: 0, 0
+ProvType: 0, 0
+*Attitude*
+Adrageron: 0
+Doricus: 0
+Belez: 0
+Oinor: 0
+Dariol: 0
+Gerskil: 0
+L'Anshar: 0
+Oumm: 0
+Magnus: 0
+Erdu: 0
+Do-Gor: 0
+Vianta: 0
+Ranadil: 0
+Stinhria: 0
+Nameless: 0
+Ul'Dagan: 0
+Buildings: (0)
+EnterDialogs: (0)
+ExitDialogs: (0)
+
+/1
+Name: Адрагерон;
+Land: Гестор;
+Karma: -100
+Strategy: 0
+Magic: 0
+Target: 0
+Diplomacy: 15
+Aggro: 80
+Greed: 0
+Loyal: 0
+Random: 0
+Herb: 11
+Color1: 0
+Color2: 3
+Y: 38
+EventFirstMeet: 1052
+EventMeet: 1064
+EventDefeat: 0
+EventAttack: 1065
+LandType: 0, 0
+ProvType: 15, 100
+*Attitude*
+Adrageron: 0
+Doricus: 50
+Belez: 100
+Oinor: -100
+Dariol: -50
+Gerskil: 0
+L'Anshar: 0
+Oumm: 0
+Magnus: 0
+Erdu: -50
+Do-Gor: 0
+Vianta: -30
+Ranadil: 0
+Stinhria: 10
+Nameless: 30
+Ul'Dagan: 50
+Buildings: (0)
+EnterDialogs: (85, 680, 166, 167, 117, 296, 318, 447, 520, 568, 613, 702)
+ExitDialogs: (85, 680, 166, 167, 117, 296, 318, 447, 520, 568, 613)
+
+/2
+Name: Дорикус;
+Land: Кра-Таин;
+Karma: 0
+Strategy: 0
+Magic: 0
+Target: 0
+Diplomacy: 13
+Aggro: 60
+Greed: 0
+Loyal: 0
+Random: 0
+Herb: 6
+Color1: 14
+Color2: 0
+Y: 36
+EventFirstMeet: 1031
+EventMeet: 1050
+EventDefeat: 0
+EventAttack: 1320
+LandType: 0, 0
+ProvType: 0, 0
+*Attitude*
+Adrageron: 50
+Doricus: 0
+Belez: 0
+Oinor: -30
+Dariol: -10
+Gerskil: 0
+L'Anshar: 0
+Oumm: 0
+Magnus: 50
+Erdu: 0
+Do-Gor: 0
+Vianta: -50
+Ranadil: 0
+Stinhria: 0
+Nameless: 0
+Ul'Dagan: 0
+Buildings: (0)
+EnterDialogs: (84, 681, 168, 169, 116, 295, 317, 446, 519, 567, 612, 700)
+ExitDialogs: (84, 681, 168, 169, 116, 295, 317, 446, 519, 567, 612)
+
+/3
+Name: Белез;
+Land: Гарнодат;
+Karma: -100
+Strategy: 0
+Magic: 0
+Target: 0
+Diplomacy: 10
+Aggro: 50
+Greed: 0
+Loyal: 0
+Random: 0
+Herb: 15
+Color1: 3
+Color2: 5
+Y: 7
+EventFirstMeet: 132
+EventMeet: 208
+EventDefeat: 1234
+EventAttack: 1323
+LandType: 0, 0
+ProvType: 0, 0
+*Attitude*
+Adrageron: 50
+Doricus: 0
+Belez: 0
+Oinor: -100
+Dariol: -50
+Gerskil: 0
+L'Anshar: 50
+Oumm: 0
+Magnus: 0
+Erdu: 0
+Do-Gor: 0
+Vianta: -50
+Ranadil: 0
+Stinhria: 20
+Nameless: 30
+Ul'Dagan: 0
+Buildings: (0)
+EnterDialogs: (189, 191, 280, 308, 429, 505, 556, 602, 673)
+ExitDialogs: (111, 189, 191, 280, 308, 429, 505, 556, 557, 602, 673)
+
+/4
+Name: Оинор;
+Land: Таинест;
+Karma: 100
+Strategy: 0
+Magic: 0
+Target: 0
+Diplomacy: 10
+Aggro: 10
+Greed: 0
+Loyal: 0
+Random: 0
+Herb: 14
+Color1: 1
+Color2: 4
+Y: 4
+EventFirstMeet: 84
+EventMeet: 167
+EventDefeat: 0
+EventAttack: 1335
+LandType: 0, 0
+ProvType: 0, 0
+*Attitude*
+Adrageron: -100
+Doricus: -10
+Belez: -100
+Oinor: 0
+Dariol: 100
+Gerskil: 50
+L'Anshar: -50
+Oumm: 0
+Magnus: -50
+Erdu: 50
+Do-Gor: -30
+Vianta: 100
+Ranadil: 30
+Stinhria: -10
+Nameless: 0
+Ul'Dagan: -30
+Buildings: (69, 71, 80, 85, 122, 127, 135, 169, 170, 173)
+EnterDialogs: (230, 279, 302, 431, 504, 555, 601, 672)
+ExitDialogs: (230, 279, 302, 431, 504, 555, 601, 672)
+
+/5
+Name: Дариол;
+Land: Олоин;
+Karma: 50
+Strategy: 0
+Magic: 0
+Target: 0
+Diplomacy: 13
+Aggro: 10
+Greed: 0
+Loyal: 0
+Random: 0
+Herb: 4
+Color1: 2
+Color2: 10
+Y: 25
+EventFirstMeet: 597
+EventMeet: 617
+EventDefeat: 1259
+EventAttack: 1338
+LandType: 2, 20
+ProvType: 9, 200
+*Attitude*
+Adrageron: -50
+Doricus: -20
+Belez: -50
+Oinor: 50
+Dariol: 0
+Gerskil: 30
+L'Anshar: -100
+Oumm: 0
+Magnus: 0
+Erdu: 50
+Do-Gor: -30
+Vianta: 150
+Ranadil: 0
+Stinhria: -60
+Nameless: 0
+Ul'Dagan: 0
+Buildings: (0)
+EnterDialogs: (80, 81, 500, 108, 443, 561, 608, 182, 183, 290, 312, 678)
+ExitDialogs: (80, 500, 108, 443, 561, 608, 182, 183, 290, 312, 678)
+
+/6
+Name: Герскил;
+Land: Фергеаст;
+Karma: 20
+Strategy: 0
+Magic: 0
+Target: 0
+Diplomacy: 10
+Aggro: 30
+Greed: 0
+Loyal: 0
+Random: 0
+Herb: 12
+Color1: 15
+Color2: 4
+Y: 30
+EventFirstMeet: 700
+EventMeet: 705
+EventDefeat: 0
+EventAttack: 1341
+LandType: 0, 0
+ProvType: 0, 0
+*Attitude*
+Adrageron: -30
+Doricus: -10
+Belez: -50
+Oinor: 30
+Dariol: 20
+Gerskil: 0
+L'Anshar: -30
+Oumm: 0
+Magnus: 0
+Erdu: 20
+Do-Gor: -10
+Vianta: 10
+Ranadil: 0
+Stinhria: -20
+Nameless: -10
+Ul'Dagan: -10
+Buildings: (0)
+EnterDialogs: (83, 600, 187, 188, 113, 292, 314, 445, 517, 741, 679, 610)
+ExitDialogs: (83, 600, 187, 188, 113, 292, 314, 445, 517, 741, 679, 610)
+
+/7
+Name: л'Аншар;
+Land: Нэй-Та-Зир;
+Karma: -50
+Strategy: 0
+Magic: 0
+Target: 0
+Diplomacy: 17
+Aggro: 100
+Greed: 0
+Loyal: 0
+Random: 0
+Herb: 19
+Color1: 9
+Color2: 3
+Y: 19
+EventFirstMeet: 422
+EventMeet: 456
+EventDefeat: 1231
+EventAttack: 1344
+LandType: 0, 0
+ProvType: 5, 400
+*Attitude*
+Adrageron: 30
+Doricus: 0
+Belez: 50
+Oinor: -50
+Dariol: -100
+Gerskil: 0
+L'Anshar: 0
+Oumm: 0
+Magnus: 0
+Erdu: -30
+Do-Gor: 0
+Vianta: -100
+Ranadil: 0
+Stinhria: 0
+Nameless: 30
+Ul'Dagan: 50
+Buildings: (0)
+EnterDialogs: (352, 353, 309, 107, 354, 180, 181, 434, 285, 509, 553, 606, 686)
+ExitDialogs: (352, 353, 309, 107, 354,180, 181, 434, 285, 509, 553, 554, 606, 686)
+
+/8
+Name: Оумм;
+Land: Наал-Заар;
+Karma: 0
+Strategy: 0
+Magic: 0
+Target: 0
+Diplomacy: 20
+Aggro: 20
+Greed: 0
+Loyal: 0
+Random: 0
+Herb: 0
+Color1: 1
+Color2: 11
+Y: 16
+EventFirstMeet: 399
+EventMeet: 405
+EventDefeat: 0
+EventAttack: 1347
+LandType: 0, 0
+ProvType: 0, 0
+*Attitude*
+Adrageron: 0
+Doricus: 0
+Belez: 0
+Oinor: 0
+Dariol: 0
+Gerskil: 0
+L'Anshar: 0
+Oumm: 0
+Magnus: 20
+Erdu: 0
+Do-Gor: 0
+Vianta: 0
+Ranadil: 50
+Stinhria: 0
+Nameless: 0
+Ul'Dagan: 0
+Buildings: (0)
+EnterDialogs: (400, 105, 307, 407, 172, 173, 433, 284, 508, 564, 605, 676)
+ExitDialogs: (400, 105, 307, 407, 172, 173, 433, 284, 508, 564, 605, 676)
+
+/9
+Name: Магнус;
+Land: Ильтор;
+Karma: 0
+Strategy: 0
+Magic: 0
+Target: 0
+Diplomacy: 10
+Aggro: 30
+Greed: 0
+Loyal: 0
+Random: 0
+Herb: 13
+Color1: 6
+Color2: 5
+Y: 44
+EventFirstMeet: 1095
+EventMeet: 1104
+EventDefeat: 0
+EventAttack: 1349
+LandType: 0, 0
+ProvType: 0, 0
+*Attitude*
+Adrageron: 0
+Doricus: 0
+Belez: 0
+Oinor: 10
+Dariol: 0
+Gerskil: 0
+L'Anshar: 0
+Oumm: 0
+Magnus: 0
+Erdu: 0
+Do-Gor: 0
+Vianta: 0
+Ranadil: 0
+Stinhria: 20
+Nameless: 0
+Ul'Dagan: 0
+Buildings: (0)
+EnterDialogs: (88, 684, 160, 161, 120, 299, 321, 450, 523, 571, 616, 750, 751, 752, 755)
+ExitDialogs: (88, 684, 160, 161, 120, 299, 321, 450, 523, 571, 616)
+
+/10
+Name: Эрду;
+Land: Наринэ;
+Karma: 50
+Strategy: 0
+Magic: 0
+Target: 0
+Diplomacy: 10
+Aggro: 10
+Greed: 0
+Loyal: 0
+Random: 0
+Herb: 18
+Color1: 6
+Color2: 7
+Y: 33
+EventFirstMeet: 747
+EventMeet: 770
+EventDefeat: 0
+EventAttack: 1352
+LandType: 0, 0
+ProvType: 0, 0
+*Attitude*
+Adrageron: -50
+Doricus: -20
+Belez: -30
+Oinor: 50
+Dariol: 50
+Gerskil: 0
+L'Anshar: -30
+Oumm: 0
+Magnus: 0
+Erdu: 0
+Do-Gor: 0
+Vianta: 50
+Ranadil: 0
+Stinhria: 0
+Nameless: 0
+Ul'Dagan: -100
+Buildings: (0)
+EnterDialogs: (671, 650, 651, 653, 654, 209, 198, 199, 115, 294, 316, 451, 518, 566, 611)
+ExitDialogs: (209, 198, 199, 115, 294, 316, 451, 518, 566, 611)
+
+/11
+Name: До-Гор;
+Land: Арх;
+Karma: -20
+Strategy: 0
+Magic: 0
+Target: 0
+Diplomacy: 17
+Aggro: 90
+Greed: 0
+Loyal: 0
+Random: 0
+Herb: 10
+Color1: 8
+Color2: 13
+Y: 10
+EventFirstMeet: 270
+EventMeet: 275
+EventDefeat: 563
+EventAttack: 1355
+LandType: 0, 0
+ProvType: 6, 100
+*Attitude*
+Adrageron: -10
+Doricus: -10
+Belez: 0
+Oinor: -30
+Dariol: -30
+Gerskil: -30
+L'Anshar: 0
+Oumm: 0
+Magnus: 0
+Erdu: -10
+Do-Gor: 0
+Vianta: 0
+Ranadil: 0
+Stinhria: 0
+Nameless: 0
+Ul'Dagan: 50
+Buildings: (0)
+EnterDialogs: (190, 192, 231, 432, 231, 304, 506, 558, 603, 674)
+ExitDialogs: (190, 192, 231, 432, 231, 304, 506, 558, 603, 674)
+
+/12
+Name: Вианта;
+Land: Эрадганер;
+Karma: 50
+Strategy: 0
+Magic: 0
+Target: 0
+Diplomacy: 10
+Aggro: 5
+Greed: 0
+Loyal: 0
+Random: 0
+Herb: 17
+Color1: 2
+Color2: 5
+Y: 13
+EventFirstMeet: 352
+EventMeet: 366
+EventDefeat: 0
+EventAttack: 1357
+LandType: 2, 20
+ProvType: 16, 100
+*Attitude*
+Adrageron: -50
+Doricus: -20
+Belez: -30
+Oinor: 50
+Dariol: 100
+Gerskil: 30
+L'Anshar: -100
+Oumm: 0
+Magnus: 0
+Erdu: 50
+Do-Gor: 0
+Vianta: 0
+Ranadil: 0
+Stinhria: -20
+Nameless: 0
+Ul'Dagan: -20
+Buildings: (0)
+EnterDialogs: (106, 281, 300, 302, 304, 306, 170, 171, 430, 507, 559, 604, 675)
+ExitDialogs: (106, 281, 306, 170, 171, 430, 507, 559, 604, 675, 310, 322)
+
+/13
+Name: Ранадил;
+Land: Вартах Акан;
+Karma: 0
+Strategy: 0
+Magic: 0
+Target: 0
+Diplomacy: 15
+Aggro: 50
+Greed: 0
+Loyal: 0
+Random: 0
+Herb: 1
+Color1: 1
+Color2: 12
+Y: 40
+EventFirstMeet: 1066
+EventMeet: 1077
+EventDefeat: 0
+EventAttack: 1363
+LandType: 0, 0
+ProvType: 0, 0
+*Attitude*
+Adrageron: 0
+Doricus: 0
+Belez: 0
+Oinor: 0
+Dariol: 0
+Gerskil: 0
+L'Anshar: 0
+Oumm: 30
+Magnus: 20
+Erdu: 0
+Do-Gor: 0
+Vianta: 0
+Ranadil: 0
+Stinhria: 0
+Nameless: 0
+Ul'Dagan: 0
+Buildings: (0)
+EnterDialogs: (86, 683, 164, 165, 118, 297, 319, 448, 521, 569, 614, 703, 704, 705)
+ExitDialogs: (86, 683, 164, 165, 118, 297, 319, 448, 521, 569, 614)
+
+/14
+Name: Стинхрия;
+Land: Дузрок;
+Karma: 0
+Strategy: 0
+Magic: 0
+Target: 0
+Diplomacy: 12
+Aggro: 40
+Greed: 0
+Loyal: 0
+Random: 0
+Herb: 9
+Color1: 6
+Color2: 11
+Y: 22
+EventFirstMeet: 471
+EventMeet: 484
+EventDefeat: 569
+EventAttack: 1366
+LandType: 0, 0
+ProvType: 0, 0
+*Attitude*
+Adrageron: 0
+Doricus: 0
+Belez: 30
+Oinor: -10
+Dariol: -60
+Gerskil: 0
+L'Anshar: 0
+Oumm: 0
+Magnus: 50
+Erdu: -10
+Do-Gor: 0
+Vianta: -20
+Ranadil: 0
+Stinhria: 0
+Nameless: 0
+Ul'Dagan: 0
+Buildings: (0)
+EnterDialogs: (421, 427, 109, 442, 286, 311, 510, 560, 607, 184, 185, 677)
+ExitDialogs: (109, 110, 442, 286, 311, 510, 560, 607, 184, 185, 677)
+
+/15
+Name: Безымянный;
+Land: Залы Тишины;
+Karma: 0
+Strategy: 0
+Magic: 0
+Target: 0
+Diplomacy: 15
+Aggro: 50
+Greed: 0
+Loyal: 0
+Random: 0
+Herb: 22
+Color1: 3
+Color2: 14
+Y: 42
+EventFirstMeet: 1086
+EventMeet: 1092
+EventDefeat: 0
+EventAttack: 1378
+LandType: 0, 0
+ProvType: 0, 0
+*Attitude*
+Adrageron: 0
+Doricus: 0
+Belez: 0
+Oinor: 0
+Dariol: 0
+Gerskil: 0
+L'Anshar: 0
+Oumm: 0
+Magnus: 0
+Erdu: 0
+Do-Gor: 0
+Vianta: 0
+Ranadil: 0
+Stinhria: 0
+Nameless: 0
+Ul'Dagan: 0
+Buildings: (0)
+EnterDialogs: (87, 682, 162, 163, 119, 298, 320, 449, 522, 570, 615)
+ExitDialogs: (87, 682, 162, 163, 119, 298, 320, 449, 522, 570, 615)
+
+/16
+Name: Уль Даган;
+Land: Чент;
+Karma: -50
+Strategy: 0
+Magic: 0
+Target: 0
+Diplomacy: 10
+Aggro: 50
+Greed: 0
+Loyal: 0
+Random: 0
+Herb: 7
+Color1: 7
+Color2: 0
+Y: 28
+EventFirstMeet: 654
+EventMeet: 661
+EventDefeat: 0
+EventAttack: 1381
+LandType: 0, 0
+ProvType: 0, 0
+*Attitude*
+Adrageron: 50
+Doricus: 0
+Belez: 30
+Oinor: -10
+Dariol: -30
+Gerskil: 0
+L'Anshar: 50
+Oumm: 0
+Magnus: 0
+Erdu: -50
+Do-Gor: 0
+Vianta: -30
+Ranadil: 0
+Stinhria: 20
+Nameless: 0
+Ul'Dagan: 0
+Buildings: (0)
+EnterDialogs: (82, 550, 551, 562, 609, 194, 195, 112, 291, 313, 444, 516, 652)
+ExitDialogs: (82, 609, 194, 195, 112, 291, 313, 444, 516, 652)

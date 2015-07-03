@@ -1,0 +1,276 @@
+Quantity: 24
+
+/0 Пусто
+Type: 0
+Layer: 0
+dx: 0
+dy: 0
+Terrain: (0)
+ProvType: (0)
+Site: 0
+Pic: 0
+Shadow: 0
+
+/1 Скелет
+Type: 0
+Layer: 1
+dx: 27
+dy: 13
+Terrain: (1)
+ProvType: (5)
+Site: 0
+Pic: 28
+Shadow: 0
+
+/2 Пентаграмма
+Type: 0
+Layer: 1
+dx: 18
+dy: 8
+Terrain: (1)
+ProvType: (15)
+Site: 0
+Pic: 263
+Shadow: 0
+
+/23 Дерево черепов
+Type: 0
+Layer: 2
+dx: 27
+dy: 40
+Terrain: (1, 4)
+ProvType: (5, 15)
+Site: 0
+Pic: 292
+Shadow: 293
+
+/3 Камень
+Type: 0
+Layer: 2
+dx: 10
+dy: 24
+Terrain: (1, 4)
+ProvType: (0)
+Site: 22
+Pic: 29
+Shadow: 262
+
+/4 Башня
+Type: 0
+Layer: 2
+dx: 12
+dy: 50
+Terrain: (1, 2)
+ProvType: (0)
+Site: 12
+Pic: 30
+Shadow: 258
+
+/5 Обелиск
+Type: 0
+Layer: 2
+dx: 6
+dy: 24
+Terrain: (1, 4)
+ProvType: (0)
+Site: 49
+Pic: 266
+Shadow: 267
+
+/6 Статуя Дракона
+Type: 0
+Layer: 2
+dx: 30
+dy: 31
+Terrain: (1, 4)
+ProvType: (0)
+Site: 25
+Pic: 280
+Shadow: 281
+
+/7 Могила
+Type: 0
+Layer: 2
+dx: 7
+dy: 14
+Terrain: (1)
+ProvType: (0)
+Site: 10
+Pic: 273
+Shadow: 274
+
+/8 Статуя 1
+Type: 0
+Layer: 2
+dx: 6
+dy: 33
+Terrain: (1, 3)
+ProvType: (11)
+Site: 0
+Pic: 275
+Shadow: 276
+
+/9 Статуя 2
+Type: 0
+Layer: 2
+dx: 10
+dy: 41
+Terrain: (1, 3)
+ProvType: (11)
+Site: 0
+Pic: 277
+Shadow: 278
+
+/10 Костёр
+Type: 0
+Layer: 1
+dx: 11
+dy: 10
+Terrain: (1)
+ProvType: (3, 17, 18)
+Site: 0
+Pic: 265
+Shadow: 0
+
+/11 Кострище
+Type: 0
+Layer: 0
+dx: 9
+dy: 9
+Terrain: (1)
+ProvType: (3, 17, 18)
+Site: 0
+Pic: 264
+Shadow: 0
+
+/12 Лагерь
+Type: 0
+Layer: 2
+dx: 6
+dy: 33
+Terrain: (1)
+ProvType: (3, 11)
+Site: 0
+Pic: 279
+Shadow: 0
+
+/13 Гриб
+Type: 0
+Layer: 2
+dx: 8
+dy: 34
+Terrain: (4)
+ProvType: (0)
+Site: 0
+Pic: 31
+Shadow: 259
+
+/14 Дерево
+Type: 0
+Layer: 2
+dx: 37
+dy: 74
+Terrain: (4)
+ProvType: (0)
+Site: 0
+Pic: 260
+Shadow: 261
+
+/15 Булыжник
+Type: 0
+Layer: 2
+dx: 10
+dy: 13
+Terrain: (1)
+ProvType: (0)
+Site: 0
+Pic: 268
+Shadow: 269
+
+/16 Указатель
+Type: 0
+Layer: 2
+dx: 7
+dy: 21
+Terrain: (1, 4)
+ProvType: (0)
+Site: 0
+Pic: 270
+Shadow: 271
+
+/17 Корабль
+Type: 0
+Layer: 2
+dx: 10
+dy: 25
+Terrain: (0)
+ProvType: (0)
+Site: 0
+Pic: 282
+Shadow: 283
+
+/18 Корабль 2
+Type: 0
+Layer: 2
+dx: 18
+dy: 26
+Terrain: (0)
+ProvType: (0)
+Site: 0
+Pic: 284
+Shadow: 285
+
+/19 Риф
+Type: 0
+Layer: 2
+dx: 9
+dy: 12
+Terrain: (0)
+ProvType: (0)
+Site: 0
+Pic: 286
+Shadow: 287
+
+/20 Риф 2
+Type: 0
+Layer: 2
+dx: 8
+dy: 12
+Terrain: (0)
+ProvType: (0)
+Site: 0
+Pic: 288
+Shadow: 0
+
+/21 Обломки
+Type: 0
+Layer: 2
+dx: 26
+dy: 20
+Terrain: (0)
+ProvType: (0)
+Site: 0
+Pic: 289
+Shadow: 0
+
+/22 Корабль-призрак
+Type: 0
+Layer: 2
+dx: 10
+dy: 24
+Terrain: (0)
+ProvType: (0)
+Site: 0
+Pic: 290
+Shadow: 291
+
+/24 Обломки2
+Type: 0
+Layer: 2
+dx: 26
+dy: 18
+Terrain: (0)
+ProvType: (0)
+Site: 0
+Pic: 294
+Shadow: 295

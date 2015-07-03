@@ -1,0 +1,3708 @@
+Quantity: 194
+
+/0 Пусто
+Type: 0
+Layer: 0
+dx: 0
+dy: 0
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (0)
+
+/1 Лиственное дерево 1
+Type: 2
+Layer: 2
+dx: 50
+dy: 52
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 5
+Forest: 15
+Hill: -1
+Swamp: -1
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (52, 53, 54, 55, 56)
+
+/2 Ёлка
+Type: 1
+Layer: 2
+dx: 41
+dy: 48
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 10
+Forest: 30
+Hill: -1
+Swamp: -1
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (5, 6, 7, 8, 9)
+
+/3 Ива
+Type: 2
+Layer: 2
+dx: 30
+dy: 40
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: -1
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (11)
+
+/4 Мёртвое дерево
+Type: 2
+Layer: 2
+dx: 46
+dy: 52
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 1
+Forest: 5
+Hill: -1
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (40)
+
+/5 Холм
+Type: 0
+Layer: 2
+dx: 60
+dy: 45
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: -1
+Forest: -1
+Hill: -30
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: -2
+ProvType: (0)
+Landmark: 0
+Pictures: (2, 3, 4)
+
+/6 Гора
+Type: 0
+Layer: 2
+dx: 150
+dy: 100
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 30
+ProvType: (0)
+Landmark: 0
+Pictures: (11)
+
+/7 Трава
+Type: 0
+Layer: 0
+dx: 20
+dy: 20
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 300
+Forest: 70
+Hill: 70
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (21, 22, 23, 24, 25, 26, 27, 37, 38, 73, 74, 76, 77, 78, 79)
+
+/8 Болото
+Type: 0
+Layer: 0
+dx: 20
+dy: 20
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: -1
+Hill: 0
+Swamp: 300
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (14, 15, 16, 17, 18, 19, 20, 174, 175, 176, 177, 178, 179, 180)
+
+/9 Грязь
+Type: 0
+Layer: 0
+dx: 15
+dy: 14
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (272)
+
+/10 Камень
+Type: 0
+Layer: 2
+dx: 0
+dy: 0
+Site: 22
+*Land_Types*:
+Sea: 0
+Plain: 10000
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 1
+Pictures: (29)
+
+/11 Башня
+Type: 0
+Layer: 2
+dx: 0
+dy: 0
+Site: 12
+*Land_Types*:
+Sea: 0
+Plain: 10000
+Forest: 10000
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 1
+Pictures: (30)
+
+/12 Гриб
+Type: 0
+Layer: 2
+dx: 0
+dy: 0
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 10000
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 1
+Pictures: (31)
+
+/13 Тень - Лиственное дерево 1
+Type: 1001
+Layer: 1
+dx: 0
+dy: 0
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (61)
+
+/14 Тень Ёлки
+Type: 1002
+Layer: 1
+dx: 0
+dy: 0
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (39)
+
+/15 Сухое дерево 2
+Type: 2
+Layer: 2
+dx: 38
+dy: 55
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 1
+Forest: 5
+Hill: -1
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (41)
+
+/16 Сухое дерево 3
+Type: 2
+Layer: 2
+dx: 58
+dy: 57
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 1
+Forest: 5
+Hill: -1
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (42)
+
+/17 Сухое дерево 4
+Type: 3
+Layer: 2
+dx: 58
+dy: 54
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 1
+Forest: 5
+Hill: -1
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (43)
+
+/18 Сухое дерево 5
+Type: 1
+Layer: 2
+dx: 46
+dy: 58
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 1
+Forest: 5
+Hill: -1
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (44)
+
+/19 Сухое дерево 6
+Type: 3
+Layer: 2
+dx: 45
+dy: 67
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 1
+Forest: 5
+Hill: -1
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (45)
+
+/20 Тень Сухое дерево 1
+Type: 1004
+Layer: 1
+dx: 0
+dy: 0
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (46)
+
+
+/21 Тень Сухое дерево 2
+Type: 1015
+Layer: 1
+dx: 0
+dy: 0
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (47)
+
+/22 Тень Сухое дерево 3
+Type: 1016
+Layer: 1
+dx: 0
+dy: 0
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (48)
+
+/23 Тень Сухое дерево 4
+Type: 1017
+Layer: 1
+dx: 0
+dy: 0
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (49)
+
+/24 Тень Сухое дерево 5
+Type: 1018
+Layer: 1
+dx: 0
+dy: 0
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (50)
+
+/25 Тень Сухое дерево 6
+Type: 1019
+Layer: 1
+dx: 0
+dy: 0
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (51)
+
+/26 Лиственное дерево 2
+Type: 2
+Layer: 2
+dx: 50
+dy: 47
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 5
+Forest: 15
+Hill: -1
+Swamp: -1
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (57, 58, 59, 60)
+
+/27 Тень - Лиственное дерево 2
+Type: 1026
+Layer: 1
+dx: 0
+dy: 0
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (62)
+
+/28 Лиственное дерево 3_1
+Type: 2
+Layer: 2
+dx: 42
+dy: 63
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 1
+Forest: 5
+Hill: -1
+Swamp: -1
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (63)
+
+/29 Лиственное дерево 3_2
+Type: 2
+Layer: 2
+dx: 42
+dy: 63
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 1
+Forest: 4
+Hill: -1
+Swamp: -1
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (64)
+
+/30 Листва- Лиственное дерево 3_2
+Type: 1029
+Layer: 0
+dx: 42
+dy: 63
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (65)
+
+/31 Тень - Лиственное дерево 3_2
+Type: 1029
+Layer: 1
+dx: 42
+dy: 63
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (72)
+
+/32 Лиственное дерево 3_3
+Type: 3
+Layer: 2
+dx: 42
+dy: 63
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 1
+Forest: 4
+Hill: -1
+Swamp: -1
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (66)
+
+/33 Листва- Лиственное дерево 3_3
+Type: 1032
+Layer: 0
+dx: 42
+dy: 63
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (67)
+
+/34 Тень - Лиственное дерево 3_3
+Type: 1032
+Layer: 1
+dx: 42
+dy: 63
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (72)
+
+/35 Лиственное дерево 3_4
+Type: 3
+Layer: 2
+dx: 42
+dy: 63
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 1
+Forest: 4
+Hill: -1
+Swamp: -1
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (68)
+
+/36 Листва- Лиственное дерево 3_4
+Type: 1035
+Layer: 0
+dx: 42
+dy: 63
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (69)
+
+/37 Тень - Лиственное дерево 3_4
+Type: 1035
+Layer: 1
+dx: 42
+dy: 63
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (72)
+
+/38 Лиственное дерево 3_5
+Type: 3
+Layer: 2
+dx: 42
+dy: 63
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 1
+Forest: 4
+Hill: -1
+Swamp: -1
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (70)
+
+/39 Листва- Лиственное дерево 3_5
+Type: 1038
+Layer: 0
+dx: 42
+dy: 63
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (71)
+
+/40 Тень - Лиственное дерево 3_5
+Type: 1038
+Layer: 1
+dx: 42
+dy: 63
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (72)
+
+/41 Тень - Лиственное дерево 3_1
+Type: 1028
+Layer: 1
+dx: 42
+dy: 63
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (72)
+
+/42 Лиственное дерево 4
+Type: 3
+Layer: 2
+dx: 54
+dy: 48
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 1
+Forest: 4
+Hill: -1
+Swamp: -1
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (113, 114, 115)
+
+/43 Тень - Лиственное дерево 4_1
+Type: 1042
+Layer: 1
+dx: 42
+dy: 63
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (117)
+
+/44 Лиственное дерево 4_2
+Type: 3
+Layer: 2
+dx: 42
+dy: 63
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: -1
+Swamp: -1
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (74)
+
+/45 Тень - Лиственное дерево 4_2
+Type: 1044
+Layer: 1
+dx: 42
+dy: 63
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (77)
+
+/46 Лиственное дерево 4_3
+Type: 3
+Layer: 2
+dx: 42
+dy: 63
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: -1
+Swamp: -1
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (75)
+
+/47 Листва- Лиственное дерево 4
+Type: 1042
+Layer: 0
+dx: 42
+dy: 63
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (116)
+
+/48 Тень - Лиственное дерево 4_3
+Type: 1046
+Layer: 1
+dx: 42
+dy: 63
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (77)
+
+/49 Поганки 1
+Type: 0
+Layer: 1
+dx: 13
+dy: 16
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 1
+Forest: 5
+Hill: 0
+Swamp: 3
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (80)
+
+/50 Поганки 1-тень
+Type: 1049
+Layer: 1
+dx: 13
+dy: 16
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (98)
+
+/51 Поганки 2
+Type: 0
+Layer: 1
+dx: 13
+dy: 16
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 1
+Forest: 5
+Hill: 0
+Swamp: 20
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (81, 82, 83, 84)
+
+/52 Поганки 2-тень
+Type: 1051
+Layer: 1
+dx: 13
+dy: 16
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (99)
+
+/53 Поганки 3
+Type: 0
+Layer: 1
+dx: 13
+dy: 16
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 1
+Forest: 10
+Hill: 0
+Swamp: 10
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (85, 86, 87)
+
+/54 Поганки 3-тень
+Type: 1053
+Layer: 1
+dx: 13
+dy: 16
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (100)
+
+/55 Поганки 4
+Type: 0
+Layer: 1
+dx: 13
+dy: 16
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 1
+Forest: 3
+Hill: 0
+Swamp: 8
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (88)
+
+/56 Поганки 4-тень
+Type: 1055
+Layer: 1
+dx: 13
+dy: 16
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (101)
+
+/57 Поганки 5
+Type: 0
+Layer: 1
+dx: 13
+dy: 16
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 1
+Forest: 5
+Hill: 0
+Swamp: 5
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (89)
+
+/58 Поганки 5-тень
+Type: 1057
+Layer: 1
+dx: 13
+dy: 16
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (102)
+
+/59 Гриб 1
+Type: 0
+Layer: 1
+dx: 13
+dy: 16
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 1
+Forest: 5
+Hill: 0
+Swamp: 2
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (90)
+
+/60 Гриб 1-тень
+Type: 1059
+Layer: 1
+dx: 13
+dy: 16
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (103)
+
+/61 Гриб 2
+Type: 0
+Layer: 1
+dx: 13
+dy: 16
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 1
+Forest: 15
+Hill: 0
+Swamp: 5
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (91, 92, 93, 94)
+
+/62 Гриб 2-тень
+Type: 1061
+Layer: 1
+dx: 13
+dy: 16
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (104)
+
+/63 Гриб 3
+Type: 0
+Layer: 1
+dx: 13
+dy: 16
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 1
+Forest: 5
+Hill: 0
+Swamp: 2
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (95, 96)
+
+/64 Гриб 3-тень
+Type: 1063
+Layer: 1
+dx: 13
+dy: 16
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (105)
+
+/65 Гриб 4
+Type: 0
+Layer: 1
+dx: 13
+dy: 16
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 1
+Forest: 5
+Hill: 0
+Swamp: 2
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (97)
+
+/66 Гриб 4-тень
+Type: 1065
+Layer: 1
+dx: 13
+dy: 16
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (106)
+
+/67 Холм1
+Type: 0
+Layer: 2
+dx: 105
+dy: 50
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: -1
+Forest: -1
+Hill: 30
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: -1
+ProvType: (0)
+Landmark: 0
+Pictures: (107)
+
+/68 Холм1 тень
+Type: 0
+Layer: 1
+dx: 105
+dy: 50
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (108)
+
+/69 Холм2
+Type: 0
+Layer: 2
+dx: 116
+dy: 54
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: -1
+Forest: -1
+Hill: 30
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: -1
+ProvType: (0)
+Landmark: 0
+Pictures: (109)
+
+/70 Холм2 тень
+Type: 0
+Layer: 1
+dx: 116
+dy: 54
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (110)
+
+/71 Холм3
+Type: 0
+Layer: 0
+dx: 91
+dy: 70
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (111)
+
+/72 Холм3 тень
+Type: 0
+Layer: 2
+dx: 91
+dy: 70
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (112)
+
+/73 Болотное дерево 1_1,1_2,1_3,1_4
+Type: 0
+Layer: 2
+dx: 49
+dy: 51
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 15
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (118, 119, 120, 121)
+
+/74 Болотное дерево 1_1,1_2,1_3,1_4_тень
+Type: 1073
+Layer: 1
+dx: 49
+dy: 51
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (129)
+
+/75 Болотное дерево 2_1,2_2,2_3,2_4
+Type: 0
+Layer: 2
+dx: 52
+dy: 74
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 15
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (122, 123, 124, 125)
+
+/76 Болотное дерево 2_1,2_2,2_3,2_4_тень
+Type: 1075
+Layer: 1
+dx: 52
+dy: 74
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (130)
+
+/77 Болотное дерево 3
+Type: 0
+Layer: 2
+dx: 28
+dy: 42
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 4
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (126)
+
+/78 Болотное дерево 3_тень
+Type: 1077
+Layer: 1
+dx: 28
+dy: 42
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (131)
+
+/79 Болотное дерево 4
+Type: 0
+Layer: 2
+dx: 26
+dy: 51
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 4
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (127)
+
+/80 Болотное дерево 4_тень
+Type: 1079
+Layer: 1
+dx: 26
+dy: 51
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (132)
+
+/81 Болотное дерево 5
+Type: 0
+Layer: 2
+dx: 35
+dy: 49
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 4
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (128)
+
+/82 Болотное дерево 5_тень
+Type: 1081
+Layer: 1
+dx: 35
+dy: 49
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (133)
+
+/83 Болотное дерево 6
+Type: 0
+Layer: 2
+dx: 33
+dy: 46
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 4
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (134)
+
+/84 Болотное дерево 6_тень
+Type: 1083
+Layer: 1
+dx: 33
+dy: 46
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (135)
+
+/85 Болотное дерево 7
+Type: 0
+Layer: 2
+dx: 45
+dy: 57
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 4
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (136)
+
+/86 Болотное дерево 7_тень
+Type: 1085
+Layer: 1
+dx: 45
+dy: 57
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (137)
+
+/87 Болотная деревяшка 1
+Type: 0
+Layer: 2
+dx: 20
+dy: 26
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 4
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (138)
+
+/88 Болотное деревяшка 1_тень
+Type: 1087
+Layer: 1
+dx: 20
+dy: 26
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (145)
+
+/89 Болотная деревяшка 2
+Type: 0
+Layer: 2
+dx: 14
+dy: 17
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 4
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (139)
+
+/90 Болотное деревяшка 2_тень
+Type: 1089
+Layer: 1
+dx: 14
+dy: 17
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (146)
+
+/91 Болотная деревяшка 3
+Type: 0
+Layer: 2
+dx: 21
+dy: 28
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 4
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (140)
+
+/92 Болотное деревяшка 3_тень
+Type: 1091
+Layer: 1
+dx: 21
+dy: 28
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (147)
+
+/93 Болотная деревяшка 4
+Type: 0
+Layer: 2
+dx: 13
+dy: 19
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 4
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (141)
+
+/94 Болотное деревяшка 4_тень
+Type: 1093
+Layer: 1
+dx: 13
+dy: 19
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (148)
+
+/95 Болотная деревяшка 5
+Type: 0
+Layer: 2
+dx: 17
+dy: 18
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 4
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (142)
+
+/96 Болотное деревяшка 5_тень
+Type: 1095
+Layer: 1
+dx: 17
+dy: 18
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (149)
+
+/97 Болотная деревяшка 6
+Type: 0
+Layer: 2
+dx: 16
+dy: 27
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 4
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (143)
+
+/98 Болотное деревяшка 6_тень
+Type: 1097
+Layer: 1
+dx: 16
+dy: 27
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (150)
+
+/99 Болотная деревяшка 7
+Type: 0
+Layer: 2
+dx: 28
+dy: 35
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 4
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (144)
+
+/100 Болотное деревяшка 7_тень
+Type: 1099
+Layer: 1
+dx: 28
+dy: 35
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (151)
+
+/101 Подложка песок
+Type: -1
+Layer: 1
+dx: 30
+dy: 30
+Site: 60
+*Land_Types*:
+Sea: 1000
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (34, 250, 251)
+
+/102 Подложка болота
+Type: -1
+Layer: 0
+dx: 31
+dy: 31
+Site: 60
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 140
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (1)
+
+
+/103 Подложка болота
+Type: -1
+Layer: 0
+dx: 29
+dy: 31
+Site: 85
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 15
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (152, 153, 154, 155, 156)
+
+/104 Подложка болота
+Type: -1
+Layer: 0
+dx: 29
+dy: 31
+Site: 80
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 15
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (157, 158, 159, 160, 161)
+
+/105 Подложка болота
+Type: -1
+Layer: 0
+dx: 29
+dy: 31
+Site: 100
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 15
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (162, 163, 164, 165, 166)
+
+/106 Подложка болота
+Type: -1
+Layer: 0
+dx: 10
+dy: 10
+Site: 70
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 4
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (167)
+
+/107 Болото
+Type: 0
+Layer: 0
+dx: 50
+dy: 40
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: -1
+Hill: 0
+Swamp: 200
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (168, 169, 170, 171, 172, 173)
+
+/108 Болотный лист 1
+Type: 0
+Layer: 1
+dx: 7
+dy: 9
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 4
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (181)
+
+/109 Болотный лист 1, тень
+Type: 1108
+Layer: 1
+dx: 7
+dy: 9
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (187)
+
+/110 Болотный лист 2
+Type: 0
+Layer: 1
+dx: 8
+dy: 10
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 4
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (182)
+
+/111 Болотный лист 2, тень
+Type: 1110
+Layer: 1
+dx: 8
+dy: 10
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (188)
+
+/112 Болотный лист 3
+Type: 0
+Layer: 1
+dx: 9
+dy: 9
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 4
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (183)
+
+/113 Болотный лист 3, тень
+Type: 1112
+Layer: 1
+dx: 9
+dy: 9
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (189)
+
+/114 Болотный лист 4
+Type: 0
+Layer: 1
+dx: 9
+dy: 6
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 4
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (184)
+
+/115 Болотный лист 4, тень
+Type: 1114
+Layer: 1
+dx: 9
+dy: 6
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (190)
+
+/116 Болотный лист 5
+Type: 0
+Layer: 1
+dx: 7
+dy: 9
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 4
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (185)
+
+/117 Болотный лист 5, тень
+Type: 1116
+Layer: 1
+dx: 7
+dy: 9
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (191)
+
+/118 Болотный лист 6
+Type: 0
+Layer: 1
+dx: 8
+dy: 9
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 4
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (186)
+
+/119 Болотный лист 6, тень
+Type: 1118
+Layer: 1
+dx: 8
+dy: 9
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (192)
+
+/120 Болото
+Type: 0
+Layer: 0
+dx: 20
+dy: 14
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 30
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (193, 194, 195, 196, 197)
+
+/121 Осока 1
+Type: 0
+Layer: 1
+dx: 11
+dy: 15
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 4
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (198)
+
+/122 Осока 1, тень
+Type: 1121
+Layer: 1
+dx: 11
+dy: 15
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (216)
+
+/123 Осока 2
+Type: 0
+Layer: 1
+dx: 11
+dy: 15
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 4
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (199)
+
+/124 Осока 2, тень
+Type: 1123
+Layer: 1
+dx: 11
+dy: 15
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (217)
+
+/125 Осока 3
+Type: 0
+Layer: 1
+dx: 11
+dy: 15
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 4
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (200)
+
+/126 Осока 3, тень
+Type: 1125
+Layer: 1
+dx: 11
+dy: 15
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (218)
+
+/127 Осока 4
+Type: 0
+Layer: 1
+dx: 11
+dy: 15
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 4
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (201)
+
+/128 Осока 4, тень
+Type: 1127
+Layer: 1
+dx: 11
+dy: 15
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (219)
+
+/129 Осока 5
+Type: 0
+Layer: 1
+dx: 11
+dy: 15
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 4
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (202)
+
+/130 Осока 5, тень
+Type: 1129
+Layer: 1
+dx: 11
+dy: 15
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (220)
+
+/131 Осока 6
+Type: 0
+Layer: 1
+dx: 11
+dy: 15
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 4
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (203)
+
+/132 Осока 6, тень
+Type: 1131
+Layer: 1
+dx: 11
+dy: 15
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (221)
+
+/133 Осока 7
+Type: 0
+Layer: 1
+dx: 11
+dy: 15
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 4
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (204)
+
+/134 Осока 7, тень
+Type: 1133
+Layer: 1
+dx: 11
+dy: 15
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (222)
+
+/135 Осока 8
+Type: 0
+Layer: 1
+dx: 11
+dy: 15
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 4
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (205)
+
+/136 Осока 8, тень
+Type: 1135
+Layer: 1
+dx: 11
+dy: 15
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (223)
+
+/137 Осока 9
+Type: 0
+Layer: 1
+dx: 11
+dy: 15
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 4
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (206)
+
+/138 Осока 9, тень
+Type: 1137
+Layer: 1
+dx: 11
+dy: 15
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (224)
+
+/139 Осока 10
+Type: 0
+Layer: 1
+dx: 11
+dy: 15
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 4
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (207)
+
+/140 Осока 10, тень
+Type: 1139
+Layer: 1
+dx: 11
+dy: 15
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (225)
+
+/141 Осока 11
+Type: 0
+Layer: 1
+dx: 11
+dy: 15
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 4
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (208)
+
+/142 Осока 11, тень
+Type: 1141
+Layer: 1
+dx: 11
+dy: 15
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (226)
+
+/143 Осока 12
+Type: 0
+Layer: 1
+dx: 11
+dy: 15
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 4
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (209)
+
+/144 Осока 12, тень
+Type: 1143
+Layer: 1
+dx: 11
+dy: 15
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (227)
+
+/145 Осока 13
+Type: 0
+Layer: 1
+dx: 11
+dy: 15
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 4
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (210)
+
+/146 Осока 13, тень
+Type: 1145
+Layer: 1
+dx: 11
+dy: 15
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (228)
+
+/147 Осока 14
+Type: 0
+Layer: 1
+dx: 11
+dy: 15
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 4
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (211)
+
+/148 Осока 14, тень
+Type: 1147
+Layer: 1
+dx: 11
+dy: 15
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (229)
+
+/149 Осока 15
+Type: 0
+Layer: 1
+dx: 11
+dy: 15
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 4
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (212)
+
+/150 Осока 15, тень
+Type: 1149
+Layer: 1
+dx: 11
+dy: 15
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (230)
+
+/151 Осока 16
+Type: 0
+Layer: 1
+dx: 11
+dy: 15
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 4
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (213)
+
+/152 Осока 16, тень
+Type: 1151
+Layer: 1
+dx: 11
+dy: 15
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (231)
+
+/153 Осока 17
+Type: 0
+Layer: 1
+dx: 11
+dy: 15
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 4
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (214)
+
+/154 Осока 17, тень
+Type: 1153
+Layer: 1
+dx: 11
+dy: 15
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (232)
+
+/155 Осока 18
+Type: 0
+Layer: 1
+dx: 11
+dy: 15
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 4
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (215)
+
+/156 Осока 18, тень
+Type: 1155
+Layer: 1
+dx: 11
+dy: 15
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (233)
+
+/157 Пень 1
+Type: 0
+Layer: 1
+dx: 20
+dy: 18
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 1
+Forest: 3
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (234)
+
+/158 Пень 1, тень
+Type: 1157
+Layer: 1
+dx: 20
+dy: 18
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (239)
+
+/159 Пень 2
+Type: 0
+Layer: 1
+dx: 17
+dy: 17
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 1
+Forest: 3
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (235)
+
+/160 Пень 2, тень
+Type: 1159
+Layer: 1
+dx: 17
+dy: 17
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (240)
+
+/161 Пень 3
+Type: 0
+Layer: 1
+dx: 25
+dy: 25
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 1
+Forest: 3
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (236)
+
+/162 Пень 3, тень
+Type: 1161
+Layer: 1
+dx: 25
+dy: 25
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (241)
+
+/163 Пень 4
+Type: 0
+Layer: 1
+dx: 19
+dy: 22
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 1
+Forest: 3
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (237)
+
+/164 Пень 4, тень
+Type: 1163
+Layer: 1
+dx: 19
+dy: 22
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (242)
+
+/165 Пень 5
+Type: 0
+Layer: 1
+dx: 23
+dy: 27
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 1
+Forest: 3
+Hill: 0
+Swamp: -1
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (238)
+
+/166 Пень 5, тень
+Type: 1165
+Layer: 1
+dx: 23
+dy: 27
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (243)
+
+/167 Озеро 1
+Type: 0
+Layer: 0
+dx: 67
+dy: 34
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 1
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (244)
+
+/168 Озеро 2
+Type: 0
+Layer: 0
+dx: 55
+dy: 32
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 3
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (245)
+
+/169 Озеро 3
+Type: 0
+Layer: 0
+dx: 65
+dy: 31
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 2
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (246)
+
+/170 Озеро 4
+Type: 0
+Layer: 0
+dx: 74
+dy: 46
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 1
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (247)
+
+/171 Озеро 5
+Type: 0
+Layer: 0
+dx: 52
+dy: 35
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 2
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (248)
+
+/172 Озеро 6
+Type: 0
+Layer: 0
+dx: 67
+dy: 34
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 1
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (249)
+
+/173 Гора
+Type: 0
+Layer: 2
+dx: 166
+dy: 130
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 20
+ProvType: (0)
+Landmark: 0
+Pictures: (12)
+
+/174 Гора
+Type: 0
+Layer: 2
+dx: 204
+dy: 130
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 20
+ProvType: (0)
+Landmark: 0
+Pictures: (13)
+
+/175 Подложка лес
+Type: -1
+Layer: 0
+dx: 22
+dy: 17
+Site: 40
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 500
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (252)
+
+/176 Булыжник1
+Type: 0
+Layer: 1
+dx: 12
+dy: 24
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 1
+Forest: 0
+Hill: 1
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 1
+ProvType: (0)
+Landmark: 0
+Pictures: (296)
+
+/177 Булыжник1 тень
+Type: 1176
+Layer: 1
+dx: 12
+dy: 24
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (297)
+
+/178 Булыжник2
+Type: 0
+Layer: 1
+dx: 12
+dy: 18
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 1
+Forest: 0
+Hill: 1
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 1
+ProvType: (0)
+Landmark: 0
+Pictures: (298)
+
+/179 Булыжник2 тень
+Type: 1178
+Layer: 1
+dx: 12
+dy: 18
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (299)
+
+/180 Булыжник3
+Type: 0
+Layer: 1
+dx: 17
+dy: 20
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 1
+Forest: 0
+Hill: 1
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 1
+ProvType: (0)
+Landmark: 0
+Pictures: (300)
+
+/181 Булыжник3 тень
+Type: 1180
+Layer: 1
+dx: 17
+dy: 20
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (301)
+
+/182 Булыжники1
+Type: 0
+Layer: 1
+dx: 22
+dy: 25
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 1
+Forest: 0
+Hill: 1
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 1
+ProvType: (0)
+Landmark: 0
+Pictures: (312)
+
+/183 Булыжники1 тень
+Type: 1182
+Layer: 1
+dx: 22
+dy: 25
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (313)
+
+/184 Булыжники2
+Type: 0
+Layer: 1
+dx: 47
+dy: 20
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 1
+Forest: 0
+Hill: 1
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 1
+ProvType: (0)
+Landmark: 0
+Pictures: (314)
+
+/185 Булыжники2 тень
+Type: 1184
+Layer: 1
+dx: 47
+dy: 20
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (315)
+
+/186 Булыжники3
+Type: 0
+Layer: 1
+dx: 37
+dy: 17
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 1
+Forest: 0
+Hill: 1
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 1
+ProvType: (0)
+Landmark: 0
+Pictures: (316)
+
+/187 Булыжники3 тень
+Type: 1186
+Layer: 1
+dx: 37
+dy: 17
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (317)
+
+/188 Камень 1
+Type: 0
+Layer: 1
+dx: 7
+dy: 10
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 3
+Forest: 1
+Hill: 5
+Swamp: 3
+Desert: 0
+Tundra: 0
+Mountain: 6
+ProvType: (0)
+Landmark: 0
+Pictures: (303)
+
+/189 Камень 1 тень
+Type: 1188
+Layer: 1
+dx: 7
+dy: 10
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (309)
+
+/190 Камень 2
+Type: 0
+Layer: 1
+dx: 10
+dy: 9
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 3
+Forest: 1
+Hill: 5
+Swamp: 3
+Desert: 0
+Tundra: 0
+Mountain: 6
+ProvType: (0)
+Landmark: 0
+Pictures: (304)
+
+/191 Камень 2 тень
+Type: 1190
+Layer: 1
+dx: 10
+dy: 9
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (310)
+
+/192 Камень 3
+Type: 0
+Layer: 1
+dx: 9
+dy: 11
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 1
+Forest: 0
+Hill: 2
+Swamp: 1
+Desert: 0
+Tundra: 0
+Mountain: 3
+ProvType: (0)
+Landmark: 0
+Pictures: (306)
+
+/193 Камень 3 тень
+Type: 1192
+Layer: 1
+dx: 9
+dy: 11
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+Mountain: 0
+ProvType: (0)
+Landmark: 0
+Pictures: (311)
+
+/194 Камни
+Type: 0
+Layer: 0
+dx: 6
+dy: 6
+Site: 0
+*Land_Types*:
+Sea: 0
+Plain: 20
+Forest: 5
+Hill: 40
+Swamp: 10
+Desert: 0
+Tundra: 0
+Mountain: 40
+ProvType: (0)
+Landmark: 0
+Pictures: (302, 305, 307, 308, 318, 319, 320, 321, 322, 323)

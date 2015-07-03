@@ -1,0 +1,109 @@
+Quantity: 11
+
+/0
+Name: Пусто;
+MoveCost: 0
+StamCost: 0
+CounterAttack: 0
+Defence: 0
+RangedDefence: 0
+ShootingRange: 0
+
+/1
+Name: Равнина;
+MoveCost: 1
+StamCost: 0
+CounterAttack: 0
+Defence: 0
+RangedDefence: 0
+ShootingRange: 0
+
+/2
+Name: Лес;
+MoveCost: 2
+StamCost: 0
+CounterAttack: 0
+Defence: 0
+RangedDefence: 2
+ShootingRange: 0
+
+/3
+Name: Холм;
+MoveCost: 3
+StamCost: 1
+CounterAttack: 1
+Defence: 1
+RangedDefence: 0
+ShootingRange: 1
+
+/4
+Name: Болото;
+MoveCost: 4
+StamCost: 1
+CounterAttack: -1
+Defence: -1
+RangedDefence: 0
+ShootingRange: 0
+
+/5
+Name: Овраг;
+MoveCost: 0
+StamCost: 0
+CounterAttack: 0
+Defence: 0
+RangedDefence: 0
+ShootingRange: 0
+
+/6
+Name: Чаща;
+MoveCost: 0
+StamCost: 0
+CounterAttack: 0
+Defence: 0
+RangedDefence: 0
+ShootingRange: 0
+
+/7
+Name: Гора;
+MoveCost: 0
+StamCost: 0
+CounterAttack: 0
+Defence: 0
+RangedDefence: 0
+ShootingRange: 0
+
+/8
+Name: Топь;
+MoveCost: 0
+StamCost: 0
+CounterAttack: 0
+Defence: 0
+RangedDefence: 0
+ShootingRange: 0
+
+/9
+Name: Стена;
+MoveCost: 0
+StamCost: 0
+CounterAttack: 0
+Defence: 0
+RangedDefence: 0
+ShootingRange: 0
+
+/10
+Name: Башня;
+MoveCost: 0
+StamCost: 0
+CounterAttack: 0
+Defence: 0
+RangedDefence: 0
+ShootingRange: 0
+
+/11
+Name: Обломки;
+MoveCost: 1
+StamCost: 0
+CounterAttack: 0
+Defence: 0
+RangedDefence: 0
+ShootingRange: 0

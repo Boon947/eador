@@ -1,0 +1,915 @@
+Quantity: 37
+
+/0
+Name: Пусто;
+GoldCost: 0
+GemCost: 0
+Sound: 0
+Karma: 0
+OnAlly: 0
+OnEnemy: 0
+Time: 0
+Cooldown: 10
+Event: 0
+ItemLevel: 0
+ItemRarity: 0
+
+Resource: (0)
+
+Effects:
+Effect: 0
+Param1: 0
+Param2: 0;
+
+/1
+Name: Чаша Жизни;
+GoldCost: 0
+GemCost: 15
+Sound: 35
+Karma: 0
+OnAlly: 1
+OnEnemy: 0
+Time: 0
+Cooldown: 4
+Event: 0
+ItemLevel: 1
+ItemRarity: 1
+
+Resource: (0)
+
+Effects:
+Effect: 20
+Param1: 1
+Param2: 0
+
+Effect: 5
+Param1: 502
+Param2: 0;
+
+/2
+Name: Феерия;
+GoldCost: 0
+GemCost: 10
+Sound: 34
+Karma: 0
+OnAlly: 1
+OnEnemy: 0
+Time: 10
+Cooldown: 10
+Event: 0
+ItemLevel: 1
+ItemRarity: 1
+
+Resource: (0)
+
+Effects:
+Effect: 1
+Param1: 1
+Param2: 0;
+
+/3
+Name: Зачарованный ларец;
+GoldCost: 0
+GemCost: 20
+Sound: 32
+Karma: -1
+OnAlly: 1
+OnEnemy: 0
+Time: 0
+Cooldown: 4
+Event: 0
+ItemLevel: 1
+ItemRarity: 1
+
+Resource: (0)
+
+Effects:
+Effect: 24
+Param1: 1
+Param2: 0
+
+Effect: 3
+Param1: 914
+Param2: 0;
+
+/4
+Name: Попутный ветер;
+GoldCost: 0
+GemCost: 5
+Sound: 33
+Karma: 0
+OnAlly: 1
+OnEnemy: 0
+Time: 0
+Cooldown: 10
+Event: 0
+ItemLevel: 1
+ItemRarity: 1
+
+Resource: (0)
+
+Effects:
+Effect: 20
+Param1: 1
+Param2: 0
+
+Effect: 5
+Param1: 503
+Param2: 0;
+
+/5
+Name: Тёмный ритуал;
+GoldCost: 0
+GemCost: 10
+Sound: 37
+Karma: -4
+OnAlly: 1
+OnEnemy: 0
+Time: 0
+Cooldown: 4
+Event: 0
+ItemLevel: 1
+ItemRarity: 1
+
+Resource: (0)
+
+Effects:
+Effect: 24
+Param1: 1
+Param2: 0
+
+Effect: 3
+Param1: 915
+Param2: 0;
+
+/6
+Name: Неупокоенный;
+GoldCost: 0
+GemCost: 11
+Sound: 36
+Karma: -1
+OnAlly: 1
+OnEnemy: 0
+Time: 0
+Cooldown: 4
+Event: 0
+ItemLevel: 1
+ItemRarity: 1
+
+Resource: (0)
+
+Effects:
+Effect: 20
+Param1: 1
+Param2: 0
+
+Effect: 5
+Param1: 504
+Param2: 0;
+
+/7
+Name: Небесный свет;
+GoldCost: 0
+GemCost: 30
+Sound: 47
+Karma: 1
+OnAlly: 1
+OnEnemy: 0
+Time: 10
+Cooldown: 10
+Event: 0
+ItemLevel: 2
+ItemRarity: 2
+
+Resource: (4)
+
+Effects:
+Effect: 1
+Param1: 2
+Param2: 0
+
+Effect: 2
+Param1: 4
+Param2: 0
+
+Effect: 3
+Param1: 916
+Param2: 0;
+
+/8
+Name: Бой с иллюзией;
+GoldCost: 0
+GemCost: 20
+Sound: 39
+Karma: 0
+OnAlly: 1
+OnEnemy: 0
+Time: 0
+Cooldown: 10
+Event: 0
+ItemLevel: 2
+ItemRarity: 2
+
+Resource: (4)
+
+Effects:
+Effect: 20
+Param1: 1
+Param2: 0
+
+Effect: 5
+Param1: 507
+Param2: 0;
+
+/9
+Name: Сотворение;
+GoldCost: 0
+GemCost: 20
+Sound: 38
+Karma: 0
+OnAlly: 1
+OnEnemy: 0
+Time: 0
+Cooldown: 10
+Event: 0
+ItemLevel: 2
+ItemRarity: 2
+
+Resource: (4)
+
+Effects:
+Effect: 3
+Param1: 917
+Param2: 0;
+
+/10
+Name: Дары Земли;
+GoldCost: 0
+GemCost: 20
+Sound: 41
+Karma: 0
+OnAlly: 1
+OnEnemy: 0
+Time: 10
+Cooldown: 10
+Event: 0
+ItemLevel: 2
+ItemRarity: 2
+
+Resource: (4)
+
+Effects:
+Effect: 6
+Param1: 10
+Param2: 3;
+
+/11
+Name: Тварь Хаоса;
+GoldCost: 0
+GemCost: 25
+Sound: 19
+Karma: -3
+OnAlly: 1
+OnEnemy: 0
+Time: 0
+Cooldown: 8
+Event: 0
+ItemLevel: 2
+ItemRarity: 2
+
+Resource: (4)
+
+Effects:
+Effect: 20
+Param1: 1
+Param2: 0
+
+Effect: 5
+Param1: 508
+Param2: 0;
+
+/12
+Name: Смертельный ужас;
+GoldCost: 0
+GemCost: 15
+Sound: 40
+Karma: -1
+OnAlly: 0
+OnEnemy: 1
+Time: 10
+Cooldown: 10
+Event: 922
+ItemLevel: 2
+ItemRarity: 2
+
+Resource: (4)
+
+Effects:
+Effect: 1
+Param1: -2
+Param2: 0
+
+Effect: 3
+Param1: 921
+Param2: 0;
+
+/13
+Name: Небесная стража;
+GoldCost: 0
+GemCost: 50
+Sound: 61
+Karma: 1
+OnAlly: 1
+OnEnemy: 0
+Time: 0
+Cooldown: 10
+Event: 0
+ItemLevel: 3
+ItemRarity: 2
+
+Resource: (5)
+
+Effects:
+Effect: 25
+Param1: 1
+Param2: 0
+
+Effect: 19
+Param1: 1
+Param2: 0
+
+Effect: 3
+Param1: 923
+Param2: 0;
+
+/14
+Name: Помешательство;
+GoldCost: 0
+GemCost: 70
+Sound: 65
+Karma: 0
+OnAlly: 0
+OnEnemy: 1
+Time: 0
+Cooldown: 15
+Event: 924
+ItemLevel: 3
+ItemRarity: 2
+
+Resource: (5)
+
+Effects:
+Effect: 24
+Param1: 1
+Param2: 0;
+
+/15
+Name: Магический барьер;
+GoldCost: 0
+GemCost: 100
+Sound: 56
+Karma: 0
+OnAlly: 1
+OnEnemy: 0
+Time: 3
+Cooldown: 10
+Event: 0
+ItemLevel: 3
+ItemRarity: 2
+
+Resource: (5)
+
+Effects:
+Effect: 12
+Param1: 1
+Param2: 0;
+
+/16
+Name: Снежный буран;
+GoldCost: 0
+GemCost: 40
+Sound: 51
+Karma: -1
+OnAlly: 0
+OnEnemy: 1
+Time: 5
+Cooldown: 10
+Event: 154
+ItemLevel: 3
+ItemRarity: 2
+
+Resource: (5)
+
+Effects:
+Effect: 2
+Param1: -3
+Param2: 0
+
+Effect: 6
+Param1: -5
+Param2: 0
+
+Effect: 8
+Param1: 0
+Param2: 0;
+
+/17
+Name: Серный дождь;
+GoldCost: 0
+GemCost: 80
+Sound: 54
+Karma: -3
+OnAlly: 0
+OnEnemy: 1
+Time: 0
+Cooldown: 10
+Event: 150
+ItemLevel: 3
+ItemRarity: 2
+
+Resource: (5)
+
+Effects:
+Effect: 0
+Param1: 0
+Param2: 0;
+
+/18
+Name: Восстание нежити;
+GoldCost: 0
+GemCost: 50
+Sound: 69
+Karma: -3
+OnAlly: 0
+OnEnemy: 1
+Time: 0
+Cooldown: 10
+Event: 148
+ItemLevel: 3
+ItemRarity: 2
+
+Resource: (5)
+
+Effects:
+Effect: 0
+Param1: 0
+Param2: 0;
+
+/19
+Name: Дары Небес;
+GoldCost: 0
+GemCost: 100
+Sound: 73
+Karma: 0
+OnAlly: 1
+OnEnemy: 0
+Time: 0
+Cooldown: 20
+Event: 0
+ItemLevel: 4
+ItemRarity: 3
+
+Resource: (8)
+
+Effects:
+Effect: 3
+Param1: 925
+Param2: 0;
+
+/20
+Name: Астральные врата;
+GoldCost: 0
+GemCost: 100
+Sound: 90
+Karma: 0
+OnAlly: 1
+OnEnemy: 0
+Time: 0
+Cooldown: 15
+Event: 0
+ItemLevel: 4
+ItemRarity: 3
+
+Resource: (8)
+
+Effects:
+Effect: 18
+Param1: 1
+Param2: 0
+
+Effect: 20
+Param1: 1
+Param2: 0
+
+Effect: 5
+Param1: 512
+Param2: 0;
+
+/21
+Name: Башня Молний;
+GoldCost: 0
+GemCost: 50
+Sound: 86
+Karma: 0
+OnAlly: 1
+OnEnemy: 0
+Time: 0
+Cooldown: 10
+Event: 0
+ItemLevel: 3
+ItemRarity: 3
+
+Resource: (8)
+
+Effects:
+Effect: 22
+Param1: 1
+Param2: 0
+
+Effect: 23
+Param1: 32
+Param2: 0
+
+Effect: 3
+Param1: 931
+Param2: 0;
+
+/22
+Name: Пожар;
+GoldCost: 0
+GemCost: 120
+Sound: 79
+Karma: -4
+OnAlly: 0
+OnEnemy: 1
+Time: 0
+Cooldown: 10
+Event: 152
+ItemLevel: 4
+ItemRarity: 3
+
+Resource: (9)
+
+Effects:
+Effect: 0
+Param1: 0
+Param2: 0;
+
+/23
+Name: Нашествие демонов;
+GoldCost: 0
+GemCost: 100
+Sound: 82
+Karma: -5
+OnAlly: 0
+OnEnemy: 1
+Time: 0
+Cooldown: 10
+Event: 147
+ItemLevel: 4
+ItemRarity: 3
+
+Resource: (9)
+
+Effects:
+Effect: 0
+Param1: 0
+Param2: 0;
+
+/24
+Name: Поветрие;
+GoldCost: 0
+GemCost: 140
+Sound: 74
+Karma: -8
+OnAlly: 0
+OnEnemy: 1
+Time: 10
+Cooldown: 13
+Event: 149
+ItemLevel: 4
+ItemRarity: 3
+
+Resource: (9)
+
+Effects:
+Effect: 24
+Param1: 1
+Param2: 0
+
+Effect: 1
+Param1: -1
+Param2: 0
+
+Effect: 2
+Param1: -5
+Param2: 0;
+
+/25
+Name: Врата Хаоса;
+GoldCost: 0
+GemCost: 100
+Sound: 82
+Karma: -5
+OnAlly: 1
+OnEnemy: 1
+Time: 0
+Cooldown: 5
+Event: 0
+ItemLevel: 2
+ItemRarity: 2
+
+Resource: (9)
+
+Effects:
+Effect: 3
+Param1: 1264
+Param2: 0;
+
+/26
+Name: Врата Бездны;
+GoldCost: 0
+GemCost: 100
+Sound: 82
+Karma: -5
+OnAlly: 1
+OnEnemy: 0
+Time: 0
+Cooldown: 6
+Event: 0
+ItemLevel: 5
+ItemRarity: 4
+
+Resource: (9)
+
+Effects:
+Effect: 3
+Param1: 1265
+Param2: 0;
+
+/27
+Name: Зов Тьмы;
+GoldCost: 0
+GemCost: 45
+Sound: 259
+Karma: -2
+OnAlly: 1
+OnEnemy: 0
+Time: 0
+Cooldown: 9
+Event: 0
+ItemLevel: 3
+ItemRarity: 2
+
+Resource: (9)
+
+Effects:
+Effect: 20
+Param1: 1
+Param2: 0
+
+Effect: 5
+Param1: 1360
+Param2: 0;
+
+/28
+Name: Алтарь Смерти;
+GoldCost: 0
+GemCost: 75
+Sound: 224
+Karma: -3
+OnAlly: 1
+OnEnemy: 0
+Time: 0
+Cooldown: 5
+Event: 0
+ItemLevel: 5
+ItemRarity: 4
+
+Resource: (9, 9)
+
+Effects:
+Effect: 18
+Param1: 1
+Param2: 0
+
+Effect: 3
+Param1: 1344
+Param2: 0;
+
+/29
+Name: Мишень Братства;
+GoldCost: 0
+GemCost: 100
+Sound: 65
+Karma: -4
+OnAlly: 0
+OnEnemy: 1
+Time: 10
+Cooldown: 11
+Event: 1351
+ItemLevel: 4
+ItemRarity: 3
+
+Resource: (5)
+
+Effects:
+Effect: 24
+Param1: 1
+Param2: 0
+
+Effect: 1
+Param1: -1
+Param2: 0
+
+Effect: 2
+Param1: -2
+Param2: 0;
+
+/30
+Name: Кровавая длань;
+GoldCost: 0
+GemCost: 50
+Sound: 65
+Karma: -2
+OnAlly: 1
+OnEnemy: 0
+Time: 10
+Cooldown: 7
+Event: 0
+ItemLevel: 3
+ItemRarity: 2
+
+Resource: (5)
+
+Effects:
+Effect: 3
+Param1: 1355
+Param2: 0;
+
+/31
+Name: Астральный шпион;
+GoldCost: 0
+GemCost: 15
+Sound: 19
+Karma: 0
+OnAlly: 1
+OnEnemy: 0
+Time: 0
+Cooldown: 4
+Event: 0
+ItemLevel: 2
+ItemRarity: 1
+
+Resource: (0)
+
+Effects:
+Effect: 3
+Param1: 1669
+Param2: 0;
+
+/32
+Name: Призыв Икара;
+GoldCost: 0
+GemCost: 10
+Sound: 247
+Karma: 0
+OnAlly: 1
+OnEnemy: 0
+Time: 0
+Cooldown: 4
+Event: 0
+ItemLevel: 2
+ItemRarity: 1
+
+Resource: (0)
+
+Effects:
+Effect: 20
+Param1: 1
+Param2: 0
+
+Effect: 5
+Param1: 1418
+Param2: 0;
+
+/33
+Name: Святая обитель;
+GoldCost: 200
+GemCost: 40
+Sound: 73
+Karma: -1
+OnAlly: 1
+OnEnemy: 0
+Time: 0
+Cooldown: 10
+Event: 0
+ItemLevel: 5
+ItemRarity: 8
+
+Resource: (6, 7, 8)
+
+Effects:
+Effect: 19
+Param1: 0
+Param2: 0
+
+Effect: 3
+Param1: 1294
+Param2: 0;
+
+/34
+Name: Вызов кобольдов;
+GoldCost: 0
+GemCost: 12
+Sound: 19
+Karma: 0
+OnAlly: 1
+OnEnemy: 0
+Time: 0
+Cooldown: 3
+Event: 0
+ItemLevel: 5
+ItemRarity: 8
+
+Resource: (0)
+
+Effects:
+Effect: 20
+Param1: 1
+Param2: 0
+
+Effect: 5
+Param1: 1445
+Param2: 0;
+
+/35
+Name: Умиротворение;
+GoldCost: 0
+GemCost: 10
+Sound: 34
+Karma: 0
+OnAlly: 1
+OnEnemy: 0
+Time: 10
+Cooldown: 10
+Event: 0
+ItemLevel: 5
+ItemRarity: 8
+
+Resource: (0)
+
+Effects:
+Effect: 1
+Param1: 1
+Param2: 0;
+
+/36
+Name: Торги;
+GoldCost: 0
+GemCost: 20
+Sound: 34
+Karma: 0
+OnAlly: 1
+OnEnemy: 0
+Time: 0
+Cooldown: 4
+Event: 0
+ItemLevel: 5
+ItemRarity: 8
+
+Resource: (4)
+
+Effects:
+Effect: 24
+Param1: 1
+Param2: 0
+
+Effect: 3
+Param1: 1804
+Param2: 0;
+
+/37
+Name: Праздник урожая;
+GoldCost: 0
+GemCost: 20
+Sound: 34
+Karma: 0
+OnAlly: 1
+OnEnemy: 0
+Time: 10
+Cooldown: 10
+Event: 0
+ItemLevel: 5
+ItemRarity: 8
+
+Resource: (5)
+
+Effects:
+Effect: 6
+Param1: 6
+Param2: 2
+
+Effect: 3
+Param1: 1805
+Param2: 0;

@@ -1,0 +1,235 @@
+Quantity: 12
+
+/0
+Name: Пусто;
+Prov_Type: 0
+Gold income: 0
+Gem income: 0
+Karma: 0
+Corrupt: 0
+Grow: 0
+Terra: 0
+Unrest: 0
+Quests: (0)
+Plains: 0
+Forest: 0
+Hills: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+/1
+Name: Люди;
+Prov_Type: 1
+Gold income: 100
+Gem income: 100
+Karma: 0
+Corrupt: 10
+Grow: 100
+Terra: 0
+Unrest: 50
+Quests: (0)
+Plains: 100
+Forest: 100
+Hills: 100
+Swamp: 100
+Desert: 100
+Tundra: 100
+
+/2
+Name: Эльфы;
+Prov_Type: 9
+Gold income: 100
+Gem income: 150
+Karma: 100
+Corrupt: 5
+Grow: 20
+Terra: 2
+Unrest: 100
+Quests: (1)
+Plains: 0
+Forest: 30
+Hills: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+/3
+Name: Гномы;
+Prov_Type: 10
+Gold income: 180
+Gem income: 110
+Karma: 50
+Corrupt: 15
+Grow: 25
+Terra: 3
+Unrest: 100
+Quests: (2)
+Plains: 0
+Forest: 0
+Hills: 40
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+/4
+Name: Гоблины;
+Prov_Type: 4
+Gold income: 50
+Gem income: 70
+Karma: -60
+Corrupt: 20
+Grow: 160
+Terra: 4
+Unrest: 50
+Quests: (6)
+Plains: 0
+Forest: 5
+Hills: 0
+Swamp: 35
+Desert: 0
+Tundra: 20
+
+/5
+Name: Орки;
+Prov_Type: 6
+Gold income: 60
+Gem income: 20
+Karma: -80
+Corrupt: 8
+Grow: 150
+Terra: 3
+Unrest: 60
+Quests: (3)
+Plains: 20
+Forest: 0
+Hills: 35
+Swamp: 0
+Desert: 50
+Tundra: 50
+
+/6
+Name: Половинчики;
+Prov_Type: 8
+Gold income: 120
+Gem income: 100
+Karma: 60
+Corrupt: 10
+Grow: 90
+Terra: 0
+Unrest: 40
+Quests: (5)
+Plains: 30
+Forest: 0
+Hills: 25
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+/7
+Name: Кентавры;
+Prov_Type: 18
+Gold income: 90
+Gem income: 50
+Karma: 0
+Corrupt: 0
+Grow: 70
+Terra: 0
+Unrest: 150
+Quests: (4)
+Plains: 20
+Forest: 20
+Hills: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+/8
+Name: Людоящеры;
+Prov_Type: 24
+Gold income: 100
+Gem income: 100
+Karma: 0
+Corrupt: 9
+Grow: 100
+Terra: 4
+Unrest: 80
+Quests: (51)
+Plains: 0
+Forest: 0
+Hills: 0
+Swamp: 70
+Desert: 0
+Tundra: 0
+
+/9
+Name: Тёмные эльфы;
+Prov_Type: 25
+Gold income: 100
+Gem income: 150
+Karma: -70
+Corrupt: 12
+Grow: 45
+Terra: 3
+Unrest: 100
+Quests: (57)
+Plains: 0
+Forest: 0
+Hills: 30
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+/10
+Name: Гноллы;
+Prov_Type: 26
+Gold income: 60
+Gem income: 20
+Karma: -50
+Corrupt: 10
+Grow: 130
+Terra: 1
+Unrest: 75
+Quests: (58)
+Plains: 30
+Forest: 0
+Hills: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+/11
+Name: Алкари;
+Prov_Type: 27
+Gold income: 90
+Gem income: 110
+Karma: 100
+Corrupt: 0
+Grow: 120
+Terra: 1
+Unrest: 80
+Quests: (59)
+Plains: 30
+Forest: 0
+Hills: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+/12
+Name: Крысолюды;
+Prov_Type: 28
+Gold income: 50
+Gem income: 70
+Karma: 0
+Corrupt: 13
+Grow: 160
+Terra: 4
+Unrest: 50
+Quests: (60)
+Plains: 0
+Forest: 10
+Hills: 15
+Swamp: 20
+Desert: 10
+Tundra: 0

@@ -1,0 +1,298 @@
+Quantity: 23
+
+/0
+Name: Пусто;
+GoldSpent: 0
+GemSpent: 0
+Rarity: 0
+Effects:
+
+Effect: 0
+Power: 0;
+
+/1
+Name: Знак наёмника;
+GoldSpent: 0
+GemSpent: 0
+Rarity: 0
+Effects:
+
+GoldPayment: 85
+Power: 100
+
+Tolerance: 98
+Power: 1
+
+ReduceExp: 287
+Power: 50;
+
+/2
+Name: Медаль за Отвагу;
+GoldSpent: 3
+GemSpent: 0
+Rarity: 2
+Effects:
+
+Morale: 12
+Power: 5
+
+BloodRage: 211
+Power: 1;
+
+/3
+Name: Медаль за доблесть;
+GoldSpent: 4
+GemSpent: 0
+Rarity: 2
+Effects:
+
+Attack: 2
+Power: 3;
+
+/4
+Name: Медаль за рвение;
+GoldSpent: 4
+GemSpent: 0
+Rarity: 2
+Effects:
+
+Stamina: 11
+Power: 3
+
+Reinvigoration: 21
+Power: 1;
+
+/5
+Name: Медаль за стойкость;
+GoldSpent: 4
+GemSpent: 0
+Rarity: 2
+Effects:
+
+Life: 1
+Power: 5;
+
+/6
+Name: Медаль за меткость;
+GoldSpent: 5
+GemSpent: 0
+Rarity: 2
+Effects:
+
+AimedShot: 77
+Power: 2;
+
+/7
+Name: Орден Снайпера;
+GoldSpent: 10
+GemSpent: 0
+Rarity: 5
+Effects:
+
+RangedAttack: 8
+Power: 2
+
+Ammo: 10
+Power: 1;
+
+/8
+Name: Медаль Целителя;
+GoldSpent: 0
+GemSpent: 1
+Rarity: 2
+Effects:
+
+Healing: 24
+Power: 1
+
+First_Aid: 35
+Power: 1;
+
+/9
+Name: Орден за спасение погибавших;
+GoldSpent: 3
+GemSpent: 2
+Rarity: 5
+Effects:
+
+Healing: 24
+Power: 3;
+
+/10
+Name: Медаль за сноровку;
+GoldSpent: 4
+GemSpent: 0
+Rarity: 2
+Effects:
+
+RandedDefence: 5
+Power: 3;
+
+/11
+Name: Медаль за крепость;
+GoldSpent: 3
+GemSpent: 0
+Rarity: 2
+Effects:
+
+Defence: 4
+Power: 2;
+
+/12
+Name: Медаль за непоколебимость;
+GoldSpent: 3
+GemSpent: 0
+Rarity: 2
+Effects:
+
+Resist: 6
+Power: 2;
+
+/13
+Name: Орден Защитника;
+GoldSpent: 10
+GemSpent: 0
+Rarity: 4
+Effects:
+
+Defence: 4
+Power: 2
+
+RangedDefence: 5
+Power: 2
+
+Resist: 6
+Power: 2;
+
+/14
+Name: Крест Героя;
+GoldSpent: 10
+GemSpent: 0
+Rarity: 5
+Effects:
+
+Morale: 12
+Power: 6
+
+Feel_no_pain: 13
+Power: 1
+
+Smite_evil: 61
+Power: 2;
+
+/15
+Name: Крест Разрушителя;
+GoldSpent: 10
+GemSpent: 0
+Rarity: 5
+Effects:
+
+Morale: 12
+Power: 6
+
+Berserk: 25
+Power: 2
+
+Smite_good: 200
+Power: 2;
+
+/16
+Name: Звезда Разведчика;
+GoldSpent: 5
+GemSpent: 0
+Rarity: 2
+Effects:
+
+Forster: 32
+Power: 4
+
+Hiller: 33
+Power: 4
+
+Swamper: 34
+Power: 4;
+
+/17
+Name: Медаль за мастерство;
+GoldSpent: 2
+GemSpent: 0
+Rarity: 2
+Effects:
+
+Repair: 168
+Power: 2;
+
+/18
+Name: Орден Победителя;
+GoldSpent: 8
+GemSpent: 0
+Rarity: 5
+Effects:
+
+CounterAttack: 3
+Power: 4
+
+Damage_Weapon: 52
+Power: 2;
+
+/19
+Name: Сияющий вымпел;
+GoldSpent: 2
+GemSpent: 1
+Rarity: 2
+Effects:
+
+Enchanted_arrows: 60
+Power: 4;
+
+/20
+Name: Медаль за искусность;
+GoldSpent: 0
+GemSpent: 1
+Rarity: 2
+Effects:
+
+Energy_Control: 95
+Power: 1
+
+Skilled_Enchanter: 161
+Power: 1;
+
+/21
+Name: Звезда Магистра;
+GoldSpent: 5
+GemSpent: 2
+Rarity: 5
+Effects:
+
+RangedAttack: 8
+Power: 2
+
+Damage_Aura: 212
+Power: 2;
+
+/22
+Name: Знак Чародея;
+GoldSpent: 0
+GemSpent: 1
+Rarity: 2
+Effects:
+
+Ammo: 10
+Power: 1;
+
+/23
+Name: Орден Мага;
+GoldSpent: 0
+GemSpent: 4
+Rarity: 4
+Effects:
+
+SpellPower: 905
+Power: 1
+
+SpellDuration: 906
+Power: 1
+
+Summon: 907
+Power: 2;
