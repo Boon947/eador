@@ -1256,7 +1256,7 @@ Area: 0;
 Name: Мифрильные стрелы;
 Slot: 2
 Class: 3
-Durability: 15
+Durability: 20
 GoldCost: 80
 GemCost: 0
 ShopLevel: 4

@@ -1105,7 +1105,7 @@ Resource: (2, 2)
 
 Ability:
 Ability: 5
-Param1: 6
+Param1: 10
 Param2: 0
 
 Ability: 12
@@ -6845,6 +6845,10 @@ Param2: 0
 
 Ability: 47
 Param1: 10
+Param2: 0
+
+Ability: 27
+Param1: 38
 Param2: 0
 
 Ability: 12

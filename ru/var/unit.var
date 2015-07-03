@@ -1524,17 +1524,17 @@ Lvl 05 upgrades: (1, 4; 10, 3)
 Lvl 06 upgrades: (19, 3; 16, 4)
 Lvl 07 upgrades: (1, 4; 7, 4)
 Lvl 08 upgrades: (2, 4; 5, 4)
-Lvl 09 upgrades: (70, 3; 38, 3)
+Lvl 09 upgrades: (13, 3; 38, 3)
 Lvl 10 upgrades: (40, 3; 16, 4; 178, 5)
 Lvl 11 upgrades: (1, 4; 4, 4)
-Lvl 12 upgrades: (13, 4; 7, 4; 80, 4)
+Lvl 12 upgrades: (7, 4; 80, 4)
 Lvl 13 upgrades: (1, 4; 16, 4; 357, 8)
 Lvl 14 upgrades: (13, 4; 4, 4; 178, 10)
 Lvl 15 upgrades: (1, 4; 10, 4)
 Lvl 16 upgrades: (13, 4; 16, 4)
-Lvl 17 upgrades: (1, 4; 4, 4; 178, 15; 357, 11)
+Lvl 17 upgrades: (4, 4; 178, 15; 357, 11)
 Lvl 18 upgrades: (13, 4; 7, 4)
-Lvl 19 upgrades: (1, 4; 10, 4; 178, 20)
+Lvl 19 upgrades: (2, 4; 10, 4; 178, 20)
 Lvl 20 upgrades: (13, 4; 4, 4; 357, 15)
 
 Lvl 01 loot: (9, 5; 41, 3)
@@ -1601,8 +1601,8 @@ Lvl 05 upgrades: (2, 5; 4, 4)
 Lvl 06 upgrades: (2, 5; 13, 3)
 Lvl 07 upgrades: (2, 5; 7, 4)
 Lvl 08 upgrades: (2, 5; 16, 4)
-Lvl 09 upgrades: (2, 5; 4, 4)
-Lvl 10 upgrades: (2, 5; 80, 3; 106, 4; 179, 5)
+Lvl 09 upgrades: (2, 5; 4, 4; 70, 4)
+Lvl 10 upgrades: (2, 5; 106, 4; 179, 5)
 Lvl 11 upgrades: (2, 5; 7, 4)
 Lvl 12 upgrades: (2, 5; 10, 3)
 Lvl 13 upgrades: (3, 5; 4, 4)
@@ -1611,7 +1611,7 @@ Lvl 15 upgrades: (3, 5; 7, 4)
 Lvl 16 upgrades: (3, 5; 16, 3)
 Lvl 17 upgrades: (3, 5; 4, 4; 179, 15)
 Lvl 18 upgrades: (3, 5; 10, 3)
-Lvl 19 upgrades: (3, 5; 7, 4)
+Lvl 19 upgrades: (3, 5; 7, 4; 70, 4)
 Lvl 20 upgrades: (3, 5; 13, 3; 179, 25)
 
 Lvl 01 loot: (46, 1; 51, 3)
@@ -5086,16 +5086,16 @@ Lvl 05 upgrades: (2, 4; 16, 4)
 Lvl 06 upgrades: (4, 4; 7, 4)
 Lvl 07 upgrades: (2, 4; 10, 4; 13, 4)
 Lvl 08 upgrades: (4, 4; 16, 4)
-Lvl 09 upgrades: (2, 4; 7, 4; 631, 4)
-Lvl 10 upgrades: (4, 4; 56, 4; 579, 4)
+Lvl 09 upgrades: (2, 4; 7, 4; 579, 6)
+Lvl 10 upgrades: (4, 4; 56, 4)
 Lvl 11 upgrades: (2, 4; 16, 4; 13, 4)
-Lvl 12 upgrades: (5, 4; 7, 7)
+Lvl 12 upgrades: (5, 4; 7, 7; 631, 4)
 Lvl 13 upgrades: (2, 4; 10, 4)
-Lvl 14 upgrades: (5, 4; 17, 4; 631, 5)
+Lvl 14 upgrades: (5, 4; 17, 4)
 Lvl 15 upgrades: (3, 4; 8, 4; 13, 4)
 Lvl 16 upgrades: (5, 4; 11, 4)
 Lvl 17 upgrades: (3, 4; 17, 4)
-Lvl 18 upgrades: (5, 4; 8, 4; 631, 5)
+Lvl 18 upgrades: (5, 4; 8, 4; 631, 4)
 Lvl 19 upgrades: (3, 4; 11, 4; 13, 4)
 Lvl 20 upgrades: (5, 4; 17, 4)
 
@@ -5224,7 +5224,7 @@ GoldPayment: 90
 GemPayment: 0
 Race: 2
 UnitKind: 1
-UnitClass: 2
+UnitClass: 6
 Karma: -1
 SoundHit: 150
 SoundShoot: 151
@@ -5718,9 +5718,7 @@ Resource: (4, 7, 9)
 Abilityes:
 First_Strike: 46
 Piercing_Strike: 129
-Aard: 156
-Igni: 157
-Quen: 158;
+Signs: 156;
 		
 Lvl 01 upgrades: (1, 3; 4, 3; 10, 3; 7, 3)
 Lvl 02 upgrades: (1, 3; 5, 3; 13, 3; 127, 4)
@@ -7234,25 +7232,25 @@ Lesser_Undead: 61
 Fear: 80
 Skeletal: 576;
 		
-Lvl 01 upgrades: (4, 3; 1, 4; 13, 3)
+Lvl 01 upgrades: (4, 3; 13, 3)
 Lvl 02 upgrades: (1, 4; 16, 4; 10, 4)
-Lvl 03 upgrades: (1, 4; 7, 4; 20, 4)
+Lvl 03 upgrades: (7, 4; 20, 4)
 Lvl 04 upgrades: (4, 3; 13, 3)
 Lvl 05 upgrades: (1, 4; 10, 3; 27, 3)
 Lvl 06 upgrades: (4, 3; 16, 4; 626, 1)
 Lvl 07 upgrades: (1, 4; 7, 4; 20, 4)
 Lvl 08 upgrades: (2, 4; 5, 4; 80, 3)
-Lvl 09 upgrades: (70, 3; 38, 3)
+Lvl 09 upgrades: (13, 3; 38, 3)
 Lvl 10 upgrades: (40, 3; 16, 4; 23, 3)
 Lvl 11 upgrades: (1, 4; 4, 4; 20, 4)
 Lvl 12 upgrades: (13, 4; 7, 4; 27, 3)
 Lvl 13 upgrades: (1, 4; 16, 4; 114, 4)
 Lvl 14 upgrades: (13, 4; 4, 4; 21, 4)
-Lvl 15 upgrades: (1, 4; 10, 4; 627, 2)
+Lvl 15 upgrades: (2, 4; 10, 4; 627, 2)
 Lvl 16 upgrades: (13, 4; 16, 4)
-Lvl 17 upgrades: (1, 4; 4, 4; 21, 4)
+Lvl 17 upgrades: (4, 4; 21, 4)
 Lvl 18 upgrades: (13, 4; 7, 4; 27, 3)
-Lvl 19 upgrades: (1, 4; 10, 4)
+Lvl 19 upgrades: (2, 4; 10, 4)
 Lvl 20 upgrades: (13, 4; 4, 4; 22, 4)
 
 Lvl 01 loot: (9, 5; 41, 3)
@@ -10420,7 +10418,7 @@ Regeneration: 98
 Poison: 78
 Ericuba: 431
 Eat_friends: 255
-Furious_Rage_30: 622;
+Furious_Rage_10: 734;
 		
 Lvl 01 upgrades: (3, 4; 4, 4; 151, 6; 31, 4)
 Lvl 02 upgrades: (31, 4; 7, 4; 10, 4; 13, 4)
@@ -10430,7 +10428,7 @@ Lvl 05 upgrades: (36, 4; 4, 4; 13, 4; 140, 4)
 Lvl 06 upgrades: (31, 4; 7, 4; 16, 4; 132, 4)
 Lvl 07 upgrades: (3, 4; 4, 4; 10, 4; 488, 4)
 Lvl 08 upgrades: (36, 4; 7, 4; 13, 4; 98, 4)
-Lvl 09 upgrades: (3, 4; 38, 4; 27, 3)
+Lvl 09 upgrades: (3, 4; 38, 4; 27, 3; 623, 2)
 Lvl 10 upgrades: (31, 4; 7, 4; 10, 4; 140, 4)
 Lvl 11 upgrades: (36, 4; 5, 4; 13, 4; 132, 4)
 Lvl 12 upgrades: (32, 4; 38, 4; 16, 4; 98, 4)
@@ -10440,7 +10438,7 @@ Lvl 15 upgrades: (25, 4; 38, 4; 34, 4; 140, 4)
 Lvl 16 upgrades: (32, 4; 6, 4; 40, 4; 98, 4)
 Lvl 17 upgrades: (37, 4; 8, 4; 14, 4; 27, 3)
 Lvl 18 upgrades: (32, 4; 38, 4; 16, 4; 132, 4)
-Lvl 19 upgrades: (25, 4; 8, 4; 14, 4)
+Lvl 19 upgrades: (25, 4; 8, 4; 14, 4; 623, 3)
 Lvl 20 upgrades: (37, 4; 6, 4; 11, 4; 140, 4)
 
 Lvl 01 loot: (586, 5)
@@ -13564,15 +13562,15 @@ Fear: 80
 Skeletal: 576
 Round_attack: 108;
 		
-Lvl 01 upgrades: (4, 3; 1, 4; 13, 3)
+Lvl 01 upgrades: (4, 3; 13, 3)
 Lvl 02 upgrades: (1, 4; 16, 4; 10, 4)
-Lvl 03 upgrades: (1, 4; 7, 4; 80, 4)
+Lvl 03 upgrades: (7, 4; 80, 4)
 Lvl 04 upgrades: (4, 3; 13, 3)
 Lvl 05 upgrades: (1, 4; 10, 3)
 Lvl 06 upgrades: (19, 3; 16, 4)
 Lvl 07 upgrades: (1, 4; 7, 4)
 Lvl 08 upgrades: (2, 4; 5, 4)
-Lvl 09 upgrades: (70, 3; 38, 3)
+Lvl 09 upgrades: (13, 3; 38, 3)
 Lvl 10 upgrades: (40, 3; 16, 4)
 Lvl 11 upgrades: (1, 4; 4, 4; 570, 3)
 Lvl 12 upgrades: (13, 4; 7, 4)
@@ -13580,9 +13578,9 @@ Lvl 13 upgrades: (1, 4; 16, 4)
 Lvl 14 upgrades: (13, 4; 4, 4)
 Lvl 15 upgrades: (1, 4; 10, 4)
 Lvl 16 upgrades: (13, 4; 16, 4)
-Lvl 17 upgrades: (1, 4; 4, 4; 80, 4)
+Lvl 17 upgrades: (4, 4; 80, 4)
 Lvl 18 upgrades: (13, 4; 7, 4)
-Lvl 19 upgrades: (1, 4; 10, 4)
+Lvl 19 upgrades: (2, 4; 10, 4)
 Lvl 20 upgrades: (13, 4; 4, 4)
 
 Lvl 01 loot: (9, 5; 41, 3)
@@ -13771,7 +13769,7 @@ Lvl 20 loot: (0, 0)
 Name: Чёрный рыцарь;
 Level: 3
 Life: 40
-Attack: 15
+Attack: 13
 CounterAttack: 13
 Defence: 3
 RangedDefence: 6
@@ -13804,10 +13802,11 @@ Charge_2: 324
 Undead: 61
 Soul_stealing: 102
 Cast_Armor_Wear: 388
-Armor_Pierce: 69;
+Armor_Pierce: 69
+Smite_Good: 571;
 		
 Lvl 01 upgrades: (2, 4; 4, 4; 10, 4)
-Lvl 02 upgrades: (7, 4; 13, 4; 572, 4)
+Lvl 02 upgrades: (7, 4; 13, 4; 570, 4)
 Lvl 03 upgrades: (2, 4; 4, 4; 16, 4)
 Lvl 04 upgrades: (7, 4; 10, 4; 131, 4)
 Lvl 05 upgrades: (4, 4; 40, 4)
@@ -13816,14 +13815,14 @@ Lvl 07 upgrades: (2, 4; 4, 4; 10, 4)
 Lvl 08 upgrades: (7, 4; 13, 4; 131, 4)
 Lvl 09 upgrades: (2, 4; 38, 4; 16, 4)
 Lvl 10 upgrades: (7, 4; 40, 4; 708, 3)
-Lvl 11 upgrades: (5, 4; 14, 4)
+Lvl 11 upgrades: (5, 4; 14, 4; 570, 4)
 Lvl 12 upgrades: (38, 4; 46, 4; 131, 4)
 Lvl 13 upgrades: (3, 4; 5, 4; 11, 4)
 Lvl 14 upgrades: (8, 4; 40, 4; 29, 4)
 Lvl 15 upgrades: (3, 4; 38, 4; 43, 4)
 Lvl 16 upgrades: (6, 4; 41, 3; 131, 4)
 Lvl 17 upgrades: (8, 4; 56, 4)
-Lvl 18 upgrades: (38, 4; 11, 4)
+Lvl 18 upgrades: (38, 4; 11, 4; 570, 4)
 Lvl 19 upgrades: (3, 4; 8, 4; 14, 4)
 Lvl 20 upgrades: (6, 4; 41, 4; 131, 4)
 
@@ -14653,7 +14652,7 @@ Lvl 19 loot: (0, 0)
 Lvl 20 loot: (0, 0)
 
 /184
-Name: Скорпион;
+Name: "Скорпион";
 Level: 3
 Life: 31
 Attack: 0
@@ -15425,8 +15424,8 @@ Lvl 07 upgrades: (1, 4; 7, 4; 73, 5)
 Lvl 08 upgrades: (2, 4; 5, 4; 80, 4)
 Lvl 09 upgrades: (38, 3; 7, 4; 13, 3)
 Lvl 10 upgrades: (40, 3; 16, 4; 704, 4)
-Lvl 11 upgrades: (1, 4; 4, 4; 70, 5)
-Lvl 12 upgrades: (13, 4; 7, 4; 108, 4)
+Lvl 11 upgrades: (1, 4; 4, 4; 108, 5)
+Lvl 12 upgrades: (13, 4; 7, 4)
 Lvl 13 upgrades: (2, 4; 16, 4)
 Lvl 14 upgrades: (13, 4; 4, 4; 7, 4)
 Lvl 15 upgrades: (2, 4; 10, 4; 570, 4)
@@ -15741,7 +15740,7 @@ Lvl 01 upgrades: (1, 4; 20, 4; 7, 3; 34, 4)
 Lvl 02 upgrades: (30, 4; 16, 4; 10, 3)
 Lvl 03 upgrades: (1, 4; 27, 4; 4, 3; 150, 5)
 Lvl 04 upgrades: (30, 4; 20, 4; 13, 3; 52, 4)
-Lvl 05 upgrades: (1, 4; 16, 4; 7, 3)
+Lvl 05 upgrades: (1, 4; 16, 4; 7, 3; 656, 4)
 Lvl 06 upgrades: (30, 4; 27, 4; 10, 3; 57, 4)
 Lvl 07 upgrades: (1, 4; 20, 4; 4, 3; 150, 5)
 Lvl 08 upgrades: (30, 4; 16, 4; 13, 3)
@@ -15749,7 +15748,7 @@ Lvl 09 upgrades: (1, 4; 27, 4; 7, 3; 34, 4)
 Lvl 10 upgrades: (30, 4; 20, 4; 10, 3; 23, 4)
 Lvl 11 upgrades: (1, 4; 16, 4; 4, 3; 150, 5)
 Lvl 12 upgrades: (30, 4; 27, 4; 13, 3; 52, 4)
-Lvl 13 upgrades: (1, 4; 20, 4; 7, 3)
+Lvl 13 upgrades: (1, 4; 20, 4; 7, 3; 657, 4)
 Lvl 14 upgrades: (31, 4; 16, 4; 10, 3)
 Lvl 15 upgrades: (2, 4; 27, 4; 4, 3; 150, 5)
 Lvl 16 upgrades: (31, 4; 21, 4; 13, 3)
@@ -15816,22 +15815,22 @@ Magic_shot: 58
 Energy_Control: 425
 Meditation: 52;
 		
-Lvl 01 upgrades: (1, 4; 20, 4; 16, 4; 150, 4)
+Lvl 01 upgrades: (1, 4; 20, 4; 16, 4; 150, 4; 656, 4)
 Lvl 02 upgrades: (30, 4; 27, 4; 34, 4; 57, 4)
 Lvl 03 upgrades: (1, 4; 20, 4; 7, 4; 52, 4)
 Lvl 04 upgrades: (30, 4; 13, 4; 16, 4)
 Lvl 05 upgrades: (1, 4; 20, 4; 150, 4)
-Lvl 06 upgrades: (30, 4; 27, 4; 4, 4)
+Lvl 06 upgrades: (30, 4; 27, 4; 4, 4; 657, 4)
 Lvl 07 upgrades: (1, 4; 20, 4; 16, 4)
 Lvl 08 upgrades: (30, 4; 10, 4; 34, 4; 150, 4)
 Lvl 09 upgrades: (1, 4; 20, 4; 7, 4; 52, 4)
 Lvl 10 upgrades: (31, 4; 27, 4; 16, 4; 23, 4)
-Lvl 11 upgrades: (1, 4; 20, 4; 150, 4)
+Lvl 11 upgrades: (1, 4; 20, 4; 150, 4; 657, 4)
 Lvl 12 upgrades: (31, 4; 13, 4; 4, 4)
 Lvl 13 upgrades: (2, 4; 21, 4; 17, 4)
 Lvl 14 upgrades: (31, 4; 27, 4; 42, 4; 150, 4)
 Lvl 15 upgrades: (2, 4; 21, 4; 7, 4; 52, 4)
-Lvl 16 upgrades: (31, 4; 10, 4; 42, 4)
+Lvl 16 upgrades: (31, 4; 10, 4; 42, 4; 657, 4)
 Lvl 17 upgrades: (2, 4; 21, 4; 34, 4; 150, 4)
 Lvl 18 upgrades: (31, 4; 27, 4; 4, 4; 23, 4)
 Lvl 19 upgrades: (2, 4; 21, 4; 17, 4; 52, 4)
@@ -15893,28 +15892,29 @@ Resource: (5, 5, 9)
 Abilityes:
 Magic_shot: 58
 Energy_Control: 426
-Meditation: 52;
+Meditation: 52
+Damage_Aura_Shoot: 656;
 		
 Lvl 01 upgrades: (1, 4; 20, 4; 16, 4; 27, 3; 150, 4)
 Lvl 02 upgrades: (30, 4; 27, 4; 34, 4; 57, 4)
-Lvl 03 upgrades: (1, 4; 20, 4; 7, 4; 52, 4)
+Lvl 03 upgrades: (1, 4; 20, 4; 7, 4; 52, 4; 657, 4)
 Lvl 04 upgrades: (30, 4; 13, 4; 16, 4; 150, 4)
 Lvl 05 upgrades: (1, 4; 20, 4; 548, 2)
 Lvl 06 upgrades: (30, 4; 27, 4; 4, 4; 52, 4)
 Lvl 07 upgrades: (1, 4; 20, 4; 17, 4; 428, 6)
 Lvl 08 upgrades: (31, 4; 10, 4; 34, 4; 150, 4)
-Lvl 09 upgrades: (2, 4; 21, 4; 7, 4; 52, 4)
+Lvl 09 upgrades: (2, 4; 21, 4; 7, 4; 52, 4; 657, 4)
 Lvl 10 upgrades: (31, 4; 27, 4; 16, 4; 23, 4)
 Lvl 11 upgrades: (2, 4; 21, 4; 150, 4)
 Lvl 12 upgrades: (31, 4; 13, 4; 4, 4; 52, 4)
 Lvl 13 upgrades: (2, 4; 21, 4; 17, 4; 548, 4)
-Lvl 14 upgrades: (31, 4; 28, 4; 42, 4; 150, 4)
+Lvl 14 upgrades: (31, 4; 28, 4; 42, 4; 657, 4)
 Lvl 15 upgrades: (2, 4; 21, 4; 7, 4; 52, 4)
 Lvl 16 upgrades: (31, 4; 10, 4; 42, 4)
 Lvl 17 upgrades: (2, 4; 21, 4; 34, 4; 150, 4)
 Lvl 18 upgrades: (31, 4; 28, 4; 4, 4; 52, 4)
 Lvl 19 upgrades: (2, 4; 22, 4; 17, 4; 23, 4)
-Lvl 20 upgrades: (31, 4; 13, 4; 43, 4; 150, 4)
+Lvl 20 upgrades: (31, 4; 13, 4; 43, 4; 657, 4)
 
 Lvl 01 loot: (8, 4; 40, 4; 66, 3; 625, 5)
 Lvl 02 loot: (70, 2; 83, 2; 95, 2; 112, 1)
@@ -15973,27 +15973,28 @@ Abilityes:
 Magic_Shot: 58
 Meditation: 52
 Energy_Control: 427
-Strong_slow: 428;
+Strong_slow: 428
+Damage_Aura_Shoot: 656;
 		
 Lvl 01 upgrades: (1, 4; 7, 3; 20, 4; 34, 4; 548, 1)
-Lvl 02 upgrades: (30, 4; 16, 4; 10, 3; 150, 4)
+Lvl 02 upgrades: (30, 4; 16, 4; 10, 3; 150, 4; 657, 4)
 Lvl 03 upgrades: (1, 4; 27, 4; 4, 3; 52, 4)
 Lvl 04 upgrades: (30, 4; 20, 4; 13, 3; 150, 4)
 Lvl 05 upgrades: (1, 4; 16, 4; 7, 3; 548, 4)
 Lvl 06 upgrades: (30, 4; 27, 4; 10, 3; 57, 4)
-Lvl 07 upgrades: (1, 4; 50, 6; 4, 3; 52, 4)
+Lvl 07 upgrades: (1, 4; 50, 6; 4, 3; 52, 4; 657, 4)
 Lvl 08 upgrades: (30, 4; 16, 4; 13, 3; 150, 4)
 Lvl 09 upgrades: (1, 4; 27, 4; 7, 3; 34, 4; 548, 4)
 Lvl 10 upgrades: (30, 4; 20, 4; 10, 3; 23, 2)
-Lvl 11 upgrades: (2, 4; 16, 4; 4, 3; 52, 4)
+Lvl 11 upgrades: (2, 4; 16, 4; 4, 3; 52, 4; 657, 4)
 Lvl 12 upgrades: (30, 4; 27, 4; 13, 3; 150, 4)
 Lvl 13 upgrades: (2, 4; 20, 4; 7, 3; 548, 4)
 Lvl 14 upgrades: (31, 4; 16, 4; 10, 3; 150, 4)
-Lvl 15 upgrades: (2, 4; 27, 4; 4, 3; 52, 4)
+Lvl 15 upgrades: (2, 4; 27, 4; 4, 3; 52, 4; 657, 4)
 Lvl 16 upgrades: (31, 4; 20, 4; 13, 3; 150, 4)
 Lvl 17 upgrades: (2, 4; 17, 4; 7, 3; 34, 4; 548, 4)
 Lvl 18 upgrades: (31, 4; 27, 4; 10, 3; 23, 4)
-Lvl 19 upgrades: (2, 4; 21, 4; 4, 3; 150, 4)
+Lvl 19 upgrades: (2, 4; 21, 4; 4, 3; 150, 4; 657, 4)
 Lvl 20 upgrades: (31, 4; 17, 4; 13, 3; 52, 4)
 
 Lvl 01 loot: (2, 3; 6, 4; 64, 2; 626, 2)
@@ -16533,10 +16534,10 @@ Word_of_Lord: 599
 NaturalAmmo: 636
 Thorns_2: 705;
 		
-Lvl 01 upgrades: (2, 4; 4, 3; 13, 3; 70, 5)
-Lvl 02 upgrades: (2, 4; 16, 4; 10, 4; 570, 4)
+Lvl 01 upgrades: (2, 4; 4, 3; 13, 3)
+Lvl 02 upgrades: (2, 4; 16, 4; 10, 4)
 Lvl 03 upgrades: (2, 4; 7, 4; 108, 5)
-Lvl 04 upgrades: (4, 3; 13, 3; 570, 4)
+Lvl 04 upgrades: (4, 3; 13, 3; 571, 4)
 Lvl 05 upgrades: (2, 4; 7, 4; 10, 3; 704, 4)
 Lvl 06 upgrades: (4, 4; 16, 4; 52, 4)
 Lvl 07 upgrades: (2, 4; 7, 4; 13, 3)
@@ -17643,15 +17644,15 @@ Resource: (0)
 Abilityes:
 Rat_man: 489
 Tolerance: 538
-Furious_Rage_30: 622;
+Furious_Rage_5: 622;
 		
 Lvl 01 upgrades: (1, 4; 30, 2; 4, 2)
 Lvl 02 upgrades: (30, 3; 10, 3)
 Lvl 03 upgrades: (1, 4; 7, 3; 500, 4)
 Lvl 04 upgrades: (4, 4; 16, 3)
-Lvl 05 upgrades: (1, 4; 13, 3; 623, 4)
+Lvl 05 upgrades: (1, 4; 13, 3)
 Lvl 06 upgrades: (30, 4; 486, 5)
-Lvl 07 upgrades: (1, 4; 4, 4)
+Lvl 07 upgrades: (1, 4; 4, 4; 623, 3)
 Lvl 08 upgrades: (10, 3; 501, 4)
 Lvl 09 upgrades: (1, 4; 13, 3; 34, 2)
 Lvl 10 upgrades: (30, 4; 4, 4)
@@ -17659,12 +17660,12 @@ Lvl 11 upgrades: (1, 4; 19, 3)
 Lvl 12 upgrades: (7, 3; 16, 3)
 Lvl 13 upgrades: (1, 4; 4, 4; 499, 6)
 Lvl 14 upgrades: (30, 4; 10, 3; 56, 2)
-Lvl 15 upgrades: (1, 4; 46, 3; 623, 4)
+Lvl 15 upgrades: (1, 4; 46, 3)
 Lvl 16 upgrades: (30, 4; 4, 4)
 Lvl 17 upgrades: (2, 4; 13, 3)
 Lvl 18 upgrades: (7, 3; 16, 3)
-Lvl 19 upgrades: (2, 4; 4, 4)
-Lvl 20 upgrades: (36, 4; 10, 3)
+Lvl 19 upgrades: (2, 4; 4, 4; 623, 4)
+Lvl 20 upgrades: (36, 4; 10, 3; 28, 5)
 
 Lvl 01 loot: (1, 6; 51, 2)
 Lvl 02 loot: (0, 0)
@@ -17724,7 +17725,7 @@ Rat_man: 489
 Landwalker: 257
 Poison_Attack: 71
 Animal: 430
-Furious_Rage_30: 622;
+Furious_Rage_5: 622;
 		
 Lvl 01 upgrades: (1, 4; 30, 4; 4, 4; 7, 2)
 Lvl 02 upgrades: (1, 4; 16, 3; 7, 2; 501, 4)
@@ -17732,10 +17733,10 @@ Lvl 03 upgrades: (2, 3; 30, 4; 140, 3)
 Lvl 04 upgrades: (2, 3; 4, 4; 13, 2)
 Lvl 05 upgrades: (36, 2; 10, 2; 500, 4)
 Lvl 06 upgrades: (1, 4; 7, 4; 487, 5)
-Lvl 07 upgrades: (2, 3; 34, 3; 623, 4)
+Lvl 07 upgrades: (2, 3; 34, 3)
 Lvl 08 upgrades: (80, 4; 140, 4)
 Lvl 09 upgrades: (5, 4; 7, 4; 19, 3)
-Lvl 10 upgrades: (2, 3; 13, 3)
+Lvl 10 upgrades: (2, 3; 13, 3; 623, 4)
 Lvl 11 upgrades: (36, 4; 16, 3)
 Lvl 12 upgrades: (7, 4; 501, 4)
 Lvl 13 upgrades: (2, 3; 10, 3)
@@ -17743,7 +17744,7 @@ Lvl 14 upgrades: (5, 4; 27, 3)
 Lvl 15 upgrades: (34, 4; 7, 4)
 Lvl 16 upgrades: (2, 3; 81, 3)
 Lvl 17 upgrades: (36, 4; 140, 4)
-Lvl 18 upgrades: (7, 4; 623, 4)
+Lvl 18 upgrades: (7, 4; 623, 3)
 Lvl 19 upgrades: (5, 4; 2, 3; 27, 3)
 Lvl 20 upgrades: (3, 9; 17, 9)
 
@@ -17805,27 +17806,27 @@ Rat_man: 489
 Swamp_dweller: 488
 Plague_Warrior: 539
 War_bottle: 490
-Furious_Rage_30: 622;
+Furious_Rage_5: 622;
 		
 Lvl 01 upgrades: (1, 4; 4, 4; 34, 3; 57, 2)
 Lvl 02 upgrades: (7, 4; 30, 4; 140, 4)
 Lvl 03 upgrades: (1, 4; 13, 3; 28, 1)
 Lvl 04 upgrades: (4, 4; 16, 4; 501, 5)
 Lvl 05 upgrades: (1, 4; 7, 4)
-Lvl 06 upgrades: (4, 4; 10, 3; 623, 4)
+Lvl 06 upgrades: (4, 4; 10, 3)
 Lvl 07 upgrades: (1, 4; 30, 4; 72, 5)
-Lvl 08 upgrades: (7, 4; 28, 3)
+Lvl 08 upgrades: (7, 4; 28, 3; 623, 4)
 Lvl 09 upgrades: (1, 4; 4, 4; 140, 4)
 Lvl 10 upgrades: (16, 4; 34, 3)
 Lvl 11 upgrades: (1, 4; 4, 4; 19, 3)
 Lvl 12 upgrades: (7, 4; 30, 4; 501, 5)
 Lvl 13 upgrades: (1, 4; 4, 4; 548, 1)
-Lvl 14 upgrades: (13, 3; 623, 4)
-Lvl 15 upgrades: (1, 4; 7, 4; 16, 4)
+Lvl 14 upgrades: (13, 3; 16, 4)
+Lvl 15 upgrades: (1, 4; 7, 4)
 Lvl 16 upgrades: (5, 4; 10, 3; 30, 4)
 Lvl 17 upgrades: (2, 4; 34, 3; 140, 4)
 Lvl 18 upgrades: (8, 4; 31, 4; 28, 4)
-Lvl 19 upgrades: (2, 4; 5, 4; 7, 4)
+Lvl 19 upgrades: (2, 4; 5, 4; 7, 4; 623, 4)
 Lvl 20 upgrades: (16, 4; 36, 4; 42, 4)
 
 Lvl 01 loot: (1, 3; 5, 4; 63, 3)
@@ -17885,28 +17886,28 @@ Abilityes:
 Rat_man: 489
 Hill_dweller: 487
 Driller: 540
-Furious_Rage_30: 622;
+Furious_Rage_5: 622;
 		
-Lvl 01 upgrades: (1, 4; 4, 4; 30, 1; 16, 1; 27, 2)
+Lvl 01 upgrades: (1, 4; 4, 4; 30, 1; 16, 1)
 Lvl 02 upgrades: (30, 3; 10, 3; 20, 4)
 Lvl 03 upgrades: (1, 4; 7, 4; 500, 4)
 Lvl 04 upgrades: (30, 4; 13, 3; 27, 4)
-Lvl 05 upgrades: (1, 4; 34, 4; 20, 4)
+Lvl 05 upgrades: (1, 4; 34, 4; 466, 5)
 Lvl 06 upgrades: (30, 4; 16, 3; 4, 4)
-Lvl 07 upgrades: (1, 4; 7, 4; 623, 4)
-Lvl 08 upgrades: (30, 4; 10, 3; 21, 4)
+Lvl 07 upgrades: (1, 4; 7, 4; 20, 4)
+Lvl 08 upgrades: (30, 4; 10, 3)
 Lvl 09 upgrades: (1, 4; 34, 4; 7, 4; 501, 4)
-Lvl 10 upgrades: (30, 4; 13, 3; 27, 4; 497, 5)
-Lvl 11 upgrades: (1, 4; 20, 4)
+Lvl 10 upgrades: (30, 4; 13, 3; 27, 4; 623, 4)
+Lvl 11 upgrades: (1, 4; 20, 4; 469, 4)
 Lvl 12 upgrades: (30, 4; 16, 3; 4, 4)
 Lvl 13 upgrades: (1, 4; 34, 4; 23, 5)
 Lvl 14 upgrades: (30, 4; 10, 3; 21, 4)
-Lvl 15 upgrades: (2, 4; 35, 4; 7, 4; 623, 4)
-Lvl 16 upgrades: (31, 4; 13, 3; 38, 3)
-Lvl 17 upgrades: (2, 4; 42, 4; 20, 4)
+Lvl 15 upgrades: (2, 4; 35, 4; 7, 4)
+Lvl 16 upgrades: (31, 4; 13, 3; 38, 3; 469, 4)
+Lvl 17 upgrades: (2, 4; 42, 4; 21, 4)
 Lvl 18 upgrades: (36, 4; 16, 3; 27, 4)
-Lvl 19 upgrades: (2, 4; 42, 4; 5, 4)
-Lvl 20 upgrades: (36, 4; 40, 3; 21, 4)
+Lvl 19 upgrades: (2, 4; 42, 4; 5, 4; 623, 3)
+Lvl 20 upgrades: (36, 4; 40, 3; 21, 4; 469, 4)
 
 Lvl 01 loot: (33, 6; 46, 3; 55, 2)
 Lvl 02 loot: (47, 3)
@@ -17967,7 +17968,7 @@ Forester: 486
 Shadow_claw: 541
 Aimed_shot: 130
 Parry: 83
-Furious_Rage_30: 622;
+Furious_Rage_5: 622;
 		
 Lvl 01 upgrades: (1, 4; 4, 4; 13, 4; 20, 4; 140, 4)
 Lvl 02 upgrades: (30, 4; 7, 4; 16, 4; 73, 2; 500, 4)
@@ -18047,7 +18048,8 @@ Abilityes:
 Cannibal_5: 535
 Hill_dweller: 487
 Poison_Shot2: 151
-Tolerance: 538;
+Tolerance: 538
+Furious_Rage_5: 622;
 		
 Lvl 01 upgrades: (1, 4; 4, 3; 30, 1; 16, 1)
 Lvl 02 upgrades: (30, 3; 7, 4; 10, 3; 20, 4)
@@ -18059,7 +18061,7 @@ Lvl 07 upgrades: (1, 4; 7, 4; 132, 4)
 Lvl 08 upgrades: (30, 4; 10, 3; 20, 4)
 Lvl 09 upgrades: (1, 4; 34, 4; 692, 5)
 Lvl 10 upgrades: (30, 4; 13, 3; 27, 4)
-Lvl 11 upgrades: (1, 4; 4, 3; 21, 3)
+Lvl 11 upgrades: (1, 4; 4, 3; 21, 3; 623, 4)
 Lvl 12 upgrades: (30, 4; 7, 4; 16, 3; 23, 4)
 Lvl 13 upgrades: (2, 4; 34, 4; 500, 5)
 Lvl 14 upgrades: (30, 4; 10, 3; 20, 4; 692, 5)
@@ -18208,7 +18210,7 @@ Hill_dweller: 487
 Heavy_Ammo: 506
 Tolerance: 538
 DoubleShot: 601
-Furious_Rage_30: 622;
+Furious_Rage_5: 622;
 		
 Lvl 01 upgrades: (1, 4; 30, 1; 16, 1; 27, 4)
 Lvl 02 upgrades: (30, 3; 10, 3; 20, 4)
@@ -18223,10 +18225,10 @@ Lvl 10 upgrades: (30, 4; 13, 3; 27, 4)
 Lvl 11 upgrades: (2, 4; 20, 4)
 Lvl 12 upgrades: (30, 4; 16, 3; 4, 3)
 Lvl 13 upgrades: (2, 4; 28, 4; 507, 3)
-Lvl 14 upgrades: (31, 4; 10, 3; 21, 4; 623, 4)
+Lvl 14 upgrades: (31, 4; 10, 3; 21, 4)
 Lvl 15 upgrades: (2, 4; 34, 4; 7, 4; 500, 4)
 Lvl 16 upgrades: (31, 4; 13, 3; 38, 1; 488, 4)
-Lvl 17 upgrades: (2, 4; 42, 4; 21, 4)
+Lvl 17 upgrades: (2, 4; 42, 4; 21, 4; 623, 4)
 Lvl 18 upgrades: (36, 4; 16, 3; 28, 4)
 Lvl 19 upgrades: (2, 4; 42, 4; 4, 3; 23, 4)
 Lvl 20 upgrades: (36, 4; 40, 3; 21, 4; 507, 4)
@@ -18289,29 +18291,29 @@ Hill_dweller: 487
 Rat_ogre: 508
 Feared: 80
 Giant: 515
-Furious_Rage_30: 622
+Furious_Rage_5: 622
 NaturalAmmo: 636;
 		
 Lvl 01 upgrades: (3, 4; 4, 4; 13, 4)
 Lvl 02 upgrades: (31, 4; 7, 4; 10, 4; 501, 4)
-Lvl 03 upgrades: (3, 4; 4, 4; 34, 4; 80, 3)
+Lvl 03 upgrades: (3, 4; 4, 4; 34, 4; 623, 3)
 Lvl 04 upgrades: (31, 4; 7, 4; 10, 4; 487, 4)
-Lvl 05 upgrades: (36, 4; 4, 4; 13, 4; 623, 2)
+Lvl 05 upgrades: (36, 4; 4, 4; 13, 4)
 Lvl 06 upgrades: (31, 4; 7, 4; 16, 4; 104, 4)
-Lvl 07 upgrades: (3, 4; 5, 4; 10, 4)
+Lvl 07 upgrades: (3, 4; 5, 4; 10, 4; 80, 3)
 Lvl 08 upgrades: (36, 4; 7, 4; 13, 4; 72, 3)
 Lvl 09 upgrades: (25, 4; 38, 4; 501, 4)
 Lvl 10 upgrades: (31, 4; 8, 4; 10, 4; 104, 4)
 Lvl 11 upgrades: (36, 4; 5, 4; 13, 4; 69, 4)
-Lvl 12 upgrades: (32, 4; 38, 4; 16, 4)
+Lvl 12 upgrades: (32, 4; 38, 4; 16, 4; 623, 3)
 Lvl 13 upgrades: (25, 4; 5, 4; 10, 4; 488, 4)
 Lvl 14 upgrades: (37, 4; 8, 4; 13, 4; 104, 4)
 Lvl 15 upgrades: (32, 4; 38, 4; 35, 4; 501, 4)
 Lvl 16 upgrades: (25, 4; 6, 4; 40, 4; 80, 4)
-Lvl 17 upgrades: (37, 4; 8, 4; 14, 4; 623, 3)
+Lvl 17 upgrades: (37, 4; 8, 4; 14, 4)
 Lvl 18 upgrades: (32, 4; 38, 4; 16, 4; 104, 4)
 Lvl 19 upgrades: (25, 4; 8, 4; 14, 4)
-Lvl 20 upgrades: (37, 4; 6, 4; 11, 4)
+Lvl 20 upgrades: (37, 4; 6, 4; 11, 4; 623, 3)
 
 Lvl 01 loot: (0, 0)
 Lvl 02 loot: (0, 0)
@@ -18371,25 +18373,25 @@ Rat_man: 489
 Cause_fear: 80
 Piercing_Strike: 69
 Giant: 515
-Furious_Rage_30: 622;
+Furious_Rage_5: 622;
 		
 Lvl 01 upgrades: (2, 4; 4, 4; 13, 4; 488, 3)
 Lvl 02 upgrades: (31, 4; 7, 4; 10, 4; 487, 2)
 Lvl 03 upgrades: (2, 4; 4, 4; 34, 4; 486, 1)
 Lvl 04 upgrades: (31, 4; 7, 4; 10, 4; 500, 4)
-Lvl 05 upgrades: (36, 4; 4, 4; 13, 4)
-Lvl 06 upgrades: (31, 4; 7, 4; 16, 4; 623, 2)
+Lvl 05 upgrades: (36, 4; 4, 4; 13, 4; 623, 3)
+Lvl 06 upgrades: (31, 4; 7, 4; 16, 4)
 Lvl 07 upgrades: (2, 4; 4, 4; 10, 4; 80, 2)
 Lvl 08 upgrades: (36, 4; 7, 4; 13, 4; 46, 4)
 Lvl 09 upgrades: (2, 4; 38, 4; 501, 4)
 Lvl 10 upgrades: (31, 4; 7, 4; 10, 4)
 Lvl 11 upgrades: (36, 4; 5, 4; 13, 4; 19, 4)
 Lvl 12 upgrades: (32, 4; 38, 4; 16, 4)
-Lvl 13 upgrades: (3, 4; 5, 4; 10, 4)
+Lvl 13 upgrades: (3, 4; 5, 4; 10, 4; 623, 4)
 Lvl 14 upgrades: (37, 4; 8, 4; 14, 4; 501, 4)
 Lvl 15 upgrades: (3, 4; 38, 4; 35, 4)
 Lvl 16 upgrades: (32, 4; 6, 4; 40, 4)
-Lvl 17 upgrades: (37, 4; 8, 4; 14, 4; 623, 3)
+Lvl 17 upgrades: (37, 4; 8, 4; 14, 4)
 Lvl 18 upgrades: (32, 4; 38, 4; 16, 4)
 Lvl 19 upgrades: (3, 4; 8, 4; 14, 4; 80, 2)
 Lvl 20 upgrades: (37, 4; 6, 4; 11, 4)
@@ -18531,7 +18533,7 @@ Abilityes:
 Rat_man: 489
 Decay_Master: 537
 War_bottle: 490
-Furious_Rage_30: 622;
+Furious_Rage_5: 622;
 		
 Lvl 01 upgrades: (1, 4; 20, 4; 16, 4; 132, 4; 486, 3)
 Lvl 02 upgrades: (30, 4; 27, 4; 34, 4; 106, 3; 510, 7)
@@ -18551,7 +18553,7 @@ Lvl 15 upgrades: (2, 4; 21, 4; 7, 4; 495, 5; 548, 4)
 Lvl 16 upgrades: (31, 4; 10, 4; 42, 4; 549, 2)
 Lvl 17 upgrades: (2, 4; 21, 4; 34, 4; 132, 4)
 Lvl 18 upgrades: (31, 4; 28, 4; 4, 4; 501, 4)
-Lvl 19 upgrades: (2, 4; 21, 4; 17, 4; 53, 6; 623, 4)
+Lvl 19 upgrades: (2, 4; 21, 4; 17, 4; 53, 6)
 Lvl 20 upgrades: (31, 4; 13, 4; 43, 4; 71, 4)
 
 Lvl 01 loot: (7, 5; 69, 2; 93, 1)
@@ -18613,28 +18615,28 @@ Cannibal_5: 535
 Poison_immunity: 72
 Damages_armor: 75
 Giant: 515
-Furious_Rage_30: 622
+Furious_Rage_5: 622
 BloodLust_2: 653;
 		
 Lvl 01 upgrades: (2, 4; 4, 4; 13, 4; 486, 4)
-Lvl 02 upgrades: (13, 4; 7, 4; 10, 4)
+Lvl 02 upgrades: (13, 4; 7, 4; 10, 4; 623, 2)
 Lvl 03 upgrades: (2, 4; 4, 4; 16, 4; 501, 4)
 Lvl 04 upgrades: (30, 4; 7, 4; 10, 4; 652, 4)
 Lvl 05 upgrades: (36, 4; 4, 4; 13, 4)
 Lvl 06 upgrades: (13, 4; 7, 4; 34, 4; 46, 4)
-Lvl 07 upgrades: (3, 4; 4, 4; 10, 4; 623, 2)
+Lvl 07 upgrades: (3, 4; 4, 4; 10, 4)
 Lvl 08 upgrades: (36, 4; 7, 4; 13, 4; 108, 4)
 Lvl 09 upgrades: (3, 4; 38, 4; 652, 4)
 Lvl 10 upgrades: (30, 4; 7, 4; 10, 4; 501, 4)
 Lvl 11 upgrades: (36, 4; 5, 4; 13, 4; 19, 4)
 Lvl 12 upgrades: (13, 4; 38, 4; 16, 4)
-Lvl 13 upgrades: (3, 4; 5, 4; 10, 4)
+Lvl 13 upgrades: (3, 4; 5, 4; 10, 4; 623, 3)
 Lvl 14 upgrades: (37, 4; 8, 4; 14, 4; 652, 4)
 Lvl 15 upgrades: (3, 4; 38, 4; 34, 4)
 Lvl 16 upgrades: (11, 4; 6, 4; 40, 4; 501, 4)
 Lvl 17 upgrades: (37, 4; 8, 4; 14, 4)
 Lvl 18 upgrades: (31, 4; 38, 4; 16, 4; 652, 4)
-Lvl 19 upgrades: (3, 4; 8, 4; 14, 4; 623, 3)
+Lvl 19 upgrades: (3, 4; 8, 4; 14, 4; 623, 4)
 Lvl 20 upgrades: (37, 4; 6, 4; 11, 4; 19, 4)
 
 Lvl 01 loot: (15, 5; 57, 3)
@@ -18695,11 +18697,11 @@ Grand_Rat_1: 514
 Grand_Rat_2: 536
 Unholy_blind: 408
 War_cry: 510
-Furious_Rage_30: 622;
+Furious_Rage_5: 622;
 		
 Lvl 01 upgrades: (1, 4; 20, 4; 16, 4; 27, 3)
 Lvl 02 upgrades: (30, 4; 27, 4; 34, 4; 132, 4)
-Lvl 03 upgrades: (1, 4; 20, 4; 7, 4; 500, 4; 623, 2)
+Lvl 03 upgrades: (1, 4; 20, 4; 7, 4; 500, 4; 623, 3)
 Lvl 04 upgrades: (30, 4; 13, 4; 16, 4; 547, 4)
 Lvl 05 upgrades: (1, 4; 20, 4; 495, 5)
 Lvl 06 upgrades: (30, 4; 27, 4; 4, 4; 132, 4)
@@ -18707,13 +18709,13 @@ Lvl 07 upgrades: (1, 4; 21, 4; 17, 4; 501, 4)
 Lvl 08 upgrades: (31, 4; 10, 4; 34, 4; 513, 6)
 Lvl 09 upgrades: (2, 4; 21, 4; 7, 4; 132, 4; 547, 4)
 Lvl 10 upgrades: (31, 4; 27, 4; 16, 4; 23, 4)
-Lvl 11 upgrades: (2, 4; 21, 4; 500, 4)
+Lvl 11 upgrades: (2, 4; 21, 4; 500, 4; 623, 4)
 Lvl 12 upgrades: (31, 4; 13, 4; 4, 4; 512, 5)
 Lvl 13 upgrades: (2, 4; 21, 4; 17, 4; 132, 4)
 Lvl 14 upgrades: (31, 4; 28, 4; 42, 4; 501, 4)
 Lvl 15 upgrades: (2, 4; 21, 4; 7, 4; 496, 6; 547, 4)
 Lvl 16 upgrades: (31, 4; 10, 4; 42, 4; 132, 4)
-Lvl 17 upgrades: (2, 4; 22, 4; 34, 4; 623, 3)
+Lvl 17 upgrades: (2, 4; 22, 4; 34, 4; 623, 5)
 Lvl 18 upgrades: (31, 4; 28, 4; 4, 4; 500, 4)
 Lvl 19 upgrades: (2, 4; 22, 4; 17, 4; 132, 4)
 Lvl 20 upgrades: (31, 4; 13, 4; 43, 4)
@@ -20505,7 +20507,7 @@ Cursed: 73
 Fear: 464
 Cast_Fear: 121
 Fire_Immunity: 192
-Dark_Domination: 570
+Smite_Good: 570
 Soul_stealth: 102
 Dark_Resurrect: 588
 Thorns: 704;

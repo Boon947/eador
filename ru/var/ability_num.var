@@ -1,4 +1,4 @@
-Quantity: 521
+Quantity: 522
 
 /0
 Name: Пусто;
@@ -631,7 +631,7 @@ Effect: 1
 Percent: 1
 
 /90
-Name: Талант Архимага;
+Name: Быстрое колдовство;
 Number: 984
 Numeric: 0
 Effect: 1
@@ -3601,7 +3601,7 @@ Percent: 0
 /514
 Name: Снабженец;
 Number: 167
-Numeric: 0
+Numeric: 1
 Effect: 0
 Percent: 0
 
@@ -3652,4 +3652,11 @@ Name: Заклятье "Целебный круг";
 Number: 2355
 Numeric: 1
 Effect: 0
+Percent: 0
+
+/522
+Name: Холодная ярость;
+Number: 225
+Numeric: 1
+Effect: 1
 Percent: 0

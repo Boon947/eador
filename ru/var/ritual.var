@@ -1,4 +1,4 @@
-Quantity: 37
+Quantity: 38
 
 /0
 Name: ѕусто;
@@ -912,4 +912,29 @@ Param2: 2
 
 Effect: 3
 Param1: 1805
+Param2: 0;
+
+/38
+Name: —бор стаи;
+GoldCost: 0
+GemCost: 18
+Sound: 241
+Karma: 0
+OnAlly: 1
+OnEnemy: 0
+Time: 0
+Cooldown: 5
+Event: 0
+ItemLevel: 5
+ItemRarity: 8
+
+Resource: (4)
+
+Effects:
+Effect: 20
+Param1: 1
+Param2: 0
+
+Effect: 5
+Param1: 1463
 Param2: 0;

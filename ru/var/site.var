@@ -3365,7 +3365,7 @@ Name: Крепость ведьмаков;
 MinLevel: 5
 MaxLevel: 12
 Guarded: 100
-Place: 1
+Place: 0
 Event: 2
 Dialog: 1702
 Encounter: 1004
@@ -3411,7 +3411,7 @@ Name: Военная школа;
 MinLevel: 5
 MaxLevel: 12
 Guarded: 100
-Place: 1
+Place: 0
 Event: 2
 Dialog: 1707
 Encounter: 1013
@@ -3445,7 +3445,7 @@ Name: Врата Бездны;
 MinLevel: 1
 MaxLevel: 8
 Guarded: 100
-Place: 2
+Place: 0
 Event: 2
 Dialog: 1711
 Encounter: 1015
@@ -3499,7 +3499,7 @@ Name: Цитадель эльфов;
 MinLevel: 5
 MaxLevel: 8
 Guarded: 100
-Place: 1
+Place: 0
 Event: 2
 Dialog: 1712
 Encounter: 1019
@@ -3537,7 +3537,7 @@ Name: Цитадель гномов;
 MinLevel: 5
 MaxLevel: 8
 Guarded: 100
-Place: 1
+Place: 0
 Event: 2
 Dialog: 1714
 Encounter: 1021
@@ -3578,7 +3578,7 @@ Name: Цитадель орков;
 MinLevel: 5
 MaxLevel: 8
 Guarded: 100
-Place: 1
+Place: 0
 Event: 2
 Dialog: 1716
 Encounter: 1023
@@ -3616,7 +3616,7 @@ Name: Цитадель ящеров;
 MinLevel: 5
 MaxLevel: 8
 Guarded: 100
-Place: 1
+Place: 0
 Event: 2
 Dialog: 1718
 Encounter: 1025
@@ -3654,7 +3654,7 @@ Name: Цитадель кентавров;
 MinLevel: 5
 MaxLevel: 8
 Guarded: 100
-Place: 1
+Place: 0
 Event: 2
 Dialog: 1720
 Encounter: 1027
@@ -3692,7 +3692,7 @@ Name: Цитадель гоблинов;
 MinLevel: 5
 MaxLevel: 8
 Guarded: 100
-Place: 1
+Place: 0
 Event: 2
 Dialog: 1722
 Encounter: 1029
@@ -3730,7 +3730,7 @@ Name: Цитадель половинчиков;
 MinLevel: 5
 MaxLevel: 8
 Guarded: 100
-Place: 1
+Place: 0
 Event: 2
 Dialog: 1724
 Encounter: 1031
@@ -3768,7 +3768,7 @@ Name: Святая обитель;
 MinLevel: 5
 MaxLevel: 8
 Guarded: 100
-Place: 1
+Place: 0
 Event: 2
 Dialog: 1726
 Encounter: 1444
@@ -3810,7 +3810,7 @@ Name: Казино;
 MinLevel: 3
 MaxLevel: 8
 Guarded: 0
-Place: 1
+Place: 0
 Event: 2
 Dialog: 1728
 Encounter: 1035
@@ -3852,7 +3852,7 @@ Name: Игорный дом;
 MinLevel: 5
 MaxLevel: 12
 Guarded: 0
-Place: 1
+Place: 0
 Event: 2
 Dialog: 1743
 Encounter: 1066
@@ -3890,7 +3890,7 @@ Name: Цитадель альваров;
 MinLevel: 5
 MaxLevel: 8
 Guarded: 100
-Place: 1
+Place: 0
 Event: 2
 Dialog: 1754
 Encounter: 1082
@@ -3931,7 +3931,7 @@ Name: Цитадель дроу;
 MinLevel: 5
 MaxLevel: 8
 Guarded: 100
-Place: 1
+Place: 0
 Event: 2
 Dialog: 1756
 Encounter: 1084
@@ -4048,7 +4048,7 @@ Name: Усыпальница;
 MinLevel: 5
 MaxLevel: 12
 Guarded: 100
-Place: 1
+Place: 2
 Event: 2
 Dialog: 1832
 Dialog2: 0
@@ -4090,7 +4090,7 @@ Name: Оплот Света;
 MinLevel: 5
 MaxLevel: 12
 Guarded: 100
-Place: 1
+Place: 2
 Event: 2
 Dialog: 1833
 Dialog2: 0
@@ -4128,7 +4128,7 @@ Name: Слияние Стихий;
 MinLevel: 5
 MaxLevel: 12
 Guarded: 100
-Place: 1
+Place: 2
 Event: 2
 Dialog: 1834
 Dialog2: 0
@@ -4166,7 +4166,7 @@ Name: Алтарь Дракона;
 MinLevel: 5
 MaxLevel: 12
 Guarded: 100
-Place: 1
+Place: 2
 Event: 2
 Dialog: 1835
 Dialog2: 0
@@ -4204,7 +4204,7 @@ Name: Мистическая башня;
 MinLevel: 5
 MaxLevel: 12
 Guarded: 100
-Place: 1
+Place: 2
 Event: 2
 Dialog: 1836
 Dialog2: 0
@@ -4242,7 +4242,7 @@ Name: Чёрный замок;
 MinLevel: 5
 MaxLevel: 12
 Guarded: 100
-Place: 1
+Place: 2
 Event: 2
 Dialog: 1838
 Dialog2: 0
@@ -4284,7 +4284,7 @@ Name: Твердыня Хаоса;
 MinLevel: 5
 MaxLevel: 12
 Guarded: 100
-Place: 1
+Place: 2
 Event: 2
 Dialog: 1839
 Dialog2: 0
@@ -4326,7 +4326,7 @@ Name: Логово чудовищ;
 MinLevel: 5
 MaxLevel: 12
 Guarded: 100
-Place: 1
+Place: 2
 Event: 2
 Dialog: 1903
 Dialog2: 0
@@ -4360,7 +4360,7 @@ Name: Гномья крепость;
 MinLevel: 5
 MaxLevel: 12
 Guarded: 100
-Place: 1
+Place: 2
 Event: 2
 Dialog: 1905
 Dialog2: 0
@@ -4394,7 +4394,7 @@ Name: Логово Зверя;
 MinLevel: 5
 MaxLevel: 12
 Guarded: 100
-Place: 1
+Place: 2
 Event: 2
 Dialog: 1907
 Dialog2: 0
@@ -4428,7 +4428,7 @@ Name: Конклав;
 MinLevel: 5
 MaxLevel: 12
 Guarded: 100
-Place: 1
+Place: 2
 Event: 2
 Dialog: 1909
 Dialog2: 0
@@ -4462,7 +4462,7 @@ Name: Цитадель гноллов;
 MinLevel: 5
 MaxLevel: 8
 Guarded: 100
-Place: 1
+Place: 0
 Event: 2
 Dialog: 1927
 Encounter: 1240
@@ -4500,7 +4500,7 @@ Name: Древние руины;
 MinLevel: 4
 MaxLevel: 7
 Guarded: 100
-Place: 1
+Place: 0
 Event: 2
 Dialog: 19
 Dialog2: 0
@@ -4538,7 +4538,7 @@ Name: Цитадель алкари;
 MinLevel: 5
 MaxLevel: 8
 Guarded: 100
-Place: 1
+Place: 0
 Event: 2
 Dialog: 1988
 Encounter: 1275
@@ -5142,12 +5142,12 @@ CanEnter: 0
 SelfDestroy: 1
 
 Terrain:
-Plain: 8
-Forest: 6
-Hill: 17
+Plain: 6
+Forest: 4
+Hill: 13
 Swamp: 0
-Desert: 7
-Tundra: 10
+Desert: 5
+Tundra: 7
 
 Guards:
 Guard: 100
@@ -5186,12 +5186,12 @@ CanEnter: 0
 SelfDestroy: 1
 
 Terrain:
-Plain: 5
-Forest: 8
-Hill: 15
-Swamp: 9
-Desert: 10
-Tundra: 10
+Plain: 4
+Forest: 6
+Hill: 11
+Swamp: 7
+Desert: 7
+Tundra: 7
 
 Guards:
 Guard: 101
@@ -5236,11 +5236,11 @@ CanEnter: 0
 SelfDestroy: 1
 
 Terrain:
-Plain: 20
-Forest: 10
-Hill: 15
-Swamp: 10
-Desert: 5
+Plain: 16
+Forest: 8
+Hill: 12
+Swamp: 8
+Desert: 4
 Tundra: 0
 
 Guards:
@@ -5284,11 +5284,11 @@ CanEnter: 1
 SelfDestroy: 0
 
 Terrain:
-Plain: 5
+Plain: 4
 Forest: 2
-Hill: 8
+Hill: 6
 Swamp: 3
-Desert: 6
+Desert: 5
 Tundra: 1
 
 Guards:
@@ -5322,7 +5322,7 @@ Name: Город крысолюдов;
 MinLevel: 5
 MaxLevel: 12
 Guarded: 100
-Place: 1
+Place: 2
 Event: 2
 Dialog: 2087
 Dialog2: 0
@@ -5335,10 +5335,10 @@ CanEnter: 0
 SelfDestroy: 1
 
 Terrain:
-Plain: 1
-Forest: 2
-Hill: 3
-Swamp: 2
+Plain: 0
+Forest: 1
+Hill: 2
+Swamp: 1
 Desert: 1
 Tundra: 0
 
@@ -5376,12 +5376,12 @@ CanEnter: 0
 SelfDestroy: 1
 
 Terrain:
-Plain: 20
-Forest: 15
-Hill: 15
-Swamp: 15
-Desert: 5
-Tundra: 5
+Plain: 16
+Forest: 12
+Hill: 12
+Swamp: 12
+Desert: 4
+Tundra: 4
 
 Guards:
 Guard: 12
@@ -5439,12 +5439,12 @@ CanEnter: 0
 SelfDestroy: 1
 
 Terrain:
-Plain: 10
-Forest: 15
-Hill: 25
-Swamp: 15
-Desert: 20
-Tundra: 20
+Plain: 8
+Forest: 12
+Hill: 20
+Swamp: 12
+Desert: 16
+Tundra: 16
 
 Guards:
 Guard: 5
@@ -5503,7 +5503,7 @@ Name: Цех бурильщиков;
 MinLevel: 5
 MaxLevel: 8
 Guarded: 100
-Place: 1
+Place: 0
 Event: 2
 Dialog: 2100
 Encounter: 1352
@@ -5553,7 +5553,7 @@ Name: Храм Искателей;
 MinLevel: 5
 MaxLevel: 8
 Guarded: 100
-Place: 1
+Place: 0
 Event: 2
 Dialog: 2102
 Encounter: 1354
@@ -5603,7 +5603,7 @@ Name: Башня Тьмы;
 MinLevel: 5
 MaxLevel: 12
 Guarded: 100
-Place: 1
+Place: 2
 Event: 2
 Dialog: 2134
 Dialog2: 0
@@ -5619,9 +5619,9 @@ Terrain:
 Plain: 1
 Forest: 2
 Hill: 2
-Swamp: 3
+Swamp: 2
 Desert: 2
-Tundra: 1
+Tundra: 0
 
 Guards:
 Guard: 120
@@ -5641,7 +5641,7 @@ Name: Цитадель Даокона;
 MinLevel: 5
 MaxLevel: 12
 Guarded: 100
-Place: 1
+Place: 2
 Event: 2
 Dialog: 2135
 Dialog2: 0
@@ -5654,7 +5654,7 @@ CanEnter: 0
 SelfDestroy: 1
 
 Terrain:
-Plain: 4
+Plain: 3
 Forest: 1
 Hill: 1
 Swamp: 1
@@ -5679,7 +5679,7 @@ Name: Цитадель Ордена;
 MinLevel: 5
 MaxLevel: 12
 Guarded: 100
-Place: 1
+Place: 2
 Event: 2
 Dialog: 2136
 Dialog2: 0
@@ -5692,12 +5692,12 @@ CanEnter: 0
 SelfDestroy: 1
 
 Terrain:
-Plain: 3
+Plain: 2
 Forest: 2
 Hill: 1
-Swamp: 1
-Desert: 1
-Tundra: 1
+Swamp: 0
+Desert: 0
+Tundra: 0
 
 Guards:
 Guard: 122
@@ -5732,7 +5732,7 @@ SelfDestroy: 1
 Terrain:
 Plain: 0
 Forest: 0
-Hill: 25
+Hill: 22
 Swamp: 0
 Desert: 0
 Tundra: 0
@@ -5791,7 +5791,7 @@ Name: Рынок рабов;
 MinLevel: 3
 MaxLevel: 10
 Guarded: 100
-Place: 1
+Place: 0
 Event: 2
 Dialog: 2162
 Dialog2: 0
@@ -5994,7 +5994,7 @@ Name: Проклятый храм;
 MinLevel: 5
 MaxLevel: 12
 Guarded: 100
-Place: 1
+Place: 2
 Event: 2
 Dialog: 2199
 Dialog2: 0
@@ -6009,10 +6009,10 @@ SelfDestroy: 1
 Terrain:
 Plain: 1
 Forest: 1
-Hill: 2
+Hill: 1
 Swamp: 2
-Desert: 2
-Tundra: 2
+Desert: 0
+Tundra: 0
 
 Guards:
 Guard: 126
@@ -6046,10 +6046,10 @@ SelfDestroy: 1
 
 Terrain:
 Plain: 3
-Forest: 8
-Hill: 7
-Swamp: 10
-Desert: 5
+Forest: 7
+Hill: 5
+Swamp: 8
+Desert: 4
 Tundra: 4
 
 Guards:
@@ -6080,7 +6080,7 @@ Name: Город альваров;
 MinLevel: 3
 MaxLevel: 10
 Guarded: 100
-Place: 1
+Place: 2
 Event: 2
 Dialog: 2201
 Dialog2: 0
@@ -6095,7 +6095,7 @@ SelfDestroy: 1
 Terrain:
 Plain: 0
 Forest: 0
-Hill: 5
+Hill: 4
 Swamp: 0
 Desert: 0
 Tundra: 0
@@ -6124,7 +6124,7 @@ Name: Идол;
 MinLevel: 1
 MaxLevel: 8
 Guarded: 100
-Place: 2
+Place: 1
 Event: 2
 Dialog: 2202
 Dialog2: 0
@@ -6216,10 +6216,10 @@ CanEnter: 0
 SelfDestroy: 1
 
 Terrain:
-Plain: 5
-Forest: 10
-Hill: 7
-Swamp: 12
+Plain: 4
+Forest: 8
+Hill: 6
+Swamp: 11
 Desert: 6
 Tundra: 7
 
@@ -6330,7 +6330,7 @@ CanEnter: 0
 SelfDestroy: 1
 
 Terrain:
-Plain: 3
+Plain: 2
 Forest: 0
 Hill: 0
 Swamp: 0

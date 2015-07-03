@@ -1214,7 +1214,7 @@ Power: 5
 Duration: -1
 
 Stamina: 11
-Power: 1
+Power: 2
 Duration: -1;
 
 /33
@@ -2594,7 +2594,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 83
 UnitKind: (5)
-AntiEffect: (120)
+AntiEffect: (120, 299)
 
 Effects:
 AddTurn: 75
@@ -3488,7 +3488,7 @@ LifeCost: 0
 StamCost: 1
 ItemLevel: 8
 Level: 5
-PowerMod: 100
+PowerMod: 200
 DurationMod: 0
 Target: 1
 Area: 1
@@ -4058,7 +4058,7 @@ RestoreOnly: 1
 Cumulative: 0
 Sound: 118
 UnitKind: (2, 4, 5)
-AntiEffect: (30, 108, 120)
+AntiEffect: (30, 108, 120, 299)
 
 Effects:
 AddTurn: 75
@@ -7270,7 +7270,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 177
 UnitKind: (1, 2, 3, 4, 5)
-AntiEffect: (0)
+AntiEffect: (299)
 
 Effects:
 No_fear: 19
@@ -8070,7 +8070,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 191
 UnitKind: (2, 4)
-AntiEffect: (30, 107, 120)
+AntiEffect: (30, 107, 120, 299)
 
 Effects:
 Attack: 2
@@ -8239,11 +8239,11 @@ AntiEffect: (30, 108, 121)
 Effects:
 Defence: 4
 Power: -3
-Duration: 3
+Duration: 4
 
 Ranged_defence: 5
 Power: -3
-Duration: 3;
+Duration: 4;
 
 /225
 Name: Кошачьи рефлексы;
@@ -8770,7 +8770,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 208
 UnitKind: (1, 2, 4, 5)
-AntiEffect: (30, 108)
+AntiEffect: (30, 108, 299)
 
 Effects:
 Heal: 1
@@ -8810,7 +8810,7 @@ RestoreOnly: 1
 Cumulative: 0
 Sound: 209
 UnitKind: (1, 2, 4, 5)
-AntiEffect: (30, 108)
+AntiEffect: (30, 108, 299)
 
 Effects:
 Stamina: 11
@@ -9158,7 +9158,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 219
 UnitKind: (2, 3, 4, 5)
-AntiEffect: (30, 120, 135)
+AntiEffect: (30, 120, 135, 299)
 
 Effects:
 AddTurn: 75
@@ -9518,7 +9518,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 230
 UnitKind: (1, 3, 4, 5)
-AntiEffect: (30, 106)
+AntiEffect: (30, 106, 299)
 
 Effects:
 AddTurn: 75
@@ -11034,7 +11034,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 258
 UnitKind: (2, 4, 5)
-AntiEffect: (30, 107, 120)
+AntiEffect: (30, 107, 120, 299)
 
 Effects:
 AddTurn: 75
@@ -12166,7 +12166,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 278
 UnitKind: (2, 3, 4, 5)
-AntiEffect: (30)
+AntiEffect: (30, 299)
 
 Effects:
 Stamina: 11
@@ -12686,7 +12686,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 287
 UnitKind: (1, 2, 3, 4, 5)
-AntiEffect: (30)
+AntiEffect: (30, 299)
 
 Effects:
 Speed: 7

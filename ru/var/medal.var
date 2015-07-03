@@ -226,7 +226,7 @@ Power: 2;
 Name: Орден Победителя;
 GoldSpent: 8
 GemSpent: 0
-Rarity: 5
+Rarity: 6
 Effects:
 
 CounterAttack: 3
@@ -262,7 +262,7 @@ Power: 1;
 Name: Звезда Магистра;
 GoldSpent: 5
 GemSpent: 2
-Rarity: 5
+Rarity: 6
 Effects:
 
 RangedAttack: 8

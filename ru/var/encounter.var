@@ -1,4 +1,4 @@
-Quantity: 1462
+Quantity: 1467
 
 /0
 Type: 0
@@ -3008,7 +3008,7 @@ Power: 0
 Param1: 0
 Param2: 0;
 
-/118 Диалог с гномами-союзниками (нормальные отношения)
+/118 Диалог с гномами-союзниками (нормальные отношения) - не используется
 Type: 0
 Possibility: 0
 Dialog: 207
@@ -23836,7 +23836,7 @@ Power: 77
 Param1: 0
 Param2: 0;
 
-/1003 Крепость ведьмаков, диалог
+/1003 Крепость ведьмаков, диалог - не используется
 Type: 0
 Possibility: 0
 Dialog: 1703
@@ -24256,7 +24256,7 @@ Power: 65
 Param1: 1
 Param2: 0;
 
-/1018 Врата Бездны, после победы
+/1018 Врата Бездны, после победы - не используется
 Type: 0
 Possibility: 0
 Dialog: 1709
@@ -30945,7 +30945,7 @@ Power: 3
 Param1: 7
 Param2: 3;
 
-/1286 Quest Священный Паук (поиски окончены)
+/1286 Quest Священный Паук (поиски окончены) - не используется
 Type: 0
 Possibility: 0
 Dialog: 2060
@@ -30967,7 +30967,7 @@ Power: 0
 Param1: 0
 Param2: 0;
 
-/1287 Диалог с алкари (союз невозможен)
+/1287 Диалог с алкари (союз невозможен) - не используется
 Type: 0
 Possibility: 0
 Dialog: 2004
@@ -31698,7 +31698,7 @@ Power: 2
 Param1: 9
 Param2: 3;
 
-/1317 Логово оборотня, атакуем
+/1317 Логово оборотня, атакуем - не используется
 Type: 0
 Possibility: 0
 Dialog: 2019
@@ -35012,4 +35012,154 @@ Param2: 0
 Exp: 25
 Power: 20
 Param1: 20
+Param2: 0;
+
+/1463 Сбор стаи
+Type: 0
+Possibility: 0
+Dialog: 2383
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1464;
+
+*Effects*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/1464 Найм гноллов 4
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Flag: 15
+Power: 15
+Param1: 268
+Param2: 1465
+
+Index: 29
+Power: 202
+Param1: 0
+Param2: 0
+
+Index: 29
+Power: 203
+Param1: 0
+Param2: 0
+
+Index: 29
+Power: 204
+Param1: 0
+Param2: 0
+
+Index: 29
+Power: 206
+Param1: 1
+Param2: 0;
+
+/1465 Найм гноллов 3
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Flag: 15
+Power: 15
+Param1: 266
+Param2: 1466
+
+Index: 29
+Power: 202
+Param1: 0
+Param2: 0
+
+Index: 29
+Power: 203
+Param1: 0
+Param2: 0
+
+Index: 29
+Power: 204
+Param1: 1
+Param2: 0;
+
+/1466 Найм гноллов 2
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Flag: 15
+Power: 15
+Param1: 265
+Param2: 1467
+
+Index: 29
+Power: 202
+Param1: 0
+Param2: 0
+
+Index: 29
+Power: 203
+Param1: 1
+Param2: 0;
+
+/1467 Найм гноллов 1
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 29
+Power: 202
+Param1: 1
 Param2: 0;

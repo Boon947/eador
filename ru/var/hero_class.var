@@ -133,9 +133,9 @@ Talent4: 0, 0
 
 /20!
 Name: Маг;
-Talent1: 905, 2
-Talent2: 960, 250
-Talent3: 0, 0
+Talent1: 905, 1
+Talent2: 984, 4
+Talent3: 960, 250
 Talent4: 0, 0
 
 /21
@@ -245,7 +245,7 @@ Talent4: 960, 278
 
 /36
 Name: Архимаг;
-Talent1: 984, 1
-Talent2: 960, 275
-Talent3: 0, 0
+Talent1: 905, 2
+Talent2: 984, 2
+Talent3: 960, 275
 Talent4: 0, 0
