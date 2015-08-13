@@ -1,0 +1,13 @@
+Name: Empty;
+Name: Change gold income by Param1% and gem income by Param2%;
+Name: Change population mood by Param1 (race Param2);
+Name: Reduce unrest rate by Param1;
+Name: Reduce upkeep of garrison units by Param1%;
+Name: Monitor adjacent provinces;
+Name: Increase unit recuperation by Param1%;
+Name: Increase income from resource Param1 by Param2 gold;
+Name: Increase fortification repair speed by Param1%;
+Name: Change population growth by Param1;
+Name: May be hired by contract;
+Name: Fearless;
+Name: Incorruptible;

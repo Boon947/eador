@@ -1,0 +1,76 @@
+#!/bin/bash
+
+[ -z "$1" ] && echo "Usage: $0 version" && exit
+
+sed -e '7i Effects:' -i item_set.var
+sed -e 's/Resourse:/Resource:/' -e 's/Slot: 100/Slot: 12/' -e 's/"//g' -i item.var
+sed -e 's/Slot:/bSlot:/' -e 's/Buildings:/Building:/' -i inner_build.var
+
+for F in defender outer_build site; do
+  sed -i 's/Terrain:/Terrain/' $F.var
+done
+
+while read TAG VAL; do
+  if [ -z "$TAG" ]; then continue; fi
+  if [ $TAG = 'Name:' ]; then
+    read POWER; read KARMA; FOO="$TAG $VAL\n$KARMA"
+  fi
+  if [ ${TAG:0:5} = 'Guard' ]; then
+    LUT[$VAL]="$FOO";
+  fi
+done <guard_type.var
+
+while read A B; do
+  if [ -z "$A" ]; then echo; continue; fi
+  if [ ${A:0:1} = / ]; then
+    N=${A:1}
+    [ $N = 0 ] && let "N++"
+    echo -e "$A\n${LUT[$N]}"
+  else
+    echo "$A $B"
+  fi
+done <guard.var >xyz && mv xyz guard.var
+
+for F in defender guard; do
+  VAR="$F.var"
+  grep -v "^Item\|^Loot:" $VAR >xyz && mv xyz $VAR
+  sed -e '/^Unit/s_,_\nX:_g' -e '/^Unit/a \\' -i $VAR
+done
+sed '/^Unit1:/i Units:\n' -i guard.var
+
+grep -v "^Race:\|^Sound" unit.var >xyz && mv xyz unit.var
+sed -e 's/Abilityes/UnitAttr/' -i unit.var
+
+sed -e 's/^Effects:/rEffects:/' -i ritual.var
+sed -e 's/^Ability:/sAbility:/' -i site.var
+sed -e 's/^Ability:/dAbility:/' -i defender.var
+sed -e 's/^\*Ability\*:/dAbility:/' -i defender.var
+
+grep -v "^Event:\|^Coastal:" site.var >xyz && mv xyz site.var
+
+I=0
+grep -A1 --no-group-separator ^Name: ability_num.var |
+while read X NAME; do read X NUM; echo "$NUM $NAME"; done |
+LC_ALL=C sort -n |
+while read NUM NAME; do
+  while [ $I -ne $NUM ]; do echo "Name: Empty;"; let "++I"; done
+  echo "Name: $NAME"
+  let "++I"
+  if [ $I -eq 1000 ]; then break; fi
+done >abilities.doc
+
+echo "<!doctype html>
+<title>Eador $1</title>
+<ul>" > index.html
+
+for F in \
+      item item_set unit spell \
+      inner_build outer_build \
+      site province_type defender guard \
+      medal ritual
+do
+  to_html $F.var > $F.var.html
+  echo "<li><a href=$F.var.html>$F.var</a>"
+done >> index.html
+
+echo '</ul>' >> index.html
