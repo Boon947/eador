@@ -1,0 +1,1117 @@
+0. Empty
+#No description#
+
+1. Militiaman
+#Its low price is the main, and in fact the only advantage of this unit type. Former peasants, militiamen are neither well-equipped nor combat-trained. However, they are a perfect human shield to protect more valuable units with. Necromancers and demonologists eagerly accept militiamen into their ranks. Why? Ask them yourself.
+Another advantage of the militia is their versatility. Just like a piece of clay, you can mold a container of any shape and fill it with any content, and a volunteer can be molded into almost any kind of warrior. The main thing is to keep him alive long enough.
+Militiamen are also used to dealing with poorly made tools and tend to become skillful repairers, whose main task it is to repair and maintain military equipment.#
+
+2. Slinger
+#Slingers are by far the cheapest ranged units. Outfitting and feeding them doesn't cost much. Often slingers are recruited from among young peasants and hastily taught how to handle the sling. All they need is some natural agility and a steady eye. The rest comes with experience.
+Although slingers can't claim outstanding shooting strength and range, they are especially valuable in a protracted battle, as they never run out of ammunition. A slinger can use any stone picked up from the ground as a missile, if it comes down to that. If a slinger uses special armor-piercing ammo however, these cannot be replenished.
+The best warriors have a chance to be transferred to an elite squad.#
+
+3. Spearman
+#Spearmen are a typical example of light infantry. Vested in light yet sturdy leather armor, spearmen are able to move around the battlefield much faster then iron-clad warriors. The throwing javelins they typically use before engaging in melee are another of their advantages over heavy infantrymen. The javelin is rather heavy, so even if the enemy manages to stop its jagged head with a shield, the impact will weaken his defense.
+The best warriors have a chance to be transferred to an elite squad.#
+
+4. Bowman
+#Professional bowmen are expensive warriors, but they are well worth their price. Bowmen strike the enemy at a great distance, weakening hostile infantry before the melee. An even more important duty the bowmen are well-suited for is eliminating enemy spellcasters. It's essential not to let the enemy warriors approach your bowmen, as they are rather weak in melee combat.
+The best warriors have a chance to be transferred to an elite squad.#
+
+5. Swordsman
+#These heavy infantrymen are better able to attack than to defend. A large shield provides cover against enemy arrows and long drills and constant training have taught them iron discipline. Each swordsman is an expert with his weapon, equally able to use his blade for attacking and for parrying enemy blows. And even if the blade is small, a swordsman is able to use it for full defense.
+The best warriors have a chance to be transferred to an elite squad.#
+
+6. Pikeman
+#Pikemen are perfect for holding ground. Clad in sturdy chainmail armor and armed with a long pike, these heavy infantrymen are definitely not easy prey. Their long weapons allow the pikemen to strike before the enemy gets close.
+The best warriors have a chance to be transferred to an elite squad.#
+
+7. Crossbowman
+#Crossbowmen are a deadly force in combat. Although the effective range of their weapon is less than that of a bow, its killing power is much greater. A crossbow shot is so deadly that no armor can fully protect against it. Since crossbowmen shoot from a relatively short range, they are equipped with strong armor and taught to handle a sword. When needed, these ranged units can hold their own in melee combat. Their only disadvantage is that heavy armor makes crossbowmen less mobile than other ranged units.
+The best warriors have a chance to be transferred to an elite squad.#
+
+8. Healer
+#Combat isn't just about winning. It's about winning with minimal casualties. For this reason, most armies need healers. Virtually useless in melee combat, healers can treat the warriors' wounds with their magical potions and elixirs.
+The best warriors have a chance to be transferred to an elite squad.#
+
+9. Barbarian
+#Barbarians can be found on virtually any inhabited shard. Some consider them barbarized descendants of an ancient civilization, others think they're mere savages who never knew any law other than the law of brute force.
+The art of killing is by far the only art that these barbarians have mastered. Furious barbarian hordes inhabiting wide valleys and moors are a force to be reckoned with for any Master. If left unattended, barbarians will sow death and devastation among your people. If subdued, they will sow death and devastation among your enemies.
+In combat, barbarians are able to fall into a berserker rage, crushing enemies with extraordinary force and neglecting their own wounds.
+The best warriors have a chance to be transferred to an elite squad.#
+
+10. Thief
+#They are often called the scum of the criminal world, for no normal thief would ever join the army. For the most part, the thieves joining military units have violated the codes of the Thieves Guild and are trying to avoid being killed by their former colleagues. The unlucky ones who never learned their trade but mastered the skill of knife fighting often conscript as well. Their low cost is one of the thieves' main advantages. No one would ever pay big wages to an unfortunate thief. However, the greedy looters aren't too upset about this. The rascals hope to snatch their share by stashing away a good part of the war trophies. They are not always eager to put their hands on the spoils when it's very conspicuous, because they might lose them along with their head - when he's afraid of his commander, for example, he will be very cautious, and will restrain his greed.
+A thief's morale is usually very low. They tend to flee at any sign of danger. Their agility is commendable though. Thieves try to sneak up on their enemies, to avoid being attacked in return. Thieves don't particularly enjoy melee combat. Give them a set of throwing knives, and they will happily attack the enemy from a relatively safe distance.
+The best warriors have a chance to be transferred to an elite squad.#
+
+11. Brigand
+#When the choice is between the gallows and the military, many brigands eagerly join the army. Teaching these former cutthroats discipline is a virtually impossible task. On the other hand, these former gallows-birds don't ask for high wages. Army service fails to alter the brigands' old habits. During their free time they resort to their former trade, to make a living. When sharing trophies, the brigands try to snatch and stash away as much as possible. Officers tend to overlook these crimes, wisely thinking that a content brigand is better than constant squabbles among the troops. Sometimes, however, the greedy brigands that grab too much are made an example of and executed, and the others become somewhat reluctant to continue their thievery.
+Brigands' fighting abilities are rather good, especially keeping in mind the fact that recruiting and feeding these units costs virtually nothing. Unfortunately, their morale leaves much to be desired. Having saved their necks from the gallows by joining the army, they aren't all that eager to be killed by enemy swords.
+The best warriors have a chance to be transferred to an elite squad.#
+
+12. Shaman
+#Shamanism, also known as "lesser magic", is what savages and people deprived of magical talent resort to. Shamans use a lot of ingredients, amulets, and other «magical» paraphernalia for their rites, relying on the properties of various substances released by means of a special ritual, rather than on their own magical power. Shamans themselves attribute the effect of their spells to the will of the spirits or some higher beings, which might not be far from the truth. The shamans' magic cannot be fully explained, and the effect of certain rituals cannot be ascribed to the properties of the mixed ingredients only. Shamans tend to avoid melee combat, showering their enemies with "Spirits' Furies", "Ancestral Curses" and other hard-to-pronounce "spells" from a distance. Nevertheless, the shaman's magic is quite powerful and capable of dealing great damage to the enemy.
+The best warriors have a chance to be transferred to an elite squad.#
+
+13. Goblin
+#Goblin warriors aren't overly blessed with strength or stamina, and countless stories have been told about their cowardice. However, these small green-skinned warriors should not be underestimated. They can cause the enemy much trouble with their natural agility and nimbleness. Hitting a dapper goblin with an arrow or a crossbow bolt is no easy task. And, if the goblin is skilled enough, he even knows how to dodge enemy counterattacks. Goblins feel right at home in the marshes. They make good use of this advantage whenever a battle takes place in a swamp.#
+
+14. Orc
+#Warrior is the most honored profession amongst orcs. However, items made by the best orc blacksmiths are still considerably worse than those made by the worst human blacksmiths, let alone by dwarves. Thus, natural strength and stamina are the orcs' main advantages in combat. Unable to grasp the finer points of melee, orcs rely solely on the brute force of their attacks. Finding the enemy's vulnerable points is too complicated a task for them. But the force of an orcish blow is so great that it can do serious damage even to a well-armored enemy.#
+
+15. Elf
+#There's a reason why the legendary elven archers enjoy a glorious reputation on all shards. Having such an archer among your troops can be a great blessing, for elves are unrivaled marksmen. Also the elven bows and arrows are a real treasure. No one has ever figured out the secret of their creation, which is jealously guarded by elven craftsmen.
+Elves feel at home in the woods. They effortlessly find convenient paths, and sometimes it seems that even the trees themselves protect elven archers.
+The elves' main disadvantage is their vulnerability in melee. Graceful and slender, elves are somewhat vulnerable, so it's best not to let the enemy engage them in melee combat.#
+
+16. Dwarf
+#Forced to defend their treasures from anyone who might consider dwarven gold an easy way to get rich, dwarves are trained in fighting from a very early age. The frequent squabbles with their neighbors are more of an entertainment than a tragedy to them. It's well known that, besides gold and ale, dwarves love a good fight best of all. Dwarven warriors are famous for their fortitude in battle. Their strength and stamina, and excellent armor and weapons, multiplied by dwarven courage and stubbornness, make dwarves excellent infantrymen. The full quality of Dwarven warriors is revealed when fighting in the hills: if a dwarf gains height, knocking him out is no easy task.#
+
+17. Fairy
+#Fairies, also known as wee folk of the woods, are magical creatures by their very nature. They hardly ever leave their native forests, for their life is intertwined with that of all other living beings of the woods. Fairies are usually merry and carefree, but when their native forest is in danger, they will be the first to defend it. Virtually helpless in melee, fairies possess natural magic that enables them to strike enemies from a distance. The more skilled fairies can use their sorcery to heal the wounded. Often enemies mistake fairies for easy prey. That couldn't be further from the truth. Small and agile, the wee folk easily dodge swords and arrows, especially when fighting among the trees.#
+
+18. Halfling
+#The halflings are a peace-loving race, but they are able to stand their ground nevertheless. They aren't trained in martial arts, but practicing with a sling is one of this small folk's favorite pastimes. And a steady eye is a trait they all share. Halflings are also very agile, and they can effortlessly dodge enemy blows.#
+
+19. Skeleton
+#Animated skeletons are a mysterious phenomenon. How in the world can bones move without flesh? However, tomb raiders have often encountered wandering skeletons inside abandoned graveyards and ancient burial chambers. Only recently did necromancers discover the secret spell that breathes a kind of surrogate life into the dead bones. Since then animated skeletons have become a real plague. Quite a few mages have started to create whole skeletal armies, finding potential soldiers in underground catacombs and ancient battlefields. 
+A skeleton is a fragile unit, but is not that easy to destroy. Weak blows deal no lasting damage to their bones, and their lack of flesh gives them great protection against arrows. Like any other animated undead creature, skeletons know no pain or fatigue and have no morale. They are but a tool controlled by the mage who created them.
+A particularly successful animation may well be uniquely marked, and may be equipped with special powers.#
+
+20. Zombie
+#Raising the dead using magic is the first trick learned by apprentice necromancers. Bodies raised from their graves have neither a mind nor a will of their own. All they can do is carry out their master's simple orders. The absence of a mind and fighting skills is well compensated by the dead men's insensibility to pain and their enormous strength. Another shortcoming is their low speed. As a rule, necromancers either use zombies as a living shield or try to raise them from the dead behind enemy lines. Laying zombies to rest, especially those raised by a strong necromancer, is no easy task - you'd have to chop the zombie to pieces for that.
+A particularly successful creation may well be specially marked.#
+
+21. Imp
+#Imps are the lesser Chaos spawn. Although small in size, even one imp is enough to cause serious trouble. As with the rest of the Chaos spawn, total destruction is the one and only goal for an imp. It is well-equipped for that, too - with sharp strong claws and the ability to hurl lightning bolts. Even though an imp's power is only enough for no more than one lightning shot, that is poor consolation for the one being hit with it. 
+Demonologists use special spells to control the destructive power of these Chaos spawns, and the imps will destroy whatever their new master orders them to. However, it's hard to maintain control over a Chaos spawn for a longer period of time. So, after an imp has fulfilled its task, it is usually sent back to the underworld.#
+
+22. Monk
+#They are seen on the battlefield often enough, but no one has ever been able to explain why they take part in combat at all and how they choose sides. Monks from the Order of the White Eagle pursue their own goals, unknown to mere mortals. Perhaps they must pass some sort of initiation in combat. Or maybe their god favors the warriors. Regardless of their motives, no Master declines the help of the monks when they offer it. That has more to do with the unrivaled healing abilities of these servants of the secret cult than with their combat skills.
+The best warriors have a chance to be transferred to an elite squad.#
+
+23. Guardsman
+#Since time immemorial, rulers have tried to gather around them the most skilled and powerful warriors as personal guards. In peacetime, these soldiers were entrusted with the protection of the ruler, his family, the castle and the treasury, and in times of war they formed the core of the army, performing the most difficult tasks. Each guardsman is an experienced warrior, skilled in melee combat. Guardsmen get the best armor and weapons. Having seen more than a few battles, these warriors are known for their high morale and their ability to restore their strength quickly before returning to combat after a short break.
+The best Guardsmen have a chance to become knighted.#
+
+24. Pegasus
+#Taming pegasi is no easy task. These magical creatures are sentient beings that won't help just anyone. The ability to control winged horses is a rare gift. People possessing this gift are greatly appreciated by commanders. Word has it that the secret of taming pegasi was once stolen from the elves, which led to a cruel and bloody war.
+A pegasus' value in combat is obvious - in a swift attack they can completely decimate the plans of an enemy, effortlessly killing his ranged units and spellcasters. Pegasi are also known for their high resistance to enemy magic and their rare gift of self-healing.
+The strongest and toughest pegasi can become the focus of attention of higher beings.#
+
+25. Horseman
+#This light cavalry is perfect both for frontal attacks and for taking the enemy in the flank. A full speed cavalry charge is particularly deadly - the crushing force of blows is multiplied by the weight of a horse at full gallop. It is therefore much more effective to use cavalry on the plains, where riders can fully press their advantage.
+The best warriors have a chance to be transferred to an elite squad.#
+
+26. Horse Archer
+#Archers on horseback are an all-purpose battle unit. They are equally good at shooting at the enemy from a distance and fighting in melee combat.
+Infantrymen are known to hate horse archers with a passion - this unit type can shower enemy footmen with arrows while ever staying out of their reach.
+The best warriors have a chance to be transferred to an elite squad.#
+
+27. Ballista
+#The dwarves invented these siege machines during the "War of the Trees", when the elven army nearly invaded the caves under the Urud-Dunn mountain, a sacred place for all of the dwarven race. Ballistae allowed dwarves to contain the elves after they had exhausted the dwarven heavy infantry with their constant maneuvering and arrow showers.
+Since then the other races of Eador have also learned how to make ballistae. The heavy missiles shot from these weapons deal immense damage to an opponent, even when they strike armor or shields. It is quite easy to destroy this machine and its missiles. The ballista's main disadvantages are low speed, vulnerability in melee combat and poor protection from magic.
+The best warriors have a chance to be transferred to an elite squad.#
+
+28. Thug
+#These warriors are recruited from commoners. Their main requirements are a strong constitution and firm muscles. Most often thugs are former bouncers from cheap inns and goons who've given up robbing common people. An ordinary thug has no clue about military honor or valor. However, he's an expert in crushing enemy skulls or flattening helmets and heads with a hammer blow. Light vestments give thugs an advantage in speed over heavy infantry, and their excellent health compensates for their lack of armor.
+The best warriors have a chance to be transferred to an elite squad.#
+
+29. Sorcerer
+#Those who've devoted their lives to magic and sorcery are often forced to join the army to make a living. Battle sorcerers are highly valued by their commanders, although ordinary warriors dislike them for the dark deeds most of them usually engage in. The sorcerers can strike their enemies with magic and cast curses of vulnerability on them. More experienced sorcerers often learn other kinds of spells, preferring the school of Necromancy. Sorcerers are quite weak in close combat. Whenever they're forced to fight in melee, they cast a special curse that decreases their opponent's combat abilities.
+The best warriors have a chance to be transferred to an elite squad.#
+
+30. Assassin
+#It's widely known that only true professionals are employed by the Assassins Guild. Guild leaders often send novices who wish to pass initiation to serve in the local ruler's army. War is an excellent test of a young assassin's abilities. He has to possess a great deal of talent to survive in combat with a heavily-armed infantryman, relying exclusively on his own agility and the ability to find vulnerable spots in the opponent's armor. Besides agility and accuracy, every self-respecting assassin uses throwing knives and deadly poisons.
+The best warriors have a chance to be transferred to an elite squad.#
+
+31. Harpy
+#Harpies are known throughout Eador for their intolerable temper and a passion for glittery things. This winged folk lives in nests built on the slopes of steep cliffs and mountains. As a rule, harpies live in flocks, which helps them to fight off enemies together and carry out bold raids on neighboring villages in search for food and glittering trophies. Even during combat the harpies are unable to contain their passion for thieving. They are likely to steal arrows from the quiver of an archer who's left his guard down, or magical crystals from a sorcerer.#
+
+32. Basilisk
+#Basilisks dwell in moist and shady places, around swamps and underground lakes. These huge lizards have the ability to petrify enemies with their stare. The basilisk's curse wears off quickly, but it gives this slow lizard just enough time to approach the victim and inflict some damage with its sharp, strong teeth. Word has it that the goblins have managed to tame basilisks. Certain human monstrologists also possess the secret of taming the beasts. For the lizard to obey its master, however, it has to be trained from the very moment it hatches.
+For the egg to be turned into a unit for a hero's party it is necessary to build a Swamp Trappers Guild.#
+
+33. Giant Spider
+#Giant spiders usually dwell in thick forests and old crypts. These predators welcome any prey, be it a rabbit, a deer or a human lost in the woods. The spiders wrap their victims inside a strong webbed cocoon, inject poison into their helpless bodies, then leave their prey to «season» for a while. Even the bravest swashbucklers rarely attack spiders alone, as no armor can protect them from the beasts' poison and spiderweb. It's extremely hard to fight spiders in the woods. The eight-legged predators climb the trees effortlessly, hiding behind the branches and hurling their web at unsuspecting victims from above.
+For the egg to be turned into a unit for a hero's party it is necessary to build a Swamp Trappers Guild.#
+
+34. Centaur
+#Centaur warriors are famous for their swiftness and fearlessness. Every centaur is an expert archer. In melee they use heavy hooves, their natural weapons. Unlike human cavalry, centaurs can pass through the woods without losing speed. Their excellent knowledge of secret paths gives them additional protection in the forest.#
+
+35. Dryad
+#Dryads are sometimes called «forest maidens» and «spirits of the forest». These magical creatures have long inhabited the woods of Eador. Dryads are peace-loving creatures, however, if an enemy threatens their beloved trees, dryads turn into furious, merciless warriors. Each dryad is closely connected to the forest and its dwellers. The grove is their natural home, an excellent protection against any danger. The flesh of the dryad resembles timber, so it's not easy to inflict this «forest maiden» with a serious wound. Dryads also possess a natural resistance against harmful spells.#
+
+36. Ghoul
+#Ghoul, corpse-eater, ghast, wight - these creatures have many names, all arousing horror and disgust in the minds of mortals. Ghouls usually live on graveyards, feeding on corpses they dig out of the graves. However, they do have a taste for fresh meat and never miss a chance if anyone enters their domain carelessly. Unlike zombies, ghouls are sentient beings with a spark of life in them, which makes them all the more dangerous opponents. Ghouls are rather swift, and their long sharp claws - used to digging graves and ripping apart corpses - are a deadly weapon. Another danger is that a wound inflicted by a ghoul's dirty claws is very likely to get infected. Besides that, a ghoul's body is covered with cadaverous poison, forcing its enemies to avoid it as much as possible. Ghouls also have the ability to heal their wounds, but for this they need food.
+A particularly successful creation may well be specially marked.#
+
+37. Fiend
+#Fiends are a step above the imps in the Chaos spawn hierarchy. These creatures do all the dirty work, they are tasked to destroy temples of order and other sacred places that prevent the forces of Chaos from consuming a shard. The fiends kill all living creatures they can handle. Legends and tales blame them for seducing the minds of mere mortals, for spreading vice and filth. That's not really true, perhaps the legends confuse fiends with the devils, who are indeed capable of such sophisticated tricks. The fiends are mere footsoldiers of Chaos, capable only of destroying and killing. Armed with tridents, they never hesitate to use their horns, teeth and hooves in battle as well. The fiends' rage and yearning for destruction will sow fear amongst enemy troops.
+The most powerful and violent fiends can become the focus of attention of the Lords of Chaos.#
+
+38. Hellhound
+#The history of these creatures goes back to the Wars of the Gods. The legends of those times speak of «fire-breathing creatures who stalk the gods, sowing death». Perhaps hellhounds were initially used to track down gods hiding from Chaos, but by now these creatures have taken a strong position in the army of Chaos and are used in a great number of ways. Hellhounds are perfect for destroying enemy ranged units and mages - it's virtually impossible to run away from them. Hellhounds also take part in the devastation of settlements - they track those who attempt to hide or flee.
+The most ferocious and strong hellhounds can become the object of attention of the Lords of Chaos.#
+
+39. Gargoyle
+#Word has it that the spell for creating gargoyles was invented by the wizard Aznarr, the famous battlemage who set a whole host of gargoyles upon his enemies in the battle at the Tower of Four Winds. A gargoyle is a flying creature made of stone and animated by magic. Stone golems used in battles in ancient times were stronger than gargoyles but very slow and clumsy, posing little threat to a more maneuverable opponent. Gargoyles, being able to fly, sow chaos among the enemy, disrupting their ranks and preventing them from gaining an advantageous position. It's hard to deal damage to gargoyles with either magic or ordinary weapons due to the fact they are crafted from particularly strong stone. Inflicting blows to their stone flesh damages not only the gargoyle itself, but the attacker's weapon as well.#
+
+40. Warrior
+#Warriors shine when it comes to trading blows. They have the strongest health of all heroes, and are able to wield the heaviest armor and weapons.#
+
+41. Scout
+#Scouts are professional marksmen. They can use all kinds of ranged weapons, but can only use light armor and cannot employ shields. Scouts have the greatest selection of various non-combat skills.#
+
+42. Commander
+#Commanders can lead large armies, and their skills are focused on improving the abilities of their soldiers. Commanders can use medium armor and shields.#
+
+43. Wizard
+#Wizards possess the greatest amount of spells. Their skills are focused on enhancing the power of their incantations. They can use wands, but no armor, shields or melee weapons.#
+
+44. Knight
+#Not everyone can become a knight. As a rule, only those of noble blood are admitted to the knightly orders. Noblemen are trained in horseback riding and swordsmanship from childhood, and their mentors in the order hone their skills to perfection. The knights are clad in excellent armor, often made of iron alloyed with mithril. The honor and valor of knights are well-known all over the shards, as they loyally follow their order's code of conduct, defending the weak and destroying the minions of evil. The morale of the knights is high, and their combat skills are best revealed in the open, where these heavy horsemen can use their mounted charge.
+The best warriors have a chance to be transferred to an elite squad.#
+
+45. Priest
+#Priests of the Lord of Light, or the Eagle God as he is often called, pursue their own goals, which are incomprehensible to most mortals. When in battle, they tend to side with the forces of Light, although clerics joining a party of druids is not unheard of.
+Those most obsessed with combating evil join the Inquisition, yearning to burn out human vices with fire and sword. In combat, clerics call upon the power of their Lord to heal the wounded or destroy their enemies. Any cleric can dispel enemy magic.
+The best warriors have a chance to be transferred to an elite squad.#
+
+46. Catapult
+#These powerful, self-propelled, unmanned siege engines directly controlled by the army commander are a rare and valuable weapon. Only dwarven craftsmen know the secret of constructing these catapults, and that's what makes these war machines so expensive. They are well worth their price however. Long-ranged, accurate, and strong, catapults have only one disadvantage - their low speed. Make sure to keep these war machines away from the enemy in combat.
+The best warriors have a chance to be transferred to an elite squad.#
+
+47. Gryphon
+#These fierce predators are called «lords of the skies» for a reason. A flock of gryphons can defeat even a dragon in the air. Naturally, any Master would love to have such a force among his troops. No one has yet been able to tame gryphons however. The only way to control them is to use a complex subduing spell that allows the user to channel the gryphon's rage but does not suppress it fully. Thus enchanted, the winged creatures are hardly any different from their wild counterparts. The downsides of this spell are the high consumption of gems to maintain it and the inability to mount a gryphon - in order to do that, the caster would have to suppress the creature's will completely.
+Most gryphons can be equipped with durable armor.#
+
+48. Mage
+#Battlemages who have passed the initiation of the Mages Tower and mastered the powers of the elements are a force to be reckoned with. These magicians are ill-tempered and expensive, but heroes still eagerly accept them into their ranks. Even a solitary magician can destroy countless enemies in one battle. Besides powerful attack spells, every magician possesses a sizable arsenal of elemental enchantments, which he constantly expands as he gains combat experience.
+The best warriors have a chance to be transferred to an elite squad.#
+
+49. Executioner
+#This caste was created in the age of the Dark Empire, when Emperor Argahad subdued several hundreds of shards by his iron will. These warriors were initially called «ragkhu», which meant «vindicator» in the imperial language. Ragkhu troops maintained order in provinces, disposing quickly of «enemies of the Empire». People named them «executioners» for that, and that name remains to this day. When the empire fell, the incredibly powerful ragkhu order didn't share its fate. The executioners became professional mercenaries, offering their service to anyone willing to pay for it.
+An executioner is well-equipped and extremely skilled with his deadly weapon, a battle axe. Staying faithful to tradition, executioners are primarily trained to fight large but poorly armed crowds.
+The best warriors have a chance to be transferred to an elite squad.#
+
+50. Ogre
+#Ogres have long inhabited the hills and caves of Eador. These enormous humanoids arouse terror in any peaceful population. They are well known for their appetite in human flesh. Ogres have no social structure, they live alone or in small clans at most.
+Orcish tribes often form a weird sort of alliance with ogres, sharing their loot and feeding them the occasional orc fallen out of grace with a chieftain. Ogres are rather dense. In combat they rely exclusively on brute force, with which Nature has generously endowed them. Often they start devouring their dead enemies (or allies) right on the battlefield. Such a meal heals an ogre's wounds almost instantly.#
+
+51. Minotaur
+#Minotaurs are among the most mysterious creatures in Eador. Word has it they were created by Myrthum, the God of Mysteries. No one knows whether that's true or not, as Myrthum vanished in the age of the Wars of the Gods, leaving behind many mysteries and rumors. It's common knowledge that some mystical ties connect minotaurs to their Labyrinths - the strange ancient structures found on many shards. Minotaurs are warriors by nature. They know no other occupation. They have no families or social structure. No one has ever seen minotaur children or females. The sages say that minotaurs appeared in the labyrinths because of some strange spell that no one has ever been able to unravel.
+During combat minotaurs fall into a rage that is close to madness. They feel no pain in this state and fight to the last drop of blood.#
+
+52. Manticore
+#These dangerous predators make nests in the caverns upon high cliffs or dig their holes in the slopes of steep hills. Manticores are reckless, they love hunting humans because humans are the most unpredictable and cunning prey. Apart from the ability to fly and their deadly venom, nature has blessed manticores with a well-developed intellect, which makes them extremely dangerous. Harpy flocks often worship manticores, bringing all sorts of offerings and sacrifices to their nests.
+In combat, manticores attack their enemies with teeth, claws and a poisonous tail sting. These creatures are especially dangerous for archers and mages. Flying effortlessly over the infantry, they can destroy ranged units right at the beginning of battle.
+For the egg to be turned into a unit for a hero's party it is necessary to build a Handler's Guild.#
+
+53. Unicorn
+#Unicorns are mystical creatures inhabiting Eador's ancient forests. Together with fairies and dryads, unicorns are forest guardians, ready to protect their woods from any outside threat. Elves consider unicorns sacred creatures, messengers of Larnallyole - the ancient God, patron of elves, killed in the war against Chaos. Other races never understood unicorns, thinking they were strange or even dangerous.
+A magic horn that pierces any armor is the unicorns' main weapon in combat. Unicorns seldom leave their native forests, since forests give them power and protection.#
+
+54. Troll
+#Trolls have long inhabited the swamps and bogs of Eador. These dumb, malicious creatures enjoy killing and destroying just for the thrill of it. Trolls also have an inexplicable love for gold and treasures, which they store in their secret lairs. Legends have it that trolls are members of some ancient race transformed into dumb bloodthirsty creatures by a curse. Goblins are the only beings able to coexist with trolls.
+These small green-skinned folk often hire trolls to guard their lands, paying them with gold and prisoners of war. Trolls are dangerous enemies in combat. They are incredibly strong and enduring, able to crush a stone wall with their fist. Their thick skin provides excellent protection against plain weapons and magic, and their natural ability of regeneration makes trolls extremely hard to kill. Their main shortcoming is their low speed.#
+
+55. Ghost
+#One of the secrets of higher necromancy is the ability to capture the souls of mortals, turning them into the necromancer's slaves. Not having a real body, a soul cannot interact with the material world, so necromancers create a simulacrum body for them from necrotic energy. Such souls trapped between life and death are called ghosts. They hate all living things and try to drag as many souls into the world of the dead as possible.
+A subtle ghost body constantly flickers, moving between two worlds - the world of the living and the world of the dead. This gives them huge resistance to physical damage - a ghost can take on a whole army by itself, if wizards are not part of it. A careful and skilled warrior however, can capture the moment when the ghost becomes material, and hit it with his normal weapon.
+Each killing restores the strength of the ghost and regenerates it. In case a ghost absorbs unusually large quantities of other souls, the necromancer can strengthen it, turning the ghost into a more powerful being.#
+
+56. Demon
+#The demon is a primary combat unit in the army of Chaos. They take the top rank among the ordinary creatures in the Chaos hierarchy. During the Wars of the Gods the demons were the force behind the destruction of many shards and the death of many gods and higher spirits. Fortunately, nowadays the number of demons is much lower than in those ancient, turbulent times. However, even a single demon is a serious opponent. These winged creatures sow fear among their enemies by eerie shrieks that drive mortals insane. In melee combat their long claws rend iron armor as effortlessly as they rend flesh.#
+
+57. Paladin
+#Legendary fighters against evil, paladins are known throughout Eador as destroyers of the forces of Chaos and protectors of the common people. They say the Lord of Light himself, the Protector God of humans, founded the order of paladins. Anyway, in dark times like this there's a lot of work for these holy knights. Often, when their goals are in line with some Master's intentions, paladins join the ranks of his army.
+In combat Paladins are a dangerous force. Their morale is unwavering, and their swordsmanship skills are unrivaled. They are armed with holy swords that smite evil, and vested in blessed armor that provides protection even against magical weapons. A paladin is blessed with the gift of being able to heal the wounded by laying his hands on them.
+The best warriors have a chance to be transferred to an elite squad.#
+
+58. War Elephant
+#The art of taming elephants goes back to the age of the Great Empire. An army of war elephants allowed Emperor Daokon to conquer many small kingdoms and principalities, trampling their defenses into the ground - quite literally. The Empire is long gone, but some of the most powerful monstrologist guilds still guard the secret of taming these enormous animals. They eagerly lend their services to any ruler who has enough gold to afford them. Breeding and keeping war elephants is a complex and expensive endeavor, but it's well worth it. An army of war elephants can crush virtually any opponent.
+Most war elephants can be equipped with specially enchanted armor.#
+
+59. Warlock
+#Warlocks are adepts of necromancy and dark sorcery. They have spent many years learning the secrets of the dark arts, day by day probing the depths of forbidden magic. Warlocks are feared by everyone, from mere mortals to the very rulers who recruit them in their service. So great is the warlocks' power over the forces of Death that the enemies they defeat are not laid to rest. Instead, they rise from the dead to continue fighting at their slayer's side.
+Gaining experience in battle, warlocks greatly expand their arsenal of spells, learning more and more powerful spells of the school of Death.
+The best warriors have a chance to be transferred to an elite squad.#
+
+60. Dragon
+#Few creatures in the world of mortals are more powerful than dragons. These enormous ancient creatures lead a secluded life, rarely leaving their lairs. In the course of their unbelievably long lives, they collect hoards of valuable weapons and armor left by the knights daring to challenge them. 
+In combat, dragons know no equals. Their scales are incredibly tough, and all dragons are immune to magic.  This ancient creature is so strong that a single one is easily capable of crushing an entire army.
+For the egg to be turned into a unit for a hero's party it is necessary to build a Reliquarium.#
+
+61. Treant
+#Researchers name these strange creatures resembling walking trees «Treants». They name themselves differently however: «Ents». They are an ancient race inhabiting Eador's oldest forests. They are the guardians of the woods and keepers of ancient knowledge. Elves respect ents and often ask them for advice. Other races are wary of treants, mainly because these beings are hostile towards anyone who harms forests.
+The bark-skin of treants is incredibly strong, and their arms possess immense power. In combat, ents entangle enemies with their roots, rendering them unable to move. Treants can put their roots down into the ground at any time, drinking its restorative sap to heal their wounds.
+For the acorn to be turned into a unit for a hero's party it is necessary to build Stonehenge.#
+
+62. Hydra
+#A multiheaded poisonous creature lurking in the deep pools of Eador's swamps. The hydras are sometimes called «swamp dragons», for they are almost equal to the dragons in power. Hydras are too lazy to leave their lairs often, they feed on the creatures careless enough to wander into the bogs. However, hunger may drive a hydra out of its lair. A hungry hydra is most dangerous, leaving behind a trail of its victims' gnawed bones, feeding on any living creatures, from goblins to trolls.
+In combat, a hydra can attack all enemies surrounding it at once. The hydra's bite is poisonous and they are able to regenerate and heal their wounds.
+For the egg to be turned into a unit for a hero's party it is necessary to build the Monstrologists Guild.#
+
+63. Cyclops
+#These fierce one-eyed titans dwelling in the hills of Eador are by far the smartest among all the giants. Often cyclopes manage to subdue giants and ogres. Sometimes they even enslave orcish tribes, forcing the orcs to provide them with food. Their ill temper and enormous strength make cyclopes extremely dangerous.
+In combat, a cyclops relies on his incredible power, often stomping small or injured enemies to death.#
+
+64. Vampire
+#Vampires are rightfully considered the most dangerous among the undead. These winged creatures hide in their crypts during the day and fly out to search for flesh blood at night. They say that whoever is bitten by a vampire soon becomes a winged blood-drinker himself. Most likely, these rumors aren't true, otherwise the number of vampires in Eador would be much greater. Holy water, garlic, holy symbols, and aspen stakes aren't as effective against vampires as legends claim. The surest way to lay a vampire to rest is by chopping it into pieces. That's easier said than done however, since vampires are incredibly strong and fast. Besides, they restore their health in combat by feeding on their enemies' blood. Like the rest of the undead, they feel no pain and know no fatigue or fear.#
+
+65. Devil
+#Devils rightfully occupy the top rank in the hierarchy of Chaos spawn. Endowed with their own will, self-awareness, and intellect, the devils lead the armies of Chaos. Other spawns of Chaos obey them without question. Devils surpass their lesser counterparts not just in intellect, but in physical strength as well.
+In combat devils can shoot lightning and instantly move around the battlefield. Another aspect that makes the devils so dangerous is their ability to devour the souls of defeated enemies, thus regenerating their own health.#
+
+66. Giant
+#The giants are by far the largest among the colossal clans of Eador. They are strong enough to attack other races, even cyclopes and ogres, and walk away unpunished. Hurboch, the strong and incredibly wise Lord of Giants, was the first among them. Using his strength and knowledge, Hurboch formed military alliances with cyclopes and ogres to fight back their common enemies and commit atrocities in the newly conquered lands.
+In combat, giants hurl huge rocks at their enemies from a safe distance. This ingenious tactic is said to be invented by Hurboch himself - making him the wisest of all giants, indeed.#
+
+67. Medusa
+#The medusas are among the most ancient creatures of Eador. No mortal in history was ever able to perceive what drives these snake-women. It is known they tend to live in the swamplands, creating their own «gardens of stone» by turning anyone who has the misfortune of wandering into their domain to stone. Apart from their petrifying gaze, medusas are dangerous because the snakes these creatures have for hair are poisonous. Even if an enemy manages to get up close and personal with a medusa without becoming rock-solid, he will most likely be killed by the deadly venom of her «hair».
+For the egg to be turned into a unit for a hero's party it is necessary to build the Trappers Guild.#
+
+68. Giant Slug
+#Giant slugs prefer humid areas, such as swamps and town sewers. They feed on any organic substance, so any living creature is but a supplement for their diet.
+The slug's ability to spit poison poses a great threat to its enemies. When it comes to melee, slugs aren't that easily defeated either. These creatures are so dangerous that a mere touch of their slimy flesh is enough to cause poisoning.
+For the eggs to be turned into a unit for a hero's party it is necessary to build the Swamp Trappers Guild.#
+
+69. Lizardman
+#Lizardman warriors are known for their great vitality: their natural regeneration allows them to heal the most terrible wounds very quickly. Although their bone spears, turtle carapace shields and seashell armor are a far cry from quality equipment, a lizardman's great strength and agility more than make up for the lack of good gear.
+It's especially hard to defeat lizardmen in the swamps, for the boggy marsh is their natural habitat.#
+
+70. Phoenix
+#A mysterious bird that dwells in the world of pure flame but, unlike the ordinary elemental spirits, possesses self-awareness. Phoenixes are most well-known for their ability to rise from their ashes after they have died. Very few mages can get hold of such a powerful ally, and even they are unable to secure a phoenix' help for long. Phoenixes cannot live in the physical plane and are constantly yearning to return to their native fiery element.
+The only exception are phoenixes born in the physical plane. Such cases are rare however. Not many people know how to acquire a phoenix egg from the fiery plane, and those who do are not willing to share their knowledge with others.
+For the egg to be turned into a unit for a hero's party it is necessary to build the Monstrologists Guild.#
+
+71. Stone Golem
+#The magic of creating stone golems dates back to ancient times. The enchanters of the past had most likely learned the secret of this spell from the Ancients themselves. Since then the spell was gradually improved and perfected. The golem's low speed is more than compensated for by its natural protection. The vulnerability to magic used to be considered a battle golem's primary shortcoming. However, recently the mages from the Arcania Academy succeeded in creating golems who are immune to magical spells. Unfortunately, virtually all magical energy is used to sustain the anti-magic shield, leaving golems still vulnerable to the simpler magical attacks.
+For the ingot to be turned into a unit for a hero's party it is necessary to build the Artifact Master.#
+
+72. Witcher
+#Witchers are monster slayers for hire. The first Witcher Brotherhood was established during a time of colonization in the wild. This shelter was strategically placed to avoid interruptions during the process of creating future witchers.
+The creation of a witcher is an arduous task, beginning as the potential witcher reaches the age of ten. The youth must endure a series of dangerous tasks on his path: only one out of ten candidates survive this perilous period. A witcher must metamorph his muscle and skeletal structure to endure the combat stress involved. The most important phase of a witcher's creation is the acquired talents of alchemy by ingesting plant extracts and mixtures which manipulate the composition of blood, metabolism and genetic infrastructure. From all of this endurance, the witcher becomes immune to poisons, diseases and various magical afflictions.
+In addition, a witcher bears a set of highly efficient magical abilities, known as signs.#
+
+73. Brute
+#The strongest of all orcs. Few have survived a fight against these elite orc soldiers. Brutes are tougher and stronger than their regular counterparts. They also have the best weapons, dubbed "little brothers". The monstrous power of their impact not only damages armor, but also stuns foes. And if an enemy does manage to wound a brute, his vengeful rage knows no bounds.
+Brutes choose not to wear armor, instead relying on their natural constitution and raw strength to carry them to victory.#
+
+74. Death Touched
+#Some magicians, fearing imminent death, often try to avoid this by empowering their bodies with immortality, a ritual known as the Eternal Night - the path of lichdom. They must gather the necessary rare ingredients for this crude, dangerous procedure. The slightest error in the creation of the phylactery or an overdose of one particular ingredient in the alchemical brews, and the magician will die an excruciating, irreversible death.
+Notes pertaining to the path of lichdom have no solidification that the ritual will guarantee success. One must also be a truly powerful spellcaster - a trait that many failed magicians misunderstand about themselves. In stead those failed magicians become what is known as a death touched. While death touched are much more vulnerable than their aspired manifestation, they still retain the power they contained in life.
+Thus they can expand on what they would have lost as a dying mortal. Their magical abilities are much more inferior to those of a full lich.
+Nevertheless, the transformation did not diminish the power they held when they lived, thus it is very dangerous to disturb the peace of a dead wizard, whether intentionnally or accidentally. And the long, practically eternal life, to which they so aspired, allows them to patiently hone their magic skills and learn powerful new spells.#
+
+75. Dracolich
+#Everyone knows that a dragon is one of the most dangerous enemies. When a dragon is conjured from death to undeath, their sheer power only increases. This being, known as a dracolich, is the most authoritative undead creation. The dracolich is obsessed with only one desire - to destroy all living beings and to devour their remains. Its durable ivory frame makes this creature hard to hit with melee weapons and arrows. In addition to its rough carapace, it possesses superior magic resistance.
+Like the rest of the undead, the dracolich knows no pain, fear or fatigue, and is immune to poisons.
+For the phylactery to be turned into a unit for a hero's party it is necessary to build the Tower of Necromancy.#
+
+76. Behemoth
+#The behemoth is a mighty creature of barbarian folklore. Legends from the tribes describe this creature as having been sent down by the Skyfather when their people were banished from civilization. During this time, many shamans prayed for counsel and made sacrifices. One night, when a powerful shaman brought himself to the sacrificial altar, the sky lit with a bright flash as lightning struck the ground, and in the midst of that sudden natural phenomenon, the behemoth appeared. It was because of this magnificent creature's desire to defend the tribes from colonists that they were able to avoid their inevitable doom. They brought it gifts, fed it prisoners and otherwise worshiped it. It was surprising that the bloodthirsty monster didn't touch the barbarians themselves,
+except when some idiot inadvertently entered its lair. The behemoth is a fearful creature to those who manage to enrage it. It possesses excellent health and is literally able to tear apart any creature, thanks to its huge claws, which are hard as diamond and almost two feet in length. A kick from the behemoth can shatter a man's bones into dust. Fortunately, the monster's sheer size and lack of protection can lead to its defeat, if there are enough attackers swarming it.#
+
+77. Goblin-archer
+#Goblin-archers are cowards even by the standards of their kin and prefer to remain in the rear. They consider themselves smarter and more cunning than their common counterparts as the chances of survival are high. Should they encounter a foe in melee, however, they instantly lose that confidence.
+Although not particularly accurate, their arrows are sharp enough to provide fair support in the heat of battle. As a result, goblin ambushes and raids are more likely to succeed, especially in a swampy environment.#
+
+78. Swordmaster
+#Service in the Guard is subject to strict selection and rigorous training. Guards that have proven their skills in a trial for ownership of a two-handed sword, by successfully holding it for several minutes in a trial against a master without receiving wounds, are awarded the honorary title of "Swordmaster" and are promoted. Only born fighters are permitted to enter these rigorous trials before they can don their magnificent ironclad platemail - often forged with the rare, but resourceful mithril - and arm themselves with the sharpest weapons. In peacetime, a swordmaster continuously improves his combat skills, and in war they are used as a means to break the enemy's battle formations, turning the tide of battle. On a battlefield, swordmasters can withstand far more than the average man and can easily punch through a foe's defense. A lull in the fighting allows them to rejuvenate and treat wounds. Through continuous training swordmasters wear their armor so easily that they can even run in them. Their weapons, forged by the incomparable craftsmanship of their finest masters, can easily penetrate any armor.#
+
+79. Dwarven Cannon
+#Few people have ever heard of these unusual devices, and even fewer have ever personally witnessed what they are capable of. The monstrous dwarven Earthshakers are too heavy and too large to transport. But this masterpiece is something different. This war machine has the ability to move and although in this mode its shots are still terribly strong, when it actually stops and remains still, every shot brings death to all units adjacent to the target.
+For the contract to be turned into a unit for a hero's party it is necessary to build the Great Hall or the Mechanics Guild.#
+
+80. Ranger
+#Experienced archers often hunt while they are on patrol, honing their scavenging skills. Those who prove themselves to their captains are promoted to rangers. They are provided exemplary composite bows with steel-tipped arrows. Rangers perform solitary tasks, from delivering mail through wild heathland to monitoring the enemy for a few weeks. Rangers are less likely to travel in groups - instead proving their tactical worth by lurking in the shadows of the forests, waiting for the moment to execute their chosen prey.#
+
+81. Ironclad
+#Those of the swordsmen who have survived dozens of battles, defeated dozens of men and endured the loss of countless brothers-in-arms, will eventually be promoted to the ranks of the ironclad. These veterans are held in high esteem by their commander. They are equipped with shields and high quality armor. There's one thing about them you can be sure of: Ironclad do not falter when under enemy fire or in melee combat.#
+
+82. Giant Eagle
+#Huge birds that usually nest in the mountains. They can pose a serious threat in great flocks. Fast and strong, they are able to use their beaks and claws on creatures even larger than themselves.#
+
+83. Wolf
+#A wolf, a plain wolf, a common forest predator. Wolves prefer fresh meat, but they are not picky about other kinds of nourishment. Although the wolf is not a particularly dangerous foe to engage by itself, a pack of them could easily overwhelm an unprepared victim.#
+
+84. Sniper
+#At the peak of a crossbowman's career, they are promoted to snipers by their commanding officer. Snipers are provided better equipment to take advantage of their honed skills, and they have a particular knack for putting an end to targets from a far distance.#
+
+85. Berserker
+#A powerful warrior capable of going berserk in battle. These warriors enter battle wielding only a huge axe. In their berserker state of mind, they are oblivious to pain and fear. Berserkers with their unrivaled fighting skills often turn the tides of battle in their master's favor. Always at the front lines, where the most violent slashing occurs, these mighty men show the barbarians by example how to live and die as a true son of Heaven and Earth.#
+
+86. Veteran Spearman
+#These seasoned warriors often begin a battle by heaving their barbed pilums at their foes, causing puncturing wounds. Often veteran spearmen do not enter melee combat, but throw their projectiles at the enemy from behind their armored comrades.
+They are garbed in leather armor, reinforced with metal inserts, thus offering better protection against ranged weaponry.#
+
+87. Witch Doctor
+#How shaman magic actually works has not been studied as well as the schools of other spellcasters. The shamans however have their own masters and experts on charms and potions, respectfully called "Witch Doctors". They are feared by other shamans and even some magicians don't consider it shameful to learn a thing or two from them. Witch Doctors are expert at healing and combat techniques based on the power of plants and minerals, but the real basis of their power is something else. These highly talented shamans are able to subdue small astral spirits and absorb them into their own body. Through this a battle shaman can extend his own life and he becomes more resistant to magical effects. Also his energy reserve is restored very quickly.#
+
+88. Cutthroat
+#Despite their love of killing, some killers still find their way into active units, as cutthroats. Each commander with at least rudimentary tactical skills can understand the benefits of such fighters - fast and deadly, these cutthroats can spill blood. For a true master assassin it's not difficult to inflict a mortal wound on an enemy healer or poison a giant. A cutthroat would find good use in an army whose commander is not too worried about his reputation and is only interested in the death of his enemies.#
+
+89. Cavalryman
+#A cavalryman is a skilled rider and experienced combatant who surpasses other mounted fighters. Commanding officers of a particular detachment will critically observe these riders, justifying expectations before deciding whether one is prepared for a unit transfer. Upon transfer, cavalrymen are provided superior equipment - a long, steel pike and reinforced chainmail for both the rider and his mount.
+A single cavalryman can turn the tide of a battle with the right execution of his charge. Even if the enemy was not cowed, cavalrymen are able to quickly regroup, recuperate and strike again.#
+
+90. Valkyrie
+#It takes a special sort of battle-hardened woman to tame a pegasus, for the winged creature prefers its independence over an ugly harness. These women who earn the trust of a particular pegasus are called valkyries - known by loremasters as "Virgins of Battle". These women are considered celestial, both in exotic beauty and unprecedented strength. Knowing full well that a pegasus is highly valued in an army, valkyries pledge themselves riding on a winged steed.
+As a rule, the period of such a service is not long by the standards of the valkyries - just a few years - but for mortals this is more than enough, and military commanders gladly take them in.
+In battle, valkyries are swift with their spear strokes. In addition to melee, valkyries have mastered the art of projecting their spears directly into the hearts of their enemies without error. Unfortunately, because of the altitude, their shooting range is not very long and their ammo supply is very limited.#
+
+91. Bone Spearman
+#Skeletons that have the sense to attack from a distance are something to be feared. Possessing inhuman strength, the skeleton is able to project their spears quite far, making them terrifying instruments against unarmored individuals in the rear.
+Like all skeletons they are fragile, but hard to hit with ranged weaponry. Like any living corpse, it feels no pain and knows neither fatigue nor fear.#
+
+92. Mummy
+#While zombies are easily conceived creations of necromancy, some necromancers have an acute desire for something greater than its more durable, deadlier subjects. After an arduous ritual involving the infusion of magic, the necromancer can manifest an obedient servant: the mummy.
+Mummies are strong and hardy and have a high resistance to spells. This creature can curse an enemy, reducing its combat attributes. Magic disease causes considerable suffering, and healing the wounds inflicted by a mummy is almost impossible. Even if the enemy is strong, a mummy can always wait a while until the curse has done its work.
+Destroying this creature is quite difficult, so it's better not to get too close to it.#
+
+93. Champion
+#Among the knights at grand tournaments, the winner will receive the title of champion and can continue his military service within a special unit. Only the most worthy, the most courageous, the most skilled - the elite among the knights - are serving in it. Champions are employed only by the most worthy of men and are often considered role models for young boys aspiring to becoming knights. They are noble, well-behaved and resilient.
+Like all horsemen, knights can use a mounted charge to inflict a crushing blow. Swift in combat, champions can seize the initiative and strike before an opponent can make a move. Their robust armor grants solid protection from most threats and their lawful, renowned presence leaves wicked individuals trembling in fear as they draw near.#
+
+94. Cerberus
+#A particularly large and ferocious hellhound can undergo a painful transformation over a stretch of existence. The sickening mutation leads the hellhound to acquire two additional heads, each being capable of tearing apart any fleshy morsel with their sharpened teeth. The terrible memory of this painful evolution fuels the cerberus with enough rage to enhance its already quickened speed. While one head gnaws at an enemy, the other two can seize portions of the victim, leading to devastating results.#
+
+95. Succubus
+#Mostly a demon, a demon with a difference. A sub-class of the demonic plane, a succubus takes great pride and pleasure in her ability to charm other creatures with her alluring gaze and distorted beauty. Her power to dominate the mind of a victim makes her a resourceful instrument in battle. The only good news is that this uncanny ability requires lengthy and thoughtful training. Her charm is not the extent of her talents though, for the succubus is trained in sorcery and can project clusters of fire.
+A skilled succubus can arrange her temporary suitors in a line, destined to die in lust from her deceitful, burning passion.#
+
+96. Goblin-shaman
+#There are those among the goblins who have the skill to interact with the ethereal realm. Although this talent is inferior to man's spiritual discoveries, goblin-shamans are not to be underestimated.
+These smallish green creatures more than compensate for their lack of magical prowess with the appliance of herbs, mosses and other flora or fauna. Their swampy habitat provides them with a plethora of such natural ingredients, some of which are yet to be discovered and documented by human wizards.
+The genesis of a goblin-shaman's path begins with the creation of an enchanted staff. This staff allows the shaman to strike enemies from a distance with charged, raw magic. In melee, this staff is capable of carving through armor like a hot knife through butter.#
+
+97. Destroyer
+#The destroyer is a living siege machine from the demonic realm. Its thickened red carapace can withstand thrown boulders, and in return, it swings with massive claws, decimating whoever is unfortunate enough to stand before it into a pile of blood and viscera. The force of its strike is so great that it's rare to find armor that can soften that blow somewhat.
+The sheer scope and enormous strength of the destroyer is best observed during a siege. There are few walls able to withstand the creature's harrowing strikes as it tears apart chunks of stonework.#
+
+98. Lord of Abyss
+#While demons are renowned for their overt aggression within the material realm, the Lord of Abyss prefers to operate from the shadows, watching and waiting for the opportunity to unleash Hell. While this creature's physical capabilities contend with those of the immortals, its preference in combat is that of infernal magic. This arsenal truly is a devastating sight to behold,
+for it has the potential to level entire cities and armies without much effort - its movement through teleportation hastens its ability to project large balls of fiery brimstone, making it the deadliest creature to face in single-combat within Eador. Be wary of these creatures!#
+
+99. Spawn
+#The spawn is the result of a man's desire to unleash his inner-demon by entering a hellgate during a demonologist's ritual. And even though one needs at least some spark of magic to become a demonologist - a Chaos spellcaster - passing through the fires of hell one is stripped of any and all magical powers. Once that mortal returns through the hellgate, he has metamorphosed into a fleshy, bulging creature filled with one sole purpose: murder!
+Very tenacious in its actions, the spawn jumps upon its enemies with sharpened claws and hooked fangs. Its strength is fueled by its lustful frenzy.#
+
+100. Bugbear
+#Strictly speaking, bugbears are not really orcs. Bugbears are the repugnant result of interbreeding between orcs and goblins. Both consider them lesser beings. Bugbears live in sanctioned communities within orc tribes, left to their own devices and called to arms when the chieftain wills it.
+While bugbears are not nearly as strong as orcs, they have the same cunning intelligence as goblins, without sharing the fragile stature of these little green creatures.
+In order for a bugbear to prove himself to the orc tribe, he must go out hunting and return with a pair of elven ears. The worth of a bugbear can be determined by a necklace of elven ears worn at all times. Armed with crude, yet powerful shortbows, and trained to scavenge, bugbears are effective predators.
+They have the canny ability to sneak up on their targets, which make them dangerous foes on any terrain.#
+
+101. Ancient Ballista
+#Dwarves are ever ready to create siege engines for anyone who is willing to pay their price, but even the creations of these master craftsmen cannot compete with this particular ballista. These ancient machines were created before the Cataclysm and though rare, are still functional and dangerous.
+Like all machines, these ballistae of the Ancients, though far superior in strength to regular ones, are still relatively vulnerable to melee and magical attacks.#
+
+102. Ancient Catapult
+#Everyone knows that only dwarves know how to make a good catapult. But few know that these great destructive devices, which cause so much excitement among soldiers - unless those soldiers are forced to attack fortifications protected by catapults, then the reaction is reversed - are just a pale remnant of the awe-inspiring siege engines of the Ancients, which were copied by the dwarves, apparently the first to discover them after the Cataclysm. It cannot be ruled out and is even quite likely that the reduced power of modern catapults are a deliberate design modification made by the dwarves, for everyone knows their scrupulous and meticulous attitude to all things mechanical, and it's highly doubtful that the dwarves somehow misunderstood something, or were incapable of reproducing it exactly the way they wanted.
+Nowadays these devices can only be found in the unexplored recesses of Eador. These Ancient Catapults are powerful and dangerous... but slow - and this is perhaps their only drawback.#
+
+103. Runemaster
+#Dwarven magic is different from the techniques known among human wizards or elven druids. Dwarven spellcasters don't incinerate enemies with fireballs nor do they cause lightning to fall from a clear sky. Their art requires extensive training and a whole arsenal of tools, for it is based on the instant activation of an entire "chain" or "cascade" of rune spells, carefully and painstakingly recorded and cut before the fight.
+A runemaster dedicates his life to the study, preservation and improvement of his art and on the battlefield he is typically engaged in combat support and the repair of machines and golems. These spellcasters are often of respectable age and not often seen in the front lines of dwarven armies. They are protected by superior enchanted armor, allowing them to virtually ignore the missiles and blows of those who manage to get close enough.
+With experience a runemaster not only learns to repair and improve the siege engines of their own army, but also to sabotage the siege engines of the opposing forces. A veteran runemaster may even be able to take control over an enemy catapult - which can turn out to be a deadly surprise on the battlefield.#
+
+104. Earthshaker
+#Dwarves sell catapults manufactored by their people all too eagerly and without caution to anyone willing to pay. Do they not realize that many rulers are all too willing to turn their own weapons against them in an instant, using them to relieve the Dwarven people of their gems and gold? No, the dwarves are not that naive. They are aware of the risk... but they don't care, believing themselves well protected by the mountain strongholds of their people.
+The earthshaker is vastly superior to a conventional catapult in both range and damage. By means of a complex system of levers and counterweights it is able to throw stones and metal pellets at incredible distances. The most talented rune craftsmen are needed to build an earthshaker. Enchantments are not limited to the siege engine itself. Often, even projectiles are enchanted for increased accuracy and damage. In short, the earthshaker has only one serious drawback: Due to its enormous weight it is very difficult to transport to the frontlines or move on the battlefield. It cannot move on its own and requires a fair amount of manpower to reposition.#
+
+105. Elf-swordsman
+#Heavy infantry is a rare phenomenon among elves, for they prefer to shower their enemies with arrows. Elven swordsmen wear light, flexible armor, allowing them to take advantage of their superb agility. At the same time it is surprisingly strong, and in no way inferior to human armor, often even superior. Their weapons are well-balanced and sharpened with a whetstone before each battle. The innate agility of elves in combination with at least a century of experience make for powerful warriors.
+Lightning strikes and high precision allow them to go up against enemies in overwhelming numbers.#
+
+106. Elf-horseman
+#Elves have an appreciation for horses and would prefer not to risk their lives on the battlefield, but when their assistance is required, their presence is often enough to overwhelm any opposition. This is mainly caused by the fact that elven horses are trained to maneuver through dense forests just as quickly as the elves who ride them. A forest full of these riders is sure to spell doom for any who threaten the elven settlements.#
+
+107. Elf-druid
+#Some elves dedicate their lives to the service of nature and the study of its wisdom, becoming druids - servants of the forest. They rarely leave their sacred groves, but when danger lurks near, they respond. Elf-druids are not honed in melee combat, but they are able to halt their enemies from a distance.
+Druids have no interest in fighting. Any druid is capable of using the blessing of the forest to heal their allies' wounds and neutralize venom. A druid's growth in magical strength leads to more effective spells dedicated toward protection from afflictions.#
+
+108. Huorn
+#Semi-intelligent beings, the huorn are tree-like creatures similar to treants. Huorns are typically the result of a specific ritual conducted by druids. However, some of the old trees, especially in the ancient forests, seem to be falling asleep, with their number constantly dwindling. They are able to reproduce,
+but they are unable to walk. They are more like plants than like animals. A tree that is transformed into a huorn represents an insurmountable obstacle for all flightless creatures. All attempts to cut down a huorn are quickly and ruthlessly opposed - its great strength and tirelessness allows it to fight off an entire horde of "woodcutters" and the hardness and inherent strength of this magical tree makes it a hard enemy to defeat.#
+
+109. Dreamseer
+#There are those among the orcs who are able to tap into the ethereal realm. By learning to control the flow of astral energy, orcs become shamans of the tribe - dreamseers, as they are known - which is highly respected. They have the power to heal wounds and sense the future, but they also lend their strength on the battlefield. With a lack of military prowess, dreamseers bestow curses on their opponents, while ensuring the safety of their accompanying grunts.#
+
+110. Dreamwalker
+#Dreamwalkers are a rare sight among orc tribes. Their spiritual capacity far exceeds that of dreamseers, allowing them to telepathically communicate with other orcs from a distance. They are able to do this when the connection to the material world is weakened - usually at night during sleep. As with dreamseers, dreamwalkers utilize their powers on the battlefield in the form of curses and healing.#
+
+111. Chieftain
+#The head of a particular orc tribe is the chieftain. Some orcs speculate that a chieftain's election is based on his sheer size - a product of giant's blood, some believe. A chieftain's strength and courage certainly rivals that of a giant's. A command issued by a chieftain is all that is needed to rally an entire army of loyal orcs.
+In combat, the chieftain wields an enormous two-handed weapon, capable of clearing all surrounding foes with relative ease. Very few have entered combat with an orc chieftain and lived to tell the tale.#
+
+112. Bandit
+#Even an unskilled thief may be useful to the guild, for instance to establish control over a gang of robbers in the army, if they managed to get recruited. Especially fortunate gangs of rogue thieves may receive an offer to return to the guild, and even become a member of the Brotherhood.
+Bandits are quite valuable to the Twilight Brotherhood, so they try as much as possible to keep them alive. That's why they recruit experienced - and very expensive - teachers of light combat and the art of assassination, which makes bandits into very dangerous opponents - and the poison on their blades even more so. Bandits are usually sponsored by the thieves guild, so they're not as greedy as common thieves.#
+
+113. Lizardman-archer
+#Lizardman-archers are specialized hunters who roam the vast swamps. They are intelligent, observant creatures who maneuver through the murky environment of the swamps with ease. Their equipment far outclasses that of the common fighters, and they take care of preserving it.
+In combat, lizardman-archers provide invaluable support to the footsoldiers. While lizardman-archers aren't particularly honed in melee combat, attackers often forget their venomous fangs.#
+
+114. Lizardman-shaman
+#Within the lizardman society, shamans are highly respected. Shamans believe that they are in direct communication with their deities, but in actuality the Gods rarely deal with shamans - reserving their attention for the elite spellcasters.
+In battle, shamans are called to weaken the enemy through varied hexes, thus allowing their kin to exploit these afflictions. A shaman's abilities may not be impressive, but they are quite effective.#
+
+115. Lizardman-sentinel
+#As with many societies, lizardmen employ their own form of protection throughout their territory. Lizardman-sentinels clearly stand out. They are tall and strong combatants who carry sharpened steel and patrol the perimeter of the camp they're assigned to.
+Despite the heavy weight of the weapons they carry, these lizardmen move quickly and without encumbrance. Like most lizardmen, sentinels are able to heal their wounds quickly. As their experience grows, their prowess with a battle axe can reach great heights.#
+
+116. Lizardman-champion
+#There are various castes among lizardman society, based on skin color. Commoners have various shades of green and rarely hold a significant position of power. Yellow-scaled lizardmen belong to the warrior caste and are vastly superior in strength.
+Those from this caste who prove their worth are regarded as leaders and champions of the lizardfolk. These bastions of the swamps fight valiantly to preserve their land and can often be found at the head of large groups.
+Like most lizardmen, their excellent health allows them to recover even from severe wounds, and their natural abilities allow them free movement through the swamp.#
+
+117. Lizardman-warlock
+#Another caste in lizardman society bears red or purple scales, representing the apex of lizardman hierarchy. These powerful practitioners of magic are usually the leaders of large cities and armies. Particularly a red-scaled lizardman is destined to become the supreme ruler of the lizardfolk.
+Their authority is absolute, and in addition to being excellent mages, spellcasters are in fact in direct contact with their deities, thus strengthening their established seat of power through divine rule. It is said that the gods speak to the shamans, and they don't hesitate to abuse that notion of course, and manipulate their society as they see fit, presenting their own desires as the will of the gods.
+Spellcasters reluctantly join in battle, yet they do not fear it and they don't show their enemies any mercy, nor their own soldiers.#
+
+118. Water Elemental
+#Elemental spirits live on their own Planes, and usually do not leave them voluntarily. Some powerful spellcasters are able to summon them to the Material Plane for a short time. The spiritis materialize in a "body" composed of their element - this is the only way they can withstand hostile environment.
+The elemental spirit of water crushes its enemies under thick, conjured blocks of ice. In addition, a water elemental can heal wounds.
+One option to combat elementals is to banish them back to their plane - a difficult task, but not impossible. Weapons often struggle to pierce the water elemental, and strong magic is required to afflict its glowing presence.#
+
+119. Veteran Slinger
+#After spending a certain time in service, inexperienced youths can become veteran slingers. These young men are provided small bucklers to help them survive the battlefield without hindering their ability to hurl their projectiles at the enemy. Besides their light leather armor and helmet, this significantly increases their chances of staying alive.
+Experienced veteran slingers are capable of quickly shooting down their targets, as long as they're not forced into melee.#
+
+120. Sentinel
+#While pikemen are tasked with facing enemies of one particular city, sentinels are seasoned veterans who ensure the safety of the people with their oaths to prevent any bloodshed. Adding chain mail and plate armor, armed with lances, these fighters are able to tightly block any passage, holding it as long as necessary. Their long reach can strike a foe before he can even approach. Sentinels also wear strong platemail to prevent grave injuries. Armed with well-forged weapons and suited in superior armor, sentinels are trained to withstand blows that would ordinarily cripple a man. Enemy forces will have to put in a lot of effort to merely budge these combatants.#
+
+121. Grand Healer
+#After receiving the blessing of the Eagle God, a healer can be promoted to grand healer. Their healing capacity increases as a result, both in quality and in reach over distance. Like ordinary healers, however, their vulnerability is evident and they need outside protection.#
+
+122. Young Centaur
+#Young centaurs are expected by their parents to learn on the job and accompany the adult warriors and hunters of their tribe. Often times, this results in casualties, which enforces the notion that centaurs must learn from the mistakes of their fallen companions in order to survive the hardships of life.
+Despite the fact that - by Centaur standards - young centaurs are weak and inexperienced, they are no weaker than men. To accommodate a young centaur's still developing muscles, they are provided bows and quivers in order to stay out of danger. Nevertheless, due to their inherent strength and endurance, these archers are able to compete with any human infantry, especially in forests, where their instincts allow them to effortlessly move through the most impenetrable jungle.#
+
+123. Centaur-warrior
+#Most people believe that all centaurs are archers. This is definitely far from the truth, and this false assumption may be due to the fact that for their raids centaurs tend to use cavalry with ranged weapons. Such beliefs often lead to a cruel joke being played on commanders that want to seize land the tribe considers theirs.
+They would encounter an unexpected foe - the Centaur-warrior. He's a powerful warrior, not lacking in speed or muscular strength, enabling him to hold a heavy weapon in each hand. This combination is certain to impress almost any enemy stupid enough to attack a settlement of centaurs. Besides that, these warriors spend all their spare time training and exercising for combat, which means they are experienced and have reached the pinnacle of melee combat skills.#
+
+124. Spirit Talker
+#When a centaur is born, they have a light brown skin. As they age, this color shifts to a red and darker brown. In their elder years, the color fades into an albino state. These wise elder centaurs share their wisdom and experience with their tribes. Among them there are those who possess extraordinary powers. They become shamans - known as spirit talkers - who communicate with the ethereal realm. Younger centaurs care for their elders and respect the shamans, protecting them on the battlefield at all cost.
+Given their declining strength, spirit talkers use spellcasting in battle, rather than melee combat. They call upon the souls of their ancestors to assist them.#
+
+125. Centaur-chief
+#These centaurs are the leaders of their tribes and are markedly different from the others. In the language of the centaurs, these leaders are called "Abar-na-ming" which translates as "Heaven is Might". Like human monarchs, the role of centaur-chief is hereditary. Some believe that the blood of a centaur-chief transcends mortal aptitude. Each generation's centaur-chief is provided the sword and armor of the previous ruler in order to maintain the image of their clan.
+The centaur-chief has the responsibility of proving his gifted strength to his people, so that he may protect them from those who threaten them. The centaur-chief, like shamans, is blessed by his ancestors.#
+
+126. Blade Dancer
+#Fascinating and lethal are the elven blade dancers, who whirl around opponents with long knives - a dance of death, so to speak. Even without wearing any armor to protect their delicate forms, they still are a difficult enemy to face. Their expeditious nature leaves opponents with various slash marks before they even have the chance to strike.
+Light and deadly - that's how those who have seen them describe Blade Dancers.#
+
+127. Elven Mistress
+#Elven women rarely step onto a battlefield, but their presence cannot be underestimated. Despite their fragility and grace, an elven mistress can summon air magic to decimate her foes.#
+
+128. Gang Leader
+#The strongest of brigands, should they prove cunning and daring enough to survive that long, often become leaders of their own gangs. Due to the lawless, undisciplined nature of brigands, they tend to only follow a boss who can "take care of business".
+Given the amount of battle experience most gang leaders endure, expectations are usually met, along with filled pockets.#
+
+129. Goblin-hunter
+#Experienced goblin-hunters can hunt down prey with expert precision. They prefer light, concealable knives, along with ranged weaponry to take out the bigger game. Their ability to maneuver through even the most dense of jungles allows them to anticipate enemy movements and act accordingly through the use of traps. Although goblin traps are not too dangerous, they can be very unpleasant a suprise.#
+
+130. Goblin-sorcerer
+#Powerful spellcasters among goblin clusters are extremely rare. As a result, a goblin-sorcerer is much more dangerous than the rest of his kin. Goblin-sorcerers never travel alone, and they cunningly convince their followers to charge into battle. These selfish spellcasters are perfectly able to heal wounds... Their own, of course...
+Goblin-sorcerers are experts on poison, and wield it ruthlessly against their enemies. They do not scruple to put their own troops in harm's way. Occasionally, however, they do cast a helpful spell on a particularly valuable henchman.#
+
+131. Ericuba
+#The swamps of Eador contain some of the most lethal creatures imaginable. One particular breed of deathbringer is known as the ericuba. Like giant slugs, the ericuba can discharge a poisonous acid,
+which grows more potent if left unattended. The monster's fangs are able to rend an individual's limbs and its strikes can stun a man into submission.
+If a wounded ericuba becomes desperate enough, it can devour a nearby ally to nourish itself. Even the most impassible marsh has no effect on the creature's movement: in fact, it welcomes the opportunity to patiently wait for dinner to arrive.
+For the egg to be turned into a unit for a hero's party it is necessary to build the Monstrologists Guild.#
+
+132. Halfling Rogue
+#Halflings, by their nature, are an untrustworthy lot. Some neighboring villages have outright banned their kind from entering due to the occurrence of countless thefts.
+A fair generalization, given the legendary history of their exploits. They are as adventurous as they are greedy for treasure. Given the amount of trouble they get into, many of the more experienced halflings have taken up learning how to defend themselves, despite their natural aversion to violence.
+The weapon of choice for the halfling rogue are short swords. As a backup, they usually carry a lead-weighted cudgel in the sleeve of their shirt. The high level of agility natural to all halflings allows them to successfully dodge most blows and arrows aimed at them.
+They are highly adept at finding hiding places like double bottoms in chests or coins sewn into clothes.#
+
+133. Border Sentinel
+#Halflings usually settle far away from other people's borders, and tend to keep to themselves. Sometimes they do have to deal with various types of "adventurers", and occasionally they must protect their land from hostile neighbours. Halflings aren't cut out for this activity, but they make enough money to hire people who can hold a sword.
+Highly experienced and skilled warriors, border guards tirelessly protect the outskirts of halfling villages, lurking in seemingly impenetrable thickets. Masters of solitary battles, these rangers are able to strike from a seemingly safe distance, and retreat just as quickly.#
+
+134. White Mage
+#Few people know the reason why these practitioners of magic are often found near halfling settlements. Their motivation to protect their undersized friends is heightened by their disdain towards those who would seek to plunder their settlements. Armed with the power of light, they take comfort in their earned privacy.
+White Mages tend to venture near the borders, lending their credence to the local hunters as companions. Weak in melee, these wizards are eminently capable of hitting the enemy from a distance and are thus of great help to their allies.
+For the contract to be turned into a unit for a hero's party it is necessary to build the Tower of Knowledge.#
+
+135. Battle Gryphon
+#Occasionally, a gryphon may form a bond with an individual who takes care of it. It is fairly rare, and highly valued, because such a gryphon can offer incredible capabilities. Their trust in their acquired companions allow for the attachment of protective equipment - something that an untamed gryphon would never tolerate.
+The equipment attached to the gryphons is forged from durable alloy steel and mithril for minimal encumbrance, making them more fierce than their naked kin. Because their vulnerable parts are covered, the strikes of their foes won't cut as deep, thus granting greater longevity.
+The added value of a battle gryphon comes at a price, however, in the costs of upkeep - their quality is well worth the price though.#
+
+136. Punisher
+#These experienced executioners are a force to be reckoned with in direct combat. Clad in a durable shell, their role in battle can be likened to that of a sickle in a field of wheat - with the stalks being replaced by rows of potential corpses. They strike with punitive ferocity, leaving victims with painful and fatal wounds, if the terrible blows don't slay them outright. Despite all this tenacious power, the punisher may still feel the brunt of the impact from equally-skilled opponents, while their meager companions are busy fleeing in terror.#
+
+137. Faith Devotee
+#While monks often keep away from the front line in battle, there are those who have perfected the discipline necessary to step into the fray. And while experienced combatants often mock monks for their lack of grit, these trained zealots invariably surprise them.
+Divine power arms and guides these devoted servants of the Eagle - able to strike enemies from a distance and heal nearby allies. Their durable armor is concealed beneath their large robes, leaving unprepared enemies shocked when their strikes only cause wincing instead of crushing dismay - only to feel the crushing blow of the faith devotee's consecrated hammer.#
+
+138. Keshik
+#The Keshiks are the Khan's elite nomadic guards - revered for their devotion to protect the tribal lands. These agile and swift archers notch their bows with impeccable speed, capable of showering the battlefield with feathered arrows before the opponent draws near. While most archers dread the inevitable clash with melee combatants, keshiks are not only prepared to face their foes with determination:
+they actually welcome the opportunity to display their uncanny skill at swordplay.#
+
+139. Witchhunter
+#Revered by believers and dangerous to all heretics, the Holy Inquisition has long been faced with the need to have their own fighters, rather than relying on assistance from hired guards or mercenaries. The bulk of the Inquisition armed forces is made up of witchhunters - graduates of special church schools where tuition consists of continuous combat exercises, punctuated by long days of fasting and prayer. The graduates complete their combat training in steel and blood - their own and others - to prove that they are worthy to join the holy army. Witchhunters accompany inquisitors on their travels, protect their monastery, and many of them secretly live among ordinary people, vigilantly watching for signs of heresy and witchcraft. Representing the greatest threat to magicians of all schools, these inquisition hunters are trained to track, prosecute and purge those who even attempt any form of witchery.#
+
+140. Inquisitor
+#Harsh and rigid, these holy men confine themselves to small monasteries in dedication to the Church of the Great Eagle, tempered in spirit through long vigils and prayer. The strength of their spiritual discipline surpasses that of most men, and only few are able to withstand their piercing eyes, penetrating into the darkest corners of one's soul.
+An inquisitor knows no bounds when confronting the "enemies of mankind": Witches, demons and the undead. Their indisputable ability to heal the wounds of their brethren makes them indispensable in the battle against the spawns of Chaos. In combat, inquisitors direct their ability to protect their brothers in the faith, novices and senior hierarchs to avoid losses and remain invincible. #
+
+141. Grand Inquisitor
+#When the time is right, the Eagle-God chooses one mortal, bearing a righteous, unquenchable flame within his devoted heart, to step forth as the Father of a particular monastery. A selected abbot will personally accompany this mortal to the Chapter of the Order, where the Grand Inquisition Tribunal gladly receives him, knowing that he will soon serve as the bosom of the clergy. Once the mortal awakens the true strength of his faith, the Lord of Light instructs his servants to forge weapons made from purified ingots in order for the Grand Inquisitor to eradicate heresy.
+The extensive training a Grand Inquisitor must endure is relentless and daunting, yet inspiring to the morale of those who follow him. If the founding fathers of the Inquisition are known as the Shield of the Church, the Grand Inquisitor is, without a doubt, its Sword.#
+
+142. Guardian of Souls
+#Sometimes a really good swordmaster, the most talented or lucky one, is invited to change specialization and join the ranks of "guardians of souls", elite warriors whose sole purpose it is to destroy the undead. They get special equipment and special training allowing them to successfully fight not only against living, but also against dead enemies. A Guardian of Souls can often be found in the ranks of inquisitors who oppose necromancers: they are able to successfully deter zombies, mummies  and ghouls, not letting them get to the shooters and healers, and their weapons can strike even ghosts.#
+
+143. Zealot
+#The greatest warriors of the clergy are selected and known as zealots by the inquisition. Zealots are armed with golden hilted swords that have been plunged in holy water, as well as holy relics blessed by the founding fathers. These men are disciplined to sweep away the enemies of the Church the way the wind sweeps away autumn leaves. Empowered and blessed by the Grand Inquisition Tribunal, these servants of light have defenses that are near-impossible to penetrate, conventional or magic. They are determined to purge the minions of Chaos, as well as those whose souls are black as coal.#
+
+144. Necromancer
+#Practitioners of magic may dabble in the mysteries of a forbidden school: Necromancy. These dark mages are able to conjure obedient undead minions of various levels of decay, even dating back to those who fell many years ago.#
+
+145. Springald
+#At first glance it may seem that all war machines are created equal, but some are better than others - and often they are significantly improved. These siege engines can only be made by dwarves of the renowned Engineering Guild.
+Thanks to its sturdy base, durable chamber mechanism and the use of a dense and light kind of wood, a Springald is capable of mayhem at grievous rates, thanks to the serrated tips of its projectiles. As with most siege weaponry, it is best kept tucked away at the back of one's army.#
+
+146. Smiting Hand
+#Some guardsmen who have served out their time and have accumulated enough gold to spend the remainder of their life in comfort, decide to retire and end their military career. Some serve as a mentor to young men aspiring to become mercenaries. And some - the particularly pious and devout - draw the attention of the Church and receive an offer to continue their military career in service to the Church. They are given the special ecclesiastical title of "Smiting Hand". Their high numbers allow them to maintain the Order as a vessel of the Inquisition.
+The superb skills of a Smiting Hand allows him to not only protect his patrons from bandits, but their purpose is to counter the evil creatures of the Underworld. Additional power against the demons is provided by the special weapon they carry: a long-handled hammer. The way these weapons are used is very similar to the technique used with a halberd, which is why the Inquisition is particularly keen to attract former guardsmen, who are experts with this weapon.#
+
+147. Trebuchet
+#It is a known fact that the Dwarves invented most siege engines used across Eador. And although their creations - catapults and ballistae - have been copied for a long time, the Dwarves remain the best builders. So if someone needs to turn a catapult into a work of art - one must contract the Dwarves.
+This upgraded catapult has the capability to throw heavier rocks over longer distances while also being equipped with a reinforced frame to better withstand damage. A special feature of this machine is the ability to throw a bunch of metal balls which, due to their weight and attached spikes, can pierce the thickest armor and wreak undiscriminating havoc.#
+
+148. High Mage
+#Once a magician has studied enough to surpass his other arcane colleagues beyond a comprehensible level, this mage is respectfully called "high".
+The destructive power of a High Mage on the battlefield is almost unequaled. He is able to effortlessly and single-handedly wipe out a small army, as long as he is well-protected.#
+
+149. Patriarch
+#Healers talented enough to surpass others can be elevated in standing and become patriarchs. Other healers, priests and monks turn to these Patriarchs for help, advice and a kind word.
+A patriarch's higher wisdom allows him to use a vast array of prayers and rites. In combat, a patriarch is able to revive fallen allies - an ability much appreciated by his companions.#
+
+150. Wyvern
+#A distant relative to dragons, the wyvern is a dangerous creature. Although a wyvern is considered a lazy creature for its tendency to rest in warm stagnant waters,
+it retains a dragon's legendary sense of hearing and smell. While the creature is slow, its combat capabilities far outweigh its lack of speed.
+It can make full use of its venomous nature. Whichever way you look at it, the chances of surviving an encounter are slim.
+For the egg to be turned into a unit for a hero's party it is necessary to build the Trappers Guild.#
+
+151. Swamp Dragonfly
+#Goblins are very well acquainted with the capabilities of these venomous, hovering creatures. It is for good reason that goblins refer to them as "snake-dragons". One bite from a swamp dragonfly can send a young man to an early grave. The strength and speed of the venom's effect is dependent on the swamp dragonfly's age. To tame and breed these creatures is a dangerous and difficult task, especially since one must get hold of the eggs. Not to mention the fact that these creatures are quite rare.
+For the eggs to be turned into a unit for a hero's party it is necessary to build the Swamp Trappers Guild.#
+
+152. Bodyguard
+#Eventually, the most skillful thugs - or perhaps just those lucky enough to stay alive - are noticed by their leader. These men are singled out, given better gear, and assigned more complex tasks. Some are promoted to personal bodyguards.
+While these brutes are no smarter than the wretched thugs they started out as, they understand that "the boss" must be protected - because whoever comes to take his place might confiscate their new "toys" - strong armor and high-quality warhammers.#
+
+153. Air Elemental
+#Elemental spirits live on their own Planes, and usually do not leave them voluntarily. Some powerful spellcasters are able to summon them to the Material Plane for a short time. The spiritis materialize in a "body" composed of their element - this is the only way they can withstand hostile environment.
+An air elemental is able to use the power of the air to blast enemies with lightning and prevent them from firing their missiles.  Ammunition is simply blown out of their hands by of a powerful flow of air.
+One option to combat elementals is to banish them back to their plane - a difficult task, but not impossible. Weapons often struggle to pierce the air elemental, and strong magic is required to afflict its ephemeral presence.#
+
+154. Earth Elemental
+#Elemental spirits live on their own Planes, and usually do not leave them voluntarily. Some powerful spellcasters are able to summon them to the Material Plane for a short time. The spiritis materialize in a "body" composed of their element - this is the only way they can withstand hostile environment.
+The earth elemental is a strong, nearly indestructible monstrosity. Because of its high density, the elemental's movement is slow. Its form is so heavy that each step it takes makes the earth tremble with such force that nearby foes are brought to their knees. Engagement from a distance is heavily advised to battle the earth elemental.
+One option to combat elementals is to banish them back to their plane - a difficult task, but not impossible. Weapons often struggle to pierce the earth elemental, and strong magic is required to afflict its presence.#
+
+155. Fire Elemental
+#Elemental spirits live on their own Planes, and usually do not leave them voluntarily. Some powerful spellcasters are able to summon them to the Material Plane for a short time. The spiritis materialize in a "body" composed of their element - this is the only way they can withstand hostile environment.
+The fire elemental burns its enemies with destructive ferocity. Its sizzling grasp can extinguish even the most durable warrior. Safety is never assured when such a spirit looms over the battlefield, with its fiery gaze fixed on its potential victims. Not only can molten droplets litter the battlefield in the presence of the spirit, but upon its defeat, the elemental can summon the last of its concentration to detonate itself like a bomb.
+One option to combat elementals is to banish them back to their plane - a difficult task, but not impossible. Weapons often struggle to pierce the fire elemental, and strong magic is required to afflict its glowing presence.#
+
+156. Runesmith
+#Dwarven Master Blacksmiths make the best tools, weapons and armor in Eador. Their work looks strange to the uninitiated: strange cries of the dwarves in their language, rough and untreated rock, the jingle of metal, accompanied by the seemingly erratic blows of sledgehammers. Their handiwork is often decorated with intricate patterns and unusual characters. But those are not just the creative expressions of an individual artist and they're not merely decorative patterns. The secret of their art, which is ancient and carefully transferred among dwarves from teacher to student, is the creation of magical runes, which changes the essence of the metal, making it lighter or heavier, harder or softer, stronger and sharper. The skills of these runesmiths is demonstrated during combat, when swords and armor covered in runes reveal their true power: to give iron armor the strength of diamond and a conventional blade the ability to cut stone.#
+
+157. Seraphim
+#Seraphim are transcended beings of light who coexist in the material realm. This metaphysical process of coexistence has led to the emergence of controversial theories among lorekeepers. Some have made broad claims that these beings are actual projections of the Lord of Light. Others claim these are His messengers.
+It is clear, at least, that the seraphim are connected to God-like powers beyond mortal comprehension. The presence of seraphim on a battlefield doesn't bode well for the followers of Chaos and Undeath. The seraphim's unprecedented and unforgiving hunt for ghastly abominations makes it the ultimate champion of light.
+For the holy relic to be turned into a unit for a hero's party it is necessary to build the Tower of Restoration.#
+
+158. Duelist
+#Duelists tend to move about as wandering adventurers, usually of highborn descent. They are restless opportunists, always prepared to meet any challenge in defense of their family name.
+As they often come from noble backgrounds, they are well-educated and versed in martial combat, yet their refusal to commit to any military organization has led them to become wandering duelists... free of being commanded unless they choose to lend their sword...
+for a price of course. The finest of duelists confine themselves to melee. They are nimble and agile, which keeps them out of retaliatory strikes from their foe. Their quickness also allows them to avoid lethal blows.
+For the contract to be turned into a unit for a hero's party it is necessary to build the Merchant Court.#
+
+159. Living Armor
+#A seemingly metaphysical construct, living armor appears to be the result of unmaintained magical threads - the potential result of a careless magician's spell-flinging leaving tears in the material realm. Because living armor holds no mortal flaws, its strength and durability reflects the metal that comprises its structure, allowing itself to ignore magic, as well as most other crippling blows.#
+
+160. Acheron
+#A true force to be reckoned with, the acheron stand high above the lesser demons as fierce Archlords of darkness, forged by concentrated negative energy. To their great regret - and to the great delight of all living beings -  Acheron cannot pass through the gates of Chaos like other demons. Should their near-unpronounceable name be uttered, along with the possession of ancient relics bearing their mark, they can be summoned into the material realm.
+The presence of an acheron on the battlefield spells doom for most mortals who are unfortunate enough to stand before this tool of Chaos. Most mortal weapons cannot withstand this creature's near-invincible flesh, only to have the favor returned with what can only be described as a sword forged by Hell itself. The acheron strikes with such violence that the material realm tears and weeps with black trails. Acheron are also able to temporarily summon their pets, the Cerberi, directly from the Underworld.
+For the cursed relic to be turned into a unit for a hero's party it is necessary to build the Tower of Chaos.#
+
+161. Elemental Mistress
+#Wizards studying anomalies in magic are not uncommon. Fireballs, falling rocks, lightning - the majority of these spells are not that complicated for mages. Only a few practitioners of magic have the capacity to elevate their studies to the higher elements. And from those few, only a select amount of gifted mages manage to grasp the heights, previously noted as unreachable in terms of manipulating the primordial elements.
+These gifted few are exclusively women, as the intense magical integration flowing within their bodies can only be contained within their delicate structure - fitting, considering the delicacy of this specialized form of arcane arts. Such an integration works both ways, as the woman contains the magic, the magic fuels the woman. Elemental mistresses, as they are known, are able to conjure a crowd of elemental spirits - creatures from other planes of existence.
+These elementals may coexist in this world for a brief period - a time most suitable for sending a bunch of arrogant men to their early graves.
+For the contract to be turned into a unit for a hero's party it is necessary to build the Sphere of Ice.#
+
+162. Faerie Dragon
+#Some speak of faerie dragons as mysterious creatures native to the Astral plane. Others, however, claim that they originate from a certain sector of the Astral plane only. Nevertheless, the faerie dragon, free of will and conscience, is considered the embodiment of magic.
+Only a few great wizards have succeeded in obtaining a faerie dragon egg from the Astral plane. One might suggest that this 'egg' is not actually an egg, but rather a spiritual projection of the Astral plane. Then again, one might also suggest that the wizards themselves do not fully comprehend what plight they bring upon mortals.
+Faerie dragons are mighty, as befit their kin, and radiate an unmatched beauty. Their mesmerizing presence is emphasized by their ability to weave higher magic. This magic is of supreme magnitude, it could shred even the greatest wizard's spell resistance.
+For the egg to be turned into a unit for a hero's party it is necessary to build the School of High Magic.#
+
+163. Phantom
+#A being of exceptionally strong will, this illusionary warrior is able to coexist within the material realm, allowing it to cause pain to mortals it disdains. Its almost imperceptible touch bypasses armor and shields, and only magic can stop his strike.
+Obstacles on a battlefield are unable to stop or slow down the phantom, and nearly all physical weapons are useless against its insubstantial form. Spears, swords, arrows - all are useless against this creature. Only magic can cause them serious damage and even destroy them.#
+
+164. Psion
+#For any practitioner of magic, the most important weapon is one's own mind: a focused and determined spirit channeling and manipulating the flow of a magical weave. While this general principle suits the average wizard, a psion's philosophy is that his mind serves as a central nucleus in which magic circulates. Psions have the unnatural talent to conjure magic straight from the mind, without the need to perform any kind of spiritual practice or study.
+While incantations and somatic gestures are a necessity of wizards, psions skip straight to the conjuring. As a result of this skill, a psion is not hampered by the restrictions of armor and may thus protect themselves. While garbed in enchanted equipment, the psion also generates an invisible barrier around his body by his mind, making his already superb defense near impregnable. Psions are not to be underestimated in combat either.
+In order to defeat a Psion, one must strike its skull, and reaching its head is in itself a difficult task. Enemy mages may also find themselves at a loss when trying to subdue a psion, due to its immunity to mind-affecting spells.
+For the contract to be turned into a unit for a hero's party it is necessary to build the Tower of Hypnosis.#
+
+165. Mother Keeper
+#A jellyfish made of magic, known as a Mother Keeper. Some have argued that its name transcends its entity, but there is more to this creature than meets the eye. In addition to the jellyfish's common ability to leave a poisonous sting that paralyzes adventurers, these creatures are able to chase their prey with extreme prejudice - far more threatening and vicious than the common jellyfish#
+
+166. Birdeater
+#Within deep groves there are creatures still left undiscovered and unidentified by man, such as the birdeater. These large spiders got their name for their ability to leap from tree to tree, tracking and devouring birds and their chicks in their nests. Unlike their lesser kin, birdeaters cannot weave webs as swiftly. However, nature has granted them more poisonous mandibles to balance this flaw.
+For the egg to be turned into a unit for a hero's party it is necessary to build a Swamp Trappers Guild.#
+
+167. Ripper
+#As time passes, a birdeater ages. It becomes larger and even more poisonous. Its mandibles grow and harden enough to pierce through bone with ease. Even the thickest of armor cannot protect one from the Ripper. With the evolution of this species of arachnid, its appetite far exceeds the simple desire for birds. Previously, the presence of birdeaters meant trouble for the birds of the forest, but the presence of rippers spells death for any who trespasses in their territory.#
+
+168. Swallower
+#The peak of a birdeater's evolution is known as the swallower - a monumental predator in the food chain. Grown into monstrous proportions, the swallower is effortlessly able to see through heavy armor and locate its target's vital organs. The swallower's unnatural appetite leads it to hunt outside the forest, sometimes even attacking settlements.
+Often the monstrous eight-legged behemoth torments its own food as it slowly pulls the victim into its deathly jaws.#
+
+169. Wolfrider
+#Orcs frequently breed huge wolves - called wargs. These beasts are very smart, and it is no easy task to get them to accept a rider. However, the outcome is definitely worth the time and effort. Orcs who have tamed a warg earn the respect of other members of the tribe.
+Orc Riders make a good cavalry, fast and powerful. Riders carry sharp throwing axes, and the wargs themselves can unleash a terrifying howl at their master's command.#
+
+170. Reaper
+#A reaper is a large, powerful skeleton conjured by a necromancer. Unlike common skeletons, it has additional arms to hold extra weapons, granting it the ability to attack all surrounding enemies.
+The general durability of the reaper combined with the undead properties of not feeling any pain, fatigue or fear, makes this creature a dangerous opponent.#
+
+171. Cadaver
+#Once upon a time, this creature was an unremarkable gluttonous ghoul. But apparently, one day, the ghoul's owner - a powerful necromancer - decided to strengthen his "bodyguard", with better equipment - weapons and armor. Of course, no necromancer would spend money on this equipment: Anything the Cadaver needs, it will find on the battlefield. Even if it's rusty armor and a dull blade. Cadavers are immune to pain, their wounds do not bleed, and they can smash even the strongest armor with tremendous force.
+A suffocating stench surrounds the cadaver, affecting any living creature nearby. Its strong armor can withstand severe attacks, and any corpse on the battlefield will allow it to recover quickly, by quickly gobbling it up.#
+
+172. Banshee
+#The banshee, also known as the Harbinger of Death, is a restless soul of an ancient era, consumed with savage malice and eternal vengeance against all living creatures. These disembodied manifestations of higher necromantic rituals are capable of wiping out an entire army by itself. The impending moment of a mortal's final breath is a banshee's feast as it devours without impunity. Its imperceptible touch bypasses all armor and shields, and all blades are useless against its ethereal form. Only a wizard of exceptional arcane power stands a chance against such an abomination.#
+
+173. Black Knight
+#Valiant warriors of a former era whose souls were forbidden to rest by the will of necromancers, black knights are cursed to traverse the realm of the living, converting the pure to the impure with their ghastly, frozen grasp. Their blades, forged in dark steel and infused with powerful magic, can effortlessly cut through plate. No armor can protect its wearer from the mighty blow of these enchanted blades.
+Black knights are also armed with spell-like abilities, capable of reducing the overall defense of an opponent. When a black knight slays a living creature, their last shred of life is drained, fueling the knight with sustenance. Like most undead servants, black knights are incapable of fear and fatigue, and can shrug off venoms and cold temperature, making an already deadly combatant a real force to be reckoned with.#
+
+174. Death Incarnate
+#Known as a physical manifestation of Death itself, these soulless avatars are able to siphon life with a single touch. No matter how far away one is from this vorpal being, peril is assured - a simple contact is all that's needed to end one's existence. His terrible power can only be used once, but not even magic protects against it.
+Very little can slow down this abomination - it glides across any type of terrain to sow death. Good protection and complete immunity to magic make them a terrifying harbinger of Death.#
+
+175. Night Shadow
+#Alvari boys and girls with magical talent will study the martial arts and grow up to become Night Shadows. They are usually engaged in exploration and guarding the approaches to Alvari territory, killing those who come too close, or offer their crossbow skills in support of a band of dark elven warriors. Their excellent shooting and stealth skills make them very dangerous for any enemy of flesh and blood. Should you travel within the dark elven domain and suddenly hear a whistling sound, followed immediately by a dart, tipped with spider venom, you'll drop dead before you even realize your fate... slain by a night shadow.#
+
+176. Blood Butterfly
+#Magically gifted Alvari girls often choose the path of the warrior and from early childhood learn to wield two blades. Their own magic allows them to strengthen their tendons and muscles, giving them superior flexibility, agility and speed in combat. Light and elegant, they literally flit through the enemy ranks on their blades. Anyone who has seen them in action cannot fail to understands what got them their name - a very bloody, but beautiful sight. Their reflexes even surpass those of most conjurers, so few people will be able to reach these dark elven maids in one piece. Unencumbered by armor, blood butterflies can even hold their own against cavalry in speed and mobility. This allows them to easily reach vulnerable targets, like enemy archers or wizards. Even meeting a heavily armored enemy doesn't faze a blood butterfly - they will find even the smallest chink in its armor and strike there. Gaining experience, blood butterflies learn to merge with the darkness, and then there is very little that can stop them in their deadly dance.#
+
+177. Darkness Craver
+#Those of the Alvari who devote themselves fully to the study of Shadow Magic, an art unique to this people, spend a lot of time searching and developing new spells, as well as increasing the efficiency of already known ones. They are called Darkness Cravers for their eagerness. They enjoy the advantages of their magic in everyday life as well as on the battlefield . For example, Darkness Cravers use extra hands of twisting darkness to assist them in weaving complex spells. These limbs are so useful that Cravers often endue particularly strong warriors with them when in battle. It should be noted that in order to expedite the development of their skills, Cravers are known to block part of their magical powers with a spell, forcing themselves to search for ways to use the remaining powers most efficiently. That's why in battle Darkness Cravers prefer to use spells aimed not at the enemy, but rather at their equipment or their surroundings. These spells require a lot of skill, speed and accuracy, yet little power. Sometimes Cravers even happen to invent spells that only the Darkness Chosen have the power to cast.#
+
+178. Darkness Chosen
+#Dark Elves that have fallen deep into the very essence of Shadow Magic are called the Darkness Chosen. This title is coveted by all Darkness Cravers, and is bestowed in recognition of a high skill in magic, talent and prestige in the higher circles of Alvari society. Only the Darkness Chosen sit on the Dark Council, the focus of life, leadership and power of the Alvari nation. The Dark Council has a strict hierarchy, of which outside of it hardly anything is known, so as far as the other Alvari is concerned, there is no difference between the ones elected. The Council determines who of the Chosen will lead the military campaign, who will lead expeditions into unknown lands and who will be responsible for the management of the city. The strongest mages of the Dark Elven nation do not hesitate to use powerful spells A Darkness Chosen is capable to directly draw power from Darkness, thus skillfully avoiding its deadly side effects.#
+
+179. Slavedriver
+#Slave drivers are not held in high regard among Dark Elves, but the job needs to be done. They keep the slave population in check, working slaves hard until their last breath, allowing other Elves to focus on magic research, a vitally important aspect of Elven society. Though slave drivers cannot use magic to prevent escape attempts, they do have simple and equally effective methods. They are highly proficient with light crossbows and with terrifying long whips with sharp metal barbs. It is said that such a whip can easily decapitate an enemy. Slave drivers also use crossbow bolts ornamented with glyphs and imbued with magical powers to stop particularly nimble slaves and enemies.#
+
+180. Nocturnal Hunter
+#Food in the dungeons often lacks variety, and other than that, it may be reluctant to become food and will try to reverse that role by eating the unlucky hunter in stead. Experienced trackers and deadly killers, nocturnal hunters are able to track down and catch any game, no matter on how many legs it moves around. Having the propensity for a life on the move, these true night shades, after having sufficiently developed their magical abilities, must withstand harsh magical training and demonstrate a remarkable level of agility and skill in order to pass their tests. But the reward is worth it: at last the nocturnal hunters are blessed by the Darkness, and after that no one will be able to escape their arrows. In recognition of services rendered, a particularly skillful and fortunate nocturnal hunter may receive a valuable reward: a Black Forest Bow.#
+
+181. Guardian of Darkness
+#The Order of the Guardians of Darkness consists of am elite group of dark elves functioning as heavy infantry. In battle, the Guardians of Darkness will do anything possible to take out ranged and spellcasting enemy units. Guardians are highly proficient with melee weapons, but this doesn't prevent them from casting damaging spells on the enemy from a distance if the need arises. They are reasonably capable mages, who enchant their own armor and weapons. They are not just protected by their armor, but by darkness itself, and eventually they are trained to take on a shadow form, skillfully blending magical and martial arts.#
+
+182. Beholder
+#Tales about them are told everywhere across the shards of Eador. Dwarves warn gruffly of the "Terror of the Deep". Ratmen squeak in horror of the "Cave Dread". Goblins boast of Goku the cleaver, who subdued and drove to battle the one-eyed devourer named Dozen-arms-Miru. The mighty orcs whisper fearfully about "Nazarog", who kill those whose shadow he touches, and grizzled shamans of the mountain clans on pain of death would not mention the Keepers of the Abyss. However, little is known for certain about these Shade spawns, the superstitious terror that people of Eador treat them with being only one of the reasons.
+The first mention of these creatures dates back to the time of the Schism of Shadows, when the Alvari settled in the deep, and describes nightmare incarnate: the Beholder is not just a terrifying monster - it's not even a proper being. They have the semblance of a tangle of writhing snakes or marine reptiles hanging in the air. The only thing stable about the Beholder: the colossal lidless eye hidden in writhing shadows cast by nothing. A beholder's abilities are no less strange and mysterious than its looks: it is known for certain that it's immune to magic and can use energies of magical origin to strike down the poor souls it seemingly chooses at random from a distance. As for the actual harm done, though, rare survivors name anything and everything: from hypnosis or petrification to wounding by inexistent blades, poisoning without any venom, and burning in invisible fire. It seems a Beholder uses some unpredictable magic that can take many forms thought impossible.
+Beholders do, apparently, have free will; the one which is evil and hostile, and strong enough to subdue those who inadvertently take a look at the central eye.
+They are often seen alongside Alvari, but it's not certain whether Beholders serve the Alvari or the Alvari serve Beholders or if these creatures have arranged a mutually beneficial alliance.
+For the eggs to be turned into a unit for a hero's party it is necessary to build the Heart of the Night.#
+
+183. Dark Priestess
+#The dark priestesses hold a special place in Alvari society - they are healers. For the Alvari, as it is for the elves, the birth of a child is a welcome, but unfortunately rare event. The continuous conflicts with other races cost many lives and if it weren't for the dark priestesses, even more lives would be lost. A dark priestess is able to heal even the most terrible wounds instantly, and her blessings turn allies into powerful and deadly warriors. A battle against a company of Alvari with a dark priestess in their midst may show surprising come-backs on the side of the enemy and will therefore be hard to win.
+For the contract to be turned into a unit for a hero's party it is necessary to build the Temple of Immortals or the Temple of Shadows.#
+
+184. Scorpion
+#The Dwarven masters' pride, a device called the "Scorpion", is able to fire two spears simultaneously at an impressive distance. According to the legend, it was created by the skillful blacksmith Ulfgar Bouldershoulders, when he found a way to load two projectiles. Of course, modern Scorpions look very different. Using all their skills, Dwarven runesmiths were able to create flexible and light steel for weapons. Then they engraved mysterious signs all over the intricate device. Other races have failed to copy the design, because without Dwarven steel, the devices are excessively fragile and heavy. As with most mechanical devices, Scorpions are quite vulnerable to magic, but their range allows them to quickly and safely dispatch virtually any spell caster.#
+
+185. Illithid
+#The squid-like beings known as Illithids, also referred to as Mindflayers, are one of the few species within the Underdark that do not bow before their natural neighbors, the dark elves. However, while both races are constantly watchful of impending wars between one another, there is the clear threat of surface-dwellers making their inevitable colonization below - thus, the two have forged a temporary union. Ilithids now send their representatives to the Alvari, where they provide certain services for them. In exchange for assisting the Alvari with the surface-dweller nuisance, the Dark Elves provide live prisoners - food - to the illithids. 
+The common trait of the illithids, aside from a lustful hunger for brains, is the ability to subdue and dominate minds through psionic practice. Even an individual of exceptional will can fall prey to the hypnotizing gaze of an illithid.
+For the contract to be turned into a unit for a hero's party it is necessary to build the Tower of Knowledge or the Heart of the Night.#
+
+186. Dark Crystal
+#The very existence of this magical entity contradicts all known laws of classical magic theory. It is a mystery how an entity governed by the laws of Chaos, and intrinsically opposed to Order, is able to crystallize into such an absolutely perfect structure. The Dark Crystal is a hard, impenetrable obstacle, and any attempt to breach the structure causes local instabilities in the surroundings. Terrible injuries await fools who dare to even scratch the crystal's surface.#
+
+187. Kobold-slave
+#Kobolds are natural inhabitants of the Underdark, which makes them unfortunate targets for slavery from their powerful neighbors, the Alvari. This does not, however, mean that kobolds, as a species, are weak. Despite their small stature, they tend to have vile, crude tempers which fuels their fury in battle. As a precaution, for example, kobolds are kept in cages or in underground caves with a single, well-protected exit. To prevent kobolds from running away in the confusion of battle and to better hold the line, they are often shackled together or chained to a heavy load.#
+
+188. Kobold
+#Kobolds - small and vicious underground dwellers - have a rather unpleasant feature: they look like a cross between a rat and a lizard. For a long time surface dwellers were not even aware of their existence, as kobolds only lived in their deep caves. Their society had gradually grown over the years and eventually reached the surface where the races lived. But when the kobolds encountered the Dark Elves, most of them were killed and the rest of the subterranean species were enslaved by the Alvari. Those who managed to avoid this fate, fled to the surface. Usually kobolds hide in secluded places, such as mines (often by killing the miners and taking their place).
+Despite their small size, kobolds can be very dangerous. They move quickly and can cause their enemies serious wounds.#
+
+189. Lich
+#When a powerful practitioner of the arcane fears the inevitable end of his or her lifespan, they might consider the path of immortality through eternal undeath - lichdom, as it is referred. Unfortunately, while their minds sustain coherence, their brains continue to decay over the long strand of existence, thus leading to unendurable madness. There is one constant to this madness:
+The ever-growing hunger for more power. Liches often travel with throngs of undead minions, including ghosts and vampires.#
+
+190. Demonologist
+#Demonologists are mortal practitioners of the arcane who devote themselves to the service of Chaos, aiding demonic agents throughout the realm of Eador. Because demonologists are often hunted by the holy inquisition, they tend to conceal their identities as citizens, traders and craftsmen within bustling settlements. Shrouded in secrecy, these demonologists await orders from the masters of Chaos to surface and unleash havok.
+Because demonologists aren't cloistered to any particular mage tower, they are less proficient in the arcane. This does not make them weaker, however. Agents of Chaos bestow the knowledge of conjuring demons to these spellcasters, thus allowing them to build on these starting foundations, eventually leading to the discovery of greater, forbidden magic.
+For the contract to be turned into a unit for a hero's party it is necessary to build the Temple of Chaos.#
+
+191. Fiend Lord
+#The fiend who has been selected as the most intelligent and brutal of a pack of Chaos minions is declared a fiend lord. The fiend lord is provided a small cluster of devils and hellhounds to execute his will. Orders from the fiend lord are carried out swiftly and without question.
+Disobedience is not tolerated, often resulting in swift execution to lesser, rebellious demons. Empowered by a higher demonic ritual, the fiend lord's trident is replaced by a massive, sharpened axe, befitting the demon's empowered strength. A fiend lord is able to cleave through the toughest of plates, and his ferocity inspires enthusiastic bloodletting from his pack.#
+
+192. Preacher
+#There are times when monks are dispatched on pilgrimages. These pilgrimages range from passing on the word of the Lord of Light or simply offering assistance to those in need. Be that as it may, these preachers rarely travel alone, often seeking out armed groups or caravans for protection. They are often met with great joy, as tales of their powerful healing talents have spread far and wide along the realm of Eador. A preacher has the capacity to not only bless and heal an entire army, but he also possesses knowledge of the most sought after ability: resurrection.#
+
+193. Skeleton of Doom
+#These ancient skeletal guardians of undeath have been long buried and abandoned by rulers of former eras, where they remain, eternally protecting the sanctity of their tombs and crypts. These silent creatures will strike down any being who dares enter the forbidden chambers to plunder treasure.
+They have superior strength and durability compared to most undead and carry heavy weapons infused with magic that cannot be held by mortal men. Many sharp bony outgrowths dot the skeleton of this creature, creating a feeling that every bone is meant to hurt any living being. Black wisps of smoke envelop the contour of the skeleton's structure, concealing its unnaturally fast movements. Recently, necromancers have uncovered the knowledge to conjure such creatures,
+but it was revealed that such can only be completed with a living vessel as the main requirement. Few know these rituals, and only very few are able to raise such creatures from a fresh corpse in the heat of battle.#
+
+194. Spectre
+#Spectres are often misinterpreted as ghosts. This can be a costly misconception, given how deadly these apparitions are towards mortals. While spectres exist more within the material realm than ghosts, thus making them reachable through physical contact, their frozen grasp and regenerative properties inspire terror from those who dared to approach one. They can also release a frozen projectile capable of quickly ceasing a man's pulse.
+Spectres are incredibly resistant to light magic, unlike most creatures of undeath, and it is insensitive to banishing spells. A consequence of this power is that necromancers cannot restore a spectre's ailments.#
+
+195. Warmonger
+#There are times when orc tribes will agree in unison that brute force does not always lead to victory. A leader must exercise more caution and forethought in their strategy to win a war. One must analyze the enemy's techniques, formation and positioning. This is where the warmonger shines - applying the intelligence of a studied tactician along with the competitive strength of the finest orc warlords.
+Warmongers who prove themselves before their chieftains are provided the best equipment and powerful shamans to carry out their battles.
+A well-honed warmonger takes pride in his ability to defend his squadron of shamans by himself. Good training and the natural power of orcs allows them to endure long, even against an enemy with superior forces.#
+
+196. Tarrasque
+#The Tarrasque, known in legends as the "Punishment of Gods" is unquestionably the strongest mortal creature ever manifested by the immortals.
+It features gigantic claws, a steel-like jaw and a thick dorsal carapace covered with thorns with the durability of adamantium. But this is not all this monster is capable of.
+Larger than dragons, the tarrasque moves with such little attention to others that nothing can truly stand in its way. Any mere mortal would be crushed in an instant beneath its massive paws. Adventurers who have encountered a tarrasque and lived will advise all other travelers to do what they did: run and never look back. Even ancient dragons would think twice about crossing this unnatural force.#
+
+197. Scholar
+#Scholars are considered beginners in the school of the arcane, often seeking mentors as a means of pursuing a life-long devotion to the weave and its intricacies. The bond between the scholar and mentor wizard leads to fascinating discoveries, so long as the two are eager to learn each other's strengths and weaknesses. Due to the inquisition's cautious eye over the various mage towers located throughout the realm of Eador, scholars and their mentors tend to work in seclusion to avoid persecution as heretics.
+The initial level of spellcaster enrolled in these communities is called a "scholar" and besides training they also take on the role of servants for the more powerful wizards, and perform the most simple - and dirty and heavy - work. They are taught to manipulate the flow of magic, that is to work with pure magic, but they are not trusted with any of the trickier spells. In addition to possessing the basic principle of manipulating weaves, scholars can afflict targets with magic blasts from a distance.
+For the contract to be turned into a unit for a hero's party it is necessary to build a Library.#
+
+198. Adept
+#After several years of studying as an apprentice scholar, a early practitioner of the arcane can be tested for higher knowledge. If they don't pass, they continue their studies and can try again later. Scholars are given three chances to pass this test, after which the scholar must remain as such until the end of his or her days, or be expelled from the walls and go home. It is clear that the majority of them prefers to stay - because the Inquisition never sleeps!
+Those who succeed in passing the test may pursue higher training as adepts. Adepts tend to reside as assistant instructors for lesser scholars - well, more like their personal servants. Of course, a magician perform errands - it's at least better than constantly having to attend to all mages, and the amount of chores is dramatically reduced, leaving a lot of time for magical disciplines.
+Adepts learn form the wizard to which they are 'assigned' and they begin to conduct their first independent experiments - at their disposal are not only the laboratories and workshops of the school, but also the equipment of the wizards, including rare instruments and ingredients. Some adepts will take a high interest in laboratory work, experimenting with new ways to manipulate the weave, previously undiscussed or discovered by their colleagues.
+For the contract to be turned into a unit for a hero's party it is necessary to build the Sages Guild.#
+
+199. Magister
+#Once an adept reaches a certain threshold, they may request a special, dangerous test at their own risk. Many adepts are not particularly eager to take this test, and are content in their role as assistant wizard.
+Those who do undertake the exam are presented with challenges regarding each arcane discipline. The objective of each is to demonstrate a full understanding and balance to the specific discipline. As the finishing touch, he is to have a magical duel with his teacher. It is due to the possibility of death that many adepts choose to simply remain as such for their own safety.
+Completing the duel allows the adept to be titled a magister. Magisters have the honor of being full-fledged teachers of the arcane arts, able to develop new abilities for students to take note of. The combat capabilities of the magister is unquestionable, some can even rival archmagisters.
+For the contract to be turned into a unit for a hero's party it is necessary to build a Secret Library.#
+
+200. Archmagister
+#The archmagister is the pinnacle of ranks among the school of arcane arts. Each mage tower usually has one archmagister. These masters of magic are able to manipulate the flow of the weave with near-unnatural ease, able to pierce the resistance of most foes who dare challenge their supreme power. Even beings whose nature is largely magical or have an innate resistance to spells have reason to fear archmagisters.
+Those who threaten the conclave of magic would certainly feel the unforgiving wrath of the archmagister - a fate most ill-intended mortals would prefer never to encounter.
+For the contract to be turned into a unit for a hero's party it is necessary to build the Tower of Knowledge.#
+
+201. Oracle of Elements
+#Battlemages who have studied the spectrum of elemental spells are truly dangerous opponents. The most basic of spells at their disposal is enough to wash away an entire army. While these oracles tend to work alone, they often visit and lend their staff to arcane conclaves when such is threatened.
+The well-experienced battle capacity of the oracle of elements is unmatched against many - able to surprise both allies and foes alike.#
+
+202. Gnoll
+#Gnolls are born warriors, filled with pride and unmatched fighting spirit. Even their newly-born pups contain sharp teeth and piercing claws. Gnolls tend to arm themselves with whatever they manage to plunder from their defeated foes... ...usually an assortment of leathers, bones, and steel.
+Combined with both natural and supernatural physical features and senses, gnolls are largely paradoxical: while they would gladly sacrifice themselves for an ally in battle, they tend to scheme to surpass or betray that same ally out of battle. This schizophrenic nature makes them both welcome and feared within bands of multi-racial adventurers. And despite their wild nature, Gnolls crave a pack so much that they will look for even something remotely similar. Thus gnolls occasionally join a group of adventurers.#
+
+203. Gnoll-sergeant
+#A pack of gnolls is usually led by a gnoll-sergeant, who is equipped with the best weapons and armor plundered from a raid. Gnolls respectfully fear these commanders, as they should, given their proven strength and intelligence for military tactics.
+There is forethought in their actions. They act as a unit, help each other and don't just fend for themselves. Gnoll-sergeants often drill their kin into becoming a tight formation, able to act on command without delay. The sergeant's acute sense of smell and sight allows him to discern any sort of fallacy from his ranks.#
+
+204. Gnoll-archer
+#The more dexterous of the gnolls are put to use as archers. Given how muscular gnolls are compared to other humanoids, they can notch and release with swift ease. The intense projection of arrows from their composite bows can compete with ballista shots.
+Unlike most archers, gnolls don't have the problem of facing their foes in melee. They are trained and eager to fight back with ferocity if they must.#
+
+205. Siege Machine
+#To complete a raiding party of gnolls, these ferocious creatures travel with perilous siege machines. They are usually manned by slaves - typically dwarves. This beast of a creation is extremely heavy, so it is usually employed during the siege of cities.
+The machine's massive shells cause horrific structural damage to walls, and should an enemy receive the full force of the projectile, very little will be left of them. Recently gnolls have began to use strange new projectiles against their enemies, stinking lumps of mucus that are hurled into the enemy's midst, forcing everyone who comes in contact with the stuff to throw up in disgust.
+To damage the siege machine is not easy, either, as the manufactured structure is reinforced with thick steel. Arrows cannot cause it any serious damage. It is vulnerable to magic though, that is its main drawback.
+For the schematics to be turned into a unit for a hero's party it is necessary to build the Craftsmen Guild or the Slaver's Pen.#
+
+206. Gnoll-chieftain
+#The gnoll-chieftain is often selected by their gift of having demonic blood coursing through his veins, enhancing his already unnatural bodily strength and ferocity. Chieftains tend to wield vicious blades infused with magic plundered from other warlords.
+What separates the chieftain from the rest of his pack is his dedication to unifying the clan as one unstoppable force. Only truly exceptional individuals can claim this role. Someone needs to impose their will upon other Gnolls, for they are lazy, quarrelsome, blood-thirsty, irascible and simple. It is much easier to take by force, than to build yourself. Gnoll leaders become mighty warriors, as their arrogant and savage sense of honor compels them to tackle the most challenging task at hand, in order to constantly prove their superiority to others. He always strikes first, wasting no time on diplomacy. And it is quite the blow.#
+
+207. Lord of Darkness
+#The origin of this rare being is not known. Scattered scrolls and manuscripts document the being as the result of a skeletal structure of undeath whose darkened vessel of a heart saturated with unrelenting hatred seizes a physical manifestation of power with a desire for vengeance against those who wronged it. Other legends refer to the Lord of Darkness as the result of a lich's desire to manifest the ultimate immortal guardian. Because of its rarity and lack of documented facts, one must approach this monstrosity with extreme caution.
+A Lord of Darkness almost always appears to be surrounded by several skeletons of Darkness, and sends these creepy creatures into battle like a real commander. Its presence significantly increases the strength of these skeletons. Inexperienced soldiers better not approach the Lord of Darkness - killing living beings enhances his strength, allowing him time and again to raise his minions from fallen enemies.#
+
+208. Hnara
+#A vile creature, the hnara represents a wolf-shaped collection of bones. Often, though not necessarily, they are based on the skeleton of wolves, dogs, foxes, cats or other medium-sized animals. Although its shape is that of an animal, the hnara disturbingly has a human skull attached, thus invoking a sense of discomfort in those who encounter it. A fresh corpse for a necromantic ritual is not required. Under the influence of the spell, any bone, even from different creatures, no matter how long they have been dead, are going into a single frame that looks like the skeleton of an animal.
+While the hnara is a simple form of undeath, its combat potential should not be ignored. Its small size allows for swift maneuvering and makes it easier to avoid counterattacks.#
+
+209. Workman
+#An almost essential member of any army, the workman is a simple assistant who performs repairs for the other soldiers, be it armor, weapons or siege equipment.
+For the contract to be turned into a unit for a hero's party it is necessary to build the Carpenters Guild.#
+
+210. Dire Bear
+#Bears are the most common inhabitants of the forests of Eador. Bears almost never attack humans, preferring to retreat into the forest thickets in case of danger. But dire bears - as farmers call them, and the name stuck - are completely different. Much larger than their cousins, they are also much more aggressive. The reasons for this behavior are unclear, only one thing is certain - if you wind up near a dire bear's den - expect trouble. Although the dire bear seems clumsy, it is very hard to escape from one.#
+
+211. Sorcerer
+#Those who've devoted their lives to magic and sorcery are often forced to join the army to make a living. Battle sorcerers are highly valued by their commanders, although ordinary warriors dislike them for the dark deeds most of them usually engage in. The sorcerers can strike their enemies with magic and cast curses of vulnerability on them. More experienced sorcerers often learn other kinds of spells, preferring the school of Necromancy. Sorcerers are quite weak in close combat. Whenever they're forced to fight in melee, they cast a special curse that decreases their opponent's combat abilities.#
+
+212. Icarus
+#The warrior caste of the Icari is dedicated to the obliteration of Chaos in all its forms. Every one of them is willing to do anything to secure victory. The mind of an Icarus is clear and his will is strong. The mental link with their brothers in arms allows them to renounce any thought not directly related to warfare, for the battlefield is no place for personal impulses and desires. Common warriors live fast and short lives, but some of the Icari are not willing to rest in the afterlife of the Trees, but instead look for an opportunity to arise and return to the world of the living to fight the Enemy once more.#
+
+213. Luminary
+#Luminaries are those Alkari, whose mental connection to the Trees of the Departed is particularly strong. Only those illustrious warriors are capable of leading winged troops into battle, using their mental powers to coordinate lightning-fast attacks. They are not called Luminaries, the guiding lights, for nothing: in the heat of battle, being virtually on the brink between life and death, they can call on their ancestors for aid. For a brief moment an ancient oath breaks the shackles of death, and an Icarus arises under the banner of his commander to rejoin the battle against the forces of Chaos. Although they are not as powerful as truly Arisen, and do not linger for long in the world of the living, these Icari can join the battle anywhere at any time, rushing to the guiding light of a Luminary's mind.#
+
+214. Stalker
+#Every manifestation of the Enemy should be obliterated, but any wicked man suspected of collaborating with the Enemy must be taken alive. Stalkers are trained especially for both of these tasks. These fighters armed with shining spears are capable of striking the enemy down before they approach, and for targets of special interest Stalkers have their nets, capable of catching even the most sneaky enemy.#
+
+215. Witness
+#The eyes and ears of the Children of Heaven, it is their duty to represent the Mentors and the Lord of Heaven wherever a shadow of Alkari wings falls. They channel their mental power to reach out and transmit their thoughts over great distances, for even the outermost scouts must never lose contact with the Mentors and the Departed. In combat, Witnesses, proficient in the joining of minds, can support their allies by strengthening their spirit and healing their body or disrupt the concentration of enemy spellcasters.#
+
+216. Trapped Soul
+#Mortal warriors die on the battlefield all the time, but only recently had necromancers learned to use the terrible suffering experienced by the soul parting with the body. Through a special ritual they can delay the departing soul for a brief moment. Although the spell is too weak to completely stop the transition and thus create a ghost, the spirit finds its uses, be it weakening the enemy or recovering the necromancer's own energy.#
+
+217. Lycan
+#Half man, half wolf - this is a rare creature indeed. The mortal races of Eador have made up the most bizarre and unbelievable tales about the origin of these creatures. And although most of them are no more than fancy fairy tales, the humans' fantasies surpassed all. It has been called by many names, which have taken root even among the other races - turnskin, werewolf, lycanthrope, the names alone speak volumes, despite the fact that Lycans can't turn into anything and always remain in their chimeric form of wolf-man. They are aggressive beasts and attack almost everyone they consider weaker than themselves. Moreover, they are quite smart and able to adhere to certain tactics, such as prioritizing the squishy wizards, especially when hunting in a pack.
+Killing a Lycan is no easy feat - they are amazingly quick and slender, and can dodge swords and arrows, literally flowing through the air - such is its speed. Minor scratches and cuts heal immediately, and Lycans can lick off more serious wounds in a few minutes.
+For the contract to be turned into a unit for a hero's party it is necessary to build the Handler's Guild.#
+
+218. Mephit
+#Elemental spirits live on their own Planes, and usually do not leave them voluntarily. Some powerful spellcasters are able to summon them to the Material Plane for a short time. The spiritis materialize in a "body" composed of their element - this is the only way they can withstand hostile environment.
+Mephits are young elemental spirits of Air. Mephits are rather weak creatures, usually summoned by a Sorcerer's Apprentice, learning the wisdom and subtleties of summoning - if the student gets it wrong, there is no need to fear for their lives. The worst mephits could do is leave a room in a horrible mess by stirring up strong gusts of wind.#
+
+219. Renegade
+#Certain "gentleman" outlaws prefer shooting over melee combat. Deftly hiding in trees, under bushes and behind thick trunks, they wait until their quarry has come within reach of their long distance shot, and then suddenly they will let loose. A melee attack by their comrades is typically preceded by a volley that can do a lot of damage.
+The primary objective of shooters is killing enemy spellcasters, their secondary is eliminating other shooters, from whom they are completely safe, hiding as they are among the trees. To take out a "deadeye", as they call themselves, is extremely difficult.
+As with other characters of dubious persuasion, a renegade will never deny himself the pleasure of pocketing some of the trophies, but only if they're absolutely sure they can get away with it.#
+
+220. Black Unicorn
+#The black unicorn is a great example of how dark magic and relentless hate are able to corrupt the very essence, defiling even a creature as majestic as a unicorn.
+The result is a monster, terrifying, aggressive and dangerous, making short work of the mortal creatures reckless enough to wander into its territory.
+Like its "ancestor", the black unicorn can pierce any armor with its horn, while the remains of the black witchcraft forever scarring the mutilated soul of the noble creature, fills it with incredible ferocity at the slightest injury.
+For the contract to be turned into a unit for a hero's party it is necessary to build Stonehenge.#
+
+221. Ratman
+#Common Screett soldiers win through their numbers and their ability to devour corpses. Obsessed with the desire to curry favor with their older brothers, they are the cheapest Ratman shock troops. But do not consider them weak - Ratmen are large and strong fighters. Also their equipment is usually quite good, and will get better and better - trophies found on the battlefield are fitted to the anatomy of the most outstanding fighters.
+Their main weaknesses - lack of vitality and courage - is largely offset by the ability to restore their health by biting the enemy, as well as quietly and quickly crawl through any terrain. Some Screetts set giant rats against the enemy before battle, thus ensuring the Ratmen's numbers will be superior.#
+
+222. Giant Rat
+#Some not entirely successful experiments of the Ancients were modified by the Screetts, so that Ratmen wherever they go, are now always accompanied by giant rats.
+Growing to the size of a large dog, giant rats are markedly different from their regular cousins - and not only in their courage and audacity. With their continuously sniffing snouts, they look at you with their beady eyes that flicker and shimmer with hunger and guile. But more than anything else, attention is drawn to their teeth - the dazzlingly sharp incisors and canines of a predator - because these rats have a much greater craving for meat than their smaller counterparts. And they eat whatever crappy food they can find, so the bite of a giant rat will almost certainly cause a serious infection.
+The Screetts use giant rats for various purposes - as pack animals, as watchmen, as food and even as pets. And of course, as combat animals. The endless waves of rats repeatedly erupting from the ground can seriously test an enemy. Faced with such onslaught, one should not expect any mercy - not even the bones of the victims will remain.#
+
+223. Warrior of Decay
+#Seekers - a wealthy and influential clan, but everyone knows that mere wealth and influence is not always impressive enough, and at times brute force might be needed. In that case the Seekers maintain a private army, calling themselves the Warriors of Decay. They possess a wide range of skills: fighting with magical weapons, actively using poisons and ingesting a special brew that causes a state of "black fever" - increasing their reaction speed, while poisoning themselves at the same time. That's why destroying the enemy is no simple task for them, but they need to - if they don't defeat the enemy swiftly, they could die from their own potion. They may also be under the influence of various potions that gives them particular protection against the effects on the mind. If we add to this the inherent Screett hunger rage and the ability to get through even the most impenetrable jungle - it becomes apparent that these are indeed dangerous fighters.#
+
+224. Driller
+#For a long time the Screetts used hand drills invented by the Ancients for the creation and expansion of their underground passageways. This work was not at all safe, however - many drillers perished under landslides. It occurred to one inventor to align the drill with a small lightning gun - destroying dangerous sites from a distance. On the tip of the drill was placed a drill bit that could create lightning. The new drill was very effective and allowed the Screetts to dig their tunnels even faster. But soon they found another use for it. One day a group of miners stumbled upon dark elven territory. The drillers prepared to sell their lives as dearly as possible, but to their astonishment the enemy turned and fled. This is what happened: shooting lightning is no worse than a cannon at long range, crushing any armor in close combat - this strange tool made quite a good weapon, apparently. Shortly thereafter the drillers began to use them in battle, and it doesn't even occur to most surface dwellers that actually it's not even a weapon, merely a modified tool.#
+
+225. Shadow Claw
+#There's always something of the ferret inherent in the very nature of the rat. And a rat can hide almost anywhere, or course. Not surprisingly, the best spies and assassins in Eador are Ratmen, and the best of them are part of the Seekers clan. By the standards of the Shadow Claws - as they call themselves - human killers are too slow, too clumsy and have no idea how to properly disguise themselves. The Screetts laugh at the human stories about a "special recipe for poisons" because the Ratmen know precisely what and to whom it was sold.
+The strike of a Shadow Claw is dangerous, not only for its strength, but also for its ability to significantly weaken the enemy. During melee combat each of them is well versed in a wide repertoire of dirty tricks. The special pride among their relatives are their weapons - Shadow Blades. During their manufacture the blades are merged with countless tiny pieces of Death crystal, and then treated with a strong poison. A shadow blade is capable of destroying armor, seriously damaging a weapon or killing with one strike. They say that an enterprising rat "borrowed" the idea of creating such a weapon and fighting style from the Alvari and this explains the similar name.
+To hire the unit using the proper contract requires Practice Halls, Skirr Clan Factory or Plague Factory.#
+
+226. Plague Shooter
+#Since ancient times Ratmen had noticed how much most other races are susceptible to disease. Most of the time the awareness of this fact merely fed the Screetts' smugness, until the schematics of the dwarven cannon were obtained that is. Now the eternal scourge of the "surface dwellers" has been turned into a weapon. They created shells, and filled them with poisonous liquid, mixed with acid. As a result, it made an even more effective weapon - a shooter being able to fire a poisonous shot, the Ratmen's crown achievement.
+Few people will be able to reach a plague shooter, and although his shot is weaker than the lightning gun, the poisonous liquid does its job. Should worse come to worst, glass spheres filled with poison gas come into play. Throw them hard and the effect will exceed all expectations. In order not to suffer from their own weapons, these Screetts wear special protective equipment - gloves, robes and masks that cover only their noses, letting the wielders partake of the lavish feast on the battlefield.#
+
+227. Lightning Cannon
+#The Lightning Cannon has long been one of the most dangerous Screett tools. They were probably invented by the Ancients - similar designs can occasionally be found in their treasuries and stashes, but they have long been out of order. Initially, the weapon looked more like a magic wand than a cannon, but then even more massive versions appeared and they were installed on a mobile chassis. The power of the lightning gun is impressive - its magic can completely destroy almost any enemy, regardless of the strength of his armor. The working principles of these machines are only known to the Screetts, so no one has yet managed to copy the lightning cannon.#
+
+228. Assault Rat
+#Inspired by the success of the driller, Screett engineers began to experiment with creating new weapons. Their long guns, working on new principles, were no better than the old ones though. Only one gunsmith succeeded. It worked, although not with the new weapons, but by improving their good old drill. He noticed that crystals struck by lightning would fly through the air at quite a speed and explode on impact. Soon thereafter the resourceful ratman created a prototype of the new weapon. The crystal bullets struck by a miniature drill flew out of the barrel and hailed upon the target, breaking armor and ripping flesh.
+They soon tested them in actual combat - in a battle with the dwarves - and their invention helped defeat the bearded men, as not even their vaunted heavy dwarven armor could withstand the weapon. The gun can also be used quite well as a club, if the gunner would suddenly be forced into close combat. The main drawback of the crystal gun and the reason why it has not yet been mass produced, is that the manufacture of its munitions uses up too many crystals, and it would cost the military commander too much.
+For the contract to be turned into a unit for a hero's party it is necessary to build the Craft Shop.#
+
+229. Rat Reaper
+#Rat Reapers are a special caste of Screett that the Ancients most likely created to perform all kinds of heavy work the smaller Ratmen couldn't do. Feeding this huge creature is very difficult however, so at some point the Screetts almost ceased breeding them. It would have been logical to use them in the military, but unfortunately the Ancients especially created them to be non-aggressive, so even when starved, these giant Screetts were poorly suited for combat, often simply too frightened, trying to escape the battlefield, right through the ranks of their allies. Nevertheless, the Seekers worked long and hard and for several generations only the most vicious animals were selected for breeding, and they ended up with what is now called a rat reaper. These creatures were no longer peaceful and shy - they fell into a battle rage, trampling and tearing enemies to pieces. Witnessing a rat reaper roaring with rage is a spectacle that can scare even the bravest enemy into fleeing the battlefield. Hardly anybody would gladly stand in the way of such a giant. Like most giants, they are able to move quickly in the hills, but feel uncomfortable in woods and swamps. Their skin is extremely resistant to damage, so they wear hardly any armor. Their health is robust and they can devour corpses. They invest their strikes with such monstrous power that they are able to break almost any armor Ratmen value them and provide the most capable with better equipment. Like a rock, they proudly tower over the turbulent gray flood of their relatives. Many a rank of fragile knights have been broken and dispersed on these "rapids".
+Rat reapers also have their drawbacks though. When hungry, they become almost unmanageable - and it's not easy to feed them. Rat reapers often fall into a hunger rage, escape from their labs and create terror among the slum dwellers. To avoid this, a fat and fast growing species of giant rat was bred. A rat reaper can eat quite a lot of rats in a day, so now you know where the name came from.
+For the contract to be turned into a unit for a hero's party it is necessary to build the Handler's Guild or the Seeker Laboratory.#
+
+230. Ratclaw
+#For all their merits, it's not that easy for the Ratmen to survive, let alone grow in size, as their appetites are truly legendary. This led them to create a hybrid that is not as small and not as voracious, and capable of moving faster on any type of terrain. Ratclaws are smarter and more cool-headed than ordinary ratmen. They are mainly used for heavy work - swinging an axe, carrying loads and protecting tunnel exits, and some rat kings keep ratclaws as bodyguards. But the main use of ratclaws is in battle. Their intelligence allows them to use a dangerous weapon: their "Claws of Death" - gauntlets with long claws attached. Clearly better endowed with strength and stamina than their fellow ratmen, ratclaws are just as boisterous and bloodthirsty when they can smell blood. Their innate dexterity and quick reflexes allow most of them to always strike first and makes them difficult to hit, and their skin is quite strong too. When running, they are actively using their powerful front legs and are easily capable of keeping up with heavy cavalry. The only drawback of ratclaws is that they are vulnerable to magic.#
+
+231. Ripper
+#Like many other machines, the ripper was originally designed for peaceful purposes. Thanks to this invention the Screetts managed to settle underground so widely. Drills at the front of the machine penetrate stone, creating fissures and cracks, and their powerful blades complete the process. But the dungeons contain many dangers, and miners often stumble upon them. It is hardly surprising that the stonecutter was often used as a weapon. After a senior Screett engineer saw how the machine was able to kill some slugs encountered by a drilling crew, he immediately began to improve this miracle of technology. The original version is neither good at defense nor speed of movement, but in the military version these deficiencies have been corrected. Already in its first battles the driller filled the enemy with true horror - hardly anything was able to stop the monstrous mechanism, so they called it a Ripper, cutting and crushing and ripping to pieces anything that appears in its path. Combined with its strange and eerie appearance, it can easily convince the enemy of one thing - this product of hell, this rock devouring chariot can only be a portent of the last days before the end of the world. In some provinces, after colliding with this invention, rulers and the Inquisition issued decrees banning anything whatsoever moving on wheels. And although the new, certainly heroic doctrine of the Knights states: "...if you see this peculiar wheel moving swiftly across the battlefield - run for your life", not everyone manages to escape this contraption, moving as fast as the gray avalanche of Ratmen that follows it.
+For the schematics to be turned into a unit for a hero's party it is necessary to build the Craftsmen Guild or the Seeker Laboratory.#
+
+232. Master of Decay
+#Seekers are the most mysterious and secretive Ratman caste. They are engaged in the same things as in the days of the Ancients, hence their name. Long ago, their ancestors learned better than others to sense and utilize magic gems, Death crystals and artifacts. They are amazingly smart and orderly creatures, and they possess some magical talent, which is highly revered among the Screetts. Although Seekers are not fighters, they can often be seen on the battlefield, vigilantly watching the battle. One of their spells could quickly turn the tide of battle.
+Any seeker can create a potion of "black fever". Drinking this improves the combat skills of the fighters. A seeker is required to always carry at least one bottle of this drug with him. But they have earned their fame for their control of particularly deadly diseases. Experienced Seekers can even carry the disease to small groups of enemies at once. If a Seeker wills it, then even a terrified Ratman is encouraged and eager to fight. The strongest ratmen among the Seekers proudly call themselves Masters of Decay, because their magic causes enemies to fall ill and die right before their eyes, and they are able to find the ingredients required for their spells right under their feet.
+Despite the fact that Masters of Decay do not typically have any special strength, health or agility, even the Rat King listens to them. That's hardly surprising, as they receive all their knowledge and their prophecies directly from the Grand Ratt. They never fight alone. Common ratmen and ratclaws always vigilantly guard the safety of these founders of their mighty race.
+For the contract to be turned into a unit for a hero's party it is necessary to build the Secret Library or the Seeker Laboratory.#
+
+233. Rat King
+#As you will know, not everything in the world is equal. In Screett society, in which family ties or origin are not important, you can only succeed through your own abilities - intellectual, martial or cunning. Only by proving himself can a ratman become a respected member of this strange subterranean society. The gifted rise through the ranks and get close to or even become the leaders. Some achieve such power that they rule the lives of entire underground cities. These greatest of Screetts, whose names are whispered throughout the nooks and corners of the Shard's dark dungeons, attract the attention of the Grand Horned One. All this is strictly monitored by the Seekers. The most gifted ratmen are offered to strengthen their already outstanding qualities even further. For many months, deep in the secret abodes of the Seekers, the chosen ratmen pass through what only the founders of the Witcher strongholds can imagine. But ratmen, being more susceptible to mutation and transformation, change far more drastically than humans.
+Rat Kings - as those despicable surface ignorants call them - are in fact Eckhanir Screettas, which can be roughly translated as "king of the people", those great ratmen that had once vanished without a trace and have now appeared reborn, as close to the Grand Ratt as any faithful Screet dares to dream. After going through a secret transformation the ratmen are transformed into a majestic and terrible creature with feline grace and powerful claws. His crown - his long curved horns - confirms his great authority, second only to the power of the Grand Ratt. The common Screett leader is no more - long live the King! From now on he is the best among ratmen.
+A Rat King is a close confidant and adviser to the Grand Horned One, executing His will and mercilessly punishing renegades and traitors. The Screetts treat the Rat King with the greatest respect and carry out his will unquestionably - not only are they legends among ratmen in their own right, they also speak on behalf of the Grand Ratt. Kings rarely resort to violence against their fellow ratmen, because usually a glance at the most rebellious and headstrong of them will make them tremble and fall to their knees in fear. But among the enemies of the Screetts, they rightly deserve their reputation as terrible warriors that know no pain and no fear of death or defeat.#
+
+234. Grand Ratt
+#If there exists an embodiment of Screett spirit, then it must certainly be the Grand Ratt - a name the ratmen utter in reverence and fear.
+Shrouded in mystery, the Grand Ratt is one of the oldest creatures of Eador. Orc shamans tell of an "evil iron giant" before their rough idols, the "horned nightbearer" appears in Elven legends and the "king of the squeaking spawn" is depicted on the frescoes in dwarven sanctuaries. He is the true Lord of the Screett race, at whose command they will go to war and build cities, and whose appearance is enough for the proudest ratman leader to fall to his knees, not daring to look up.
+Those who have seen the Grand Ratt describe him as a huge ratman with long and magnificent horns. His ominous-looking armor and weapons are mechanisms in which engineering genius and magic is woven together with art, in comparison to which the best creations of his subjects seem but rough creations. What inspires even more respect is how the Grand Ratt is able to appear out of thin air through mysterious portals, surrounded by green flashes of fire, and disappearing again into these gaps to nowhere.
+Combining a brilliant intellect and the immense strength of the Ancients, the Grand Ratt is a being to be reckoned with, even by the Masters. Whole countries are mere pawns in his eternal game, and they will carry out the will of the Ratman Lord without even realizing it. The Grand One himself rarely appears openly before his subjects, preferring to watch the mortals out of the shadows. Only the exceptional importance of a certain decision or a fateful meeting with an ally may beckon it forth. Revealing his strength, the Grand Ratt is a warrior who is even feared by dragons - his enormous power and his incredible speed and strength is capable of destroying a whole army. The Grand Ratt is occasionally "vanquished" in battle, but soon after every supposed defeat, he reappears unscathed. It is said that the Grand Ratt is either always one step ahead of his enemies, or he's immortal - and neither option is encouraging for those who dare to stand in his way.#
+
+235. Daokon's Guardian
+#One of the mysteries of the secret Monstrologist Guild is the knowledge of breeding war elephants - a way to significantly enhance the combat capabilities of these huge animals. What is necessary for success, in addition to the fairly high cost of creating powerful equipment and a ritual using rare ingredients, is a really strong and mighty elephant.
+Obtained in case of success is a creature that only partly resembles a common elephant. In the days of the Daokon Empire the personal guardians of the Emperor were just such animals, on the one hand, as loyal to his master as a dog, and on the other, mad and unbridled, smashing everything in its path with tremendous force, fueled by a wild rage.
+Stopping such a colossus is incredibly difficult - only a really powerful or huge creature is capable of withstanding this monster, and even magic will have a hard time dealing with it.#
+
+236. Paragon of Light
+#Those paladins most greatly blessed are awarded with the brightest Light of the Lord - and from then onwards there will be few creatures of Darkness or Chaos capable of defeating such a Paragon of Light in open battle! His proficiency in warfare, combined with years of combat experience, makes this holy warrior almost invincible and even hordes of the most powerful enemies can only temporarily postpone their doom - a Paragon of Light does not die, slain by claw and fang, but is instantly revived by the miraculous power of his divine patron, spelling doom to foul creatures once more.
+In addition to the laying on of hands, healing the wounds of his allies, a Paragon of Light can also treat his own wounds, just by praying to the Lord of the Light.#
+
+237. Maleficar
+#For the most powerful warlocks a day will come when all the secrets of Darkness are revealed to them. With a rich repertoire of dark spells, these adepts of Death can simply crush their enemies under a mass of walking corpses, who until recently were living enemies or allies.
+The Maleficar, who in some ways is the quintessence of Darkness, is no longer subject to fear, poison, exhaustion or pain, just like the undead. Even the magic that can draw heat from the body is not able to harm this cold, almost heartless ruler of the Dark.#
+
+238. Berserker
+#Warriors shine when it comes to trading blows. They have the strongest health of all heroes, and are able to wield the heaviest armor and weapons.#
+
+239. Assassin
+#Warriors shine when it comes to trading blows. They have the strongest health of all heroes, and are able to wield the heaviest armor and weapons.#
+
+240. Holy Knight
+#Warriors shine when it comes to trading blows. They have the strongest health of all heroes, and are able to wield the heaviest armor and weapons.#
+
+241. Dark Knight
+#Warriors shine when it comes to trading blows. They have the strongest health of all heroes, and are able to wield the heaviest armor and weapons.#
+
+242. Archer
+#Scouts are professional marksmen. They can use all kinds of ranged weapons, but can only use light armor and cannot employ shields. Scouts have the greatest selection of various non-combat skills.#
+
+243. Adventurer
+#Scouts are professional marksmen. They can use all kinds of ranged weapons, but can only use light armor and cannot employ shields. Scouts have the greatest selection of various non-combat skills.#
+
+244. Ringleader
+#Scouts are professional marksmen. They can use all kinds of ranged weapons, but can only use light armor and cannot employ shields. Scouts have the greatest selection of various non-combat skills.#
+
+245. Ranger
+#Scouts are professional marksmen. They can use all kinds of ranged weapons, but can only use light armor and cannot employ shields. Scouts have the greatest selection of various non-combat skills.#
+
+246. General
+#Commanders can lead large armies, and their skills are focused on improving the abilities of their soldiers. Commanders can use medium armor and shields.#
+
+247. Warlord
+#Commanders can lead large armies, and their skills are focused on improving the abilities of their soldiers. Commanders can use medium armor and shields.#
+
+248. Tactician
+#Commanders can lead large armies, and their skills are focused on improving the abilities of their soldiers. Commanders can use medium armor and shields.#
+
+249. Priest
+#Commanders can lead large armies, and their skills are focused on improving the abilities of their soldiers. Commanders can use medium armor and shields.#
+
+250. Mage
+#Wizards possess the greatest amount of spells. Their skills are focused on enhancing the power of their incantations. They can use wands, but no armor, shields or melee weapons.#
+
+251. Battlemage
+#Wizards possess the greatest amount of spells. Their skills are focused on enhancing the power of their incantations. They can use wands, but no armor, shields or melee weapons.#
+
+252. Druid
+#Wizards possess the greatest amount of spells. Their skills are focused on enhancing the power of their incantations. They can use wands, but no armor, shields or melee weapons.#
+
+253. Necromancer
+#Wizards possess the greatest amount of spells. Their skills are focused on enhancing the power of their incantations. They can use wands, but no armor, shields or melee weapons.#
+
+254. Gates of Chaos
+#This is the door through which the creatures of Chaos can get into the world of order, as simple as entering another room - by just taking a step. Unfortunately for demonic creatures, the Gates' "bandwidth" is limited - after each movement the energy of the gateway needs to be restored, and the costs of the move are directly proportional to the power of the spirit passing through it. Small creatures such as demons and spawn are able to pass through the gates almost without interruption, but after devils have moved through - the most powerful servants of Chaos - it takes a very long time to restore its energy. The most monstrous creations from the bowels of hell - the Acheron - generally cannot pass through them.
+Destroying such a structure is extremely difficult, especially since killing the defenders of the portal will not necessarily make things safe - while the passage is open, creatures of Chaos are able to pass through it. Therefore, a courageous hero's task is not an easy one - deciding what to destroy first, the gate itself or its defenders.#
+
+255. Alchemist
+#The dwarven society does not have a hierarchical structure, unlike the humans, alkari or lizards Each dwarf has a craft and is willing to pick up a weapon to defend his home. The choice of weapons depends on the talents and inclinations of each individual dwarf. In wartimes those who are used to swing mine picks pick up an axe, a blacksmith uses his skills to support siege engines and the magicians cast powerful runes. A dwarven alchmist enters the battlefield bringing the tools of his trade.
+In combat, alchemists throw enchanted flasks at enemy groups. Although the strong dwarves can throw the flasks exceptionally far in human terms, they still cannot match the range of an arrow. The content of these harmless-looking flasks can be very diverse - ranging from corrosive acids to exploding concoctions. The garments worn by alchemists provide little protection, but the enemy is usually severely weakened by acid burns and explosions when they reach the dwarven lines... if they manage to reach the Dwarven lines at all that is. Besides using their skills for combat, alchemists are also able to heal wounded Dwarven warriors.#
+
+256. Dwarven Pavisier
+#Few people are able to remain calm and collected when facing a line of Dwarven Pavisiers, armor-clad crossbowmen protected by a large convex shield - the pavise. The Dwarven crossbow deserves a special mention: this true work of art is much more powerful than the common crossbow, and optimized for firing behind the pavise. It is true that Dwarves are not the best marksmen of Eador, but in narrow and twisty underground corridors, accuracy is of minor importance: aware of their shortcomings, they let the enemy come close until they can't miss, and then finish him off with their axe.
+Why don't other races use pavisiers? Because the sheer weight of a pavisier's equipment is such that even the toughest Dwarves plod along with great difficulty.#
+
+257. Avenger
+#Demons are a frightful horde of murderers, but they are not an army. Higher demons conspire against each other, jealously espying the Chaos Flame's latest favorite. Lower demons only respect brute force. At the first available opportunity they tend to go rogue and ignore the wishes of their demon lords. Infighting and bloody murder is usually the result. Lords of the Underworld use avengers to keep order in the ranks of their legions... and to dole out punishment. Avengers have been imbued with the Flame of Chaos - which is considered a blessing by some, a curse by others.
+The avenger is a rare and extremely dangerous kind of demon. It is cruel and unstoppable and moves with great speed and agility. Avengers are covered by a multitude of razor-sharp horns and spikes that can easily cut through even the thick hide of demons. Hardened by fire, they survive even the most serious injuries. After being defeated, the avenger rises again as the regular demon it once was.#
+
+258. Colossus
+#Dwarves, being small of size, are fascinated by huge structures and gigantic constructs. This fascination is also mirrored in the design of military units. After encountering a golem once, they set out to repeat and surpass this amazing feat of magic. Their attempts to turn lifeless matter into an animated, battle-ready champion resulted in their first golem creation, the Colossus.
+It was... colossal! Since they encountered difficulties using stone to create a giant golem, they decided to use metal instead. Supporting a powerful offensive unit like the Colossus with long range missiles of the Earthshaker has turned the tides of battle in favor of the Dwarves many times. This Dwarven triumph of military genius has destroyed whole armies and razed fortifications. Aware of the machine's power, dwarves are hesitant to sell it to outsiders.#
+
+259. Herbalist
+#Although halflings are a peaceful race and don't typically suffer battle wounds, they still need specialists to treat common injuries. They make medicine out of various herbs, roots, bark and other plants. Halflings who study the properties of herbs and put this knowledge to good use are called herbalists.
+Although unfit for combat, they are essential on the battle field, merrily looking after wounded soldiers. Their small size - compared to humans - allows them to nimbly sneak past enemies to do their job. However, their thin cape offers no real protection against the enemy's weapons.#
+
+260. Mule
+#Because they are small and not much stronger than a human child, halflings are not able to carry heavy loads. Yet distant and long-lasting military campaigns require hauling stockpiles of food and equipment. (Halflings do love to eat!) They cope by using pack animals in large numbers, usually mules and ponies. Every halfling possesses two or three mules and one or two ponies, and carrying supplies onto the battlefield on the back of a mule is far from unusual. However, these "stallions" are no help in battle, unable to cause real harm, even to those who would attack them.#
+
+261. Border Guard
+#Halflings are excellent farmers and breeders. They love plants, and will look after them day and night. But when it comes to plowing, they are too small to use horses or oxen. Instead of ponies or mules, they use large boars. Boars are fairly clever animals, and they become very obedient when raised by caring hands. Often, plowing is made into a contest. The boars are lined up, side by side. At the judge's signal, the boars cheerfully rush forward, racing each other.
+The bolder halflings ride on the boar's back. Wild animals are no match for such "cavalry": The boar himself is a dangerous opponent on his own, and the rider is armed. Lone bandits tend to avoid border guards, as these halflings call themselves. Problems really start when bandits unite, but even then, border guards find ways to outsmart their opponents.#
+
+262. Bard
+#Halflings usually avoid battle, as well as any other danger. But bards seek out extraordinary battles and adventure, because authenticity is the essence of epic ballads. Of course, bards are frail by human standards, and cannot survive melee combat, but they can convince yesterday's peasants they are true warriors. A never-ending (well, almost - even bards sometimes need to catch their breath) stream of taunts and sneers makes their enemies fly into a rage, and compels recruits to prove their bravery in battle. The experience of tavern fights, and dodging flying mugs doesn't help bards evade arrows, but they tend to quickly learn where not to stand.#
+
+263. Chieftain
+#Warriors shine when it comes to trading blows. They have the strongest health of all heroes, and are able to wield the heaviest armor and weapons.#
+
+264. Master Assassin
+#Warriors shine when it comes to trading blows. They have the strongest health of all heroes, and are able to wield the heaviest armor and weapons.#
+
+265. Paladin
+#Warriors shine when it comes to trading blows. They have the strongest health of all heroes, and are able to wield the heaviest armor and weapons.#
+
+266. Death Knight
+#Warriors shine when it comes to trading blows. They have the strongest health of all heroes, and are able to wield the heaviest armor and weapons.#
+
+267. Sniper
+#Scouts are professional marksmen. They can use all kinds of ranged weapons, but can only use light armor and cannot employ shields. Scouts have the greatest selection of various non-combat skills.#
+
+268. Cutthroat
+#Scouts are professional marksmen. They can use all kinds of ranged weapons, but can only use light armor and cannot employ shields. Scouts have the greatest selection of various non-combat skills.#
+
+269. Gang Leader
+#Scouts are professional marksmen. They can use all kinds of ranged weapons, but can only use light armor and cannot employ shields. Scouts have the greatest selection of various non-combat skills.#
+
+270. Pathfinder
+#Scouts are professional marksmen. They can use all kinds of ranged weapons, but can only use light armor and cannot employ shields. Scouts have the greatest selection of various non-combat skills.#
+
+271. Marshall
+#Commanders can lead large armies, and their skills are focused on improving the abilities of their soldiers. Commanders can use medium armor and shields.#
+
+272. Battlemaster
+#Commanders can lead large armies, and their skills are focused on improving the abilities of their soldiers. Commanders can use medium armor and shields.#
+
+273. Strategist
+#Commanders can lead large armies, and their skills are focused on improving the abilities of their soldiers. Commanders can use medium armor and shields.#
+
+274. High Priest
+#Commanders can lead large armies, and their skills are focused on improving the abilities of their soldiers. Commanders can use medium armor and shields.#
+
+275. Archmage
+#Wizards possess the greatest amount of spells. Their skills are focused on enhancing the power of their incantations. They can use wands, but no armor, shields or melee weapons.#
+
+276. Warwizard
+#Wizards possess the greatest amount of spells. Their skills are focused on enhancing the power of their incantations. They can use wands, but no armor, shields or melee weapons.#
+
+277. Archdruid
+#Wizards possess the greatest amount of spells. Their skills are focused on enhancing the power of their incantations. They can use wands, but no armor, shields or melee weapons.#
+
+278. Master Necromancer
+#Wizards possess the greatest amount of spells. Their skills are focused on enhancing the power of their incantations. They can use wands, but no armor, shields or melee weapons.#
+
+279. Arisen Luminary
+#When most of the souls of the Children of Heaven transition to the spiritual collective of the afterlife, they leave their memory and knowledge to it, and merge together, thinning, dissolving in it and falling asleep. However, there are alkari who cannot be turned even by death from their path of fighting the forces of Chaos. Having once dwelled among the Departed, the Arisen returns to finish his mission, rehatched in the body of a nestling. Now the nestling has grown and is ready for duty. An Arisen focuses all the mental power he received from the Tree on keeping himself alive in the heart of the battle. His duty leads him, and the righteous wrath of the Departed time and again opens the wings of a noble warrior.#
+
+280. Memory Keeper
+#Provident rulers of men who seek answers in history may find that human memory is quick to consign events of the recent pastto oblivion. Such a situation is unimaginable for an alkari. Everything that the Children of Heaven have ever encountered is kept in their collective memory, and the ruling caste of mentors is there to store and interpret it. They value knowlege above all, but do not produce it like alchemists or dwarven engineers, but simply collect it, observing the life of others and memorizing what they see. Keepers are in a constant contact with the Trees of the Departed, which makes their mental power truly extraordinary: they are capable of healing whole armies, stopping enemies with no more than a glance, and calling forth Stalkers from the host of the Departed.#
+
+281. Eternal Mentor
+#The high-ranking Mentors rarely participate in combat, relying on the warrior caste for the extermination of Chaos, and typically having lived three times longer than the usual 60 tot 70 years through their magic, they die, never having once seen the Enemy firsthand. However, on rare occasions mentors, like some of the warriors, seek a different afterlife. An eternal mentor, arisen from the dead, considers his earthly duty fulfilled as leader and teacher to the people, and stands against the forces of Chaos in person. An Arisen Mentor, capable of dominating the will of his enemies by his incredible mental strength and endowing his allies with great power, will return to the world again and again, until the last of the Chaos spawn are no more.#
+
+282. Tree of the Departed
+#The Alkari believe that there was a time when the souls of their dead came to present themselves before the Lord of Heaven to fight the eternal war with the Enemy, but when the Lord of Heaven fell in battle with the demons, the souls of the Departed lost their shelter. Trying to help their ancestors, mentors have found the solution in the memory of the deity - Children of Heaven, previously dwelling high in the mountains, migrated to the fertile plains, where they grew giant Trees of the Departed capable of hosting alkari souls. These trees have become, on the one hand, the home and the source of sustenance for the living, and on the other - the host of the souls of their ancestors, who can always aid their scions, be it with wise advice or mental power. And although the Tree is immobile, its magical powers are enormous, and each alkari, dead or alive, is ready to die again and again, protecting it from defilement.#
+
+283. Mocker
+#This type of demon is visible from far away, especially at night. Their frail body is simply overflowing with Chaos energy, making them glow from within. The inseparable companions of sorcerers and higher demons of the Abyss, they are no serious threat in melee combat. But this does not prevent them from fulfilling their main purpose - Destruction.#

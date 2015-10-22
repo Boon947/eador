@@ -1,0 +1,281 @@
+/Л'Аншар
+/0 Первая встреча
+Index: 1;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Another immortal? Good, very good. I am L'Anshar, Lord of the Dead. I think we will have a war soon, and your subjects, %s, will join their forefathers in the Land of the Dead.#
+
+/1 Не первая встреча (Плохие отношения)
+Index: 2;
+Min: -5000;
+Max: -100;
+Name: 1;
+Param: 0;
+Text: #Oh, it's you again, %s. Build a more spacious graveyard in your castle this time. It'll come in handy soon.#
+
+/2 Не первая встреча (Нейтрален)
+Index: 2;
+Min: -99;
+Max: 99;
+Name: 1;
+Param: 0;
+Text: #You again, %s? Good. The more opponents I have, the more wars. And what else but war can purge the worlds of mortal life?#
+
+/3 Не первая встреча (Хорошие отношения)
+Index: 2;
+Min: 100;
+Max: 5000;
+Name: 1;
+Param: 0;
+Text: #Final rest be with you, %s! It's good you're here. I need to cleanse this Shard of mortal life, and your help is most welcome.#
+
+/4 Сразу война
+Index: 3;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Here you are, %s! The time has come to start cleansing this Shard of mortal life. I hope you're prepared for war? If not, so much the worse for you.#
+
+/5 Объявление войны
+Index: 4;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #The time has come to start a war, %s. I'm expecting adequate resistance from you. The more soldiers perish in battle, the cleaner this Shard will become.#
+
+/6 Предложение мира
+Index: 5;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Our war is at a deadlock, %s, for there are few soldiers left that can be killed. The time has come to gather new armies to continue the battle with new strength. Do you agree?#
+
+/7 Предложение союза
+Index: 6;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Final rest be with you, %s! You understand the frailty and impurity of mortal life better than anyone else. So let us unite to cleanse this Shard of mortals and all those who will try to oppose us.#
+
+/8 Предложение торговли 
+Index: 7;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Final rest be with you, %s! I think you'll agree to a little Trade Agreement, won't you? This will help us both to build stronger armies.#
+
+/9 Предложение обмена
+Index: 8;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Final rest be with you, %s! I'm offering you a little exchange. Do you agree?#
+
+/10 Пересмотр торговли
+Index: 9;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Final rest be with you, %s! I propose that we amend our trade agreement a bit.#
+
+/11 Отмена торговли
+Index: 10;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I was tired of those mortal merchants scurrying to and fro, so I killed them. This means the end of our trade, %s.#
+
+/12 Отмена союза
+Index: 11;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #The pact with you does more harm than good, %s. If our armies meet in battle, there will be many more victims. I'm dissolving our alliance.#
+
+/13 Требование выкупа
+Index: 12;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #The mortals of your pathetic land should have joined the ranks of the dead a long time ago. I'm ready to bring them the gift of Death. I hope you're ready for that, too. If not, I can give you a little more time. But time has a price, %s.#
+
+/14 Дар
+Index: 13;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I've decided to present you with a gift, %s. But remember, all gifts decay, only Death is eternal. Unfortunately, it's not in my power to give it to you.#
+
+/15 Отказ (Грубый)
+Index: 14;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: -1;
+Text: #I must turn down your pathetic request, %s.#
+
+/16 Отказ (Обычный)
+Index: 14;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #The answer is no.#
+
+/17 Отказ (Вежливый)
+Index: 14;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 1;
+Text: #No, %s, I refuse. But you were close to convincing me.#
+
+/18 Соглашение (Недовольное)
+Index: 15;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: -1;
+Text: #Perhaps I'll agree with you, %s. This time.#
+
+/19 Соглашение (Нейтральное)
+Index: 15;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Yes, I accept these terms.#
+
+/20 Соглашение (Довольное)
+Index: 15;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 1;
+Text: #You've managed to arouse my interest, %s. I agree.#
+
+/21 Отказ от общения (1х1)
+Index: 19;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Don't get distracted by empty talk, %s. We have a lot of work to do yet. Recruit your soldiers and send them to their deaths until the final mortal breathes his last.#
+
+/22 Отказ от переговоров
+Index: 23;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #What's the use of empty talk, %s? War is sacred, for it brings Death. So let us fight!#
+
+/23 Союзник, жребий или война
+Index: 20;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Very well, all of our enemies are eliminated, and only you and I are left. Let's decide who will have the honor of destroying the rest of the mortals on this Shard and joining it to his world. We can either fight for this right or cast lots. What do you choose, %s?#
+
+/24 Союзник, сдаться или война
+Index: 21;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Very well, all of our enemies are eliminated, and only you and I are left. I think you doubt not that this Shard must be added to my dead world, do you? If you don't agree, %s, I will fight you gladly to prove I'm right.#
+
+/25 Союзник, сдача
+Index: 22;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #All of our enemies are eliminated, and only you and I are left. I've decided to leave this Shard to you, %s. There are still too many living creatures here, I don't want to defile my dead world with their presence. Perhaps you'll be patient enough to destroy them all.#
+
+/26 Отказ от подарка
+Index: 24;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #You call these gifts? These wretched pieces of decaying matter? You can keep them!#
+
+/27 Принимаем дары
+Index: 25;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Your gifts suit my tastes, %s. I accept them.#
+
+/28 Отказ от союза с предателем
+Index: 16;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I don't see any point in an alliance with you, %s. You don't keep your word, so this alliance just rings hollow.#
+
+/29 Отказ от мира с предателем
+Index: 17;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Do you want peace, %s? No, we're going to fight. And the point is not that you betrayed me. The point is that war heals the world, so let it continue!#
+
+/30 Первая встреча, кампания
+Index: 26;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #%s? Fine! You'll help me clear this Shard of the filth called «life.» Prepare your forces, because you'll need them.#
+
+/31 Ответ на объявление войны
+Index: 27;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Oh, I'm so glad that you want war, %s! Don't disappoint me! Battles must be bloody, for each fallen one makes this world cleaner.#
+
+/32 Отказ в мире союзнику
+Index: 28;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #You disappoint me, %s. War and only war is able to heal this world, and that is the very reason that we formed the alliance! %s and all other worthless rulers must be destroyed!#
+
+/33 Ответ на предательство
+Index: 29;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I knew you couldn't be trusted, %s. Your betrayal confirmed my surmises. But don't think that deception will help you. Every war just makes me stronger.#
+
+/34 Война, остались 1х1
+Index: 30;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #The time has come to start a war, %s. I'm expecting adequate resistance from you. The more soldiers perish in battle, the cleaner this Shard will become.#
+&&&&&&

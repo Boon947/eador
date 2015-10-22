@@ -1,0 +1,1741 @@
+Quantity: 289
+
+/0
+Quester: 0;
+Trigger: 1;
+Event: 13;
+Text: #Who am I?#
+
+/1
+Quester: 0;
+Trigger: 5;
+Event: 54;
+Text: #Where are we?#
+
+/2
+Quester: 0;
+Trigger: 10;
+Event: 60;
+Text: #You said there were no objects or substances in the Astral. So why do I see my own world and the shards of other worlds around?#
+
+/3
+Quester: 0;
+Trigger: 6;
+Event: 63;
+Text: #What's going on in the world now?#
+
+/4
+Quester: 0;
+Trigger: 3;
+Event: 29;
+Text: #Why does the world consist of shards?#
+
+/5
+Quester: 0;
+Trigger: 11;
+Event: 50;
+Text: #I've been thinking... What if I use mortals other than humans to conquer these worlds?#
+
+/6
+Quester: 0;
+Trigger: 13;
+Event: 71;
+Text: #I want you to help me in the wars for the shards.#
+
+/7
+Quester: 0;
+Trigger: 14;
+Event: 76;
+Text: #What do you know about the law of Karma?#
+
+/8
+Quester: 0;
+Trigger: 2;
+Event: 49;
+Text: #Why are you serving me?#
+
+/9
+Quester: 0;
+Trigger: 4;
+Event: 40;
+Text: #Stop calling me «boss.»#
+
+/10
+Quester: 0;
+Trigger: 200;
+Event: 200;
+Text: #What do you know about Oinor?#
+
+/11
+Quester: 0;
+Trigger: 201;
+Event: 201;
+Text: #What can you tell me about Beleth?#
+
+/12
+Quester: 0;
+Trigger: 204;
+Event: 204;
+Text: #Do you know who the Lord of Light is?#
+
+/13
+Quester: 171;
+Trigger: 174;
+Event: 174;
+Text: #I've heard so much about your wisdom, Oinor. Can you please give me some advice?#
+
+/14
+Quester: 172;
+Trigger: 175;
+Event: 175;
+Text: #I've heard so much about your wisdom, Oinor. Can you please give me some advice?#
+
+/15
+Quester: 173;
+Trigger: 175;
+Event: 175;
+Text: #I've heard so much about your wisdom, Oinor. Can you please give me some advice?#
+
+/16
+Quester: 171;
+Trigger: 176;
+Event: 176;
+Text: #Tell me about yourself, Oinor.#
+
+/17
+Quester: 172;
+Trigger: 177;
+Event: 177;
+Text: #Tell me about yourself, Oinor.#
+
+/18
+Quester: 173;
+Trigger: 179;
+Event: 179;
+Text: #Tell me about yourself, Oinor.#
+
+/19
+Quester: 171;
+Trigger: 189;
+Event: 189;
+Text: #What do you know about Beleth?#
+
+/20
+Quester: 172;
+Trigger: 191;
+Event: 191;
+Text: #What do you know about Beleth?#
+
+/21
+Quester: 173;
+Trigger: 191;
+Event: 191;
+Text: #What do you know about Beleth?#
+
+/22
+Quester: 171;
+Trigger: 190;
+Event: 190;
+Text: #What can you tell me about Doh-Gor?#
+
+/23
+Quester: 172;
+Trigger: 192;
+Event: 192;
+Text: #What can you tell me about Doh-Gor?#
+
+/24
+Quester: 173;
+Trigger: 192;
+Event: 192;
+Text: #What can you tell me about Doh-Gor?#
+
+/25
+Quester: 3;
+Trigger: 217;
+Event: 217;
+Text: #Tell me about yourself, Beleth.#
+
+/26
+Quester: 3;
+Trigger: 230;
+Event: 230;
+Text: #What can you tell me about Oinor?#
+
+/27
+Quester: 3;
+Trigger: 231;
+Event: 231;
+Text: #What can you tell me about Doh-Gor?#
+
+/28
+Quester: 0;
+Trigger: 246;
+Event: 246;
+Text: #Do you know why I began to create the world? Was I driven solely by a thirst for power?#
+
+/29
+Quester: 0;
+Trigger: 249;
+Event: 249;
+Text: #I often hear mentions of so-called «Ancients.» Do you know anything about them?#
+
+/30
+Quester: 0;
+Trigger: 253;
+Event: 253;
+Text: #You said the Cataclysm resulted in the creation of «Nothingness.» Just what is that?#
+
+/31
+Quester: 0;
+Trigger: 260;
+Event: 260;
+Text: #I decided to conquer the world of one of the Masters. That will be faster than gathering shards together one at a time. Great idea, right?#
+
+/32
+Quester: 0;
+Trigger: 264;
+Event: 264;
+Text: #What do you know about Doh-Gor?#
+
+/33
+Quester: 11;
+Trigger: 279;
+Event: 279;
+Text: #What can you tell me about Oinor?#
+
+/34
+Quester: 11;
+Trigger: 280;
+Event: 280;
+Text: #What can you tell me about Beleth?#
+
+/35
+Quester: 11;
+Trigger: 281;
+Event: 281;
+Text: #What can you tell me about Vianta?#
+
+/36
+Quester: 11;
+Trigger: 282;
+Event: 282;
+Text: #Tell me about yourself, Doh-Gor.#
+
+/37
+Quester: 11;
+Trigger: 283;
+Event: 283;
+Text: #What's that amulet you have?#
+
+/38
+Quester: 0;
+Trigger: 287;
+Event: 287;
+Text: #Listen, Zarr, did I have any enemies, friends, or assistants before I lost my memory?#
+
+/39
+Quester: 0;
+Trigger: 67;
+Event: 304;
+Text: #Once on a certain Shard a spirit disguised as a mortal asked me for help... Do you happen to know him?#
+
+/40
+Quester: 0;
+Trigger: 65;
+Event: 313;
+Text: #Do you know what the Keys of Truth are?#
+
+/41
+Quester: 0;
+Trigger: 68;
+Event: 317;
+Text: #Do you know who Stenriya is?#
+
+/42
+Quester: 0;
+Trigger: 71;
+Event: 336;
+Text: #How were those you told about Stenriya supposed to get to her?#
+
+/43
+Quester: 0;
+Trigger: 72;
+Event: 347;
+Text: #Here's what I've been thinking, Zarr. Why couldn't you settle in the gear-wheel without my help?#
+
+/44
+Quester: 12;
+Trigger: 300;
+Event: 377;
+Text: #Tell me about yourself, Vianta.#
+
+/45
+Quester: 12;
+Trigger: 301;
+Event: 378;
+Text: #You've been ruling fairies since ancient times. So you must've seen the Cataclysm?#
+
+/46
+Quester: 12;
+Trigger: 302;
+Event: 384;
+Text: #What do you know about Oinor?#
+
+/47
+Quester: 12;
+Trigger: 308;
+Event: 385;
+Text: #What can you tell me about Beleth?#
+
+/48
+Quester: 12;
+Trigger: 304;
+Event: 386;
+Text: #What can you tell me about Doh-Gor?#
+
+/49
+Quester: 12;
+Trigger: 305;
+Event: 387;
+Text: #Why does Zarr dislike you so much?#
+
+/50
+Quester: 0;
+Trigger: 306;
+Event: 390;
+Text: #What do you know about Vianta?#
+
+/51
+Quester: 0;
+Trigger: 407;
+Event: 407;
+Text: #What do you know about Oumm?#
+
+/52
+Quester: 12;
+Trigger: 307;
+Event: 410;
+Text: #What do you know about Oumm?#
+
+/53
+Quester: 3;
+Trigger: 105;
+Event: 411;
+Text: #What do you know about Oumm?#
+
+/54
+Quester: 3;
+Trigger: 106;
+Event: 412;
+Text: #What do you know about Vianta?#
+
+/55
+Quester: 3;
+Trigger: 107;
+Event: 413;
+Text: #What do you know about L'Anshar?#
+
+/56
+Quester: 3;
+Trigger: 108;
+Event: 414;
+Text: #What do you know about Dariol?#
+
+/57
+Quester: 171;
+Trigger: 170;
+Event: 417;
+Text: #What do you know about Vianta?#
+
+/58
+Quester: 172;
+Trigger: 171;
+Event: 415;
+Text: #What do you know about Vianta?#
+
+/59
+Quester: 173;
+Trigger: 171;
+Event: 415;
+Text: #What do you know about Vianta?#
+
+/60
+Quester: 171;
+Trigger: 172;
+Event: 418;
+Text: #What do you know about Oumm?#
+
+/61
+Quester: 172;
+Trigger: 173;
+Event: 416;
+Text: #What do you know about Oumm?#
+
+/62
+Quester: 173;
+Trigger: 173;
+Event: 416;
+Text: #What do you know about Oumm?#
+
+/63
+Quester: 12;
+Trigger: 309;
+Event: 419;
+Text: #What can you tell me about L'Anshar?#
+
+/64
+Quester: 7;
+Trigger: 352;
+Event: 460;
+Text: #Tell me about yourself.#
+
+/65
+Quester: 7;
+Trigger: 353;
+Event: 461;
+Text: #What do you know about the other Masters?#
+
+/66
+Quester: 0;
+Trigger: 354;
+Event: 462;
+Text: #What can you tell about L'Anshar?#
+
+/67
+Quester: 0;
+Trigger: 205;
+Event: 463;
+Text: #Each Master possesses a special skill or advantage. Didn't I have any special talents?#
+
+/68
+Quester: 171;
+Trigger: 180;
+Event: 470;
+Text: #What do you know about L'Anshar?#
+
+/69
+Quester: 172;
+Trigger: 181;
+Event: 466;
+Text: #What do you know about L'Anshar?#
+
+/70
+Quester: 173;
+Trigger: 181;
+Event: 466;
+Text: #What do you know about L'Anshar?#
+
+/71
+Quester: 14;
+Trigger: 421;
+Event: 486;
+Text: #Tell me about yourself, Stenriya.#
+
+/72
+Quester: 14;
+Trigger: 427;
+Event: 529;
+Text: #Tell my fortune.#
+
+/73
+Quester: 14;
+Trigger: 431;
+Event: 521;
+Text: #What do you know about Oinor?#
+
+/74
+Quester: 14;
+Trigger: 429;
+Event: 515;
+Text: #What can you tell me about Beleth?#
+
+/75
+Quester: 14;
+Trigger: 432;
+Event: 522;
+Text: #What do you know about Doh-Gor?#
+
+/76
+Quester: 14;
+Trigger: 430;
+Event: 519;
+Text: #What do you know about Vianta?#
+
+/77
+Quester: 14;
+Trigger: 433;
+Event: 523;
+Text: #What do you know about Oumm?#
+
+/78
+Quester: 14;
+Trigger: 434;
+Event: 528;
+Text: #What do you know about L'Anshar?#
+
+/79
+Quester: 14;
+Trigger: 436;
+Event: 542;
+Text: #What do you know about the Cataclysm?#
+
+/80
+Quester: 14;
+Trigger: 437;
+Event: 545;
+Text: #What do you know about the Keys of Truth?#
+
+/81
+Quester: 0;
+Trigger: 442;
+Event: 575;
+Text: #What do you think of Stenriya?#
+
+/82
+Quester: 3;
+Trigger: 109;
+Event: 576;
+Text: #What do you know about Stenriya?#
+
+/83
+Quester: 3;
+Trigger: 110;
+Event: 577;
+Text: #Was it Stenriya who predicted that you would be the Overlord of Eador?#
+
+/84
+Quester: 0;
+Trigger: 420;
+Event: 581;
+Text: #Stenriya says hello.#
+
+/85
+Quester: 11;
+Trigger: 284;
+Event: 584;
+Text: #What do you know about Oumm?#
+
+/86
+Quester: 11;
+Trigger: 285;
+Event: 585;
+Text: #What do you know about L'Anshar?#
+
+/87
+Quester: 11;
+Trigger: 286;
+Event: 586;
+Text: #What do you know about Stenriya?#
+
+/88
+Quester: 12;
+Trigger: 311;
+Event: 587;
+Text: #What can you tell about Stenriya?#
+
+/89
+Quester: 7;
+Trigger: 355;
+Event: 588;
+Text: #Did you have anything to do with the Cataclysm, by chance?#
+
+/90
+Quester: 11;
+Trigger: 289;
+Event: 589;
+Text: #What do you know about the Cataclysm?#
+
+/91
+Quester: 0;
+Trigger: 255;
+Event: 590;
+Text: #Remember when you asked me what demons destroy first of all?#
+
+/92
+Quester: 5;
+Trigger: 501;
+Event: 600;
+Text: #What's that Last Battle you talked about?#
+
+/93
+Quester: 5;
+Trigger: 502;
+Event: 603;
+Text: #Who's that fallen Keeper that you mentioned?#
+
+/94
+Quester: 5;
+Trigger: 500;
+Event: 622;
+Text: #Tell me about yourself, Dariol.#
+
+/95
+Quester: 5;
+Trigger: 503;
+Event: 625;
+Text: #So you saw the Cataclysm? Tell me about it.#
+
+/96
+Quester: 5;
+Trigger: 504;
+Event: 628;
+Text: #What can you tell me about Oinor?#
+
+/97
+Quester: 5;
+Trigger: 505;
+Event: 629;
+Text: #What do you know about Beleth?#
+
+/98
+Quester: 5;
+Trigger: 506;
+Event: 630;
+Text: #What do you know about Doh-Gor?#
+
+/99
+Quester: 5;
+Trigger: 507;
+Event: 631;
+Text: #What do you know about Vianta?#
+
+/100
+Quester: 5;
+Trigger: 508;
+Event: 632;
+Text: #What do you know about Oumm?#
+
+/101
+Quester: 5;
+Trigger: 509;
+Event: 633;
+Text: #What do you know about L'Anshar?#
+
+/102
+Quester: 5;
+Trigger: 510;
+Event: 634;
+Text: #What do you know about Stenriya?#
+
+/103
+Quester: 14;
+Trigger: 443;
+Event: 650;
+Text: #What do you know about Dariol?#
+
+/104
+Quester: 5;
+Trigger: 511;
+Event: 635;
+Text: #How could you have defected to Chaos?#
+
+/105
+Quester: 16;
+Trigger: 550;
+Event: 670;
+Text: #Tell me about yourself, Ul-Dagan.#
+
+/106
+Quester: 16;
+Trigger: 553;
+Event: 667;
+Text: #What do you know about L'Anshar?#
+
+/107
+Quester: 16;
+Trigger: 554;
+Event: 675;
+Text: #Tell me about L'Anshar's secret weakness.#
+
+/108
+Quester: 16;
+Trigger: 555;
+Event: 678;
+Text: #What do you know about Oinor?#
+
+/109
+Quester: 16;
+Trigger: 556;
+Event: 679;
+Text: #What do you know about Beleth?#
+
+/110
+Quester: 16;
+Trigger: 557;
+Event: 681;
+Text: #How can I take advantage of Beleth's thirst for power?#
+
+/111
+Quester: 16;
+Trigger: 558;
+Event: 683;
+Text: #What do you know about Doh-Gor?#
+
+/112
+Quester: 16;
+Trigger: 559;
+Event: 685;
+Text: #What can you tell me about Vianta?#
+
+/113
+Quester: 16;
+Trigger: 560;
+Event: 686;
+Text: #What do you know about Stenriya?#
+
+/114
+Quester: 16;
+Trigger: 561;
+Event: 687;
+Text: #What do you know about Dariol?#
+
+/115
+Quester: 16;
+Trigger: 562;
+Event: 688;
+Text: #What do you know about the Cataclysm?#
+
+/116
+Quester: 16;
+Trigger: 563;
+Event: 690;
+Text: #Why did the Cataclysm happen?#
+
+/117
+Quester: 16;
+Trigger: 564;
+Event: 699;
+Text: #What do you know about Oumm?#
+
+/118
+Quester: 6;
+Trigger: 600;
+Event: 707;
+Text: #Tell me about yourself, Herskil.#
+
+/119
+Quester: 6;
+Trigger: 601;
+Event: 708;
+Text: #What do you know about Oinor?#
+
+/120
+Quester: 6;
+Trigger: 602;
+Event: 709;
+Text: #What do you know about Beleth?#
+
+/121
+Quester: 6;
+Trigger: 603;
+Event: 710;
+Text: #What do you know about Doh-Gor?#
+
+/122
+Quester: 6;
+Trigger: 604;
+Event: 711;
+Text: #What do you know about Vianta?#
+
+/123
+Quester: 6;
+Trigger: 605;
+Event: 712;
+Text: #What do you know about Oumm?#
+
+/124
+Quester: 6;
+Trigger: 606;
+Event: 713;
+Text: #What do you know about L'Anshar?#
+
+/125
+Quester: 6;
+Trigger: 607;
+Event: 714;
+Text: #What do you know about Stenriya?#
+
+/126
+Quester: 6;
+Trigger: 608;
+Event: 715;
+Text: #What do you know about Dariol?#
+
+/127
+Quester: 6;
+Trigger: 609;
+Event: 716;
+Text: #What do you know about Ul-Dagan?#
+
+/128
+Quester: 171;
+Trigger: 183;
+Event: 718;
+Text: #What do you know about Dariol?#
+
+/129
+Quester: 172;
+Trigger: 182;
+Event: 717;
+Text: #What do you know about Dariol?#
+
+/130
+Quester: 173;
+Trigger: 182;
+Event: 717;
+Text: #What do you know about Dariol?#
+
+/131
+Quester: 171;
+Trigger: 185;
+Event: 721;
+Text: #What do you know about Stenriya?#
+
+/132
+Quester: 172;
+Trigger: 184;
+Event: 719;
+Text: #What do you know about Stenriya?#
+
+/133
+Quester: 173;
+Trigger: 184;
+Event: 719;
+Text: #What do you know about Stenriya?#
+
+/134
+Quester: 171;
+Trigger: 195;
+Event: 723;
+Text: #What do you know about Ul-Dagan?#
+
+/135
+Quester: 172;
+Trigger: 194;
+Event: 722;
+Text: #What do you know about Ul-Dagan?#
+
+/136
+Quester: 173;
+Trigger: 194;
+Event: 722;
+Text: #What do you know about Ul-Dagan?#
+
+/137
+Quester: 171;
+Trigger: 188;
+Event: 726;
+Text: #What do you know about Herskil?#
+
+/138
+Quester: 172;
+Trigger: 187;
+Event: 724;
+Text: #What do you know about Herskil?#
+
+/139
+Quester: 173;
+Trigger: 187;
+Event: 724;
+Text: #What do you know about Herskil?#
+
+/140
+Quester: 3;
+Trigger: 112;
+Event: 727;
+Text: #What do you know about Ul-Dagan?#
+
+/141
+Quester: 3;
+Trigger: 113;
+Event: 728;
+Text: #What do you know about Herskil?#
+
+/142
+Quester: 11;
+Trigger: 291;
+Event: 730;
+Text: #What do you know about Ul-Dagan?#
+
+/143
+Quester: 11;
+Trigger: 292;
+Event: 732;
+Text: #What do you know about Herskil?#
+
+/144
+Quester: 12;
+Trigger: 312;
+Event: 733;
+Text: #What do you know about Dariol?#
+
+/145
+Quester: 12;
+Trigger: 313;
+Event: 734;
+Text: #What do you know about Ul-Dagan?#
+
+/146
+Quester: 12;
+Trigger: 314;
+Event: 735;
+Text: #What do you know about Herskil?#
+
+/147
+Quester: 11;
+Trigger: 290;
+Event: 729;
+Text: #What do you know about Dariol?#
+
+/148
+Quester: 14;
+Trigger: 444;
+Event: 736;
+Text: #What do you know about Ul-Dagan?#
+
+/149
+Quester: 14;
+Trigger: 445;
+Event: 737;
+Text: #What do you know about Herskil?#
+
+/150
+Quester: 5;
+Trigger: 516;
+Event: 739;
+Text: #What do you know about Ul-Dagan?#
+
+/151
+Quester: 5;
+Trigger: 517;
+Event: 740;
+Text: #What do you know about Herskil?#
+
+/152
+Quester: 16;
+Trigger: 610;
+Event: 741;
+Text: #What do you know about Herskil?#
+
+/153
+Quester: 10;
+Trigger: 654;
+Event: 756;
+Text: #Can you talk more...normally? I'm not too fond of poetry and such.#
+
+/154
+Quester: 10;
+Trigger: 653;
+Event: 757;
+Text: #What did you say about Eador's defense?#
+
+/155
+Quester: 10;
+Trigger: 662;
+Event: 769;
+Text: #I'm unable to attack Ul-Dagan. His world is surrounded by some kind of defensive field.#
+
+/156
+Quester: 10;
+Trigger: 671;
+Event: 786;
+Text: #Tell me about yourself, Erdu.#
+
+/157
+Quester: 10;
+Trigger: 672;
+Event: 788;
+Text: #What do you know about Oinor?#
+
+/158
+Quester: 10;
+Trigger: 673;
+Event: 789;
+Text: #What can you tell me about Beleth?#
+
+/159
+Quester: 10;
+Trigger: 674;
+Event: 790;
+Text: #What do you know about Doh-Gor?#
+
+/160
+Quester: 10;
+Trigger: 675;
+Event: 791;
+Text: #What do you know about Vianta?#
+
+/161
+Quester: 10;
+Trigger: 676;
+Event: 792;
+Text: #What do you know about Oumm?#
+
+/162
+Quester: 10;
+Trigger: 677;
+Event: 794;
+Text: #What do you know about Stenriya?#
+
+/163
+Quester: 10;
+Trigger: 686;
+Event: 803;
+Text: #What do you know about L'Anshar?#
+
+/164
+Quester: 10;
+Trigger: 678;
+Event: 795;
+Text: #What do you know about Dariol?#
+
+/165
+Quester: 10;
+Trigger: 652;
+Event: 748;
+Text: #What do you know about Ul-Dagan?#
+
+/166
+Quester: 10;
+Trigger: 679;
+Event: 796;
+Text: #What do you know about Herskil?#
+
+/167
+Quester: 10;
+Trigger: 680;
+Event: 797;
+Text: #What do you know about Adrageron?#
+
+/168
+Quester: 10;
+Trigger: 681;
+Event: 798;
+Text: #What do you know about Dorikos?#
+
+/169
+Quester: 10;
+Trigger: 682;
+Event: 799;
+Text: #What do you know about the Nameless?#
+
+/170
+Quester: 10;
+Trigger: 683;
+Event: 800;
+Text: #What do you know about Ranadil?#
+
+/171
+Quester: 10;
+Trigger: 684;
+Event: 801;
+Text: #What do you know about Magnus?#
+
+/172
+Quester: 10;
+Trigger: 685;
+Event: 802;
+Text: #What do you know about the Cataclysm?#
+
+/173
+Quester: 0;
+Trigger: 207;
+Event: 818;
+Text: #What do you know about the Last Battle?#
+
+/174
+Quester: 0;
+Trigger: 208;
+Event: 825;
+Text: #Zarr, listen. There's some ancient machine in Ul-Dagan's world which prevents me from getting there. Could you... break it somehow?#
+
+/175
+Quester: 0;
+Trigger: 209;
+Event: 823;
+Text: #What do you know about Erdu?#
+
+/176
+Quester: 0;
+Trigger: 211;
+Event: 844;
+Text: #Once, you said goblins were the ones to create the first machine. Now it turns out that the Ancients had a plenty of various machines. This just doesn't add up.#
+
+/177
+Quester: 171;
+Trigger: 197;
+Event: 886;
+Text: #Do you know anything about the Keys of Truth?#
+
+/178
+Quester: 172;
+Trigger: 196;
+Event: 887;
+Text: #Do you know anything about the Keys of Truth?#
+
+/179
+Quester: 173;
+Trigger: 196;
+Event: 887;
+Text: #Do you know anything about the Keys of Truth?#
+
+/180
+Quester: 171;
+Trigger: 199;
+Event: 891;
+Text: #What do you know about Erdu?#
+
+/181
+Quester: 172;
+Trigger: 198;
+Event: 890;
+Text: #What do you know about Erdu?#
+
+/182
+Quester: 173;
+Trigger: 198;
+Event: 890;
+Text: #What do you know about Erdu?#
+
+/183
+Quester: 171;
+Trigger: 169;
+Event: 893;
+Text: #What do you know about Dorikos?#
+
+/184
+Quester: 172;
+Trigger: 168;
+Event: 892;
+Text: #What do you know about Dorikos?#
+
+/185
+Quester: 173;
+Trigger: 168;
+Event: 892;
+Text: #What do you know about Dorikos?#
+
+/186
+Quester: 171;
+Trigger: 167;
+Event: 895;
+Text: #Tell me about Adrageron.#
+
+/187
+Quester: 172;
+Trigger: 166;
+Event: 894;
+Text: #Tell me about Adrageron.#
+
+/188
+Quester: 173;
+Trigger: 166;
+Event: 894;
+Text: #Tell me about Adrageron.#
+
+/189
+Quester: 171;
+Trigger: 165;
+Event: 897;
+Text: #What do you know about Ranadil?#
+
+/190
+Quester: 172;
+Trigger: 164;
+Event: 896;
+Text: #What do you know about Ranadil?#
+
+/191
+Quester: 173;
+Trigger: 164;
+Event: 896;
+Text: #What do you know about Ranadil?#
+
+/192
+Quester: 171;
+Trigger: 163;
+Event: 899;
+Text: #What do you know about the Nameless?#
+
+/193
+Quester: 172;
+Trigger: 162;
+Event: 898;
+Text: #What do you know about the Nameless?#
+
+/194
+Quester: 173;
+Trigger: 162;
+Event: 898;
+Text: #What do you know about the Nameless?#
+
+/195
+Quester: 171;
+Trigger: 161;
+Event: 901;
+Text: #What can you tell me about Magnus?#
+
+/196
+Quester: 172;
+Trigger: 160;
+Event: 900;
+Text: #What can you tell me about Magnus?#
+
+/197
+Quester: 173;
+Trigger: 160;
+Event: 900;
+Text: #What can you tell me about Magnus?#
+
+/198
+Quester: 3;
+Trigger: 114;
+Event: 903;
+Text: #What do you know about the Keys of Truth?#
+
+/199
+Quester: 3;
+Trigger: 115;
+Event: 904;
+Text: #What do you know about Erdu?#
+
+/200
+Quester: 3;
+Trigger: 116;
+Event: 905;
+Text: #What do you know about Dorikos?#
+
+/201
+Quester: 3;
+Trigger: 117;
+Event: 906;
+Text: #What do you know about Adrageron?#
+
+/202
+Quester: 3;
+Trigger: 118;
+Event: 907;
+Text: #What do you know about Ranadil?#
+
+/203
+Quester: 3;
+Trigger: 119;
+Event: 908;
+Text: #What do you know about the Nameless?#
+
+/204
+Quester: 3;
+Trigger: 120;
+Event: 909;
+Text: #What do you know about Magnus?#
+
+/205
+Quester: 11;
+Trigger: 293;
+Event: 912;
+Text: #It's almost certainly a waste of time, but I'll ask anyway. What do you know about the Keys of Truth?#
+
+/206
+Quester: 11;
+Trigger: 294;
+Event: 914;
+Text: #What do you know about Erdu?#
+
+/207
+Quester: 11;
+Trigger: 295;
+Event: 915;
+Text: #What do you know about Dorikos?#
+
+/208
+Quester: 11;
+Trigger: 296;
+Event: 916;
+Text: #What do you know about Adrageron?#
+
+/209
+Quester: 11;
+Trigger: 297;
+Event: 917;
+Text: #What do you know about Ranadil?#
+
+/210
+Quester: 11;
+Trigger: 298;
+Event: 918;
+Text: #What do you know about the Nameless?#
+
+/211
+Quester: 11;
+Trigger: 299;
+Event: 919;
+Text: #What do you know about Magnus?#
+
+/212
+Quester: 0;
+Trigger: 27;
+Event: 920;
+Text: #Zarr, I got my hands on some amulet recently. Take a look.#
+
+/213
+Quester: 12;
+Trigger: 315;
+Event: 924;
+Text: #What do you know about the Keys of Truth?#
+
+/214
+Quester: 12;
+Trigger: 316;
+Event: 927;
+Text: #What do you know about Erdu?#
+
+/215
+Quester: 12;
+Trigger: 317;
+Event: 928;
+Text: #What do you know about Dorikos?#
+
+/216
+Quester: 12;
+Trigger: 318;
+Event: 929;
+Text: #What do you know about Adrageron?#
+
+/217
+Quester: 12;
+Trigger: 319;
+Event: 931;
+Text: #What do you know about Ranadil?#
+
+/218
+Quester: 12;
+Trigger: 320;
+Event: 932;
+Text: #What do you know about the Nameless?#
+
+/219
+Quester: 12;
+Trigger: 321;
+Event: 933;
+Text: #What do you know about Magnus?#
+
+/220
+Quester: 14;
+Trigger: 451;
+Event: 934;
+Text: #What can you tell about Erdu?#
+
+/221
+Quester: 14;
+Trigger: 446;
+Event: 938;
+Text: #What do you know about Dorikos?#
+
+/222
+Quester: 14;
+Trigger: 447;
+Event: 939;
+Text: #What do you know about Adrageron?#
+
+/223
+Quester: 14;
+Trigger: 448;
+Event: 940;
+Text: #What do you know about Ranadil?#
+
+/224
+Quester: 14;
+Trigger: 449;
+Event: 941;
+Text: #What do you know about the Nameless?#
+
+/225
+Quester: 14;
+Trigger: 450;
+Event: 942;
+Text: #What do you know about Magnus?#
+
+/226
+Quester: 5;
+Trigger: 518;
+Event: 945;
+Text: #What do you know about Erdu?#
+
+/227
+Quester: 5;
+Trigger: 519;
+Event: 946;
+Text: #What do you know about Dorikos?#
+
+/228
+Quester: 5;
+Trigger: 520;
+Event: 947;
+Text: #What do you know about Adrageron?#
+
+/229
+Quester: 5;
+Trigger: 521;
+Event: 948;
+Text: #What do you know about Ranadil?#
+
+/230
+Quester: 5;
+Trigger: 522;
+Event: 949;
+Text: #What do you know about the Nameless?#
+
+/231
+Quester: 5;
+Trigger: 523;
+Event: 950;
+Text: #What do you know about Magnus?#
+
+/232
+Quester: 16;
+Trigger: 566;
+Event: 952;
+Text: #What do you know about Erdu?#
+
+/233
+Quester: 16;
+Trigger: 567;
+Event: 956;
+Text: #What do you know about Dorikos?#
+
+/234
+Quester: 16;
+Trigger: 568;
+Event: 957;
+Text: #What do you know about Adrageron?#
+
+/235
+Quester: 16;
+Trigger: 569;
+Event: 958;
+Text: #What do you know about Ranadil?#
+
+/236
+Quester: 16;
+Trigger: 570;
+Event: 959;
+Text: #Do you know anything about the Nameless?#
+
+/237
+Quester: 16;
+Trigger: 572;
+Event: 960;
+Text: #Tell me what you learned about the Nameless.#
+
+/238
+Quester: 16;
+Trigger: 571;
+Event: 965;
+Text: #What do you know about Magnus?#
+
+/239
+Quester: 6;
+Trigger: 611;
+Event: 977;
+Text: #What do you know about Erdu?#
+
+/240
+Quester: 6;
+Trigger: 612;
+Event: 978;
+Text: #What do you know about Dorikos?#
+
+/241
+Quester: 6;
+Trigger: 613;
+Event: 979;
+Text: #What do you know about Adrageron?#
+
+/242
+Quester: 6;
+Trigger: 614;
+Event: 980;
+Text: #What do you know about Ranadil?#
+
+/243
+Quester: 6;
+Trigger: 615;
+Event: 981;
+Text: #What do you know about the Nameless?#
+
+/244
+Quester: 6;
+Trigger: 616;
+Event: 982;
+Text: #What do you know about Magnus?#
+
+/245
+Quester: 0;
+Trigger: 80;
+Event: 983;
+Text: #What do you know about Dariol?#
+
+/246
+Quester: 0;
+Trigger: 82;
+Event: 985;
+Text: #What do you know about Ul-Dagan?#
+
+/247
+Quester: 0;
+Trigger: 83;
+Event: 986;
+Text: #What do you know about Herskil?#
+
+/248
+Quester: 0;
+Trigger: 84;
+Event: 991;
+Text: #What do you know about Dorikos?#
+
+/249
+Quester: 0;
+Trigger: 85;
+Event: 993;
+Text: #What do you know about Adrageron?#
+
+/250
+Quester: 0;
+Trigger: 86;
+Event: 995;
+Text: #What do you know about Ranadil?#
+
+/251
+Quester: 0;
+Trigger: 87;
+Event: 998;
+Text: #What do you know about the Nameless?#
+
+/252
+Quester: 0;
+Trigger: 88;
+Event: 1002;
+Text: #What do you know about Magnus?#
+
+/253
+Quester: 0;
+Trigger: 89;
+Event: 1003;
+Text: #Zarr, what's your dearest wish?#
+
+/254
+Quester: 0;
+Trigger: 28;
+Event: 1012;
+Text: #Remember a while back, when you bought a certain part from me?#
+
+/255
+Quester: 0;
+Trigger: 29;
+Event: 1018;
+Text: #I've decided to buy it back from you.#
+
+/256
+Quester: 9;
+Trigger: 750;
+Event: 1107;
+Text: #Tell me about yourself, Magnus.#
+
+/257
+Quester: 9;
+Trigger: 751;
+Event: 1109;
+Text: #What do you know about the other Masters?#
+
+/258
+Quester: 9;
+Trigger: 752;
+Event: 1111;
+Text: #But you're fighting against Chaos. Perhaps you know more efficient ways to combat it?#
+
+/259
+Quester: 9;
+Trigger: 753;
+Event: 1121;
+Text: #Tell me about Raenu, the seventh Keeper God.#
+
+/260
+Quester: 9;
+Trigger: 756;
+Event: 1129;
+Text: #Magnus, you were blessed with great strength and power. Why didn't you use them to do good?#
+
+/261
+Quester: 9;
+Trigger: 757;
+Event: 1132;
+Text: #Are you the Wanderer who's hidden two of the Keys of Truth?#
+
+/262
+Quester: 9;
+Trigger: 758;
+Event: 1136;
+Text: #Do you know who the Wanderer is?#
+
+/263
+Quester: 9;
+Trigger: 759;
+Event: 1145;
+Text: #Tell me about the Keys of Truth.#
+
+/264
+Quester: 9;
+Trigger: 760;
+Event: 1150;
+Text: #Have you heard anything about the Keeper of Mysteries?#
+
+/265
+Quester: 9;
+Trigger: 761;
+Event: 1163;
+Text: #I'm ready to answer your questions about Eador's history.#
+
+/266
+Quester: 0;
+Trigger: 91;
+Event: 1177;
+Text: #Do you know how one can enter the world of the Dead?#
+
+/267
+Quester: 0;
+Trigger: 93;
+Event: 1180;
+Text: #Zarr, I need you pass a message on to Beleth's assistants.#
+
+/268
+Quester: 0;
+Trigger: 94;
+Event: 1187;
+Text: #I decided to pay for the services... of a certain business. For Beleth.#
+
+/269
+Quester: 3;
+Trigger: 121;
+Event: 1195;
+Text: #Do you happen to know how I can enter the world of the Dead?#
+
+/270
+Quester: 3;
+Trigger: 122;
+Event: 1206;
+Text: #The gremlins have started working. Now tell me how I can enter the world of the Dead.#
+
+/271
+Quester: 7;
+Trigger: 356;
+Event: 1210;
+Text: #Do you know how I can enter the world of the Dead?#
+
+/272
+Quester: 7;
+Trigger: 357;
+Event: 1225;
+Text: #The Key of Truth is kept in the world of the Dead. I need it.#
+
+/273
+Quester: 7;
+Trigger: 358;
+Event: 1223;
+Text: #L'Anshar, give me the Key of Truth.#
+
+/274
+Quester: 5;
+Trigger: 524;
+Event: 1242;
+Text: #You have one of the Keys of Truth, don't you?#
+
+/275
+Quester: 5;
+Trigger: 526;
+Event: 1263;
+Text: #How about giving the Key of Truth to me?#
+
+/276
+Quester: 0;
+Trigger: 95;
+Event: 1264;
+Text: #Do you know what an Astral Sanctuary is?#
+
+/277
+Quester: 0;
+Trigger: 97;
+Event: 1268;
+Text: #I need to get into the Astral Sanctuary.#
+
+/278
+Quester: 0;
+Trigger: 96;
+Event: 1280;
+Text: #Who's Zhuzrukh?#
+
+/279
+Quester: 171;
+Trigger: 267;
+Event: 1384;
+Text: #I've got Doh-Gor's amulet. Can you tell me anything about it?#
+
+/280
+Quester: 172;
+Trigger: 267;
+Event: 1384;
+Text: #I've got Doh-Gor's amulet. Can you tell me anything about it?#
+
+/281
+Quester: 173;
+Trigger: 268;
+Event: 1385;
+Text: #I've got Doh-Gor's amulet. Can you tell me anything about it?#
+
+/282
+Quester: 3;
+Trigger: 123;
+Event: 1423;
+Text: #I've got Doh-Gor's amulet. Can you tell me anything about it?#
+
+/283
+Quester: 3;
+Trigger: 126;
+Event: 1408;
+Text: #Tell me about Doh-Gor's amulet.#
+
+/284
+Quester: 10;
+Trigger: 690;
+Event: 1424;
+Text: #I've got Doh-Gor's amulet. Can you tell me anything about it?#
+
+/285
+Quester: 12;
+Trigger: 323;
+Event: 1427;
+Text: #I've got Doh-Gor's amulet. Can you tell me anything about it?#
+
+/286
+Quester: 14;
+Trigger: 452;
+Event: 1431;
+Text: #I've got Doh-Gor's amulet. Can you tell me anything about it?#
+
+/287
+Quester: 9;
+Trigger: 762;
+Event: 1432;
+Text: #I've got Doh-Gor's amulet. Can you tell me anything about it?#
+
+/288
+Quester: 16;
+Trigger: 576;
+Event: 1437;
+Text: #I've got Doh-Gor's amulet. Can you tell me anything about it?#
+
+/289
+Quester: 0;
+Trigger: 43;
+Event: 1463;
+Text: #Hey, Zarr, what about using my name in a new ad? I wouldn't mind getting some more energy from the gremlins.#

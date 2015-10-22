@@ -1,0 +1,643 @@
+0. Empty
+#No description#
+
+1. Battle Frenzy
+#The unit has fallen into a battle rage. As a result, his attack is increased by %d, he feels no wounds, and his morale cannot be reduced.#
+
+2. Poison
+#The unit has been poisoned. It loses %d hit points per turn.#
+
+3. Hex
+#The unit has been hexed and all its attack, defense and resistance are decreased by 1.#
+
+4. Damaged Armor
+#The unit's armor has been damaged. His defense is decreased by 1.#
+
+5. Petrification
+#The unit has been turned to stone. He is unable to do anything, but his armor value is increased.#
+
+6. Web
+#The unit is entangled in a web and can't do anything.#
+
+7. Injured
+#The unit's speed is decreased by 1 due to a heavy injury.#
+
+8. Damaged Weapon
+#The unit's weapon has been damaged and its attack is decreased by 1.#
+
+9. Entangle
+#The unit has been entangled with roots, so he cannot move around the battlefield.#
+
+10. Reduced Defense
+#The unit's ranged defense is decreased by 1.#
+
+11. Poison
+#The unit has been poisoned. It loses %d hit points per turn.#
+
+12. Magic Armor
+#The unit's armor is enchanted. This spell increases his defense and ranged defense by 3.#
+
+13. Magic Weapon
+#The unit's weapon is enchanted. This spell increases all types of attack by 2.#
+
+14. Slow
+#A spell decreased the unit's speed by 2. Enchanted unit loses 1 point of stamina each turn.#
+
+15. Haste
+#A spell increased the unit's speed by 2.  The enchanted unit recovers 1 stamina point each turn.#
+
+16. Air Shield
+#A spell increased the unit's ranged defense by 4 and resistance by 1.#
+
+17. Curse
+#This spell decreases all types of attack by 2. The spell decreases all types of defense and resistance by 1.#
+
+18. Bless
+#A spell increased all types of the unit's attack, defense and resistance by 1.#
+
+19. Astral Energy
+#Increases the unit's resistance by 3.#
+
+20. Vulnerability
+#The unit's defense and resistance are reduced by 3.#
+
+21. Fire Blade
+#All types of the unit's attack are increased by 4. His attacks are considered magical.#
+
+22. Phantom Form
+#Reduces all of the unit's attack attributes by 10 and his armor is increased by 10.#
+
+23. Sleep
+#The unit has been put into a magical sleep. It will be unable to do anything until it wakes up. The spell is interrupted if the unit receives damage.#
+
+24. Hallucination
+#The unit's ranged attack is decreased by 3.#
+
+25. Vampirism
+#The unit replenishes his health as he deals damage in melee while under this spell.#
+
+26. Disease
+#The unit is infected with a disease. It loses hit points every turn, and its attack and speed are decreased.#
+
+27. Stone Skin
+#The unit's armor is increased by 5, his resistance by 3.#
+
+28. Blindness
+#The unit has been blinded and is unable to attack.#
+
+29. Word of Life
+#A spell makes the unit restore 5 hit points and 2 stamina points per turn. Its attack and speed are increased by 1. #
+
+30. Word of Ice
+#The unit has been turned into an ice statue. It is unable to do anything, but its armor is increased.#
+
+31. Acid
+#The unit's armor is partially corroded by acid.#
+
+32. Mass Slow
+#The unit's speed is decreased by 2.#
+
+33. Dark Pact
+#If a unit dies while under Dark Pact, he returns to battle as a demon of the same rank.#
+
+34. Antimagic
+#The unit has spell immunity. His resistance against magical attacks is increased by 10.#
+
+35. Mass Defense
+#The unit's armor is increased by 3, his resistance by 2.#
+
+36. Word of Power
+#The unit is controlled by the enemy spell.#
+
+37. Mass Haste
+#The unit's speed is increased by 2.#
+
+38. Mass Attack
+#The unit's melee attack is increased by 4, ranged attack by 3.#
+
+39. Mass Curse
+#The unit's attack is decreased by 2, defense and resistance by 1.#
+
+40. Reincarnation
+#If the unit dies while Reincarnation is in effect, he will be resurrected with full health.#
+
+41. Invulnerability
+#The unit's armor and resistance are increased by 20.#
+
+42. Mass Disease
+#The unit is infected with a plague and gradually loses hit points. The unit's speed is decreased by 1, and all types of attack are decreased by 3.#
+
+43. Corrupt
+#All of the unit's parameters are decreased by 4.#
+
+44. Dragon Form
+#The unit is turned into a dragon.#
+
+45. Polymorph
+#The unit is turned into a goblin.#
+
+46. Enslave
+#The unit is controlled by the enemy spell.#
+
+47. Mass Sleep
+#The unit has been put into a magical sleep. It will be unable to do anything until it wakes up. The spell is interrupted if the unit receives damage.#
+
+48. Undead Regeneration
+#Under the influence of this spell the undead creature recovers more hit points each turn.#
+
+49. Stinking Cloud
+#The unit inhaled poisonous fumes. It loses hit points and stamina each turn and its attack and speed are reduced.#
+
+50. Mind Control
+#The unit is controlled by the enemy spell.#
+
+51. Submission
+#The unit is controlled by the enemy spell.#
+
+52. Magic Shield
+#Immaterial but touchable shield hovers in front of the unit. This spell increases its defense by 4.#
+
+53. Wasp Swarm
+#Unit is continually stung by insects, the force of its shot is minimal. Unit loses 2 hit points each turn.#
+
+54. Wasp Cloud
+#Unit is continually stung by insects, the force of its shot is minimal. Unit loses 2 hit points each turn.#
+
+55. Rune of Power
+#Mechanical unit is under control of enemy spell.#
+
+56. Rune of Restoration
+#Mechanical unit is under rune restoration. Unit gains 6 hit points each turn.#
+
+57. Vampiric Touch
+#Unit gains health from melee combat - one third of the inflicted damage.#
+
+58. Mighty Weapon
+#The unit's weapon is enchanted. This spell increases attack and counterattack by 3.#
+
+59. Rage
+#The soul of the unit is burning with rage. This spell increases attack and counterattack by 2 and grants bloodlust 3 and regeneration 2.#
+
+60. Mass Rage
+#The soul of the unit is burning with rage. This spell increases attack and counterattack by 2 and grants bloodlust 3 and regeneration 2.#
+
+61. Horde's Rage
+#Unit is under effect of terrible rage, its every blow reduces morale by 1.#
+
+62. Quagmire
+#Unit's speed is reduced by 2 and armor by 1 under the effect of the spell. Enchanted unit loses 1 point of stamina each turn.#
+
+63. Weakness
+#This spell decreases all types of attack by 3.#
+
+64. Armor Break
+#This spell decreases defense by 6.#
+
+65. Plague
+#The unit is infected with a disease. It loses hit points every turn, and its attack and speed are decreased.#
+
+66. Power Word - Curse
+#Unit forgotten how to fight. All types of attack are set to 0.#
+
+67. Power Word - Hold
+#The unit is paralyzed. It can not act.#
+
+68. Power Word - Pain
+#The unit is in great pain. It loses hit points and stamina each turn and its attack and speed are reduced.#
+
+69. Glacial Heart
+#The unit is fearless and immune to poison, but loses hit points each turn.#
+
+70. Freeze
+#The unit is immobilized. Its armor is increased by 1.#
+
+71. Armor Piercing Shot
+#The unit's arrows are capable of penetrating armor.#
+
+72. Thick Fog
+#Shooting in thick fog is difficult, ranged attack is reduced by 5.#
+
+73. Double Shot
+#The unit is able to shoot twice, spending extra stamina.#
+
+74. Ancestral Rage
+#Ancestral spirits are helping your units in battle. Attack and counterattack are increased by 3, speed is increased by 1.#
+
+75. Ancestral Shield
+#Ancestral spirits are protecting the unit. Defense and ranged defense are increased by 3, resistance is increased by 1.#
+
+76. Frenzy
+#The unit thirsts for battle. Its attack and counterattack are increased by 3.#
+
+77. Bloodlust
+#The unit is mad with bloodlust. Attack and counterattack are increased by 3, speed is increased by 1. The unit is able to recover a fraction of the melee damage dealt.#
+
+78. Snare
+#The unit is trapped. The unit's speed is decreased by 1.#
+
+79. Trap
+#The unit fell into a trap. The unit's speed is reduced by 1 and he loses health and stamina each turn.#
+
+80. Swamp Poison
+#The unit is infected with swamp poison. Its speed is decreased by 1 and it loses 5 points of stamina each turn.#
+
+81. Regeneration
+#The unit regenerates health and stamina every turn under the effect of this spell. Its resistance is increased by 1 and it's immune to poison.#
+
+82. Poison Weapon
+#The unit's weapon is poisoned with a strength of 3.#
+
+83. Swiftness
+#A spell increased the unit's speed by 1. Each turn the unit restores 2 points of stamina.#
+
+84. Demon Slayer
+#The unit deals more damage to evil creatures, especially demons and undead.#
+
+85. Grace
+#A spell increased all types of the unit's attack, defense and resistance by 2. It regains 2 hit points each turn.#
+
+86. Hard as Stone
+#This spell increases all kinds of defense and resistance of the target unit by 4.#
+
+87. Sanctuary
+#This spell increases all types of units attack by 2, all kinds of defenses and resistance by 5 and granting spell immunity.#
+
+88. Divine Light
+#The unit is blinded. All types of attack are set to 0.#
+
+89. Divine Seal
+#The unit is unable to use spells.#
+
+90. Head Wind
+#A strong head wind impedes shooting and movement. The unit's ranged attack, its range and its speed are reduced by 1.#
+
+91. Sluggishness
+#A spell decreased the unit's speed by 2. Enchanted unit loses 1 point of stamina each turn.#
+
+92. Quicksand
+#A spell decreased the unit's speed by 2. The unit loses 2 points of stamina each turn.#
+
+93. Mass Fire Immunity
+#The unit is immune to fire spells. The unit's ranged defense is increased by 1.#
+
+94. Skeleton Transformation
+#The unit is turned into a skeleton.#
+
+95. Fiend Transformation
+#The unit is turned into a fiend.#
+
+96. Cleric Transformation
+#The unit is turned into a cleric.#
+
+97. Fanaticism
+#If a unit dies while under effect of this spell, it is immediately resurrected with full health. Morale of the unit is not effected for duration of the spell.#
+
+98. Bind Will
+#The unit is controlled by the enemy spell.#
+
+99. Aard Sign
+#The unit is stunned. Its speed is decreased by 1.#
+
+100. Order
+#The unit is controlled by the enemy spell.#
+
+101. Seismic Charge
+#The unit is stunned. His speed is decreased by 1 and he loses 1 point of stamina each turn.#
+
+102. Cannot Cast
+#The unit is unable to cast spells.#
+
+103. Cocoon of Darkness
+#The unit is in non-corporeal form, its defense is increased by 5 and its ranged defense by 10. The unit cannot shoot and cast spells, its resistance is reduced by half.#
+
+104. Blinding Darkness
+#The unit has been blinded and is unable to attack.#
+
+105. Fire Storm
+#The unit's equipment burst into flame. The unit loses health each turn.#
+
+106. Cleansing Flame
+#The unit's equipment burst into flame. The unit loses hitpoints each turn.#
+
+107. Levitation
+#The unit is able to fly over enemy units. Its speed is increased by 1 and it loses 1 point of stamina each turn.#
+
+108. Embrace of Darkness
+#The unit has acquired all traits of the undead - immunity to pain, restlessness, fearless, immunity to poison and cold and ability to replenish health by damage in melee combat as well.#
+
+109. Arrow Shower
+#The unit is able to shoot double volleys. Its arrows inflict additional magic damage. The unit's action doesn't spend any stamina.#
+
+110. Banshee's Howl
+#Eerie cry of the harbinger of death is frightening soldiers. Its speed is decreased by 1.#
+
+111. Paralyze
+#The unit is paralyzed and cannot act.#
+
+112. Mass Sleep
+#The unit has been put into a magical sleep. It will be unable to do anything until it wakes up. The spell is interrupted if the unit receives damage.#
+
+113. Holy Circle
+#A spell increased all types of the unit's attack, defense and resistance by 1.#
+
+114. Shadow Form Butterfly
+#The unit is in shadow form. The unit's attack is increased by 3 and its speed by 1. Its stamina is restored by 2 each turn. The unit is incorporeal, agile and able to make round attacks. It also has bloodlust 2. The unit's resistance is reduced by half, its counterattack is reduced by 5, it loses vigilance and 3 morale points each turn.#
+
+115. Astral Parasite
+#The unit is under the effect of the "Astral Parasite", which causes it to lose 2 stamina points each turn. Resistance of the unit is reduced by 1.#
+
+116. Hands of Darkness
+#The unit gains the ability to attack all enemies around him, but this will cost some additional stamina.#
+
+117. Control Undead
+#Undead unit is under control of enemy spell.#
+
+118. Enchanted Weapon
+#The unit's weapon is enchanted. This spell increases all types of attack by 2.#
+
+119. Quen Sign
+#Invisible but touchable barrier protects the Witcher. His defense, ranged defense and resistance is increased by 2.#
+
+120. Titan's Strength
+#The strength of the unit is significantly increased. This spell increases attack and counterattack by 20.#
+
+121. Mass Undead Restoration
+#Under the influence of this spell an undead unit recovers more hit points each turn.#
+
+122. Unrest
+#If undead unit dies while under effect of this spell, he is immediately resurrected with full health.#
+
+123. Pathfinding
+#The unit is able to move freely on any terrain.#
+
+124. Word of Peace
+#The unit has become less vulnerable, but his fighting capabilities is worse. All types of defense and resistance is increased by 5, all types of attack are reduced by 10.#
+
+125. Fetters
+#The unit is entangled in a web and can't do anything.#
+
+126. Heroism
+#Friendly unit becomes heroic and is immune to mind-affecting spells.#
+
+127. Dark Steel
+#Blessing of Darkness gives the unit more deadly weapon. All attacks of the unit are increased by 2, a shot easily pierces the best armor, reduces the morale of enemies and puts a curse on them.#
+
+128. Armor Weakened
+#Reduces the unit's defense attributes by 3.#
+
+129. Cat's Reflexes
+#The unit gains the ability to attack enemies without being counterattacked, even against agile counterattack opponents.#
+
+130. Yrden Sign
+#The unit feels a horrible pain. It loses stamina each turn and its attack is reduced.#
+
+131. Ice Storm
+#The unit is frozen and its speed is decreased by 1.#
+
+132. Death Cloud
+#The unit inhaled poisonous fumes. It loses hit points, stamina and morale every turn, its attack and speed attributes are reduced.#
+
+133. Mass Bless
+#This spell increases melee attack by 2, counterattack by 1 and all kinds of defenses and resistance by 1 to all friendly units.#
+
+134. Healing Sleep
+#The unit has been put into a magical sleep. It will be unable to do anything until it wakes up. The spell is interrupted if the unit receives damage.
+Sleep restores 10 hit points and 5 units of stamina each turn.#
+
+135. Nightmare
+#The unit is immersed in a magical sleep, filled with nightmares. It will be unable to do anything until it wakes up. The spell is interrupted if the unit receives damage.
+It loses 3 points of stamina and morale each turn.#
+
+136. Higher Power
+#All kinds of attacks are increased by 10, armor and resistance increased by 5. The unit is immune to mind-affecting spells.#
+
+137. Fearlessness
+#The unit's attack is increased by 1 and knows no fear.#
+
+138. Rune Shot
+#Ranged attack is increased by 4 and becomes magical.#
+
+139. Weighing
+#Weight of the unit is greatly increased. Its speed is decreased by 1 and the unit loses 3 units of stamina each turn.#
+
+140. Containment
+#It's hard for the unit to move around. Its speed is reduced and it loses extra stamina each turn.#
+
+141. Dark Redemption
+#The hero's strength and duration of spells increase by 1, Summoning Power by 2.#
+
+142. Ice Snake
+#Cold bounds movement of the unit, its speed is reduced by 2.#
+
+143. Lightning Ball
+#The unit is in a state of shock from a strong electric shock. Defense and ranged defense is reduced by 2.#
+
+144. Scorching Ground
+#Earth is burning under the feet of the unit. It is taking damage with every move, its speed is decreased by 1.#
+
+145. Nature's Weapon
+#The unit wields weapons with natural enchantment. This spell increases all types of attack by 5.#
+
+146. Enchanted Fang
+#All types of the unit's attack are increased by 5. His attacks are considered magical.#
+
+147. Slimy Bomb
+#The unit is covered by stinking slime. All types of attack are reduced by 3, speed is reduced by 1.#
+
+148. Mass Cold Immunity
+#The unit is immune to cold spells. Defense of the unit is increased by 1. Each turn the unit restores 1 hit point.#
+
+149. Mass Grounding
+#The unit is immune to lightning spells. The unit's resistance is increased by 1. The unit restores 1 point of stamina each turn.#
+
+150. Elemental Immunity
+#The unit is immune to lightning, fire and cold spells. Its resistance is increased by 3. The unit restores 1 hit point and 1 point of stamina each turn.#
+
+151. Stone Crust
+#Dense Stone Crust covering the entire body of the unit, increasing his armor by 4 and resistance by 2, but inflicting 4 points of damage each turn and target unit can't move.#
+
+152. Cloud of Darkness
+#The unit has been blinded and is unable to attack.#
+
+153. Celestial Shield
+#The unit is protected by holy power. This spell increases its ranged defense by 4 and resistance by 1.#
+
+154. Hellfire
+#The unit's equipment burst into flame. The unit loses 3 hit points each turn.#
+
+155. Shield Wall
+#The unit's attack is reduced. The unit's defense and ranged defense are increased until its next turn. The unit is vigilant.#
+
+156. Mobility
+#Mechanical unit is able to move faster. Speed is increased by 1.#
+
+157. Cleansing Flame
+#The unit's equipment burst into flame. The unit loses hitpoints each turn.#
+
+158. Test of Faith
+#The unit restores 4 hit points and 2 stamina points each turn. Smite Evil is increased by 1.#
+
+159. Pestilence
+#The unit has been poisoned. It loses 15 hit points per turn.#
+
+160. Concoction
+#A concoction temporarily strengthens a Ratman unit. Increases the target's attack by 4, defense and ranged defense by 2. Unit loses 2 hit points each turn.#
+
+161. Cannot Move
+#The unit is unable to move.#
+
+162. Fever
+#The unit has been poisoned. It loses 5 hit points per turn.#
+
+163. Exhaustion
+#The unit has been poisoned. It loses 10 hit points per turn.#
+
+164. Black Plague
+#The unit has been poisoned. It loses 10 hit points per turn.#
+
+165. Blind Faith
+#The unit is unable to harm good creatures.#
+
+166. Poison Rain
+#The unit has been poisoned and loses 1 hit points each turn.#
+
+167. Black Blood
+#The unit's melee and ranged attack is increased by poison of strength 2, while the unit itself loses 3 hit points each turn.#
+
+168. Gaseous Form
+#The vampire's attack is greatly reduced, but both defense attributes are significantly increased. Speed is increased by 1. The vampire is now incorporeal and restores 10 hit points each turn.#
+
+169. Rune Armor
+#The unit's armor is enchanted. This spell increases its defense and ranged defense by 2 and grants the ability Weapon Failure.#
+
+170. Rune Weapon
+#The unit's weapon is enchanted. This spell increases all its attacks at least by 2.#
+
+171. Rune Amulet
+#The unit's armor is enchanted. This spell increases its resistance at least by 4.#
+
+172. Caustic Mixture
+#Reduces the unit's defense attributes by 3. The unit suffers 3 points of damage each turn.#
+
+173. Chilling Touch
+#The unit is paralyzed. It can not act.#
+
+174. Eternal Light
+#All types of attacks, defense and resistance of the unit increased by 1. The unit suffers 2 points of damage each turn.#
+
+175. Heaven's Rage
+#The unit suffers 5 points of damage by divine power each turn.#
+
+176. Confusion
+#The unit has forgotten it's in battle. It is not able to fight in close combat, and its ranged attack is set to 0. The unit is also not able to use spells.#
+
+177. Astral Schism
+#The unit's resistance is reduced by half.#
+
+178. Word of the Lord
+#A spell cast by the Lord of Darkness increases a skeleton's strength by 2, armor by 3 and resistance by 4. #
+
+179. Mental Support
+#The unit's summoning power is increased by 2.#
+
+180. Mental Duel
+#All the unit's magical abilities - the strength and duration of spells, summoning power, undead summoning power and resistance - are reduced by 2. The unit loses 2 points of stamina each turn.#
+
+181. Mental Sermon
+#The unit restores 4 hit points and 2 stamina points each turn. Smite Evil is increased by 1.#
+
+182. Mental Resonance
+#The unit's magical abilities are increased - strength and duration of spells by 2, Summoning Power by 4, Resistance Negation by 1. Each turn the unit restores 2 points of stamina.#
+
+183. Act of Faith
+#The unit possesses Reincarnation and is immune to pain. Its Smite Evil is increased by 4.#
+
+184. Mental Shadow
+#All the unit's magical abilities - the strength and duration of spells, summoning power, undead summoning power and resistance - are reduced by 2. The unit loses 2 points of stamina each turn.#
+
+185. Hunter's Net
+#The unit is entangled in a hunter's net and can't do anything.#
+
+186. Bleeding
+#The unit is suffering from a bleeding wound. It loses %d hit points each turn.#
+
+187. Damaged Aura
+#The unit's aura has been damaged. Its resistance is decreased by 1.#
+
+188. Stone Statue
+#The gargoyle has turned into an immobile stone statue, and is unable to fight. Armor and resistance are increased by 3, recovers 4 hit points each turn.#
+
+189. Kiss of Darkness
+#This spell makes the unit intrepid.#
+
+190. Shadow Form Priestess
+#The unit is in shadow form. The unit's ranged attack is increased by 6, its range by 2, but its resistance protects only partially against spells. The unit is incorporeal and is able to reduce the enemy's resistance by 1 with each shot. It  possesses bloodlust 2. The unit's resistance is reduced by half and it loses 2 morale points each turn. Spell duration is reduced by 1, and it loses its healing power.#
+
+191. Alvari Rage
+#The unit's melee and ranged attack is increased by 2, speed by 1. The unit gets 2 additional morale points for killing the enemy in melee combat.#
+
+192. Dark Balance
+#The unit's resistance is increased by half. Each turn 2 morale points are added.#
+
+193. Blood Shadow
+#The unit's spell duration is increased by 1.#
+
+194. Stimulus
+#The kobold's speed is increased by 1.#
+
+195. Shadow Form Hunter
+#The unit is in shadow form. Terrain knowledge is increases by 8 and speed by 1. The unit may make an enhanced shot and wounds left by this crippling shot take 3 turns longer to heal. The unit is incorporeal, possesses bloodlust 2 and restores 2 stamina points each turn. 
+The unit's resistance is reduced by half and it loses 2 morale points each turn. The unit's shooting range is reduced by 2.#
+
+196. Trembling Shadow
+#The unit's ranged attack is decreased by 6.#
+
+197. Shadow Form Guardsman
+#The unit is in shadow form. The unit is incorporeal and possesses agility, bloodlust 2, magic strike and can inflict a crushing blow, ignoring half of the enemy's resistance to the attack.
+The unit's resistance is reduced by half and it loses 3 morale points each turn. The unit loses its first strike and vigilance, and cannot shoot.#
+
+198. Craving Shadow Form
+#The unit is in shadow form. Shooting range is increased by 1, restores 3 stamina points and 1 ammo each turn. The unit is incorporeal, possesses bloodlust 2 and double shot, and each shot reduces the target's resistance.
+The unit's resistance is reduced by half, it loses 2 morale points each turn and it cannot cast spells.#
+
+199. Shadow Dance
+#The unit's ranged attack is decreased by 6.#
+
+200. Chosen Shadow Form
+#The unit is in shadow form. The unit's spell duration is increased by 2, its summoning power by 6 and its resistance negation by 2. The unit is incorporeal and restores a ammo each turn. The unit's resistance is reduced by half and he cannot shoot.#
+
+201. Burning
+#The unit is burning and loses %d hit points each turn.#
+
+202. Darkness Surge
+#The unit loses 4 hit points and 2 points of stamina and morale each turn.#
+
+203. Storm Shadow
+#The unit loses 4 hit points and 2 points of stamina and morale each turn.#
+
+204. Mind Control Immunity
+#Warrior is immune to the mind-affecting spells.#
+
+205. Does not fight
+#The unit is unable to fight.#
+
+206. Storm Wind
+#The unit can only move on the ground.#
+
+207. Festering Wounds
+#The unit's wounds cannot be healed.#
+
+208. Rune of Renewal
+#Mechanical unit is under rune renewal. Unit gains 8 hit points each turn.#
+
+209. Mockery
+#The unit has been influenced by the bard's mockery. The enchanted unit loses 1 point of stamina each turn.#
+
+210. Siege Mode
+#The unit is in siege mode. The unit cannot move or fight.#
+
+211. Scorn
+#The unit has been influenced by the bard's scorn. Increases the attack by 4 and reduces counterattack, defense and ranged defense by 2.#
+
+212. Cold Rage
+#Unit's counter-attack increased by %d due to Battle Frenzy.#

@@ -1,0 +1,86 @@
+Quantity: 16
+
+/0
+Min: -30000
+Max: -200
+Text: the Dark;
+
+/1
+Min: -199
+Max: -150
+Text: the Ruthless;
+
+/2
+Min: -149
+Max: -100
+Text: the Terrible;
+
+/3
+Min: -99
+Max: -75
+Text: the Bloodthirsty;
+
+/4
+Min: -74
+Max: -50
+Text: the Furious;
+
+/5
+Min: -49
+Max: -30
+Text: the Evil;
+
+/6
+Min: -29
+Max: -20
+Text: the Treacherous;
+
+/7
+Min: -19
+Max: -10
+Text: the Dishonest;
+
+/8
+Min: -9
+Max: 9
+Text: ;
+
+/9
+Min: 10
+Max: 19
+Text: the Honest;
+
+/10
+Min: 20
+Max: 29
+Text: the Just;
+
+/11
+Min: 30
+Max: 49
+Text: the Merciful;
+
+/12
+Min: 50
+Max: 74
+Text: the Good;
+
+/13
+Min: 75
+Max: 99
+Text: the Clever;
+
+/14
+Min: 100
+Max: 149
+Text: the Wise;
+
+/15
+Min: 150
+Max: 199
+Text: the Great;
+
+/16
+Min: 200
+Max: 30000
+Text: the Pure;

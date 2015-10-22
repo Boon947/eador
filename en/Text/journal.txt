@@ -1,0 +1,110 @@
+Quantity: 23
+
+0.
+Name: The Seventh Key;
+#A multitude of Shards floating in the Great Nothing. One moment two Shards combine, and you feel someone's Power holding them together. And then you see the one who joined the Shards. The first Master. Most likely, one of the ancient gods. Gradually new Masters appear, waging a war for supremacy over the pieces of the firmament. The earlier uniform rotation of the Shards around the sun is broken. New small worlds are being created and destroyed.
+Many past Masters are being cast into Chaos. Among them both immortal creatures and the mortal emperors who had gained the power of the Masters by performing special rituals. The face of Eador is constantly changing. The Shards pass from one Master to another, they are unified into worlds and fall apart again. Chaos spawns, the dark shadows lurking around the blazing boundaries of the Underworld, take every opportunity to drag any Shard split off from the destroyed world into Chaos... The battle for the Shards lasts for a very long time.#
+
+1.
+Name: The Sixth Key;
+#The world is engulfed in darkness. There's no Sun - only the crimson gleams of the ever-blazing Chaos are reflected off the Shards scattered in the dark abyss. The boundaries of Chaos are teeming with activity - a hungry horde of dark creatures is roaming the Astral, bringing down one Shard after another into the ocean of Chaos. Suddenly, there is a bright flash. For a second the intolerably bright light blinds you, and you can't see anything.
+Then the light fades, and you see the Sun that has appeared in the center of Eador. The Shards are now revolving around it. The dark creatures are still trying to destroy the Shards of the World, but it is much harder for them to drag shards into Chaos now. Some unknown force seems to be holding the Shards.#
+
+2.
+Name: The Fifth Key;
+#A city engulfed in flames. The spawn of Chaos hover among the flames like dark shadows. The earth trembles with horrible spells. It seems none of the citizens have survived. You look up, above the scorched city, and in the midst of the fuming black smoke, a tall silver tower catches your eye. It seems that fire and Chaos have no power over this tower. Flames die out at its feet, and none of the demons dare approach its silver walls.
+Suddenly you feel that you're falling, and you find yourself in an underground workshop. A steady rumbling noise comes from the strange-looking machines in the room. Complex drawings and schematics lie on the tables, and various tools and parts are scattered around the floor. Moving through the laboratory, you find yourself in a large chamber with an enormous sinister-looking machine in the center. Imps and fiends hustle around the machine, attaching some cords and mechanisms to it.
+A humanoid is seen clearly among the Chaos spawn. An Ancient. He gives orders to the demons, who obey him without question.
+Finally, the Ancient gives his last order and exits into the room next door. The terrible machine comes to life. Its hull starts vibrating, and it seems that its thunderous roar is going to make the ceiling collapse. Then a powerful explosion tears through the room. No, something more than an explosion - reality itself is ruptured! The darkness erupting from inside the terrible machine is tearing the very essence of Eador apart. After destroying the world, the dark substance reaches the Sun, and everything is engulfed in darkness.#
+
+3.
+Name: The Fourth Key;
+#A world lies scorched by war. A glistening rain of golden sparks falls from the skies onto the wounded ground. The sparks touch the earth and take the shape of some kind of living creatures. The creatures begin rebuilding the world. Once again, fresh grass is growing on the plains, animals and birds fill the forests, and new races are emerging. 
+But the time of peaceful creation does not last long. The forces of Chaos, entering through a breach from the Underworld, begin to fight the new defenders of Eador.
+After suffering heavy losses in battle, the surviving defenders try to escape the Chaos spawn. The forces of Chaos hunt them down throughout Eador.
+Yet while the demons are chasing the remaining defenders of Eador, new races gradually inhabit more and more of the world. Some begin to fight for the most fertile lands and the richest deposits of natural resources. Others manage to maintain peace with their neighbors. The few surviving Ancients are building a mighty fortified city. They know for sure that Chaos will strike at them once more...#
+
+4.
+Name: The Third Key;
+#The whole of Eador is engulfed in a terrible war. Many cities of the Ancients have been burned to ashes. Those still standing are besieged by dark creatures. More and more of them pour through the wide open Gates of Chaos. Then, a magician steps out from a demon-besieged citadel. Light shining from his hands burns down the dark creatures, who never relent at their attempts to get to the mage. Wave after wave of demons assault his solitary figure and die before they can even reach him. The battle rages on for a long time. Over a half of the Chaos horde perishes at the magician's hands, yet the rest continue their onslaught.
+All across Eador, the dark creatures are drawn to the wizard like moths to the flame. It seems that soon the whole army of Chaos will be destroyed. But the magician's powers are gradually exhausted, and the dark creatures finally manage to reach him. The wizard moves to the Astral plane, and the battle continues there. Eventually, the demons manage to subdue him. They drag the weakened Ancient into Chaos. But something amazing happens at the borders of Chaos - the magician disintegrates into a myriad of bright sparks, and each of them attempts to escape the demons. The dark creatures manage to catch some of the sparks, but others are lost in the Astral.#
+
+5.
+Name: The Second Key;
+#The world of the Ancients. Tall towers of bizarre architecture, white stone palaces displaying an array of statues and columns, fountains and artificial waterfalls right in the middle of the cities. An abundance of flowers and trees surrounds virtually every building. Nighttime enhances the beauty of the Ancients' towns. With their streets lit brightly by myriads of multi-colored glittering lights, the towns look like magic sparkling gems in the midst of the darkness.  Indeed, this race exceeds all those living these days. the cities look like magic sparkling gems in the midst of darkness.
+Indeed, this race exceeds all those living today. Even the elves do not have cities of such beauty. It seems that the Ancients have no paupers and no laborers, all of their dirty work is done by strange mechanical creatures. Dwarven inventors could not even dream of making such amazing machines. The air tingles with the magic of the Ancients, forgotten long ago. The skills of the modern sorcerers are nothing but a miserable shadow of the magical powers the first race possessed.
+But the Ancients' peaceful life is rudely interrupted. More and more often, the spawns of Chaos were invading their cities, sowing death and destruction. The Ancients were forced to apply their skills and knowledge to warfare. Devastating spells, mechanical warriors, and magically created creatures were used to defend the cities of the ancient race. This stopped the dark creatures for a while. But Chaos never gave up. New creatures were being created in the underworld, creatures capable of breaching the Ancients' defense, destroying their cities and the world itself.#
+
+6.
+Name: The First Key;
+#Chaos. An ocean of Chaos, boundless and faceless, forever roiling and changing. Suddenly, something defined emerges from the depths. Something with a permanent shape, endowed with self-awareness.
+This particle of Order, tiny at first, is gradually growing, changing, and finally transforms into a humanoid figure. Having formed itself, the creature begins to create the world, drawing matter directly from Chaos.
+Right before your eyes, the Sun begins to shine, then a planet appears, revolving around it, and plants and animals start to emerge on its surface. Sentient beings, endowed with intellect and resembling their creator, are the last to appear. The Iltans. The Ancients.#
+
+7.
+Name: Search for the Keys of Truth;
+#The notes said that I should ask Stenriya about the key.#
+
+8.
+Name: Search for the Keys of Truth;
+#Stenriya agreed to tell me about the Key if I destroy Doh-Gor.#
+
+9.
+Name: Search for the Keys of Truth;
+#Now I know for sure that Stenriya has the Key. Looks like the only way to get hold of it is to kill the witch.#
+
+10.
+Name: Search for the Keys of Truth;
+#The notes say that the Key is kept in the Khorian Bogs. Most likely, it's heavily guarded. They say that there's either one guard or five guards there, depending on which method of counting you use. I wish I knew what they mean...and where those bogs are...#
+
+11.
+Name: Search for the Keys of Truth;
+#The notes said that the Key is kept in the world of the Dead. All I need now is to figure out how to get there.#
+
+12.
+Name: Search for the Keys of Truth;
+#The notes said that the Key is kept in the world of the Dead. If the information I obtained is correct, one can get there through the Altar of Death on one of the Shards. Such altars can be found in dead lands.#
+
+13.
+Name: Search for the Keys of Truth;
+#L'Anshar has the Key for sure. I need to seize the artifact from him somehow.#
+
+14.
+Name: Search for the Keys of Truth;
+#The notes said that the Key is kept in the world of the Dead. All I need now is to figure out how to get there.#
+
+15.
+Name: Search for the Keys of Truth;
+#The notes said that the Key is kept in the Tower of Hope, which is located in the Forest of Forgotten Dreams. Elves are guarding the artifact.#
+
+16.
+Name: Search for the Keys of Truth;
+#The notes said that the Key is kept in the Astral Sanctuary. I wish I knew what that was...#
+
+17.
+Name: Search for the Keys of Truth;
+#The notes said that Dariol has the Key. I need to persuade the elf to give me the Artifact. Or take it by force.#
+
+18.
+Name: Search for the Keys of Truth;
+#The notes said that the Key is kept by the first dragon. I hope I can find this ancient reptile somehow. Looks like the one who hid the Keys was pretty sure of himself.#
+
+19.
+Name: L'Anshar's Death;
+#Ul-Dagan said that to destroy L'Anshar I need to find and break a certain amphora containing the soul of the lich. To find this vessel, I need to enter the world of the Dead through the Altar of Death located in L'Anshar's world.#
+
+20.
+Name: Creating the Talisman;
+#Erdu asked me to get some faded incense. I have no idea what that is, but I must look for it in ancient temples on various Shards.#
+
+21.
+Name: Creating the Talisman;
+#Erdu asked me to get the Stone of Silence. He says the magic pebble can be found in the heart of one of the labyrinths. It looks like I'll have to cut down the minotaur population considerably.#
+
+22.
+Name: Creating the Talisman;
+#Erdu asked me to find the Tree of Wisdom. It looks like this tree can be found in the dense thickets on one of the Shards.#
+
+23.
+Name: Eradicating the Demons;
+#Now that the Talisman has been created, I have to protect it by eradicating some of the Chaos spawns already beginning to invade Eador. The stronger the creatures I defeat, the better.#

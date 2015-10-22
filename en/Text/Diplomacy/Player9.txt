@@ -1,0 +1,281 @@
+/Магнус
+/0 Первая встреча
+Index: 1;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Greetings to you, %s! I am Magnus, gatherer of Knowledge and Wisdom, collector of Puzzles and Mysteries. This Shard hides a plenty of things strange and unusual, that's why I intend to add it to my collection. You might be against this... Well, so goes the world - different people's interests often intersect. Let's see who will take possession of this vault of Knowledge.#
+
+/1 Не первая встреча (Плохие отношения)
+Index: 2;
+Min: -5000;
+Max: -100;
+Name: 1;
+Param: 0;
+Text: #Oh, %s, I see you still can't restrain your greed. Are you determined to seize yet another Shard? Let's see how you manage.#
+
+/2 Не первая встреча (Нейтрален)
+Index: 2;
+Min: -99;
+Max: 99;
+Name: 1;
+Param: 0;
+Text: #Greetings to you, %s! My thirst for new Knowledge has brought me into the mortal world again. We shall see who will take possession of this vault of ancient wisdom.#
+
+/3 Не первая встреча (Хорошие отношения)
+Index: 2;
+Min: 100;
+Max: 5000;
+Name: 1;
+Param: 0;
+Text: #Greetings, %s! I'm glad to see this Shard has caught your attention as well. Truly a worthy choice, with its many secret corners and hiding caches of forgotten Knowledge. It will be interesting to examine all this wealth...#
+
+/4 Сразу война
+Index: 3;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Greetings to you, %s! The time has come for us to contest this Shard. Try not to destroy any of the depositories of ancient Knowledge during the war, I beg you. When this Shard becomes mine, I intend to examine every age-old library here.#
+
+/5 Объявление войны
+Index: 4;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Greetings, %s! I've decided to declare war on you. In fact, the very reason we're here is to fight one another, so why put off the inevitable?#
+
+/6 Предложение мира
+Index: 5;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Greetings, %s! I think it's time for us to make peace. A long war weakens us both, while you might get backstabbed by a next-door neighbor looking to take an advantage of your unprotected rear any moment. It would be prudent of us to cease our strife and start to accumulate our forces so that we don't look like some easy prey for the others. Do you agree?#
+
+/7 Предложение союза
+Index: 6;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Greetings, %s! To be honest, I think that you are one of the wisest Masters around. That's not flattery but an indisputable truth. Today I've decided to offer you an alliance. If we combine our forces, we'll easily overpower our rivals, always at one another's throats because of their incessant lust for power. Do you agree?#
+
+/8 Предложение торговли 
+Index: 7;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Greetings, %s! I propose we establish trade between our states. An exchange of goods is a guarantee of prosperity for any country. I hope my offer will seem worthy to you.#
+
+/9 Предложение обмена
+Index: 8;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Greetings, %s! I've decided to offer you a little deal. I hope my offer will be of interest to you.#
+
+/10 Пересмотр торговли
+Index: 9;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Greetings, %s! I've decided to amend our Trade Agreement a little, and I hope you won't mind.#
+
+/11 Отмена торговли
+Index: 10;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Greetings, %s! Unfortunately, I can't maintain trade with your state any longer.#
+
+/12 Отмена союза
+Index: 11;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Greetings, %s! I've decided to dissolve our alliance since I don't find any benefit in it. Each of us has goals of their own, an attempt to unite only results in unnecessary conflicts.#
+
+/13 Требование выкупа
+Index: 12;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Greetings, %s! At the moment, I'm trying to choose a Master to wage a war against. For you, I have bad news and good news. The bad news is that you're the first candidate in my list. But the good news is encouraging - you can influence my decision with a small gift.#
+
+/14 Дар
+Index: 13;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Greetings, %s! As a token of friendship and respect, I've decided to give you this modest gift. I hope it will be to your liking.#
+
+/15 Отказ (Грубый)
+Index: 14;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: -1;
+Text: #Do you take me for a fool, %s? Who would accept such an offer but a complete idiot?#
+
+/16 Отказ (Обычный)
+Index: 14;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #No, this won't do for me.#
+
+/17 Отказ (Вежливый)
+Index: 14;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 1;
+Text: #I'm sorry, but I have to refuse. I hope my refusal has not insulted you, %s.#
+
+/18 Соглашение (Недовольное)
+Index: 15;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: -1;
+Text: #I never thought I would agree to such disgusting terms. But there's no other alternative, so I agree.#
+
+/19 Соглашение (Нейтральное)
+Index: 15;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I accept your offer, %s.#
+
+/20 Соглашение (Довольное)
+Index: 15;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 1;
+Text: #You never cease to pleasantly surprise me, %s. I agree that this is truly a reasonable offer.#
+
+/21 Отказ от общения (1х1)
+Index: 19;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Now war decides everything, %s, and you know it. Let's put off our small talk for the future. We can socialize with pleasure in the Astral.#
+
+/22 Отказ от переговоров
+Index: 23;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #You know, %s, I love to socialize, but now is not the time, so let's talk later.#
+
+/23 Союзник, жребий или война
+Index: 20;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Well, %s, our combined efforts have led us to victory! Now let's decide who will possess this Shard. Frankly, I'm not ready to give it to you - the Knowledge kept in this Shard's secret corners attracts me too much. So, I am offering you a choice - either we draw lots or we settle our dispute on the battlefield.#
+
+/24 Союзник, сдаться или война
+Index: 21;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Well, %s, our combined efforts have led us to victory! I hope you're wise enough to agree that it's I who should possess this Shard. If not, go ahead. Try to fight me!#
+
+/25 Союзник, сдача
+Index: 22;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Well, %s, our combined efforts have led us to victory! While here, I examined these ancient ruins and libraries, and I must admit that they disappointed me. They don't hold even a fraction of the Knowledge I expected them to. So, without even a twinge of conscience, I give this Shard to you so you can find a proper use for it.#
+
+/26 Отказ от подарка
+Index: 24;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #What is this, a gift?! It looks more like a pile of garbage to me. I would have never expected such a miserable handout from you, %s. You can keep it.#
+
+/27 Принимаем дары
+Index: 25;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Thank you! This really is a valuable gift. I won't forget your generosity, %s.#
+
+/28 Отказ от союза с предателем
+Index: 16;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I don't even know what insulted me more, %s - your betrayal or this offer of yours to form an alliance. What kind of fool do you take me for? You dare offer me an alliance after such insidious treachery?!#
+
+/29 Отказ от мира с предателем
+Index: 17;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I intend to teach you a little lesson, %s. What lesson? Don't ever betray someone you hope to coexist peacefully with in the future. Your offer to make peace is pointless.#
+
+/30 Первая встреча, кампания
+Index: 26;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Greetings to you, %s! My thirst for new Knowledge has brought me into the mortal world again. This Shard hides a plenty of things strange and unusual, that's why I intend to add it to my collection. You might be against this... Well, so goes the world - different people's interests often intersect. Let's see who will take possession of this vault of Knowledge.#
+
+/31 Ответ на объявление войны
+Index: 27;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #This was a mistake, %s. Soon you're going to see it for yourself.#
+
+/32 Отказ в мире союзнику
+Index: 28;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #It's not time yet to stop the war, %s. Think it over - with our combined forces, we can overpower any enemy, and %s is no exception.#
+
+/33 Ответ на предательство
+Index: 29;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #You probably imagine yourself to be quite insidious and unpredictable, don't you, %s? I must disappoint you! I've known you for a long time and I'm not surprised in the least by your betrayal.#
+
+/34 Война, остались 1х1
+Index: 30;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Greetings, %s! Since we are left alone on this Shard, I don't see any sense in maintaining this unsteady peace between our states any further. It's time to start a war, as the ancient law of Eador demands. The winner will take it all!#
+&&&&&&

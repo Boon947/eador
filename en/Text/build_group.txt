@@ -1,0 +1,52 @@
+Quantity: 16
+
+/0
+#Empty#
+
+/1 Units1
+#Produces units of the first rank.#
+
+/2 Spells1
+#Teaches spells of the first circle.#
+
+/3 Units2
+#Produces units of the second rank.#
+
+/4 Spells2
+#Teaches spells of the second circle.#
+
+/5 Items1
+#Sells common items#
+
+/6 Generators
+#Transmutation#
+
+/7 Units3
+#Produces units of the third rank.#
+
+/8 Spells3
+#Teaches spells of the third circle.#
+
+/9 Items2
+#Sells quality items#
+
+/10 Temples
+#Great Temples#
+
+/11 Units4
+#Produces units of the fourth rank.#
+
+/12 Spells4
+#Teaches spells of the fourth circle.#
+
+/13 Items3
+#Sells exceptional items#
+
+/14 Items4
+#Sells enchanted items#
+
+/15 Scavens T1
+#Basic Ratman buildings.#
+
+/16 Scavens T2
+#Advanced Ratman buildings.#

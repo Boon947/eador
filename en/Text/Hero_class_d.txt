@@ -1,0 +1,182 @@
+/1 Warrior
+#Can use the following type of items: Common, Melee Weapon, Heavy Weapon, Light Armor, Medium Armor, Heavy Armor, Shield.
+Can learn warrior skills up to Mastery Level 3.#
+
+/2 Scout
+#Can use the following type of items: Common, Melee Weapon, Ranged Weapon, Light Armor.
+Possesses the skill %s (8).
+Can learn scout skills up to Mastery Level 3.#
+
+/3 Commander
+#Can use the following type of items: Common, Melee Weapon, Banner, Light Armor, Medium Armor, Shield.
+Can learn commander skills up to Mastery Level 3.#
+
+/4 Wizard
+#Can use the following type of items: Common, Wand.
+Can learn sorcerer skills up to Mastery Level 3.#
+
+/5 Holy Knight
+#Can use the following type of items: Common, Melee Weapon, Heavy Weapon, Light Armor, Medium Armor, Heavy Armor, Shield.
+Possesses the skills First Aid (3), Smite Evil (1), Hunter of Undead (1), Hunter of Demons (1). Holy Knight armor is increased by 1.
+Can learn warrior skills up to Mastery Level 5.#
+
+/6 Assassin
+#Can use the following type of items: Common, Melee Weapon, Heavy Weapon, Ranged Weapon, Light Armor, Medium Armor, Heavy Armor, Shield.
+Possesses the skills Poison Attack (2), Precise Strike (2), Precise Shot and Poison Shot (2).
+Can learn warrior and scout skills up to Mastery Level 3.#
+
+/7 Chieftain
+#Can use the following type of items: Common, Melee Weapon, Heavy Weapon, Banner, Light Armor, Medium Armor, Heavy Armor, Shield.
+Health is increased by +10. Possesses the skill Battle Frenzy (3). Reduces the cost of troops by 10~. Increases experience gained by the troops by 15~.
+Can learn warrior and commander skills up to Mastery Level 3.#
+
+/8 Dark Knight
+#Can use the following type of items: Common, Melee Weapon, Heavy Weapon, Wand, Light Armor, Medium Armor, Heavy Armor, Shield.
+Possesses the skills Soul Stealing (3) and Dark Dominion (1). A Dark Knight receives an additional slot for a Circle II spell.
+Can learn warrior and sorcerer skills up to Mastery Level 3.#
+
+/9 Adventurer
+#Can use the following type of items: Common, Melee Weapon, Heavy Weapon, Ranged Weapon, Light Armor, Medium Armor, Heavy Armor, Shield.
+Possesses the skills Crippling Shot, Recuperation (+2) and % s (8). The Adventurer's speed is increased by 1.
+Finds 50~ more gold and gems while searching locations. Receives twice as much gold for completing quests. Can change weapons without spending a turn in battle.
+Can learn scout and warrior skills up to Mastery Level 3.#
+
+/10 Archer
+#Can use the following type of items: Common, Melee Weapon, Ranged Weapon, Light Armor.
+Possesses the skill Double Shot (energy consumption 5). Possesses the skill %s (8).
+Can learn scout skills up to Mastery Level 5.#
+
+/11 Ringleader
+#Can use the following type of items: Common, Melee Weapon, Ranged Weapon, Banner, Light Armor, Medium Armor, Shield.
+Looting skill is increased by 3. Receives 50~ more gold while plundering provinces. Mobility is increased by +1. Possesses the skill %s (8).
+Can learn scout and commander skills up to Mastery Level 3.#
+
+/12 Ranger
+#Can use the following type of items: Common, Melee Weapon, Ranged Weapon, Wand, Light Armor.
+Province exploration speed +10. Sabotage efficiency +1. Can perform one act of sabotage more than the skill allows. Possesses the skill %s (8) and Enchanted Arrow (4).
+Can learn scout and sorcerer skills up to Mastery Level 3.#
+
+/13 Warlord
+#Can use the following type of items: Common, Melee Weapon, Heavy Weapon, Banner, Light Armor, Medium Armor, Heavy Armor, Shield.
+Increases the units' armor by 1. Grants Regeneration 1 to allied units.
+Can learn commander and warrior skills up to Mastery Level 3.#
+
+/14 Tactician
+#Can use the following type of items: Common, Melee Weapon, Ranged Weapon, Banner, Light Armor, Medium Armor, Shield.
+Increases the units' missile attack by 2 (does not affect units using the Magic Shot).
+Can learn commander and scout skills up to Mastery Level 3.#
+
+/15 General
+#Can use the following type of items: Common, Melee Weapon, Banner, Light Armor, Medium Armor, Shield.
+Increases the units' attack and counterattack by 1.
+Can learn commander skills up to Mastery Level 5.#
+
+/16 Priest
+#Can use the following type of items: Common, Melee Weapon, Wand, Banner, Light Armor, Medium Armor, Shield.
+Increases the units' resistance by 1 and morale by 2.
+Can learn commander and sorcerer skills up to Mastery Level 3.#
+
+/17 Battlemage
+#Can use the following type of items: Common, Melee Weapon, Heavy Weapon, Wand, Light Armor, Medium Armor, Heavy Armor, Shield.
+Resistance is increased by +3. Resistance Negation is increased by +2. Wand Mastery (increases shooting range) +4. Energy Control +2.
+Can learn sorcerer and warrior skills up to Mastery Level 3.#
+
+/18 Druid
+#Can use the following type of items: Common, Melee Weapon, Ranged Weapon, Wand, Light Armor.
+Possesses the skills Roots (3), Entangling Shot (2) and Forest Knowledge (4). Spells consume 25~ fewer gems. Spell duration is increased by +2. Grants all friendly units Poison Immunity.
+Can learn sorcerer and scout skills up to Mastery Level 3.#
+
+/19 Necromancer
+#Can use the following type of items: Common, Melee Weapon, Wand, Banner, Light Armor, Medium Armor, Shield.
+Undead Summoning Power +5. Raising the undead consumes 25~ fewer gems.
+The summoned undead get the bonuses from the Necromancer's commander abilities. Can make undead 1 rank stronger than the skill normally allows to remain in his party.
+The Hero's undead units do not slow him down.
+Can learn sorcerer and commander skills up to Mastery Level 3.#
+
+/20 Mage
+#Can use the following type of items: Common, Wand.
+Spellpower is increased by +1. Can cast 2 spells per turn, if their levels combined is no more than 4.
+Can learn sorcerer skills up to Mastery Level 5.#
+
+/21 Paladin
+#Can use the following type of items: Common, Melee Weapon, Heavy Weapon, Light Armor, Medium Armor, Heavy Armor, Shield.
+Possesses the skills First Aid (8), First Strike, Smite Evil (3), Hunter of Undead (1), Hunter of Demons (1). The Paladin's armor increases by 2 and resistance by 1. A Paladin receives an additional slot for Circle II spell.
+Can learn warrior skills up to Mastery Level 5.#
+
+/22 Master Assassin
+#Can use the following type of items: Common, Melee Weapon, Heavy Weapon, Ranged Weapon, Light Armor, Medium Armor, Heavy Armor, Shield.
+Possesses the skills Poison Attack (4), Precise Strike (2), Precise Shot (2), Poison Shot (2) and Agility.
+Can learn warrior and scout skills up to Mastery Level 3.#
+
+/23 Great Chieftain
+#Can use the following type of items: Common, Melee Weapon, Heavy Weapon, Banner, Light Armor, Medium Armor, Heavy Armor, Shield.
+Health is increased by +20. Possesses the skills Battle Frenzy (8) and Round Attack. Reduces the cost of troops by 25~. Increases experience gained by the troops by 35~.
+Can learn warrior and commander skills up to Mastery Level 3.#
+
+/24 Death Knight
+#Can use the following type of items: Common, Melee Weapon, Heavy Weapon, Wand, Light Armor, Medium Armor, Heavy Armor, Shield.
+Possesses the skills Soul Stealing (8) and Dark Dominion (3). A Death Knight gets additional slots for a Circle II and III spell.
+Can learn warrior and sorcerer skills up to Mastery Level 3.#
+
+/25 Cutthroat
+#Can use the following type of items: Common, Melee Weapon, Heavy Weapon, Ranged Weapon, Light Armor, Medium Armor, Heavy Armor, Shield.
+Possesses the skills Crippling Strike, Crippling Shot, Collect Ammo, %s (8) and Recuperation (3). The Cutthroat Speed and Initiative are increased by 2.
+Finds 100~ more gold and gems while searching locations. Receives twice as much gold for completing quests. Can change weapons without spending a turn in battle.
+Can learn scout and warrior skills up to Mastery Level 3.#
+
+/26 Sniper
+#Can use the following type of items: Common, Melee Weapon, Ranged Weapon, Light Armor.
+Possesses the skill Double Shot (energy consumption 3). Possesses the skill %s (8).
+Can learn scout skills up to Mastery Level 5.#
+
+/27 Gang Leader
+#Can use the following type of items: Common, Melee Weapon, Ranged Weapon, Banner, Light Armor, Medium Armor, Shield.
+Looting skill is increased by 6. Receives 50~ more gold while plundering provinces. Mobility is increased by +2. Possesses the skill %s (8). Increases units' speed by 1.
+Can learn scout and commander skills up to Mastery Level 3.#
+
+/28 Pathfinder
+#Can use the following type of items: Common, Melee Weapon, Ranged Weapon, Wand, Light Armor.
+Province exploration speed +20. Sabotage efficiency +2. Can perform two acts of sabotage more than the skill allows. Possesses the skill %s (8) and Enchanted Arrow (8).
+Can learn scout and sorcerer skills up to Mastery Level 3.#
+
+/29 Battlemaster
+#Can use the following type of items: Common, Melee Weapon, Heavy Weapon, Banner, Light Armor, Medium Armor, Heavy Armor, Shield.
+Increases the units' armor by 2. Grants Regeneration 2 to the units.
+Can learn commander and warrior skills up to Mastery Level 3.#
+
+/30 Strategist
+#Can use the following type of items: Common, Melee Weapon, Ranged Weapon, Banner, Light Armor, Medium Armor, Shield.
+Increases the units' missile attack by 2 (does not affect units using the Magic Shot) and Range by 1. Initiative is increased by +1.
+Can learn commander and scout skills up to Mastery Level 3.#
+
+/31 Marshall
+#Can use the following type of items: Common, Melee Weapon, Banner, Light Armor, Medium Armor, Shield.
+Increases the units' attack and counterattack by 2.
+Can learn commander skills up to Mastery Level 5.#
+
+/32 High Priest
+#Can use the following type of items: Common, Melee Weapon, Wand, Banner, Light Armor, Medium Armor, Shield.
+Increases the units' resistance by 2 and morale by 4. A High Priest receives an additional slot for a Circle III spell.
+Can learn commander and sorcerer skills up to Mastery Level 3.#
+
+/33 Warwizard
+#Can use the following type of items: Common, Melee Weapon, Heavy Weapon, Wand, Light Armor, Medium Armor, Heavy Armor, Shield.
+Possesses the skill Overwhelming Force. Resistance is increased by +5. Resistance Negation is increased by +5. Wand Mastery (increases shooting range) +8.
+Can learn sorcerer and warrior skills up to Mastery Level 3.#
+
+/34 Archdruid
+#Can use the following type of items: Common, Melee Weapon, Ranged Weapon, Wand, Light Armor.
+Possesses the skills Roots (6), Entangling Shot (4) and Forest Knowledge (8). Spells consume 25~ fewer gems. Spell duration is increased by +4. Grants all friendly units Poison Immunity. The Archdruid gets an additional slot for a Circle III spell.
+Can learn sorcerer and scout skills up to Mastery Level 3.#
+
+/35 Master Necromancer
+#Can use the following type of items: Common, Melee Weapon, Wand, Banner, Light Armor, Medium Armor, Shield.
+Undead Summoning Power +10. Raising the undead consumes 50~ fewer gems.
+The summoned undead get the bonuses from the Necromancer's commander abilities. Can make undead 2 levels stronger than the skill normally allows remain in his party. The summoned undead get the bonuses from the Necromancer's commander abilities. Gains additional IV circle spell slot.
+The Hero's undead units do not slow him down.
+Can learn sorcerer and commander skills up to Mastery Level 3.#
+
+/36 Archmage
+#Can use the following type of items: Common, Wand.
+Spellpower is increased by +3. Can cast 2 spells per turn, if their levels combined is no more than 6.
+Can learn sorcerer skills up to Mastery Level 5.#

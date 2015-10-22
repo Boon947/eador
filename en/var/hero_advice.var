@@ -1,0 +1,121 @@
+Quantity: 23
+
+/0
+Min: -1000
+Max: 20
+Text: I stand no chance whatsoever.;
+
+/1
+Min: -1000
+Max: 20
+Text: The enemy will shred me apart!;
+
+/2
+Min: 20
+Max: 40
+Text: I will be trampled!;
+
+/3
+Min: 20
+Max: 40
+Text: Attacking right now means suicide!;
+
+/4
+Min: 40
+Max: 60
+Text: I'm no coward, but I'd rather retreat.;
+
+/5
+Min: 40
+Max: 60
+Text: It would be foolish to attack now, the forces are uneven.;
+
+/6
+Min: 60
+Max: 80
+Text: I need a stronger army to win.;
+
+/7
+Min: 60
+Max: 80
+Text: If I do win, I will be very surprised.;
+
+/8
+Min: 80
+Max: 90
+Text: This will be a very challenging battle.;
+
+/9
+Min: 80
+Max: 90
+Text: I'm not sure at all if I can win.;
+
+/10
+Min: 90
+Max: 99
+Text: The battle will be hard, I don't know yet if I can win.;
+
+/11
+Min: 90
+Max: 99
+Text: That looks pretty serious. It will be an effort to defeat them.;
+
+/12
+Min: 100
+Max: 110
+Text: This will be an exciting battle. The forces are pretty much equal.;
+
+/13
+Min: 100
+Max: 110
+Text: I hope I can win. The enemy is quite strong.;
+
+/14
+Min: 110
+Max: 130
+Text: I'm sure the victory will be ours!;
+
+/15
+Min: 110
+Max: 130
+Text: This will be a glorious battle, victory should be ours!;
+
+/16
+Min: 130
+Max: 150
+Text: The enemy will be destroyed!;
+
+/17
+Min: 130
+Max: 150
+Text: I will crush them!;
+
+/18
+Min: 150
+Max: 170
+Text: I will easily defeat this enemy.;
+
+/19
+Min: 150
+Max: 170
+Text: The enemy stands no chance!;
+
+/20
+Min: 170
+Max: 190
+Text: We will eradicate them!;
+
+/21
+Min: 170
+Max: 190
+Text: The enemy is doomed!;
+
+/22
+Min: 190
+Max: 30000
+Text: This will be a slaughter. The enemy is pathetic!;
+
+/23
+Min: 190
+Max: 30000
+Text: These enemies aren't worth the trouble.;

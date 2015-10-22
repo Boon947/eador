@@ -1,0 +1,458 @@
+0. Empty
+#No description#
+
+1. Iron Deposit
+#Grants resource: iron.
+Income +1.#
+
+2. Red Oakwood
+#Grants resource: redwood.
+Income +1.#
+
+3. Horse Herd
+#Grants resource: horses.
+Income +1.#
+
+4. Mandrake Glade
+#Grants resource: mandrake
+Gem income +1.#
+
+5. Shimmering Bogs
+#Grants resource: arcanite.
+Gem income +2.#
+
+6. Marble Deposit
+#Grants resource: marble.
+Income +2.#
+
+7. Mithril Deposit
+#Grants resource: mithril.
+Income +3.#
+
+8. Dionite Thicket
+#Grants resource: dionium.
+Income +3. 
+Gem income +2.#
+
+9. Black Lotus Marsh
+#Grants resource: black lotus.
+Gem income +3.#
+
+10. Ancient Crypt
+#No description#
+
+11. Ancient Ruins
+#No description#
+
+12. Tower Ruins
+#No description#
+
+13. Abandoned Farm
+#Once again, the farm is bustling with work. 
+Income +1.#
+
+14. Old Windmill
+#This once abandoned mill is working again.
+Income +2.#
+
+15. Silver Mine
+#Silver is mined here.
+Income +3.#
+
+16. Gold Vein
+#Gold mining is an excellent source of income.
+Income +5.#
+
+17. Gemstones
+#Gemstone mining brings you 8 gold and 1 gem per turn.#
+
+18. Abandoned Temple
+#No description#
+
+19. Mages Tower
+#No description#
+
+20. Primeval Thicket
+#No description#
+
+21. Dark Cave
+#No description#
+
+22. Monolith
+#Magical energy stored by the monolith increases your gem supply by 2 per turn.#
+
+23. Lair of Bandits
+#No description#
+
+24. Gates of Chaos
+#No description#
+
+25. Dragon's Lair
+#No description#
+
+26. Altar of Death
+#Save the life of Death cultists, and you obtain control over the source of black magic and the ability to recruit a powerful undead. There is no guarantee however that necromancers can maintain continuous control of animated undead.
+Population growth -4.#
+
+27. Temple of Light
+#No description#
+
+28. Empty
+#No description#
+
+29. Empty
+#No description#
+
+30. Empty
+#No description#
+
+31. Empty
+#No description#
+
+32. Tanner Store
+#No description#
+
+33. Weapon Store
+#No description#
+
+34. Archery Store
+#No description#
+
+35. Sorcery Store
+#No description#
+
+36. Chainmail Armory
+#No description#
+
+37. Plate Armory
+#No description#
+
+38. Tailor Store
+#No description#
+
+39. Jewelry Store
+#No description#
+
+40. Knowledge Store
+#No description#
+
+41. Arena
+#The heroes can participate in tournaments and bet on combatants on the arena.#
+
+42. Labyrinth
+#A mysterious, ancient structure. Great treasures - and great dangers - are concealed within its walls. Even if you are lucky enough to pass by the guards unnoticed, it's easy enough to get lost in the labyrinth.#
+
+43. Fairy Tree
+#No description#
+
+44. Harpy Nests
+#No description#
+
+45. Troll Lair
+#Trolls lurk in this smelly cave. Who knows when they feel like getting out and treating themselves to fresh human meat?#
+
+46. Ambush
+#No description#
+
+47. Still Waters
+#No description#
+
+48. Crystal
+#An enormous magical crystal that connects the Astral plane with the Material plane. According to an ancient legend, here the astral spirits can give quests to mortal heroes.#
+
+49. Sanctuary
+#Locals come to this sacred place to pray and perform holy rituals.
+Population mood +1.#
+
+50. Thieves Guild
+#No description#
+
+51. Thieves Guild
+#By agreement, you permit thieves to gather in here.
+Income +5. Population mood -1.
+Increases corruption and crime rate.
+You can hire an army of outlaws here.#
+
+52. Witch's Hut
+#A vile witch feared and hated by the local population lives in this hut. The old crone pays you a fair tribute in gems.
+Gem income +2. Population mood -1.#
+
+53. Adventurers
+#No description#
+
+54. Unicorn
+#No description#
+
+55. Monastery
+#No description#
+
+56. Trolls
+#No description#
+
+57. Halfling Farm
+#Farmstead dwellers pay you a fair tribute of 3 gold per turn.#
+
+58. Halfling Farm
+#Trading with the farmers grants you +1 gold per turn.#
+
+59. Enchanted Pool
+#No description#
+
+60. Merchant of Rarities
+#No description#
+
+61. Secret Hollow
+#A rare magical plant, dragonroot, grows in this secluded hollow. Harvesting it increases your gem income by 2.#
+
+62. Fertile Valley
+#These fertile lands yield plentiful harvests, increasing gold income from the province by 5.#
+
+63. Picturesque Valley
+#Living in such a beautiful place makes the population happy. New residents are more eager to settle in the province.
+Population mood +1. Increases population growth.#
+
+64. Ancient Cache
+#No description#
+
+65. Spider Lair
+#No description#
+
+66. Witcher's Fortress
+#No description#
+
+67. War School
+#Swordmasters are trained here - elite heavy infantry. They are always ready to fight.#
+
+68. Gates of Abyss
+# Through this Gate you can recruit all kinds of demons into your service. In addition, the power of Chaos are presented in this world through the Gate - it is good source of gems. However, demons - they are demons, and their detachment may well emerge from these gates and attack the province.
+Yields 5 gems per turn. Population growth -1.#
+
+69. Elven Citadel
+#You can hire an elven army here.#
+
+70. Dwarven Citadel
+#You can hire an dwarven army here.#
+
+71. Orcish Citadel
+#You can hire an orcish army here.#
+
+72. Lizardmen Citadel
+#You can hire an lizardmen army here.#
+
+73. Centaur Citadel
+#You can hire an centaur army here.#
+
+74. Goblin Citadel
+#You can hire an goblin army here.#
+
+75. Halfling Citadel
+#You can hire an halfling army here.#
+
+76. Inquisition Cloister
+#Stronghold and temple of the Inquisition. You can hire their troops here.
+The locals are not too happy about such neighbors - there is not much difference between a witch and a simple peasant for the inquisitors.
+Population mood -1.#
+
+77. Casino
+#In this gaming establishment you may win money or gems. However, you can blow up all your money acquired through the hard work. And there is a currency exchange - gems for money (and vice versa). Income +5. Gem income +1.#
+
+78. Gambling House
+#In this gaming establishment you can win valuable items, putting gold with crystals into game. Income +10. Gem income +2.#
+
+79. Alvari Citadel
+#You can hire an army of dark elves here.#
+
+80. Dark Elven Citadel
+#You can hire an army of dark elves here.#
+
+81. Old Mine
+#The mine is producing something useful now.
+What is it - you don't really care.
+The main thing is - it makes money.
+Income +1.#
+
+82. Bandit's Hideout
+#No description#
+
+83. Burial Vault
+#No description#
+
+84. Temple of Light
+#No description#
+
+85. Elemental Junction
+#No description#
+
+86. Dragon Altar
+#No description#
+
+87. Mystical Tower
+#No description#
+
+88. Black Castle
+#No description#
+
+89. Chaos Stronghold
+#No description#
+
+90. Behemoth's Lair
+#No description#
+
+91. Dwarven Stronghold
+#No description#
+
+92. Beast Lair
+#No description#
+
+93. Conclave
+#No description#
+
+94. Gnoll Citadel
+#You can hire an army of gnolls here.#
+
+95. Ancient Ruins
+#No description#
+
+96. Alkari Citadel
+#You can hire an Alkari army here.#
+
+97. Old Mansion
+#No description#
+
+98. Werewolf Lair
+#A ghastly beast that attacks all living things lives here. Maybe he really is not that scary?#
+
+99. Dark Hollow
+#No description#
+
+100. Ancient Ruins
+#No description#
+
+101. Tower Ruins
+#No description#
+
+102. Monolith
+#Magical energy stored by the monolith increases your gem supply by 2 per turn.#
+
+103. Sanctuary
+#Locals come to this sacred place to pray and perform holy rituals.
+Population mood +1.#
+
+104. Abandoned Temple
+#No description#
+
+105. Mercenary Guild
+#No description#
+
+106. Underground Cave
+#No description#
+
+107. Catacombs
+#No description#
+
+108. Old Sewers
+#No description#
+
+109. Ratman Burrow
+#Burrow inhabited by Ratmen. You can hire an army of ratmen here.
+Income -10~. Population mood -1.#
+
+110. Ratman Town
+#No description#
+
+111. Sewerage
+#No description#
+
+112. Catacombs
+#No description#
+
+113. Driller Workshop
+#Ratman building, erected with your permission. Here you can recruit Ratman-drillers.
+Unfortunately the Ratmen go way beyond the budget you permitted, and all the necessary materials and supplies are stolen from the locals.
+Reduce province gem income by 50~. Population mood -2.#
+
+114. Pests Clan Temple
+#Ratman building, erected with your permission. Here you can recruit Ratman warriors of the Pests Clan.
+Unfortunately the Ratmen go way beyond the budget you permitted, and all the necessary materials and supplies are stolen from the locals.
+Reduce province gem income by 50~. Population mood -2.#
+
+115. Tower of Darkness
+#No description#
+
+116. Daokon's Citadel
+#No description#
+
+117. Order Citadel
+#No description#
+
+118. Dark Cave
+#No description#
+
+119. Slave Market
+#No description#
+
+120. Old Fortress
+#No description#
+
+121. Lookout Tower
+#No description#
+
+122. Cursed Temple
+#No description#
+
+123. Altar of Chaos
+#No description#
+
+124. Alvari Town
+#No description#
+
+125. Idol
+#No description#
+
+126. Inquisition Troop
+#No description#
+
+127. Great Gate
+#No description#
+
+128. Ancient Thicket
+#No description#
+
+129. Ziggurat
+#No description#
+
+130. Mages Tower
+#No description#
+
+131. Lair of Bandits
+#No description#
+
+132. Bandit Hoard
+#No description#
+
+133. Destroyed Settlement
+#No description#
+
+134. Abandoned Temple
+#No description#
+
+135. Ancient Ruins
+#No description#
+
+136. Gates of Chaos
+#No description#
+
+137. Breeding Ground
+#No description#
+
+138. Hydra Lair
+#No description#
+
+139. Gloomy Village
+#No description#
+
+140. Ancient Crypt
+#No description#
+
+141. Ancient Crypt
+#No description#

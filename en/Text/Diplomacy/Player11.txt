@@ -1,0 +1,281 @@
+/До-Гор
+/0 Первая встреча
+Index: 1;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Aaaah! Fresh meat!!!#
+
+/1 Не первая встреча (Плохие отношения)
+Index: 2;
+Min: -5000;
+Max: -100;
+Name: 1;
+Param: 0;
+Text: #I'll tear you to pieces, %s! Soon!#
+
+/2 Не первая встреча (Нейтрален)
+Index: 2;
+Min: -99;
+Max: 99;
+Name: 1;
+Param: 0;
+Text: #And you're here too, %s?! This is good! I enjoy killing you!#
+
+/3 Не первая встреча (Хорошие отношения)
+Index: 2;
+Min: 100;
+Max: 5000;
+Name: 1;
+Param: 0;
+Text: #Haw-haw! %s! Excellent! This will be fun!#
+
+/4 Сразу война
+Index: 3;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Oh yes, this is war! I'll tear you apart, %s!#
+
+/5 Объявление войны
+Index: 4;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I declare war on you, %s! Let the bloody fun begin!#
+
+/6 Предложение мира
+Index: 5;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #The war was good! But it's time to rest! Agreed?#
+
+/7 Предложение союза
+Index: 6;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #You're good warrior, %s! Let's fight together!#
+
+/8 Предложение торговли 
+Index: 7;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Let's trade!#
+
+/9 Предложение обмена
+Index: 8;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Let's trade!#
+
+/10 Пересмотр торговли
+Index: 9;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #I change our trade!#
+
+/11 Отмена торговли
+Index: 10;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Trade is for wimps! No more deals!#
+
+/12 Отмена союза
+Index: 11;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #I'm tired of our alliance! I cancel it!#
+
+/13 Требование выкупа
+Index: 12;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Give me what I want! Or you'll regret it!#
+
+/14 Дар
+Index: 13;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Here's a gift for you, %s! I'm feeling kind today!#
+
+/15 Отказ (Грубый)
+Index: 14;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: -1;
+Text: #No!!! Never!!!#
+
+/16 Отказ (Обычный)
+Index: 14;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #No!#
+
+/17 Отказ (Вежливый)
+Index: 14;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 1;
+Text: #Haw-haw! No! I don't agree!#
+
+/18 Соглашение (Недовольное)
+Index: 15;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: -1;
+Text: #Grrr! All right!#
+
+/19 Соглашение (Обычное)
+Index: 15;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Yes! I agree!#
+
+/20 Соглашение (Довольное)
+Index: 15;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 1;
+Text: #Haw-haw! Yes! Excellent!#
+
+/21 Отказ от общения (1х1)
+Index: 19;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #No more talking! War, war, until the last drop of blood is spilt!#
+
+/22 Отказ от переговоров
+Index: 23;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Talking is for wimps! Let's fight!#
+
+/23 Союзник, жребий или война
+Index: 20;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Hah! We've defeated them all! Let's settle who gets the prize! Shall we throw dice or fight?!#
+
+/24 Союзник, сдаться или война
+Index: 21;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Hah! We've defeated them all! Now give me this world, or we fight!#
+
+/25 Союзник, сдача
+Index: 22;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Hah! We've defeated them all! I give you this world, I don't need it!#
+
+/26 Отказ от подарка
+Index: 24;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #What crap is this, %s?! You may keep it!#
+
+/27 Принимаем дары
+Index: 25;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Haw-haw! Good gift! I take it!#
+
+/28 Отказ от союза с предателем
+Index: 16;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #You're a traitor, %s! No alliances!!!#
+
+/29 Отказ от мира с предателем
+Index: 17;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #You're a traitor, %s! I'll tear you apart!#
+
+/30 Первая встреча
+Index: 26;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Aaaah! Fresh meat!!!#
+
+/31 Ответ на объявление войны
+Index: 27;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #War? Excellent! I'll crush you!#
+
+/32 Отказ в мире союзнику
+Index: 28;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Are you wimp, %s? What do we need a truce for? %s will fall like all our enemies!#
+
+/33 Ответ на предательство
+Index: 29;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Traitor! You'll be sorry! I'll crush you! I'll destroy you!!!#
+
+/34 Война, остались 1х1
+Index: 30;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I declare war on you, %s! Let the bloody fun begin!#
+&&&&&&

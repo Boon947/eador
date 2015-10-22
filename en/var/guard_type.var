@@ -1,0 +1,1450 @@
+Quantity: 160
+
+/0
+Name: Empty;
+Power: 0
+Karma: 0
+Guard0: 1
+Guard1: 2
+Guard2: 3
+Guard3: 4
+
+/1
+Name: Militia;
+Power: 1
+Karma: 0
+Guard0: 1
+Guard1: 2
+Guard2: 3
+Guard3: 4
+
+/2
+Name: Brigands;
+Power: 1
+Karma: -1
+Guard0: 5
+Guard1: 6
+Guard2: 7
+Guard3: 8
+
+/3
+Name: Barbarians;
+Power: 1
+Karma: 0
+Guard0: 9
+Guard1: 10
+Guard2: 11
+Guard3: 12
+
+/4
+Name: Goblins;
+Power: 1
+Karma: -1
+Guard0: 13
+Guard1: 14
+Guard2: 15
+Guard3: 16
+
+/5
+Name: Undead;
+Power: 2
+Karma: -2
+Guard0: 17
+Guard1: 18
+Guard2: 19
+Guard3: 20
+
+/6
+Name: Orcs;
+Power: 2
+Karma: -1
+Guard0: 21
+Guard1: 22
+Guard2: 23
+Guard3: 24
+
+/7
+Name: Halflings;
+Power: 2
+Karma: 2
+Guard0: 25
+Guard1: 26
+Guard2: 27
+Guard3: 28
+
+/8
+Name: Elves;
+Power: 2
+Karma: 3
+Guard0: 29
+Guard1: 30
+Guard2: 31
+Guard3: 32
+
+/9
+Name: Dwarves;
+Power: 2
+Karma: 2
+Guard0: 33
+Guard1: 34
+Guard2: 35
+Guard3: 36
+
+/10
+Name: Retinue;
+Power: 2
+Karma: 0
+Guard0: 37
+Guard1: 38
+Guard2: 39
+Guard3: 40
+
+/11
+Name: Giant Spiders;
+Power: 3
+Karma: 0
+Guard0: 41
+Guard1: 42
+Guard2: 43
+Guard3: 44
+
+/12
+Name: Swamp Creatures;
+Power: 3
+Karma: 0
+Guard0: 45
+Guard1: 46
+Guard2: 47
+Guard3: 48
+
+/13
+Name: Winged Creatures;
+Power: 3
+Karma: 0
+Guard0: 49
+Guard1: 50
+Guard2: 51
+Guard3: 52
+
+/14
+Name: Demons;
+Power: 2
+Karma: -3
+Guard0: 53
+Guard1: 54
+Guard2: 55
+Guard3: 56
+
+/15
+Name: Forest Guards;
+Power: 3
+Karma: 3
+Guard0: 57
+Guard1: 58
+Guard2: 59
+Guard3: 60
+
+/16
+Name: Nomads;
+Power: 3
+Karma: 0
+Guard0: 61
+Guard1: 62
+Guard2: 63
+Guard3: 64
+
+/17
+Name: Centaurs;
+Power: 3
+Karma: 1
+Guard0: 65
+Guard1: 66
+Guard2: 67
+Guard3: 68
+
+/18
+Name: Giants;
+Power: 6
+Karma: -1
+Guard0: 69
+Guard1: 70
+Guard2: 71
+Guard3: 72
+
+/19
+Name: Battlemages;
+Power: 3
+Karma: 0
+Guard0: 73
+Guard1: 74
+Guard2: 75
+Guard3: 76
+
+/20
+Name: Clerics;
+Power: 2
+Karma: 2
+Guard0: 77
+Guard1: 78
+Guard2: 79
+Guard3: 80
+
+/21
+Name: Bandits;
+Power: 3
+Karma: -2
+Guard0: 81
+Guard1: 82
+Guard2: 83
+Guard3: 84
+
+/22
+Name: Army of Chaos;
+Power: 4
+Karma: -4
+Guard0: 85
+Guard1: 86
+Guard2: 87
+Guard3: 88
+
+/23
+Name: Wing of Dragons;
+Power: 8
+Karma: 0
+Guard0: 89
+Guard1: 90
+Guard2: 91
+Guard3: 92
+
+/24
+Name: Minotaurs;
+Power: 5
+Karma: 0
+Guard0: 93
+Guard1: 94
+Guard2: 95
+Guard3: 96
+
+/25
+Name: Necromancers;
+Power: 4
+Karma: -3
+Guard0: 97
+Guard1: 98
+Guard2: 99
+Guard3: 100
+
+/26
+Name: Dark Druids;
+Power: 4
+Karma: -1
+Guard0: 101
+Guard1: 102
+Guard2: 103
+Guard3: 104
+
+/27
+Name: Adventurers;
+Power: 2
+Karma: 0
+Guard0: 105
+Guard1: 106
+Guard2: 107
+Guard3: 108
+
+/28
+Name: Knightly Order;
+Power: 4
+Karma: 1
+Guard0: 109
+Guard1: 110
+Guard2: 111
+Guard3: 112
+
+/29
+Name: Wild Gryphons;
+Power: 5
+Karma: 0
+Guard0: 113
+Guard1: 114
+Guard2: 115
+Guard3: 116
+
+/30
+Name: Trolls;
+Power: 5
+Karma: -1
+Guard0: 117
+Guard1: 118
+Guard2: 119
+Guard3: 120
+
+/31
+Name: Inquisitors;
+Power: 4
+Karma: 0
+Guard0: 121
+Guard1: 122
+Guard2: 123
+Guard3: 124
+
+/32
+Name: Wild Pegasi;
+Power: 3
+Karma: 0
+Guard0: 125
+Guard1: 126
+Guard2: 127
+Guard3: 128
+
+/33
+Name: Demonologists;
+Power: 3
+Karma: -3
+Guard0: 129
+Guard1: 130
+Guard2: 131
+Guard3: 132
+
+/34
+Name: Druids;
+Power: 4
+Karma: 1
+Guard0: 133
+Guard1: 134
+Guard2: 135
+Guard3: 136
+
+/35
+Name: 13 Fiends;
+Power: 2
+Karma: -2
+Guard0: 137
+Guard1: 137
+Guard2: 137
+Guard3: 137
+
+/36
+Name: Unicorn;
+Power: 2
+Karma: 3
+Guard0: 138
+Guard1: 138
+Guard2: 138
+Guard3: 138
+
+/37
+Name: Troll;
+Power: 2
+Karma: -1
+Guard0: 139
+Guard1: 139
+Guard2: 139
+Guard3: 139
+
+/38
+Name: Hydra;
+Power: 2
+Karma: 0
+Guard0: 140
+Guard1: 140
+Guard2: 140
+Guard3: 140
+
+/39
+Name: Gargoyles;
+Power: 3
+Karma: 0
+Guard0: 141
+Guard1: 142
+Guard2: 143
+Guard3: 144
+
+/40
+Name: Chaos Hounds;
+Power: 3
+Karma: -3
+Guard0: 145
+Guard1: 145
+Guard2: 145
+Guard3: 145
+
+/41
+Name: Ancient Dragon;
+Power: 4
+Karma: 0
+Guard0: 146
+Guard1: 146
+Guard2: 146
+Guard3: 146
+
+/42
+Name: Medusas;
+Power: 5
+Karma: 0
+Guard0: 147
+Guard1: 148
+Guard2: 149
+Guard3: 150
+
+/43
+Name: Slugs;
+Power: 3
+Karma: 0
+Guard0: 151
+Guard1: 152
+Guard2: 153
+Guard3: 154
+
+/44
+Name: Lizardmen;
+Power: 2
+Karma: 0
+Guard0: 155
+Guard1: 156
+Guard2: 157
+Guard3: 158
+
+/45
+Name: Cult of the Hydra;
+Power: 5
+Karma: 0
+Guard0: 159
+Guard1: 159
+Guard2: 159
+Guard3: 159
+
+/46
+Name: Dragon Cult;
+Power: 5
+Karma: 0
+Guard0: 160
+Guard1: 160
+Guard2: 160
+Guard3: 160
+
+/47
+Name: Phoenix Cult;
+Power: 5
+Karma: 0
+Guard0: 161
+Guard1: 161
+Guard2: 161
+Guard3: 161
+
+/48
+Name: Cult of the Giant;
+Power: 5
+Karma: 0
+Guard0: 162
+Guard1: 162
+Guard2: 162
+Guard3: 162
+
+/49
+Name: Phoenix;
+Power: 2
+Karma: 0
+Guard0: 163
+Guard1: 163
+Guard2: 163
+Guard3: 163
+
+/50
+Name: Golems;
+Power: 3
+Karma: 0
+Guard0: 164
+Guard1: 164
+Guard2: 164
+Guard3: 164
+
+/51
+Name: Ancient Guards;
+Power: 5
+Karma: 0
+Guard0: 165
+Guard1: 166
+Guard2: 167
+Guard3: 168
+
+/52
+Name: Witcher;
+Power: 3
+Karma: 0
+Guard0: 169
+Guard1: 169
+Guard2: 169
+Guard3: 169
+
+/53
+Name: Wolves;
+Power: 1
+Karma: 0
+Guard0: 170
+Guard1: 171
+Guard2: 172
+Guard3: 173
+
+/54
+Name: Ironclads;
+Power: 3
+Karma: 1
+Guard0: 174
+Guard1: 174
+Guard2: 174
+Guard3: 174
+
+/55
+Name: Swamp Dwellers;
+Power: 5
+Karma: 0
+Guard0: 175
+Guard1: 176
+Guard2: 177
+Guard3: 178
+
+/56
+Name: Elements Incarnate;
+Power: 4
+Karma: 0
+Guard0: 179
+Guard1: 180
+Guard2: 181
+Guard3: 182
+
+/57
+Name: Death Servants;
+Power: 4
+Karma: -3
+Guard0: 183
+Guard1: 184
+Guard2: 185
+Guard3: 186
+
+/58
+Name: Dark Elves;
+Power: 3
+Karma: -1
+Guard0: 187
+Guard1: 188
+Guard2: 189
+Guard3: 190
+
+/59
+Name: Kobolds;
+Power: 3
+Karma: -1
+Guard0: 191
+Guard1: 191
+Guard2: 191
+Guard3: 191
+
+/60
+Name: Slavedrivers;
+Power: 2
+Karma: -1
+Guard0: 192
+Guard1: 193
+Guard2: 194
+Guard3: 195
+
+/61
+Name: Alvari Warriors;
+Power: 8
+Karma: -1
+Guard0: 196
+Guard1: 196
+Guard2: 196
+Guard3: 196
+
+/62
+Name: Alvari Mages;
+Power: 8
+Karma: -1
+Guard0: 197
+Guard1: 197
+Guard2: 197
+Guard3: 197
+
+/63
+Name: Gang of Robbers;
+Power: 3
+Karma: -1
+Guard0: 198
+Guard1: 199
+Guard2: 200
+Guard3: 201
+
+/64
+Name: Monastery Guards;
+Power: 7
+Karma: 2
+Guard0: 202
+Guard1: 202
+Guard2: 202
+Guard3: 202
+
+/65
+Name: Lord of the Dead;
+Power: 8
+Karma: -3
+Guard0: 203
+Guard1: 203
+Guard2: 203
+Guard3: 203
+
+/66
+Name: Avatar of Light;
+Power: 8
+Karma: 3
+Guard0: 204
+Guard1: 204
+Guard2: 204
+Guard3: 204
+
+/67
+Name: Elementals;
+Power: 8
+Karma: 0
+Guard0: 205
+Guard1: 205
+Guard2: 205
+Guard3: 205
+
+/68
+Name: Faerie Dragons;
+Power: 8
+Karma: 0
+Guard0: 206
+Guard1: 206
+Guard2: 206
+Guard3: 206
+
+/69
+Name: Lord of Phantoms;
+Power: 8
+Karma: 0
+Guard0: 207
+Guard1: 207
+Guard2: 207
+Guard3: 207
+
+/70
+Name: Lich;
+Power: 8
+Karma: -3
+Guard0: 208
+Guard1: 209
+Guard2: 210
+Guard3: 211
+
+/71
+Name: Lord of Chaos;
+Power: 8
+Karma: -3
+Guard0: 212
+Guard1: 212
+Guard2: 212
+Guard3: 212
+
+/72
+Name: Illithids;
+Power: 6
+Karma: -1
+Guard0: 213
+Guard1: 213
+Guard2: 213
+Guard3: 213
+
+/73
+Name: Monsters;
+Power: 6
+Karma: 0
+Guard0: 214
+Guard1: 215
+Guard2: 216
+Guard3: 217
+
+/74
+Name: Dwarven Artillery;
+Power: 9
+Karma: 0
+Guard0: 218
+Guard1: 219
+Guard2: 220
+Guard3: 221
+
+/75
+Name: Tarrasque;
+Power: 13
+Karma: 0
+Guard0: 222
+Guard1: 223
+Guard2: 224
+Guard3: 225
+
+/76
+Name: Magicians;
+Power: 8
+Karma: 0
+Guard0: 226
+Guard1: 227
+Guard2: 228
+Guard3: 229
+
+/77
+Name: Tomb Guardians;
+Power: 2
+Karma: -2
+Guard0: 230
+Guard1: 231
+Guard2: 232
+Guard3: 233
+
+/78
+Name: Gnolls;
+Power: 3
+Karma: -1
+Guard0: 234
+Guard1: 235
+Guard2: 236
+Guard3: 237
+
+/79
+Name: Skeletal Guardian;
+Power: 4
+Karma: -3
+Guard0: 238
+Guard1: 239
+Guard2: 240
+Guard3: 241
+
+/80
+Name: Izravius Sorcerers;
+Power: 10
+Karma: 0
+Guard0: 242
+Guard1: 242
+Guard2: 242
+Guard3: 242
+
+/81
+Name: Skeletal Pack;
+Power: 1
+Karma: -2
+Guard0: 243
+Guard1: 244
+Guard2: 245
+Guard3: 246
+
+/82
+Name: Border guards;
+Power: 3
+Karma: 2
+Guard0: 247
+Guard1: 248
+Guard2: 249
+Guard3: 250
+
+/83
+Name: Bears;
+Power: 2
+Karma: 0
+Guard0: 251
+Guard1: 252
+Guard2: 253
+Guard3: 254
+
+/84
+Name: Alkari;
+Power: 2
+Karma: 2
+Guard0: 255
+Guard1: 256
+Guard2: 257
+Guard3: 258
+
+/85
+Name: Vampires;
+Power: 2
+Karma: -3
+Guard0: 259
+Guard1: 260
+Guard2: 261
+Guard3: 262
+
+/86
+Name: Ghosts;
+Power: 2
+Karma: -3
+Guard0: 263
+Guard1: 264
+Guard2: 265
+Guard3: 266
+
+/87
+Name: Lycan;
+Power: 2
+Karma: -1
+Guard0: 267
+Guard1: 267
+Guard2: 267
+Guard3: 267
+
+/88
+Name: Black Unicorns;
+Power: 2
+Karma: 0
+Guard0: 268
+Guard1: 269
+Guard2: 270
+Guard3: 271
+
+/89
+Name: Cult of Power;
+Power: 5
+Karma: 0
+Guard0: 272
+Guard1: 272
+Guard2: 272
+Guard3: 272
+
+/90
+Name: Mercenaries;
+Power: 5
+Karma: 0
+Guard0: 273
+Guard1: 274
+Guard2: 275
+Guard3: 276
+
+/91
+Name: Fanatics;
+Power: 3
+Karma: 2
+Guard0: 277
+Guard1: 278
+Guard2: 279
+Guard3: 280
+
+/92
+Name: Cult of the Devil;
+Power: 5
+Karma: -3
+Guard0: 281
+Guard1: 281
+Guard2: 281
+Guard3: 281
+
+/93
+Name: Armada;
+Power: 3
+Karma: 0
+Guard0: 282
+Guard1: 283
+Guard2: 284
+Guard3: 285
+
+/94
+Name: Banshee;
+Power: 2
+Karma: -3
+Guard0: 286
+Guard1: 287
+Guard2: 288
+Guard3: 289
+
+/95
+Name: Siege Engineers;
+Power: 4
+Karma: 0
+Guard0: 290
+Guard1: 291
+Guard2: 292
+Guard3: 293
+
+/96
+Name: Cult of Fire;
+Power: 5
+Karma: 0
+Guard0: 294
+Guard1: 294
+Guard2: 294
+Guard3: 294
+
+/97
+Name: Cult of Water;
+Power: 5
+Karma: 0
+Guard0: 295
+Guard1: 295
+Guard2: 295
+Guard3: 295
+
+/98
+Name: Cult of Air;
+Power: 5
+Karma: 0
+Guard0: 296
+Guard1: 296
+Guard2: 296
+Guard3: 296
+
+/99
+Name: Cult of Earth;
+Power: 5
+Karma: 0
+Guard0: 297
+Guard1: 297
+Guard2: 297
+Guard3: 297
+
+/100
+Name: Drillers;
+Power: 3
+Karma: 0
+Guard0: 298
+Guard1: 299
+Guard2: 300
+Guard3: 301
+
+/101
+Name: Pack of Ratmen;
+Power: 3
+Karma: 0
+Guard0: 302
+Guard1: 303
+Guard2: 304
+Guard3: 305
+
+/102
+Name: Skirr Clan;
+Power: 3
+Karma: 0
+Guard0: 306
+Guard1: 307
+Guard2: 308
+Guard3: 309
+
+/103
+Name: Seekers Clan;
+Power: 3
+Karma: -1
+Guard0: 310
+Guard1: 311
+Guard2: 312
+Guard3: 313
+
+/104
+Name: Rat breeders;
+Power: 3
+Karma: 0
+Guard0: 314
+Guard1: 315
+Guard2: 316
+Guard3: 317
+
+/105
+Name: Rat King;
+Power: 5
+Karma: 0
+Guard0: 318
+Guard1: 318
+Guard2: 318
+Guard3: 318
+
+/106
+Name: Grand Ratt;
+Power: 7
+Karma: 0
+Guard0: 319
+Guard1: 319
+Guard2: 319
+Guard3: 319
+
+/107
+Name: Goblins;
+Power: 2
+Karma: -1
+Guard0: 320
+Guard1: 321
+Guard2: 322
+Guard3: 323
+
+/108
+Name: Orcs;
+Power: 2
+Karma: -1
+Guard0: 324
+Guard1: 325
+Guard2: 326
+Guard3: 327
+
+/109
+Name: Halflings;
+Power: 2
+Karma: 2
+Guard0: 328
+Guard1: 329
+Guard2: 330
+Guard3: 331
+
+/110
+Name: Elves;
+Power: 2
+Karma: 3
+Guard0: 332
+Guard1: 333
+Guard2: 334
+Guard3: 335
+
+/111
+Name: Dwarves;
+Power: 2
+Karma: 2
+Guard0: 336
+Guard1: 337
+Guard2: 338
+Guard3: 339
+
+/112
+Name: Centaurs;
+Power: 2
+Karma: 1
+Guard0: 340
+Guard1: 341
+Guard2: 342
+Guard3: 343
+
+/113
+Name: Lizardmen;
+Power: 2
+Karma: 0
+Guard0: 344
+Guard1: 345
+Guard2: 346
+Guard3: 347
+
+/114
+Name: Dark Elves;
+Power: 2
+Karma: -2
+Guard0: 348
+Guard1: 349
+Guard2: 350
+Guard3: 351
+
+/115
+Name: Gnolls;
+Power: 2
+Karma: -1
+Guard0: 352
+Guard1: 353
+Guard2: 354
+Guard3: 355
+
+/116
+Name: Alkari;
+Power: 2
+Karma: 2
+Guard0: 356
+Guard1: 357
+Guard2: 358
+Guard3: 359
+
+/117
+Name: Ratmen;
+Power: 2
+Karma: 0
+Guard0: 360
+Guard1: 361
+Guard2: 362
+Guard3: 363
+
+/118
+Name: Pack of Rats;
+Power: 2
+Karma: 0
+Guard0: 364
+Guard1: 365
+Guard2: 366
+Guard3: 367
+
+/119
+Name: Lycans;
+Power: 2
+Karma: -2
+Guard0: 368
+Guard1: 369
+Guard2: 370
+Guard3: 371
+
+/120
+Name: Dark Conclave;
+Power: 10
+Karma: -2
+Guard0: 372
+Guard1: 372
+Guard2: 372
+Guard3: 372
+
+/121
+Name: Great Armada;
+Power: 11
+Karma: 0
+Guard0: 373
+Guard1: 373
+Guard2: 373
+Guard3: 373
+
+/122
+Name: Order of Light;
+Power: 11
+Karma: 2
+Guard0: 374
+Guard1: 374
+Guard2: 374
+Guard3: 374
+
+/123
+Name: Ogres;
+Power: 1
+Karma: -2
+Guard0: 375
+Guard1: 376
+Guard2: 377
+Guard3: 378
+
+/124
+Name: Cyclops;
+Power: 2
+Karma: -2
+Guard0: 379
+Guard1: 380
+Guard2: 381
+Guard3: 382
+
+/125
+Name: Witch Circle;
+Power: 4
+Karma: -2
+Guard0: 383
+Guard1: 384
+Guard2: 385
+Guard3: 386
+
+/126
+Name: Cult of Necrus;
+Power: 12
+Karma: -3
+Guard0: 387
+Guard1: 387
+Guard2: 387
+Guard3: 387
+
+/127
+Name: Hell Cohort;
+Power: 2
+Karma: -3
+Guard0: 388
+Guard1: 389
+Guard2: 390
+Guard3: 391
+
+/128
+Name: Spider Cult;
+Power: 12
+Karma: -1
+Guard0: 392
+Guard1: 392
+Guard2: 392
+Guard3: 392
+
+/129
+Name: Horde of Shamans;
+Power: 1
+Karma: -1
+Guard0: 393
+Guard1: 394
+Guard2: 395
+Guard3: 396
+
+/130
+Name: Great Cyclops;
+Power: 3
+Karma: -2
+Guard0: 397
+Guard1: 398
+Guard2: 399
+Guard3: 400
+
+/131
+Name: Monster Breeders;
+Power: 2
+Karma: -1
+Guard0: 401
+Guard1: 402
+Guard2: 403
+Guard3: 404
+
+/132
+Name: Grey Council;
+Power: 11
+Karma: -1
+Guard0: 405
+Guard1: 405
+Guard2: 405
+Guard3: 405
+
+/133
+Name: Chaos Legion;
+Power: 5
+Karma: -4
+Guard0: 406
+Guard1: 407
+Guard2: 408
+Guard3: 409
+
+/134
+Name: Monster Catchers;
+Power: 2
+Karma: 0
+Guard0: 410
+Guard1: 411
+Guard2: 412
+Guard3: 413
+
+/135
+Name: Guards of Ages;
+Power: 12
+Karma: 2
+Guard0: 414
+Guard1: 414
+Guard2: 414
+Guard3: 414
+
+/136
+Name: Rock Guards;
+Power: 12
+Karma: -2
+Guard0: 415
+Guard1: 415
+Guard2: 415
+Guard3: 415
+
+/137
+Name: Guards of Secrets;
+Power: 12
+Karma: 0
+Guard0: 416
+Guard1: 416
+Guard2: 416
+Guard3: 416
+
+/138
+Name: Monstrologists;
+Power: 4
+Karma: 0
+Guard0: 417
+Guard1: 418
+Guard2: 419
+Guard3: 420
+
+/139
+Name: Runemasters;
+Power: 5
+Karma: 2
+Guard0: 421
+Guard1: 422
+Guard2: 423
+Guard3: 424
+
+/140
+Name: White Mage;
+Power: 7
+Karma: 3
+Guard0: 425
+Guard1: 425
+Guard2: 425
+Guard3: 425
+
+/141
+Name: Ratmen;
+Power: 2
+Karma: 0
+Guard0: 426
+Guard1: 427
+Guard2: 428
+Guard3: 429
+
+/142
+Name: Astral Spy;
+Power: 0
+Karma: 0
+Guard0: 430
+Guard1: 430
+Guard2: 430
+Guard3: 430
+
+/143
+Name: Dark Skeletons;
+Power: 2
+Karma: -3
+Guard0: 431
+Guard1: 432
+Guard2: 433
+Guard3: 434
+
+/144
+Name: Swamp Guards;
+Power: 1
+Karma: 0
+Guard0: 435
+Guard1: 436
+Guard2: 437
+Guard3: 438
+
+/145
+Name: Spellcasters;
+Power: 2
+Karma: -1
+Guard0: 439
+Guard1: 440
+Guard2: 441
+Guard3: 442
+
+/146
+Name: Dark Priestesses;
+Power: 2
+Karma: -1
+Guard0: 443
+Guard1: 444
+Guard2: 445
+Guard3: 446
+
+/147
+Name: Sabbath;
+Power: 1
+Karma: -2
+Guard0: 447
+Guard1: 448
+Guard2: 449
+Guard3: 450
+
+/148
+Name: Thicket Guards;
+Power: 10
+Karma: 2
+Guard0: 451
+Guard1: 451
+Guard2: 451
+Guard3: 451
+
+/149
+Name: Dwarven Clan;
+Power: 2
+Karma: 1
+Guard0: 452
+Guard1: 453
+Guard2: 454
+Guard3: 455
+
+/150
+Name: Rebels;
+Power: 1
+Karma: -1
+Guard0: 456
+Guard1: 457
+Guard2: 458
+Guard3: 459
+
+/151
+Name: Phantoms;
+Power: 3
+Karma: 0
+Guard0: 460
+Guard1: 460
+Guard2: 460
+Guard3: 460
+
+/152
+Name: Witcher;
+Power: 1
+Karma: 0
+Guard0: 461
+Guard1: 461
+Guard2: 461
+Guard3: 461
+
+/153
+Name: Weak Demons;
+Power: 1
+Karma: -2
+Guard0: 462
+Guard1: 462
+Guard2: 462
+Guard3: 462
+
+/154
+Name: Spawn;
+Power: 3
+Karma: 0
+Guard0: 463
+Guard1: 464
+Guard2: 465
+Guard3: 466
+
+/155
+Name: Feeble Undead;
+Power: 0
+Karma: -2
+Guard0: 467
+Guard1: 467
+Guard2: 467
+Guard3: 467
+
+/156
+Name: Warlock;
+Power: 3
+Karma: -3
+Guard0: 468
+Guard1: 469
+Guard2: 470
+Guard3: 471
+
+/157
+Name: Dragon;
+Power: 8
+Karma: 0
+Guard0: 472
+Guard1: 472
+Guard2: 472
+Guard3: 472
+
+/158
+Name: Dragons;
+Power: 8
+Karma: 0
+Guard0: 473
+Guard1: 474
+Guard2: 475
+Guard3: 476
+
+/159
+Name: Goblins Thieves;
+Power: 2
+Karma: -1
+Guard0: 477
+Guard1: 477
+Guard2: 477
+Guard3: 477
+
+/160
+Name: Dungeon dwellers;
+Power: 2
+Karma: -1
+Guard0: 478
+Guard1: 479
+Guard2: 480
+Guard3: 481

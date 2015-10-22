@@ -1,0 +1,19 @@
+Quantity: 5
+
+/0
+Name: Empty;
+
+/1
+Name: Mortal;
+
+/2
+Name: Undead;
+
+/3
+Name: Demon;
+
+/4
+Name: Mechanical;
+
+/5
+Name: Hero;

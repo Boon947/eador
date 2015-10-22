@@ -1,0 +1,281 @@
+/Уль-Даган
+/0 Первая встреча
+Index: 1;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Oh, I see I have another opponent. I am Ul-Dagan of the Ancients. And so ends the official part of the greeting. I can only add that you shouldn't count too much on your victory, %s. I need this Shard, and I'm not going to let you have it.#
+
+/1 Не первая встреча (Плохие отношения)
+Index: 2;
+Min: -5000;
+Max: -100;
+Name: 0;
+Param: 0;
+Text: #Damn! You're the last one I wished to see here!#
+
+/2 Не первая встреча (Нейтрален)
+Index: 2;
+Min: -99;
+Max: 99;
+Name: 1;
+Param: 0;
+Text: #%s? All right, one opponent less, one opponent more, doesn't make any difference.#
+
+/3 Не первая встреча (Хорошие отношения)
+Index: 2;
+Min: 100;
+Max: 5000;
+Name: 1;
+Param: 0;
+Text: #And you're here too, %s? Well, that's not so bad. It means there are interesting battles ahead of us.#
+
+/4 Сразу война
+Index: 3;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #There are two of us, and there is only one Shard. I hope you understand this means war?#
+
+/5 Объявление войны
+Index: 4;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #It's time for war! Ready or not, it doesn't matter. Soon your pathetic armies will be destroyed and your name will be forever forgotten.#
+
+/6 Предложение мира
+Index: 5;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #It's time we thought of making peace, %s. While we're at war, others are building up their armies. Think about it.#
+
+/7 Предложение союза
+Index: 6;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I've decided to offer you an alliance, %s. Make up your mind - are you with me or against me?#
+
+/8 Предложение торговли 
+Index: 7;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I have a business offer for you, %s - let us commence trading.#
+
+/9 Предложение обмена
+Index: 8;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I'm offering you high quality goods for a knockout price. What do you say, %s?#
+
+/10 Пересмотр торговли
+Index: 9;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Our Trade Agreement is out of date, so the time has come to revise it.#
+
+/11 Отмена торговли
+Index: 10;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #This trade agreement with you has only caused me more losses. I'm terminating it.#
+
+/12 Отмена союза
+Index: 11;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #You're good for nothing as an ally, %s. You're more harmful than useful. I'm breaking our alliance.#
+
+/13 Требование выкупа
+Index: 12;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I'm going to destroy you, %s, but I decided to give you one more chance. Pay me, and you may continue to exist.#
+
+/14 Дар
+Index: 13;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I'm giving you this gift, %s. Remember my kindness.#
+
+/15 Отказ (Грубый)
+Index: 14;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: -1;
+Text: #How dare you offer me such a thing?! I refuse!#
+
+/16 Отказ (Обычный)
+Index: 14;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #No, that won't work.#
+
+/17 Отказ (Вежливый)
+Index: 14;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 1;
+Text: #Doesn't sound too bad, %s. But I don't agree.#
+
+/18 Соглашение (Недовольное)
+Index: 15;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: -1;
+Text: #I agree, but you'll be sorry that you made me accept such a humiliating offer.#
+
+/19 Соглашение (Нейтральное)
+Index: 15;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #I agree. But if this is some kind of trick, you'll pay dearly for your deception.#
+
+/20 Соглашение (Довольное)
+Index: 15;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 1;
+Text: #You are good at making offers that are hard to refuse. I agree.#
+
+/21 Отказ от общения (1х1)
+Index: 19;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Idle talk brings nothing. War will decide which of us has the right to possess this Shard.#
+
+/22 Отказ от переговоров
+Index: 23;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I don't want to listen to your jabber, %s. Fight in silence!#
+
+/23 Союзник, жребий или война
+Index: 20;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Well, our enemies have fallen to our might, so let's decide who will possess this Shard. There are only two options - either we fight or draw lots.#
+
+/24 Союзник, сдаться или война
+Index: 21;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Well, I've defeated our enemies. Sometimes you helped me, but it was with my efforts that the victory was achieved. That's why only I have the right to possess this Shard. If you don't agree, try and beat me.#
+
+/25 Союзник, сдача
+Index: 22;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Well, the enemies have fallen to our might. I'm giving you this Shard, %s. Remember my generosity.#
+
+/26 Отказ от подарка
+Index: 24;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #How dare you insult me with such a wretched offering, %s? You may keep this piece of rubbish!#
+
+/27 Принимаем дары
+Index: 25;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #This is really not a bad gift, %s. I'm touched.#
+
+/28 Отказ от союза с предателем
+Index: 16;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #You're stupid, %s, if you hoped I would buy that. Your betrayal lies on you as a brand of eternal disgrace. Only an idiot would agree to ally with you.#
+
+/29 Отказ от мира с предателем
+Index: 17;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Pathetic traitor, are you crying for mercy now? Oh no, I'm not going to deprive myself of the pleasure of destroying you with my own hands.#
+
+/30 Первая встреча, кампания
+Index: 26;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #%s? What are you doing here? Actually, that's quite obvious - you're trying to take the new Shard, just like everyone else. Well, nothing ventured, nothing gained. But don't let your hopes of winning get too high.#
+
+/31 Ответ на объявление войны
+Index: 27;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Damn! How dare you interfere with my plans, %s?! All right, I'm going to take care of you first. Everything else can wait.#
+
+/32 Отказ в мире союзнику
+Index: 28;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Don't do anything stupid, %s! Every enemy must be destroyed, and %s is not an exception. No peace!#
+
+/33 Ответ на предательство
+Index: 29;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #You have betrayed me! Now I'm going to destroy you! You will curse the day you decided to become a Master!#
+
+/34 Война, остались 1х1
+Index: 30;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #There are two of us, and there is only one Shard. I hope you understand this means war?#
+&&&&&&

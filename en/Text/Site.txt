@@ -1,0 +1,447 @@
+0. Empty
+#No description#
+
+1. Iron Deposit
+#If you defeat the guards, your workers will be able to mine iron here.#
+
+2. Red Oakwood
+#If you defeat the guards, your workers will be able to harvest redwood here.#
+
+3. Horse Herd
+#If you defeat the guards, your workers will be able to breed horses here.#
+
+4. Mandrake Glade
+#If you defeat the guards, your workers will be able to collect mandrake here.#
+
+5. Shimmering Bogs
+#If you defeat the guards, your workers will be able to produce arcanite here.#
+
+6. Marble Deposit
+#If you defeat the guards, your workers will be able to quarry marble here.#
+
+7. Mithril Deposit
+#If you defeat the guards, your workers will be able to mine mithril here.#
+
+8. Dionite Thicket
+#If you defeat the guards, your workers will be able to produce dionium here.#
+
+9. Black Lotus Marsh
+#If you defeat the guards, your workers will be able to collect black lotus flowers here.#
+
+10. Ancient Crypt
+#Ancient tombs often contain valuable treasures.#
+
+11. Ancient Ruins
+#This used to be a city of the Ancients. Who knows - perhaps, the ruins are still guarding the secrets of their former dwellers?#
+
+12. Tower Ruins
+#Prisoners were usually locked up in the dungeons beneath such towers. Sometimes, the spoils of war were stored there as well.#
+
+13. Abandoned Farm
+#If you capture this old farm, it is well able to increase the province income by 1.#
+
+14. Old Windmill
+#If you capture this old windmill, it is well able to increase the province income by 2.#
+
+15. Silver Mine
+#If you defeat the guards and start mining silver, it will increase the province income by 3.#
+
+16. Gold Vein
+#If you defeat the guards and start mining gold, it will increase the province income by 5.#
+
+17. Gemstones
+#If you defeat the guards and start gem extraction, it will increase the province income by 8 and the gem income by 1.#
+
+18. Abandoned Temple
+#This temple has long been abandoned. Something valuable surely must have been left behind by its former keepers.#
+
+19. Mages Tower
+#Mages have cloistered themselves inside to perform their secret rituals and experiments.#
+
+20. Primeval Thicket
+#Few dare venture in here. Who knows what sorts of secrets this forest may be keeping...#
+
+21. Dark Cave
+#Something glitters in the darkness of the cave. It could be gemstones. Or, more likely, some creatures' hungry eyes.#
+
+22. Monolith
+#If you defeat the guards, this monolith will create 2 gems per turn for you.#
+
+23. Lair of Bandits
+#Decreases province income. The brigands who dwell in here may carry out plundering raids.#
+
+24. Gates of Chaos
+#Decreases population growth. A host of demons might emerge from these gates and attack the province.#
+
+25. Dragon's Lair
+#Legends tell us about the countless treasures the dragons hoard. Few people ever dared to try and seize them, though.#
+
+26. Altar of Death
+#Decreases population growth. Spreads diseases. The undead, animated by local necromancers, might try to conquer the province.#
+
+27. Temple of Light
+#Temple of those who serve the Lord of Light. Its priests are skilled healers and famous fighters against evil.#
+
+28. Empty
+#No description#
+
+29. Empty
+#No description#
+
+30. Empty
+#No description#
+
+31. Empty
+#No description#
+
+32. Tanner Store
+#You can buy some leather armor or a quality belt in this shop.#
+
+33. Weapon Store
+#You can buy a weapon or a shield in this shop.#
+
+34. Archery Store
+#You can purchase a bow or a crossbow, or a spare quiver of arrows in this shop.#
+
+35. Sorcery Store
+#You can buy a magical wand or a sphere in this shop. The owner creates gargoyles for sale as well.#
+
+36. Chainmail Armory
+#You can buy chainmail armor in this shop.#
+
+37. Plate Armory
+#You can buy heavy armor in this shop.#
+
+38. Tailor Store
+#You can buy all sorts of clothes in this shop.#
+
+39. Jewelry Store
+#You can buy rings, bracelets and amulets in this shop.#
+
+40. Knowledge Store
+#You can purchase spell scrolls in this shop.#
+
+41. Arena
+#The heroes can participate in tournaments and bet on combatants on the arena.#
+
+42. Labyrinth
+#A mysterious, ancient structure. Great treasures - and great dangers - are concealed within its walls. Even if you are lucky enough to pass by the guards unnoticed, it's easy enough to get lost in the labyrinth.#
+
+43. Fairy Tree
+#Fairies and other forest dwellers live in the branches of this magic tree. Word has it that the tree has a secret hollow where the fairies hide their treasures.#
+
+44. Harpy Nests
+#Harpies have long inhabited these cliffs. These winged rogues often raid the neighboring settlements, bringing their loot back here.#
+
+45. Troll Lair
+#Trolls lurk in this reeking cave. Who knows when they feel like getting out and treating themselves to fresh human meat?#
+
+46. Ambush
+#No description#
+
+47. Still Waters
+#No description#
+
+48. Crystal
+#An enormous magical crystal that connects the Astral plane with the Material plane. According to an ancient legend, here the astral spirits can give quests to mortal heroes.#
+
+49. Sanctuary
+#This ancient sanctuary used to be a place of worship of some long-forgotten gods. If you defeat the guards, the local population will be able to come here to pray or call to the gods for help.#
+
+50. Thieves Guild
+#Thieves and hustlers of all sorts gather here to discuss their dark deeds.
+Decreases province income, increases corruption and crime rate.#
+
+51. Thieves Guild
+#By agreement, you permit thieves to gather in here.
+Income +5. Population mood -1.
+Increases corruption and crime rate.#
+
+52. Witch's Hut
+#A vile witch feared and hated by the local population lives in this hut. The old crone pays you a fair tribute in gems.
+Gem income +2. Population mood -1.#
+
+53. Adventurers
+#No description#
+
+54. Unicorn
+#No description#
+
+55. Monastery
+#No description#
+
+56. Trolls
+#No description#
+
+57. Halfling Farm
+#Farmstead dwellers pay you a fair tribute of 3 gold per turn.#
+
+58. Halfling Farm
+#Trading with the farmers grants you +1 gold per turn.#
+
+59. Enchanted Pool
+#The pool's marshy banks are speckled with magic gems.#
+
+60. Merchant of Rarities
+#No description#
+
+61. Secret Hollow
+#No description#
+
+62. Fertile Valley
+#No description#
+
+63. Picturesque Valley
+#No description#
+
+64. Ancient Cache
+#Old catacombs still guard the treasures of their former keepers. Few people ever dare challenge the guards to try to seize them.#
+
+65. Spider Lair
+#No description#
+
+66. Witcher's Fortress
+#Well guarded witcher's monastery, you can hire Withers here. Locals are afraid of the witchers - not without reason, because to recruit Witcher they need their children.
+Population growth -1. Population mood -1.#
+
+67. War School
+#Swordmasters are trained here - elite heavy infantry. They are always ready to fight.#
+
+68. Gates of Abyss
+#You can hire an army of demons here. In addition, the power of Chaos are presented in this world through the Gate - it is good source of gems.
+However, demons - they are demons, and their detachment may well attack the province. In addition, the presence of the Gate has a bad effect on the people.
+Yields 5 gems per turn. Population growth -1.#
+
+69. Elven Citadel
+#You can hire an elven army here.#
+
+70. Dwarven Citadel
+#You can hire an dwarven army here.#
+
+71. Orcish Citadel
+#You can hire an orcish army here.#
+
+72. Lizardmen Citadel
+#You can hire an lizardmen army here.#
+
+73. Centaur Citadel
+#You can hire an centaur army here.#
+
+74. Goblin Citadel
+#You can hire an goblin army here.#
+
+75. Halfling Citadel
+#You can hire an halfling army here.#
+
+76. Inquisition Cloister
+#Stronghold and temple of the Inquisition. Certainly well guarded.
+The locals are not too happy about such neighbors - there is not much difference between a witch and a simple peasant for the inquisitors.
+Population mood -1.#
+
+77. Casino
+#In this gaming establishment you may win money or gems. However, you can blow up all your money acquired through the hard work. And there is a currency exchange - gems for money (and vice versa). Income +5. Gem income +1.#
+
+78. Gambling House
+#In this gaming establishment you can win valuable items, putting gold with crystals into game. Income +10. Gem income +2.#
+
+79. Alvari Citadel
+#You can hire an army of dark elves here.#
+
+80. Dark Elven Citadel
+#You can hire an army of dark elves here.#
+
+81. Old Mine
+#This place is considered as home of Kobolds and they will defend it to the end.#
+
+82. Bandit's Hideout
+#A secret place where bandits are hiding. Perhaps there is something of value.#
+
+83. Burial Vault
+#The great evil lives here - a great danger to all living things.#
+
+84. Temple of Light
+#A beatiful building protected by the Messenger of Light, there is likely good artifacts somewhere inside.#
+
+85. Elemental Junction
+#The ruins of old buildings, nobody has ever searched it so all valuables are likely untouched.#
+
+86. Dragon Altar
+#Mysterious astral creatures live here. Beautiful and dangerous.#
+
+87. Mystical Tower
+#A mighty and eccentric magician lives here. There are the most incredible rumors about his power.#
+
+88. Black Castle
+#The ancient evil lingering here guards a valuable treasure. Claiming this hoard will not be easy.#
+
+89. Chaos Stronghold
+#The mighty stronghold of demons, to destroy that will not be easy.#
+
+90. Behemoth's Lair
+#Monsters that live here are not happy with your invasion. The battle will be hard. The contents of the treasury would be quite usefull for your scout heroes.#
+
+91. Dwarven Stronghold
+#Powerful dwarven artillery certainly protects the large treasure. The contents of the treasury would be quite handy for your commander heroes.#
+
+92. Beast Lair
+#One of the most powerful creatures dwells here, and it will take great effort and a large army to defeat it. The lair's hoard might prove quite useful to your hero.#
+
+93. Conclave
+#Wizards have chosen this place as the home and the study place. They won't surrender without fight. The contents of the treasury would be quite usefull for a wizard heroes.#
+
+94. Gnoll Citadel
+#You can hire an army of gnolls here.#
+
+95. Ancient Ruins
+#This used to be a city of the Ancients. Who knows - perhaps, the ruins are still guarding the secrets of their former dwellers?#
+
+96. Alkari Citadel
+#You can hire an Alkari army here.#
+
+97. Old Mansion
+#This is an old and luxurious mansion that certainly contain something of value, the remnants of its last living masters.#
+
+98. Werewolf Lair
+#A ghastly beast that attacks all living things lives here. Maybe he really is not that scary?#
+
+99. Dark Hollow
+#Inhospitable dark hollow that all other forest dwellers give a wide berth and will surely have something unusual in store.#
+
+100. Ancient Ruins
+#This used to be a city of the Ancients. Who knows - perhaps, the ruins are still guarding the secrets of their former dwellers?#
+
+101. Tower Ruins
+#Prisoners were usually locked up in the dungeons beneath such towers. Sometimes, the spoils of war were stored there as well.#
+
+102. Monolith
+#If you defeat the guards, this monolith will create 2 gems per turn for you.#
+
+103. Sanctuary
+#This ancient sanctuary used to be a place of worship of some long-forgotten gods. If you defeat the guards, the local population will be able to come here to pray or call to the gods for help.#
+
+104. Abandoned Temple
+#This temple has long been abandoned. Something valuable surely must have been left behind by its former keepers.#
+
+105. Mercenary Guild
+#In this well-fortified stronghold warriors live and rest that do not currently serve in the armies of one of the Masters.#
+
+106. Underground Cave
+#Among the stores of local inhabitants something of value can be found.#
+
+107. Catacombs
+#In these twisting tunnels certainly there are treasures from ancient times to be found.#
+
+108. Old Sewers
+#A waterlogged and muddy maze of dark, dirt and stink.#
+
+109. Ratman Burrow
+#Burrow inhabited by Ratmen. Now that they are on their own, you can try to subdue them.#
+
+110. Ratman Town
+#Hidden amidst cobwebbed dungeons the Ratman have lived in this town for a long time. Real treasures can be found here, but will the current owners give them up so easily?#
+
+111. Sewerage
+#A tunnel system for wastewater. It may not be as uninhabited as you would like.#
+
+112. Catacombs
+#In these twisting tunnels certainly there are treasures from ancient times to be found.#
+
+113. Driller Workshop
+#Ratman building, erected with your permission. Here you can recruit Ratman-drillers.
+Unfortunately the Ratmen go way beyond the budget you permitted, and all the necessary materials and supplies are stolen from the locals.
+Reduce province gem income by 50~. Population mood -2.#
+
+114. Temple of the Seekers
+#Ratman building, erected with your permission. Here you can recruit Warriors of Decay.
+Unfortunately the Ratmen go way beyond the budget you permitted, and all the necessary materials and supplies are stolen from the locals.
+Reduce province gem income by 50~. Population mood -2.#
+
+115. Tower of Darkness
+#An old refuge of the Conclave, this tower now inspires fear - it is inhabited by mighty wizards who have chosen the path of darkness.#
+
+116. Daokon's Citadel
+#One of the many fortresses of the Great Empire, owned by Lord Daokon. It still holds the treasures of that ancient realm.#
+
+117. Order Citadel
+#Stronghold of the Order of Paladins, their residence, temple, training ground and the treasury of the Order.#
+
+118. Dark Cave
+#Something glitters in the darkness of the cave. It could be gemstones. Or, more likely, some creatures' hungry eyes.#
+
+119. Slave Market
+#By agreement, the inhabitants of the province are sold into slavery, for which you regularly pay a specified sum.
+Income +8.
+Population mood -2.
+Decreases population growth.#
+
+120. Old Fortress
+#Long-abandoned by its masters, the secrets they left behind are still there be found. As are its present inhabitants.#
+
+121. Lookout Tower
+#It's a solid, sturdy and well-guarded tower. Useful things could definitely be found there.#
+
+122. Cursed Temple
+#Ancient and half-ruined temple, cursed by gods and humans alike - not a place where treasure can easily be obtained. But it will be there, waiting for the brave.#
+
+123. Altar of Chaos
+#A place where once upon a time sacrifices were made, the Altar of Chaos is now heavily guarded, for there are valuable things to be found.
+Population growth -1.#
+
+124. Alvari Town
+#This is the place the  dark elves call home. The Alvari will not allow anyone to plunder their home and they're ever vigilant and ready to defend it.#
+
+125. Idol
+#Some deity is worshiped here, and not the benevolent kind - regular sacrifices can be observed, from a safe distance of course.
+Population growth -1.#
+
+126. Inquisition Troop
+#No description#
+
+127. Great Gate
+#Greatly decreases population growth. A host of demons might emerge from these gates and attack the province.#
+
+128. Ancient Thicket
+#This part of the forest is as old as Eador itself, and about it all kinds of stories are being told. But they all end badly for those who dare to enter.#
+
+129. Ziggurat
+#Gathering pace of the ferocious Gnolls. Who knows what may be found here, rummaging around in the catacombs under the temples.#
+
+130. Mages Tower
+#Mages have cloistered themselves inside to perform their secret rituals and experiments. They kidnapped some Elfmaids.#
+
+131. Lair of Bandits
+#Decreases province income. The brigands who dwell in here may carry out plundering raids. They stole some Dwarven relics.#
+
+132. Bandit Hoard
+#The rabble that lives here does not give too much trouble. At least not yet...#
+
+133. Destroyed Settlement
+#No description#
+
+134. Abandoned Temple
+#This temple has long been abandoned, and has now turned into a demons lair.#
+
+135. Ancient Ruins
+#This was once a lively town, but it is now occupied by demonologists and their summoned creatures of Chaos.#
+
+136. Gates of Chaos
+#Decreases population growth. A host of demons might emerge from these gates and attack the province.#
+
+137. Breeding Ground
+#In this place Dark Druids openly breed every creature imaginable. In order to appease you, they regularly pay taxes to the treasury. Are such neighbors perhaps too dangerous?
+Income +4. Yields 1 gem per turn.
+Population mood -1.
+Decreases population growth.#
+
+138. Hydra Lair
+#The Hydra that recently settled here has caused a lot of suffering among the province's population.#
+
+139. Gloomy Village
+#No description#
+
+140. Ancient Crypt
+#The powerful warlock that lives here considers all the surrounding land his own and terrorizes the local population. The people live in fear and pay their dues.
+Population mood -1.#
+
+141. Ancient Crypt
+#Goblins that were robbed by the Alvari are hiding in this crypt. Beholder eggs are likely to be found here.#

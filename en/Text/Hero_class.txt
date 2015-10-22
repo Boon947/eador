@@ -1,0 +1,107 @@
+/1 Warrior
+#Warriors shine when it comes to trading blows. They have the strongest health of all heroes, and are able to wield the heaviest armor and weapons.#
+
+/2 Scout
+#Scouts are professional marksmen. They can use all kinds of ranged weapons, but can only use light armor and cannot employ shields. Scouts have the greatest selection of various non-combat skills.#
+
+/3 Commander
+#Commanders can lead large armies, and their skills are focused on improving the abilities of their soldiers. Commanders can use medium armor and shields.#
+
+/4 Wizard
+#Wizards possess the greatest amount of spells. Their skills are focused on enhancing the power of their incantations. They can use wands, but no armor, shields or melee weapons.#
+
+/5 Holy Knight
+#At the end of the Warrior path the hero becomes a Holy Knight, able to crush the forces of the dark with his strikes. A Holy Knight knows how to heal his own wounds.#
+
+/6 Assassin
+#A Warrior who has mastered scouting skills becomes an Assassin, able to poison his weapons with deadly venom and strike his enemy's most vulnerable spots.#
+
+/7 Chieftain
+#A warrior who has learned the skill of command becomes a Chieftain, able to fall into a battle rage, becoming immune to wounds and gaining attack strength. The party of a Warrior Chieftain requires less upkeep and quickly gains combat experience.#
+
+/8 Dark Knight
+#A Warrior who has mastered the basics of dark magic becomes a Dark Knight, able to drink the souls of the enemies he defeats and inflict more damage to good creatures. A Dark Knight receives an additional slot for a Circle II spell.#
+
+/9 Adventurer
+#A Scout who has mastered the art of combat becomes an Adventurer, able to instantly change weapons in battle and obtain better rewards while searching locations and performing quests. An Adventurer is able to cripple enemies with their shots.#
+
+/10 Archer
+#Once the path of the Scout is completed, the hero becomes an Archer, able to take two shots per turn.#
+
+/11 Ringleader
+#A Scout who has mastered command skills becomes a Ringleader, able to loot more trophies after battles and to receive more riches while plundering. The troops under the Ringleader possess increased Mobility.#
+
+/12 Ranger
+#A Scout who has mastered the secrets of conjuring becomes a Ranger, able to explore provinces faster and sabotage enemies more efficiently. A Ranger can enchant his arrows to deliver additional damage.#
+
+/13 Warlord
+#A Commander who has mastered the art of fighting becomes a Warlord, able to efficiently increase the defense of his units. A Commander's troops slowly regenerate their health during battles.#
+
+/14 Tactician
+#A Commander who has mastered scouting skills becomes a Tactician, able to increase the ranged attack of his units.#
+
+/15 General
+#Once the path of the Commander is completed, the hero becomes a General, able to increase the attack of his units.#
+
+/16 Priest
+#A Commander who has mastered the secrets of magic becomes a Priest, able to increase the morale and resistance of his units.#
+
+/17 Battlemage
+#A Wizard who has mastered the art of fighting becomes a Battlemage, gaining higher resistance to hostile magic and the ability to better overcome enemy resistance. A Battlemage can use magic wands more effectively.#
+
+/18 Druid
+#A Wizard learning the secrets of scouting becomes a Druid, able to prolong his spells, while saving gems and protecting his army from poison. An enemy attacked by a Druid in melee combat will become entangled.#
+
+/19 Necromancer
+#A Wizard who has mastered the basics of command becomes a Necromancer able to raise more powerful undead. The undead that stay with the Necromancer's army are stronger than the skill usually allows.#
+
+/20 Mage
+#Having completed the path of the Wizard, the hero becomes a Mage, gaining an increase to the power of his spells. The mage is able two cast two simple spells or one complex spell each turn.#
+
+/21 Paladin
+#After perfecting his mastery of the path of the Holy Knight, the hero becomes a Paladin, the terror of dark forces and a master of healing wounds. A Paladin's combat prowess allows him to always strike first.#
+
+/22 Master Assassin
+#Having mastered the path of the Assassin, the hero becomes a Master Assassin, a superior maker of poisons and a peerless master of the blade able to dodge an opponent's counterattack.#
+
+/23 Great Chieftain
+#Reaching the maximum skill on the path of the Chieftain, the hero becomes a Great Chieftain, with a military power and fury that does not have its equal, and a skilled commander to his soldiers.#
+
+/24 Death Knight
+#Having mastered the path of the Dark Knight, the hero becomes a Death Knight, able to completely consume the souls of slain creatures and inflict devastating damage to good creatures. A Death Knight gets additional slots for a Circle II and III spell.#
+
+/25 Cutthroat
+#Having attained mastery on the path of the Adventurer, the hero becomes a Cutthroat, able to perform sudden attacks, move with blazing speed and find twice as much gold and gems when exploring. He is able to replenish his ammunition on the battlefield.#
+
+/26 Sniper
+#Having reached the apex of the Archer mastery, the hero becomes a Sniper, able to perform a Double Shot without spending any additional energy.#
+
+/27 Gang Leader
+#Once the hero achieves perfection as a Ringleader, he becomes a Gang Leader, able to reap enormous rewards from trophies and plunder. A Gang Leader moves with incredible speed on the map. Units under his command can move faster even in battles.#
+
+/28 Pathfinder
+#Having mastered the path of the Ranger, the hero becomes a Pathfinder, a master of scouting and sabotage. A Pathfinder can enchant his arrows, so they inflict maximum additional damage.#
+
+/29 Battlemaster
+#After achieving perfection on the path of the Warlord, the hero becomes a Battlemaster, whose soldiers are believed to be invulnerable.#
+
+/30 Strategist
+#After mastering the path of the Tactician, the hero becomes a Strategist, whose skill of command over missile troops is unmatched.#
+
+/31 Marshall
+#Having mastered the path of the General, the hero becomes a Marshall, whose soldiers can crush any enemy.#
+
+/32 High Priest
+#Having reached the apex of the Priest mastery, the hero becomes a High Priest, whose soldiers are best protected from hostile magic, and know no fear. A High Priest receives an additional slot for a Circle III spell.#
+
+/33 Warwizard
+#Having mastered the art of the Battlemage, the hero becomes a Warwizard, unmatched in magic duels.#
+
+/34 Archdruid
+#Having reached the highest skills on the path of the Druid, the hero becomes an Archdruid, whose spells are not easily dispelled and his strikes or shots entangle the enemy. The Archdruid gets an additional slot for a Circle III spell.#
+
+/35 Master Necromancer
+#Having mastered the art of the Necromancer, the hero becomes a Master Necromancer, who can raise really powerful undead.#
+
+/36 Archmage
+#Having perfected the art of the Mage, the hero becomes an Archmage, able to cast two complex spells each turn. The Archmage's spells are extremely powerful.#

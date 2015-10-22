@@ -1,0 +1,3662 @@
+Quantity: 522
+
+/0
+Name: Empty;
+Number: 0
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/1
+Name: Hit Points;
+Number: 1
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/2
+Name: Attack;
+Number: 2
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/3
+Name: Counterattack;
+Number: 3
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/4
+Name: Defense;
+Number: 4
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/5
+Name: Ranged Defense;
+Number: 5
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/6
+Name: Resistance;
+Number: 6
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/7
+Name: Speed;
+Number: 7
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/8
+Name: Ranged Attack;
+Number: 8
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/9
+Name: Range;
+Number: 9
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/10
+Name: Ammo;
+Number: 10
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/11
+Name: Stamina;
+Number: 11
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/12
+Name: Morale;
+Number: 12
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/13
+Name: Feels No Pain;
+Number: 13
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/14
+Name: Flying;
+Number: 14
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/15
+Name: Floating;
+Number: 15
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/16
+Name: First Strike;
+Number: 16
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/17
+Name: Armor Piercing Shot;
+Number: 17
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/18
+Name: Tireless;
+Number: 18
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/19
+Name: Intrepid;
+Number: 19
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/20
+Name: Double Shot;
+Number: 20
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/21
+Name: Recuperation;
+Number: 21
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/22
+Name: Meditation;
+Number: 22
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/23
+Name: Collect Ammo;
+Number: 23
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/24
+Name: Healing;
+Number: 24
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/25
+Name: Battle Frenzy;
+Number: 25
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/26
+Name: Agility;
+Number: 26
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/27
+Name: Magic Strike;
+Number: 27
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/28
+Name: Magic Shot;
+Number: 28
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/29
+Name: Forced March;
+Number: 29
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/30
+Name: Spell Immunity;
+Number: 30
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/31
+Name: Break spell;
+Number: 31
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/32
+Name: Forest Knowledge;
+Number: 32
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/33
+Name: Hills Knowledge;
+Number: 33
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/34
+Name: Swamp Knowledge;
+Number: 34
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/35
+Name: First Aid;
+Number: 35
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/36
+Name: Immobilized;
+Number: 36
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/37
+Name: Charge;
+Number: 37
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/38
+Name: Does not fight;
+Number: 38
+Numeric: 0
+Effect: -1
+Percent: 0
+
+/39
+Name: Armorpiercing Strike;
+Number: 39
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/40
+Name: Stunning Blow;
+Number: 40
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/41
+Name: Poison Attack;
+Number: 41
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/42
+Name: Poison Immunity;
+Number: 42
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/43
+Name: Hex;
+Number: 43
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/44
+Name: Steal Ammo;
+Number: 44
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/45
+Name: Damage Armor;
+Number: 45
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/46
+Name: Petrification;
+Number: 46
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/47
+Name: Web;
+Number: 47
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/48
+Name: Regeneration;
+Number: 48
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/49
+Name: Necrophage;
+Number: 49
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/50
+Name: Intimidation;
+Number: 50
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/51
+Name: Crippling Strike;
+Number: 51
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/52
+Name: Damage Weapon;
+Number: 52
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/53
+Name: Parry;
+Number: 53
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/54
+Name: Forager;
+Number: 54
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/55
+Name: Siege;
+Number: 55
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/56
+Name: Marauder;
+Number: 56
+Numeric: 1
+Effect: -1
+Percent: 1
+
+/57
+Name: Soul Stealing;
+Number: 57
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/58
+Name: Plunderer;
+Number: 58
+Numeric: 1
+Effect: -1
+Percent: 1
+
+/59
+Name: Crushing Blow;
+Number: 59
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/60
+Name: Enchanted Arrows;
+Number: 60
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/61
+Name: Smite Evil;
+Number: 61
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/62
+Name: Change Type;
+Number: 62
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/63
+Name: Trample;
+Number: 63
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/64
+Name: Lord of the Undead;
+Number: 64
+Numeric: 0
+Effect: 1
+Percent: 0
+
+/65
+Name: Mass Attack;
+Number: 65
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/66
+Name: Round Attack;
+Number: 66
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/67
+Name: Roots;
+Number: 67
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/68
+Name: Bloodsucker;
+Number: 68
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/69
+Name: Heavy Ammo;
+Number: 69
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/70
+Name: Precise Strike;
+Number: 76
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/71
+Name: Precise Shot;
+Number: 77
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/72
+Name: Poison Shot;
+Number: 78
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/73
+Name: Cause Vulnerability;
+Number: 79
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/74
+Name: Cause Disease;
+Number: 80
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/75
+Name: Gold Income;
+Number: 81
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/76
+Name: Gem Income;
+Number: 82
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/77
+Name: Learn Spell;
+Number: 83
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/78
+Name: Summon Creature;
+Number: 84
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/79
+Name: Increased Upkeep;
+Number: 85
+Numeric: 0
+Effect: -1
+Percent: 1
+
+/80
+Name: Cannot Move;
+Number: 88
+Numeric: 0
+Effect: -1
+Percent: 0
+
+/81
+Name: Spellpower;
+Number: 905
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/82
+Name: Spell Duration;
+Number: 906
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/83
+Name: Summoning Power;
+Number: 907
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/84
+Name: Resistance Negation;
+Number: 908
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/85
+Name: Undead Summoning Power;
+Number: 909
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/86
+Name: Fast Draw;
+Number: 980
+Numeric: 0
+Effect: 1
+Percent: 0
+
+/87
+Name: Sabotage;
+Number: 981
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/88
+Name: Province Plunder;
+Number: 982
+Numeric: 1
+Effect: 1
+Percent: 1
+
+/89
+Name: Decrease Spell Cost;
+Number: 983
+Numeric: 1
+Effect: 1
+Percent: 1
+
+/90
+Name: Fast Casting;
+Number: 984
+Numeric: 0
+Effect: 1
+Percent: 0
+
+/91
+Name: Gold for Quests;
+Number: 985
+Numeric: 1
+Effect: 1
+Percent: 1
+
+/92
+Name: Army Experience;
+Number: 990
+Numeric: 1
+Effect: 1
+Percent: 1
+
+/93
+Name: Hero Experience;
+Number: 991
+Numeric: 1
+Effect: 1
+Percent: 1
+
+/94
+Name: Looting;
+Number: 992
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/95
+Name: Ranged Weapon;
+Number: 993
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/96
+Name: Wand Firing;
+Number: 994
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/97
+Name: Item Maintenance;
+Number: 995
+Numeric: 1
+Effect: 1
+Percent: 1
+
+/98
+Name: Province Exploration;
+Number: 996
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/99
+Name: Lower Upkeep;
+Number: 997
+Numeric: 1
+Effect: 1
+Percent: 1
+
+/100
+Name: Mobility;
+Number: 998
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/101
+Name: Initiative;
+Number: 999
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/102
+Name: Transformed;
+Number: 90
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/103
+Name: Summoned;
+Number: 103
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/104
+Name: Curse Spell;
+Number: 2010
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/105
+Name: Vulnerability Spell;
+Number: 2021
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/106
+Name: Fireball Spell;
+Number: 2023
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/107
+Name: Bless Spell;
+Number: 2011
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/108
+Name: Exorcism Spell;
+Number: 2038
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/109
+Name: Air Shield Spell;
+Number: 2009
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/110
+Name: Fear Spell;
+Number: 2013
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/111
+Name: Raise Skeleton Spell;
+Number: 2014
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/112
+Name: Inspiration Spell;
+Number: 2003
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/113
+Name: Summon Imp Spell;
+Number: 2019
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/114
+Name: Dispel Spell;
+Number: 2016
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/115
+Name: Life Drain Spell;
+Number: 2057
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/116
+Name: Command;
+Number: 116
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/117
+Name: Magic;
+Number: 117
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/118
+Name: Health;
+Number: 118
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/119
+Name: Experience Level;
+Number: 119
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/120
+Name: Guard Contract;
+Number: 86
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/121
+Name: Building Schematics;
+Number: 87
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/122
+Name: Astral Energy Spell;
+Number: 2017
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/123
+Name: Raise Zombie Spell;
+Number: 2015
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/124
+Name: Haste Spell;
+Number: 2008
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/125
+Name: Slow Spell;
+Number: 2007
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/126
+Name: Ritual Scroll;
+Number: 94
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/127
+Name: Treasure Hunt;
+Number: 987
+Numeric: 1
+Effect: 1
+Percent: 1
+
+/128
+Name: Restoration Spell;
+Number: 2037
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/129
+Name: Word of Power Spell;
+Number: 2052
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/130
+Name: Resurrection Spell;
+Number: 2049
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/131
+Name: Mass Curse Spell;
+Number: 2056
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/132
+Name: Energy Control;
+Number: 95
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/133
+Name: Poison Flesh;
+Number: 96
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/134
+Name: Reincarnation;
+Number: 97
+Numeric: 0
+Effect: 1
+Percent: 0
+
+/135
+Name: Tolerance;
+Number: 98
+Numeric: 0
+Effect: 1
+Percent: 0
+
+/136
+Name: Necromancer's Call;
+Number: 910
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/137
+Name: Raise Ghoul;
+Number: 2028
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/138
+Name: Raise Ghost;
+Number: 2055
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/139
+Name: Cure Wounds Spell;
+Number: 2012
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/140
+Name: Aard Sign;
+Number: 2078
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/141
+Name: Igni Sign;
+Number: 2079
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/142
+Name: Quen Sign;
+Number: 2080
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/143
+Name: Undead Regeneration Spell;
+Number: 2081
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/144
+Name: Stinking Cloud Spell;
+Number: 2082
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/145
+Name: Sinister Howl;
+Number: 2083
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/146
+Name: Mind Control Spell;
+Number: 2084
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/147
+Name: Sacrifice Spell;
+Number: 2085
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/148
+Name: Fireblast Spell;
+Number: 2086
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/149
+Name: Hellgates Spell;
+Number: 2087
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/150
+Name: Suicide Spell;
+Number: 2088
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/151
+Name: Submission Spell;
+Number: 2089
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/152
+Name: Unholy Word Spell;
+Number: 2090
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/153
+Name: Healing Spell;
+Number: 2091
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/154
+Name: Fire Immunity;
+Number: 101
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/155
+Name: Summon Huorn Spell;
+Number: 2092
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/156
+Name: Magic Shield Spell;
+Number: 2093
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/157
+Name: Summon Wasp Swarm Spell;
+Number: 2094
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/158
+Name: Summon Wasp Cloud Spell;
+Number: 2095
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/159
+Name: Life Breath Spell;
+Number: 2096
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/160
+Name: Explosive Shot;
+Number: 140
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/161
+Name: Fire Shot;
+Number: 141
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/162
+Name: Rune of Restoration Spell;
+Number: 2099
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/163
+Name: Rune of Decay Spell;
+Number: 2100
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/164
+Name: Rune of Renewal Spell;
+Number: 2101
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/165
+Name: Rune of Power Spell;
+Number: 2102
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/166
+Name: Stone Spikes Spell;
+Number: 2103
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/167
+Name: Vampire Touch Spell;
+Number: 2104
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/168
+Name: Mighty Weapon Spell;
+Number: 2105
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/169
+Name: Starfall Spell;
+Number: 2106
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/170
+Name: Rage Spell;
+Number: 2107
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/171
+Name: Insanity Spell;
+Number: 2108
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/172
+Name: Mass Rage Spell;
+Number: 2109
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/173
+Name: Horde Rage Spell;
+Number: 2110
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/174
+Name: Chieftain Order Spell;
+Number: 2111
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/175
+Name: Quagmire Spell;
+Number: 2112
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/176
+Name: Weakness Spell;
+Number: 2113
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/177
+Name: Armor Break Spell;
+Number: 2114
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/178
+Name: Plague Spell;
+Number: 2115
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/179
+Name: Geyser Spell;
+Number: 2116
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/180
+Name: Power Word - Curse;
+Number: 2117
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/181
+Name: Power Word - Hold;
+Number: 2118
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/182
+Name: Power Word - Pain;
+Number: 2119
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/183
+Name: Summon Water Elemental Spell;
+Number: 2120
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/184
+Name: Glacial Heart Spell;
+Number: 2121
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/185
+Name: Freeze Spell;
+Number: 2122
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/186
+Name: Ice Chunk Spell;
+Number: 2123
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/187
+Name: Armor Piercing Shot;
+Number: 2124
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/188
+Name: Thick Fog Spell;
+Number: 2125
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/189
+Name: Double Shot Spell;
+Number: 2126
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/190
+Name: Enchanted Arrow Spell;
+Number: 2127
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/191
+Name: Ancestral Rage Spell;
+Number: 2128
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/192
+Name: Ancestral Shield Spell;
+Number: 2129
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/193
+Name: Sparks Spell;
+Number: 2130
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/194
+Name: Electric Shock Spell;
+Number: 2131
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/195
+Name: Storm Spell;
+Number: 2132
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/196
+Name: Frenzy Spell;
+Number: 2133
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/197
+Name: Bloodlust Spell;
+Number: 2134
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/198
+Name: Snare Spell;
+Number: 2135
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/199
+Name: Trap Spell;
+Number: 2136
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/200
+Name: Swamp Poison Spell;
+Number: 2137
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/201
+Name: Regeneration Spell;
+Number: 2138
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/202
+Name: Poison Weapon Spell;
+Number: 2139
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/203
+Name: Devour Spell;
+Number: 2140
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/204
+Name: Word of Life Spell;
+Number: 2039
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/205
+Name: Mass Heal Spell;
+Number: 2051
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/206
+Name: Mass Defense Spell;
+Number: 2050
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/207
+Name: White Magic Spell;
+Number: 2058
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/208
+Name: Swiftness Spell;
+Number: 2141
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/209
+Name: Dispel Magic Spell;
+Number: 2142
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/210
+Name: Demon Slayer Spell;
+Number: 2143
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/211
+Name: Grace Spell;
+Number: 2144
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/212
+Name: Divine Seal Spell;
+Number: 2145
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/213
+Name: Hard as Stone Spell;
+Number: 2146
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/214
+Name: True Resurrection Spell;
+Number: 2147
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/215
+Name: Sanctuary Spell;
+Number: 2148
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/216
+Name: Divine Warp Spell;
+Number: 2149
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/217
+Name: Divine Light Spell;
+Number: 2150
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/218
+Name: Holy Word Spell;
+Number: 2151
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/219
+Name: Divine Vengeance Spell;
+Number: 2152
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/220
+Name: Summon Skeleton Spell;
+Number: 2153
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/221
+Name: Enslave Mind Spell;
+Number: 2074
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/222
+Name: Summon Wyvern Spell;
+Number: 2154
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/223
+Name: Fire Storm Spell;
+Number: 2155
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/224
+Name: Chilling Lightning Spell;
+Number: 2156
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/225
+Name: Order Spell;
+Number: 2157
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/226
+Name: Ice Immunity;
+Number: 102
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/227
+Name: Air Immunity;
+Number: 105
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/228
+Name: Bombardment;
+Number: 138
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/229
+Name: Mind Control Immunity;
+Number: 100
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/230
+Name: Celestial Thunder Spell;
+Number: 2159
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/231
+Name: Chain Lightning Spell;
+Number: 2160
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/232
+Name: Head Wind Spell;
+Number: 2161
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/233
+Name: Sluggishness Spell;
+Number: 2162
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/234
+Name: Quicksand Spell;
+Number: 2163
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/235
+Name: Earthquake Spell;
+Number: 2164
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/236
+Name: Fire Rain Spell;
+Number: 2165
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/237
+Name: Mass Fire Immunity Spell;
+Number: 2166
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/238
+Name: Cleansing Flame Spell;
+Number: 2167
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/239
+Name: Summon Air Elemental Spell;
+Number: 2168
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/240
+Name: Summon Earth Elemental Spell;
+Number: 2169
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/241
+Name: Summon Fire Elemental Spell;
+Number: 2170
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/242
+Name: Summon Living Armor Spell;
+Number: 2171
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/243
+Name: Summon Lord of Abyss Spell;
+Number: 2172
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/244
+Name: Anthem Of The Damned;
+Number: 2173
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/245
+Name: Summon Hellhound Spell;
+Number: 2035
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/246
+Name: Skeleton Transformation Spell;
+Number: 2174
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/247
+Name: Fiend Transformation Spell;
+Number: 2175
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/248
+Name: Cleric Transformation Spell;
+Number: 2176
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/249
+Name: Fire Blade Spell;
+Number: 2024
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/250
+Name: Mass Dispel Spell;
+Number: 2048
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/251
+Name: Summon Phantom Spell;
+Number: 2177
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/252
+Name: Fanaticism Spell;
+Number: 2178
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/253
+Name: Deadly Terror Spell;
+Number: 2179
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/254
+Name: Panic Spell;
+Number: 2180
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/255
+Name: Imaginary Assassin Spell;
+Number: 2181
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/256
+Name: Bind Will Spell;
+Number: 2182
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/257
+Name: Strong Mind Spell;
+Number: 2183
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/258
+Name: DELETED;
+Number: 110
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/259
+Name: DELETED;
+Number: 111
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/260
+Name: DELETED;
+Number: 112
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/261
+Name: DELETED;
+Number: 113
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/262
+Name: DELETED;
+Number: 114
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/263
+Name: DELETED;
+Number: 115
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/264
+Name: DELETED;
+Number: 185
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/265
+Name: DELETED;
+Number: 186
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/266
+Name: Arrow Shower Spell;
+Number: 2184
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/267
+Name: Control Undead Spell;
+Number: 2185
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/268
+Name: Seismic Charge;
+Number: 142
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/269
+Name: Mockery Spell;
+Number: 2187
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/270
+Name: Levitation Spell;
+Number: 2188
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/271
+Name: Embrace of Darkness Spell;
+Number: 2189
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/272
+Name: Deadly Touch Spell;
+Number: 2190
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/273
+Name: Banshee's Howl Spell;
+Number: 2191
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/274
+Name: Antimagic Spell;
+Number: 2047
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/275
+Name: Paralyze Spell;
+Number: 2192
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/276
+Name: Mass Sleep Spell;
+Number: 2193
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/277
+Name: Shadow Form Spell;
+Number: 342
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/278
+Name: Shadow Form Spell;
+Number: 343
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/279
+Name: Summon Beholder Spell;
+Number: 2196
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/280
+Name: Magic Crystal Spell;
+Number: 2197
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/281
+Name: Alvari Rage Spell;
+Number: 2337
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/282
+Name: Blinding Darkness Spell;
+Number: 2098
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/283
+Name: Kiss of Darkness Spell;
+Number: 2198
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/284
+Name: Astral Parasite Spell;
+Number: 300
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/285
+Name: Hands of Darkness Spell;
+Number: 2200
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/286
+Name: Shadow Thief Spell;
+Number: 2097
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/287
+Name: Dark Depletion Spell;
+Number: 2201
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/288
+Name: Dark Revival Spell;
+Number: 2207
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/289
+Name: Cloud of Darkness Spell;
+Number: 2208
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/290
+Name: Raise Reaper Spell;
+Number: 2203
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/291
+Name: Cloud of Restoration Spell;
+Number: 2210
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/292
+Name: Mass Undead Restoration Spell;
+Number: 2211
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/293
+Name: Unrest Spell;
+Number: 2213
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/294
+Name: Armor Weakening Spell;
+Number: 2224
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/295
+Name: Axii Sign;
+Number: 2226
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/296
+Name: Yrden Sign;
+Number: 2227
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/297
+Name: Raise Mummy Spell;
+Number: 2204
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/298
+Name: Raise Cadaver Spell;
+Number: 2205
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/299
+Name: Raise Vampire Spell;
+Number: 2061
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/300
+Name: Word of Death Spell;
+Number: 2214
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/301
+Name: Summon Devil Spell;
+Number: 2229
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/302
+Name: Raise Banshee Spell;
+Number: 2206
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/303
+Name: Death Cloud Spell;
+Number: 2230
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/304
+Name: Mass Life Drain Spell;
+Number: 2231
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/305
+Name: Summon Fiend Spell;
+Number: 2034
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/306
+Name: Summon Demon Spell;
+Number: 2045
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/307
+Name: Demon Blood Spell;
+Number: 2232
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/308
+Name: Mass Bless Spell;
+Number: 2233
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/309
+Name: Healing Sleep;
+Number: 2234
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/310
+Name: Corruption Spell;
+Number: 2069
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/311
+Name: Dark Pact Spell;
+Number: 2043
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/312
+Name: Death Servant;
+Number: 106
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/313
+Name: Chaos Distortion Spell;
+Number: 2237
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/314
+Name: Chaos Surge Spell;
+Number: 2238
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/315
+Name: Fearless Spell;
+Number: 2244
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/316
+Name: Rune Shot Spell;
+Number: 2245
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/317
+Name: Containment Spell;
+Number: 2252
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/318
+Name: Dark Redemption Spell;
+Number: 2253
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/319
+Name: Animal;
+Number: 107
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/320
+Name: Ice Snake Spell;
+Number: 2254
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/321
+Name: Lightning Ball Spell;
+Number: 2255
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/322
+Name: Scorching Ground Spell;
+Number: 2256
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/323
+Name: Solar Blast Spell;
+Number: 2257
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/324
+Name: Necromancer's Cry Spell;
+Number: 2258
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/325
+Name: Slimy Bomb;
+Number: 2261
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/326
+Name: Great Pack Warrior;
+Number: 122
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/327
+Name: Flesh-tearer;
+Number: 123
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/328
+Name: Flesh-scorcher;
+Number: 124
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/329
+Name: Great Pack Headhunter;
+Number: 125
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/330
+Name: Flesh-piercer;
+Number: 126
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/331
+Name: Flesh-incinerator;
+Number: 127
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/332
+Name: Rune of Life;
+Number: 128
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/333
+Name: Rune of Predator;
+Number: 129
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/334
+Name: Rune of Rage;
+Number: 130
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/335
+Name: Rune of Thorns;
+Number: 131
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/336
+Name: Rune of Accuracy;
+Number: 132
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/337
+Name: Rune of Destruction;
+Number: 133
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/338
+Name: Rune of Swiftness;
+Number: 134
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/339
+Name: Mass Slow Spell;
+Number: 2042
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/340
+Name: Avatar of Light;
+Number: 135
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/341
+Name: Armageddon Spell;
+Number: 2064
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/342
+Name: Workaholic;
+Number: 258
+Numeric: 1
+Effect: 1
+Percent: 1
+
+/343
+Name: Siege Mode;
+Number: 305
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/344
+Name: Siege Mode;
+Number: 306
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/345
+Name: Siege Mode;
+Number: 307
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/346
+Name: Siege Mode;
+Number: 308
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/347
+Name: Phoenix;
+Number: 309
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/348
+Name: Treant;
+Number: 310
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/349
+Name: Stone Golem;
+Number: 311
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/350
+Name: Dracolich;
+Number: 312
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/351
+Name: Swamp Dragonfly;
+Number: 313
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/352
+Name: Seraphim;
+Number: 314
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/353
+Name: Acheron;
+Number: 315
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/354
+Name: Duelist;
+Number: 316
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/355
+Name: Elemental Mistress;
+Number: 317
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/356
+Name: Faerie Dragon;
+Number: 318
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/357
+Name: Psion;
+Number: 319
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/358
+Name: Medusa;
+Number: 320
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/359
+Name: Birdeater;
+Number: 321
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/360
+Name: Dragon;
+Number: 322
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/361
+Name: Dark Priestess;
+Number: 323
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/362
+Name: Siege Machine;
+Number: 324
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/363
+Name: Illithid;
+Number: 325
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/364
+Name: Wyvern;
+Number: 326
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/365
+Name: Demonologist;
+Number: 327
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/366
+Name: Ericuba;
+Number: 328
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/367
+Name: Scholar;
+Number: 329
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/368
+Name: Adept;
+Number: 330
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/369
+Name: Magister;
+Number: 331
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/370
+Name: Archmagister;
+Number: 332
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/371
+Name: Siege Machine;
+Number: 333
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/372
+Name: Summon Hnara Spell;
+Number: 2269
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/373
+Name: Miracle Spell;
+Number: 2270
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/374
+Name: Fix;
+Number: 168
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/375
+Name: Mobility Spell;
+Number: 2273
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/376
+Name: Workman;
+Number: 334
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/377
+Name: Reload Spell;
+Number: 2274
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/378
+Name: Summon Wolf Spell;
+Number: 2275
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/379
+Name: Summon Dire Bear Spell;
+Number: 2276
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/380
+Name: Lord of Chaos;
+Number: 108
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/381
+Name: Test of Faith Spell;
+Number: 2279
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/382
+Name: Summon Icarus Spell;
+Number: 2280
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/383
+Name: Summon Stalker Spell;
+Number: 2281
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/384
+Name: Summon Luminary Spell;
+Number: 2282
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/385
+Name: Soul Trap Spell;
+Number: 2283
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/386
+Name: Strike of Pain Spell;
+Number: 2278
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/387
+Name: Death Bell Spell;
+Number: 2284
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/388
+Name: Black Unicorn;
+Number: 335
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/389
+Name: Concoction Spell;
+Number: 2287
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/390
+Name: Gas Bomb;
+Number: 352
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/391
+Name: Fierce Roar Spell;
+Number: 2289
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/392
+Name: Fever Spell;
+Number: 2290
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/393
+Name: Exhaustion Spell;
+Number: 2291
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/394
+Name: Black Plague Spell;
+Number: 2292
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/395
+Name: Pestilence Spell;
+Number: 2293
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/396
+Name: Summon Rat Spell;
+Number: 2294
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/397
+Name: Summon Ratman Spell;
+Number: 2295
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/398
+Name: Battle Cry Spell;
+Number: 2247
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/399
+Name: Summon Shadow Claw Spell;
+Number: 2296
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/400
+Name: Summon Rat King Spell;
+Number: 2297
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/401
+Name: Summon Rat Reaper Spell;
+Number: 2298
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/402
+Name: Giant;
+Number: 120
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/403
+Name: Shadow Claw;
+Number: 336
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/404
+Name: Assault Rat;
+Number: 337
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/405
+Name: Rat Reaper;
+Number: 338
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/406
+Name: Ripper;
+Number: 339
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/407
+Name: Master of Decay;
+Number: 340
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/408
+Name: Mass Disease Spell;
+Number: 2062
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/409
+Name: Elemental Spirit;
+Number: 109
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/410
+Name: Lycan;
+Number: 341
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/411
+Name: Blind Faith Spell;
+Number: 2301
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/412
+Name: Poison Rain Spell;
+Number: 2302
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/413
+Name: Dark Dominion;
+Number: 200
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/414
+Name: Web Immunity;
+Number: 201
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/415
+Name: Petrification Immunity;
+Number: 202
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/416
+Name: Entanglement Immunity;
+Number: 203
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/417
+Name: Summon Imp Spell;
+Number: 2303
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/418
+Name: Summon Spawn Spell;
+Number: 2304
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/419
+Name: Summon Fiend Spell;
+Number: 2305
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/420
+Name: Summon Hellhound Spell;
+Number: 2306
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/421
+Name: Summon Fiend Lord Spell;
+Number: 2307
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/422
+Name: Summon Cerberus Spell;
+Number: 2308
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/423
+Name: Summon Succubus Spell;
+Number: 2309
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/424
+Name: Summon Demon Spell;
+Number: 2310
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/425
+Name: Summon Destroyer Spell;
+Number: 2311
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/426
+Name: Summon Devil Spell;
+Number: 2312
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/427
+Name: Black Blood Spell;
+Number: 355
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/428
+Name: Skeleton;
+Number: 187
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/429
+Name: Incorporeal;
+Number: 121
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/430
+Name: Gaseous Form Spell;
+Number: 351
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/431
+Name: Chaos Cultist;
+Number: 188
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/432
+Name: Scorn Spell;
+Number: 2317
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/433
+Name: Hero's Ballad Spell;
+Number: 2318
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/434
+Name: Rune Armor Spell;
+Number: 2319
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/435
+Name: Rune Weapon Spell;
+Number: 2320
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/436
+Name: Rune Amulet Spell;
+Number: 2321
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/437
+Name: Caustic Mixture Spell;
+Number: 304
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/438
+Name: Chilling Touch;
+Number: 180
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/439
+Name: Phantom Form;
+Number: 181
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/440
+Name: Armor Weakened;
+Number: 182
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/441
+Name: Revival;
+Number: 191
+Numeric: 0
+Effect: 1
+Percent: 0
+
+/442
+Name: Master Constructor;
+Number: 354
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/443
+Name: Necrosurge Spell;
+Number: 2324
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/444
+Name: Word of the Lord Spell;
+Number: 2325
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/445
+Name: Hunter's Net;
+Number: 302
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/446
+Name: Mental Support Spell;
+Number: 2326
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/447
+Name: Mental Duel Spell;
+Number: 2327
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/448
+Name: Mental Sermon Spell;
+Number: 2328
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/449
+Name: Mental Resonance Spell;
+Number: 2329
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/450
+Name: Act of Faith Spell;
+Number: 2330
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/451
+Name: Summon Arisen Spell;
+Number: 2331
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/452
+Name: Summon Keeper Spell;
+Number: 2332
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/453
+Name: Mental Shadow Spell;
+Number: 2333
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/454
+Name: Frenzy;
+Number: 198
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/455
+Name: Crippling Shot;
+Number: 197
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/456
+Name: Overwhelming Force;
+Number: 196
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/457
+Name: Surge of Strength;
+Number: 194
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/458
+Name: Shield Wall;
+Number: 193
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/459
+Name: Life Leech;
+Number: 104
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/460
+Name: Stunning Shot;
+Number: 156
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/461
+Name: Intimidating Shot;
+Number: 169
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/462
+Name: Wounding Strike;
+Number: 208
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/463
+Name: Wounding Shot;
+Number: 209
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/464
+Name: Enchanted Blade;
+Number: 151
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/465
+Name: Bloodlust;
+Number: 211
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/466
+Name: Damaged Aura;
+Number: 212
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/467
+Name: Astral Ammo;
+Number: 213
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/468
+Name: Vigilance;
+Number: 214
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/469
+Name: Skillful Diplomat;
+Number: 979
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/470
+Name: Stone Statue Spell;
+Number: 350
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/471
+Name: Raise Skeleton of Doom Spell;
+Number: 2242
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/472
+Name: Switch Weapon;
+Number: 216
+Numeric: 0
+Effect: 1
+Percent: 0
+
+/473
+Name: Switch Ammo;
+Number: 217
+Numeric: 0
+Effect: 1
+Percent: 0
+
+/474
+Name: Reincarnation Spell;
+Number: 2059
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/475
+Name: Armageddon;
+Number: 219
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/476
+Name: Dark Balance Spell;
+Number: 2338
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/477
+Name: Blood Shadow Spell;
+Number: 2339
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/478
+Name: Summon Slave Spell;
+Number: 2340
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/479
+Name: Stimulus Spell;
+Number: 2341
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/480
+Name: Shadow Form Spell;
+Number: 344
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/481
+Name: Trembling Shadow Spell;
+Number: 2343
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/482
+Name: Shadow Form Spell;
+Number: 345
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/483
+Name: Shadow Form Spell;
+Number: 346
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/484
+Name: Shadow Dance Spell;
+Number: 2346
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/485
+Name: Shadow Form Spell;
+Number: 347
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/486
+Name: Stone Crust Spell;
+Number: 303
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/487
+Name: Beholder;
+Number: 301
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/488
+Name: Dark Replenishment;
+Number: 215
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/489
+Name: Hunter of Undead;
+Number: 220
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/490
+Name: Hunter of Demons;
+Number: 221
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/491
+Name: Astral Schism Spell;
+Number: 2348
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/492
+Name: Immunity to Bleeding;
+Number: 204
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/493
+Name: Explosive Weapon;
+Number: 137
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/494
+Name: Cannot Cast;
+Number: 150
+Numeric: 0
+Effect: -1
+Percent: 0
+
+/495
+Name: Darkness Surge;
+Number: 348
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/496
+Name: Storm Shadow;
+Number: 349
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/497
+Name: Festering Wounds;
+Number: 136
+Numeric: 0
+Effect: -1
+Percent: 0
+
+/498
+Name: Wounding Spikes;
+Number: 210
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/499
+Name: Sniper Shot;
+Number: 152
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/500
+Name: Cocoon of Darkness Spell;
+Number: 2288
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/501
+Name: Flaming Sword;
+Number: 143
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/502
+Name: Flaming Arrows;
+Number: 144
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/503
+Name: Scorching;
+Number: 154
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/504
+Name: Chain Lightning;
+Number: 155
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/505
+Name: Powerful Shot;
+Number: 157
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/506
+Name: Warp Spell;
+Number: 2158
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/507
+Name: Skillful Spellcaster;
+Number: 161
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/508
+Name: Cause Putrefaction;
+Number: 164
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/509
+Name: Tracker;
+Number: 256
+Numeric: 1
+Effect: 1
+Percent: 1
+
+/510
+Name: Ammo Bearer;
+Number: 166
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/511
+Name: Healing Circle Spell;
+Number: 2272
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/512
+Name: Dash Spell;
+Number: 2299
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/513
+Name: Skillful Healer;
+Number: 165
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/514
+Name: Supplier;
+Number: 167
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/515
+Name: Self-control;
+Number: 184
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/516
+Name: Abysmal Joke Spell;
+Number: 2352
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/517
+Name: Abysmal Swallow Spell;
+Number: 2353
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/518
+Name: Summon Mocker Spell;
+Number: 2354
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/519
+Name: Skillful Tracker;
+Number: 257
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/520
+Name: Entangling Shot;
+Number: 158
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/521
+Name: Healing Circle Spell;
+Number: 2355
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/522
+Name: Cold Rage;
+Number: 225
+Numeric: 1
+Effect: 1
+Percent: 0

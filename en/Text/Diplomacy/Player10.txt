@@ -1,0 +1,281 @@
+/Эрду
+/0 Первая встреча
+Index: 1;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #My compliments to thee, oh %s! Of Iltan race, the only left I am - «The Ancients,» the young folk calls us now. Eons ago, as Erdu was I named. Indeed, this Shard will face a troubled time, as awful battles shake it to the ground, and yet some hope remains that not for naught these wars are fought and blood is spill'd in streams, and Eador its former strength restores, when struggle long and bloody comes to end. A strength the flames of war could forge alone.#
+
+/1 Не первая встреча (Плохие отношения)
+Index: 2;
+Min: -5000;
+Max: -100;
+Name: 1;
+Param: 0;
+Text: #Again I watch thee standing on my path, oh %s. The rivals we are destined to be, or so appears to me whilst thee I meet.#
+
+/2 Не первая встреча (Нейтрален)
+Index: 2;
+Min: -99;
+Max: 99;
+Name: 1;
+Param: 0;
+Text: #My compliments to thee, oh %s! The Destiny again has brought us here to struggle in a cruel test of strength. So may the victory belongs to him who is most worthy of achieving it.#
+
+/3 Не первая встреча (Хорошие отношения)
+Index: 2;
+Min: 100;
+Max: 5000;
+Name: 1;
+Param: 0;
+Text: #My compliments to thee, oh %s! Indeed, so glad I am of meeting thee. Prosperity and peace may never leave thy blessed lands for centuries to come.#
+
+/4 Сразу война
+Index: 3;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #My compliments to thee, oh %s! So cruel is the law we must obey, but we are not the ones who penn'd it down. In mortal struggle shall we meet this day, and may the worthiest reign this Shard alone!#
+
+/5 Объявление войны
+Index: 4;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Heed what I say to thee, oh %s! I hereby declare a war on thee! Expect for naught a mercy from my troops, for punishment thou rightfully deserve, and by my hand it duly shall be dealt!#
+
+/6 Предложение мира
+Index: 5;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #My compliments to thee, oh %s! To make a peace with thee decided I, for horrible and cruel is our war. So let our battle cease this very day, our folk embraces harmony again.#
+
+/7 Предложение союза
+Index: 6;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #My compliments to thee, oh %s! I've heard enough about thy noble heart, and in those tales inclined I am to trust. An alliance I do want to offer thee, so that together stronger we become. No enemy shall stand before our might as long as thou and I as one do fight!#
+
+/8 Предложение торговли 
+Index: 7;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #My compliments and kind regards to thee, oh worthy %s! Today I dare to offer thee a pact - so that our deals tomorrow shall be seal'd by merchant's gold and not by soldier's steel!#
+
+/9 Предложение обмена
+Index: 8;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #My compliments to thee, oh %s! To know I want, as whether thou desire to make a trading deal with my domain. For both of us, it plentiful shall be.#
+
+/10 Пересмотр торговли
+Index: 9;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #My compliments to thee, oh %s! To change our trading deal I do desire. The terms will cause no grief to thee, I hope.#
+
+/11 Отмена торговли
+Index: 10;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #My compliments to thee, oh %s! With mourning heart I have to cease our trade, and merchants of my realm will have to turn the caravans now heading to thy lands.#
+
+/12 Отмена союза
+Index: 11;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #My compliments to thee, oh %s! Our alliance, alas, can last no more, for gravely mistaken I have been about thy goals, about the road thou walk. No longer shall I share my path with thee.#
+
+/13 Требование выкупа
+Index: 12;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Of me thou heed, and listen what I say, for I have come to put forth my demands, oh %s. As thou, my neighbor, do me naught but harm, am ready I to order mighty hosts to march upon thy lands in blazing force. Yet make thee up for damage thou have caused, and hosts of mine shall stop in their advance, some other realm to fall before their blades.#
+
+/14 Дар
+Index: 13;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Respect and peace to thee, oh worthy %s! For thee, I have prepar'd a gift this day, and ask thee for the honor and permit to grant it as a token of respect.#
+
+/15 Отказ (Грубый)
+Index: 14;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: -1;
+Text: #For whom thee take me now, oh %s? A fool who does not understand a thing? Refuse I shall, for naught this bauble's worth!#
+
+/16 Отказ (Обычный)
+Index: 14;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Alas, refuse I must, oh %s.#
+
+/17 Отказ (Вежливый)
+Index: 14;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 1;
+Text: #Thy words convinced me nearly, I admit, and yet agree I can't to offer thine.#
+
+/18 Соглашение (Недовольное)
+Index: 15;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: -1;
+Text: #Agree I must with thee this fateful day, despite a sense I shall regret it soon.#
+
+/19 Соглашение (Нейтральное)
+Index: 15;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #This offering of thee I must accept.#
+
+/20 Соглашение (Довольное)
+Index: 15;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 1;
+Text: #The offering thou bring delights my heart! My gratitude to thee lies deeper still. Approve it, if I must, I shall at once.#
+
+/21 Отказ от общения (1х1)
+Index: 19;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #There are but thee and I upon this Shard. A battle shall decide who owns this land. An idle talk shall settle not a thing, may honest war select the worthy one.#
+
+/22 Отказ от переговоров
+Index: 23;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I have no wish to see thy lying face, oh treacherous and evil %s. My hosts shall do the talking in my place!#
+
+/23 Союзник, жребий или война
+Index: 20;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Triumph is ours, victory to us! Accept my praises, worthy %s! It's time for us to choose who rules the Shard. What shall it be? We cast the lots of Fate? Or do we fight, and may the strongest win?#
+
+/24 Союзник, сдаться или война
+Index: 21;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Triumph is ours, victory to us! Accept my praises, worthy %s! I have no doubts that rightfully this Shard belongs to me alone as spoils of war. Shall thee accept this judgment I have made, or shall it take a war to make thy mind?#
+
+/25 Союзник, сдача
+Index: 22;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Triumph is ours, victory to us! Accept my praises, worthy %s! Indeed this Shard is justly thine by right, and so I abandon it to thy reign. May jewels of this land adorn your crown.#
+
+/26 Отказ от подарка
+Index: 24;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Insult me did thou wish, oh %s? This bauble is a blotch upon my sight. This offering of thee I shall not take!#
+
+/27 Принимаем дары
+Index: 25;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Indeed, the gift of thee makes warm my heart. My gratitude to thee shall know no bounds, accept my blessing and my kind regards, to thee, and to the people of thy realm.#
+
+/28 Отказ от союза с предателем
+Index: 16;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #How dare thee, thou betrayer of my faith, return to me with offering of pact?! Not ever shall I trust thy lies again! Away with thy deception, evermore!#
+
+/29 Отказ от мира с предателем
+Index: 17;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #A peace you wish, oh traitor %s? Forgot thou now thy treason of the past? Yet memory of mine lives longer still, and never shall I trust thy lies again.#
+
+/30 Первая встреча, кампания
+Index: 26;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #My compliments to thee, oh %s! Indeed, this Shard will face a troubled time, as awful battles shake it to the ground, and yet some hope remains that not for naught these wars are fought and blood is spill'd in streams, and Eador its former strength restores, when struggle long and bloody comes to end. A strength the flames of war could forge alone.#
+
+/31 Ответ на объявление войны
+Index: 27;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Thy lust for power blinds thy sightless eyes, I pity thee, oh worthless %s. I wish thy sight returns to thee one day, and I but hope the ruin of thy realm won't be the final view thy eyes shall see.#
+
+/32 Отказ в мире союзнику
+Index: 28;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #I share thy wish for peace with all my heart, oh honorable ally %s. Yet think who is the one thou want to spare! Our bitter enemy he is, a rabid dog. %s, not worth a merest thought of lenience! There is no sense in making peace with fiend who'll stab thy back when thou just drop thy guard!#
+
+/33 Ответ на предательство
+Index: 29;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #So that's the cost of all thy empty words and promises, you wretched %s! Thy treason hurt thee more than it would me, for who would listen to thy lies again?#
+
+/34 Война, остались 1х1
+Index: 30;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #My compliments to thee, oh %s! So cruel is the law we must obey, but we are not the ones who penn'd it down. In mortal struggle shall we meet this day, and may the worthiest reign this Shard alone!#
+&&&&&&

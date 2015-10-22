@@ -1,0 +1,521 @@
+/0
+Name: Empty;
+Class: 0
+
+Hero Upgrades:
+Lvl1: (0, 0)
+Lvl2: (0, 0)
+Lvl3: (0, 0)
+Lvl4: (0, 0)
+Lvl5: (0, 0)
+
+Squad Upgrades:
+Lvl1: (0, 0)
+Lvl2: (0, 0)
+Lvl3: (0, 0)
+Lvl4: (0, 0)
+Lvl5: (0, 0)
+
+/1
+Name: Logistics;
+Class: 3
+
+Hero Upgrades:
+Lvl1: (997, 10; 55, 10)
+Lvl2: (997, 10; 55, 10)
+Lvl3: (997, 10; 55, 10)
+Lvl4: (997, 10; 55, 20)
+Lvl5: (997, 10; 55, 30)
+
+Squad Upgrades:
+Lvl1: (0, 0)
+Lvl2: (0, 0)
+Lvl3: (0, 0)
+Lvl4: (0, 0)
+Lvl5: (0, 0)
+
+/2
+Name: Discipline;
+Class: 3
+
+Hero Upgrades:
+Lvl1: (0, 0)
+Lvl2: (0, 0)
+Lvl3: (0, 0)
+Lvl4: (0, 0)
+Lvl5: (0, 0)
+
+Squad Upgrades:
+Lvl1: (1, 1; 6, 1)
+Lvl2: (1, 1)
+Lvl3: (1, 1; 6, 1)
+Lvl4: (1, 2)
+Lvl5: (1, 1; 6, 1)
+
+/3
+Name: Offensive Tactics;
+Class: 3
+
+Hero Upgrades:
+Lvl1: (0, 0)
+Lvl2: (0, 0)
+Lvl3: (0, 0)
+Lvl4: (0, 0)
+Lvl5: (0, 0)
+
+Squad Upgrades:
+Lvl1: (2, 1)
+Lvl2: (3, 1)
+Lvl3: (2, 1)
+Lvl4: (3, 1)
+Lvl5: (2, 1; 3, 1)
+
+/4
+Name: Defensive Tactics;
+Class: 3
+
+Hero Upgrades:
+Lvl1: (0, 0)
+Lvl2: (0, 0)
+Lvl3: (0, 0)
+Lvl4: (0, 0)
+Lvl5: (0, 0)
+
+Squad Upgrades:
+Lvl1: (5, 1)
+Lvl2: (4, 1)
+Lvl3: (5, 1)
+Lvl4: (4, 1)
+Lvl5: (4, 1; 5, 1)
+
+/5
+Name: Ranged Tactics;
+Class: 3
+
+Hero Upgrades:
+Lvl1: (0, 0)
+Lvl2: (0, 0)
+Lvl3: (0, 0)
+Lvl4: (0, 0)
+Lvl5: (0, 0)
+
+Squad Upgrades:
+Lvl1: (8, 1)
+Lvl2: (10, 1)
+Lvl3: (8, 1)
+Lvl4: (10, 1)
+Lvl5: (9, 1)
+
+/6
+Name: Maneuvering;
+Class: 3
+
+Hero Upgrades:
+Lvl1: (999, 1)
+Lvl2: (999, 1)
+Lvl3: (999, 1; 998, 1)
+Lvl4: (999, 1)
+Lvl5: (999, 1; 998, 1)
+
+Squad Upgrades:
+Lvl1: (11, 1)
+Lvl2: (11, 1)
+Lvl3: (11, 1)
+Lvl4: (11, 2)
+Lvl5: (11, 2)
+
+/7
+Name: Leadership;
+Class: 3
+
+Hero Upgrades:
+Lvl1: (990, 5)
+Lvl2: (990, 5)
+Lvl3: (990, 5)
+Lvl4: (990, 5)
+Lvl5: (990, 5)
+
+Squad Upgrades:
+Lvl1: (12, 1)
+Lvl2: (12, 1)
+Lvl3: (12, 1)
+Lvl4: (12, 2)
+Lvl5: (12, 2)
+
+/8
+Name: Weapon Master;
+Class: 1
+
+Hero Upgrades:
+Lvl1: (2, 1; 3, 1)
+Lvl2: (2, 2; 3, 1)
+Lvl3: (2, 1; 3, 2)
+Lvl4: (2, 2; 3, 1)
+Lvl5: (2, 1; 3, 2)
+
+Squad Upgrades:
+Lvl1: (0, 0)
+Lvl2: (0, 0)
+Lvl3: (0, 0)
+Lvl4: (0, 0)
+Lvl5: (0, 0)
+
+/9
+Name: Armor Master;
+Class: 1
+
+Hero Upgrades:
+Lvl1: (4, 1; 5, 1)
+Lvl2: (4, 1; 5, 1)
+Lvl3: (4, 1; 5, 1)
+Lvl4: (4, 1; 5, 1)
+Lvl5: (4, 1; 5, 1)
+
+Squad Upgrades:
+Lvl1: (0, 0)
+Lvl2: (0, 0)
+Lvl3: (0, 0)
+Lvl4: (0, 0)
+Lvl5: (0, 0)
+
+/10
+Name: Constitution;
+Class: 1
+
+Hero Upgrades:
+Lvl1: (1, 2; 11, 1)
+Lvl2: (1, 2; 11, 1)
+Lvl3: (1, 3; 11, 1; 48, 1)
+Lvl4: (1, 4; 11, 2)
+Lvl5: (1, 5; 11, 2; 48, 1)
+
+Squad Upgrades:
+Lvl1: (0, 0)
+Lvl2: (0, 0)
+Lvl3: (0, 0)
+Lvl4: (0, 0)
+Lvl5: (0, 0)
+
+/11
+Name: Willpower;
+Class: 1
+
+Hero Upgrades:
+Lvl1: (6, 1; 12, 1)
+Lvl2: (6, 1; 12, 1)
+Lvl3: (6, 1; 12, 1)
+Lvl4: (6, 1; 12, 2)
+Lvl5: (6, 1; 12, 2)
+
+Squad Upgrades:
+Lvl1: (0, 0)
+Lvl2: (0, 0)
+Lvl3: (0, 0)
+Lvl4: (0, 0)
+Lvl5: (0, 0)
+
+/12
+Name: Athletics;
+Class: 1
+
+Hero Upgrades:
+Lvl1: (999, 1; 29, 1)
+Lvl2: (999, 1; 21, 3)
+Lvl3: (999, 1; 7, 1)
+Lvl4: (999, 1; 37, 1)
+Lvl5: (999, 1; 7, 1)
+
+Squad Upgrades:
+Lvl1: (0, 0)
+Lvl2: (0, 0)
+Lvl3: (0, 0)
+Lvl4: (0, 0)
+Lvl5: (0, 0)
+
+/13
+Name: Combat;
+Class: 1
+
+Hero Upgrades:
+Lvl1: (76, 2; 53, 2)
+Lvl2: (76, 1; 53, 2)
+Lvl3: (76, 2; 53, 2)
+Lvl4: (76, 1; 53, 2)
+Lvl5: (76, 2; 53, 2)
+
+Squad Upgrades:
+Lvl1: (0, 0)
+Lvl2: (0, 0)
+Lvl3: (0, 0)
+Lvl4: (0, 0)
+Lvl5: (0, 0)
+
+/14
+Name: Blacksmithing;
+Class: 1
+
+Hero Upgrades:
+Lvl1: (995, 10; 81, 10)
+Lvl2: (995, 10; 81, 20)
+Lvl3: (995, 10; 40, 1)
+Lvl4: (995, 10; 81, 30)
+Lvl5: (995, 10; 40, 1)
+
+Squad Upgrades:
+Lvl1: (0, 0)
+Lvl2: (0, 0)
+Lvl3: (0, 0)
+Lvl4: (0, 0)
+Lvl5: (0, 0)
+
+/15
+Name: Magic Power;
+Class: 4
+
+Hero Upgrades:
+Lvl1: (905, 1)
+Lvl2: (905, 1)
+Lvl3: (905, 2)
+Lvl4: (905, 1)
+Lvl5: (905, 1)
+
+Squad Upgrades:
+Lvl1: (0, 0)
+Lvl2: (0, 0)
+Lvl3: (0, 0)
+Lvl4: (0, 0)
+Lvl5: (0, 0)
+
+/16
+Name: Concentration;
+Class: 4
+
+Hero Upgrades:
+Lvl1: (906, 1; 21, 1)
+Lvl2: (906, 1; 21, 1)
+Lvl3: (906, 1; 35, 1)
+Lvl4: (906, 1; 21, 2)
+Lvl5: (906, 1; 35, 2)
+
+Squad Upgrades:
+Lvl1: (0, 0)
+Lvl2: (0, 0)
+Lvl3: (0, 0)
+Lvl4: (0, 0)
+Lvl5: (0, 0)
+
+/17
+Name: Summoning;
+Class: 4
+
+Hero Upgrades:
+Lvl1: (907, 2)
+Lvl2: (907, 2)
+Lvl3: (907, 2)
+Lvl4: (907, 2)
+Lvl5: (907, 2)
+
+Squad Upgrades:
+Lvl1: (0, 0)
+Lvl2: (0, 0)
+Lvl3: (0, 0)
+Lvl4: (0, 0)
+Lvl5: (0, 0)
+
+/18
+Name: Thaumaturgy;
+Class: 4
+
+Hero Upgrades:
+Lvl1: (908, 1; 6, 1)
+Lvl2: (908, 1; 6, 1)
+Lvl3: (908, 1; 6, 1)
+Lvl4: (908, 1; 6, 1)
+Lvl5: (908, 1; 6, 1)
+
+Squad Upgrades:
+Lvl1: (0, 0)
+Lvl2: (0, 0)
+Lvl3: (0, 0)
+Lvl4: (0, 0)
+Lvl5: (0, 0)
+
+/19
+Name: Wisdom;
+Class: 4
+
+Hero Upgrades:
+Lvl1: (901, 1; 991, 10)
+Lvl2: (901, 1; 991, 10)
+Lvl3: (902, 1; 991, 10)
+Lvl4: (903, 1; 991, 10)
+Lvl5: (904, 1; 991, 10)
+
+Squad Upgrades:
+Lvl1: (0, 0)
+Lvl2: (0, 0)
+Lvl3: (0, 0)
+Lvl4: (0, 0)
+Lvl5: (0, 0)
+
+/20
+Name: Wand Master;
+Class: 4
+
+Hero Upgrades:
+Lvl1: (999, 1; 8, 1; 10, 1)
+Lvl2: (999, 1; 8, 2)
+Lvl3: (999, 1; 9, 1)
+Lvl4: (999, 1; 8, 2; 10, 1)
+Lvl5: (999, 1; 8, 2; 95, 2)
+
+Squad Upgrades:
+Lvl1: (0, 0)
+Lvl2: (0, 0)
+Lvl3: (0, 0)
+Lvl4: (0, 0)
+Lvl5: (0, 0)
+
+/21
+Name: Necromancy;
+Class: 4
+
+Hero Upgrades:
+Lvl1: (909, 1)
+Lvl2: (909, 1)
+Lvl3: (909, 2)
+Lvl4: (909, 1)
+Lvl5: (909, 2)
+
+Squad Upgrades:
+Lvl1: (0, 0)
+Lvl2: (0, 0)
+Lvl3: (0, 0)
+Lvl4: (0, 0)
+Lvl5: (0, 0)
+
+/22
+Name: Marksmanship;
+Class: 2
+
+Hero Upgrades:
+Lvl1: (8, 1)
+Lvl2: (8, 1)
+Lvl3: (9, 1)
+Lvl4: (8, 2)
+Lvl5: (8, 2)
+
+Squad Upgrades:
+Lvl1: (0, 0)
+Lvl2: (0, 0)
+Lvl3: (0, 0)
+Lvl4: (0, 0)
+Lvl5: (0, 0)
+
+/23
+Name: Reaction;
+Class: 2
+
+Hero Upgrades:
+Lvl1: (999, 1; 5, 1; 6, 1)
+Lvl2: (999, 1; 5, 1; 4, 1)
+Lvl3: (999, 1; 7, 1; 6, 1)
+Lvl4: (999, 1; 5, 1; 4, 1)
+Lvl5: (999, 1; 7, 1; 6, 1)
+
+Squad Upgrades:
+Lvl1: (0, 0)
+Lvl2: (0, 0)
+Lvl3: (0, 0)
+Lvl4: (0, 0)
+Lvl5: (0, 0)
+
+/24
+Name: Scouting;
+Class: 2
+
+Hero Upgrades:
+Lvl1: (996, 5)
+Lvl2: (996, 5)
+Lvl3: (996, 5)
+Lvl4: (996, 10)
+Lvl5: (996, 10)
+
+Squad Upgrades:
+Lvl1: (0, 0)
+Lvl2: (0, 0)
+Lvl3: (0, 0)
+Lvl4: (0, 0)
+Lvl5: (0, 0)
+
+/25
+Name: Archery;
+Class: 2
+
+Hero Upgrades:
+Lvl1: (77, 1; 10, 1)
+Lvl2: (77, 1; 10, 1)
+Lvl3: (77, 1; 10, 1)
+Lvl4: (77, 1; 10, 1)
+Lvl5: (77, 1; 10, 1)
+
+Squad Upgrades:
+Lvl1: (0, 0)
+Lvl2: (0, 0)
+Lvl3: (0, 0)
+Lvl4: (0, 0)
+Lvl5: (0, 0)
+
+/26
+Name: Pathfinding;
+Class: 2
+
+Hero Upgrades:
+Lvl1: (0, 0)
+Lvl2: (0, 0)
+Lvl3: (998, 1)
+Lvl4: (0, 0)
+Lvl5: (998, 1)
+
+Squad Upgrades:
+Lvl1: (32, 1)
+Lvl2: (33, 1)
+Lvl3: (34, 1)
+Lvl4: (32, 3; 33, 3; 34, 3)
+Lvl5: (32, 4; 33, 4; 34, 4)
+
+/27
+Name: Diplomacy;
+Class: 2
+
+Hero Upgrades:
+Lvl1: (985, 10)
+Lvl2: (985, 10)
+Lvl3: (985, 20)
+Lvl4: (985, 30)
+Lvl5: (985, 30)
+
+Squad Upgrades:
+Lvl1: (0, 0)
+Lvl2: (0, 0)
+Lvl3: (0, 0)
+Lvl4: (0, 0)
+Lvl5: (0, 0)
+
+/28
+Name: Looting;
+Class: 2
+
+Hero Upgrades:
+Lvl1: (992, 1)
+Lvl2: (992, 1)
+Lvl3: (992, 1)
+Lvl4: (992, 2)
+Lvl5: (992, 2)
+
+Squad Upgrades:
+Lvl1: (0, 0)
+Lvl2: (0, 0)
+Lvl3: (0, 0)
+Lvl4: (0, 0)
+Lvl5: (0, 0)

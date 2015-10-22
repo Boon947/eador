@@ -1,0 +1,43 @@
+Quantity: 13
+
+/0 
+Name: Common;
+
+/1
+Name: Melee Weapon;
+
+/2
+Name: Heavy Weapon;
+
+/3 
+Name: Ranged Weapon;
+
+/4 
+Name: Wand;
+
+/5 
+Name: Banner;
+
+/6
+Name: Light Armor;
+
+/7
+Name: Medium Armor;
+
+/8
+Name: Heavy Armor;
+
+/9
+Name: Shield;
+
+/10
+Name: Spell Scroll;
+
+/11
+Name: Guard Contract;
+
+/12
+Name: Building Schematics;
+
+/13
+Name: Ritual Scroll;

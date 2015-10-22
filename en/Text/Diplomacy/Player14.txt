@@ -1,0 +1,281 @@
+/Стинхрия
+/0 Первая встреча
+Index: 1;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Hail to you, %s. I am Stenriya, a sorceress and a seer. The stars have told me that Fate wants this Shard to be part of my world. You are quite bold if you have decided to defy Fate. We'll see if you're strong enough for this.#
+
+/1 Не первая встреча (Плохие отношения)
+Index: 2;
+Min: -5000;
+Max: -100;
+Name: 1;
+Param: 0;
+Text: #You again, %s? Are you pursuing me? This Shard is mine. Do you understand? Don't try to get your greedy hands on it!#
+
+/2 Не первая встреча (Нейтрален)
+Index: 2;
+Min: -99;
+Max: 99;
+Name: 1;
+Param: 0;
+Text: #Hail to you, %s. Our paths have crossed again. I'm sure that Fate is on my side. I advise you not to dispute with it... nor with me.#
+
+/3 Не первая встреча (Хорошие отношения)
+Index: 2;
+Min: 100;
+Max: 5000;
+Name: 1;
+Param: 0;
+Text: #%s! What a gift of Fate! Glad to see you here. May good luck never leave you.#
+
+/4 Сразу война
+Index: 3;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #It's time to test Fate, %s. We are alone on this Shard, and only war will tell who of us it will belong to. I wish you luck, for you will need it.#
+
+/5 Объявление войны
+Index: 4;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Listen to what I'm going to say to you, %s. I'm tired of you. I've tolerated you being my neighbor for a long time, but even saintly patience, which I don't have, has its limits. It's time for me to get rid of you, and that's what I intend to do. I declare war on you!#
+
+/6 Предложение мира
+Index: 5;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Hail to you, %s. I have come in peace. Let's cease our strife and dismiss our old grudges.#
+
+/7 Предложение союза
+Index: 6;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Greetings, %s! To be honest, I think that you are one of the wisest Masters around. That's not flattery but an indisputable truth. Today I've decided to offer you an alliance. If we combine our forces, we'll easily overpower our rivals, always at one another's throats because of their incessant lust for power. Do you agree?#
+
+/8 Предложение торговли 
+Index: 7;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Hail to you, %s. What about signing a little Trade Agreement? I'm sure that both of us will profit from such a pact.#
+
+/9 Предложение обмена
+Index: 8;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Hail to you, %s. I offer you a little exchange. I think you'll realize that it's quite foolish to refuse such a profitable deal.#
+
+/10 Пересмотр торговли
+Index: 9;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Hail to you, %s. The prices have changed, so it's time to make changes in our Trade Agreement too.#
+
+/11 Отмена торговли
+Index: 10;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Hail to you, %s. It was nice to trade with you, but not very profitable. That's why I have to break our Trade Agreement.#
+
+/12 Отмена союза
+Index: 11;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Hail to you, %s. Recently you have been acting rather... strange, for lack of a better word. All told, you failed to justify my trust, so I'm breaking our alliance.#
+
+/13 Требование выкупа
+Index: 12;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Hail to you, %s. I'm starting to wonder if you value my friendship and favor much. In order to confirm your goodwill towards me, you have to present me a small gift. And if you show yourself to be too greedy, I believe it might be prudent of me to get rid of you...#
+
+/14 Дар
+Index: 13;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Hail to you, %s. In order to prove you how much I value your favor, I've decided to present you with a generous gift. I hope you're satisfied.#
+
+/15 Отказ (Грубый)
+Index: 14;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: -1;
+Text: #Are you out of your mind, %s?! Of course I'm against it!#
+
+/16 Отказ (Обычный)
+Index: 14;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #No, I'm not interested in this.#
+
+/17 Отказ (Вежливый)
+Index: 14;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 1;
+Text: #An interesting offer, %s, very interesting. However, I feel like there must be a catch. I refuse.#
+
+/18 Соглашение (Недовольное)
+Index: 15;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: -1;
+Text: #You ought to be ashamed of yourself, trying to take such a filthy advantage of my goodwill towards you! I agree, but you disappoint me.#
+
+/19 Соглашение (Нейтральное)
+Index: 15;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Well, even if there's a catch, I don't see it. I agree.#
+
+/20 Соглашение (Довольное)
+Index: 15;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 1;
+Text: #Thank you, %s, you've made me happy. I thought there were no smart Masters left in Eador anymore. Well, I guess I was wrong. I agree.#
+
+/21 Отказ от общения (1х1)
+Index: 19;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Listen, %s, we both know that only one of us can possess this Shard. So save your talk for later, because now is the time for bloodshed!#
+
+/22 Отказ от переговоров
+Index: 23;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Don't rend the air with empty words and the Astral with empty thoughts. The war has just begun, and now is not the time for conversation.#
+
+/23 Союзник, жребий или война
+Index: 20;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Hail to you, %s. I'm glad that our combined efforts have been crowned with success. Now the time has come to decide who will get the main prize. Will we trust Fate, or will we test our swords in battle?#
+
+/24 Союзник, сдаться или война
+Index: 21;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Hail to you, %s. I'm glad that our combined efforts have been crowned with success. I don't think you'll be impudent enough to deny the fact that this Shard is meant for me and me alone. That's why I suggest you concede and waste not your time on a senseless war that you are doomed to lose.#
+
+/25 Союзник, сдача
+Index: 22;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Hail to you, %s. I'm glad that our combined efforts have been crowned with success. Perhaps you'll be surprised, but I've decided to give this Shard to you. On the condition that you will never forget my generosity.#
+
+/26 Отказ от подарка
+Index: 24;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I suppose you think I'm a beggarwoman asking for alms? You may keep your «gift,» %s. Such a piece of dung is repulsive even to look at.#
+
+/27 Принимаем дары
+Index: 25;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Thank you, %s, you know how to please me. Your gift will take a worthy place in my treasury.#
+
+/28 Отказ от союза с предателем
+Index: 16;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I haven't seen a rascal more vile than you, %s, in all my life! You offer me an alliance after your vile betrayal? Now there's something I didn't expect, even from you!#
+
+/29 Отказ от мира с предателем
+Index: 17;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Are you asking for mercy, %s? That's pleasant. But it's a hundred times more pleasant to refuse you mercy. Such vile traitors as you should be punished. Taught a good lesson.#
+
+/30 Первая встреча, кампания
+Index: 26;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Oh, there you are, %s! It seems that Fate has decided to intertwine the threads of our destinies on this Shard. Well, let's see who it favors.#
+
+/31 Ответ на объявление войны
+Index: 27;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #So you want to play toy soldiers, don't you, %s? Well well, let's see what you're capable of.#
+
+/32 Отказ в мире союзнику
+Index: 28;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Listen, %s, what do we need this peace for? %s will annoy both you and me, no doubt. So let's destroy our common enemy together, without trying to play a game of diplomacy.#
+
+/33 Ответ на предательство
+Index: 29;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #You're a vile crook and hypocrite, %s! I'll make sure every Master in Eador learns of your vile betrayal.#
+
+/34 Война, остались 1х1
+Index: 30;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Hail to you, %s. Now the time has come to test our Fate. We are alone on this Shard, and only war will tell who of us it will belong to. I wish you luck, for you will need it.#
+&&&&&&

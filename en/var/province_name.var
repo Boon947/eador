@@ -1,0 +1,3970 @@
+Quantity: 566
+
+/0
+Name: Empty;
+Rarity: 0
+Coastal: 0
+Terrain: (0)
+Type: (0)
+
+/1
+Name: Great Wasteland;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/2
+Name: Valley of the Winds;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/3
+Name: Great Hursts;
+Rarity: 3
+Coastal: 0
+Terrain: (3)
+Type: (1)
+
+/4
+Name: Raven Steppes;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/5
+Name: Valley of Snakes;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/6
+Name: Oldfields;
+Rarity: 3
+Coastal: 0
+Terrain: (1)
+Type: (1)
+
+/7
+Name: Misty Fields;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/8
+Name: Savage Wasteland;
+Rarity: 2
+Coastal: 0
+Terrain: (1)
+Type: (3)
+
+/9
+Name: Dawn Coast;
+Rarity: 1
+Coastal: 1
+Terrain: (1, 3)
+Type: (0)
+
+/10
+Name: Dead Field;
+Rarity: 2
+Coastal: 0
+Terrain: (1)
+Type: (5)
+
+/11
+Name: Valley of Death;
+Rarity: 2
+Coastal: 0
+Terrain: (1)
+Type: (5)
+
+/12
+Name: Deadly Bogs;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/13
+Name: Reeking Bogs;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (4)
+
+/14
+Name: Misty Swamps;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/15
+Name: Ghostly Swamps;
+Rarity: 3
+Coastal: 0
+Terrain: (4)
+Type: (5)
+
+/16
+Name: Downbog;
+Rarity: 3
+Coastal: 0
+Terrain: (4)
+Type: (1)
+
+/17
+Name: Marshvale;
+Rarity: 2
+Coastal: 0
+Terrain: (4)
+Type: (1)
+
+/18
+Name: Rain Coast;
+Rarity: 3
+Coastal: 1
+Terrain: (4)
+Type: (0)
+
+/19
+Name: Sunny Vale;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/20
+Name: Moonlight Valley;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/21
+Name: Loaves;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (1)
+
+/22
+Name: Undermount;
+Rarity: 3
+Coastal: 0
+Terrain: (3)
+Type: (1)
+
+/23
+Name: Byrr-Chagg;
+Rarity: 1
+Coastal: 0
+Terrain: (0)
+Type: (6)
+
+/24
+Name: Hag-Rysh;
+Rarity: 1
+Coastal: 0
+Terrain: (0)
+Type: (6)
+
+/25
+Name: Byrdash;
+Rarity: 1
+Coastal: 0
+Terrain: (0)
+Type: (6)
+
+/26
+Name: Ush Plains;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/27
+Name: Ravineside;
+Rarity: 1
+Coastal: 0
+Terrain: (1, 3)
+Type: (1)
+
+/28
+Name: Overbog;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (1)
+
+/29
+Name: Oaklets;
+Rarity: 3
+Coastal: 0
+Terrain: (2)
+Type: (1)
+
+/30
+Name: Shores of Hope;
+Rarity: 1
+Coastal: 1
+Terrain: (1)
+Type: (0)
+
+/31
+Name: Downwoods;
+Rarity: 3
+Coastal: 0
+Terrain: (2)
+Type: (1)
+
+/32
+Name: Black Morass;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/33
+Name: Dreampools;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/34
+Name: Mosquito Bogs;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/35
+Name: Valley of Skeletons;
+Rarity: 3
+Coastal: 0
+Terrain: (1)
+Type: (5)
+
+/36
+Name: Fiery Steppe;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/37
+Name: Green Vale;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/38
+Name: Raan Wood;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/39
+Name: Tunrim's Steppes;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/40
+Name: Nidack Valley;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/41
+Name: Iron Hills;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/42
+Name: Green Banks;
+Rarity: 3
+Coastal: 0
+Terrain: (3)
+Type: (8)
+
+/43
+Name: Gray Mounds;
+Rarity: 3
+Coastal: 0
+Terrain: (3)
+Type: (5)
+
+/44
+Name: Steel Ridge;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/45
+Name: Kobold Hills;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/46
+Name: Singing Hills;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/47
+Name: Smoky Foothills;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/48
+Name: Skullcoast;
+Rarity: 1
+Coastal: 1
+Terrain: (1, 3)
+Type: (0)
+
+/49
+Name: Forbidden Wood;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (2)
+
+/50
+Name: Weeping Bogs;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/51
+Name: Swamp of Tears;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/52
+Name: Dagor;
+Rarity: 1
+Coastal: 0
+Terrain: (0)
+Type: (11)
+
+/53
+Name: Cornburg;
+Rarity: 1
+Coastal: 0
+Terrain: (0)
+Type: (11)
+
+/54
+Name: Skilton;
+Rarity: 1
+Coastal: 0
+Terrain: (0)
+Type: (11)
+
+/55
+Name: Clime;
+Rarity: 1
+Coastal: 0
+Terrain: (0)
+Type: (11)
+
+/56
+Name: Quiet Plains;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/57
+Name: Fiendhive;
+Rarity: 1
+Coastal: 0
+Terrain: (0)
+Type: (15)
+
+/58
+Name: Valley of Swords;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/59
+Name: Hissing Wasteland;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/60
+Name: Savage Wood;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/61
+Name: Dark Pinewood;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/62
+Name: Aentwill;
+Rarity: 3
+Coastal: 0
+Terrain: (2)
+Type: (9)
+
+/63
+Name: Seelendal;
+Rarity: 3
+Coastal: 0
+Terrain: (2)
+Type: (9)
+
+/64
+Name: Lannotryn;
+Rarity: 3
+Coastal: 0
+Terrain: (2)
+Type: (9)
+
+/65
+Name: Ghur Kardukk;
+Rarity: 3
+Coastal: 0
+Terrain: (3)
+Type: (10)
+
+/66
+Name: Tarbandyr;
+Rarity: 3
+Coastal: 0
+Terrain: (3)
+Type: (10)
+
+/67
+Name: Dor Gurrock;
+Rarity: 3
+Coastal: 0
+Terrain: (3)
+Type: (10)
+
+/68
+Name: Yarbanguir;
+Rarity: 3
+Coastal: 0
+Terrain: (3)
+Type: (10)
+
+/69
+Name: Archers Thicket;
+Rarity: 2
+Coastal: 0
+Terrain: (2)
+Type: (2)
+
+/70
+Name: Bearwilds;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/71
+Name: Gray Oakwood;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/72
+Name: Urgin Hillside;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/73
+Name: Rotten Swamps;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/74
+Name: Deadmen Swamp;
+Rarity: 3
+Coastal: 0
+Terrain: (4)
+Type: (5)
+
+/75
+Name: Grizzled Wood;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/76
+Name: Fetid Hills;
+Rarity: 2
+Coastal: 0
+Terrain: (3)
+Type: (4)
+
+/77
+Name: Great Mud;
+Rarity: 3
+Coastal: 0
+Terrain: (4)
+Type: (4)
+
+/78
+Name: Dusty Plains;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/79
+Name: Toad Swamps;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/80
+Name: Fawrin Plains;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/81
+Name: Merry Vale;
+Rarity: 2
+Coastal: 0
+Terrain: (1)
+Type: (1)
+
+/82
+Name: Cat's Mount;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (1)
+
+/83
+Name: Dry Banks;
+Rarity: 2
+Coastal: 0
+Terrain: (3)
+Type: (8)
+
+/84
+Name: Tannerside;
+Rarity: 1
+Coastal: 0
+Terrain: (0)
+Type: (1)
+
+/85
+Name: New Gates;
+Rarity: 1
+Coastal: 0
+Terrain: (0)
+Type: (1)
+
+/86
+Name: Old Mines;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/87
+Name: Witchbogs;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/88
+Name: Spider Forest;
+Rarity: 3
+Coastal: 0
+Terrain: (2)
+Type: (12)
+
+/89
+Name: Basilisk Swamps;
+Rarity: 3
+Coastal: 0
+Terrain: (4)
+Type: (13)
+
+/90
+Name: Harpy Cliffs;
+Rarity: 3
+Coastal: 0
+Terrain: (3)
+Type: (14)
+
+/91
+Name: Wolfwilds;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/92
+Name: Scorpio Wasteland;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/93
+Name: Scarab Valley;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/94
+Name: Mushroom Skirts;
+Rarity: 3
+Coastal: 0
+Terrain: (2)
+Type: (8)
+
+/95
+Name: Thunder Steppes;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/96
+Name: Ferocious Woods;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/97
+Name: Bald Mountain;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/98
+Name: Tyl-Laran;
+Rarity: 3
+Coastal: 0
+Terrain: (2)
+Type: (9)
+
+/99
+Name: Xar-Dugnir;
+Rarity: 3
+Coastal: 0
+Terrain: (3)
+Type: (10)
+
+/100
+Name: Copper Hills;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/101
+Name: Unicorn Forest;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/102
+Name: Whispering Wood;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/103
+Name: Black Thicket;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/104
+Name: Freeborn Wood;
+Rarity: 3
+Coastal: 0
+Terrain: (2)
+Type: (2)
+
+/105
+Name: Sleeping Forest;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/106
+Name: Fox Thicket;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/107
+Name: Ensorcelled Thicket;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/108
+Name: Nallinnae;
+Rarity: 3
+Coastal: 0
+Terrain: (2)
+Type: (9)
+
+/109
+Name: Quiet Oakwood;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/110
+Name: Twilight Wood;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/111
+Name: Heather Range;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/112
+Name: Candar Rock;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (10)
+
+/113
+Name: Posset's Banks;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/114
+Name: Demon's Mount;
+Rarity: 3
+Coastal: 0
+Terrain: (3)
+Type: (15)
+
+/115
+Name: Wondrous Hills;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/116
+Name: Screecher Hills;
+Rarity: 3
+Coastal: 0
+Terrain: (3)
+Type: (14)
+
+/117
+Name: Dim Highland;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/118
+Name: Badger Hills;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/119
+Name: Tor's Ridge;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/120
+Name: Whistling Range;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/121
+Name: Ormhold;
+Rarity: 3
+Coastal: 0
+Terrain: (0)
+Type: (11)
+
+/122
+Name: Wolverine Valley;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/123
+Name: Idol Field;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/124
+Name: Thurmgard;
+Rarity: 2
+Coastal: 0
+Terrain: (0)
+Type: (11)
+
+/125
+Name: Cuner;
+Rarity: 1
+Coastal: 0
+Terrain: (0)
+Type: (11)
+
+/126
+Name: Wild Field;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/127
+Name: Falhorn;
+Rarity: 2
+Coastal: 0
+Terrain: (0)
+Type: (11)
+
+/128
+Name: Standing Stones;
+Rarity: 1
+Coastal: 0
+Terrain: (1, 3)
+Type: (0)
+
+/129
+Name: Viper Bogs;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/130
+Name: Reed Folds;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/131
+Name: Yosh-Kalyk;
+Rarity: 4
+Coastal: 0
+Terrain: (1)
+Type: (6)
+
+/132
+Name: Dursh-Bohoz;
+Rarity: 3
+Coastal: 0
+Terrain: (0)
+Type: (6)
+
+/133
+Name: Urug-Khysh;
+Rarity: 3
+Coastal: 0
+Terrain: (0)
+Type: (6)
+
+/134
+Name: Maggot Swamp;
+Rarity: 4
+Coastal: 0
+Terrain: (4)
+Type: (4)
+
+/135
+Name: Reedy Swamps;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/136
+Name: Springburg;
+Rarity: 2
+Coastal: 0
+Terrain: (0)
+Type: (1)
+
+/137
+Name: Turf Swamps;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/138
+Name: Murky Bogs;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/139
+Name: Deadtree Woods;
+Rarity: 4
+Coastal: 0
+Terrain: (2)
+Type: (5)
+
+/140
+Name: Gray Cliffs;
+Rarity: 1
+Coastal: 1
+Terrain: (3)
+Type: (0)
+
+/141
+Name: Mermaid Shore;
+Rarity: 2
+Coastal: 1
+Terrain: (2)
+Type: (0)
+
+/142
+Name: Enchanted Forest;
+Rarity: 3
+Coastal: 0
+Terrain: (2)
+Type: (16)
+
+/143
+Name: Shattered Lands;
+Rarity: 3
+Coastal: 0
+Terrain: (1, 3)
+Type: (15)
+
+/144
+Name: Devilish Woods;
+Rarity: 3
+Coastal: 0
+Terrain: (2)
+Type: (15)
+
+/145
+Name: Demon Bogs;
+Rarity: 3
+Coastal: 0
+Terrain: (4)
+Type: (15)
+
+/146
+Name: Demon Range;
+Rarity: 3
+Coastal: 0
+Terrain: (3)
+Type: (15)
+
+/147
+Name: Ensorcelled Oakwood;
+Rarity: 3
+Coastal: 0
+Terrain: (2)
+Type: (16)
+
+/148
+Name: Forest of Shadows;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/149
+Name: Karilme's Grounds;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/150
+Name: Hexed Thicket;
+Rarity: 3
+Coastal: 0
+Terrain: (2)
+Type: (16)
+
+/151
+Name: Burrowfield;
+Rarity: 3
+Coastal: 0
+Terrain: (1)
+Type: (8)
+
+/152
+Name: Mossy Swamps;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/153
+Name: Flower Valley;
+Rarity: 3
+Coastal: 0
+Terrain: (1)
+Type: (8)
+
+/154
+Name: Strawberry Vale;
+Rarity: 3
+Coastal: 0
+Terrain: (1)
+Type: (8)
+
+/155
+Name: Valley of Death;
+Rarity: 3
+Coastal: 0
+Terrain: (1)
+Type: (5)
+
+/156
+Name: Pale Plains;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/157
+Name: Xantar Wood;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/158
+Name: Worm Forest;
+Rarity: 4
+Coastal: 0
+Terrain: (2)
+Type: (4)
+
+/159
+Name: Wildboar Thicket;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/160
+Name: Rambling Hills;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/161
+Name: Catharch Hills;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/162
+Name: Brown Woods;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/163
+Name: Gray Wasteland;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/164
+Name: Fergeast;
+Rarity: 3
+Coastal: 0
+Terrain: (0)
+Type: (11)
+
+/165
+Name: Rossorn;
+Rarity: 3
+Coastal: 0
+Terrain: (0)
+Type: (11)
+
+/166
+Name: Penorne Wood;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/167
+Name: Saguir Steppes;
+Rarity: 3
+Coastal: 0
+Terrain: (1)
+Type: (3)
+
+/168
+Name: Legris Swamps;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/169
+Name: Terra Swamps;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/170
+Name: Hogor Valley;
+Rarity: 3
+Coastal: 0
+Terrain: (1)
+Type: (3)
+
+/171
+Name: Curchat;
+Rarity: 3
+Coastal: 0
+Terrain: (0)
+Type: (11)
+
+/172
+Name: Broster;
+Rarity: 2
+Coastal: 0
+Terrain: (0)
+Type: (11)
+
+/173
+Name: Hilly Sideland;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/174
+Name: Serron;
+Rarity: 1
+Coastal: 0
+Terrain: (0)
+Type: (11)
+
+/175
+Name: Teriane Wood;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/176
+Name: Orgore Hills;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/177
+Name: Renton Highland;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/178
+Name: Burtian Swamps;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/179
+Name: Western Star Forest;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/180
+Name: Dusky Wasteland;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/181
+Name: Ifryndell;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (9)
+
+/182
+Name: Ardarune Valley;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/183
+Name: Landerg;
+Rarity: 3
+Coastal: 0
+Terrain: (0)
+Type: (11)
+
+/184
+Name: Melter Arras;
+Rarity: 3
+Coastal: 0
+Terrain: (0)
+Type: (11)
+
+/185
+Name: Al-Athor;
+Rarity: 3
+Coastal: 0
+Terrain: (0)
+Type: (11)
+
+/186
+Name: Xirgothar;
+Rarity: 3
+Coastal: 0
+Terrain: (0)
+Type: (11)
+
+/187
+Name: Celirnoy Valley;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/188
+Name: Urud Yndir;
+Rarity: 3
+Coastal: 0
+Terrain: (3)
+Type: (10)
+
+/189
+Name: Dryvale;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/190
+Name: Clear Thicket;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/191
+Name: Barren Hills;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/192
+Name: Bitter Hills;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/193
+Name: Black Ravines;
+Rarity: 1
+Coastal: 0
+Terrain: (1, 3, 4)
+Type: (0)
+
+/194
+Name: Fierylands;
+Rarity: 2
+Coastal: 0
+Terrain: (0)
+Type: (1)
+
+/195
+Name: Shabby Yard;
+Rarity: 3
+Coastal: 0
+Terrain: (0)
+Type: (1)
+
+/196
+Name: Old Stow;
+Rarity: 2
+Coastal: 0
+Terrain: (0)
+Type: (5)
+
+/197
+Name: Daerdun;
+Rarity: 2
+Coastal: 0
+Terrain: (0)
+Type: (11)
+
+/198
+Name: Boglake;
+Rarity: 1
+Coastal: 1
+Terrain: (4)
+Type: (0)
+
+/199
+Name: Rocky Shore;
+Rarity: 1
+Coastal: 1
+Terrain: (3)
+Type: (0)
+
+/200
+Name: Clear Valley;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/201
+Name: Threemeadow;
+Rarity: 4
+Coastal: 0
+Terrain: (1)
+Type: (1)
+
+/202
+Name: Goat Meadow;
+Rarity: 3
+Coastal: 0
+Terrain: (1)
+Type: (1)
+
+/203
+Name: Hunter's Vale;
+Rarity: 3
+Coastal: 0
+Terrain: (2)
+Type: (1)
+
+/204
+Name: Woody Vale;
+Rarity: 3
+Coastal: 0
+Terrain: (2)
+Type: (1)
+
+/205
+Name: Reaper's Burgh;
+Rarity: 3
+Coastal: 0
+Terrain: (1)
+Type: (1)
+
+/206
+Name: Auction;
+Rarity: 2
+Coastal: 0
+Terrain: (0)
+Type: (1)
+
+/207
+Name: Holme's Ridge;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/208
+Name: Misty Vale;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/209
+Name: Old Corns;
+Rarity: 3
+Coastal: 0
+Terrain: (1)
+Type: (1)
+
+/210
+Name: Crookedy;
+Rarity: 1
+Coastal: 0
+Terrain: (0)
+Type: (4)
+
+/211
+Name: Taur's Thicket;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/212
+Name: Urduk Kir;
+Rarity: 3
+Coastal: 0
+Terrain: (3)
+Type: (10)
+
+/213
+Name: Lonesome Vale;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/214
+Name: Windwaste;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/215
+Name: Stonefolds;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/216
+Name: Hare Hills;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/217
+Name: Sacred Forest;
+Rarity: 5
+Coastal: 0
+Terrain: (2)
+Type: (16)
+
+/218
+Name: Druid Thicket;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/219
+Name: Ilysdal;
+Rarity: 3
+Coastal: 0
+Terrain: (2)
+Type: (9)
+
+/220
+Name: Free Country;
+Rarity: 1
+Coastal: 0
+Terrain: (0)
+Type: (2)
+
+/221
+Name: Newsettle;
+Rarity: 2
+Coastal: 0
+Terrain: (0)
+Type: (8)
+
+/222
+Name: Groves;
+Rarity: 3
+Coastal: 0
+Terrain: (2)
+Type: (8)
+
+/223
+Name: Marshies;
+Rarity: 5
+Coastal: 0
+Terrain: (4)
+Type: (8)
+
+/224
+Name: Stonesides;
+Rarity: 2
+Coastal: 0
+Terrain: (1, 3)
+Type: (8)
+
+/225
+Name: Seelendal;
+Rarity: 4
+Coastal: 0
+Terrain: (2)
+Type: (9)
+
+/226
+Name: Abandoned Lands;
+Rarity: 3
+Coastal: 0
+Terrain: (0)
+Type: (12, 13, 14)
+
+/227
+Name: Shabby Wood;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/228
+Name: Rotten Sloughs;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/229
+Name: Great Taurus;
+Rarity: 2
+Coastal: 0
+Terrain: (0)
+Type: (1)
+
+/230
+Name: Tarlos;
+Rarity: 2
+Coastal: 0
+Terrain: (0)
+Type: (3)
+
+/231
+Name: Allien;
+Rarity: 3
+Coastal: 0
+Terrain: (2)
+Type: (9)
+
+/232
+Name: Graywilds;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/233
+Name: Eartham;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/234
+Name: Mentar-Tardos;
+Rarity: 3
+Coastal: 0
+Terrain: (0)
+Type: (11)
+
+/235
+Name: Greatlands;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/236
+Name: Rotten Hillside;
+Rarity: 3
+Coastal: 0
+Terrain: (3)
+Type: (4)
+
+/237
+Name: Blackrock;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/238
+Name: Deadwilds;
+Rarity: 5
+Coastal: 0
+Terrain: (2)
+Type: (12)
+
+/239
+Name: Orcish Hillside;
+Rarity: 3
+Coastal: 0
+Terrain: (3)
+Type: (6)
+
+/240
+Name: Khor Plains;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/241
+Name: Byplace;
+Rarity: 1
+Coastal: 0
+Terrain: (2, 4)
+Type: (0)
+
+/242
+Name: Prince's Dams;
+Rarity: 2
+Coastal: 0
+Terrain: (4)
+Type: (1, 11)
+
+/243
+Name: Swelling Lands;
+Rarity: 1
+Coastal: 0
+Terrain: (1, 4)
+Type: (0)
+
+/244
+Name: Gur's Highland;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/245
+Name: Bonfire Valley;
+Rarity: 3
+Coastal: 0
+Terrain: (1)
+Type: (3)
+
+/246
+Name: Forest of the Fallen;
+Rarity: 2
+Coastal: 0
+Terrain: (2)
+Type: (2, 5)
+
+/247
+Name: Outlooker Hills;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/248
+Name: Deer Thicket;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/249
+Name: Walking Wood;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/250
+Name: Hexvale;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/251
+Name: Bone Ridge;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/252
+Name: Urlis Swamps;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/253
+Name: Gurin's Grounds;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/254
+Name: Shykh-Ruggakh;
+Rarity: 3
+Coastal: 0
+Terrain: (0)
+Type: (6)
+
+/255
+Name: Tainted Lands;
+Rarity: 3
+Coastal: 0
+Terrain: (0)
+Type: (15)
+
+/256
+Name: Sorcerer's Grove;
+Rarity: 3
+Coastal: 0
+Terrain: (2)
+Type: (16)
+
+/257
+Name: Spiderweb Thicket;
+Rarity: 3
+Coastal: 0
+Terrain: (2)
+Type: (12)
+
+/258
+Name: Tyrak Steppes;
+Rarity: 3
+Coastal: 0
+Terrain: (1)
+Type: (3, 17)
+
+/259
+Name: Chemeris Folds;
+Rarity: 1
+Coastal: 0
+Terrain: (1, 4)
+Type: (0)
+
+/260
+Name: Tunrim's Hills;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/261
+Name: Shokhar Valley;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/262
+Name: Pools of Oblivion;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/263
+Name: Guardian Ridge;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/264
+Name: Woods of Stillness;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/265
+Name: Gloomy Pinewood;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/266
+Name: Lantanay;
+Rarity: 4
+Coastal: 0
+Terrain: (2)
+Type: (9)
+
+/267
+Name: Pale Moon Steppes;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/268
+Name: High Hills;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/269
+Name: Foul Swamps;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/270
+Name: Doraat;
+Rarity: 3
+Coastal: 0
+Terrain: (0)
+Type: (11)
+
+/271
+Name: Stagnant Waters;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/272
+Name: Cyclops' Heel;
+Rarity: 3
+Coastal: 0
+Terrain: (3)
+Type: (19)
+
+/273
+Name: Honey Meadows;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/274
+Name: Shiptimber Wood;
+Rarity: 1
+Coastal: 1
+Terrain: (2)
+Type: (0)
+
+/275
+Name: Hysh-Nadrookh;
+Rarity: 3
+Coastal: 0
+Terrain: (0)
+Type: (6)
+
+/276
+Name: Yaram Swamp;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/277
+Name: Valley of the Gone;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/278
+Name: Crimson Banks;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/279
+Name: Cicadas Fields;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/280
+Name: Quiet Grove;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/281
+Name: Ancestral Woods;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/282
+Name: Triton Creek;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/283
+Name: Valley of Signs;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/284
+Name: Sharp Ridge;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/285
+Name: Dryad Thicket;
+Rarity: 4
+Coastal: 0
+Terrain: (2)
+Type: (16)
+
+/286
+Name: Troll Swamps;
+Rarity: 4
+Coastal: 0
+Terrain: (4)
+Type: (20)
+
+/287
+Name: Giant Hills;
+Rarity: 4
+Coastal: 0
+Terrain: (3)
+Type: (19)
+
+/288
+Name: Cyclopes Plateau;
+Rarity: 4
+Coastal: 0
+Terrain: (3)
+Type: (19)
+
+/289
+Name: Cloudy Valley;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/290
+Name: Buffalo Steppes;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/291
+Name: Wanderer Valley;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/292
+Name: Faceless Plain;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/293
+Name: Runic Hills;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/294
+Name: Owl Oakwood;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/295
+Name: Toothy Range;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/296
+Name: Pixie Woods;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/297
+Name: Bottomless Bogs;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/298
+Name: Bloody Swamps;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/299
+Name: Fanged Banks;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/300
+Name: Foul Thicket;
+Rarity: 3
+Coastal: 0
+Terrain: (2)
+Type: (5, 15)
+
+/301
+Name: Nightmare Land;
+Rarity: 1
+Coastal: 0
+Terrain: (0)
+Type: (5, 15)
+
+/302
+Name: Rockabron;
+Rarity: 1
+Coastal: 0
+Terrain: (0)
+Type: (11)
+
+/303
+Name: Sorrelon;
+Rarity: 3
+Coastal: 0
+Terrain: (0)
+Type: (9)
+
+/304
+Name: Potane;
+Rarity: 1
+Coastal: 0
+Terrain: (0)
+Type: (1, 11)
+
+/305
+Name: Tyrysed;
+Rarity: 3
+Coastal: 0
+Terrain: (0)
+Type: (11)
+
+/306
+Name: Bourusland;
+Rarity: 2
+Coastal: 0
+Terrain: (0)
+Type: (8)
+
+/307
+Name: Loutallan;
+Rarity: 3
+Coastal: 0
+Terrain: (0)
+Type: (9)
+
+/308
+Name: Deiwardhan;
+Rarity: 2
+Coastal: 0
+Terrain: (0)
+Type: (17)
+
+/309
+Name: Visharn;
+Rarity: 3
+Coastal: 0
+Terrain: (0)
+Type: (17)
+
+/310
+Name: Shumana;
+Rarity: 3
+Coastal: 0
+Terrain: (0)
+Type: (17)
+
+/311
+Name: Ratabar;
+Rarity: 3
+Coastal: 0
+Terrain: (0)
+Type: (10)
+
+/312
+Name: Dushvatar;
+Rarity: 3
+Coastal: 0
+Terrain: (0)
+Type: (17)
+
+/313
+Name: Revdish;
+Rarity: 2
+Coastal: 0
+Terrain: (0)
+Type: (11)
+
+/314
+Name: Shoudole Wood;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/315
+Name: Borow Wood;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/316
+Name: Acorn Wood;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/317
+Name: Savants Forest;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/318
+Name: Wickered Thicket;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/319
+Name: Howling Wilds;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/320
+Name: Creaking Wilds;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/321
+Name: Racing Sideland;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/322
+Name: Bristly Waste;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/323
+Name: Straightvale Steppes;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/324
+Name: Loachy Wasteland;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/325
+Name: Tabria Steppes;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/326
+Name: Shadowed Vale;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/327
+Name: Rocky Hills;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/328
+Name: Flat Hills;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/329
+Name: Cloudy Hills;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/330
+Name: Great Rocksides;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/331
+Name: Quicksand Bogs;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/332
+Name: Firefly Swamps;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/333
+Name: Merchant's Swamps;
+Rarity: 3
+Coastal: 0
+Terrain: (4)
+Type: (1)
+
+/334
+Name: Lartia Swamps;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/335
+Name: Muddywaters;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/336
+Name: Toad Waters;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/337
+Name: Croftside;
+Rarity: 3
+Coastal: 0
+Terrain: (1)
+Type: (1)
+
+/338
+Name: Stone Lands;
+Rarity: 1
+Coastal: 0
+Terrain: (1, 3)
+Type: (0)
+
+/339
+Name: Boarhold;
+Rarity: 3
+Coastal: 0
+Terrain: (2)
+Type: (1)
+
+/340
+Name: Eagle Pass;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/341
+Name: Falcon Valley;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/342
+Name: Xur-Byrshagg;
+Rarity: 2
+Coastal: 0
+Terrain: (0)
+Type: (6)
+
+/343
+Name: Kharcha;
+Rarity: 1
+Coastal: 0
+Terrain: (0)
+Type: (6)
+
+/344
+Name: Phyllyr;
+Rarity: 1
+Coastal: 0
+Terrain: (0)
+Type: (10)
+
+/345
+Name: Swallower Swamps;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (20)
+
+/346
+Name: Rabid Forest;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/347
+Name: Bread Vale;
+Rarity: 3
+Coastal: 0
+Terrain: (1)
+Type: (1, 8)
+
+/348
+Name: Winged Hills;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/349
+Name: Swinging Hills;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/350
+Name: Slimy Swamp;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/351
+Name: Tobangar;
+Rarity: 3
+Coastal: 0
+Terrain: (0)
+Type: (11)
+
+/352
+Name: Okhnyrr-Dush;
+Rarity: 3
+Coastal: 0
+Terrain: (0)
+Type: (6)
+
+/353
+Name: Ghostlights;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/354
+Name: Vine Thicket;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/355
+Name: Moss Thicket;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/356
+Name: Snakeroot;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/357
+Name: Hangmen Woods;
+Rarity: 3
+Coastal: 0
+Terrain: (2)
+Type: (2)
+
+/358
+Name: Short Wilds;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/359
+Name: Oak Heap;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/360
+Name: Hedgewizard's Oaks;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/361
+Name: Oak Creek;
+Rarity: 3
+Coastal: 0
+Terrain: (2)
+Type: (8)
+
+/362
+Name: Crooked Path;
+Rarity: 2
+Coastal: 0
+Terrain: (2, 4)
+Type: (1)
+
+/363
+Name: Woods of Many Arrows;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (2)
+
+/364
+Name: Rowan Reaches;
+Rarity: 1
+Coastal: 0
+Terrain: (1, 3)
+Type: (0)
+
+/365
+Name: Mound Steppes;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/366
+Name: Hound Steppes;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/367
+Name: Honeybee Meadows;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/368
+Name: Prince's Vale;
+Rarity: 2
+Coastal: 0
+Terrain: (1)
+Type: (11)
+
+/369
+Name: Battlesteppes;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/370
+Name: Honey Fields;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/371
+Name: Hopfields;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/372
+Name: Shepherd's Span;
+Rarity: 2
+Coastal: 0
+Terrain: (1, 3)
+Type: (1)
+
+/373
+Name: Waylessness;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/374
+Name: Hunter's Lot;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/375
+Name: Great Tabernacles;
+Rarity: 3
+Coastal: 0
+Terrain: (1)
+Type: (3)
+
+/376
+Name: Ravined Valley;
+Rarity: 1
+Coastal: 0
+Terrain: (1, 3)
+Type: (0)
+
+/377
+Name: Dragon Banks;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/378
+Name: Gray Ridge;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/379
+Name: Far Smokes Ridge;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/380
+Name: Hammer Hills;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/381
+Name: Swan Pool;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/382
+Name: Moonstone Ridge;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/383
+Name: Ghostridges;
+Rarity: 3
+Coastal: 0
+Terrain: (3)
+Type: (5)
+
+/384
+Name: Swamps of the Dead;
+Rarity: 3
+Coastal: 0
+Terrain: (4)
+Type: (5)
+
+/385
+Name: Stonefall Edge;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/386
+Name: Waterlilly Bogs;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/387
+Name: Ghoul Bogs;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (5)
+
+/388
+Name: Ganet Mud;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/389
+Name: Goblin's Dam;
+Rarity: 2
+Coastal: 0
+Terrain: (4)
+Type: (4)
+
+/390
+Name: Horses Ford;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/391
+Name: Mermaid Rocks;
+Rarity: 1
+Coastal: 1
+Terrain: (0)
+Type: (0)
+
+/392
+Name: Freeborn Ponds;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (2)
+
+/393
+Name: Rams;
+Rarity: 2
+Coastal: 0
+Terrain: (0)
+Type: (1)
+
+/394
+Name: Chambers;
+Rarity: 2
+Coastal: 0
+Terrain: (0)
+Type: (1)
+
+/395
+Name: Nicofaith;
+Rarity: 2
+Coastal: 0
+Terrain: (0)
+Type: (1)
+
+/396
+Name: Petition Lands;
+Rarity: 1
+Coastal: 0
+Terrain: (0)
+Type: (11)
+
+/397
+Name: Slaterocks;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/398
+Name: Ragoon Balyr;
+Rarity: 3
+Coastal: 0
+Terrain: (3)
+Type: (10)
+
+/399
+Name: Sylnillyre;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (9)
+
+/400
+Name: Groon Bathar;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (10)
+
+/401
+Name: Impish Swamps;
+Rarity: 5
+Coastal: 0
+Terrain: (4)
+Type: (15)
+
+/402
+Name: Boundless Steppe;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/403
+Name: Hazelnut Thicket;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/404
+Name: Shattered Hills;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/405
+Name: Lurker Bogs;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/406
+Name: Forbidden Shore;
+Rarity: 1
+Coastal: 1
+Terrain: (0)
+Type: (0)
+
+/407
+Name: Weeping Lands;
+Rarity: 2
+Coastal: 0
+Terrain: (0)
+Type: (5, 15)
+
+/408
+Name: Trollpool;
+Rarity: 3
+Coastal: 0
+Terrain: (4)
+Type: (20)
+
+/409
+Name: Ogre Hills;
+Rarity: 3
+Coastal: 0
+Terrain: (3)
+Type: (19)
+
+/410
+Name: Ogre Ridge;
+Rarity: 3
+Coastal: 0
+Terrain: (3)
+Type: (19)
+
+/411
+Name: Lowgrass;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/412
+Name: Mantis Meadows;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/413
+Name: Hillridges;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/414
+Name: Crab Shore;
+Rarity: 1
+Coastal: 1
+Terrain: (0)
+Type: (0)
+
+/415
+Name: Dol-Aan;
+Rarity: 3
+Coastal: 0
+Terrain: (1)
+Type: (18)
+
+/416
+Name: Dol-Luad;
+Rarity: 3
+Coastal: 0
+Terrain: (1)
+Type: (18)
+
+/417
+Name: Dol-Naer;
+Rarity: 3
+Coastal: 0
+Terrain: (1)
+Type: (18)
+
+/418
+Name: Dol-Syon;
+Rarity: 3
+Coastal: 0
+Terrain: (1)
+Type: (18)
+
+/419
+Name: Dol-Goar;
+Rarity: 3
+Coastal: 0
+Terrain: (1)
+Type: (18)
+
+/420
+Name: Dol-Ullun;
+Rarity: 3
+Coastal: 0
+Terrain: (1)
+Type: (18)
+
+/421
+Name: Trampler Hills;
+Rarity: 2
+Coastal: 0
+Terrain: (3)
+Type: (19)
+
+/422
+Name: Medusa Shores;
+Rarity: 3
+Coastal: 1
+Terrain: (1)
+Type: (23)
+
+/423
+Name: Tempest Valley;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/424
+Name: Crayfish Sloughs;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/425
+Name: Jinglebells;
+Rarity: 2
+Coastal: 0
+Terrain: (0)
+Type: (1)
+
+/426
+Name: Crop Fields;
+Rarity: 3
+Coastal: 0
+Terrain: (1)
+Type: (1)
+
+/427
+Name: Savage Steppes;
+Rarity: 3
+Coastal: 0
+Terrain: (1)
+Type: (3)
+
+/428
+Name: Helmsman Woods;
+Rarity: 3
+Coastal: 0
+Terrain: (2)
+Type: (1)
+
+/429
+Name: Ghostly Forest;
+Rarity: 3
+Coastal: 0
+Terrain: (2)
+Type: (5)
+
+/430
+Name: Satyr Wilderness;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/431
+Name: Fross;
+Rarity: 1
+Coastal: 0
+Terrain: (0)
+Type: (7)
+
+/432
+Name: Strolg;
+Rarity: 1
+Coastal: 0
+Terrain: (0)
+Type: (7)
+
+/433
+Name: Rudd;
+Rarity: 1
+Coastal: 0
+Terrain: (0)
+Type: (7)
+
+/434
+Name: Carred;
+Rarity: 1
+Coastal: 0
+Terrain: (0)
+Type: (7)
+
+/435
+Name: Tarkard;
+Rarity: 1
+Coastal: 0
+Terrain: (0)
+Type: (7)
+
+/436
+Name: Nynthor;
+Rarity: 1
+Coastal: 0
+Terrain: (0)
+Type: (7)
+
+/437
+Name: Drazg;
+Rarity: 1
+Coastal: 0
+Terrain: (0)
+Type: (7)
+
+/438
+Name: Prald;
+Rarity: 1
+Coastal: 0
+Terrain: (0)
+Type: (7)
+
+/439
+Name: Blarg;
+Rarity: 1
+Coastal: 0
+Terrain: (0)
+Type: (7)
+
+/440
+Name: Grett;
+Rarity: 1
+Coastal: 0
+Terrain: (0)
+Type: (7)
+
+/441
+Name: Outer Lands;
+Rarity: 1
+Coastal: 0
+Terrain: (0)
+Type: (0)
+
+/442
+Name: Rat Field;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/443
+Name: Meadowside;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/444
+Name: Oldgraves;
+Rarity: 3
+Coastal: 0
+Terrain: (0)
+Type: (5)
+
+/445
+Name: Beaver Folds;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/446
+Name: Wondrous Wood;
+Rarity: 3
+Coastal: 0
+Terrain: (2)
+Type: (16)
+
+/447
+Name: Wondrous Lands;
+Rarity: 2
+Coastal: 0
+Terrain: (0)
+Type: (8, 16, 18)
+
+/448
+Name: Burrows;
+Rarity: 2
+Coastal: 0
+Terrain: (0)
+Type: (8)
+
+/449
+Name: Rotwood;
+Rarity: 4
+Coastal: 0
+Terrain: (2)
+Type: (4)
+
+/450
+Name: Old Windmills;
+Rarity: 2
+Coastal: 0
+Terrain: (1)
+Type: (1)
+
+/451
+Name: Crookwood;
+Rarity: 4
+Coastal: 0
+Terrain: (2)
+Type: (4)
+
+/452
+Name: Urgin Hillside;
+Rarity: 3
+Coastal: 0
+Terrain: (3)
+Type: (6, 19)
+
+/453
+Name: Seagull Valley;
+Rarity: 1
+Coastal: 1
+Terrain: (1)
+Type: (0)
+
+/454
+Name: Bor-Laen;
+Rarity: 3
+Coastal: 0
+Terrain: (2)
+Type: (18)
+
+/455
+Name: Bor-Gual;
+Rarity: 3
+Coastal: 0
+Terrain: (2)
+Type: (18)
+
+/456
+Name: Bor-Tuur;
+Rarity: 3
+Coastal: 0
+Terrain: (2)
+Type: (18)
+
+/457
+Name: Bor-Naeol;
+Rarity: 3
+Coastal: 0
+Terrain: (2)
+Type: (18)
+
+/458
+Name: Bor-Ylaorn;
+Rarity: 3
+Coastal: 0
+Terrain: (2)
+Type: (18)
+
+/459
+Name: Bor-Riad;
+Rarity: 3
+Coastal: 0
+Terrain: (2)
+Type: (18)
+
+/460
+Name: Bor-Ceon;
+Rarity: 3
+Coastal: 0
+Terrain: (2)
+Type: (18)
+
+/461
+Name: Fish Island;
+Rarity: 1
+Coastal: 2
+Terrain: (0)
+Type: (0)
+
+/462
+Name: Crab Island;
+Rarity: 1
+Coastal: 2
+Terrain: (0)
+Type: (0)
+
+/463
+Name: Shark Island;
+Rarity: 1
+Coastal: 2
+Terrain: (0)
+Type: (0)
+
+/464
+Name: Sea Maiden Island;
+Rarity: 1
+Coastal: 2
+Terrain: (0)
+Type: (0)
+
+/465
+Name: Island of Hope;
+Rarity: 1
+Coastal: 2
+Terrain: (0)
+Type: (0)
+
+/466
+Name: Moon Island;
+Rarity: 1
+Coastal: 2
+Terrain: (0)
+Type: (0)
+
+/467
+Name: Siren Island;
+Rarity: 1
+Coastal: 2
+Terrain: (0)
+Type: (0)
+
+/468
+Name: Medusa Island;
+Rarity: 10
+Coastal: 2
+Terrain: (0)
+Type: (23)
+
+/469
+Name: Octopus Island;
+Rarity: 1
+Coastal: 2
+Terrain: (0)
+Type: (0)
+
+/470
+Name: Squid Island;
+Rarity: 1
+Coastal: 2
+Terrain: (0)
+Type: (0)
+
+/471
+Name: Goblin Island;
+Rarity: 3
+Coastal: 2
+Terrain: (0)
+Type: (4)
+
+/472
+Name: Cursed Island;
+Rarity: 3
+Coastal: 2
+Terrain: (0)
+Type: (5, 15)
+
+/473
+Name: Orcish Island;
+Rarity: 3
+Coastal: 2
+Terrain: (0)
+Type: (6)
+
+/474
+Name: Deadman's Island;
+Rarity: 3
+Coastal: 2
+Terrain: (0)
+Type: (5)
+
+/475
+Name: Enchanted Island;
+Rarity: 3
+Coastal: 2
+Terrain: (0)
+Type: (9, 16)
+
+/476
+Name: Ogres Island;
+Rarity: 3
+Coastal: 2
+Terrain: (0)
+Type: (19)
+
+/477
+Name: Troll Island;
+Rarity: 3
+Coastal: 2
+Terrain: (0)
+Type: (20)
+
+/478
+Name: Pinetree Island;
+Rarity: 2
+Coastal: 2
+Terrain: (2)
+Type: (0)
+
+/479
+Name: Rocky Island;
+Rarity: 2
+Coastal: 2
+Terrain: (3)
+Type: (0)
+
+/480
+Name: Marshy Island;
+Rarity: 2
+Coastal: 2
+Terrain: (4)
+Type: (0)
+
+/481
+Name: Borgal;
+Rarity: 1
+Coastal: 0
+Terrain: (0)
+Type: (7)
+
+/482
+Name: Rainbow Valley;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/483
+Name: Sandy Mounts;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/484
+Name: Waterline;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (1, 8)
+
+/485
+Name: Waterspirit Pool;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/486
+Name: Forest Country;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/487
+Name: Steppe Country;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/488
+Name: Hilly Country;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/489
+Name: Swamp Country;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/490
+Name: Sweltering Valley;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/491
+Name: Hyr-Xuchtubb;
+Rarity: 3
+Coastal: 0
+Terrain: (0)
+Type: (6)
+
+/492
+Name: Rambling Ramps;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/493
+Name: Secret Island;
+Rarity: 1
+Coastal: 2
+Terrain: (0)
+Type: (0)
+
+/494
+Name: Forgotten Valley;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/495
+Name: Gloomy Thickets;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/496
+Name: Gray Ooze Bogs;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/497
+Name: Brigand Shore;
+Rarity: 1
+Coastal: 1
+Terrain: (0)
+Type: (2)
+
+/498
+Name: Quilir-Tarock;
+Rarity: 2
+Coastal: 0
+Terrain: (3)
+Type: (10)
+
+/499
+Name: Mushroom Eaters;
+Rarity: 2
+Coastal: 0
+Terrain: (2)
+Type: (1, 8)
+
+/500
+Name: Slimy Hills;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/501
+Name: Ravenside;
+Rarity: 1
+Coastal: 0
+Terrain: (0)
+Type: (11)
+
+/502
+Name: Alyssia;
+Rarity: 1
+Coastal: 0
+Terrain: (0)
+Type: (1)
+
+/503
+Name: Lizard Bogs;
+Rarity: 5
+Coastal: 0
+Terrain: (4)
+Type: (24)
+
+/504
+Name: Lizard Thicket;
+Rarity: 4
+Coastal: 0
+Terrain: (2)
+Type: (24)
+
+/505
+Name: Ssaishh;
+Rarity: 2
+Coastal: 0
+Terrain: (0)
+Type: (24)
+
+/506
+Name: Ysslushh;
+Rarity: 2
+Coastal: 0
+Terrain: (0)
+Type: (24)
+
+/507
+Name: Shhi-Ssyykhh;
+Rarity: 2
+Coastal: 0
+Terrain: (0)
+Type: (24)
+
+/508
+Name: Khhaishhass;
+Rarity: 2
+Coastal: 0
+Terrain: (0)
+Type: (24)
+
+/509
+Name: Ushh-Ukhhiss;
+Rarity: 2
+Coastal: 0
+Terrain: (0)
+Type: (24)
+
+/510
+Name: Copper Cross;
+Rarity: 2
+Coastal: 0
+Terrain: (0)
+Type: (22)
+
+/511
+Name: Lizard Island;
+Rarity: 5
+Coastal: 2
+Terrain: (0)
+Type: (24)
+
+/512
+Name: Holyground;
+Rarity: 2
+Coastal: 0
+Terrain: (0)
+Type: (22)
+
+/513
+Name: Pilgrims Valley;
+Rarity: 3
+Coastal: 0
+Terrain: (1)
+Type: (22)
+
+/514
+Name: Righteous Lands;
+Rarity: 2
+Coastal: 0
+Terrain: (0)
+Type: (22)
+
+/515
+Name: Dominus;
+Rarity: 2
+Coastal: 0
+Terrain: (0)
+Type: (22)
+
+/516
+Name: Aven Abbey;
+Rarity: 2
+Coastal: 0
+Terrain: (0)
+Type: (22)
+
+/517
+Name: Myrane Abbey;
+Rarity: 2
+Coastal: 0
+Terrain: (0)
+Type: (22)
+
+/518
+Name: Uar Abbey;
+Rarity: 2
+Coastal: 0
+Terrain: (0)
+Type: (22)
+
+/519
+Name: Blessed Shore;
+Rarity: 3
+Coastal: 1
+Terrain: (0)
+Type: (22)
+
+/520
+Name: Petrified Bogs;
+Rarity: 2
+Coastal: 0
+Terrain: (4)
+Type: (23)
+
+/521
+Name: Savior's Island;
+Rarity: 3
+Coastal: 2
+Terrain: (0)
+Type: (22)
+
+/522
+Name: Cormanthor;
+Rarity: 4
+Coastal: 0
+Terrain: (3)
+Type: (25)
+
+/523
+Name: Menzoberranzan;
+Rarity: 3
+Coastal: 0
+Terrain: (3)
+Type: (25)
+
+/524
+Name: Ched Nasad;
+Rarity: 3
+Coastal: 0
+Terrain: (3)
+Type: (25)
+
+/525
+Name: Sshamath;
+Rarity: 3
+Coastal: 0
+Terrain: (3)
+Type: (25)
+
+/526
+Name: Ust Natha;
+Rarity: 2
+Coastal: 0
+Terrain: (3)
+Type: (25)
+
+/527
+Name: Sschindylryn;
+Rarity: 2
+Coastal: 0
+Terrain: (3)
+Type: (25)
+
+/528
+Name: Chaulssin;
+Rarity: 2
+Coastal: 0
+Terrain: (3)
+Type: (25)
+
+/529
+Name: Swordcoast;
+Rarity: 2
+Coastal: 1
+Terrain: (1)
+Type: (0)
+
+/530
+Name: Waterdeep;
+Rarity: 3
+Coastal: 1
+Terrain: (1)
+Type: (1)
+
+/531
+Name: Eternal Wood;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/532
+Name: Norrath;
+Rarity: 3
+Coastal: 0
+Terrain: (1)
+Type: (27)
+
+/533
+Name: Nirn;
+Rarity: 3
+Coastal: 0
+Terrain: (1)
+Type: (27)
+
+/534
+Name: Heavenly Expanse;
+Rarity: 2
+Coastal: 0
+Terrain: (1)
+Type: (27)
+
+/535
+Name: Summerset;
+Rarity: 2
+Coastal: 0
+Terrain: (1)
+Type: (27)
+
+/536
+Name: Cattle Field;
+Rarity: 3
+Coastal: 0
+Terrain: (1)
+Type: (1)
+
+/537
+Name: Llurt Dreyer;
+Rarity: 2
+Coastal: 0
+Terrain: (3)
+Type: (25)
+
+/538
+Name: Myth Drannor;
+Rarity: 3
+Coastal: 0
+Terrain: (3)
+Type: (25)
+
+/539
+Name: Kalimdor;
+Rarity: 3
+Coastal: 0
+Terrain: (1)
+Type: (26)
+
+/540
+Name: Northrend;
+Rarity: 2
+Coastal: 0
+Terrain: (1)
+Type: (26)
+
+/541
+Name: Wondrous Lands;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (28)
+
+/542
+Name: Tsundap;
+Rarity: 2
+Coastal: 0
+Terrain: (2)
+Type: (28)
+
+/543
+Name: Ekrund;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (28)
+
+/544
+Name: Nameless Lands;
+Rarity: 2
+Coastal: 0
+Terrain: (4)
+Type: (28)
+
+/545
+Name: Kurono;
+Rarity: 2
+Coastal: 0
+Terrain: (2)
+Type: (28)
+
+/546
+Name: Altdorf;
+Rarity: 3
+Coastal: 0
+Terrain: (2)
+Type: (28)
+
+/547
+Name: Middengem;
+Rarity: 2
+Coastal: 0
+Terrain: (2)
+Type: (28)
+
+/548
+Name: Karak Varn;
+Rarity: 3
+Coastal: 0
+Terrain: (0)
+Type: (28)
+
+/549
+Name: Karak Dragos;
+Rarity: 3
+Coastal: 0
+Terrain: (0)
+Type: (28)
+
+/550
+Name: Rat Hills;
+Rarity: 2
+Coastal: 0
+Terrain: (3)
+Type: (28)
+
+/551
+Name: Ganbad Hillside;
+Rarity: 3
+Coastal: 0
+Terrain: (3)
+Type: (28)
+
+/552
+Name: Karak Azgal;
+Rarity: 3
+Coastal: 0
+Terrain: (0)
+Type: (28)
+
+/553
+Name: Gray Cliffs;
+Rarity: 2
+Coastal: 0
+Terrain: (3)
+Type: (28)
+
+/554
+Name: Sun Valley;
+Rarity: 2
+Coastal: 0
+Terrain: (1)
+Type: (27)
+
+/555
+Name: Winged Plains;
+Rarity: 2
+Coastal: 0
+Terrain: (1)
+Type: (27)
+
+/556
+Name: Falcon Flatlands;
+Rarity: 2
+Coastal: 0
+Terrain: (1)
+Type: (27)
+
+/557
+Name: Bright Plains;
+Rarity: 2
+Coastal: 0
+Terrain: (1)
+Type: (27)
+
+/558
+Name: Gorzug Valley;
+Rarity: 2
+Coastal: 0
+Terrain: (1)
+Type: (26)
+
+/559
+Name: Shugorn Steppes;
+Rarity: 2
+Coastal: 0
+Terrain: (1)
+Type: (26)
+
+/560
+Name: Shurz-Bamog;
+Rarity: 2
+Coastal: 0
+Terrain: (0)
+Type: (26)
+
+/561
+Name: Urgab-Bor;
+Rarity: 2
+Coastal: 0
+Terrain: (0)
+Type: (26)
+
+/562
+Name: Shagarz-Dulg;
+Rarity: 2
+Coastal: 0
+Terrain: (0)
+Type: (26)
+
+/563
+Name: Golem Lot;
+Rarity: 4
+Coastal: 0
+Terrain: (0)
+Type: (26)
+
+/564
+Name: Kurast Plains;
+Rarity: 3
+Coastal: 0
+Terrain: (1)
+Type: (26)
+
+/565
+Name: Harrogat;
+Rarity: 3
+Coastal: 0
+Terrain: (0)
+Type: (26)
+
+/566
+Name: Kettari;
+Rarity: 2
+Coastal: 0
+Terrain: (3)
+Type: (0)

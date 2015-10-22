@@ -1,0 +1,7470 @@
+Quantity: 283
+
+/0
+Name: Empty;
+GoldCost: 0
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (0)
+Resource: (0)
+
+*Ability*:
+Ability: 0
+Param1: 0
+Param2: 0;
+
+/1
+Name: Workshop;
+GoldCost: 50
+GemCost: 0
+Group: 0
+Slot: 36
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (0)
+Resource: (2)
+
+*Ability*:
+Ability: 1
+Param1: 0
+Param2: 0;
+
+/2
+Name: Forge;
+GoldCost: 50
+GemCost: 0
+Group: 0
+Slot: 37
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (0)
+Resource: (1)
+
+*Ability*:
+Ability: 1
+Param1: 0
+Param2: 0;
+
+/3
+Name: Library;
+GoldCost: 50
+GemCost: 10
+Group: 0
+Slot: 28
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (0)
+Resource: (0)
+
+*Ability*:
+Ability: 2
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 623
+Param2: 1
+
+Ability: 27
+Param1: 31
+Param2: 0;
+
+/4
+Name: Granary;
+GoldCost: 30
+GemCost: 0
+Group: 0
+Slot: 17
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (0)
+Resource: (0)
+
+Ability:
+Ability: 3
+Param1: 2
+Param2: 0
+
+Ability: 45
+Param1: 1
+Param2: -50;
+
+/5
+Name: Tavern;
+GoldCost: 30
+GemCost: 0
+Group: 0
+Slot: 18
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (0)
+Resource: (0)
+
+Ability:
+Ability: 5
+Param1: 2
+Param2: 0
+
+Ability: 6
+Param1: 1
+Param2: 0;
+
+/6
+Name: Altar;
+GoldCost: 50
+GemCost: 5
+Group: 0
+Slot: 42
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (0)
+Resource: (0)
+
+Ability:
+Ability: 7
+Param1: 5
+Param2: 0
+
+Ability: 19
+Param1: 1
+Param2: 0;
+
+/7
+Name: Recruiting Station;
+GoldCost: 40
+GemCost: 0
+Group: 1
+Slot: 4
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (0)
+Resource: (0)
+
+Ability:
+Ability: 8
+Param1: 1
+Param2: 0
+
+Ability: 15
+Param1: 1
+Param2: 0;
+
+/8
+Name: Slinger School;
+GoldCost: 80
+GemCost: 0
+Group: 1
+Slot: 5
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (0)
+Resource: (0)
+
+Ability:
+Ability: 8
+Param1: 2
+Param2: 0;
+
+/9
+Name: Spearman School;
+GoldCost: 80
+GemCost: 0
+Group: 1
+Slot: 6
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (1)
+Resource: (0)
+
+Ability:
+Ability: 8
+Param1: 3
+Param2: 0;
+
+/10
+Name: Shooting Ground;
+GoldCost: 135
+GemCost: 0
+Group: 1
+Slot: 7
+Upgrade: 0
+Hidden: 0
+Level: -1
+
+Buildings: (1)
+Resource: (2, 2)
+
+Ability:
+Ability: 8
+Param1: 4
+Param2: 0;
+
+/11
+Name: Swordsman School;
+GoldCost: 120
+GemCost: 0
+Group: 1
+Slot: 8
+Upgrade: 0
+Hidden: 0
+Level: -1
+
+Buildings: (2)
+Resource: (1, 1)
+
+Ability:
+Ability: 8
+Param1: 5
+Param2: 0
+
+Ability: 46
+Param1: 1
+Param2: 0;
+
+/12
+Name: Pikeman School;
+GoldCost: 110
+GemCost: 0
+Group: 1
+Slot: 9
+Upgrade: 0
+Hidden: 0
+Level: -1
+
+Buildings: (2)
+Resource: (1, 1)
+
+Ability:
+Ability: 8
+Param1: 6
+Param2: 0
+
+Ability: 46
+Param1: 1
+Param2: 0;
+
+/13
+Name: Crossbowman School;
+GoldCost: 150
+GemCost: 0
+Group: 1
+Slot: 10
+Upgrade: 0
+Hidden: 0
+Level: -1
+
+Buildings: (1, 2)
+Resource: (2, 1)
+
+Ability:
+Ability: 8
+Param1: 7
+Param2: 0
+
+Ability: 46
+Param1: 1
+Param2: 0;
+
+/14
+Name: Brotherhood of Light;
+GoldCost: 90
+GemCost: 5
+Group: 1
+Slot: 11
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (6)
+Resource: (4)
+
+Ability:
+Ability: 8
+Param1: 8
+Param2: 0
+
+Ability: 46
+Param1: 3
+Param2: 0;
+
+/15
+Name: Barbarian Camp;
+GoldCost: 140
+GemCost: 0
+Group: 1
+Slot: 12
+Upgrade: 0
+Hidden: 0
+Level: -1
+
+Buildings: (5)
+Resource: (0)
+
+Ability:
+Ability: 8
+Param1: 9
+Param2: 0
+
+Ability: 46
+Param1: -1
+Param2: 0;
+
+/16
+Name: Den of Thieves;
+GoldCost: 70
+GemCost: 0
+Group: 1
+Slot: 13
+Upgrade: 0
+Hidden: 0
+Level: -1
+
+Buildings: (5)
+Resource: (0)
+
+Ability:
+Ability: 8
+Param1: 10
+Param2: 0
+
+Ability: 46
+Param1: -2
+Param2: 0;
+
+/17
+Name: Brigand Lair;
+GoldCost: 60
+GemCost: 0
+Group: 1
+Slot: 14
+Upgrade: 0
+Hidden: 0
+Level: -1
+
+Buildings: (5)
+Resource: (0)
+
+Ability:
+Ability: 8
+Param1: 11
+Param2: 0
+
+Ability: 46
+Param1: -2
+Param2: 0;
+
+/18
+Name: Totem;
+GoldCost: 100
+GemCost: 5
+Group: 1
+Slot: 15
+Upgrade: 0
+Hidden: 0
+Level: -1
+
+Buildings: (6)
+Resource: (4)
+
+Ability:
+Ability: 8
+Param1: 12
+Param2: 0
+
+Ability: 46
+Param1: -1
+Param2: 0;
+
+/19
+Name: School of Wizardry;
+GoldCost: 100
+GemCost: 15
+Group: 2
+Slot: 30
+Upgrade: 0
+Hidden: 0
+Level: -1
+
+Buildings: (3)
+Resource: (4, 6)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 2
+Param1: 0
+Param2: 0
+
+Ability: 27
+Param1: 3
+Param2: 0;
+
+/20
+Name: Sphere of Winds;
+GoldCost: 50
+GemCost: 15
+Group: 2
+Slot: 32
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (3)
+Resource: (4)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 2
+Param1: 0
+Param2: 0
+
+Ability: 27
+Param1: 4
+Param2: 0;
+
+/21
+Name: Sanctuary;
+GoldCost: 90
+GemCost: 10
+Group: 2
+Slot: 33
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (3, 6)
+Resource: (4)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 2
+Param1: 0
+Param2: 0
+
+Ability: 27
+Param1: 1
+Param2: 0
+
+Ability: 46
+Param1: 2
+Param2: 0;
+
+/22
+Name: School of Necromancy;
+GoldCost: 40
+GemCost: 30
+Group: 2
+Slot: 34
+Upgrade: 0
+Hidden: 0
+Level: -1
+
+Buildings: (3, 6)
+Resource: (4, 4)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 2
+Param1: 0
+Param2: 0
+
+Ability: 27
+Param1: 6
+Param2: 0
+
+Ability: 46
+Param1: -2
+Param2: 0;
+
+/23
+Name: School of Sorcery;
+GoldCost: 80
+GemCost: 20
+Group: 2
+Slot: 31
+Upgrade: 0
+Hidden: 0
+Level: -1
+
+Buildings: (3)
+Resource: (4, 2)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 2
+Param1: 0
+Param2: 0
+
+Ability: 27
+Param1: 2
+Param2: 0;
+
+/24
+Name: Altar of Chaos;
+GoldCost: 80
+GemCost: 15
+Group: 2
+Slot: 35
+Upgrade: 0
+Hidden: 0
+Level: -1
+
+Buildings: (3, 6)
+Resource: (4, 1)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 2
+Param1: 0
+Param2: 0
+
+Ability: 27
+Param1: 5
+Param2: 0
+
+Ability: 46
+Param1: -2
+Param2: 0;
+
+/25
+Name: Stable;
+GoldCost: 100
+GemCost: 0
+Group: 0
+Slot: 19
+Upgrade: 0
+Hidden: 0
+Level: -1
+
+Buildings: (2, 4)
+Resource: (2, 3, 3)
+
+Ability:
+Ability: 9
+Param1: 3
+Param2: 5
+
+Ability: 10
+Param1: 1
+Param2: 0
+
+Ability: 28
+Param1: 10
+Param2: 0;
+
+/26
+Name: Foundry;
+GoldCost: 90
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 2
+Hidden: 0
+Level: -1
+
+Buildings: (2)
+Resource: (1, 1, 1)
+
+Ability:
+Ability: 9
+Param1: 1
+Param2: 5;
+
+/27
+Name: Carpenters Guild;
+GoldCost: 130
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 1
+Hidden: 0
+Level: -1
+
+Buildings: (1)
+Resource: (1, 2, 2, 2)
+
+Ability:
+Ability: 9
+Param1: 2
+Param2: 3
+
+Ability: 11
+Param1: 1
+Param2: 0
+
+Ability: 31
+Param1: 660
+Param2: 1;
+
+/28
+Name: Stonemasons Guild;
+GoldCost: 140
+GemCost: 0
+Group: 0
+Slot: 38
+Upgrade: 0
+Hidden: 0
+Level: -1
+
+Buildings: (1)
+Resource: (1, 2, 2)
+
+Ability:
+Ability: 11
+Param1: 19
+Param2: 0;
+
+/29
+Name: Diggers Guild;
+GoldCost: 140
+GemCost: 0
+Group: 0
+Slot: 39
+Upgrade: 0
+Hidden: 0
+Level: -1
+
+Buildings: (1, 2)
+Resource: (1, 1, 2)
+
+Ability:
+Ability: 11
+Param1: 2
+Param2: 0;
+
+/30
+Name: Show Booth;
+GoldCost: 70
+GemCost: 0
+Group: 0
+Slot: 52
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (5)
+Resource: (0)
+
+Ability:
+Ability: 12
+Param1: 1
+Param2: 0;
+
+/31
+Name: Inn;
+GoldCost: 90
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 241
+Hidden: 0
+Level: -1
+
+Buildings: (4, 241)
+Resource: (3)
+
+Ability:
+Ability: 5
+Param1: 3
+Param2: 0
+
+Ability: 11
+Param1: 14
+Param2: 0
+
+Ability: 6
+Param1: 1
+Param2: 0
+
+Ability: 15
+Param1: 62
+Param2: 1;
+
+/32
+Name: Farmers Market;
+GoldCost: 100
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 4
+Hidden: 0
+Level: -1
+
+Buildings: (4)
+Resource: (3, 3)
+
+Ability:
+Ability: 3
+Param1: 2
+Param2: 0
+
+Ability: 11
+Param1: 3
+Param2: 0;
+
+/33
+Name: Church;
+GoldCost: 100
+GemCost: 10
+Group: 0
+Slot: 0
+Upgrade: 6
+Hidden: 0
+Level: -1
+
+Buildings: (6, 28)
+Resource: (4, 6)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 7
+Param1: 10
+Param2: 0
+
+Ability: 19
+Param1: 2
+Param2: 0;
+
+/34
+Name: Crystal of Power;
+GoldCost: 50
+GemCost: 30
+Group: 0
+Slot: 43
+Upgrade: 0
+Hidden: 0
+Level: 1
+
+Buildings: (5, 6)
+Resource: (4)
+
+Ability:
+Ability: 13
+Param1: 10
+Param2: 0
+
+Ability: 50
+Param1: 48
+Param2: 0
+
+Ability: 5
+Param1: 0
+Param2: 1;
+
+/35
+Name: Sorcerer's Workshop;
+GoldCost: 70
+GemCost: 15
+Group: 0
+Slot: 29
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (1, 3)
+Resource: (2, 4)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 57
+Param1: 10
+Param2: 0;
+
+/36
+Name: Pottery;
+GoldCost: 70
+GemCost: 0
+Group: 0
+Slot: 40
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (1, 4)
+Resource: (2)
+
+Ability:
+Ability: 5
+Param1: 4
+Param2: 0
+
+Ability: 11
+Param1: 8
+Param2: 0;
+
+/37
+Name: Armory;
+GoldCost: 130
+GemCost: 0
+Group: 0
+Slot: 3
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (1, 2)
+Resource: (1, 1, 2, 2)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 20
+Param1: 20
+Param2: 0;
+
+/38
+Name: Drivers Guild;
+GoldCost: 250
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 25
+Hidden: 0
+Level: 1
+
+Buildings: (25, 36)
+Resource: (2, 2, 3, 3, 3, 3)
+
+Ability:
+Ability: 11
+Param1: 9
+Param2: 0
+
+Ability: 10
+Param1: 1
+Param2: 0
+
+Ability: 28
+Param1: 10
+Param2: 0
+
+Ability: 26
+Param1: 1
+Param2: 0;
+
+/39
+Name: Fort;
+GoldCost: 500
+GemCost: 0
+Group: 0
+Slot: 2
+Upgrade: 0
+Hidden: 0
+Level: 1
+
+Buildings: (27, 1001)
+Resource: (2, 2, 1, 1, 3, 3)
+
+Ability:
+Ability: 4
+Param1: 2
+Param2: 4
+
+Ability: 35
+Param1: 100
+Param2: 0
+
+Ability: 36
+Param1: 1
+Param2: 0;
+
+/40
+Name: Foresters Guild;
+GoldCost: 200
+GemCost: 0
+Group: 0
+Slot: 55
+Upgrade: 0
+Hidden: 0
+Level: 1
+
+Buildings: (1)
+Resource: (2, 2, 2, 1)
+
+Ability:
+Ability: 14
+Param1: 2
+Param2: 1
+
+Ability: 15
+Param1: 10
+Param2: 0;
+
+/41
+Name: Builders Guild;
+GoldCost: 450
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 28
+Hidden: 0
+Level: 3
+
+Buildings: (2, 28, 39)
+Resource: (2, 2, 2, 1, 1, 3)
+
+Ability:
+Ability: 16
+Param1: 10
+Param2: 0
+
+Ability: 11
+Param1: 20
+Param2: 0;
+
+/42
+Name: Market;
+GoldCost: 300
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 32
+Hidden: 0
+Level: 1
+
+Buildings: (31, 32, 1005)
+Resource: (1, 2, 3, 3, 3, 4)
+
+Ability:
+Ability: 5
+Param1: 5
+Param2: 0
+
+Ability: 17
+Param1: 10
+Param2: 0
+
+Ability: 11
+Param1: 5
+Param2: 0;
+
+/43
+Name: Sages Guild;
+GoldCost: 220
+GemCost: 40
+Group: 0
+Slot: 0
+Upgrade: 3
+Hidden: 0
+Level: 1
+
+Buildings: (35, 1002)
+Resource: (4, 4, 6)
+
+Ability:
+Ability: 11
+Param1: 17
+Param2: 0
+
+Ability: 31
+Param1: 624
+Param2: 1;
+
+/44
+Name: Theater;
+GoldCost: 180
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 30
+Hidden: 0
+Level: 1
+
+Buildings: (30, 3)
+Resource: (6, 6)
+
+Ability:
+Ability: 12
+Param1: 1
+Param2: 0;
+
+/45
+Name: Merchant Court;
+GoldCost: 200
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 31
+Hidden: 0
+Level: 1
+
+Buildings: (25, 31)
+Resource: (2, 3, 3)
+
+Ability:
+Ability: 5
+Param1: 5
+Param2: 0
+
+Ability: 6
+Param1: 1
+Param2: 0
+
+Ability: 11
+Param1: 15
+Param2: 0
+
+Ability: 15
+Param1: 62
+Param2: 2
+
+Ability: 1
+Param1: 1
+Param2: 0
+
+Ability: 31
+Param1: 451
+Param2: 1
+
+Ability: 31
+Param1: 661
+Param2: 1;
+
+/46
+Name: Craft Shop;
+GoldCost: 320
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 27
+Hidden: 0
+Level: 1
+
+Buildings: (26, 27)
+Resource: (1, 1, 1, 2, 2, 2)
+
+Ability:
+Ability: 18
+Param1: 10
+Param2: 0
+
+Ability: 31
+Param1: 675
+Param2: 1;
+
+/47
+Name: Brewery;
+GoldCost: 170
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 36
+Hidden: 0
+Level: 1
+
+Buildings: (32, 36)
+Resource: (2, 2)
+
+Ability:
+Ability: 5
+Param1: 10
+Param2: 0
+
+Ability: 12
+Param1: 1
+Param2: 0
+
+Ability: 19
+Param1: 2
+Param2: 0;
+
+/48
+Name: Practice Halls;
+GoldCost: 200
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 37
+Hidden: 0
+Level: -1
+
+Buildings: (25, 37)
+Resource: (1, 2, 3, 3)
+
+Ability:
+Ability: 20
+Param1: 30
+Param2: 0
+
+Ability: 15
+Param1: 65
+Param2: 0
+
+Ability: 31
+Param1: 672
+Param2: 1;
+
+/49
+Name: Infirmary;
+GoldCost: 150
+GemCost: 10
+Group: 0
+Slot: 44
+Upgrade: 0
+Hidden: 0
+Level: 1
+
+Buildings: (6)
+Resource: (4)
+
+Ability:
+Ability: 3
+Param1: 3
+Param2: 0
+
+Ability: 21
+Param1: 10
+Param2: 0
+
+Ability: 45
+Param1: 8
+Param2: -30
+
+Ability: 46
+Param1: 1
+Param2: 0;
+
+/50
+Name: Town Council;
+GoldCost: 700
+GemCost: 0
+Group: 0
+Slot: 47
+Upgrade: 0
+Hidden: 0
+Level: 2
+
+Buildings: (41, 45)
+Resource: (2, 2, 6, 6, 6)
+
+Ability:
+Ability: 22
+Param1: 5
+Param2: 0
+
+Ability: 11
+Param1: 26
+Param2: 0
+
+Ability: 15
+Param1: 103
+Param2: 1;
+
+/51
+Name: Dungeon;
+GoldCost: 350
+GemCost: 0
+Group: 0
+Slot: 48
+Upgrade: 0
+Hidden: 0
+Level: 2
+
+Buildings: (28, 39)
+Resource: (1, 1, 2, 7)
+
+Ability:
+Ability: 23
+Param1: 1
+Param2: 0
+
+Ability: 51
+Param1: -10
+Param2: 0;
+
+/52
+Name: Shipbuilders Guild;
+GoldCost: 400
+GemCost: 0
+Group: 0
+Slot: 41
+Upgrade: 0
+Hidden: 0
+Level: 2
+
+Buildings: (36, 46)
+Resource: (1, 2, 2, 2, 2, 2)
+
+Ability:
+Ability: 11
+Param1: 10
+Param2: 0
+
+Ability: 44
+Param1: 1
+Param2: 0;
+
+/53
+Name: Mercenary Guild;
+GoldCost: 350
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 45
+Hidden: 0
+Level: 2
+
+Buildings: (37, 45)
+Resource: (1, 1, 2, 3, 3, 7)
+
+Ability:
+Ability: 6
+Param1: 1
+Param2: 0
+
+Ability: 15
+Param1: 11
+Param2: 0
+
+Ability: 45
+Param1: 1416
+Param2: 75
+
+Ability: 45
+Param1: 1254
+Param2: 50;
+
+/54
+Name: Pathfinders Guild;
+GoldCost: 400
+GemCost: 0
+Group: 0
+Slot: 55
+Upgrade: 40
+Hidden: 0
+Level: 2
+
+Buildings: (40)
+Resource: (2, 2, 3)
+
+Ability:
+Ability: 25
+Param1: 25
+Param2: 0
+
+Ability: 26
+Param1: 2
+Param2: 0;
+
+/55
+Name: Geologists Guild;
+GoldCost: 430
+GemCost: 0
+Group: 0
+Slot: 39
+Upgrade: 29
+Hidden: 0
+Level: 2
+
+Buildings: (29, 41)
+Resource: (1, 1, 2, 7)
+
+Ability:
+Ability: 14
+Param1: 3
+Param2: 1
+
+Ability: 26
+Param1: 3
+Param2: 0
+
+Ability: 11
+Param1: 41
+Param2: 0;
+
+/56
+Name: Herbalists Guild;
+GoldCost: 350
+GemCost: 25
+Group: 0
+Slot: 56
+Upgrade: 0
+Hidden: 0
+Level: 2
+
+Buildings: (3, 40)
+Resource: (4, 4, 2, 5)
+
+Ability:
+Ability: 14
+Param1: 4
+Param2: 1
+
+Ability: 26
+Param1: 4
+Param2: 0
+
+Ability: 11
+Param1: 42
+Param2: 0;
+
+/57
+Name: Enchanted Grove;
+GoldCost: 200
+GemCost: 50
+Group: 0
+Slot: 57
+Upgrade: 0
+Hidden: 0
+Level: 2
+
+Buildings: (6, 40)
+Resource: (4, 4, 5)
+
+Ability:
+Ability: 5
+Param1: 0
+Param2: 1
+
+Ability: 15
+Param1: 12
+Param2: 0
+
+Ability: 53
+Param1: 1
+Param2: 0;
+
+/58
+Name: Traders Guild;
+GoldCost: 550
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 42
+Hidden: 0
+Level: 2
+
+Buildings: (38, 42)
+Resource: (3, 3, 3, 5, 6, 7)
+
+Ability:
+Ability: 5
+Param1: 15
+Param2: 0
+
+Ability: 17
+Param1: 10
+Param2: 0
+
+Ability: 11
+Param1: 6
+Param2: 0;
+
+/59
+Name: Winery;
+GoldCost: 330
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 47
+Hidden: 0
+Level: 2
+
+Buildings: (42, 47)
+Resource: (2, 2, 3, 4)
+
+Ability:
+Ability: 12
+Param1: 1
+Param2: 0
+
+Ability: 19
+Param1: 2
+Param2: 0
+
+Ability: 11
+Param1: 4
+Param2: 0;
+
+/60
+Name: Temple of Immortals;
+GoldCost: 300
+GemCost: 30
+Group: 0
+Slot: 42
+Upgrade: 33
+Hidden: 0
+Level: 2
+
+Buildings: (33, 41)
+Resource: (6, 6, 6, 5)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 7
+Param1: 15
+Param2: 0
+
+Ability: 19
+Param1: 3
+Param2: 0
+
+Ability: 31
+Param1: 566
+Param2: 1;
+
+/61
+Name: Barracks;
+GoldCost: 130
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 7
+Hidden: 1
+Level: -1
+
+Buildings: (7, 9)
+Resource: (1, 2)
+
+Ability:
+Ability: 15
+Param1: 33
+Param2: 0
+
+Ability: 20
+Param1: 20
+Param2: 0;
+
+/62
+Name: Chieftain's Tent;
+GoldCost: 120
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 15
+Hidden: 1
+Level: -1
+
+Buildings: (15, 18)
+Resource: (0)
+
+Ability:
+Ability: 15
+Param1: 3
+Param2: 0
+
+Ability: 46
+Param1: -1
+Param2: 0;
+
+/63
+Name: Hunters Camp;
+GoldCost: 200
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 10
+Hidden: 0
+Level: -1
+
+Buildings: (10, 40)
+Resource: (2, 2)
+
+Ability:
+Ability: 15
+Param1: 7
+Param2: 0
+
+Ability: 28
+Param1: 10
+Param2: 0;
+
+/64
+Name: Bandit Lair;
+GoldCost: 100
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 17
+Hidden: 0
+Level: -1
+
+
+Buildings: (17, 37)
+Resource: (0)
+
+Ability:
+Ability: 15
+Param1: 4
+Param2: 0
+
+Ability: 5
+Param1: 5
+Param2: 0
+
+Ability: 12
+Param1: -1
+Param2: 0
+
+Ability: 46
+Param1: -2
+Param2: 0;
+
+/65
+Name: Thieves Guild;
+GoldCost: 90
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 16
+Hidden: 0
+Level: -1
+
+Buildings: (16, 31)
+Resource: (0)
+
+Ability:
+Ability: 15
+Param1: 2
+Param2: 0
+
+Ability: 29
+Param1: -5
+Param2: 0
+
+Ability: 12
+Param1: -1
+Param2: 0
+
+Ability: 46
+Param1: -2
+Param2: 0;
+
+/66
+Name: Lookout Tower;
+GoldCost: 200
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 13
+Hidden: 1
+Level: -1
+
+Buildings: (11, 13, 28)
+Resource: (1, 1, 2)
+
+Ability:
+Ability: 15
+Param1: 5
+Param2: 0
+
+Ability: 30
+Param1: 2
+Param2: 0
+
+Ability: 46
+Param1: 1
+Param2: 0;
+
+/67
+Name: Watchtower;
+GoldCost: 150
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 8
+Hidden: 0
+Level: -1
+
+Buildings: (8, 27)
+Resource: (2)
+
+Ability:
+Ability: 15
+Param1: 8
+Param2: 0
+
+Ability: 30
+Param1: 1
+Param2: 0;
+
+/68
+Name: Warriors Guild;
+GoldCost: 170
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 12
+Hidden: 0
+Level: -1
+
+Buildings: (12, 37)
+Resource: (1, 1, 2)
+
+Ability:
+Ability: 15
+Param1: 6
+Param2: 0
+
+Ability: 20
+Param1: 20
+Param2: 0
+
+Ability: 46
+Param1: 1
+Param2: 0;
+
+/69
+Name: Abbey;
+GoldCost: 100
+GemCost: 5
+Group: 0
+Slot: 0
+Upgrade: 14
+Hidden: 0
+Level: -1
+
+Buildings: (14, 33)
+Resource: (4)
+
+Ability:
+Ability: 15
+Param1: 9
+Param2: 0
+
+Ability: 12
+Param1: 1
+Param2: 0
+
+Ability: 46
+Param1: 3
+Param2: 0;
+
+/70
+Name: Haunted Cemetery;
+GoldCost: 70
+GemCost: 15
+Group: 0
+Slot: 0
+Upgrade: 22
+Hidden: 0
+Level: -1
+
+Buildings: (22, 33)
+Resource: (4)
+
+Ability:
+Ability: 15
+Param1: 13
+Param2: 0
+
+Ability: 12
+Param1: -1
+Param2: 0
+
+Ability: 46
+Param1: -3
+Param2: 0
+
+Ability: 45
+Param1: 1356
+Param2: 100;
+
+/71
+Name: Monastery;
+GoldCost: 350
+GemCost: 35
+Group: 3
+Slot: 8
+Upgrade: 0
+Hidden: 0
+Level: 2
+
+Buildings: (39, 33)
+Resource: (2, 4, 4, 5)
+
+Ability:
+Ability: 8
+Param1: 22
+Param2: 0
+
+Ability: 46
+Param1: 3
+Param2: 0;
+
+/72
+Name: Guardsmen Barracks;
+GoldCost: 470
+GemCost: 0
+Group: 3
+Slot: 9
+Upgrade: 0
+Hidden: 0
+Level: 2
+
+Buildings: (39, 48)
+Resource: (2, 1, 1, 7)
+
+Ability:
+Ability: 8
+Param1: 23
+Param2: 0
+
+Ability: 46
+Param1: 1
+Param2: 0;
+
+/73
+Name: Pegasi Stable;
+GoldCost: 380
+GemCost: 25
+Group: 3
+Slot: 10
+Upgrade: 0
+Hidden: 0
+Level: 2
+
+Buildings: (39, 57)
+Resource: (2, 4, 5)
+
+Ability:
+Ability: 8
+Param1: 24
+Param2: 0
+
+Ability: 46
+Param1: 2
+Param2: 0;
+
+/74
+Name: Siege Workshop;
+GoldCost: 550
+GemCost: 0
+Group: 3
+Slot: 11
+Upgrade: 0
+Hidden: 0
+Level: 2
+
+Buildings: (39, 46)
+Resource: (1, 1, 2, 2, 7)
+
+Ability:
+Ability: 8
+Param1: 27
+Param2: 0;
+
+/75
+Name: Riding Ground;
+GoldCost: 360
+GemCost: 0
+Group: 3
+Slot: 12
+Upgrade: 0
+Hidden: 0
+Level: 2
+
+Buildings: (39, 25)
+Resource: (2, 2, 3, 3, 3)
+
+Ability:
+Ability: 8
+Param1: 26
+Param2: 0;
+
+/76
+Name: Jousting Arena;
+GoldCost: 400
+GemCost: 0
+Group: 3
+Slot: 13
+Upgrade: 0
+Hidden: 0
+Level: 2
+
+Buildings: (39, 25)
+Resource: (1, 1, 3, 3, 3)
+
+Ability:
+Ability: 8
+Param1: 25
+Param2: 0;
+
+/77
+Name: Fighter Barracks;
+GoldCost: 300
+GemCost: 0
+Group: 3
+Slot: 14
+Upgrade: 0
+Hidden: 0
+Level: 2
+
+Buildings: (39, 5, 37)
+Resource: (1, 1, 1, 2)
+
+Ability:
+Ability: 8
+Param1: 28
+Param2: 0
+
+Ability: 46
+Param1: -1
+Param2: 0;
+
+/78
+Name: Witch Circle;
+GoldCost: 350
+GemCost: 50
+Group: 3
+Slot: 15
+Upgrade: 0
+Hidden: 0
+Level: 2
+
+Buildings: (39, 35)
+Resource: (2, 4, 4, 5, 5)
+
+Ability:
+Ability: 8
+Param1: 29
+Param2: 0
+
+Ability: 46
+Param1: -1
+Param2: 0;
+
+/79
+Name: Assassins Guild;
+GoldCost: 350
+GemCost: 0
+Group: 3
+Slot: 16
+Upgrade: 0
+Hidden: 0
+Level: 2
+
+Buildings: (39, 31, 37)
+Resource: (1, 1, 2)
+
+Ability:
+Ability: 8
+Param1: 30
+Param2: 0
+
+Ability: 46
+Param1: -2
+Param2: 0;
+
+/80
+Name: Mages Guild;
+GoldCost: 400
+GemCost: 50
+Group: 4
+Slot: 0
+Upgrade: 19
+Hidden: 0
+Level: 2
+
+Buildings: (43, 19)
+Resource: (6, 6, 4, 5, 5)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 2
+Param1: 0
+Param2: 0
+
+Ability: 27
+Param1: 9
+Param2: 0;
+
+/81
+Name: Illusionists Guild;
+GoldCost: 240
+GemCost: 35
+Group: 4
+Slot: 0
+Upgrade: 23
+Hidden: 0
+Level: 2
+
+Buildings: (43, 23, 30)
+Resource: (2, 4, 4, 5)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 2
+Param1: 0
+Param2: 0
+
+Ability: 27
+Param1: 8
+Param2: 0;
+
+/82
+Name: Necromancers Guild;
+GoldCost: 220
+GemCost: 55
+Group: 4
+Slot: 0
+Upgrade: 70
+Hidden: 0
+Level: 2
+
+Buildings: (43, 70)
+Resource: (6, 4, 5, 5)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 2
+Param1: 0
+Param2: 0
+
+Ability: 27
+Param1: 12
+Param2: 0
+
+Ability: 46
+Param1: -3
+Param2: 0;
+
+/83
+Name: Sphere of Stone;
+GoldCost: 350
+GemCost: 20
+Group: 4
+Slot: 0
+Upgrade: 20
+Hidden: 0
+Level: 2
+
+Buildings: (43, 20, 28)
+Resource: (1, 1, 6, 5)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 2
+Param1: 0
+Param2: 0
+
+Ability: 27
+Param1: 10
+Param2: 0;
+
+/84
+Name: Temple of Chaos;
+GoldCost: 290
+GemCost: 45
+Group: 4
+Slot: 0
+Upgrade: 24
+Hidden: 0
+Level: 2
+
+Buildings: (43, 24, 34)
+Resource: (6, 4, 5, 5)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 2
+Param1: 0
+Param2: 0
+
+Ability: 27
+Param1: 11
+Param2: 0
+
+Ability: 31
+Param1: 585
+Param2: 1
+
+Ability: 46
+Param1: -3
+Param2: 0
+
+Ability: 48
+Param1: 1664
+Param2: 8;
+
+/85
+Name: Temple of Life;
+GoldCost: 280
+GemCost: 30
+Group: 4
+Slot: 0
+Upgrade: 21
+Hidden: 0
+Level: 2
+
+Buildings: (43, 21, 33)
+Resource: (6, 6, 4, 5)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 2
+Param1: 0
+Param2: 0
+
+Ability: 27
+Param1: 7
+Param2: 0
+
+Ability: 46
+Param1: 3
+Param2: 0;
+
+/86
+Name: Jewelry Store;
+GoldCost: 150
+GemCost: 5
+Group: 5
+Slot: 27
+Upgrade: 0
+Hidden: 0
+Level: -1
+
+Buildings: (29)
+Resource: (5)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 5
+Param1: 2
+Param2: 0;
+
+/87
+Name: Chainmail Armory;
+GoldCost: 160
+GemCost: 0
+Group: 5
+Slot: 22
+Upgrade: 0
+Hidden: 0
+Level: -1
+
+Buildings: (2)
+Resource: (1)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 5
+Param1: 2
+Param2: 0;
+
+/88
+Name: Plate Armory;
+GoldCost: 190
+GemCost: 0
+Group: 5
+Slot: 23
+Upgrade: 0
+Hidden: 0
+Level: -1
+
+Buildings: (26)
+Resource: (1, 1)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 5
+Param1: 2
+Param2: 0;
+
+/89
+Name: Weapon Store;
+GoldCost: 170
+GemCost: 0
+Group: 5
+Slot: 24
+Upgrade: 0
+Hidden: 0
+Level: -1
+
+Buildings: (37)
+Resource: (2, 1)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 5
+Param1: 2
+Param2: 0;
+
+/90
+Name: Carpenter's Shop;
+GoldCost: 140
+GemCost: 0
+Group: 5
+Slot: 25
+Upgrade: 0
+Hidden: 0
+Level: -1
+
+Buildings: (27)
+Resource: (2, 2)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 5
+Param1: 2
+Param2: 0;
+
+/91
+Name: Tanner Store;
+GoldCost: 130
+GemCost: 0
+Group: 5
+Slot: 21
+Upgrade: 0
+Hidden: 0
+Level: -1
+
+Buildings: (25)
+Resource: (2, 3)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 5
+Param1: 2
+Param2: 0;
+
+/92
+Name: Tailor Store;
+GoldCost: 120
+GemCost: 0
+Group: 5
+Slot: 20
+Upgrade: 0
+Hidden: 0
+Level: -1
+
+Buildings: (1)
+Resource: (2, 3)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 5
+Param1: 2
+Param2: 0;
+
+/93
+Name: Sorcery Store;
+GoldCost: 150
+GemCost: 10
+Group: 5
+Slot: 26
+Upgrade: 0
+Hidden: 0
+Level: -1
+
+Buildings: (35)
+Resource: (4, 4)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 5
+Param1: 2
+Param2: 0;
+
+/94
+Name: Stonehenge;
+GoldCost: 600
+GemCost: 50
+Group: 0
+Slot: 0
+Upgrade: 57
+Hidden: 0
+Level: 3
+
+Buildings: (28, 57)
+Resource: (4, 4, 5, 5, 5)
+
+Ability:
+Ability: 5
+Param1: 0
+Param2: 3
+
+Ability: 15
+Param1: 14
+Param2: 0
+
+Ability: 53
+Param1: 1
+Param2: 0
+
+Ability: 11
+Param1: 35
+Param2: 1
+
+Ability: 31
+Param1: 405
+Param2: 1
+
+Ability: 31
+Param1: 667
+Param2: 1;
+
+/95
+Name: Magic Well;
+GoldCost: 50
+GemCost: 20
+Group: 0
+Slot: 58
+Upgrade: 0
+Hidden: 0
+Level: 3
+
+Buildings: (36, 57)
+Resource: (5)
+
+Ability:
+Ability: 5
+Param1: 10
+Param2: 0;
+
+/96
+Name: Crystal Garden;
+GoldCost: 50
+GemCost: 20
+Group: 0
+Slot: 59
+Upgrade: 0
+Hidden: 0
+Level: 3
+
+Buildings: (34, 57)
+Resource: (5)
+
+Ability:
+Ability: 5
+Param1: 0
+Param2: 2;
+
+/97
+Name: Swamp Trappers Guild;
+GoldCost: 350
+GemCost: 5
+Group: 0
+Slot: 0
+Upgrade: 54
+Hidden: 0
+Level: 3
+
+Buildings: (25, 54)
+Resource: (1, 2, 3, 3)
+
+Ability:
+Ability: 31
+Param1: 391
+Param2: 1
+
+Ability: 31
+Param1: 494
+Param2: 1
+
+Ability: 31
+Param1: 392
+Param2: 1
+
+Ability: 31
+Param1: 395
+Param2: 1
+
+Ability: 31
+Param1: 447
+Param2: 1;
+
+/98
+Name: Chamber of Commerce;
+GoldCost: 1000
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 58
+Hidden: 0
+Level: 3
+
+Buildings: (50, 58, 1009)
+Resource: (6, 6, 6, 3, 5, 7)
+
+Ability:
+Ability: 5
+Param1: 20
+Param2: 0
+
+Ability: 17
+Param1: 10
+Param2: 0
+
+Ability: 11
+Param1: 16
+Param2: 0;
+
+/99
+Name: Treasury;
+GoldCost: 950
+GemCost: 0
+Group: 0
+Slot: 49
+Upgrade: 0
+Hidden: 0
+Level: 3
+
+Buildings: (50, 51)
+Resource: (1, 1, 6, 6, 5, 7)
+
+Ability:
+Ability: 32
+Param1: 2
+Param2: 0
+
+Ability: 33
+Param1: 3
+Param2: 0;
+
+/100
+Name: War School;
+GoldCost: 500
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 48
+Hidden: 0
+Level: 3
+
+Buildings: (48, 53)
+Resource: (1, 1, 3, 3, 7, 7)
+
+*Ability*:
+Ability: 15
+Param1: 15
+Param2: 0
+
+Ability: 20
+Param1: 40
+Param2: 0;
+
+/101
+Name: Craftsmen Guild;
+GoldCost: 700
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 46
+Hidden: 0
+Level: 3
+
+Buildings: (46, 50)
+Resource: (1, 1, 2, 2, 3, 7)
+
+*Ability*:
+Ability: 16
+Param1: 10
+Param2: 0
+
+Ability: 18
+Param1: 10
+Param2: 0
+
+Ability: 31
+Param1: 634
+Param2: 1
+
+Ability: 31
+Param1: 678
+Param2: 1;
+
+/102
+Name: Crystal of Power;
+GoldCost: 400
+GemCost: 50
+Group: 0
+Slot: 0
+Upgrade: 34
+Hidden: 0
+Level: 3
+
+Buildings: (34, 60)
+Resource: (5, 5)
+
+*Ability*:
+Ability: 13
+Param1: 15
+Param2: 0
+
+Ability: 5
+Param1: 0
+Param2: 2;
+
+/103
+Name: Alchemists Guild;
+GoldCost: 600
+GemCost: 70
+Group: 0
+Slot: 0
+Upgrade: 43
+Hidden: 0
+Level: 4
+
+Buildings: (43, 106)
+Resource: (4, 4, 5, 5, 7, 7)
+
+*Ability*:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 17
+Param1: 10
+Param2: 0
+
+Ability: 34
+Param1: 1
+Param2: 0;
+
+/104
+Name: Citadel;
+GoldCost: 2000
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 39
+Hidden: 0
+Level: 4
+
+Buildings: (41, 1003)
+Resource: (1, 2, 3, 7, 7, 7)
+
+*Ability*:
+Ability: 4
+Param1: 3
+Param2: 3
+
+Ability: 35
+Param1: 100
+Param2: 0
+
+Ability: 36
+Param1: 1
+Param2: 0
+
+Ability: 30
+Param1: 1
+Param2: 3;
+
+/105
+Name: Court;
+GoldCost: 700
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 51
+Hidden: 0
+Level: 4
+
+Buildings: (50, 51)
+Resource: (1, 6, 6, 7)
+
+*Ability*:
+Ability: 23
+Param1: 2
+Param2: 0
+
+Ability: 11
+Param1: 27
+Param2: 0
+
+Ability: 51
+Param1: -20
+Param2: 0;
+
+/106
+Name: Pharmacy;
+GoldCost: 550
+GemCost: 10
+Group: 0
+Slot: 0
+Upgrade: 49
+Hidden: 0
+Level: 3
+
+Buildings: (49, 56, 33, 36)
+Resource: (6, 4, 4, 4)
+
+*Ability*:
+Ability: 3
+Param1: 4
+Param2: 0
+
+Ability: 21
+Param1: 10
+Param2: 0
+
+Ability: 11
+Param1: 24
+Param2: 0
+
+Ability: 9
+Param1: 4
+Param2: 5
+
+Ability: 45
+Param1: 8
+Param2: -30
+
+Ability: 46
+Param1: 1
+Param2: 0;
+
+/107
+Name: Secret Library;
+GoldCost: 800
+GemCost: 200
+Group: 0
+Slot: 0
+Upgrade: 103
+Hidden: 0
+Level: 5
+
+Buildings: (103, 1004)
+Resource: (6, 5, 5, 5, 8, 9)
+
+*Ability*:
+Ability: 5
+Param1: 0
+Param2: 2
+
+Ability: 31
+Param1: 565
+Param2: 1
+
+Ability: 31
+Param1: 625
+Param2: 1
+
+Ability: 31
+Param1: 679
+Param2: 1;
+
+/108
+Name: Architects Guild;
+GoldCost: 1000
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 41
+Hidden: 0
+Level: 5
+
+Buildings: (36, 46, 104)
+Resource: (1, 2, 7, 6, 6, 6)
+
+*Ability*:
+Ability: 16
+Param1: 10
+Param2: 0
+
+Ability: 11
+Param1: 21
+Param2: 0;
+
+/109
+Name: Moneylender;
+GoldCost: 1500
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 99
+Hidden: 0
+Level: 5
+
+Buildings: (58, 99)
+Resource: (6, 6, 6)
+
+*Ability*:
+Ability: 32
+Param1: 2
+Param2: 0;
+
+/110
+Name: Merchants Guild;
+GoldCost: 1700
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 98
+Hidden: 0
+Level: 5
+
+Buildings: (111, 98, 1013)
+Resource: (3, 6, 6, 6, 8, 9)
+
+*Ability*:
+Ability: 5
+Param1: 30
+Param2: 0
+
+Ability: 17
+Param1: 10
+Param2: 0
+
+Ability: 11
+Param1: 7
+Param2: 0;
+
+/111
+Name: Seafarers Guilds;
+GoldCost: 1200
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 52
+Hidden: 0
+Level: 5
+
+Buildings: (52, 101)
+Resource: (2, 2, 2, 2, 7, 7)
+
+*Ability*:
+Ability: 14
+Param1: 8
+Param2: 1
+
+Ability: 11
+Param1: 11
+Param2: 0
+
+Ability: 44
+Param1: 1
+Param2: 0;
+
+/112
+Name: Arena;
+GoldCost: 750
+GemCost: 10
+Group: 0
+Slot: 53
+Upgrade: 0
+Hidden: 0
+Level: 4
+
+Buildings: (30, 48, 263)
+Resource: (1, 3, 3, 6, 7)
+
+*Ability*:
+Ability: 12
+Param1: 2
+Param2: 0
+
+Ability: 11
+Param1: 13
+Param2: 0
+
+Ability: 50
+Param1: 41
+Param2: 0;
+
+/113
+Name: Crystal of Might;
+GoldCost: 900
+GemCost: 125
+Group: 0
+Slot: 0
+Upgrade: 102
+Hidden: 0
+Level: 4
+
+Buildings: (102, 103)
+Resource: (5, 5, 9)
+
+*Ability*:
+Ability: 13
+Param1: 20
+Param2: 0
+
+Ability: 5
+Param1: 0
+Param2: 4;
+
+/114
+Name: Healers Guild;
+GoldCost: 750
+GemCost: 20
+Group: 0
+Slot: 0
+Upgrade: 106
+Hidden: 0
+Level: 4
+
+Buildings: (103, 106, 60)
+Resource: (6, 4, 4, 8)
+
+*Ability*:
+Ability: 3
+Param1: 5
+Param2: 0
+
+Ability: 9
+Param1: 8
+Param2: 12
+
+Ability: 21
+Param1: 10
+Param2: 0
+
+Ability: 11
+Param1: 25
+Param2: 0
+
+Ability: 45
+Param1: 8
+Param2: -30
+
+Ability: 46
+Param1: 2
+Param2: 0;
+
+/115
+Name: Source of Crystals;
+GoldCost: 400
+GemCost: 50
+Group: 6
+Slot: 0
+Upgrade: 96
+Hidden: 0
+Level: 4
+
+Buildings: (103, 96)
+Resource: (5, 5, 9)
+
+*Ability*:
+Ability: 5
+Param1: -15
+Param2: 10;
+
+/116
+Name: Source of Gold;
+GoldCost: 600
+GemCost: 40
+Group: 6
+Slot: 0
+Upgrade: 95
+Hidden: 0
+Level: 4
+
+Buildings: (103, 95)
+Resource: (5, 5, 8)
+
+*Ability*:
+Ability: 5
+Param1: 50
+Param2: -2;
+
+/117
+Name: Shadow Guild;
+GoldCost: 400
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 79
+Hidden: 1
+Level: -1
+
+Buildings: (65, 79)
+Resource: (1, 1, 4)
+
+*Ability*:
+Ability: 12
+Param1: -1
+Param2: 0
+
+Ability: 29
+Param1: -10
+Param2: 0
+
+Ability: 15
+Param1: 16
+Param2: 0
+
+Ability: 46
+Param1: -2
+Param2: 0;
+
+/118
+Name: Bandit Clan;
+GoldCost: 350
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 77
+Hidden: 1
+Level: -1
+
+Buildings: (64, 77)
+Resource: (1, 1, 1)
+
+*Ability*:
+Ability: 12
+Param1: -1
+Param2: 0
+
+Ability: 5
+Param1: 10
+Param2: 0
+
+Ability: 15
+Param1: 17
+Param2: 0
+
+Ability: 46
+Param1: -2
+Param2: 0;
+
+/119
+Name: Dark Brotherhood;
+GoldCost: 500
+GemCost: 10
+Group: 0
+Slot: 0
+Upgrade: 117
+Hidden: 1
+Level: -1
+
+Buildings: (117, 118)
+Resource: (1, 1, 7)
+
+*Ability*:
+Ability: 12
+Param1: -1
+Param2: 0
+
+Ability: 5
+Param1: 10
+Param2: 0
+
+Ability: 29
+Param1: -10
+Param2: 0
+
+Ability: 46
+Param1: -3
+Param2: 0;
+
+/120
+Name: Officer Academy;
+GoldCost: 450
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 72
+Hidden: 1
+Level: -1
+
+Buildings: (68, 72)
+Resource: (1, 1, 3, 6, 7)
+
+*Ability*:
+Ability: 20
+Param1: 30
+Param2: 0
+
+Ability: 15
+Param1: 18
+Param2: 0
+
+Ability: 46
+Param1: 1
+Param2: 0;
+
+/121
+Name: Nomad Camp;
+GoldCost: 450
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 75
+Hidden: 0
+Level: -1
+
+Buildings: (42, 75)
+Resource: (3, 3, 2)
+
+*Ability*:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 15
+Param1: 19
+Param2: 0;
+
+/122
+Name: Secret Monastery;
+GoldCost: 400
+GemCost: 30
+Group: 0
+Slot: 0
+Upgrade: 71
+Hidden: 1
+Level: -1
+
+Buildings: (69, 71)
+Resource: (2, 4, 4, 5)
+
+*Ability*:
+Ability: 5
+Param1: 0
+Param2: 2
+
+Ability: 15
+Param1: 20
+Param2: 0
+
+Ability: 11
+Param1: 30
+Param2: 1
+
+Ability: 46
+Param1: 3
+Param2: 0;
+
+/123
+Name: Black Tower;
+GoldCost: 350
+GemCost: 40
+Group: 0
+Slot: 0
+Upgrade: 78
+Hidden: 1
+Level: -1
+
+Buildings: (18, 78)
+Resource: (4, 4, 5, 5)
+
+*Ability*:
+Ability: 5
+Param1: 0
+Param2: 3
+
+Ability: 12
+Param1: -1
+Param2: 0
+
+Ability: 15
+Param1: 21
+Param2: 0
+
+Ability: 11
+Param1: 31
+Param2: 1
+
+Ability: 46
+Param1: -3
+Param2: 0
+
+Ability: 52
+Param1: 12
+Param2: 7;
+
+/124
+Name: Hippodrome;
+GoldCost: 700
+GemCost: 0
+Group: 0
+Slot: 54
+Upgrade: 0
+Hidden: 1
+Level: -1
+
+Buildings: (75, 76, 112)
+Resource: (2, 2, 3, 3, 3, 3)
+
+*Ability*:
+Ability: 5
+Param1: 10
+Param2: 0
+
+Ability: 12
+Param1: 1
+Param2: 0
+
+Ability: 9
+Param1: 3
+Param2: 5;
+
+/125
+Name: Cavalry Barracks;
+GoldCost: 370
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 76
+Hidden: 1
+Level: -1
+
+Buildings: (61, 76)
+Resource: (1, 2, 3, 3)
+
+*Ability*:
+Ability: 10
+Param1: 1
+Param2: 0
+
+Ability: 15
+Param1: 22
+Param2: 0;
+
+/126
+Name: Knightly Order;
+GoldCost: 2500
+GemCost: 0
+Group: 7
+Slot: 11
+Upgrade: 0
+Hidden: 0
+Level: 5
+
+Buildings: (104, 46, 100)
+Resource: (3, 3, 6, 7, 7, 7)
+
+*Ability*:
+Ability: 8
+Param1: 44
+Param2: 0
+
+Ability: 46
+Param1: 2
+Param2: 0;
+
+/127
+Name: Temple of the Eagle;
+GoldCost: 1800
+GemCost: 100
+Group: 7
+Slot: 12
+Upgrade: 0
+Hidden: 0
+Level: 5
+
+Buildings: (104, 60, 106)
+Resource: (6, 6, 5, 8)
+
+*Ability*:
+Ability: 8
+Param1: 45
+Param2: 0
+
+Ability: 46
+Param1: 4
+Param2: 0;
+
+/128
+Name: Siegeworks;
+GoldCost: 2700
+GemCost: 0
+Group: 7
+Slot: 13
+Upgrade: 0
+Hidden: 0
+Level: 5
+
+Buildings: (104, 37, 101)
+Resource: (1, 2, 2, 2, 7, 7)
+
+*Ability*:
+Ability: 8
+Param1: 46
+Param2: 0;
+
+/129
+Name: Gryphon Nest;
+GoldCost: 2000
+GemCost: 50
+Group: 7
+Slot: 14
+Upgrade: 0
+Hidden: 0
+Level: 5
+
+Buildings: (104, 94, 240)
+Resource: (5, 5, 7, 7)
+
+*Ability*:
+Ability: 8
+Param1: 47
+Param2: 0;
+
+/130
+Name: Mages Tower;
+GoldCost: 1700
+GemCost: 150
+Group: 7
+Slot: 15
+Upgrade: 0
+Hidden: 0
+Level: 5
+
+Buildings: (104, 103)
+Resource: (6, 5, 5, 5, 9)
+
+*Ability*:
+Ability: 8
+Param1: 48
+Param2: 0
+
+Ability: 46
+Param1: -2
+Param2: 0;
+
+/131
+Name: Torture Chamber;
+GoldCost: 1800
+GemCost: 0
+Group: 7
+Slot: 16
+Upgrade: 0
+Hidden: 0
+Level: 5
+
+Buildings: (104, 48, 51)
+Resource: (1, 1, 7, 7, 7)
+
+*Ability*:
+Ability: 8
+Param1: 49
+Param2: 0
+
+Ability: 46
+Param1: -2
+Param2: 0;
+
+/132
+Name: Sphere of Ice;
+GoldCost: 1000
+GemCost: 120
+Group: 8
+Slot: 0
+Upgrade: 83
+Hidden: 0
+Level: 5
+
+Buildings: (107, 83)
+Resource: (5, 5, 5, 8)
+
+*Ability*:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 2
+Param1: 0
+Param2: 0
+
+Ability: 27
+Param1: 16
+Param2: 0
+
+Ability: 31
+Param1: 452
+Param2: 1
+
+Ability: 31
+Param1: 555
+Param2: 1;
+
+/133
+Name: Tower of Chaos;
+GoldCost: 1200
+GemCost: 150
+Group: 8
+Slot: 0
+Upgrade: 84
+Hidden: 0
+Level: 5
+
+Buildings: (107, 84)
+Resource: (5, 5, 9)
+
+*Ability*:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 2
+Param1: 0
+Param2: 0
+
+Ability: 27
+Param1: 17
+Param2: 0
+
+Ability: 46
+Param1: -4
+Param2: 0
+
+Ability: 31
+Param1: 450
+Param2: 1
+
+Ability: 31
+Param1: 554
+Param2: 1;
+
+/134
+Name: School of High Magic;
+GoldCost: 1300
+GemCost: 140
+Group: 8
+Slot: 0
+Upgrade: 80
+Hidden: 0
+Level: 5
+
+Buildings: (107, 80)
+Resource: (5, 5, 5, 8)
+
+*Ability*:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 2
+Param1: 0
+Param2: 0
+
+Ability: 27
+Param1: 15
+Param2: 0
+
+Ability: 31
+Param1: 453
+Param2: 1
+
+Ability: 31
+Param1: 556
+Param2: 1;
+
+/135
+Name: Tower of Restoration;
+GoldCost: 1500
+GemCost: 100
+Group: 8
+Slot: 0
+Upgrade: 85
+Hidden: 0
+Level: 5
+
+Buildings: (107, 85)
+Resource: (6, 5, 5, 8)
+
+*Ability*:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 2
+Param1: 0
+Param2: 0
+
+Ability: 27
+Param1: 13
+Param2: 0
+
+Ability: 46
+Param1: 4
+Param2: 0
+
+Ability: 31
+Param1: 449
+Param2: 1
+
+Ability: 31
+Param1: 553
+Param2: 1;
+
+/136
+Name: Tower of Hypnosis;
+GoldCost: 1000
+GemCost: 110
+Group: 8
+Slot: 0
+Upgrade: 81
+Hidden: 0
+Level: 5
+
+Buildings: (107, 81)
+Resource: (4, 5, 5, 9)
+
+*Ability*:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 2
+Param1: 0
+Param2: 0
+
+Ability: 27
+Param1: 14
+Param2: 0
+
+Ability: 31
+Param1: 454
+Param2: 1
+
+Ability: 31
+Param1: 557
+Param2: 1;
+
+/137
+Name: Tower of Necromancy;
+GoldCost: 950
+GemCost: 170
+Group: 8
+Slot: 0
+Upgrade: 82
+Hidden: 0
+Level: 5
+
+Buildings: (107, 82)
+Resource: (5, 5, 9)
+
+*Ability*:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 2
+Param1: 0
+Param2: 0
+
+Ability: 27
+Param1: 18
+Param2: 0
+
+Ability: 46
+Param1: -4
+Param2: 0
+
+Ability: 31
+Param1: 407
+Param2: 1
+
+Ability: 31
+Param1: 552
+Param2: 1;
+
+/138
+Name: Journeyman Jeweler;
+GoldCost: 300
+GemCost: 15
+Group: 9
+Slot: 0
+Upgrade: 86
+Hidden: 0
+Level: 2
+
+Buildings: (42, 86)
+Resource: (3, 5, 7)
+
+*Ability*:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 5
+Param1: 3
+Param2: 0;
+
+/139
+Name: Journeyman Mailmaker;
+GoldCost: 300
+GemCost: 0
+Group: 9
+Slot: 0
+Upgrade: 87
+Hidden: 0
+Level: 2
+
+Buildings: (42, 87)
+Resource: (3, 1, 7)
+
+*Ability*:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 5
+Param1: 3
+Param2: 0;
+
+/140
+Name: Journeyman Armorer;
+GoldCost: 340
+GemCost: 0
+Group: 9
+Slot: 0
+Upgrade: 88
+Hidden: 0
+Level: 2
+
+Buildings: (42, 88)
+Resource: (3, 1, 7, 7)
+
+*Ability*:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 5
+Param1: 3
+Param2: 0;
+
+/141
+Name: Journeyman Smith;
+GoldCost: 350
+GemCost: 0
+Group: 9
+Slot: 0
+Upgrade: 89
+Hidden: 0
+Level: 2
+
+Buildings: (42, 89)
+Resource: (3, 2, 7, 7)
+
+*Ability*:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 5
+Param1: 3
+Param2: 0;
+
+/142
+Name: Journeyman Carpenter;
+GoldCost: 300
+GemCost: 0
+Group: 9
+Slot: 0
+Upgrade: 90
+Hidden: 0
+Level: 2
+
+Buildings: (42, 90)
+Resource: (3, 2, 2, 1)
+
+*Ability*:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 5
+Param1: 3
+Param2: 0;
+
+/143
+Name: Journeyman Tanner;
+GoldCost: 280
+GemCost: 0
+Group: 9
+Slot: 0
+Upgrade: 91
+Hidden: 0
+Level: 2
+
+Buildings: (42, 91)
+Resource: (1, 2, 3, 3)
+
+*Ability*:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 5
+Param1: 3
+Param2: 0;
+
+/144
+Name: Journeyman Tailor;
+GoldCost: 270
+GemCost: 0
+Group: 9
+Slot: 0
+Upgrade: 92
+Hidden: 0
+Level: 2
+
+Buildings: (42, 92)
+Resource: (2, 3, 3, 4)
+
+*Ability*:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 5
+Param1: 3
+Param2: 0;
+
+/145
+Name: Journeyman Enchanter;
+GoldCost: 320
+GemCost: 30
+Group: 9
+Slot: 0
+Upgrade: 93
+Hidden: 0
+Level: 2
+
+Buildings: (42, 93)
+Resource: (3, 4, 4, 5)
+
+*Ability*:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 5
+Param1: 3
+Param2: 0;
+
+/146
+Name: Military Academy;
+GoldCost: 1500
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 100
+Hidden: 0
+Level: 6
+
+Buildings: (100, 112)
+Resource: (6, 3, 3, 7, 7)
+
+*Ability*:
+Ability: 20
+Param1: 50
+Param2: 0
+
+Ability: 39
+Param1: 1
+Param2: 0;
+
+/147
+Name: Road Network;
+GoldCost: 3000
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 38
+Hidden: 0
+Level: 6
+
+Buildings: (108, 110)
+Resource: (2, 7, 3, 3, 3, 3)
+
+*Ability*:
+Ability: 14
+Param1: 0
+Param2: 1
+
+Ability: 37
+Param1: 1
+Param2: 0
+
+Ability: 28
+Param1: 10
+Param2: 0;
+
+/148
+Name: Explorers Guild;
+GoldCost: 1500
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 111
+Hidden: 0
+Level: 5
+
+Buildings: (54, 111)
+Resource: (2, 2, 6, 3, 3, 3)
+
+*Ability*:
+Ability: 25
+Param1: 30
+Param2: 0
+
+Ability: 11
+Param1: 12
+Param2: 0;
+
+/149
+Name: Castle;
+GoldCost: 5000
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 104
+Hidden: 0
+Level: 6
+
+Buildings: (108, 1007)
+Resource: (1, 3, 7, 7, 7, 7)
+
+*Ability*:
+Ability: 4
+Param1: 4
+Param2: 2
+
+Ability: 30
+Param1: 1
+Param2: 3
+
+Ability: 35
+Param1: 100
+Param2: 0
+
+Ability: 36
+Param1: 1
+Param2: 0;
+
+/150
+Name: Artifact Market;
+GoldCost: 1000
+GemCost: 90
+Group: 0
+Slot: 0
+Upgrade: 35
+Hidden: 0
+Level: 5
+
+Buildings: (58, 107)
+Resource: (3, 4, 5, 7, 8, 9)
+
+*Ability*:
+Ability: 1
+Param1: 2
+Param2: 3
+
+Ability: 15
+Param1: 99
+Param2: 0
+
+Ability: 57
+Param1: 10
+Param2: 0;
+
+/151
+Name: Bank;
+GoldCost: 5000
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 109
+Hidden: 0
+Level: 6
+
+Buildings: (109, 110)
+Resource: (6, 6, 6, 6, 6, 7)
+
+*Ability*:
+Ability: 32
+Param1: 3
+Param2: 0;
+
+/152
+Name: Oracle;
+GoldCost: 1500
+GemCost: 150
+Group: 0
+Slot: 0
+Upgrade: 94
+Hidden: 0
+Level: 6
+
+Buildings: (60, 94, 107)
+Resource: (5, 5, 8, 8, 8)
+
+*Ability*:
+Ability: 5
+Param1: 0
+Param2: 3
+
+Ability: 38
+Param1: 30
+Param2: 0
+
+Ability: 53
+Param1: 1
+Param2: 0;
+
+/153
+Name: Town Hall;
+GoldCost: 4000
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 50
+Hidden: 0
+Level: 6
+
+Buildings: (101, 105, 108, 110)
+Resource: (6, 6, 6, 6, 6, 6)
+
+*Ability*:
+Ability: 22
+Param1: 10
+Param2: 0
+
+Ability: 11
+Param1: 28
+Param2: 0
+
+Ability: 15
+Param1: 103
+Param2: 2;
+
+/154
+Name: Chapel of Immortals;
+GoldCost: 1300
+GemCost: 100
+Group: 0
+Slot: 0
+Upgrade: 60
+Hidden: 0
+Level: 5
+
+Buildings: (60, 108)
+Resource: (6, 6, 8, 8)
+
+*Ability*:
+Ability: 7
+Param1: 30
+Param2: 0
+
+Ability: 19
+Param1: 4
+Param2: 0;
+
+/155
+Name: Monstrologists Guild;
+GoldCost: 1500
+GemCost: 30
+Group: 0
+Slot: 0
+Upgrade: 263
+Hidden: 0
+Level: 5
+
+Buildings: (43, 112)
+Resource: (3, 3, 7, 7)
+
+*Ability*:
+Ability: 31
+Param1: 394
+Param2: 1
+
+Ability: 31
+Param1: 396
+Param2: 1
+
+Ability: 31
+Param1: 586
+Param2: 1
+
+Ability: 15
+Param1: 61
+Param2: 0
+
+Ability: 50
+Param1: 66
+Param2: 0;
+
+/156
+Name: Traveling Circus;
+GoldCost: 1500
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 44
+Hidden: 0
+Level: 6
+
+Buildings: (44, 112)
+Resource: (3, 3, 3, 3)
+
+*Ability*:
+Ability: 12
+Param1: 2
+Param2: 0;
+
+/157
+Name: Master Builder Guild;
+GoldCost: 3000
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 108
+Hidden: 0
+Level: 7
+
+Buildings: (43, 101, 149)
+Resource: (6, 6, 6, 6, 7, 7)
+
+*Ability*:
+Ability: 16
+Param1: 10
+Param2: 0
+
+Ability: 40
+Param1: 1
+Param2: 0
+
+Ability: 11
+Param1: 22
+Param2: 0;
+
+/158
+Name: Artifact Master;
+GoldCost: 2500
+GemCost: 150
+Group: 0
+Slot: 0
+Upgrade: 150
+Hidden: 0
+Level: 7
+
+Buildings: (101, 150, 1009)
+Resource: (5, 5, 7, 7, 8, 9)
+
+*Ability*:
+Ability: 1
+Param1: 2
+Param2: 4
+
+Ability: 15
+Param1: 63
+Param2: 0
+
+Ability: 31
+Param1: 406
+Param2: 1
+
+Ability: 57
+Param1: 15
+Param2: 0;
+
+/159
+Name: Tower of Knowledge;
+GoldCost: 2500
+GemCost: 350
+Group: 0
+Slot: 0
+Upgrade: 107
+Hidden: 0
+Level: 7
+
+Buildings: (150, 1008)
+Resource: (5, 5, 8, 8, 9, 9)
+
+*Ability*:
+Ability: 5
+Param1: 0
+Param2: 5
+
+Ability: 11
+Param1: 18
+Param2: 0
+
+Ability: 52
+Param1: 17
+Param2: 8
+
+Ability: 31
+Param1: 433
+Param2: 1
+
+Ability: 31
+Param1: 568
+Param2: 1
+
+Ability: 31
+Param1: 584
+Param2: 1
+
+Ability: 31
+Param1: 626
+Param2: 1;
+
+/160
+Name: Colosseum;
+GoldCost: 2000
+GemCost: 20
+Group: 0
+Slot: 0
+Upgrade: 112
+Hidden: 0
+Level: 7
+
+Buildings: (149, 155, 156)
+Resource: (3, 3, 6, 6, 7, 7)
+
+*Ability*:
+Ability: 12
+Param1: 0
+Param2: 1;
+
+/161
+Name: Halls of Justice;
+GoldCost: 4000
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 105
+Hidden: 0
+Level: 7
+
+Buildings: (152, 153)
+Resource: (6, 6, 6, 7, 7)
+
+*Ability*:
+Ability: 23
+Param1: 0
+Param2: 1
+
+Ability: 46
+Param1: 5
+Param2: 0
+
+Ability: 51
+Param1: -20
+Param2: 0;
+
+/162
+Name: Temple of Peace;
+GoldCost: 3000
+GemCost: 120
+Group: 10
+Slot: 45
+Upgrade: 0
+Hidden: 0
+Level: 7
+
+Buildings: (114, 154)
+Resource: (6, 6, 6, 8, 8)
+
+*Ability*:
+Ability: 3
+Param1: 0
+Param2: 2
+
+Ability: 12
+Param1: 0
+Param2: 1
+
+Ability: 41
+Param1: -50
+Param2: 0
+
+Ability: 46
+Param1: 15
+Param2: 0
+
+Ability: 43
+Param1: 15
+Param2: 0
+
+Ability: 56
+Param1: 1
+Param2: 0;
+
+/163
+Name: Temple of War;
+GoldCost: 2300
+GemCost: 150
+Group: 10
+Slot: 46
+Upgrade: 0
+Hidden: 0
+Level: 7
+
+Buildings: (146, 154)
+Resource: (6, 6, 7, 9, 9)
+
+*Ability*:
+Ability: 3
+Param1: 0
+Param2: -1
+
+Ability: 41
+Param1: 50
+Param2: 0
+
+Ability: 46
+Param1: -15
+Param2: 0
+
+Ability: 18
+Param1: 10
+Param2: 0
+
+Ability: 20
+Param1: 60
+Param2: 0;
+
+/164
+Name: Scaffold;
+GoldCost: 1400
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 131
+Hidden: 0
+Level: -1
+
+Buildings: (105, 131)
+Resource: (1, 1, 2, 2, 7)
+
+*Ability*:
+Ability: 23
+Param1: 2
+Param2: 0
+
+Ability: 15
+Param1: 23
+Param2: 0
+
+Ability: 46
+Param1: -4
+Param2: 0
+
+Ability: 51
+Param1: -5
+Param2: 0;
+
+/165
+Name: Mechanics Guild;
+GoldCost: 2500
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 128
+Hidden: 1
+Level: -1
+
+Buildings: (74, 128)
+Resource: (1, 1, 2, 2, 7, 7)
+
+*Ability*:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 16
+Param1: 5
+Param2: 0
+
+Ability: 18
+Param1: 5
+Param2: 0
+
+Ability: 42
+Param1: 5
+Param2: 0
+
+Ability: 15
+Param1: 24
+Param2: 0
+
+Ability: 31
+Param1: 701
+Param2: 1;
+
+/166
+Name: White Shield Castle;
+GoldCost: 3000
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 126
+Hidden: 1
+Level: -1
+
+Buildings: (108, 120, 126)
+Resource: (1, 3, 3, 7, 7, 8)
+
+*Ability*:
+Ability: 20
+Param1: 30
+Param2: 0
+
+Ability: 35
+Param1: 50
+Param2: 0
+
+Ability: 15
+Param1: 25
+Param2: 0
+
+Ability: 46
+Param1: 3
+Param2: 0
+
+Ability: 50
+Param1: 67
+Param2: 0;
+
+/167
+Name: Celestial Temple;
+GoldCost: 2000
+GemCost: 80
+Group: 0
+Slot: 0
+Upgrade: 129
+Hidden: 1
+Level: -1
+
+Buildings: (60, 73, 129)
+Resource: (5, 6, 6, 8)
+
+*Ability*:
+Ability: 5
+Param1: 10
+Param2: 5
+
+Ability: 15
+Param1: 26
+Param2: 0
+
+Ability: 46
+Param1: 2
+Param2: 0;
+
+/168
+Name: Tower of Night;
+GoldCost: 1500
+GemCost: 130
+Group: 0
+Slot: 0
+Upgrade: 130
+Hidden: 1
+Level: -1
+
+Buildings: (123, 130)
+Resource: (5, 5, 6, 9, 9)
+
+*Ability*:
+Ability: 5
+Param1: 0
+Param2: 10
+
+Ability: 12
+Param1: -1
+Param2: 0
+
+Ability: 11
+Param1: 32
+Param2: 1
+
+Ability: 15
+Param1: 27
+Param2: 0
+
+Ability: 46
+Param1: -5
+Param2: 0
+
+Ability: 52
+Param1: 12
+Param2: 10;
+
+/169
+Name: Great Eagle Chapel;
+GoldCost: 1600
+GemCost: 100
+Group: 0
+Slot: 0
+Upgrade: 127
+Hidden: 1
+Level: -1
+
+Buildings: (122, 127)
+Resource: (6, 6, 6, 8, 8)
+
+*Ability*:
+Ability: 5
+Param1: 0
+Param2: 5
+
+Ability: 12
+Param1: 1
+Param2: 0
+
+Ability: 15
+Param1: 28
+Param2: 0
+
+Ability: 46
+Param1: 5
+Param2: 0;
+
+/170
+Name: Sacred Order;
+GoldCost: 6000
+GemCost: 150
+Group: 11
+Slot: 13
+Upgrade: 0
+Hidden: 0
+Level: 8
+
+Buildings: (146, 149, 154)
+Resource: (3, 7, 7, 8, 8, 8)
+
+*Ability*:
+Ability: 8
+Param1: 57
+Param2: 0
+
+Ability: 46
+Param1: 10
+Param2: 0
+
+Ability: 15
+Param1: 59
+Param2: 1;
+
+/171
+Name: Elephant Pen;
+GoldCost: 7000
+GemCost: 0
+Group: 11
+Slot: 14
+Upgrade: 0
+Hidden: 0
+Level: 8
+
+Buildings: (149, 155)
+Resource: (2, 2, 6, 7, 7, 7)
+
+*Ability*:
+Ability: 8
+Param1: 58
+Param2: 0
+
+Ability: 15
+Param1: 47
+Param2: 1;
+
+/172
+Name: Castle of Darkness;
+GoldCost: 4200
+GemCost: 300
+Group: 11
+Slot: 15
+Upgrade: 0
+Hidden: 0
+Level: 8
+
+Buildings: (149, 150)
+Resource: (5, 5, 9, 9, 9, 9)
+
+*Ability*:
+Ability: 8
+Param1: 59
+Param2: 0
+
+Ability: 46
+Param1: -10
+Param2: 0
+
+Ability: 15
+Param1: 48
+Param2: 1;
+
+/173
+Name: Cathedral of Light;
+GoldCost: 3000
+GemCost: 250
+Group: 12
+Slot: 0
+Upgrade: 135
+Hidden: 0
+Level: 8
+
+Buildings: (159, 135)
+Resource: (6, 6, 8, 8, 8, 8)
+
+*Ability*:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 2
+Param1: 0
+Param2: 0
+
+Ability: 27
+Param1: 19
+Param2: 0
+
+Ability: 46
+Param1: 10
+Param2: 0;
+
+/174
+Name: Necropolis;
+GoldCost: 1800
+GemCost: 350
+Group: 12
+Slot: 0
+Upgrade: 262
+Hidden: 0
+Level: 8
+
+Buildings: (159, 262)
+Resource: (5, 5, 9, 9, 9, 9)
+
+*Ability*:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 2
+Param1: 0
+Param2: 0
+
+Ability: 27
+Param1: 24
+Param2: 0
+
+Ability: 46
+Param1: -10
+Param2: 0;
+
+/175
+Name: Sphere of Flame;
+GoldCost: 3000
+GemCost: 300
+Group: 12
+Slot: 0
+Upgrade: 132
+Hidden: 0
+Level: 8
+
+Buildings: (159, 132)
+Resource: (5, 5, 5, 5, 8, 9)
+
+*Ability*:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 2
+Param1: 0
+Param2: 0
+
+Ability: 27
+Param1: 22
+Param2: 0;
+
+/176
+Name: Gates of Chaos;
+GoldCost: 2500
+GemCost: 350
+Group: 12
+Slot: 0
+Upgrade: 133
+Hidden: 0
+Level: 8
+
+Buildings: (159, 133)
+Resource: (5, 5, 6, 9, 9, 9)
+
+*Ability*:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 2
+Param1: 0
+Param2: 0
+
+Ability: 27
+Param1: 23
+Param2: 0
+
+Ability: 46
+Param1: -10
+Param2: 0
+
+Ability: 50
+Param1: 68
+Param2: 2;
+
+/177
+Name: Secret Guild;
+GoldCost: 3000
+GemCost: 300
+Group: 12
+Slot: 0
+Upgrade: 134
+Hidden: 0
+Level: 8
+
+Buildings: (159, 134)
+Resource: (5, 5, 5, 8, 8, 9)
+
+*Ability*:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 2
+Param1: 0
+Param2: 0
+
+Ability: 27
+Param1: 21
+Param2: 0;
+
+/178
+Name: Psy-Monolith;
+GoldCost: 2000
+GemCost: 250
+Group: 12
+Slot: 0
+Upgrade: 136
+Hidden: 0
+Level: 8
+
+Buildings: (159, 136)
+Resource: (5, 5, 6, 8, 9, 9)
+
+*Ability*:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 2
+Param1: 0
+Param2: 0
+
+Ability: 27
+Param1: 20
+Param2: 0;
+
+/179
+Name: Master Jeweler;
+GoldCost: 500
+GemCost: 15
+Group: 13
+Slot: 0
+Upgrade: 138
+Hidden: 0
+Level: 4
+
+Buildings: (58, 138)
+Resource: (3, 5, 7, 7, 8)
+
+*Ability*:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 5
+Param1: 5
+Param2: 0;
+
+/180
+Name: Master Mailmaker;
+GoldCost: 540
+GemCost: 0
+Group: 13
+Slot: 0
+Upgrade: 139
+Hidden: 0
+Level: 4
+
+Buildings: (58, 139)
+Resource: (3, 1, 1, 7, 7)
+
+*Ability*:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 5
+Param1: 5
+Param2: 0;
+
+/181
+Name: Master Platemaker;
+GoldCost: 580
+GemCost: 0
+Group: 13
+Slot: 0
+Upgrade: 140
+Hidden: 0
+Level: 4
+
+Buildings: (58, 140)
+Resource: (3, 1, 1, 7, 7, 7)
+
+*Ability*:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 5
+Param1: 5
+Param2: 0;
+
+/182
+Name: Master Weaponsmith;
+GoldCost: 600
+GemCost: 0
+Group: 13
+Slot: 0
+Upgrade: 141
+Hidden: 0
+Level: 4
+
+Buildings: (58, 141)
+Resource: (3, 1, 2, 7, 7, 7)
+
+*Ability*:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 5
+Param1: 5
+Param2: 0;
+
+/183
+Name: Master Carpenter;
+GoldCost: 520
+GemCost: 0
+Group: 13
+Slot: 0
+Upgrade: 142
+Hidden: 0
+Level: 4
+
+Buildings: (58, 142)
+Resource: (3, 1, 2, 2, 2, 7)
+
+*Ability*:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 5
+Param1: 5
+Param2: 0;
+
+/184
+Name: Master Tanner;
+GoldCost: 500
+GemCost: 0
+Group: 13
+Slot: 0
+Upgrade: 143
+Hidden: 0
+Level: 4
+
+Buildings: (58, 143)
+Resource: (1, 3, 3, 3, 7)
+
+*Ability*:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 5
+Param1: 5
+Param2: 0;
+
+/185
+Name: Master Tailor;
+GoldCost: 480
+GemCost: 5
+Group: 13
+Slot: 0
+Upgrade: 144
+Hidden: 0
+Level: 4
+
+Buildings: (58, 144)
+Resource: (3, 2, 4, 5)
+
+*Ability*:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 5
+Param1: 5
+Param2: 0;
+
+/186
+Name: Master Enchanter;
+GoldCost: 550
+GemCost: 30
+Group: 13
+Slot: 0
+Upgrade: 145
+Hidden: 0
+Level: 4
+
+Buildings: (58, 145)
+Resource: (3, 4, 5, 5, 9)
+
+*Ability*:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 5
+Param1: 5
+Param2: 0;
+
+/187
+Name: Capitol;
+GoldCost: 8000
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 153
+Hidden: 0
+Level: 8
+
+Buildings: (147, 151, 153, 157)
+Resource: (6, 6, 6, 6, 6, 6)
+
+*Ability*:
+Ability: 22
+Param1: 15
+Param2: 0
+
+Ability: 11
+Param1: 29
+Param2: 0
+
+Ability: 15
+Param1: 103
+Param2: 0;
+
+/188
+Name: Tower of Artifacts;
+GoldCost: 3000
+GemCost: 200
+Group: 0
+Slot: 0
+Upgrade: 158
+Hidden: 0
+Level: 8
+
+Buildings: (157, 158, 159, 1013)
+Resource: (7, 7, 8, 8, 9, 9)
+
+*Ability*:
+Ability: 1
+Param1: 2
+Param2: 5
+
+Ability: 54
+Param1: 1
+Param2: 0
+
+Ability: 15
+Param1: 71
+Param2: 1
+
+Ability: 57
+Param1: 20
+Param2: 0;
+
+/189
+Name: Fountain of Youth;
+GoldCost: 4000
+GemCost: 180
+Group: 0
+Slot: 50
+Upgrade: 0
+Hidden: 0
+Level: 8
+
+Buildings: (148, 159)
+Resource: (5, 6, 6, 8, 8, 8)
+
+*Ability*:
+Ability: 3
+Param1: 0
+Param2: 2;
+
+/190
+Name: Palace;
+GoldCost: 10000
+GemCost: 30
+Group: 0
+Slot: 51
+Upgrade: 0
+Hidden: 0
+Level: 8
+
+Buildings: (44, 153, 146, 157)
+Resource: (6, 6, 6, 6, 8, 9)
+
+*Ability*:
+Ability: 6
+Param1: 1
+Param2: 0
+
+Ability: 30
+Param1: 1
+Param2: 4
+
+Ability: 35
+Param1: 100
+Param2: 0
+
+Ability: 36
+Param1: 1
+Param2: 0
+
+Ability: 11
+Param1: 23
+Param2: 0
+
+Ability: 43
+Param1: 15
+Param2: 0
+
+Ability: 51
+Param1: -30
+Param2: 0;
+
+/191
+Name: Elven Quarter;
+GoldCost: 300
+GemCost: 30
+Group: 0
+Slot: 60
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (1)
+Resource: (2, 2, 2)
+
+Ability:
+Ability: 8
+Param1: 15
+Param2: 0
+
+Ability: 47
+Param1: 2
+Param2: 0
+
+Ability: 46
+Param1: 3
+Param2: 0
+
+Ability: 31
+Param1: 413
+Param2: 1;
+
+/192
+Name: Elven Grove;
+GoldCost: 250
+GemCost: 50
+Group: 0
+Slot: 61
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (191, 57)
+Resource: (4, 5)
+
+Ability:
+Ability: 5
+Param1: 0
+Param2: 2
+
+Ability: 14
+Param1: 2
+Param2: 2
+
+Ability: 46
+Param1: 1
+Param2: 0
+
+Ability: 15
+Param1: 81
+Param2: 0
+
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 414
+Param2: 1;
+
+/193
+Name: Elven Theater;
+GoldCost: 500
+GemCost: 100
+Group: 0
+Slot: 62
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (191, 44)
+Resource: (2, 6, 5)
+
+Ability:
+Ability: 12
+Param1: 0
+Param2: 1
+
+Ability: 46
+Param1: 1
+Param2: 0;
+
+/194
+Name: Dwarven Quarter;
+GoldCost: 350
+GemCost: 5
+Group: 0
+Slot: 60
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (2)
+Resource: (1, 1, 1)
+
+Ability:
+Ability: 8
+Param1: 16
+Param2: 0
+
+Ability: 47
+Param1: 3
+Param2: 0
+
+Ability: 46
+Param1: 1
+Param2: 0
+
+Ability: 31
+Param1: 419
+Param2: 1;
+
+/195
+Name: Miners Guild;
+GoldCost: 200
+GemCost: 0
+Group: 0
+Slot: 61
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (194, 29)
+Resource: (1, 1, 2)
+
+Ability:
+Ability: 15
+Param1: 39
+Param2: 0
+
+Ability: 14
+Param1: 3
+Param2: 1;
+
+/196
+Name: Dwarven Forge;
+GoldCost: 400
+GemCost: 20
+Group: 0
+Slot: 62
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (194, 26, 42)
+Resource: (1, 1, 7, 7)
+
+Ability:
+Ability: 5
+Param1: 5
+Param2: 0
+
+Ability: 9
+Param1: 7
+Param2: 10
+
+Ability: 1
+Param1: 0
+Param2: 0;
+
+/197
+Name: Goblin Quarter;
+GoldCost: 50
+GemCost: 0
+Group: 0
+Slot: 60
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (0)
+Resource: (0)
+
+Ability:
+Ability: 8
+Param1: 13
+Param2: 0
+
+Ability: 47
+Param1: 4
+Param2: 0
+
+Ability: 12
+Param1: -1
+Param2: 0
+
+Ability: 46
+Param1: -1
+Param2: 0
+
+Ability: 31
+Param1: 424
+Param2: 1;
+
+/198
+Name: Mud;
+GoldCost: 50
+GemCost: 10
+Group: 0
+Slot: 61
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (197)
+Resource: (4)
+
+Ability:
+Ability: 14
+Param1: 4
+Param2: 3
+
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 427
+Param2: 1;
+
+/199
+Name: Goblin Workshop;
+GoldCost: 150
+GemCost: 15
+Group: 0
+Slot: 62
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (197, 1)
+Resource: (2, 4)
+
+Ability:
+Ability: 48
+Param1: 590
+Param2: 2
+
+Ability: 46
+Param1: -1
+Param2: 0;
+
+/200
+Name: Orcish Quarter;
+GoldCost: 80
+GemCost: 0
+Group: 0
+Slot: 60
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (2)
+Resource: (1)
+
+Ability:
+Ability: 8
+Param1: 14
+Param2: 0
+
+Ability: 47
+Param1: 5
+Param2: 0
+
+Ability: 12
+Param1: -1
+Param2: 0
+
+Ability: 46
+Param1: -2
+Param2: 0
+
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 440
+Param2: 1
+
+Ability: 31
+Param1: 441
+Param2: 1;
+
+/201
+Name: Stone Idol;
+GoldCost: 100
+GemCost: 20
+Group: 0
+Slot: 61
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (200, 6)
+Resource: (4)
+
+Ability:
+Ability: 5
+Param1: 0
+Param2: 1
+
+Ability: 49
+Param1: 5
+Param2: 2
+
+Ability: 46
+Param1: -1
+Param2: 0
+
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 442
+Param2: 1;
+
+/202
+Name: Banner of the Horde;
+GoldCost: 200
+GemCost: 10
+Group: 0
+Slot: 62
+Upgrade: 0
+Hidden: 0
+Level: 0
+Buildings: (201)
+Resource: (4)
+
+Ability:
+Ability: 15
+Param1: 40
+Param2: 0
+
+Ability: 48
+Param1: 589
+Param2: 3
+
+Ability: 46
+Param1: -2
+Param2: 0;
+
+/203
+Name: Halfling Quarter;
+GoldCost: 100
+GemCost: 0
+Group: 0
+Slot: 60
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (4)
+Resource: (2)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 8
+Param1: 18
+Param2: 0
+
+Ability: 47
+Param1: 6
+Param2: 0
+
+Ability: 46
+Param1: 1
+Param2: 0
+
+Ability: 31
+Param1: 430
+Param2: 1
+
+Ability: 31
+Param1: 689
+Param2: 1
+
+Ability: 27
+Param1: 35
+Param2: 0;
+
+/204
+Name: Halfling Market;
+GoldCost: 120
+GemCost: 0
+Group: 0
+Slot: 61
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (203, 32)
+Resource: (2, 3)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 3
+Param1: 5
+Param2: 0
+
+Ability: 14
+Param1: 1
+Param2: 1
+
+Ability: 46
+Param1: 1
+Param2: 0
+
+Ability: 31
+Param1: 693
+Param2: 1
+
+Ability: 31
+Param1: 700
+Param2: 1;
+
+/205
+Name: Fair;
+GoldCost: 200
+GemCost: 0
+Group: 0
+Slot: 62
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (204, 30, 42)
+Resource: (2, 3, 3)
+
+Ability:
+Ability: 5
+Param1: 15
+Param2: 0
+
+Ability: 12
+Param1: 1
+Param2: 0
+
+Ability: 46
+Param1: 1
+Param2: 0
+
+Ability: 27
+Param1: 36
+Param2: 0;
+
+/206
+Name: Centaur Tents;
+GoldCost: 220
+GemCost: 0
+Group: 0
+Slot: 60
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (1, 4)
+Resource: (2)
+
+Ability:
+Ability: 8
+Param1: 122
+Param2: 0
+
+Ability: 47
+Param1: 7
+Param2: 0;
+
+/207
+Name: Sacred Flame;
+GoldCost: 100
+GemCost: 20
+Group: 0
+Slot: 61
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (206, 6)
+Resource: (2, 4)
+
+Ability:
+Ability: 5
+Param1: 0
+Param2: 3;
+
+/208
+Name: Clan Tent;
+GoldCost: 250
+GemCost: 0
+Group: 0
+Slot: 62
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (207, 50)
+Resource: (1, 2)
+
+Ability:
+Ability: 15
+Param1: 41
+Param2: 0
+
+Ability: 49
+Param1: 7
+Param2: 5;
+
+/209
+Name: Lizardmen Quarter;
+GoldCost: 150
+GemCost: 0
+Group: 0
+Slot: 60
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (1)
+Resource: (0)
+
+Ability:
+Ability: 8
+Param1: 69
+Param2: 0
+
+Ability: 47
+Param1: 8
+Param2: 0
+
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 434
+Param2: 1
+
+Ability: 31
+Param1: 435
+Param2: 1;
+
+/210
+Name: Bone Totem;
+GoldCost: 100
+GemCost: 20
+Group: 0
+Slot: 61
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (209, 6)
+Resource: (2, 4)
+
+Ability:
+Ability: 5
+Param1: 0
+Param2: 2
+
+Ability: 21
+Param1: 10
+Param2: 0;
+
+/211
+Name: Pool;
+GoldCost: 200
+GemCost: 30
+Group: 0
+Slot: 62
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (210, 96)
+Resource: (4, 5)
+
+Ability:
+Ability: 15
+Param1: 69
+Param2: 0
+
+Ability: 55
+Param1: 8
+Param2: 1;
+
+/212
+Name: Dark Sanctuary;
+GoldCost: 2800
+GemCost: 150
+Group: 0
+Slot: 0
+Upgrade: 174
+Hidden: 1
+Level: 8
+
+Buildings: (174, 190)
+Resource: (5, 9, 9)
+
+*Ability*:
+Ability: 46
+Param1: -5
+Param2: 0
+
+Ability: 1
+Param1: 1
+Param2: 0
+
+Ability: 15
+Param1: 72
+Param2: 3
+
+Ability: 5
+Param1: 0
+Param2: 5
+
+Ability: 11
+Param1: 46
+Param2: 2;
+
+/213
+Name: Elven Garrison;
+GoldCost: 450
+GemCost: 45
+Group: 0
+Slot: 60
+Upgrade: 191
+Hidden: 0
+Level: 0
+
+Buildings: (191, 192, 39)
+Resource: (1, 1, 2, 2, 2)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 415
+Param2: 1
+
+Ability: 31
+Param1: 416
+Param2: 1;
+
+/214
+Name: Elven Grove;
+GoldCost: 700
+GemCost: 100
+Group: 0
+Slot: 61
+Upgrade: 192
+Hidden: 0
+Level: 0
+
+Buildings: (192, 104)
+Resource: (4, 4, 5, 5)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 417
+Param2: 1;
+
+/215
+Name: Great Tree;
+GoldCost: 1200
+GemCost: 120
+Group: 0
+Slot: 60
+Upgrade: 213
+Hidden: 0
+Level: 0
+
+Buildings: (213, 214, 149)
+Resource: (1, 7, 4, 4, 5, 5)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 418
+Param2: 1
+
+Ability: 50
+Param1: 69
+Param2: 3
+
+Ability: 15
+Param1: 82
+Param2: 0;
+
+/216
+Name: Rune Workshop;
+GoldCost: 700
+GemCost: 10
+Group: 0
+Slot: 60
+Upgrade: 194
+Hidden: 0
+Level: 0
+
+Buildings: (194, 195, 39)
+Resource: (1, 1, 1, 7, 7)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 448
+Param2: 1
+
+Ability: 31
+Param1: 686
+Param2: 1
+
+Ability: 31
+Param1: 687
+Param2: 1;
+
+/217
+Name: Master Halls;
+GoldCost: 700
+GemCost: 100
+Group: 0
+Slot: 61
+Upgrade: 195
+Hidden: 0
+Level: 0
+
+Buildings: (216, 104)
+Resource: (1, 1, 2, 7, 7)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 422
+Param2: 1
+
+Ability: 31
+Param1: 567
+Param2: 1;
+
+/218
+Name: Great Hall;
+GoldCost: 1400
+GemCost: 20
+Group: 0
+Slot: 60
+Upgrade: 216
+Hidden: 0
+Level: 0
+
+Buildings: (217, 149)
+Resource: (1, 1, 7, 7, 7, 7)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 423
+Param2: 1
+
+Ability: 31
+Param1: 688
+Param2: 1
+
+Ability: 31
+Param1: 701
+Param2: 1
+
+Ability: 50
+Param1: 70
+Param2: 3
+
+Ability: 15
+Param1: 83
+Param2: 0;
+
+/219
+Name: Goblin Hut;
+GoldCost: 450
+GemCost: 45
+Group: 0
+Slot: 60
+Upgrade: 197
+Hidden: 0
+Level: 0
+
+Buildings: (197, 198, 39)
+Resource: (1, 2)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 425
+Param2: 1
+
+Ability: 31
+Param1: 426
+Param2: 1;
+
+/220
+Name: Swampland;
+GoldCost: 1200
+GemCost: 120
+Group: 0
+Slot: 61
+Upgrade: 198
+Hidden: 0
+Level: 0
+
+Buildings: (221, 149)
+Resource: (4, 4, 5, 9, 9)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 429
+Param2: 1
+
+Ability: 50
+Param1: 74
+Param2: 3
+
+Ability: 15
+Param1: 84
+Param2: 0
+
+Ability: 31
+Param1: 586
+Param2: 1;
+
+/221
+Name: Sorcerer's Chambers;
+GoldCost: 700
+GemCost: 100
+Group: 0
+Slot: 60
+Upgrade: 219
+Hidden: 0
+Level: 0
+
+Buildings: (219, 104, 103)
+Resource: (1, 4, 5, 9)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 11
+Param1: 53
+Param2: 0
+
+Ability: 31
+Param1: 428
+Param2: 1;
+
+/222
+Name: Orcish Barracks;
+GoldCost: 450
+GemCost: 45
+Group: 0
+Slot: 60
+Upgrade: 200
+Hidden: 0
+Level: 0
+
+Buildings: (200, 201, 39)
+Resource: (1, 1, 1)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 443
+Param2: 1
+
+Ability: 31
+Param1: 444
+Param2: 1;
+
+/223
+Name: Stone Idol;
+GoldCost: 700
+GemCost: 100
+Group: 0
+Slot: 61
+Upgrade: 201
+Hidden: 0
+Level: 0
+
+Buildings: (201, 222, 104)
+Resource: (4, 4, 5, 5)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 445
+Param2: 1
+
+Ability: 31
+Param1: 613
+Param2: 1;
+
+/224
+Name: Warcamp;
+GoldCost: 1200
+GemCost: 120
+Group: 0
+Slot: 60
+Upgrade: 222
+Hidden: 0
+Level: 0
+
+Buildings: (202, 222, 223, 149)
+Resource: (1, 1, 1, 1, 7, 7)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 446
+Param2: 1
+
+Ability: 50
+Param1: 71
+Param2: 3
+
+Ability: 15
+Param1: 85
+Param2: 0;
+
+/225
+Name: Halfling's Suburb;
+GoldCost: 450
+GemCost: 45
+Group: 0
+Slot: 60
+Upgrade: 203
+Hidden: 0
+Level: 0
+
+Buildings: (203, 204, 39)
+Resource: (1, 1, 2)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 699
+Param2: 1
+
+Ability: 15
+Param1: 86
+Param2: 0
+
+Ability: 11
+Param1: 54
+Param2: 0;
+
+/226
+Name: Halfling Post;
+GoldCost: 700
+GemCost: 100
+Group: 0
+Slot: 61
+Upgrade: 204
+Hidden: 0
+Level: 0
+
+Buildings: (225)
+Resource: (1, 2, 2, 3, 7)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 431
+Param2: 1
+
+Ability: 50
+Param1: 75
+Param2: 3
+
+Ability: 27
+Param1: 37
+Param2: 0;
+
+/227
+Name: Great Forge;
+GoldCost: 500
+GemCost: 100
+Group: 0
+Slot: 0
+Upgrade: 196
+Hidden: 1
+Level: 0
+
+Buildings: (55, 103, 196, 216)
+Resource: (1, 7, 7, 6)
+
+Ability:
+
+Ability: 5
+Param1: 10
+Param2: 0
+
+Ability: 11
+Param1: 51
+Param2: 0
+
+Ability: 11
+Param1: 55
+Param2: 0
+
+Ability: 15
+Param1: 101
+Param2: 0;
+
+/228
+Name: Centaur Camp;
+GoldCost: 450
+GemCost: 45
+Group: 0
+Slot: 60
+Upgrade: 206
+Hidden: 0
+Level: 0
+
+Buildings: (206, 207, 39)
+Resource: (1, 2, 2)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 409
+Param2: 1
+
+Ability: 31
+Param1: 410
+Param2: 1;
+
+/229
+Name: Sacred Flame;
+GoldCost: 700
+GemCost: 100
+Group: 0
+Slot: 61
+Upgrade: 207
+Hidden: 0
+Level: 0
+
+Buildings: (228, 104)
+Resource: (2, 4, 4, 8)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 411
+Param2: 1;
+
+/230
+Name: Centaur Stables;
+GoldCost: 1200
+GemCost: 120
+Group: 0
+Slot: 60
+Upgrade: 228
+Hidden: 0
+Level: 0
+
+Buildings: (229, 149)
+Resource: (1, 2, 5, 7, 8)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 412
+Param2: 1
+
+Ability: 50
+Param1: 73
+Param2: 3
+
+Ability: 15
+Param1: 87
+Param2: 0;
+
+/231
+Name: Eternal Spring;
+GoldCost: 700
+GemCost: 100
+Group: 0
+Slot: 60
+Upgrade: 209
+Hidden: 0
+Level: 0
+
+Buildings: (232, 104)
+Resource: (1, 2, 7, 7)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 438
+Param2: 1;
+
+/232
+Name: Bone Idol;
+GoldCost: 450
+GemCost: 45
+Group: 0
+Slot: 61
+Upgrade: 210
+Hidden: 0
+Level: 0
+
+Buildings: (210, 39)
+Resource: (1, 2, 4, 4)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 436
+Param2: 1
+
+Ability: 31
+Param1: 437
+Param2: 1;
+
+/233
+Name: Temple of Strength;
+GoldCost: 1200
+GemCost: 120
+Group: 0
+Slot: 60
+Upgrade: 231
+Hidden: 0
+Level: 0
+
+Buildings: (231, 149)
+Resource: (7, 7, 4, 5, 5, 9)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 439
+Param2: 1
+
+Ability: 50
+Param1: 72
+Param2: 3
+
+Ability: 15
+Param1: 88
+Param2: 0;
+
+/234
+Name: Shining Palace;
+GoldCost: 2800
+GemCost: 150
+Group: 0
+Slot: 0
+Upgrade: 173
+Hidden: 1
+Level: 8
+
+Buildings: (173, 190)
+Resource: (5, 5, 8, 8, 8)
+
+*Ability*:
+Ability: 46
+Param1: 5
+Param2: 0
+
+Ability: 1
+Param1: 1
+Param2: 0
+
+Ability: 15
+Param1: 73
+Param2: 3
+
+Ability: 5
+Param1: 0
+Param2: 5
+
+Ability: 11
+Param1: 47
+Param2: 2;
+
+/235
+Name: Heart of Abyss;
+GoldCost: 2800
+GemCost: 150
+Group: 0
+Slot: 0
+Upgrade: 176
+Hidden: 1
+Level: 8
+
+Buildings: (176, 190)
+Resource: (5, 5, 6, 9, 9, 9)
+
+*Ability*:
+Ability: 1
+Param1: 1
+Param2: 0
+
+Ability: 5
+Param1: 0
+Param2: 5
+
+Ability: 46
+Param1: -5
+Param2: 0
+
+Ability: 27
+Param1: 25
+Param2: 0
+
+Ability: 27
+Param1: 26
+Param2: 0
+
+Ability: 11
+Param1: 44
+Param2: 2;
+
+/236
+Name: Altar of Prime Elements;
+GoldCost: 2800
+GemCost: 150
+Group: 0
+Slot: 0
+Upgrade: 175
+Hidden: 1
+Level: 8
+
+Buildings: (175, 190)
+Resource: (5, 5, 8, 8, 9, 9)
+
+*Ability*:
+Ability: 1
+Param1: 1
+Param2: 0
+
+Ability: 15
+Param1: 74
+Param2: 3
+
+Ability: 5
+Param1: 0
+Param2: 5
+
+Ability: 11
+Param1: 48
+Param2: 2;
+
+/237
+Name: Magic Academy;
+GoldCost: 2800
+GemCost: 150
+Group: 0
+Slot: 0
+Upgrade: 177
+Hidden: 1
+Level: 8
+
+Buildings: (177, 190)
+Resource: (5, 5, 5, 8, 8, 9)
+
+*Ability*:
+Ability: 1
+Param1: 1
+Param2: 0
+
+Ability: 15
+Param1: 75
+Param2: 3
+
+Ability: 5
+Param1: 0
+Param2: 5
+
+Ability: 11
+Param1: 45
+Param2: 2;
+
+/238
+Name: Psion Castle;
+GoldCost: 2800
+GemCost: 150
+Group: 0
+Slot: 0
+Upgrade: 178
+Hidden: 1
+Level: 8
+
+Buildings: (178, 190)
+Resource: (5, 6, 8, 9, 9, 9)
+
+*Ability*:
+Ability: 1
+Param1: 1
+Param2: 0
+
+Ability: 15
+Param1: 76
+Param2: 3
+
+Ability: 5
+Param1: 0
+Param2: 5
+
+Ability: 11
+Param1: 49
+Param2: 2;
+
+/239
+Name: Reliquary;
+GoldCost: 4500
+GemCost: 300
+Group: 0
+Slot: 0
+Upgrade: 188
+Hidden: 1
+Level: 8
+
+Buildings: (188, 1012)
+Resource: (7, 7, 8, 8, 9, 9)
+
+*Ability*:
+Ability: 1
+Param1: 2
+Param2: 6
+
+Ability: 5
+Param1: 0
+Param2: 15
+
+Ability: 31
+Param1: 511
+Param2: 1
+
+Ability: 57
+Param1: 25
+Param2: 0;
+
+/240
+Name: Trappers Guild;
+GoldCost: 500
+GemCost: 15
+Group: 0
+Slot: 0
+Upgrade: 97
+Hidden: 0
+Level: 4
+
+Buildings: (97, 56)
+Resource: (1, 2, 3, 3)
+
+Ability:
+Ability: 28
+Param1: 10
+Param2: 0
+
+Ability: 31
+Param1: 455
+Param2: 1
+
+Ability: 31
+Param1: 582
+Param2: 1;
+
+/241
+Name: Gaming House;
+GoldCost: 50
+GemCost: 0
+Group: 0
+Slot: 18
+Upgrade: 5
+Hidden: 0
+Level: 0
+
+Buildings: (5, 30)
+Resource: (0)
+
+Ability:
+Ability: 22
+Param1: 1
+Param2: 0
+
+Ability: 50
+Param1: 77
+Param2: 0;
+
+/242
+Name: Epic Carpenter;
+GoldCost: 1200
+GemCost: 0
+Group: 14
+Slot: 0
+Upgrade: 183
+Hidden: 0
+Level: 4
+
+Buildings: (183, 188)
+Resource: (3, 1, 2, 2, 2, 7)
+
+*Ability*:
+Ability: 1
+Param1: 1
+Param2: 0;
+
+/243
+Name: Epic Enchanter;
+GoldCost: 1000
+GemCost: 100
+Group: 14
+Slot: 0
+Upgrade: 186
+Hidden: 0
+Level: 4
+
+Buildings: (186, 188)
+Resource: (3, 4, 5, 5, 9)
+
+*Ability*:
+Ability: 1
+Param1: 1
+Param2: 0;
+
+/244
+Name: Epic Jeweler;
+GoldCost: 1800
+GemCost: 60
+Group: 14
+Slot: 0
+Upgrade: 179
+Hidden: 0
+Level: 4
+
+Buildings: (179, 188)
+Resource: (3, 5, 7, 7, 8)
+
+*Ability*:
+Ability: 1
+Param1: 1
+Param2: 0;
+
+/245
+Name: Epic Tanner;
+GoldCost: 1000
+GemCost: 0
+Group: 14
+Slot: 0
+Upgrade: 184
+Hidden: 0
+Level: 4
+
+Buildings: (184, 188)
+Resource: (1, 3, 3, 3, 7)
+
+*Ability*:
+Ability: 1
+Param1: 1
+Param2: 0;
+
+/246
+Name: Epic Mailmaker;
+GoldCost: 1280
+GemCost: 0
+Group: 14
+Slot: 0
+Upgrade: 180
+Hidden: 0
+Level: 4
+
+Buildings: (180, 188)
+Resource: (3, 1, 1, 7, 7)
+
+*Ability*:
+Ability: 1
+Param1: 1
+Param2: 0;
+
+/247
+Name: Epic Platemaker;
+GoldCost: 1160
+GemCost: 0
+Group: 14
+Slot: 0
+Upgrade: 181
+Hidden: 0
+Level: 4
+
+Buildings: (181, 188)
+Resource: (3, 1, 1, 7, 7, 7)
+
+*Ability*:
+Ability: 1
+Param1: 1
+Param2: 0;
+
+/248
+Name: Epic Tailor;
+GoldCost: 1080
+GemCost: 20
+Group: 14
+Slot: 0
+Upgrade: 185
+Hidden: 0
+Level: 4
+
+Buildings: (185, 188)
+Resource: (3, 2, 4, 5)
+
+*Ability*:
+Ability: 1
+Param1: 1
+Param2: 0;
+
+/249
+Name: Epic Weaponsmith;
+GoldCost: 1400
+GemCost: 0
+Group: 14
+Slot: 0
+Upgrade: 182
+Hidden: 0
+Level: 4
+
+Buildings: (182, 188)
+Resource: (3, 1, 2, 7, 7, 7)
+
+*Ability*:
+Ability: 1
+Param1: 1
+Param2: 0;
+
+/250
+Name: Gambling House;
+GoldCost: 2250
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 156
+Hidden: 0
+Level: 6
+
+Buildings: (156, 112)
+Resource: (3, 3, 3, 3)
+
+*Ability*:
+Ability: 22
+Param1: 2
+Param2: 0
+
+Ability: 5
+Param1: 0
+Param2: 1
+
+Ability: 50
+Param1: 78
+Param2: 0;
+
+/251
+Name: Kobold Cages;
+GoldCost: 100
+GemCost: 20
+Group: 0
+Slot: 60
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (1, 2)
+Resource: (1, 1)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 47
+Param1: 9
+Param2: 0
+
+Ability: 31
+Param1: 569
+Param2: 1
+
+Ability: 31
+Param1: 570
+Param2: 1;
+
+/252
+Name: Slaveholders Guild;
+GoldCost: 300
+GemCost: 30
+Group: 0
+Slot: 0
+Upgrade: 251
+Hidden: 0
+Level: 0
+
+Buildings: (251, 42, 39)
+Resource: (1, 2, 4)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 562
+Param2: 1
+
+Ability: 12
+Param1: -1
+Param2: 0;
+
+/253
+Name: Alvari War School;
+GoldCost: 225
+GemCost: 40
+Group: 0
+Slot: 0
+Upgrade: 252
+Hidden: 0
+Level: 0
+
+Buildings: (252, 48, 39)
+Resource: (2, 7)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 559
+Param2: 1
+
+Ability: 15
+Param1: 79
+Param2: 0;
+
+/254
+Name: Scout Camp;
+GoldCost: 150
+GemCost: 30
+Group: 0
+Slot: 61
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (251, 40)
+Resource: (1, 2)
+
+Ability:
+Ability: 8
+Param1: 175
+Param2: 0
+
+Ability: 23
+Param1: 1
+Param2: 0;
+
+/255
+Name: Dark Path;
+GoldCost: 150
+GemCost: 30
+Group: 0
+Slot: 0
+Upgrade: 254
+Hidden: 0
+Level: 0
+
+Buildings: (254)
+Resource: (4)
+
+Ability:
+Ability: 5
+Param1: 0
+Param2: 3
+
+Ability: 11
+Param1: 43
+Param2: 1
+
+Ability: 27
+Param1: 34
+Param2: 0;
+
+/256
+Name: Hunter Stronghold;
+GoldCost: 300
+GemCost: 30
+Group: 0
+Slot: 0
+Upgrade: 255
+Hidden: 0
+Level: 0
+
+Buildings: (255, 54, 39)
+Resource: (2, 4, 6)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 563
+Param2: 1
+
+Ability: 5
+Param1: 5
+Param2: 0;
+
+/257
+Name: Temple of Shadows;
+GoldCost: 200
+GemCost: 30
+Group: 0
+Slot: 62
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (255, 33, 39)
+Resource: (4, 5, 6)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 566
+Param2: 1
+
+Ability: 15
+Param1: 104
+Param2: 0;
+
+/258
+Name: Tower of Shadows;
+GoldCost: 750
+GemCost: 120
+Group: 0
+Slot: 0
+Upgrade: 257
+Hidden: 0
+Level: 0
+
+Buildings: (257, 43, 104)
+Resource: (4, 5, 6, 9)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 560
+Param2: 1
+
+Ability: 3
+Param1: -1
+Param2: 0
+
+Ability: 5
+Param1: 0
+Param2: 5;
+
+/259
+Name: Citadel of Shadows;
+GoldCost: 1200
+GemCost: 120
+Group: 0
+Slot: 0
+Upgrade: 258
+Hidden: 0
+Level: 0
+
+Buildings: (258, 159, 102, 149)
+Resource: (5, 6, 8, 9)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 561
+Param2: 1
+
+Ability: 15
+Param1: 80
+Param2: 0
+
+Ability: 50
+Param1: 79
+Param2: 3;
+
+/260
+Name: Academy of Darkness;
+GoldCost: 700
+GemCost: 100
+Group: 0
+Slot: 0
+Upgrade: 253
+Hidden: 0
+Level: 0
+
+Buildings: (253, 257, 100, 104)
+Resource: (4, 5, 7, 9)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 12
+Param1: -1
+Param2: 0
+
+Ability: 23
+Param1: 1
+Param2: 0
+
+Ability: 31
+Param1: 564
+Param2: 1;
+
+/261
+Name: Heart of the Night;
+GoldCost: 400
+GemCost: 80
+Group: 0
+Slot: 0
+Upgrade: 256
+Hidden: 1
+Level: 0
+
+Buildings: (256, 107)
+Resource: (4, 9)
+
+Ability:
+Ability: 1
+Param1: 1
+Param2: 0
+
+Ability: 31
+Param1: 568
+Param2: 1
+
+Ability: 31
+Param1: 584
+Param2: 1;
+
+/262
+Name: Altar of Death;
+GoldCost: 1500
+GemCost: 90
+Group: 0
+Slot: 0
+Upgrade: 137
+Hidden: 0
+Level: -1
+
+Buildings: (137)
+Resource: (5, 9)
+
+*Ability*:
+Ability: 12
+Param1: -1
+Param2: 0
+
+Ability: 27
+Param1: 27
+Param2: 0
+
+Ability: 46
+Param1: -3
+Param2: 0
+
+Ability: 50
+Param1: 26
+Param2: 0;
+
+/263
+Name: Handler's Guild;
+GoldCost: 800
+GemCost: 20
+Group: 0
+Slot: 0
+Upgrade: 240
+Hidden: 0
+Level: 3
+
+Buildings: (240)
+Resource: (1, 2, 3, 7)
+
+Ability:
+Ability: 31
+Param1: 393
+Param2: 1
+
+Ability: 28
+Param1: 5
+Param2: 0
+
+Ability: 14
+Param1: 4
+Param2: 1
+
+Ability: 31
+Param1: 676
+Param2: 1
+
+Ability: 31
+Param1: 682
+Param2: 1;
+
+/264
+Name: Gnoll's Quarters;
+GoldCost: 250
+GemCost: 10
+Group: 0
+Slot: 60
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (2, 40)
+Resource: (6)
+
+Ability:
+Ability: 8
+Param1: 202
+Param2: 0
+
+Ability: 47
+Param1: 10
+Param2: 0
+
+Ability: 27
+Param1: 38
+Param2: 0
+
+Ability: 12
+Param1: -1
+Param2: 0
+
+Ability: 3
+Param1: -1
+Param2: 0
+
+Ability: 46
+Param1: -2
+Param2: 0;
+
+/265
+Name: Gnoll's Pyramid;
+GoldCost: 500
+GemCost: 40
+Group: 0
+Slot: 60
+Upgrade: 264
+Hidden: 0
+Level: 0
+
+Buildings: (264, 26, 39)
+Resource: (5, 6)
+
+Ability:
+Ability: 46
+Param1: -1
+Param2: 0
+
+Ability: 15
+Param1: 90
+Param2: 0
+
+Ability: 23
+Param1: 1
+Param2: 0
+
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 632
+Param2: 1;
+
+/266
+Name: Hunter's Tent;
+GoldCost: 800
+GemCost: 100
+Group: 0
+Slot: 61
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (264, 46, 104)
+Resource: (1, 2, 2, 3)
+
+Ability:
+Ability: 46
+Param1: -1
+Param2: 0
+
+Ability: 11
+Param1: 50
+Param2: 0
+
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 633
+Param2: 1;
+
+/267
+Name: Slaver's Pen;
+GoldCost: 1200
+GemCost: 0
+Group: 0
+Slot: 62
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (264, 46, 104)
+Resource: (1, 1, 2, 2, 7)
+
+Ability:
+Ability: 5
+Param1: 5
+Param2: 0
+
+Ability: 12
+Param1: -1
+Param2: 0
+
+Ability: 46
+Param1: -1
+Param2: 0
+
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 634
+Param2: 1;
+
+/268
+Name: Great Pyramid;
+GoldCost: 1200
+GemCost: 120
+Group: 0
+Slot: 60
+Upgrade: 265
+Hidden: 0
+Level: 0
+
+Buildings: (265, 149, 1010)
+Resource: (5, 6, 6, 7)
+
+Ability:
+Ability: 46
+Param1: -1
+Param2: 0
+
+Ability: 15
+Param1: 91
+Param2: 0
+
+Ability: 50
+Param1: 94
+Param2: 3
+
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 635
+Param2: 1;
+
+/269
+Name: Dark Brotherhood;
+GoldCost: 900
+GemCost: 80
+Group: 0
+Slot: 54
+Upgrade: 0
+Hidden: 1
+Level: -1
+
+Buildings: (78, 79, 48)
+Resource: (1, 1, 4, 7, 9)
+
+*Ability*:
+Ability: 27
+Param1: 29
+Param2: 0
+
+Ability: 27
+Param1: 30
+Param2: 0
+
+Ability: 12
+Param1: -1
+Param2: 0
+
+Ability: 46
+Param1: -2
+Param2: 0;
+
+/270
+Name: Templar Order;
+GoldCost: 700
+GemCost: 100
+Group: 0
+Slot: 54
+Upgrade: 0
+Hidden: 1
+Level: -1
+
+Buildings: (71, 72, 100)
+Resource: (1, 7, 7, 8, 8)
+
+*Ability*:
+Ability: 48
+Param1: 1348
+Param2: 4
+
+Ability: 12
+Param1: 1
+Param2: 0
+
+Ability: 46
+Param1: 2
+Param2: 0;
+
+/271
+Name: Fighter's Guild;
+GoldCost: 450
+GemCost: 0
+Group: 0
+Slot: 0
+Upgrade: 53
+Hidden: 0
+Level: 2
+
+Buildings: (39, 100)
+Resource: (1, 1, 2, 3, 7, 7)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 24
+Param1: 1
+Param2: 0;
+
+/272
+Name: Alkari Quarter;
+GoldCost: 260
+GemCost: 40
+Group: 0
+Slot: 60
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (34, 27)
+Resource: (4)
+
+Ability:
+Ability: 8
+Param1: 212
+Param2: 0
+
+Ability: 47
+Param1: 11
+Param2: 0
+
+Ability: 46
+Param1: 1
+Param2: 0
+
+Ability: 27
+Param1: 32
+Param2: 0;
+
+/273
+Name: White Tower;
+GoldCost: 460
+GemCost: 80
+Group: 0
+Slot: 60
+Upgrade: 272
+Hidden: 0
+Level: 0
+
+Buildings: (39, 272)
+Resource: (1, 2, 6)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 663
+Param2: 1
+
+Ability: 31
+Param1: 664
+Param2: 1
+
+Ability: 46
+Param1: 1
+Param2: 0
+
+Ability: 15
+Param1: 93
+Param2: 0;
+
+/274
+Name: Celestial Eye;
+GoldCost: 300
+GemCost: 60
+Group: 0
+Slot: 61
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (39, 102, 272)
+Resource: (5, 5, 6)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 665
+Param2: 1
+
+Ability: 12
+Param1: 1
+Param2: 0
+
+Ability: 51
+Param1: -5
+Param2: 0
+
+Ability: 46
+Param1: 1
+Param2: 0;
+
+/275
+Name: Crystal Pillars;
+GoldCost: 1200
+GemCost: 120
+Group: 0
+Slot: 62
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (149, 276, 277)
+Resource: (5, 5, 5, 6, 8, 9)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 697
+Param2: 1
+
+Ability: 55
+Param1: 11
+Param2: 2
+
+Ability: 15
+Param1: 94
+Param2: 0
+
+Ability: 50
+Param1: 96
+Param2: 3;
+
+/276
+Name: Mentorium;
+GoldCost: 650
+GemCost: 90
+Group: 0
+Slot: 61
+Upgrade: 274
+Hidden: 0
+Level: 0
+
+Buildings: (104, 273, 274)
+Resource: (6, 5, 8)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 696
+Param2: 1
+
+Ability: 21
+Param1: 10
+Param2: 0
+
+Ability: 46
+Param1: 1
+Param2: 0;
+
+/277
+Name: Shining Spire;
+GoldCost: 750
+GemCost: 75
+Group: 0
+Slot: 60
+Upgrade: 273
+Hidden: 0
+Level: 0
+
+Buildings: (104, 273, 274)
+Resource: (5, 5, 7, 6, 6)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 695
+Param2: 1
+
+Ability: 46
+Param1: 1
+Param2: 0
+
+Ability: 7
+Param1: 10
+Param2: 0;
+
+/278
+Name: Driller Guild;
+GoldCost: 200
+GemCost: 0
+Group: 15
+Slot: 60
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (29)
+Resource: (1, 2)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 8
+Param1: 221
+Param2: 0
+
+Ability: 47
+Param1: 12
+Param2: 0
+
+Ability: 49
+Param1: 12
+Param2: 1
+
+Ability: 55
+Param1: 12
+Param2: 1
+
+Ability: 31
+Param1: 671
+Param2: 1;
+
+/279
+Name: Seekers Clan Temple;
+GoldCost: 140
+GemCost: 30
+Group: 15
+Slot: 61
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (34, 35)
+Resource: (4, 4)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 8
+Param1: 221
+Param2: 0
+
+Ability: 47
+Param1: 12
+Param2: 0
+
+Ability: 5
+Param1: 0
+Param2: 1
+
+Ability: 31
+Param1: 670
+Param2: 1;
+
+/280
+Name: Skirr Clan Factory;
+GoldCost: 450
+GemCost: 15
+Group: 16
+Slot: 0
+Upgrade: 278
+Hidden: 0
+Level: 0
+
+Buildings: (278, 39, 46)
+Resource: (1, 1, 4)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 674
+Param2: 1
+
+Ability: 31
+Param1: 672
+Param2: 1
+
+Ability: 15
+Param1: 96
+Param2: 0;
+
+/281
+Name: Plague Factory;
+GoldCost: 400
+GemCost: 35
+Group: 16
+Slot: 0
+Upgrade: 279
+Hidden: 0
+Level: 0
+
+Buildings: (279, 39, 46)
+Resource: (1, 4, 5)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 673
+Param2: 1
+
+Ability: 31
+Param1: 672
+Param2: 1
+
+Ability: 15
+Param1: 95
+Param2: 0;
+
+/282
+Name: Seeker Laboratory;
+GoldCost: 700
+GemCost: 100
+Group: 0
+Slot: 62
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (104, 103, 1016)
+Resource: (3, 3, 4, 5)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 47
+Param1: 12
+Param2: 0
+
+Ability: 31
+Param1: 677
+Param2: 1
+
+Ability: 31
+Param1: 676
+Param2: 1
+
+Ability: 31
+Param1: 678
+Param2: 1
+
+Ability: 31
+Param1: 679
+Param2: 1;
+
+/283
+Name: Grand Ratt Altar;
+GoldCost: 1200
+GemCost: 120
+Group: 0
+Slot: 0
+Upgrade: 282
+Hidden: 0
+Level: 0
+
+Buildings: (149, 282)
+Resource: (1, 7, 4, 5, 9)
+
+Ability:
+Ability: 1
+Param1: 0
+Param2: 0
+
+Ability: 31
+Param1: 680
+Param2: 1
+
+Ability: 5
+Param1: 0
+Param2: 5
+
+Ability: 12
+Param1: -1
+Param2: 0
+
+Ability: 15
+Param1: 98
+Param2: 0;

@@ -1,0 +1,94 @@
+/0 Empty
+##
+
+/1 Mercenary Badge
+#This unit is a member of the Mercenaries Guild and demands a higher wage for his services. The unit's morale does not decrease when his alignment conflicts with the Master's, or with other units in the party.
+The unit receives %d~ less experience in battle.#
+
+/2 Medal for Courage
+#Increases morale by 5 and Bloodlust by 1.
+Increases upkeep by 3 gold.#
+
+/3 Medal of Valor
+#Increases attack by 3.
+Increases upkeep by +4 gold.#
+
+/4 Medal of Zeal
+#Increases stamina by 3 and recuperation by 1.
+Increases upkeep by +4 gold.#
+
+/5 Medal of Resilience
+#Increases health by 5.
+Increases upkeep by +4 gold.#
+
+/6 Medal of Marksmanship
+#Increases precise shot by 2.
+Increases upkeep by +5 gold.#
+
+/7 Order of the Marksman
+#Increases ranged attack by 2 and ammo by 1.
+Increases upkeep by +10 gold.#
+
+/8 Healer's Medal
+#Increases healing by 1 and First Aid by 1.
+Increases upkeep by 1 gem.#
+
+/9 Order of Salvation
+#Increases healing by 3.
+Increases upkeep by 3 gold. Increases upkeep by 2 gem.#
+
+/10 Medal for Agility
+#Increases ranged defense by 3.
+Increases upkeep by +4 gold.#
+
+/11 Medal of Strength
+#Increases defense by 2.
+Increases upkeep by 3 gold.#
+
+/12 Medal of Resolution
+#Increases resistance by 2.
+Increases upkeep by 3 gold.#
+
+/13 Order of the Defender
+#Increases the armor and resistance by 2.
+Increases upkeep by +10 gold.#
+
+/14 Hero's Cross
+#Increases morale by 6 and Smite Evil by 2. Confers immunity to pain.
+Increases upkeep by +10 gold.#
+
+/15 Destroyer's Cross
+#Increases morale by 6 and Dark Dominion by 2. Grants battle frenzy 2.
+Increases upkeep by +10 gold.#
+
+/16 Scout's Ribbon
+#Grants all terrain knowledge 4.
+Increases upkeep by +5 gold.#
+
+/17 Medal of Mastery
+#Increases repair by 2.
+Increases upkeep by 3 gold.#
+
+/18 Order of the Victor
+#Increases counterattack by 4 and grants Damage Weapon +2.
+Increases upkeep by +8 gold.#
+
+/19 Shining Pennant
+#Grants Enchanted Arrows +4.
+Increases upkeep by +2 gold. Increases upkeep by 1 gem.#
+
+/20 Medal of Expertise
+#Increases Energy Control by 1. Grants the ability Skillful Spellcaster 1.
+Increases upkeep by 1 gem.#
+
+/21 Star of the Magister
+#Increases ranged attack by 2 and grants Astral Ammo +2.
+Increases upkeep by +5 gold. Increases upkeep by 2 gem.#
+
+/22 Battlemage's Badge
+#Increases ammo by 1.
+Increases upkeep by 1 gem.#
+
+/23 Order of the Mage
+#Increases the power and duration of spells by 1 and summoning power by 2.
+Increases upkeep by 4 gem.#

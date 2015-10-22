@@ -1,0 +1,61 @@
+Quantity: 9
+
+/0
+Name: Empty;
+Rarity: 0
+Gold: 0
+Gem: 0
+
+/1
+Name: Iron;
+Rarity: 0
+Gold: 15
+Gem: 0
+
+/2
+Name: Redwood;
+Rarity: 0
+Gold: 10
+Gem: 0
+
+/3
+Name: Horses;
+Rarity: 0
+Gold: 35
+Gem: 0
+
+/4
+Name: Mandrake;
+Rarity: 0
+Gold: 10
+Gem: 5
+
+/5
+Name: Arcanite;
+Rarity: 1
+Gold: 50
+Gem: 20
+
+/6
+Name: Marble;
+Rarity: 1
+Gold: 110
+Gem: 0
+
+/7
+Name: Mithril;
+Rarity: 1
+Gold: 80
+Gem: 10
+
+/8
+Name: Dionium;
+Rarity: 2
+Gold: 600
+Gem: 50
+
+/9
+Name: Black Lotus;
+Rarity: 2
+Gold: 400
+Gem: 100

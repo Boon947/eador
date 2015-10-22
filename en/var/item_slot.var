@@ -1,0 +1,38 @@
+/0 
+Name: Inventory;
+
+/1 
+Name: Right Arm;
+
+/2
+Name: Left Arm;
+
+/3
+Name: Torso;
+
+/4
+Name: Head;
+
+/5
+Name: Belt;
+
+/6
+Name: Cloak;
+
+/7
+Name: Feet;
+
+/8 
+Name: Hands;
+
+/9 
+Name: Necklace;
+
+/10
+Name: Wrist;
+
+/11 
+Name: Ring;
+
+/12(100) 
+Name: Two-Handed Item;

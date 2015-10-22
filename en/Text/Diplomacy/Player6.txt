@@ -1,0 +1,281 @@
+/Герскил
+/0 Первая встреча
+Index: 1;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Greetings to you, %s! I am Herskil, Lord of the New Empire. I don't know what our meeting will lead to, a sustained peace or the brink of war, but you must remember one thing - even an enemy can be respected. I hope you'll be worthy of my respect.#
+
+/1 Не первая встреча (Плохие отношения)
+Index: 2;
+Min: -5000;
+Max: -100;
+Name: 1;
+Param: 0;
+Text: #Greetings, %s! It was a bad idea to come to this Shard - soon it's going to become a part of my Empire and you cannot do anything to prevent it!#
+
+/2 Не первая встреча (Нейтрален)
+Index: 2;
+Min: -99;
+Max: 99;
+Name: 1;
+Param: 0;
+Text: #Greetings, %s! I intend to add this Shard to my Empire. However, if you defeat me in fair battle, I'll admit your right to possess these lands.#
+
+/3 Не первая встреча (Хорошие отношения)
+Index: 2;
+Min: 100;
+Max: 5000;
+Name: 1;
+Param: 0;
+Text: #Greetings, %s! It would be a great honor for me to fight you for these lands. However, it's possible that we form an alliance instead. I won't rule out the possibility yet.#
+
+/4 Сразу война
+Index: 3;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Greetings to you, %s! I intend to add this Shard to my Empire, and only a fair fight will tell who will possess these lands. So let the war begin!#
+
+/5 Объявление войны
+Index: 4;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Soon my legions will wipe your country from the face of this world. Prepare for war, %s!#
+
+/6 Предложение мира
+Index: 5;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Many battles have come and gone, many soldiers have fallen. Don't you think it's time for us to make peace, %s? I’m sure that both of our states will benefit if we cease our warfare.#
+
+/7 Предложение союза
+Index: 6;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Greetings, %s! I propose we make peace between our realms to vanquish our enemies together. No army will be able to withstand our combined forces, I'm sure of it.#
+
+/8 Предложение торговли 
+Index: 7;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Trade is the basis of any state's prosperity. I offer you, %s, an opportunity to sign a trade agreement between our states. Do you agree?#
+
+/9 Предложение обмена
+Index: 8;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Greetings, %s! I'm offering you a little exchange to ensure good neighborly relations between our states.#
+
+/10 Пересмотр торговли
+Index: 9;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Greetings, %s! As things stand now, I have to revise the trade agreement between our states.#
+
+/11 Отмена торговли
+Index: 10;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Greetings, %s! The time has come to break our Trade Agreement, as it has given me nothing but losses for some time now.#
+
+/12 Отмена союза
+Index: 11;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Greetings, %s! The Empire no longer needs an alliance with your realm. I must cancel our pact.#
+
+/13 Требование выкупа
+Index: 12;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Greetings, %s! The Empire needs new lands, and the territory of your country is perfectly suited for expanding our boundaries. The only thing that can prevent a war is payment for peace. Give me what I require, and I'll find another target for my legions.#
+
+/14 Дар
+Index: 13;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Greetings, %s! Take this gift as a token of friendship between our states.#
+
+/15 Отказ (Грубый)
+Index: 14;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: -1;
+Text: #Such an offer offends the Empire! I reject it!#
+
+/16 Отказ (Обычный)
+Index: 14;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #No, this offer is unacceptable.#
+
+/17 Отказ (Вежливый)
+Index: 14;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 1;
+Text: #Your offer has greatly aroused my interest, %s. But the circumstances don't allow me to accept it.#
+
+/18 Соглашение (Недовольное)
+Index: 15;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: -1;
+Text: #I accept your offer, %s, although I know that I'm doing it at the expense of the Empire's interests.#
+
+/19 Соглашение (Нейтральное)
+Index: 15;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I accept your offer, %s.#
+
+/20 Соглашение (Довольное)
+Index: 15;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 1;
+Text: #This is an offer worthy of a real ruler! I accept.#
+
+/21 Отказ от общения (1х1)
+Index: 19;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Negotiations are pointless, %s. Only honest war will tell which of us will possess these lands.#
+
+/22 Отказ от переговоров
+Index: 23;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #It's not the right time for negotiations, %s. My legions are itching to go into action, and I intend to let them win honor in battle for the good of the Empire.#
+
+/23 Союзник, жребий или война
+Index: 20;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Please accept my congratulations, %s. Our military campaign has been a great success - all of our enemies are defeated, and our troops are celebrating their victory. The time has come to decide which of us will possess these lands. We can either cast lots or resolve this dispute on the battlefield.#
+
+/24 Союзник, сдаться или война
+Index: 21;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Please accept my congratulations, %s. Our military campaign has been a great success - all of our enemies are defeated, and our troops are celebrating their victory. The time has come to decide which of us will possess these lands. I believe that the right to possess this Shard belongs to the Empire. If you don't agree, you can prove otherwise in fair battle.#
+
+/25 Союзник, сдача
+Index: 22;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Please accept my congratulations, %s. Our military campaign has been a great success - all of our enemies are defeated, and our troops are celebrating their victory. My Empire is strong enough, and it's without any regrets that I permit you, my ally, to have these lands. May they be a worthy part of your realm.#
+
+/26 Отказ от подарка
+Index: 24;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Such a worthless gift offends the Empire! I reject your offering, %s.#
+
+/27 Принимаем дары
+Index: 25;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I accept your gift with gratitude, %s. May it be a token of peace between our states.#
+
+/28 Отказ от союза с предателем
+Index: 16;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Your betrayal does not do you any credit, %s. The Empire does not need such an ally.#
+
+/29 Отказ от мира с предателем
+Index: 17;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #You have betrayed me, %s, and I'm not going to make peace with you. Let this serve as a lesson to you.#
+
+/30 Первая встреча, кампания
+Index: 26;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Greetings to you, %s! I intend to add this Shard to my Empire. However, if you defeat me in fair battle, I'll accept your claim to possession of these lands.#
+
+/31 Ответ на объявление войны
+Index: 27;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Well, it's your choice, %s. The war will show whether you were right to think of the Empire as an easy target.#
+
+/32 Отказ в мире союзнику
+Index: 28;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #I'm sorry, but I'm against such a contract, %s. Sometimes a good war is better than a bad peace, especially when you're dealing with such a treacherous enemy as %s.#
+
+/33 Ответ на предательство
+Index: 29;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #From now on, %s, your name shall be sullied with indelible shame, forever! A traitor is worth neither of respect nor pity.#
+
+/34 Война, остались 1х1
+Index: 30;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Now, at last, there are only two of us left on this Shard, %s. The time has come to find out which of us is worthy to possess these lands. Let the final war begin!#
+&&&&&&

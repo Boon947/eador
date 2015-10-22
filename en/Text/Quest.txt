@@ -1,0 +1,279 @@
+0. Empty
+#No description#
+
+1. Rescue the Elfmaids
+#Rescue the Elfmaids.
+An Elf from %s province gave your hero the following quest:
+You need to free the kidnapped elfmaids imprisoned in a Tower of Mages.
+Its location is unknown, but your scouts will find it eventually.#
+
+2. Sacred Poleaxe
+#Sacred Poleaxe.
+A Dwarf from %s province gave your hero the following quest:
+You need to find the stolen Sacred Poleaxe that is hidden in a Lair of Bandits.
+Its location is unknown, but your scouts will find it eventually.#
+
+3. Bloody Gold 
+#Bloody Gold.
+An Orc from the province %s gave your hero the following quest:
+You need to collect 300 gold pieces by plundering your own provinces.# 
+
+4. Revenge on the Ogres
+#Revenge on the Ogres.
+A Centaur from %s province gave your hero the following quest:
+You need to kill 5 Ogres.#
+
+5. Troubles with Robbers
+#Troubles with Robbers.
+A Halfling from %s province gave your hero the following quest:
+You need to kill 10 Brigands.#
+
+6. Elven Necklace
+#Elven Necklace.
+A Goblin from the province %s gave your hero the following quest:
+You need to kill 5 Elves and collect their ears.#
+
+7. Banishing Demons
+#Banishing Demons.
+Priests from the Temple of Light located in %s province gave your hero the following quest:
+You need to kill 4 Demons.#
+
+8. Banishing Imps
+#Banishing Imps.
+Priests from the Temple of Light located in %s province gave your hero the following quest:
+You need to kill 15 Imps.#
+
+9. Destroying the Gates
+#Destroying the Gates.
+Priests from the Temple of Light located in %s province gave your hero the following quest:
+You need to find and destroy the Gates of Chaos.#
+
+10. Banishing Fiends
+#Banishing Fiends.
+Priests from the Temple of Light located in %s province gave your hero the following quest:
+You need to kill 7 Fiends.#
+
+11. Banishing the Hounds
+#Banishing the Hounds.
+Priests from the Temple of Light located in %s province gave your hero the following quest:
+You need to kill 7 Hellhounds.#
+
+12. Banishing Devils
+#Banishing Devils.
+Priests from the Temple of Light located in %s province gave your hero the following quest:
+You need to kill 2 Devils.#
+
+13. Laying Skeletons to Rest
+#Laying Skeletons to Rest
+Priests from the Temple of Light located in %s province gave your hero the following quest:
+You need to destroy 15 Skeletons.#
+
+14. Laying Zombies to Rest
+#Laying Zombies to Rest
+Priests from the Temple of Light located in %s province gave your hero the following quest:
+You need to destroy 15 Zombies.#
+
+15. Laying Ghouls to Rest
+#Laying Ghouls to Rest.
+Priests from the Temple of Light located in %s province gave your hero the following quest:
+You need to destroy 7 Ghouls.#
+
+16. Laying Ghosts to Rest
+#Laying Ghosts to Rest.
+Priests from the Temple of Light located in %s province gave your hero the following quest:
+You need to destroy 4 Ghosts.#
+
+17. Laying Vampires to Rest
+#Laying Vampires to Rest.
+Priests from the Temple of Light located in %s province gave your hero the following quest:
+You need to destroy 2 Vampires.#
+
+18. Destroying the Altar of Death
+#Destroying the Altar of Death.
+Priests from the Temple of Light located in %s province gave your hero the following quest:
+You need to find and destroy the Altar of Death.#
+
+19. Basilisk Hunt
+#Basilisk Hunt.
+The owner of a tanner store located in %s province gave your hero the following quest:
+You need to kill 5 Basilisks and collect their hides.#
+
+20. Manticore Hunt
+#Manticore Hunt.
+The owner of a tanner store located in %s province gave your hero the following quest:
+You need to kill 3 Manticores and collect their wings.#
+
+21. Unicorn Hunt
+#Unicorn Hunt.
+The owner of a tanner store located in %s province gave your hero the following quest:
+You need to kill 3 Unicorns and collect their horns.#
+
+22. Obtaining the Scroll
+#Obtaining the Scroll.
+Mages from the tower located in %s province gave your hero the following quest:
+You need to find and bring them a Scroll of %s.#
+
+23. Crystal, destruction
+#The Crystal's Quest
+Your hero received the following quest from the crystal located in your capital:
+You need to destroy these creatures: %s. The quest will be considered completed once the hero and his army destroy at least %d creatures.#
+
+24. Crystal, destruction
+#The Crystal's Quest
+Your hero received the following quest from the crystal located in your capital:
+You need to destroy these creatures: %s. The quest will be considered completed once the hero and his army destroy at least %d creatures.#
+
+25. Crystal, destruction
+#The Crystal's Quest
+Your hero received the following quest from the crystal located in your capital:
+You need to destroy these creatures: %s. The quest will be considered completed once the hero and his army destroy at least %d creatures.#
+
+26. --
+#--#
+
+27. --
+#--#
+
+28. --
+#--#
+
+29. --
+#--#
+
+30. --
+#--#
+
+31. --
+#--#
+
+32. --
+#--#
+
+33. --
+#--#
+
+34. --
+#--#
+
+35. --
+#--#
+
+36. --
+#--#
+
+37. --
+#--#
+
+38. --
+#--#
+
+39. Spider Hunt
+#Spider Hunt.
+The owner of a tailor store located in %s province gave your hero the following quest:
+You need to kill 5 Spiders and collect their spinning glands.#
+
+40. Fairy Dust
+#Fairy Dust.
+The owner of a tailor store located in %s province gave your hero the following quest:
+You need to kill 7 Fairies and collect the dust off their wings.#
+
+41. Ancient Fabric
+#Ancient Fabric.
+The owner of a tailor store located in %s province gave your hero the following quest:
+You need to find the Fabric of the Ancients in one of the Thieves Guilds.#
+
+42. Heroic Deed
+#Heroic Deed.
+The owner of a chain mail armory located in %s province gave your hero the following quest:
+You need to defeat 4 Minotaurs.#
+
+43. Dragon Hunt
+#Dragon Hunt.
+The owner of a chain mail armory located in %s province gave your hero the following quest:
+You need to kill a Dragon and bring back its scales.#
+
+44. Special Ore
+#Special Ore.
+The owner of a chain mail armory located in %s province gave your hero the following quest:
+You need to find some special Ore in one of the Dark Caves.#
+
+45. Enemies of Light
+#Enemies of Light.
+The owner of a plate armory located in %s province gave your hero the following quest:
+You need to kill 5 Sorcerers.#
+
+46. Dark Silver
+#Dark Silver
+The owner of a plate armory located in %s province gave your hero the following quest:
+You need to kill 3 Executioners and bring back their guild badges.#
+
+47. Hydra's Heart
+#Hydra's Heart.
+The owner of a plate armory located in %s province gave your hero the following quest:
+You need to kill a Hydra and bring back its heart.#
+
+48. Gryphon Hunt
+#Gryphon Hunt.
+The owner of an archery shop located in %s province gave your hero the following quest:
+You need to kill three gryphons and collect strong feathers from their wings.#
+
+49. Special Timber
+#Special Timber
+The owner of an archery shop located in %s province gave your hero the following quest:
+You need to kill a Treant and collect its branch.#
+
+50. Replenishing Collections
+#Replenishing Collections.
+The owner of a jewelry store located in %s province gave your hero the following quest:
+You need to obtain a Basilisk's Egg and bring it to him.#
+
+51. Slug Hunt
+#Slug Hunt.
+A Lizardman from %s province gave your hero the following quest:
+You need to kill 6 Giant Slugs.#
+
+52. Special Ink
+#Special Ink.
+The owner of a knowledge store located in %s province gave your hero the following quest:
+You need to obtain a Spider's Egg and bring it to him.#
+
+53. Stolen Tools
+#Stolen Tools.
+The owner of a jewelry store located in %s province gave your hero the following quest:
+You need to find the stolen tools in one of the Harpy Nests.#
+
+54. Stop the Thief!
+#Stop the Thief!
+The owner of a knowledge store located in %s province gave your hero the following quest:
+You need to seize the stolen signet from one of the thieves.#
+
+55. Moonstone
+#Moonstone.
+The owner of a weapon store located in %s province gave your hero the following quest:
+You need to search the shores of an Enchanted Pool and find a moonstone.#
+
+56. Fighting the Competition
+#Fighting the Competition.
+The owner of a sorcery store located in %s province gave your hero the following quest:
+You need to find and plunder a knowledge store.#
+
+57. Dark Egg
+#Dark Egg.
+Dark Elves from province %s gave your hero the following quest:
+You must find the lost Egg of the Beholders. The last known location was in one of the ancient tombs, but they lost it.
+Its location is unknown, but your scouts will find it eventually.#
+
+58. Dwarven Beards
+#Dwarven beards.
+Gnoll from province %s gave your hero the following quest:
+You need to kill 7 Dwarves and cut off their beards.#
+
+59. Gates of Chaos
+#Gates of Chaos.
+An Alkari from the province %s gave your hero the following quest:
+We must destroy the Gates of Chaos, through which many demons emerge.#
+
+60. Bitter Food
+#Bitter Food.
+A Ratman from the province %s gave your hero the following quest:
+You need to kill 4 Necromancers.#

@@ -1,0 +1,137 @@
+0. Empty
+#No description#
+
+1. Chalice of Life
+#Restores 5 hit points to the hero and all his units. No effect on the undead and mechanical units.#
+
+2. Extravaganza
+#Improves province population mood by 1.
+Active for 10 turns.#
+
+3. Enchanted Coffer
+#When placed in a province, this coffer gets magically filled with gold (the quantity depends on the province's population level). The population mood in the province is lowered.
+Can only be performed in a populated province.#
+
+4. Fair Wind
+#Increases the hero's mobility by 4, active for 1 turn.#
+
+5. Dark Ritual
+#A part of the province's population is sacrificed to the Dark Gods, and gems are received as a reward.
+Can only be performed in a populated province.#
+
+6. Walking Dead
+#Raises a corpse from the grave to join the hero's units.
+There must be enough space in the hero's army.#
+
+7. Heavenly Light
+#Restores 30~ of hit points to all friendly troops in the province and increases their morale by 5. Improves the province's population mood and increases its growth rate for 10 turns.#
+
+8. Illusionary Battle
+#Creates illusionary enemies for the hero's army to fight. Fighting these illusions is safe enough, but the experience the units gain is real.#
+
+9. Creation
+#Creates a random item, which is placed in the treasury.#
+
+10. Gifts of Earth
+#The province's income in gold and gems increases substantially. Active for 10 turns.#
+
+11. Chaos Spawn
+#Summons one of the lesser dark creatures of the Underworld to join the hero's units.
+There must be enough space in the hero's army.#
+
+12. Deadly Terror
+#An unnatural fear grips the hearts of all those in the province. The morale of the units is decreases by 7. Population mood is lowered for 10 turns.#
+
+13. Heavenly Guards
+#Pegasi descend from the skies to defend the province. People are happy to have such a protection. In addition, the Pegasi scout out the lands around the province.
+Not available in a province with an undisbandable guard, or in a besieged province.#
+
+14. Mass Insanity
+#People of the spellbound province begin an armed uprising.
+Can only be performed in a populated province.#
+
+15. Magic Barrier
+#A magic barrier is placed around the province, preventing enemies or hostile magic from getting through.
+Lasts 3 turns.#
+
+16. Blizzard
+#A part of the province's population dies, its growth and income are lowered for 5 turns, and the owner of the province incurs much losses. The heroes stationed in the target province have to skip a turn.#
+
+17. Rain of Brimstone
+#Kills a part of the province's population and inflicts 10 points of magic damage on all units stationed there.#
+
+18. Undead Uprising
+#An undead army attacks the province. If the undead defeat the defenders, the province turns into an unaligned dead land.#
+
+19. Gifts of Heaven
+#Gives gold, gems or a magic artifact or makes the population happy.#
+
+20. Astral Gates
+#Instantly transports the hero to the capital. If the stronghold is besieged, the hero is taken to a neighboring friendly province instead. The ritual will not work if there are no suitable provinces.#
+
+21. Tower of Lightning
+#A Tower of Lightning is erected in the province to boost the gem income and to shoot the enemies with lightning when the province is under attack.
+Can only be performed in a province with an empty building slot and no Tower of Lightning already present.#
+
+22. Conflagration
+#Causes damage to provincial fortifications and may burn down some buildings. Inflicts 15 points of magic damage on all units stationed there. Part of the population dies.#
+
+23. Demon Invasion
+#A mighty army of demons attacks the province. If they defeat the defenders, the province becomes an unaligned land of Chaos.#
+
+24. Pestilence
+#All the living units stationed in the province lose half their hit points. Kills part of the population, lowers its mood, and decreases its growth for 10 turns.
+Can only be performed in a populated province.#
+
+25. Gates of Chaos
+#Opens Gates of Chaos in a province. Can be opened in a friendly or enemy province.#
+
+26. Gates of Abyss
+#Opens Gates of Abyss in a province. You can hire demons here. Can be performed in a friendly province only.#
+
+27. Call of Darkness
+#Raises a powerful undead from the grave to join the hero's army.
+There must be enough space in the hero's army.#
+
+28. Altar of Death
+#Creates an unprotected Altar of Death in a province. You can hire undead creatures here.
+Can be performed in a friendly province only (except in the capital).#
+
+29. Target of Brotherhood
+#Inflicts 12 points of magic damage to all the units stationed in the province. Kills part of the population, lowers its mood, and decreases its growth for 10 turns.
+Can only be performed in an enemy populated province.#
+
+30. Bloody Hand
+#Inflicts 20 points of magic damage to all the units stationed in the province.
+Can only be performed in a friendly province.#
+
+31. Astral Spy
+# Secretly send a magical spy to inspect the guard in a province.
+Can only be performed in a friendly province.#
+
+32. Summon Icarus
+# Winged Alkari Warrior is summoned by the hero's call.
+There must be enough space in the hero's army.#
+
+33. Holy Cloister
+#This rare scroll contains a detailed plan for the construction of the inquisition stronghold. It contains everything from the foundation to a ritual consecration.#
+
+34. Summon Kobold
+# Three Kobold slaves are magically summoned to join the hero's army. This teleportation is not without risk, and frequently the summoned will arrive dead.
+There must be enough space in the hero's army.#
+
+35. Pacification
+#Improves province population mood by 1.
+Active for 10 turns.#
+
+36. Auction
+#An extraordinary Halfling Fair is held. All taxes are immediately sent to the treasury.
+Can only be performed in a populated province.#
+
+37. Harvest Festival
+#Improves province population mood by 1.
+The province's income in gold and gems increases by 10.#
+
+38. Gathering of the Pack
+#Enables the hero to hire Gnolls in his army.
+Available recruits depend on specific buildings in the castle.#

@@ -1,0 +1,404 @@
+Quantity: 118
+
+0. Empty
+#No description#
+
+1. Select Hero
+#Select your hero by left-clicking on him or clicking the «Next Hero» button.
+
+If you want to hide this hint, or any other one, just click on it.#
+
+2. Movement
+#Now, to order your hero to move, right-click on the neighboring province, where a town is located.#
+
+3. End Turn
+#Excellent! As you can see, a task has appeared in the hero information window. You can abandon it if necessary by clicking on the «Cancel Orders» button.
+Now, to make your hero perform the task, click on the «End Turn» button.#
+
+4. Shop, Entering
+#To enter a shop, select a hero and click on the «Treasury and Shops» button.#
+
+5. Shop, Description
+#You're in a merchant's shop now. On the right you can see the goods available for purchase. On the left you see your hero's inventory and the items stored in your treasury. The hero can access the items stored in his inventory at any time. The items stored in the treasury can only be accessed in provinces where merchant shops are located.
+Click this scroll to continue...#
+
+6. Shop, Items
+#Right-click on an item to read its description. Item bonuses are only active when the item is equipped by a hero - that is, put into a corresponding inventory slot. Items stored in the backpack or in the treasury do not affect the hero's attributes.
+Click this scroll to continue...#
+
+7. Shop, Equipment
+#Heroes can only equip items permitted by their class. If an item is not permitted for the current hero, the item type in the tooltip will be shown in red.
+Click this scroll to continue...#
+
+8. Shop, Trade
+#To buy something, left-click on an item and move it into your hero's inventory. If you want your hero to equip this item right away, move your purchase onto the scroll with the hero's portrait.#
+
+9. Shop, Slots
+#Excellent! Congratulations on your first purchase! Note that each item takes a specific slot among your hero's equipment. Weapons and different pieces of armor can be placed only into the corresponding inventory slot.
+Click this scroll to continue...#
+
+10. Shop, Exiting
+#After you've bought everything you need, leave the merchant's shop by clicking on the «Exit» button or by pressing the Esc key.#
+
+11. Entering a Location
+#To enter the Ancient Ruins or any other location in a province, click on the «Enter Building» button.#
+
+12. Selecting Location
+#Excellent. Now select the goblin-infested Ancient Ruins from the list on your screen.#
+
+13. End Turn
+#As you see, your hero has a new task - enter Ancient Ruins. To make your hero perform this task, click on the «End Turn» button.#
+
+14. Garrison, Entering
+#To hire units, select a hero and click on the «Hire Troops» button.#
+
+15. Garrison, Description
+#You're in the garrison of a local castle right now. On the left you can see your hero's party, on the bottom right the garrison of the fortress and on the top right the units available for hire.
+Click this scroll to continue...#
+
+16. Garrison, Units
+#Right-click on a unit to view unit information.
+Click this scroll to continue...#
+
+17. Garrison, Hire
+#To hire a unit, left-click on it, then move it to one of the free slots in your hero's party.#
+
+18. Garrison, Slots
+#Excellent, the first unit has joined your party! Right now, most of the hero's army slots are locked. In the future, as the hero gains experience and increases his Command attribute, he will be able to lead much larger forces.
+Click this scroll to continue...#
+
+19. Garrison, Exiting
+#Hire as many units into your party as possible. They will come in handy during the battle ahead. After you've hired your army, leave the garrison by clicking on the «Exit» button or pressing the Esc key.#
+
+20. Library, Entering
+#To enter a library, select a hero and click on the «Learn Spells» button.#
+
+21. Library, Description.
+#You are in the library now. On the bottom left you see the spells your hero has already learned, on the right, the spells available for learning. 
+Right-click on a spell to read its description.
+Click this scroll to continue...#
+
+22. Library, Learning
+#To learn a spell, left-click on it, then move it to one of the free slots in your hero's spellbook.#
+
+23. Library, Deleting
+#Great, you've learned your first spell! Learning spells doesn't require any resources, so you can experiment freely, adjusting your set of spells to your liking.  
+To get rid of a spell you don't need, left-click on the spell to select it, then click on the «Delete» button.
+Click this scroll to continue...#
+
+24. Library, Exiting
+#Fill up all the empty slots in your hero's spellbook. Keep in mind that a hero can only use each of the spells he has memorized once per battle. It is prudent to learn several instances of the most useful enchantments. After you've memorized your magic, leave the library by clicking on the «Exit» button or pressing the Esc key.#
+
+25. Entering a Location
+#To enter the Ruined Tower, click on the «Enter Building» button, then select the orcs' tower.#
+
+26. End Turn
+#Now your hero is heading to the orcs' tower to perform his mentor Danur's next task. However, he'll only reach it on your next turn. Click on the «End Turn» button to send your hero on his way.#
+
+27. Hero Screen
+#Make sure that your hero is ready before starting off on his task. You may need to hire more units. Click on the hero's portrait in the side panel to browse the details about him.#
+
+28. Troop Deployment
+#This is the combat window. The first stage of combat is troop deployment. The two outer rows of tiles are available for initial deployment. When you are the attacker, your units are aligned on the left side of the battlefield.
+Click this scroll to continue...#
+
+29. Troop Deployment
+#To place a unit on a specific tile, left-click on the unit to choose it, then click on the desired tile. If the tile is already occupied, your unit will switch places with the unit previously occupying the tile. To deselect a unit, left-click on it again.
+After you've deployed all of your units, click the «Begin Combat» button.#
+
+30. Initiative
+#Initiative determines who moves first in combat. If your hero's initiative is higher than the enemy's initiative, you will move first. If the two sides' initiative is equal, the attacker moves first. Special skills and certain items can modify a hero's initiative.
+The hero who moves second has the advantage of seeing the enemy placement during his deployment phase.#
+
+31. The Battle Begins
+#So, the combat begins! The main goal of any battle is to crush your enemies and see them driven before you. During your turn you can give different orders to your units. The most basic ones are to move and to attack. The number of movement points a unit has determines how far it can go in a given turn. Crossing rough terrain uses more movement points than crossing the plains.
+Click this scroll to continue...#
+
+32. Movement
+#Right now, the hero is selected. To order him to move, left-click on the tile you want him to go. The cursor will inform you whether the unit has enough speed to reach the tile you have selected. If the target tile is occupied by an enemy unit, and your unit can move next to it, you can order your unit to attack by left-clicking on the enemy.
+Click this scroll to continue...#
+
+33. End Turn
+#Having finished giving orders to your units, click the «End Turn» button to start your opponent's turn. Your units' movement points will be restored on your next turn.#
+
+34. Unit Attributes
+#During combat, it is important to remember your units' attributes, such as attack, defense and resistance values. Details on the selected unit are displayed in the side panel. Right-click on any unit to view more information about it. Brief information on all units can be viewed by pressing and holding the Alt key.
+Click this scroll to continue...#
+
+35. Battle against the Undead
+#In this combat you are fighting skeletons and zombies. Skeletons have few hit points, but their ranged defense is high, so it's best to kill them with magic or in melee combat. On the other hand, the slow but fairly powerful zombies are a perfect target for your missile units.#
+
+36. Stamina
+#Units possess a certain number of stamina points, which are spent on attacking, using special skills, and crossing hills and bogs. When the unit is low on stamina, it loses speed, and its attacks get weaker because of fatigue. Once its stamina falls to 0, the unit is unable to do anything and becomes especially vulnerable to enemy attacks. 
+Click this scroll to continue...#
+
+37. Rest
+#To restore some stamina points, you can order your unit to «Rest.»  When a unit is resting, it misses its turn and doesn't retaliate when attacked.#
+
+38. Archer
+#The selected unit can strike enemies from a distance. Each missile unit has a firing range, which determines how far it can shoot. However, it can't shoot at an enemy standing next to it. Enemy units within range are highlighted red. If there are no enemy units within range, you need to let them come closer.#
+
+39. Ammo
+#This unit is out of ammunition. It won't be able to shoot any more for the rest of this battle. However, certain ranged units have special abilities, such as Collect Ammo and Meditation, which enable them to restore their ammo supply during combat.#
+
+40. Orcs
+#Many units have special skills and abilities. Some of them are applied automatically, while others have to be activated. Orcs, for example, damage enemy armor with their mighty blows, decreasing enemy defense. The effect of these blows is shown on the selected unit's side panel.#
+
+41. Magic
+#To cast a spell, click on the «Cast Spell» button in the side panel. Keep in mind, each spell your hero has memorized can only be used once per combat.#
+
+42. Morale
+#Morale is among the most important attributes a unit has. High morale increases the unit's attack power, while low morale lowers it. If the unit's morale falls to 0, it will descend into panic. Morale can decrease during combat if a unit receives a heavy wound or has an ally die on a tile next to it. It increases whenever the unit kills an enemy unit or an enemy dies on a neighboring tile.
+Click this scroll to continue...#
+
+43. Morale Outside of Battle
+#When not in combat, the morale of the units gradually returns to its base value. If the hero's army includes troops of differing alignments, its base morale will decrease considerably. When there are only good or evil units in a party, their morale will increase. In addition, units' morale is affected by whether or not their alignment differs from yours.#
+
+44. Terrain
+#It is essential to make good use of terrain features in combat. For instance, when in forests, the units' ranged defense is increased, on hills, their range, defense, and counterattack are increased, in swamps, their defense and counterattack are lowered. Impassable terrain is good for hiding archers behind.#
+
+45. Preparing for a Journey
+#Make sure you thoroughly prepare for the battle ahead. Hire more units into your party if necessary. Remember to visit the merchant's shop - some of your items need repair.#
+
+46. Durability
+#Weapons and armor deteriorate with use, they need to be repaired regularly. Each item has a durability reserve that gradually decreases. Once its durability reaches zero, the item breaks and no longer affects the hero's attributes. It's best not to let that happen and repair items before they break.
+Click this scroll to continue...#
+
+47. Fix
+#To repair all of the items a hero has (including the ones in his backpack), click the «Repair All» button. If you only want to fix some of the items, enter the repair mode by clicking the «Repair» button, and fix items by left-clicking on them. You can leave the repair mode by clicking the same button again.
+Click this scroll to continue...#
+
+48. Selling
+#You can discard items you don't need by taking them and clicking on the «Delete» button. You can also sell them back to the store by taking them and clicking on an empty slot in the shop. Note that the buying price for any item is much higher than its selling price. Buying items you don't need makes little sense - you'll only be able to sell them back at a fraction of their price.#
+
+49. Off You Go
+#When you're ready, head to the forest in the north - select your hero and right-click on your destination. Make sure you click on the «End Turn» button.#
+
+50. Shipyard
+#You can only travel across the sea from a province that has a shipyard. Later on you will be able to build shipyards yourself, but you have to learn the secret of their construction first. 
+To send your hero on his way, select him and right-click on the province with a castle (on the right, across the sea).#
+
+51. Entering the Castle
+#To begin construction, open the castle window by clicking the «Stronghold» button.#
+
+52. Construction
+#You are now in the construction window. To the right you can see the outside appearance of your castle and the buildings already constructed, to the left is the list of buildings available for construction. Buildings you can't construct yet are grayed out - they require some other buildings for their construction.
+To construct a building, left-click on it and click on the «Build» button in the window that appears.#
+
+53. Building constructed
+#Congratulations, you've constructed your first building. You'll be able to build something else in your Stronghold on your next turn. It's time to leave these walls and take a look around. To leave the castle, click on the «Exit» button or press the Esc key.#
+
+54. Death
+#You failed to defeat your enemy. Try to learn from your mistakes and prepare better for the battle next time.#
+
+55. Combat Settings
+#You can adjust the battle preferences to your liking. Click the «Settings» button and select the options that best suit you.
+If you feel confident about the outcome of the battle, you can let the computer fight it for you (Press F10 for instant resolution, or F11 to view the computer-controlled combat).#
+
+56. Hinterland
+#The castle is surrounded by independent provinces. Each of them will yield you income once you conquer it successfully. Left-click on a province to view the details about it.
+Click this scroll to continue...#
+
+57. Conquests
+#You can start your conquests right away or wait several turns, building everything you need in the castle first. The choice is yours. To attack a province, select a hero and right-click on his destination to send him on his way.#
+
+58. Planning
+#If you want to construct a building that is not available for construction right now, you can plan its construction by clicking on the building, then clicking on the «Plan» button. Then the buildings required to construct the planned building will be highlighted in the construction window.#
+
+59. Locations
+#Besides conquering new lands, your hero can also explore your own provinces. Ancient Ruins, Abandoned Temples, and other secret locations guard treasures that await any who can defeat their guards. Highlight the province by left-clicking on it. Then, select the «Locations» window in the information panel to learn what locations are in your province.
+Click on this scroll...#
+
+60. Exploration
+#Many secret locations can be discovered on the unexplored territory within your provinces. You can give your hero an order to «Explore a Province» to search for them. You can continue to explore the province until it is fully explored.#
+
+61. Construction in Provinces
+#There is a Pottery in your castle that allows you to build Granaries in your provinces. To build something in the province, left-click on it, then click on the «Construct Building» button. Select the building you need in the list that appears and click on the «Build» button. You can construct provincial buildings in all your provinces except for your capital.#
+
+62. First Building in a Province
+#Excellent, you've constructed your first building. You can view the buildings you've already constructed - and demolish them if necessary - by selecting a province and clicking on the «Buildings» window in the side panel. Keep in mind you can only construct up to three buildings in a single province. However, you will be able to upgrade many buildings in the future.#
+
+63. Hiring Guards
+#There is a Recruiting Station in your castle that allows you to hire local militiamen as guards. Guards are special troops that can be placed in any province. They can't move, but they require less upkeep than the ordinary soldiers. To hire a guard, select your province and click the «Hire Guard» button. Select the guards you want to hire in the list that appears, then click the «Hire» button.#
+
+64. First Guard
+#Excellent, you've hired your first guard! Now this province isn't defenseless any longer, your units will fight back if attacked. You can review the guard's details, and disband them if necessary, by clicking the «Guard» button in the province information panel. Keep in mind some guards cannot be disbanded, you'll have to attack them with the hero's army in order to get rid of them.#
+
+65. Statistics
+#Your castle and provinces yield income every turn. You have certain expenses as well - you need to pay your units their wages each turn. You can view detailed information on your income and expenses by clicking the «Statistics» button. Make sure you keep a close eye on your economy and try to maintain a positive income. Don't let your units stand by idly, make them work for their pay.#
+
+66. Quest Reminder
+#Remember that Danur gave you a task - build a Recruiting Station, a Forge, and a Pottery in your Stronghold.#
+
+67. Mercenary
+#You've got a mercenary available for hire. Mercenaries are always shown in the top right corner of the hire window. They demand double pay, but they tend to be experienced warriors. After a while, the current mercenary will be replaced with a new one.#
+
+68. Garrison
+#The hero can leave a part of his army in the castle garrison. This makes sense if, for instance, the hero prepares for a battle and doesn't want to lose wounded units. Keep in mind that units stationed in the garrison still cost upkeep.#
+
+69. Strongholds
+#Excellent, you've conquered your first enemy province! To defeat your enemy, you don't have to conquer all of his lands. Conquering his Stronghold is enough. This works both ways though - if your Stronghold falls, you are defeated.#
+
+70. Astral
+#You are on the Astral screen now. You can see your world and the shards surrounding it in front of you. Click on any of the shards to view the details about it.#
+
+71. Shard
+#Each shard contains the secrets of constructing certain buildings. In addition, shards give their owners additional advantages in military campaigns and serve as a source of energy.
+You can try to subsume any of the shards into your world. To do so, select the shard and click the «Attack» button.#
+
+72. Healer
+#The selected unit can heal wounded allies. Healing, just like a ranged attack, has a limited range, and requires a kind of ammo as well. To activate healing mode, click the «Heal» button in the side panel. Units that can be healed will be highlighted green. Click on the button again to leave this mode.#
+
+73. Hero, Beginning
+#You're on the new Shard now. To unite it with your world, you have to defeat all the opponents, whether local lords or immortal Masters.
+First of all, you need to hire a hero. Enter your Stronghold by clicking the «Stronghold» button.#
+
+74. Hero, Castle
+#Now you need to open the hero hire screen by clicking the «Hire or Resurrect Hero» button.#
+
+75. Hero, Hire
+#You can see heroes of different classes at the top of the screen. By clicking on one of them, you can read information about the hero and hire him if you wish. Keep in mind that each hero will cost more than the previous one.#
+
+76. Hire Hero
+#You've hired a hero! Now he's fully at your disposal. You can send him to conquer new lands or to explore your province. Make sure you prepare the hero for the battle ahead - hire units, buy equipment, and learn spells. You'll be able to do all of this by constructing the required buildings in your Stronghold.#
+
+77. Hero Died
+#Your hero was slain, but don't despair. You may resurrect him after several turns. The resurrection costs a fair amount of gold and gems, though.#
+
+78. Hero, Resurrection
+#The fallen hero's body was delivered to your stronghold. To resurrect him, enter your Stronghold, then click the «Hire or Resurrect Hero» button.#
+
+79. Strategic Resource
+#The strategic resource %s is produced in the conquered province. Unlike gold and gems, strategic resources cannot be accumulated. If you possess at least one province that produces a specific resource, you have enough of it. If you buy something that requires a resource you don't have, you'll have to pay the price of this resource in gold and gems.#
+
+80. Population 1
+#Provinces aren't just plots of land. They are inhabited by creatures, which are the source of your income. A lot depends on which race inhabits a province. The population gradually increases, and so does the province level and the income the province yields. Building Granaries in provinces helps you to speed up the population growth.
+Click this scroll to continue...#
+
+81. Population 2
+#Population mood is an essential parameter. If the population is unhappy, unrest will gradually accumulate in the province, ultimately resulting in a rebellion. Hiring a guard in a province allows you to slow down the rate at which unrest grows. If the province is in revolt, the guard will help you to defeat the rebels. In the future, buildings that influence population mood will become available for construction.#
+
+82. Distant Lands
+#The further you are from your Stronghold, the stronger the guards in independent provinces and the enemies in ruins, ruined towers, and other locations. It is best to conquer the lands closest to the castle first. Your hero will gain combat experience, which will help him to defeat stronger enemies in future.#
+
+83. Groups of Buildings 1
+#Some buildings in your Stronghold belong to special groups - you can see it in the building's information window whether or not it belongs to such a group.  Only a limited number of buildings from each group can be constructed in the castle. For instance, when you construct the fourth building that produces first rank units, the rest of the buildings in this group become unavailable for construction.
+Click to continue...#
+
+84. Groups of Buildings 2
+#This way the ruler himself shapes the set of units, spells, and equipment to be used in his conquests. When choosing which buildings to construct, consider the current situation on the shard - gold and gem income, access to strategic resources, opponents' units, and so on. Your choice will largely determine your success in war.#
+
+85. Spell Circles
+#All spells are divided into 4 circles. The first circle comprises the simplest spells, the fourth the most powerful ones. To memorize first circle spells, any slot in your hero's spellbook will do. Second circle spells can only be placed in second tier slots or higher. Third - in the third or fourth tier, fourth - only in the fourth tier.#
+
+86. Unit Ranks
+#All units are divided into 4 ranks. The first rank comprises the weakest units. Fourth rank units know no equal in battle. First rank units can be placed into any slot in your hero's party. Second rank units can only be placed into second tier slots or higher. Third - in the third or fourth tier, fourth - only in the fourth tier.#
+
+87. Invading a Shard 1
+#You are now in the invasion screen, which allows you to choose the advantages to use in your upcoming battle for the shard. The resources whose reserves or income you may increase are displayed in the top row. You can change these amounts by clicking on buttons. Or click on the black box to enter a number using the keyboard.
+Click this scroll to continue...#
+
+88. Invading a Shard 2
+#Many advantages are not available to you yet. In the future, after conquering new shards, you will be able to unlock new advantages. The maximum amount of gold and crystals that you can receive depends on the shards you've conquered, as well. Keep in mind that you have to pay a certain amount of energy to use an advantage. If you don't have enough energy, you should discard some advantages or decrease them.#
+
+89. Energy
+#All conquered shards give you energy. Your energy supply is refilled at the end of each turn. Attacking a shard takes one turn. If you intend to store more energy, you can miss several turns by refraining from attacking (just click on the «End Turn» button). Just keep in mind that the time you lose can cost you dearly - your competitors are developing each and every turn.#
+
+90. Attacking Other Lords
+#Now your world is large enough for you to attack the other Masters' worlds. To do so, you need to choose the appropriate option in a conversation with a Master. Keep in mind that Masters are particularly strong on their own shard, defeating them won't be easy.#
+
+91. Zarr
+#By conquering new shards, you expand your horizons. However, the more you learn about the world, the more questions you will have. Zarr, your loyal assistant, will be happy to answer many of them. To talk to him, click the «Summon Zarr» button.#
+
+92. New Shard
+#Excellent, a new shard has been unified with your world! The bigger your world becomes, the further it drifts from Chaos, and the closer it is to the center of Eador. As you approach the center, you can find larger shards. Just remember that defenders on large shards are much stronger than on those close to the borders of Chaos. So be careful when choosing which shards to conquer.#
+
+93. Unit Prices
+#You're in the garrison of a fortress located in one of your provinces. Notice that the unit prices here are different from the prices in your Stronghold. The further the fortress is from your Stronghold, the more expensive the units will be.#
+
+94. Alchemy
+#After you've built an Alchemists Guild, you'll be able to convert gold into gems and the other way around. To do that, left-click on the image of gold and gems. The alchemy window can be opened from the main game screen, as well as the garrison, trading and construction screens.#
+
+95. Fortress Assault
+#During an assault, the ranged attack, firing distance and ranged defense of the units inside the fortress increase.#
+
+96. Ritual with the hero
+#There is a building in your castle that allows you to perform the magic ritual upon your hero. To perform a ritual, select a hero and click the «Perform Ritual» button.#
+
+97. Performing a Ritual
+#Here you see the list of all rituals available to you. Performing any of them costs a certain amount of magic gems. Once you've performed a ritual, it can only be repeated after a certain number of turns.#
+
+98. Ritual in a Province
+#You're now able to perform a magical ritual in one of the provinces. To do so, select a province and click the «Perform Ritual» button. Some rituals can only be performed in your own provinces, while others can only be targeted at the provinces you don't control. Complicated rituals often require a certain strategic resource as a material component.#
+
+99. Diplomacy
+#You've run into one of the Astral Masters on this shard. Unlike the local lords, you can exchange diplomatic correspondence with other Masters. To send a message to your opponent, click the «Diplomacy» button.#
+
+100. Diplomacy (2 players)
+#You've run into one of the astral Masters. Since the two of you are the only ones trying to claim these lands, diplomacy is of no use. It's unlikely your opponent will agree to negotiate.#
+
+101. Diplomacy Screen
+#You're on the diplomacy screen now. At the top you can see the portraits of Masters you've met on this shard. To send a message, click on the portrait of the Master you'd like to correspond with.#
+
+102. Selecting Your Correspondent
+#Well, you've selected your correspondent. On the sides of your correspondent's large portrait you can see his allies and enemies as well as strategic resources that he's ready to buy (on the left) and sell (on the right). Now you can send a message to the Master you've selected. Available messages are shown at the bottom of the screen as buttons. Click any of them to view detailed information.#
+
+103. Barter
+#You've chosen barter. In this mode, you can exchange gold, gems, items and provinces. Here, you can give gifts and demand tribute as well, by either not requesting for a trade item or not offering one in return. The items you're offering are shown on the left. On the right, your requests are displayed.
+Click this scroll to continue...#
+
+104. Barter 2
+#You can indicate the amount of gold and gems to trade using your keyboard (click on the image of gold and gems to enter an amount) or by dragging the scrollbar. You can select items and provinces by clicking on the relevant icon in the exchange window.
+Once you've finished your proposal, click the «Send Message» button to send it (or «Cancel» if you've changed your mind about sending it).#
+
+105. Trade
+#You've chosen trade. Trading gold and gems means that the sum you've agreed upon will be paid every turn. Trading strategic resources means giving access to a certain resource (the seller's amount of this resource will decrease by 1).
+The items you're offering are shown on the left. On the right, your requests are displayed.
+Click on this scroll...#
+
+106. Trade 2
+#You can indicate the amount of gold and gems to trade using your keyboard (click on the image of gold and gems to enter an amount) or by dragging the scrollbar. You can select resources by clicking on the relevant icon in the exchange window.
+Once you've finished your proposal, click the «Send Message» button to send it (or «Cancel» if you've changed your mind about sending it).#
+
+107. War
+#You've chosen to declare war. Once war is declared, you and your opponent will be able to attack each other's provinces freely. Trade and barter are impossible while the war rages on.
+To send a message, click on the «Send Message» button. If you don't wish to declare war, click the «Cancel» button.#
+
+108. Alliance
+#You've chosen to form an alliance. Allies cannot attack each other's provinces. Moreover, your ally's enemy is your enemy, and the other way around. If you wish, you can send a gift to a future ally or sign a Trade Agreement (to do this, click the «Barter» or «Trade» button and draw up an offer to present in addition to the alliance).
+Click this scroll to continue...#
+
+109. Peace
+#You've chosen to make peace. Attacking the opponent's provinces under a peace treaty is considered treason and leads to a major deterioration in relations with other rulers.
+To send a message, click on the «Send Message» button. If you don't wish to make peace, click on the «Cancel» button.#
+
+110. Alliance 2
+#To send a message, click on the «Send Message» button. If you don't wish to form an alliance, click on the «Cancel» button.#
+
+111. Into the Past
+#Sometimes, after a failed combat, you want to go back into the past and correct your mistakes. You do have such an opportunity. By selecting the «Into the Past» option in the game menu, you'll go back one turn. You can't return further into the past than one turn. Keep in mind that every time you return to the past, your point total in the game decreases.#
+
+112. Corruption
+#As your country transitions from a small kingdom into a large state, part of your income is lost due to corruption. You can construct special buildings to decrease corruption, such as a Dungeon in the castle or a Deputy's House in provinces. Provinces inhabited by different races have a different impact on the corruption level in the country.#
+
+113. Statistics
+#You can view your current energy income and your campaign achievements in the statistics window. In addition, this window has a log that records the most important messages. To open the statistics window, click on the «Statistics» button.#
+
+114. Party Morale
+#The composition of the party influences units' morale. If you put the units of opposite alignment into the same party, morale will decrease. If the party is composed of units of the same alignment, morale will increase. Neutral units have no impact on others' morale.
+If morale is increased, its value is shown in a green figure next to the unit's image. If morale is decreased, it's shown in red.#
+
+115. Switching Weapons
+#Your hero's weapon is broken. He can switch to another weapon if there's a spare weapon in his backpack. It takes a hero one turn to switch weapons, unless he possesses the special skill that allows instant weapon replacement. 
+Keep in mind that switching weapons does not restore the hero's ammo supply.#
+
+116. Hiring a Garrison
+#Attention! Your empty castle is located next to enemy lands. If your castle stays empty, the enemy can conquer it instantly. To prevent this, place at least one unit in the castle's garrison. Then, even if the enemy defeats your guards, he'll be delayed by having to besiege your fortress.#
+
+117. Shard Lost
+#You've lost the battle for a Shard. Don't despair - try to learn from your mistakes and don't make the same ones next time! Just remember that if you cannot conquer at least one of the available Shards, you'll lose the campaign.
+The only way to avoid losing is to make sure your world is large enough to attack other Masters.#
+
+118. Defending Your World
+#Your world was attacked by another Master. If you are defeated, you'll lose the campaign. So try your best to fight back! 
+Fighting in your own world gives you a number of advantages - you see the whole map and gain all the advantages you possess without spending any energy.#

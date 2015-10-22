@@ -1,0 +1,1113 @@
+Quantity: 28
+
+/0
+Name: Empty;
+Race: 0
+Coast: 0
+Sites: 0
+Gold: 0
+Gem: 0
+Difficult: 0
+Population: 0
+LevelPop: 0
+DiplUnrest: 0
+ConqUnrest: 0
+DiplKarma: 0
+ConqKarma: 0
+Explored: 0
+LevelExplored: 0
+
+Terrain_Possibility
+Plains: 0
+Forest: 0
+Hills: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 0
+Possibility: 0
+Dialog: 0
+Encounter: 0;
+
+Events:
+Event: 0
+Possibility: 0;
+
+/1
+Name: Free Settlement;
+Race: 1
+Coast: 0
+Sites: 8
+Gold: 2
+Gem: 0
+Difficult: 0
+Population: 300
+LevelPop: 300
+DiplUnrest: 0
+ConqUnrest: -1
+DiplKarma: 0
+ConqKarma: -1
+Explored: 30
+LevelExplored: 10
+
+Terrain_Possibility
+Plains: 100
+Forest: 70
+Hills: 70
+Swamp: 40
+Desert: 20
+Tundra: 20
+
+Guards:
+Guard: 1
+Possibility: 1
+Dialog: 3
+Encounter: 1;
+
+Events:
+Event: 426
+Possibility: 20;
+
+
+/2
+Name: Brigand Outlaws;
+Race: 1
+Coast: 0
+Sites: 13
+Gold: 1
+Gem: 0
+Difficult: 0
+Population: 500
+LevelPop: -100
+DiplUnrest: -2
+ConqUnrest: 0
+DiplKarma: -2
+ConqKarma: 2
+Explored: 35
+LevelExplored: -5
+
+Terrain_Possibility
+Plains: 0
+Forest: 100
+Hills: 0
+Swamp: 40
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 2
+Possibility: 1
+Dialog: 4
+Encounter: 7;
+
+Events:
+Event: 16
+Possibility: 90;
+
+
+/3
+Name: Barbarian Tribes;
+Race: 1
+Coast: 0
+Sites: 9
+Gold: 2
+Gem: 0
+Difficult: 0
+Population: 100
+LevelPop: 50
+DiplUnrest: 0
+ConqUnrest: -1
+DiplKarma: 0
+ConqKarma: 0
+Explored: 20
+LevelExplored: 5
+
+Terrain_Possibility
+Plains: 100
+Forest: 0
+Hills: 40
+Swamp: 0
+Desert: 50
+Tundra: 70
+
+Guards:
+Guard: 3
+Possibility: 1
+Dialog: 5
+Encounter: 10;
+
+Events:
+Event: 5
+Possibility: 80
+
+Event: 1097
+Possibility: 20;
+
+
+/4
+Name: Goblin Lands;
+Race: 4
+Coast: 0
+Sites: 15
+Gold: 0
+Gem: 1
+Difficult: 0
+Population: 100
+LevelPop: 50
+DiplUnrest: 0
+ConqUnrest: -1
+DiplKarma: 0
+ConqKarma: 0
+Explored: 20
+LevelExplored: 5
+
+Terrain_Possibility
+Plains: 0
+Forest: 10
+Hills: 0
+Swamp: 45
+Desert: 0
+Tundra: 30
+
+Guards:
+Guard: 107
+Possibility: 999
+Dialog: 6
+Encounter: 196
+
+Guard: 4
+Possibility: 1
+Dialog: 6
+Encounter: 196;
+
+Events:
+Event: 54
+Possibility: 40;
+
+
+/5
+Name: Land of the Dead;
+Race: 1
+Coast: 0
+Sites: 20
+Gold: -1
+Gem: 0
+Difficult: 1
+Population: -1
+LevelPop: 0
+DiplUnrest: 0
+ConqUnrest: 0
+DiplKarma: 0
+ConqKarma: 2
+Explored: 10
+LevelExplored: 0
+
+Terrain_Possibility
+Plains: 10
+Forest: 10
+Hills: 10
+Swamp: 10
+Desert: 10
+Tundra: 10
+
+Guards:
+Guard: 5
+Possibility: 1
+Dialog: 7
+Encounter: 0;
+
+Events:
+Event: 56
+Possibility: 20
+
+Event: 430
+Possibility: 20;
+
+
+/6
+Name: Orcish Tribes;
+Race: 5
+Coast: 0
+Sites: 13
+Gold: 1
+Gem: 0
+Difficult: 0
+Population: 100
+LevelPop: 50
+DiplUnrest: 0
+ConqUnrest: -1
+DiplKarma: 0
+ConqKarma: 0
+Explored: 25
+LevelExplored: 5
+
+Terrain_Possibility
+Plains: 30
+Forest: 0
+Hills: 45
+Swamp: 0
+Desert: 40
+Tundra: 30
+
+Guards:
+Guard: 108
+Possibility: 999
+Dialog: 8
+Encounter: 123
+
+Guard: 6
+Possibility: 1
+Dialog: 8
+Encounter: 123;
+
+Events:
+Event: 52
+Possibility: 60;
+
+/7
+Name: Capital;
+Race: 1
+Coast: 0
+Sites: 20
+Gold: 0
+Gem: 0
+Difficult: 0
+Population: 10
+LevelPop: 0
+DiplUnrest: 0
+ConqUnrest: -3
+DiplKarma: 0
+ConqKarma: 0
+Explored: 100
+LevelExplored: 0
+
+Terrain_Possibility
+Plains: 0
+Forest: 0
+Hills: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 0
+Possibility: 1
+Dialog: 0
+Encounter: 0;
+
+Events:
+Event: 0
+Possibility: 0;
+
+/8
+Name: Halfling Village;
+Race: 6
+Coast: 0
+Sites: 9
+Gold: 4
+Gem: 0
+Difficult: 0
+Population: 300
+LevelPop: 200
+DiplUnrest: 0
+ConqUnrest: -1
+DiplKarma: 0
+ConqKarma: -3
+Explored: 30
+LevelExplored: 10
+
+Terrain_Possibility
+Plains: 40
+Forest: 0
+Hills: 35
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 109
+Possibility: 999
+Dialog: 9
+Encounter: 172
+
+Guard: 7
+Possibility: 1
+Dialog: 9
+Encounter: 172;
+
+Events:
+Event: 0
+Possibility: 0;
+
+/9
+Name: Elven Forest;
+Race: 2
+Coast: 0
+Sites: 17
+Gold: 1
+Gem: 1
+Difficult: 1
+Population: 250
+LevelPop: 60
+DiplUnrest: 0
+ConqUnrest: -4
+DiplKarma: 0
+ConqKarma: -5
+Explored: 20
+LevelExplored: 4
+
+Terrain_Possibility
+Plains: 0
+Forest: 40
+Hills: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 110
+Possibility: 999
+Dialog: 10
+Encounter: 53
+
+Guard: 8
+Possibility: 1
+Dialog: 10
+Encounter: 53;
+
+Events:
+Event: 0
+Possibility: 0;
+
+/10
+Name: Dwarven Hills;
+Race: 3
+Coast: 0
+Sites: 15
+Gold: 3
+Gem: 0
+Difficult: 1
+Population: 270
+LevelPop: 70
+DiplUnrest: 0
+ConqUnrest: -4
+DiplKarma: 0
+ConqKarma: -2
+Explored: 25
+LevelExplored: 5
+
+Terrain_Possibility
+Plains: 0
+Forest: 0
+Hills: 50
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 111
+Possibility: 999
+Dialog: 11
+Encounter: 81
+
+Guard: 9
+Possibility: 1
+Dialog: 11
+Encounter: 81;
+
+Events:
+Event: 0
+Possibility: 0;
+
+/11
+Name: Prince's Lands;
+Race: 1
+Coast: 0
+Sites: 8
+Gold: 2
+Gem: 0
+Difficult: 1
+Population: 350
+LevelPop: 300
+DiplUnrest: 0
+ConqUnrest: 0
+DiplKarma: 0
+ConqKarma: 0
+Explored: 30
+LevelExplored: 12
+
+Terrain_Possibility
+Plains: 50
+Forest: 20
+Hills: 20
+Swamp: 0
+Desert: 10
+Tundra: 10
+
+Guards:
+Guard: 10
+Possibility: 1
+Dialog: 12
+Encounter: 14;
+
+Events:
+Event: 298
+Possibility: 20;
+
+/12
+Name: Savage Wood;
+Race: 1
+Coast: 0
+Sites: 15
+Gold: 0
+Gem: 1
+Difficult: 1
+Population: 20
+LevelPop: -4
+DiplUnrest: 0
+ConqUnrest: 0
+DiplKarma: 0
+ConqKarma: 0
+Explored: 15
+LevelExplored: -3
+
+Terrain_Possibility
+Plains: 0
+Forest: 80
+Hills: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 11
+Possibility: 10
+Dialog: 13
+Encounter: 0
+
+Guard: 26
+Possibility: 2
+Dialog: 144
+Encounter: 38
+
+Guard: 32
+Possibility: 5
+Dialog: 834
+Encounter: 0;
+
+Events:
+Event: 0
+Possibility: 0;
+
+/13
+Name: Deadly Swamps;
+Race: 1
+Coast: 0
+Sites: 16
+Gold: 0
+Gem: 2
+Difficult: 1
+Population: 20
+LevelPop: -4
+DiplUnrest: 0
+ConqUnrest: 0
+DiplKarma: 0
+ConqKarma: 0
+Explored: 13
+LevelExplored: -3
+
+Terrain_Possibility
+Plains: 0
+Forest: 0
+Hills: 0
+Swamp: 60
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 12
+Possibility: 10
+Dialog: 14
+Encounter: 0
+
+Guard: 26
+Possibility: 1
+Dialog: 144
+Encounter: 38;
+
+Events:
+Event: 451
+Possibility: 20;
+
+/14
+Name: Empty Hills;
+Race: 1
+Coast: 0
+Sites: 14
+Gold: 2
+Gem: 0
+Difficult: 1
+Population: 20
+LevelPop: -4
+DiplUnrest: 0
+ConqUnrest: 0
+DiplKarma: 0
+ConqKarma: 0
+Explored: 16
+LevelExplored: -3
+
+Terrain_Possibility
+Plains: 0
+Forest: 0
+Hills: 60
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 13
+Possibility: 5
+Dialog: 15
+Encounter: 0
+
+Guard: 29
+Possibility: 2
+Dialog: 158
+Encounter: 0
+
+Guard: 84
+Possibility: 1
+Dialog: 2012
+Encounter: 0;
+
+Events:
+Event: 446
+Possibility: 20;
+
+/15
+Name: Lands of Chaos;
+Race: 1
+Coast: 0
+Sites: 23
+Gold: -2
+Gem: 1
+Difficult: 1
+Population: -11
+LevelPop: -3
+DiplUnrest: 0
+ConqUnrest: 0
+DiplKarma: 0
+ConqKarma: 3
+Explored: 10
+LevelExplored: 0
+
+Terrain_Possibility
+Plains: 10
+Forest: 10
+Hills: 10
+Swamp: 10
+Desert: 10
+Tundra: 10
+
+Guards:
+Guard: 14
+Possibility: 1
+Dialog: 16
+Encounter: 0;
+
+Events:
+Event: 36
+Possibility: 20
+
+Event: 441
+Possibility: 20;
+
+/16
+Name: Magical Forest;
+Race: 1
+Coast: 0
+Sites: 20
+Gold: 0
+Gem: 3
+Difficult: 1
+Population: 20
+LevelPop: -4
+DiplUnrest: 0
+ConqUnrest: -3
+DiplKarma: 0
+ConqKarma: -3
+Explored: 15
+LevelExplored: -2
+
+Terrain_Possibility
+Plains: 0
+Forest: 40
+Hills: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 15
+Possibility: 1
+Dialog: 17
+Encounter: 23;
+
+Events:
+Event: 435
+Possibility: 30
+
+Event: 438
+Possibility: 30;
+
+/17
+Name: Nomad Steppes;
+Race: 1
+Coast: 0
+Sites: 9
+Gold: 2
+Gem: 0
+Difficult: 1
+Population: 100
+LevelPop: 50
+DiplUnrest: 0
+ConqUnrest: -1
+DiplKarma: 0
+ConqKarma: 0
+Explored: 20
+LevelExplored: 5
+
+Terrain_Possibility
+Plains: 80
+Forest: 0
+Hills: 0
+Swamp: 0
+Desert: 80
+Tundra: 0
+
+Guards:
+Guard: 16
+Possibility: 1
+Dialog: 33
+Encounter: 27;
+
+Events:
+Event: 0
+Possibility: 0;
+
+/18
+Name: Centaur Lands;
+Race: 7
+Coast: 0
+Sites: 14
+Gold: 0
+Gem: 0
+Difficult: 1
+Population: 90
+LevelPop: 40
+DiplUnrest: 0
+ConqUnrest: -3
+DiplKarma: 0
+ConqKarma: 0
+Explored: 20
+LevelExplored: 5
+
+Terrain_Possibility
+Plains: 30
+Forest: 30
+Hills: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 112
+Possibility: 999
+Dialog: 34
+Encounter: 145
+
+Guard: 17
+Possibility: 1
+Dialog: 34
+Encounter: 145;
+
+Events:
+Event: 301
+Possibility: 10;
+
+/19
+Name: Giant Lands;
+Race: 1
+Coast: 0
+Sites: 16
+Gold: 2
+Gem: 0
+Difficult: 2
+Population: 40
+LevelPop: -5
+DiplUnrest: 0
+ConqUnrest: 0
+DiplKarma: 0
+ConqKarma: 0
+Explored: 15
+LevelExplored: -3
+
+Terrain_Possibility
+Plains: 0
+Forest: 0
+Hills: 40
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 18
+Possibility: 1
+Dialog: 35
+Encounter: 31;
+
+Events:
+Event: 763
+Possibility: 40;
+
+/20
+Name: Troll Swamps;
+Race: 1
+Coast: 0
+Sites: 16
+Gold: 0
+Gem: 2
+Difficult: 2
+Population: 40
+LevelPop: -5
+DiplUnrest: 0
+ConqUnrest: 0
+DiplKarma: 0
+ConqKarma: 0
+Explored: 15
+LevelExplored: -3
+
+Terrain_Possibility
+Plains: 0
+Forest: 0
+Hills: 0
+Swamp: 40
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 30
+Possibility: 1
+Dialog: 835
+Encounter: 373;
+
+Events:
+Event: 0
+Possibility: 0;
+
+/21
+Name: Abandoned Lands;
+Race: 0
+Coast: 0
+Sites: 0
+Gold: 0
+Gem: 0
+Difficult: 0
+Population: 0
+LevelPop: 0
+DiplUnrest: 0
+ConqUnrest: 0
+DiplKarma: 0
+ConqKarma: 0
+Explored: 0
+LevelExplored: 0
+
+Terrain_Possibility
+Plains: 0
+Forest: 0
+Hills: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 0
+Possibility: 0
+Dialog: 383
+Encounter: 0;
+
+Events:
+Event: 457
+Possibility: 20;
+
+/22
+Name: Holy Lands;
+Race: 1
+Coast: 0
+Sites: 8
+Gold: 1
+Gem: 1
+Difficult: 1
+Population: 250
+LevelPop: 300
+DiplUnrest: 0
+ConqUnrest: 0
+DiplKarma: -1
+ConqKarma: 1
+Explored: 30
+LevelExplored: 12
+
+Terrain_Possibility
+Plains: 20
+Forest: 10
+Hills: 10
+Swamp: 10
+Desert: 10
+Tundra: 10
+
+Guards:
+Guard: 31
+Possibility: 1
+Dialog: 1364
+Encounter: 1441;
+
+Events:
+Event: 0
+Possibility: 0;
+
+/23
+Name: Medusa Swamps;
+Race: 1
+Coast: 0
+Sites: 25
+Gold: 0
+Gem: 2
+Difficult: 2
+Population: 40
+LevelPop: -5
+DiplUnrest: 0
+ConqUnrest: 0
+DiplKarma: 0
+ConqKarma: 0
+Explored: 15
+LevelExplored: -3
+
+Terrain_Possibility
+Plains: 0
+Forest: 0
+Hills: 0
+Swamp: 30
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 42
+Possibility: 1
+Dialog: 1368
+Encounter: 621;
+
+Events:
+Event: 0
+Possibility: 0;
+
+/24
+Name: Lizardman Lands;
+Race: 8
+Coast: 0
+Sites: 15
+Gold: 0
+Gem: 2
+Difficult: 0
+Population: 100
+LevelPop: 60
+DiplUnrest: -1
+ConqUnrest: -2
+DiplKarma: 0
+ConqKarma: 0
+Explored: 25
+LevelExplored: 5
+
+Terrain_Possibility
+Plains: 0
+Forest: 0
+Hills: 0
+Swamp: 80
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 113
+Possibility: 999
+Dialog: 1381
+Encounter: 634
+
+Guard: 44
+Possibility: 1
+Dialog: 1381
+Encounter: 634;
+
+Events:
+Event: 1118
+Possibility: 10;
+
+/25
+Name: Alvari Lands;
+Race: 9
+Coast: 0
+Sites: 15
+Gold: 1
+Gem: 1
+Difficult: 1
+Population: 250
+LevelPop: 60
+DiplUnrest: 0
+ConqUnrest: -2
+DiplKarma: -1
+ConqKarma: 0
+Explored: 15
+LevelExplored: 4
+
+Terrain_Possibility
+Plains: 0
+Forest: 0
+Hills: 40
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 114
+Possibility: 999
+Dialog: 1759
+Encounter: 1086
+
+Guard: 58
+Possibility: 1
+Dialog: 1759
+Encounter: 1086;
+
+Events:
+Event: 1290
+Possibility: 40;
+
+/26
+Name: Gnoll Lands;
+Race: 10
+Coast: 0
+Sites: 10
+Gold: 2
+Gem: 0
+Difficult: 1
+Population: 150
+LevelPop: 50
+DiplUnrest: 0
+ConqUnrest: -1
+DiplKarma: -1
+ConqKarma: 0
+Explored: 20
+LevelExplored: 2
+
+Terrain_Possibility
+Plains: 40
+Forest: 0
+Hills: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 115
+Possibility: 999
+Dialog: 1929
+Encounter: 1242
+
+Guard: 78
+Possibility: 1
+Dialog: 1929
+Encounter: 1242;
+
+Events:
+Event: 1346
+Possibility: 50;
+
+/27
+Name: Alkari Expanse;
+Race: 11
+Coast: 0
+Sites: 10
+Gold: 1
+Gem: 2
+Difficult: 1
+Population: 200
+LevelPop: 80
+DiplUnrest: 0
+ConqUnrest: -4
+DiplKarma: 0
+ConqKarma: -1
+Explored: 20
+LevelExplored: 3
+
+Terrain_Possibility
+Plains: 40
+Forest: 0
+Hills: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 116
+Possibility: 999
+Dialog: 1992
+Encounter: 1277
+
+Guard: 84
+Possibility: 1
+Dialog: 1992
+Encounter: 1277;
+
+Events:
+Event: 0
+Possibility: 0;
+
+/28
+Name: Ratman Lands;
+Race: 12
+Coast: 0
+Sites: 13
+Gold: 1
+Gem: 2
+Difficult: 1
+Population: 100
+LevelPop: 50
+DiplUnrest: 0
+ConqUnrest: -1
+DiplKarma: 0
+ConqKarma: 0
+Explored: 20
+LevelExplored: 5
+
+Terrain_Possibility
+Plains: 0
+Forest: 20
+Hills: 20
+Swamp: 30
+Desert: 15
+Tundra: 10
+
+Guards:
+Guard: 117
+Possibility: 999
+Dialog: 2061
+Encounter: 1320
+
+Guard: 141
+Possibility: 1
+Dialog: 2061
+Encounter: 1320;
+
+Events:
+Event: 1602
+Possibility: 50;

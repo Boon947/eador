@@ -1,0 +1,25 @@
+Quantity: 7
+
+/0
+Name: Empty;
+
+/1
+Name: Infantry;
+
+/2
+Name: Ranged;
+
+/3
+Name: Cavalry;
+
+/4
+Name: Spellcaster;
+
+/5
+Name: Siege Engine;
+
+/6
+Name: Giant;
+
+/7
+Name: Flying;

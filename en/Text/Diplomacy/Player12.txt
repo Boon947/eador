@@ -1,0 +1,281 @@
+/Вианта
+/0 Первая встреча
+Index: 1;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #May the sunlight shine upon your lands, %s. I am Vianta, the Fairy Queen and the patron of forest creatures. Our races will live together on this Shard in peace and harmony if you will respect the laws of Nature as I do. Do good, protect the weak, and create instead of destroying - that's why we have been given strength and power! Never forget this, not even for a moment!#
+
+/1 Не первая встреча (Плохие отношения)
+Index: 2;
+Min: -5000;
+Max: -100;
+Name: 0;
+Param: 0;
+Text: #Oh, it's you, worthless barbarian, you defiler of the shrines of Nature! You're the last Master I wanted to meet on this Shard.#
+
+/2 Не первая встреча (Нейтрален)
+Index: 2;
+Min: -99;
+Max: 99;
+Name: 1;
+Param: 0;
+Text: #Greetings, %s! I hope that you have been using the strength and power you have been given to do good.#
+
+/3 Не первая встреча (Хорошие отношения)
+Index: 2;
+Min: 100;
+Max: 5000;
+Name: 1;
+Param: 0;
+Text: #May the sunlight shine upon your lands, %s! I'm glad to have such a neighbor. I believe that our races will live together in peace and harmony under the skies of this Shard.#
+
+/4 Сразу война
+Index: 3;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #There are two of us on this Shard, %s. I am creating a truly beautiful world full of love and harmony, and this Shard must become a part of it. It's a pity that one has to spill blood to achieve such lofty ideals! Alas, these are the laws of Eador, and I must abide by them, even if they're not to my liking. Let war resolve our dispute. Beforehand do I grieve over those whose lives it will take.#
+
+/5 Объявление войны
+Index: 4;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I can't stand your disdainful attitude to the living creatures and shrines of Nature any longer, %s. Unfortunately, I must declare war on you!#
+
+/6 Предложение мира
+Index: 5;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #War brings only evil, %s! Just think how many lives were taken because of our hostility. Look what our possessions turned into! I offer you a chance to stop this horrible bloodshed and try once more to live together in peace and harmony.#
+
+/7 Предложение союза
+Index: 6;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #May the sunlight shine upon your lands, %s! I offer you an alliance. Together we will protect our subjects from the evil and cruelty brought to the world by these warmongers unworthy of being called Masters.#
+
+/8 Предложение торговли 
+Index: 7;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Peaceful trade is better than bloody strife, isn't it, %s? I've decided to sign a trade agreement with you to strengthen the peace between our races.#
+
+/9 Предложение обмена
+Index: 8;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I've decided to offer you something very valuable, %s. Will you agree to this exchange?#
+
+/10 Пересмотр торговли
+Index: 9;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #The world has changed and so have we, %s. It's time for us to revise the terms of our trade agreement.#
+
+/11 Отмена торговли
+Index: 10;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Unfortunately, I can't maintain trade relations with you any longer, %s, and I'm forced to cancel our Trade Agreement.#
+
+/12 Отмена союза
+Index: 11;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #You haven't lived up to my expectations, %s. You're the same uncouth barbarian that you were before, so you're unworthy of the title of Overlord. The alliance between us is cancelled from this day forth.#
+
+/13 Требование выкупа
+Index: 12;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #You have angered me with your vile actions, %s! The only thing that can soothe my anger is a generous offering that will help me protect my subjects from invasions by barbarians such as you.#
+
+/14 Дар
+Index: 13;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Please accept this gift, %s, as a token of peace and harmony, and let us thank Mother Nature together for her endless generosity!#
+
+/15 Отказ (Грубый)
+Index: 14;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: -1;
+Text: #How dare you, %s, offer me such a thing?!#
+
+/16 Отказ (Обычный)
+Index: 14;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #I can't agree to this.#
+
+/17 Отказ (Вежливый)
+Index: 14;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 1;
+Text: #I'm sorry to upset you, %s, but I'll never do this.#
+
+/18 Соглашение (Недовольное)
+Index: 15;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: -1;
+Text: #Oh, the things you have to agree to for the benefit of your subjects!#
+
+/19 Соглашение (Нейтральное)
+Index: 15;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #I agree.#
+
+/20 Соглашение (Довольное)
+Index: 15;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 1;
+Text: #This is an excellent offer, %s, so may the sunlight shine upon your lands. I agree.#
+
+/21 Отказ от общения (1х1)
+Index: 19;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Unfortunately, no words could help us, %s. The savage law of the universe obliges us to fight for the right to possess this Shard. So may the war be quick and bring as little evil as possible upon innocent living creatures.#
+
+/22 Отказ от переговоров
+Index: 23;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Your lying speeches are not worth my attention, %s.#
+
+/23 Союзник, жребий или война
+Index: 20;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #There are only two of us left in this world, %s. Lots or war will decide what will happen to us next. I prefer to cast lots.#
+
+/24 Союзник, сдаться или война
+Index: 21;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #There are only two of us left in this world, %s. I'm much stronger, wiser, and kinder than you. Now is your chance to make the right decision, to surrender to the will of one who is worthier than you are and, by doing so, to prevent any more senseless bloodshed.#
+
+/25 Союзник, сдача
+Index: 22;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #There are only two of us left in this world, %s. Fear, destruction, and spite are all around us! I don't feel I'm strong enough now to rule such a world, so I'm asking you to take it.#
+
+/26 Отказ от подарка
+Index: 24;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #This gift is not worthy of the Queen! I can't accept it.#
+
+/27 Принимаем дары
+Index: 25;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I accept your gift with gratitude, %s!#
+
+/28 Отказ от союза с предателем
+Index: 16;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #How dare you, you vile traitor, even hint at an alliance now?!#
+
+/29 Отказ от мира с предателем
+Index: 17;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #How dare you, you vile traitor, even hint at peace now?!#
+
+/30 Первая встреча, кампания
+Index: 26;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #May the sunlight shine upon your lands, %s. Our races will live together on this Shard in peace and harmony if you will respect the laws of Nature as I do. Do good, protect the weak, and create instead of destroying, that's why we have been given strength and power! Never forget this, not even for a moment!#
+
+/31 Ответ на объявление войны
+Index: 27;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #You're a bloodthirsty monster, %s! The forces of Mother Nature will punish you!#
+
+/32 Отказ в мире союзнику
+Index: 28;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Oh, %s, I'm sorry, but I can't let you make peace. The evil sown by %s is so disgusting that I can't even think of a truce. It's possible that things will change in the future, but for now I'm against it!#
+
+/33 Ответ на предательство
+Index: 29;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #You... You're a vile traitor! Spawn of Evil! How could the Power be given to such a vile creature as you, %s?! I despise you!#
+
+/34 Война, остались 1х1
+Index: 30;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #There are two of us left on this Shard, %s. I am creating a truly beautiful world full of love and harmony, and this Shard must become a part of it. It's a pity that one has to spill blood to achieve such lofty ideals! Alas, these are the laws of Eador, and I must abide by them, even if they're not to my liking. Let war resolve our dispute. Beforehand do I grieve over those whose lives it will take.#
+&&&&&&

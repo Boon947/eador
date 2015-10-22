@@ -1,0 +1,1279 @@
+Quantity: 212
+
+/0
+Name: Empty;
+Ability: 0
+Spell: 0
+Numeric: 0
+
+/1
+Name: Battle Frenzy;
+Ability: 25
+Spell: 0
+Numeric: 1
+
+/2
+Name: Poison;
+Ability: 41
+Spell: 0
+Numeric: 1
+
+/3
+Name: Hex;
+Ability: 43
+Spell: 0
+Numeric: 0
+
+/4
+Name: Damaged Armor;
+Ability: 45
+Spell: 0
+Numeric: 0
+
+/5
+Name: Petrification;
+Ability: 46
+Spell: 0
+Numeric: 0
+
+/6
+Name: Web;
+Ability: 47
+Spell: 18
+Numeric: 0
+
+/7
+Name: Injured;
+Ability: 51
+Spell: 0
+Numeric: 0
+
+/8
+Name: Damaged Weapon;
+Ability: 52
+Spell: 0
+Numeric: 0
+
+/9
+Name: Entangle;
+Ability: 67
+Spell: 0
+Numeric: 0
+
+/10
+Name: Reduced Defense;
+Ability: 69
+Spell: 0
+Numeric: 0
+
+/11
+Name: Poison;
+Ability: 78
+Spell: 0
+Numeric: 1
+
+/12
+Name: Magic Armor;
+Ability: 0
+Spell: 5
+Numeric: 0
+
+/13
+Name: Magic Weapon;
+Ability: 0
+Spell: 6
+Numeric: 0
+
+/14
+Name: Slow;
+Ability: 0
+Spell: 7
+Numeric: 0
+
+/15
+Name: Haste;
+Ability: 0
+Spell: 8
+Numeric: 0
+
+/16
+Name: Air Shield;
+Ability: 0
+Spell: 9
+Numeric: 0
+
+/17
+Name: Curse;
+Ability: 0
+Spell: 10
+Numeric: 0
+
+/18
+Name: Bless;
+Ability: 0
+Spell: 11
+Numeric: 0
+
+/19
+Name: Astral Energy;
+Ability: 0
+Spell: 17
+Numeric: 0
+
+/20
+Name: Vulnerability;
+Ability: 0
+Spell: 21
+Numeric: 0
+
+/21
+Name: Fire Blade;
+Ability: 0
+Spell: 24
+Numeric: 0
+
+/22
+Name: Phantom Form;
+Ability: 0
+Spell: 25
+Numeric: 0
+
+/23
+Name: Sleep;
+Ability: 0
+Spell: 26
+Numeric: 0
+
+/24
+Name: Hallucination;
+Ability: 0
+Spell: 27
+Numeric: 0
+
+/25
+Name: Vampirism;
+Ability: 0
+Spell: 29
+Numeric: 0
+
+/26
+Name: Disease;
+Ability: 0
+Spell: 30
+Numeric: 0
+
+/27
+Name: Stone Skin;
+Ability: 0
+Spell: 33
+Numeric: 0
+
+/28
+Name: Blindness;
+Ability: 0
+Spell: 36
+Numeric: 0
+
+/29
+Name: Word of Life;
+Ability: 0
+Spell: 39
+Numeric: 0
+
+/30
+Name: Word of Ice;
+Ability: 0
+Spell: 40
+Numeric: 0
+
+/31
+Name: Acid;
+Ability: 0
+Spell: 41
+Numeric: 0
+
+/32
+Name: Slow;
+Ability: 0
+Spell: 42
+Numeric: 0
+
+/33
+Name: Dark Pact;
+Ability: 0
+Spell: 43
+Numeric: 0
+
+/34
+Name: Antimagic;
+Ability: 0
+Spell: 47
+Numeric: 0
+
+/35
+Name: Mass Defense;
+Ability: 0
+Spell: 50
+Numeric: 0
+
+/36
+Name: Word of Power;
+Ability: 0
+Spell: 52
+Numeric: 0
+
+/37
+Name: Haste;
+Ability: 0
+Spell: 53
+Numeric: 0
+
+/38
+Name: Mass Attack;
+Ability: 0
+Spell: 54
+Numeric: 0
+
+/39
+Name: Curse;
+Ability: 0
+Spell: 56
+Numeric: 0
+
+/40
+Name: Reincarnation;
+Ability: 0
+Spell: 59
+Numeric: 0
+
+/41
+Name: Invulnerability;
+Ability: 0
+Spell: 60
+Numeric: 0
+
+/42
+Name: Plague;
+Ability: 0
+Spell: 62
+Numeric: 0
+
+/43
+Name: Corrupt;
+Ability: 0
+Spell: 69
+Numeric: 0
+
+/44
+Name: Dragon Form;
+Ability: 0
+Spell: 71
+Numeric: 0
+
+/45
+Name: Polymorph;
+Ability: 0
+Spell: 72
+Numeric: 0
+
+/46
+Name: Enslave;
+Ability: 0
+Spell: 74
+Numeric: 0
+
+/47
+Name: Sleep;
+Ability: 0
+Spell: 75
+Numeric: 0
+
+/48
+Name: Undead Regeneration;
+Ability: 0
+Spell: 81
+Numeric: 0
+
+/49
+Name: Stinking Cloud;
+Ability: 0
+Spell: 82
+Numeric: 0
+
+/50
+Name: Mind Control;
+Ability: 0
+Spell: 84
+Numeric: 0
+
+/51
+Name: Submission;
+Ability: 0
+Spell: 89
+Numeric: 0
+
+/52
+Name: Magic Shield;
+Ability: 0
+Spell: 93
+Numeric: 0
+
+/53
+Name: Wasp Swarm;
+Ability: 0
+Spell: 94
+Numeric: 0
+
+/54
+Name: Wasp Cloud;
+Ability: 0
+Spell: 95
+Numeric: 0
+
+/55
+Name: Rune of Power;
+Ability: 0
+Spell: 102
+Numeric: 0
+
+/56
+Name: Rune of Restoration;
+Ability: 0
+Spell: 99
+Numeric: 0
+
+/57
+Name: Vampiric Touch;
+Ability: 0
+Spell: 104
+Numeric: 0
+
+/58
+Name: Mighty Weapon;
+Ability: 0
+Spell: 105
+Numeric: 0
+
+/59
+Name: Rage;
+Ability: 0
+Spell: 107
+Numeric: 0
+
+/60
+Name: Mass Rage;
+Ability: 0
+Spell: 109
+Numeric: 0
+
+/61
+Name: Horde's Rage;
+Ability: 0
+Spell: 110
+Numeric: 0
+
+/62
+Name: Quagmire;
+Ability: 0
+Spell: 112
+Numeric: 0
+
+/63
+Name: Weakness;
+Ability: 0
+Spell: 113
+Numeric: 0
+
+/64
+Name: Armor Break;
+Ability: 0
+Spell: 114
+Numeric: 0
+
+/65
+Name: Plague;
+Ability: 0
+Spell: 115
+Numeric: 0
+
+/66
+Name: Power Word - Curse;
+Ability: 0
+Spell: 117
+Numeric: 0
+
+/67
+Name: Power Word - Hold;
+Ability: 0
+Spell: 118
+Numeric: 0
+
+/68
+Name: Power Word - Pain;
+Ability: 0
+Spell: 119
+Numeric: 0
+
+/69
+Name: Glacial Heart;
+Ability: 0
+Spell: 121
+Numeric: 0
+
+/70
+Name: Freeze;
+Ability: 0
+Spell: 122
+Numeric: 0
+
+/71
+Name: Armor Piercing Shot;
+Ability: 0
+Spell: 124
+Numeric: 0
+
+/72
+Name: Thick Fog;
+Ability: 0
+Spell: 125
+Numeric: 0
+
+/73
+Name: Double Shot;
+Ability: 0
+Spell: 126
+Numeric: 0
+
+/74
+Name: Ancestral Rage;
+Ability: 0
+Spell: 128
+Numeric: 0
+
+/75
+Name: Ancestral Shield;
+Ability: 0
+Spell: 129
+Numeric: 0
+
+/76
+Name: Frenzy;
+Ability: 0
+Spell: 133
+Numeric: 0
+
+/77
+Name: Bloodlust;
+Ability: 0
+Spell: 134
+Numeric: 0
+
+/78
+Name: Snare;
+Ability: 0
+Spell: 135
+Numeric: 0
+
+/79
+Name: Trap;
+Ability: 0
+Spell: 136
+Numeric: 0
+
+/80
+Name: Swamp Poison;
+Ability: 0
+Spell: 137
+Numeric: 0
+
+/81
+Name: Regeneration;
+Ability: 0
+Spell: 138
+Numeric: 0
+
+/82
+Name: Poison Weapon;
+Ability: 0
+Spell: 139
+Numeric: 0
+
+/83
+Name: Swiftness;
+Ability: 0
+Spell: 141
+Numeric: 0
+
+/84
+Name: Demon Slayer;
+Ability: 0
+Spell: 143
+Numeric: 0
+
+/85
+Name: Grace;
+Ability: 0
+Spell: 144
+Numeric: 0
+
+/86
+Name: Hard as Stone;
+Ability: 0
+Spell: 146
+Numeric: 0
+
+/87
+Name: Sanctuary;
+Ability: 0
+Spell: 148
+Numeric: 0
+
+/88
+Name: Divine Light;
+Ability: 0
+Spell: 150
+Numeric: 0
+
+/89
+Name: Divine Seal;
+Ability: 0
+Spell: 145
+Numeric: 0
+
+/90
+Name: Head Wind;
+Ability: 0
+Spell: 161
+Numeric: 0
+
+/91
+Name: Sluggishness;
+Ability: 0
+Spell: 162
+Numeric: 0
+
+/92
+Name: Quicksand;
+Ability: 0
+Spell: 163
+Numeric: 0
+
+/93
+Name: Mass Fire Immunity;
+Ability: 0
+Spell: 166
+Numeric: 0
+
+/94
+Name: Skeleton Transformation;
+Ability: 0
+Spell: 174
+Numeric: 0
+
+/95
+Name: Fiend Transformation;
+Ability: 0
+Spell: 175
+Numeric: 0
+
+/96
+Name: Cleric Transformation;
+Ability: 0
+Spell: 176
+Numeric: 0
+
+/97
+Name: Fanaticism;
+Ability: 0
+Spell: 178
+Numeric: 0
+
+/98
+Name: Bind Will;
+Ability: 0
+Spell: 182
+Numeric: 0
+
+/99
+Name: Aard Sign;
+Ability: 0
+Spell: 78
+Numeric: 0
+
+/100
+Name: Order;
+Ability: 0
+Spell: 157
+Numeric: 0
+
+/101
+Name: Seismic Charge;
+Ability: 0
+Spell: 186
+Numeric: 0
+
+/102
+Name: Cannot Cast;
+Ability: 150
+Spell: 0
+Numeric: 0
+
+/103
+Name: Cocoon of Darkness;
+Ability: 0
+Spell: 288
+Numeric: 0
+
+/104
+Name: Blinding Darkness;
+Ability: 0
+Spell: 98
+Numeric: 0
+
+/105
+Name: Fire Storm;
+Ability: 0
+Spell: 155
+Numeric: 0
+
+/106
+Name: Cleansing Flame;
+Ability: 0
+Spell: 167
+Numeric: 0
+
+/107
+Name: Levitation;
+Ability: 0
+Spell: 188
+Numeric: 0
+
+/108
+Name: Embrace of Darkness;
+Ability: 0
+Spell: 189
+Numeric: 0
+
+/109
+Name: Arrow Shower;
+Ability: 0
+Spell: 184
+Numeric: 0
+
+/110
+Name: Banshee's Howl;
+Ability: 0
+Spell: 191
+Numeric: 0
+
+/111
+Name: Paralyze;
+Ability: 0
+Spell: 192
+Numeric: 0
+
+/112
+Name: Mass Sleep;
+Ability: 0
+Spell: 193
+Numeric: 0
+
+/113
+Name: Holy Circle;
+Ability: 0
+Spell: 195
+Numeric: 0
+
+/114
+Name: Shadow Form;
+Ability: 0
+Spell: 194
+Numeric: 0
+
+/115
+Name: Astral Parasite;
+Ability: 0
+Spell: 199
+Numeric: 0
+
+/116
+Name: Hands of Darkness;
+Ability: 0
+Spell: 200
+Numeric: 0
+
+/117
+Name: Control Undead;
+Ability: 0
+Spell: 185
+Numeric: 0
+
+/118
+Name: Enchanted Weapon;
+Ability: 0
+Spell: 202
+Numeric: 0
+
+/119
+Name: Quen Sign;
+Ability: 0
+Spell: 80
+Numeric: 0
+
+/120
+Name: Titan's Strength;
+Ability: 0
+Spell: 209
+Numeric: 0
+
+/121
+Name: Mass Undead Restoration;
+Ability: 0
+Spell: 211
+Numeric: 0
+
+/122
+Name: Unrest;
+Ability: 0
+Spell: 213
+Numeric: 0
+
+/123
+Name: Pathfinding;
+Ability: 0
+Spell: 215
+Numeric: 0
+
+/124
+Name: Word of Peace;
+Ability: 0
+Spell: 216
+Numeric: 0
+
+/125
+Name: Web;
+Ability: 0
+Spell: 217
+Numeric: 0
+
+/126
+Name: Heroism;
+Ability: 0
+Spell: 220
+Numeric: 0
+
+/127
+Name: Dark Steel;
+Ability: 0
+Spell: 223
+Numeric: 0
+
+/128
+Name: Armor Weakened;
+Ability: 0
+Spell: 224
+Numeric: 0
+
+/129
+Name: Cat's Reflexes;
+Ability: 0
+Spell: 225
+Numeric: 0
+
+/130
+Name: Yrden Sign;
+Ability: 0
+Spell: 227
+Numeric: 0
+
+/131
+Name: Ice Storm;
+Ability: 0
+Spell: 228
+Numeric: 0
+
+/132
+Name: Death Cloud;
+Ability: 0
+Spell: 230
+Numeric: 0
+
+/133
+Name: Mass Bless;
+Ability: 0
+Spell: 233
+Numeric: 0
+
+/134
+Name: Healing Sleep;
+Ability: 0
+Spell: 234
+Numeric: 0
+
+/135
+Name: Nightmare;
+Ability: 0
+Spell: 235
+Numeric: 0
+
+/136
+Name: Higher Power;
+Ability: 0
+Spell: 219
+Numeric: 0
+
+/137
+Name: Fearlessness;
+Ability: 0
+Spell: 244
+Numeric: 0
+
+/138
+Name: Rune Shot;
+Ability: 0
+Spell: 245
+Numeric: 0
+
+/139
+Name: Weighing;
+Ability: 0
+Spell: 249
+Numeric: 0
+
+/140
+Name: Containment;
+Ability: 0
+Spell: 252
+Numeric: 0
+
+/141
+Name: Dark Redemption;
+Ability: 0
+Spell: 253
+Numeric: 0
+
+/142
+Name: Ice Snake;
+Ability: 0
+Spell: 254
+Numeric: 0
+
+/143
+Name: Lightning Ball;
+Ability: 0
+Spell: 255
+Numeric: 0
+
+/144
+Name: Scorching Ground;
+Ability: 0
+Spell: 256
+Numeric: 0
+
+/145
+Name: Nature's Weapon;
+Ability: 0
+Spell: 259
+Numeric: 0
+
+/146
+Name: Enchanted Fang;
+Ability: 0
+Spell: 260
+Numeric: 0
+
+/147
+Name: Slimy Bomb;
+Ability: 0
+Spell: 261
+Numeric: 0
+
+/148
+Name: Mass Cold Immunity;
+Ability: 0
+Spell: 264
+Numeric: 0
+
+/149
+Name: Mass Grounding;
+Ability: 0
+Spell: 265
+Numeric: 0
+
+/150
+Name: Elemental Immunity;
+Ability: 0
+Spell: 266
+Numeric: 0
+
+/151
+Name: Stone Crust;
+Ability: 0
+Spell: 263
+Numeric: 0
+
+/152
+Name: Cloud of Darkness;
+Ability: 0
+Spell: 208
+Numeric: 0
+
+/153
+Name: Celestial Shield;
+Ability: 0
+Spell: 222
+Numeric: 0
+
+/154
+Name: Hellfire;
+Ability: 0
+Spell: 239
+Numeric: 0
+
+/155
+Name: Shield Wall;
+Ability: 193
+Spell: 0
+Numeric: 0
+
+/156
+Name: Mobility;
+Ability: 0
+Spell: 273
+Numeric: 0
+
+/157
+Name: Cleansing Flame;
+Ability: 0
+Spell: 277
+Numeric: 0
+
+/158
+Name: Test of Faith;
+Ability: 0
+Spell: 279
+Numeric: 0
+
+/159
+Name: Pestilence;
+Ability: 0
+Spell: 293
+Numeric: 0
+
+/160
+Name: Concoction;
+Ability: 0
+Spell: 287
+Numeric: 0
+
+/161
+Name: Cannot Move;
+Ability: 88
+Spell: 0
+Numeric: 0
+
+/162
+Name: Fever;
+Ability: 0
+Spell: 290
+Numeric: 0
+
+/163
+Name: Exhaustion;
+Ability: 0
+Spell: 291
+Numeric: 0
+
+/164
+Name: Black Plague;
+Ability: 0
+Spell: 292
+Numeric: 0
+
+/165
+Name: Blind Faith;
+Ability: 0
+Spell: 301
+Numeric: 0
+
+/166
+Name: Poison Rain;
+Ability: 0
+Spell: 302
+Numeric: 0
+
+/167
+Name: Black Blood;
+Ability: 0
+Spell: 313
+Numeric: 0
+
+/168
+Name: Gaseous Form;
+Ability: 0
+Spell: 314
+Numeric: 0
+
+/169
+Name: Rune Armor;
+Ability: 0
+Spell: 319
+Numeric: 0
+
+/170
+Name: Rune Weapon;
+Ability: 0
+Spell: 320
+Numeric: 0
+
+/171
+Name: Rune Amulet;
+Ability: 0
+Spell: 321
+Numeric: 0
+
+/172
+Name: Caustic Mixture;
+Ability: 0
+Spell: 322
+Numeric: 0
+
+/173
+Name: Chilling Touch;
+Ability: 0
+Spell: 323
+Numeric: 0
+
+/174
+Name: Eternal Light;
+Ability: 0
+Spell: 315
+Numeric: 0
+
+/175
+Name: Heaven's Rage;
+Ability: 0
+Spell: 316
+Numeric: 0
+
+/176
+Name: Confusion;
+Ability: 0
+Spell: 267
+Numeric: 0
+
+/177
+Name: Astral Schism;
+Ability: 0
+Spell: 348
+Numeric: 0
+
+/178
+Name: Word of the Lord;
+Ability: 0
+Spell: 325
+Numeric: 0
+
+/179
+Name: Mental Support;
+Ability: 0
+Spell: 326
+Numeric: 0
+
+/180
+Name: Mental Duel;
+Ability: 0
+Spell: 327
+Numeric: 0
+
+/181
+Name: Mental Sermon;
+Ability: 0
+Spell: 328
+Numeric: 0
+
+/182
+Name: Mental Resonance;
+Ability: 0
+Spell: 329
+Numeric: 0
+
+/183
+Name: Act of Faith;
+Ability: 0
+Spell: 330
+Numeric: 0
+
+/184
+Name: Mental Shadow;
+Ability: 0
+Spell: 333
+Numeric: 0
+
+/185
+Name: Hunter's Net;
+Ability: 0
+Spell: 334
+Numeric: 0
+
+/186
+Name: Bleeding Wound;
+Ability: 208
+Spell: 0
+Numeric: 1
+
+/187
+Name: Damaged Aura;
+Ability: 212
+Spell: 0
+Numeric: 1
+
+/188
+Name: Stone Statue;
+Ability: 0
+Spell: 335
+Numeric: 0
+
+/189
+Name: Kiss of Darkness;
+Ability: 0
+Spell: 198
+Numeric: 0
+
+/190
+Name: Shadow Form;
+Ability: 0
+Spell: 336
+Numeric: 0
+
+/191
+Name: Alvari Rage;
+Ability: 0
+Spell: 337
+Numeric: 0
+
+/192
+Name: Dark Balance;
+Ability: 0
+Spell: 338
+Numeric: 0
+
+/193
+Name: Blood Shadow;
+Ability: 0
+Spell: 339
+Numeric: 0
+
+/194
+Name: Stimulus;
+Ability: 0
+Spell: 341
+Numeric: 0
+
+/195
+Name: Shadow Form;
+Ability: 0
+Spell: 342
+Numeric: 0
+
+/196
+Name: Trembling Shadow;
+Ability: 0
+Spell: 343
+Numeric: 0
+
+/197
+Name: Shadow Form;
+Ability: 0
+Spell: 344
+Numeric: 0
+
+/198
+Name: Shadow Form;
+Ability: 0
+Spell: 345
+Numeric: 0
+
+/199
+Name: Shadow Dance;
+Ability: 0
+Spell: 346
+Numeric: 0
+
+/200
+Name: Shadow Form;
+Ability: 0
+Spell: 347
+Numeric: 0
+
+/201
+Name: Burning;
+Ability: 143
+Spell: 0
+Numeric: 1
+
+/202
+Name: Darkness Surge;
+Ability: 0
+Spell: 349
+Numeric: 0
+
+/203
+Name: Storm Shadow;
+Ability: 0
+Spell: 350
+Numeric: 0
+
+/204
+Name: Mind Control Immunity;
+Ability: 100
+Spell: 183
+Numeric: 0
+
+/205
+Name: Does not fight;
+Ability: 38
+Spell: 0
+Numeric: 0
+
+/206
+Name: Storm Wind;
+Ability: 0
+Spell: 351
+Numeric: 0
+
+/207
+Name: Festering Wounds;
+Ability: 136
+Spell: 0
+Numeric: 0
+
+/208
+Name: Rune of Renewal;
+Ability: 0
+Spell: 101
+Numeric: 0
+
+/209
+Name: Mockery;
+Ability: 0
+Spell: 187
+Numeric: 0
+
+/210
+Name: Siege Mode;
+Ability: 170
+Spell: 0
+Numeric: 0
+
+/211
+Name: Scorn;
+Ability: 0
+Spell: 317
+Numeric: 0
+
+/212
+Name: Cold Rage;
+Ability: 225
+Spell: 0
+Numeric: 1

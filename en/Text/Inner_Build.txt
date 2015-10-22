@@ -1,0 +1,1164 @@
+0. Empty
+#No description#
+
+1. Workshop
+#Produces the simplest wooden weapons and leather armor.
+Allows heroes to purchase the following items: Short Spear, Wooden Shield, Common Arrows, Leather Jacket, Rope Sling.#
+
+2. Forge
+#Produces the simplest iron armor and weapons.
+Allows heroes to purchase the following items: Shortsword, Hand Axe, Buckler, Simple Chainmail and a Marshal's Baton.#
+
+3. Library
+#Heroes can learn new spells here.
+Gives access to the simplest spells: Magic Spark, Fatigue, Inspiration. Allows to perform the ritual of Astral Spy.
+Allows the recruitment of Archmagisters, if you have the proper scroll.#
+
+4. Granary
+#Increases population growth in the capital. Reduces the risk of famine in the capital.#
+
+5. Tavern
+#Income +2.
+Allows you to recruit Mercenaries in the castle's garrison.#
+
+6. Altar
+#Reduces the cost of hero resurrection and the performing of rituals by 5~. Increases the morale of the capital defenders by 1.#
+
+7. Recruiting Station
+#Type: Produces units of the first rank.
+Allows the recruitment of Militiamen. Allows hiring the Local Militia guard.
+The castle cannot have more than 4 buildings of this type.#
+
+8. Slinger School
+#Type: Produces units of the first rank.
+Allows the recruitment of Slingers.
+The castle cannot have more than 4 buildings of this type.#
+
+9. Spearman School
+#Type: Produces units of the first rank.
+Allows the recruitment of Spearmen.
+The castle cannot have more than 4 buildings of this type.#
+
+10. Shooting Ground
+#Type: Produces units of the first rank.
+Allows the recruitment of Bowmen.
+The castle cannot have more than 4 buildings of this type.#
+
+11. Swordsman School
+#Type: Produces units of the first rank.
+Allows the recruitment of Swordsmen.
+The castle cannot have more than 4 buildings of this type.#
+
+12. Pikeman School
+#Type: Produces units of the first rank.
+Allows the recruitment of Pikemen.
+The castle cannot have more than 4 buildings of this type.#
+
+13. Crossbowman School
+#Type: Produces units of the first rank.
+Allows the recruitment of Crossbowmen.
+The castle cannot have more than 4 buildings of this type.#
+
+14. Brotherhood of Light
+#Type: Produces units of the first rank.
+Allows the recruitment of Healers.
+The castle cannot have more than 4 buildings of this type.#
+
+15. Barbarian Camp
+#Type: Produces units of the first rank.
+Allows the recruitment of Barbarians.
+The castle cannot have more than 4 buildings of this type.#
+
+16. Den of Thieves
+#Type: Produces units of the first rank.
+Allows the recruitment of Thieves.
+The castle cannot have more than 4 buildings of this type.#
+
+17. Brigand Lair
+#Type: Produces units of the first rank.
+Allows the recruitment of Brigands.
+The castle cannot have more than 4 buildings of this type.#
+
+18. Totem
+#Type: Produces units of the first rank.
+Allows the recruitment of Shamans.
+The castle cannot have more than 4 buildings of this type.#
+
+19. School of Wizardry
+#Type: Teaches spells of the first circle.
+Allows heroes to learn the spells of Magic Arrow, Magic Armor, Magic Weapon and buy scrolls with Levitation spell.
+Allows to perform the ritual of Enchanted Coffer.
+The castle cannot have more than 4 buildings of this type.#
+
+20. Sphere of Winds
+#Type: Teaches spells of the first circle.
+Allows heroes to learn the spells of Slow, Haste, Air Shield and buy scrolls with the Summon Mephit spell.
+Allows to perform the ritual of Fair Wind.
+The castle cannot have more than 4 buildings of this type.#
+
+21. Sanctuary
+#Type: Teaches spells of the first circle.
+Allows heroes to learn the spells of Curse, Bless, Cure Wounds and buy scrolls with the Fearlessness spell.
+Allows to perform the ritual of Chalice of Life.
+The castle cannot have more than 4 buildings of this type.#
+
+22. School of Necromancy
+#Type: Teaches spells of the first circle.
+Allows heroes to learn the spells of Fear, Raise Skeleton, Raise Zombie and buy scrolls with the Soul Trap spell.
+Allows to perform the ritual of Walking Dead.
+The castle cannot have more than 4 buildings of this type.#
+
+23. School of Sorcery
+#Type: Teaches spells of the first circle.
+Allows heroes to learn the spells of Dispel, Astral Energy, Web and buy scrolls with Cat Reflexes spell.
+Allows to perform the ritual of Extravaganza.
+The castle cannot have more than 4 buildings of this type.#
+
+24. Altar of Chaos
+#Type: Teaches spells of the first circle.
+Allows heroes to learn the spells of Summon Imp, Burn Ammo, Vulnerability and buy scrolls with Chaos Surge spell.
+Allows to perform the ritual of Dark Ritual.
+The castle cannot have more than 4 buildings of this type.#
+
+25. Stable
+#Increases income from Horses by 5. Speeds up the hero's movement from the capital by 1.  Reduces the upkeep of garrison units by 10~. The hero spends 1 Mobility Point to pass through the capital with a Stable.#
+
+26. Foundry
+#Income from Iron is increased by 5.#
+
+27. Carpenters Guild
+#Income from Redwood is increased by 3. Allows building a Sawmill in forest provinces. Allows you to hire Workmen from contract scrolls.#
+
+28. Stonemasons Guild
+#Allows building an Outpost in provinces.#
+
+29. Diggers Guild
+#Allows building a Mine in hilly provinces.#
+
+30. Show Booth
+#Improves population mood by 1.#
+
+31. Inn
+#Income +3. Attracts better mercenaries to the castle. Allows building a Pub in provinces. Provides 1 contract with the Adventurers guard.#
+
+32. Farmers Market
+#Increases population growth in the capital. Allows building a Mill in plains provinces.#
+
+33. Church
+#Reduces the cost of hero resurrection and the performing of rituals by 10~. Increases the morale of the capital defenders by 2.
+Allows heroes to purchase the following items: Silver Dagger, Silver Axe and the spell scroll Shock.#
+
+34. Crystal of Power
+#Reduces the cost of new heroes by 10~. Allows heroes to receive easy quests. Yields 1 gem per turn.#
+
+35. Sorcerer's Workshop
+#Allows heroes to purchase the following items: Short Staff, Simple Wand, Toga, Sandals, Simple Cap.
+Reduces the gem upkeep of garrison units by 10~.#
+
+36. Pottery
+#Income +4. Allows building a Granary in provinces.#
+
+37. Armory
+#Allows heroes to purchase the following items: Knife, Cudgel, Chestpiece, Hand Crossbow, Feathered Arrows. Increases recruits' experience by 20.#
+
+38. Drivers Guild
+#Speeds up the hero's movement from the capital by 1. Allows upgrading a Granary in provinces to a Stable.  Gives access to the location of horses hidden on the plains.
+Reduces the upkeep of garrison units by 10~.#
+
+39. Fort
+#Adds space for second rank units in the garrison. Increases the wall strength of the stronghold and adds one battle tower.#
+
+40. Foresters Guild
+#Increases income from forest provinces by 1. Allows hiring the Foresters guard.#
+
+41. Builders Guild
+#Reduces the cost of construction in the castle by 10~. Allows upgrading an Outpost in provinces to a Fort.#
+
+42. Market
+#Income +5. Reduces the cost of buying resources by 10~. Allows building a Storehouse in provinces.#
+
+43. Sages Guild
+#Allows building a Library in provinces.
+Allows the recruitment of Adepts, if you have the proper scroll.#
+
+44. Theater
+#Improves population mood in the capital by 1. Improves population mood in provinces with a Pub, a Tavern, or an Inn by 1.#
+
+45. Merchant Court
+#Income +5. Attracts better mercenaries to the castle. Allows upgrading a Pub in provinces to a Tavern.
+Allows you to hire Duelists through contracts, if you found any (one contract will be in the store).
+Provides 2 contracts with the Adventurers guard.#
+
+46. Craft Shop
+#Reduces the cost of new units by 10~. Allows the recruitment of Assault-Rats, if you have the proper scroll.#
+
+47. Brewery
+#Income +10. Improves population mood in the capital by 1. Increases morale of the stronghold's garrison by 2.#
+
+48. Practice Halls
+#Increases recruits' experience by 30. Allows hiring the Recruits guard. Allows the recruitment of Shadow Claws, if you have the proper scroll.#
+
+49. Infirmary
+#Increases population growth in the capital. Speeds up restoration of unit hit points in the capital by 10~ per turn. Reduces the risk of an epidemic in the capital.#
+
+50. Town Council
+#Increases gold income by 5~. Allows building a Deputy's House in provinces.
+Provides 1 contract with the Vassal guard.#
+
+51. Dungeon
+#Slows unrest growth in the capital. Reduces corruption by 10~.#
+
+52. Shipbuilders Guild
+#Allows building a Shipyard in coastal provinces. Allows heroes to travel through one sea province from the Stronghold.#
+
+53. Mercenary Guild
+#Attracts better mercenaries to the castle. Increases the probability of employing the services of Adventurers. Allows hiring the Mercenary guard.#
+
+54. Pathfinders Guild
+#Speeds up province exploration by 25~. Reveals hidden deposits in forest provinces.#
+
+55. Geologists Guild
+#Increases income from hilly provinces by 1. Reveals hidden deposits in hilly provinces. Allows you to build a Crystal Mine.#
+
+56. Herbalists Guild
+#Increases income from swamp provinces by 1. Reveals hidden deposits in swamp provinces. Allows you to build a Berry Farm.#
+
+57. Enchanted Grove
+#Yields 1 gem per turn. Allows hiring the Forest Spirits guard. Reduces the delay between rituals by 1.#
+
+58. Traders Guild
+#Income +15.  Reduces the cost of buying resources by 10~. Allows upgrading a Storehouse in provinces to a Mall.#
+
+59. Winery
+#Improves population mood in the capital by 1. Increases morale of the stronghold's garrison by 2. Allows upgrading a Mill in provinces to a Brewery.#
+
+60. Temple of Immortals
+#Reduces the cost of hero resurrection and the performing of rituals by 15~. Increases the morale of the capital defenders by 3. Allows you to hire Dark Priestess from contract scrolls.
+Allows the hero to purchase the spell scrolls Eternal Light.#
+
+61. Barracks
+#Increases recruits' experience by 20. Allows hiring the Light Infantry guard.#
+
+62. Chieftain's Tent
+#Allows hiring the Tribe guard.#
+
+63. Hunters Camp
+#Allows hiring the Hunters guard. Reduces the fee of garrison units by 10~.#
+
+64. Bandit Lair
+#Income +5. Lowers the population mood in the capital by 1. Allows hiring the Cutthroats guard.#
+
+65. Thieves Guild
+#Opponents' income -5. Lowers the population mood in the capital by 1. Allows hiring the Gang of Thieves guard.#
+
+66. Lookout Tower
+#Increases the attack of the stronghold's towers by 2. Allows hiring the Guards guard.#
+
+67. Watchtower
+#Increases the attack of the stronghold's towers by 1. Allows hiring the Watchmen guard.#
+
+68. Warriors Guild
+#Increases recruits' experience by 20. Allows hiring the Patrolmen guard.#
+
+69. Abbey
+#Improves population mood in the capital by 1. Allows hiring the Brethren of Light guard.#
+
+70. Haunted Cemetery
+#Lowers the population mood in the capital by 1. Allows hiring the Walking Dead guard.
+Increases a chance of undead attacks on all provinces.#
+
+71. Monastery
+#Type: Produces units of the second rank.
+Allows the recruitment of Monks.
+The castle cannot have more than 3 buildings of this type.#
+
+72. Guardsmen Barracks
+#Type: Produces units of the second rank.
+Allows the recruitment of Guardsmen.
+The castle cannot have more than 3 buildings of this type.#
+
+73. Pegasi Stable
+#Type: Produces units of the second rank.
+Allows the recruitment of Pegasi.
+The castle cannot have more than 3 buildings of this type.#
+
+74. Siege Workshop
+#Type: Produces units of the second rank.
+Allows the recruitment of Ballistae.
+The castle cannot have more than 3 buildings of this type.#
+
+75. Riding Ground
+#Type: Produces units of the second rank.
+Allows the recruitment of Horse Archers.
+The castle cannot have more than 3 buildings of this type.#
+
+76. Jousting Arena
+#Type: Produces units of the second rank.
+Allows the recruitment of Horsemen.
+The castle cannot have more than 3 buildings of this type.#
+
+77. Fighter Barracks
+#Type: Produces units of the second rank.
+Allows the recruitment of Thugs.
+The castle cannot have more than 3 buildings of this type.#
+
+78. Witch Circle
+#Type: Produces units of the second rank.
+Allows the recruitment of Sorcerers.
+The castle cannot have more than 3 buildings of this type.#
+
+79. Assassins Guild
+#Type: Produces units of the second rank.
+Allows the recruitment of Assassins.
+The castle cannot have more than 3 buildings of this type.#
+
+80. Mages Guild
+#Type: Teaches spells of the second circle.
+Allows heroes to learn the spells of Lightning, Fireball, Flame Blade and buy Weighing Spell scrolls.
+Allows to perform the ritual of Creation.
+The castle cannot have more than 3 buildings of this type.#
+
+81. Illusionists Guild
+#Type: Teaches spells of the second circle.
+Allows heroes to learn the spells of Phantom Form, Sleep, Hallucinations and buy Heroism spell scrolls.
+Allows to perform the ritual of Illusionary Battle.
+The castle cannot have more than 3 buildings of this type.#
+
+82. Necromancers Guild
+#Type: Teaches spells of the second circle.
+Allows heroes to learn the spells of Raise Ghoul, Vampirism, Disease and buy Feebleness Spell scrolls.
+Allows to perform the ritual of Deadly Terror.
+The castle cannot have more than 3 buildings of this type.#
+
+83. Sphere of Stone
+#Type: Teaches spells of the second circle.
+Allows heroes to learn the spells of Create Gargoyle, Rain of Stones, Stone Skin and buy Stone Crust Spell scrolls.
+Allows to perform the ritual of Gifts of Earth.
+The castle cannot have more than 3 buildings of this type.#
+
+84. Temple of Chaos
+#Type: Teaches spells of the second circle.
+Allows heroes to learn the spells of Summon Fiend, Summon Hellhound, Blindness and buy Demon Blood Spell scrolls.
+Allows to perform the ritual of Chaos Spawn. Allows the recruitment of Demonologists from the contract scrolls.
+The castle cannot have more than 3 buildings of this type.#
+
+85. Temple of Life
+#Type: Teaches spells of the second circle.
+Allows heroes to learn the spells of Restoration, Exorcism, Word of Life and buy Battle Cry Spell scrolls.
+Allows to perform the ritual of Heavenly Light.
+The castle cannot have more than 3 buildings of this type.#
+
+86. Jewelry Store
+#Type: Sells common items
+Income +2.
+Allows heroes to purchase the following items: Blacksmith's Bracelet, Commander's Medal, Copper Ring, Iron Ring.
+The castle cannot have more than 4 buildings of this type.#
+
+87. Chainmail Armory
+#Type: Sells common items
+Income +2.
+Allows heroes to purchase the following items: Banded Mail, Soldier's Overshoes, Open Helmet, Mail Gauntlets, Mail Bracers.
+The castle cannot have more than 4 buildings of this type.#
+
+88. Plate Armory
+#Type: Sells common items
+Income +2.
+Allows heroes to purchase the following items: Cuirass, Plate Overshoes, Plate Helmet, Plate Gauntlets, Plate Bracers.
+The castle cannot have more than 4 buildings of this type.#
+
+89. Weapon Store
+#Type: Sells common items
+Income +2.
+Allows heroes to purchase the following items: Saber, Poleaxe, Mace, Bastard Sword, Round Shield.
+The castle cannot have more than 4 buildings of this type.#
+
+90. Carpenter's Shop
+#Type: Sells common items
+Income +2.
+Allows heroes to purchase the following items: Long Spear, Hunting Bow, Light Crossbow, Jagged Arrows.
+The castle cannot have more than 4 buildings of this type.#
+
+91. Tanner Store
+#Type: Sells common items
+Income +2.
+Allows heroes to purchase the following items: Tanned Leather Jacket, Leather Overshoes, Leather Hat, Leather Gloves, Leather Belt.
+The castle cannot have more than 4 buildings of this type.#
+
+92. Tailor Store
+#Type: Sells common items
+Income +2.
+Allows heroes to purchase the following items: Tunic, Hat, Cloth Bracers, Traveling Cloak, Flag of Intrepidity.
+The castle cannot have more than 4 buildings of this type.#
+
+93. Sorcery Store
+#Type: Sells common items
+Income +2.
+Allows heroes to purchase the following items: Dagger, Traveling Staff, Shaman's Wand, Wizard's Gloves.
+The castle cannot have more than 4 buildings of this type.#
+
+94. Stonehenge
+#Yields 3 gems per turn. Allows hiring the Forest Keepers guard. Reduces the delay between rituals by 1. Provides 1 schematics of the Ancient Pyramid building. Allows the recruitment of Treants if their acorns are present. Allows the creation of Black Unicorns with the necessary scroll.#
+
+95. Magic Well
+#Income +10.#
+
+96. Crystal Garden
+#Yields 2 gems per turn.#
+
+97. Swamp Trappers Guild
+#Allows the recruitment of Giant Spiders, Birdeaters, Basilisks, Giant Slugs and Swamp Dragonflies, if their eggs are present in the treasury.#
+
+98. Chamber of Commerce
+#Income +20.  Reduces the cost of buying resources by 10~. Allows upgrading a Tavern in provinces to an Inn.#
+
+99. Treasury
+#Income +2~ of gold already available. Reduces gold losses when under plunder by 30~.#
+
+100. War School
+#Increases recruits' experience by 40. Allows hiring the Men of War guard.#
+
+101. Craftsmen Guild
+#Reduces the cost of new units by 10~. Reduces the cost of construction in the castle by 10~. Allows the recruitment of Gnoll siege engines and Ratman Rippers through contract scrolls.#
+
+102. Crystal of Power
+#Reduces the cost of new heroes by 15~.  Allows heroes to receive medium quests.  Yields 2 gems per turn.#
+
+103. Alchemists Guild
+#Reduces the cost of buying resources by 10~. Allows to transmute gold to gems and the other way around.
+Allows heroes to purchase Magical Arrows.#
+
+104. Citadel
+#Adds space for third rank units in the garrison. Increases the wall strength of the stronghold and adds one battle tower. Increases the attack of the stronghold's towers by 1 and adds to their protection.#
+
+105. Court
+#Slows unrest growth in the capital. Allows upgrading a Deputy's House in provinces to a Judge's House. Reduces corruption by 20~.#
+
+106. Pharmacy
+#Significantly increases population growth in the capital. Speeds up restoration of unit hit points in the capital by 10~ per turn. Allows building an Infirmary in provinces. Reduces the risk of an epidemic in the capital. Increases income from Mandrakes by 5.#
+
+107. Secret Library
+#Yields 2 gems per turn.
+Allows the recruitment of Magisters and Masters of Decay, if you have the proper scroll. Allows the growth of Beholders from their eggs.#
+
+108. Architects Guild
+#Reduces the cost of construction in the castle by 10~. Allows upgrading a Fort in provinces to a Citadel.#
+
+109. Moneylender
+#Income +2~ of gold already available.#
+
+110. Merchants Guild
+#Income +30.  Reduces the cost of buying resources by 10~. Allows upgrading a Mall in provinces to a Market.#
+
+111. Seafarers Guilds
+#Increases income from coastal provinces by 1. Allows upgrading a Shipyard in provinces to a Port. Allows heroes to travel through two sea provinces from the capital.#
+
+112. Arena
+#Improves population mood in the capital by 2. Allows building an Arena in provinces. Allows heroes to participate in tournaments and bet on fighters.#
+
+113. Crystal of Might
+#Reduces the cost of new heroes by 20~.  Allows heroes to receive hard quests.  Yields 4 gems per turn.#
+
+114. Healers Guild
+#Significantly increases population growth in the capital. Speeds up restoration of unit hit points in the capital by 10~ per turn. Allows upgrading an Infirmary in provinces to a Pharmacy.  Reduces the risk of an epidemic in the capital. Increases income from Dionium by 12.#
+
+115. Source of Crystals
+#Type: Matter transmutation.
+Converts 15 gold into 10 gems every turn.
+The castle can only have one building of this type.#
+
+116. Source of Gold
+#Type: Matter transmutation.
+Converts 2 gems into 50 gold every turn.
+The castle can only have one building of this type.#
+
+117. Shadow Guild
+#Opponents' income -10. Lowers the population mood in the capital by 1. Allows hiring the Secret Agents guard.#
+
+118. Bandit Clan
+#Income +10. Lowers the population mood in the capital by 1. Allows hiring the Mob guard.#
+
+119. Dark Brotherhood
+#Opponents' income -10. Income +10. Lowers the population mood in the capital by 1.#
+
+120. Officer Academy
+#Increases recruits' experience by 30. Allows hiring the Guardsmen guard.#
+
+121. Nomad Camp
+#Allows hiring the Nomads guard. Allows heroes to purchase the following items: Nomad Bow, Nomad Arrows, Scimitar.#
+
+122. Secret Monastery
+#Yields 2 gems per turn. Allows hiring the Eagle Brotherhood guard. Provides 1 building schematics of the Secret Monastery.#
+
+123. Black Tower
+#Yields 3 gems per turn. Lowers the population mood in the capital by 1. Allows hiring the Dark Brotherhood guard. Shoots at enemies during the defense of the capital. Provides 1 building schematics of the Dark Tower.#
+
+124. Hippodrome
+#Income +10. Improves population mood in the capital by 1. Increases income from Horses by 5.#
+
+125. Cavalry Barracks
+#Allows hiring the Cavalry guard.  Speeds up the hero's movement from the capital by 1.#
+
+126. Knightly Order
+#Type: Produces units of the third rank.
+Allows the recruitment of Knights.
+The castle cannot have more than 2 buildings of this type.#
+
+127. Temple of the Eagle
+#Type: Produces units of the third rank.
+Allows the recruitment of Clerics.
+The castle cannot have more than 2 buildings of this type.#
+
+128. Siegeworks
+#Type: Produces units of the third rank.
+Allows the recruitment of Catapults.
+The castle cannot have more than 2 buildings of this type.#
+
+129. Gryphon Nest
+#Type: Produces units of the third rank.
+Allows the recruitment of Gryphons.
+The castle cannot have more than 2 buildings of this type.#
+
+130. Mages Tower
+#Type: Produces units of the third rank.
+Allows the recruitment of Magicians.
+The castle cannot have more than 2 buildings of this type.#
+
+131. Torture Chamber
+#Type: Produces units of the third rank.
+Allows the recruitment of Executioners.
+The castle cannot have more than 2 buildings of this type.#
+
+132. Sphere of Ice
+#Type: Teaches circle III spells
+Allows heroes to learn the spells of Word of Ice, Acid, Mass Slow and buy Geyser Spell scrolls.
+Allows to perform the ritual of Blizzard. Allows the recruitment of Elemental Mistresses from the contract scrolls.
+The castle cannot have more than 2 buildings of this type.#
+
+133. Tower of Chaos
+#Type: Teaches circle III spells
+Allows heroes to learn the spells of Dark Pact, Inferno, Summon Demon and buy Suicide Spell scrolls.
+Allows to perform the ritual of Rain of Brimstone. Allows the summoning of Acherons if you have cursed relics.
+The castle cannot have more than 2 buildings of this type.#
+
+134. School of High Magic
+#Type: Teaches circle III spells
+Allows heroes to learn the spells of Teleport, Antimagic, Mass Dispel and buy Enchated Weapon Spell scrolls.
+Allows to perform the ritual of Magic Barrier. Allows the summoning of Faerie Dragons if you have their eggs.
+The castle cannot have more than 2 buildings of this type.#
+
+135. Tower of Restoration
+#Type: Teaches circle III spells
+Allows heroes to learn the spells of Resurrection, Mass Defense, Mass Healing and buy Heaven's Rage spell scrolls.
+Allows to perform the ritual of Heavenly Guard. Allows the summoning of Seraphims if you have sacred relics.
+The castle cannot have more than 2 buildings of this type.#
+
+136. Tower of Hypnosis
+#Type: Teaches circle III spells
+Allows heroes to learn the spells of Word of Power, Mass Haste, Mass Attack and buy Insanity Spell scrolls.
+Allows to perform the ritual of Mass Insanity. Allows the recruitment of Psions from the contract scrolls.
+The castle cannot have more than 2 buildings of this type.#
+
+137. Tower of Necromancy
+#Type: Teaches circle III spells
+Allows heroes to learn the spells of Raise Ghost, Mass Curse, Life Drain and buy Unrest Spell scrolls.
+Allows to perform the ritual of Undead Uprising. Allows the creation of Dracoliches from the phylacteries.
+The castle cannot have more than 2 buildings of this type.#
+
+138. Journeyman Jeweler
+#Type: Sells quality items
+Income +3.
+Allows heroes to purchase the following items: Copper Bracelet, Malachite Amulet, Silver Ring, Steel Ring.
+The castle cannot have more than 3 buildings of this type.#
+
+139. Journeyman Mailmaker
+#Type: Sells quality items
+Income +3.
+Allows heroes to purchase the following items: Scale Mail, Heavy Boots, Commander's Helmet, Mail Gloves, Iron Bracers.
+The castle cannot have more than 3 buildings of this type.#
+
+140. Journeyman Armorer
+#Type: Sells quality items
+Income +3.
+Allows heroes to purchase the following items: Breastplate, Plate Boots, Knight's Helmet, Plate Gloves, Heavy Bracers.
+The castle cannot have more than 3 buildings of this type.#
+
+141. Journeyman Smith
+#Type: Sells quality items
+Income +3.
+Allows heroes to purchase the following items: Longsword, Battle Axe, Hammer, Two-Handed Sword, Infantry Shield.
+The castle cannot have more than 3 buildings of this type.#
+
+142. Journeyman Carpenter
+#Type: Sells quality items
+Income +3.
+Allows heroes to purchase the following items: Partisan, Long Bow, Heavy Crossbow, Heavy Arrows, Leather Sling.
+The castle cannot have more than 3 buildings of this type.#
+
+143. Journeyman Tanner
+#Type: Sells quality items
+Income +3.
+Allows heroes to purchase the following items: Quilted Jacket, Leather Boots, Ranger's Cap, Riveted Gloves, Leather Bracers.
+The castle cannot have more than 3 buildings of this type.#
+
+144. Journeyman Tailor
+#Type: Sells quality items
+Income +3.
+Allows heroes to purchase the following items: Coat, Light Boots, Turban, Warm Cloak, Flag of Tirelessness.
+The castle cannot have more than 3 buildings of this type.#
+
+145. Journeyman Enchanter
+#Type: Sells quality items
+Income +3.
+Allows heroes to purchase the following items: Stiletto, Long Staff, Sorcerer's Wand, Wizard's Sash.
+The castle cannot have more than 3 buildings of this type.#
+
+146. Military Academy
+#Increases recruits' experience by 50. Allows hiring an additional guard per turn.#
+
+147. Road Network
+#Increases income from every province by 1. Increases movement speed over owned provinces by 1.  Reduces the upkeep of garrison units by 10~.#
+
+148. Explorers Guild
+#Speeds up province exploration by 30~. Allows upgrading a Port in provinces to a Lighthouse.#
+
+149. Castle
+#Adds space for fourth rank units in the garrison. Increases the wall strength of the stronghold and adds one battle tower. Increases the attack of the stronghold's towers by 1 and adds to their protection.#
+
+150. Artifact Market
+#Allows heroes to purchase simple magic items. Allows hiring the Gargoyles guard.
+Reduces the gem upkeep of garrison units by 10~.#
+
+151. Bank
+#Income +3~ of gold already available.#
+
+152. Oracle
+#Yields 3 gems per turn. Increases the chance of good events and reduces the chance of bad events. Reduces the delay between rituals by 1.#
+
+153. Town Hall
+#Increases gold income by 10~. Allows building a Town Council in provinces with a Judge's House.
+Provides 2 contracts with the Vassal guard.#
+
+154. Chapel of Immortals
+#Reduces the cost of hero resurrection and the performing of rituals by 30~. Increases the morale of the capital defenders by 4.#
+
+155. Monstrologists Guild
+#Allows the recruitment of Manticores, Hydras, Phoenixes and Ericubes, if their eggs are present in the treasury. Opens a Witcher's fortress in the capital. Increases income from swamp provinces by 1. Allows hiring the Monsters guard.#
+
+156. Traveling Circus
+#Improves population mood in the capital by 2. Increases income from provinces with Arenas by 3. Improves population mood in these provinces by 1.#
+
+157. Master Builder Guild
+#Reduces the cost of construction in the castle by 10~. Allows building an additional provincial building per turn. Allows upgrading a Citadel in provinces to a Fortress.#
+
+158. Artifact Master
+#Allows heroes to purchase quality magic items. Allows hiring the Gargoyle Masters guard. Allows the recruitment of Golems, if their ingots are present.
+Reduces the gem upkeep of garrison units by 15~.#
+
+159. Tower of Knowledge
+#Yields 5 gems per turn. Allows upgrading a Library in provinces to a Magic Tower. Shoots at enemies during the defense of the capital.
+Allows the recruitment of White Mages, Illithids and Archmagisters, if you have the proper scroll.#
+
+160. Colosseum
+#Improves population mood in all provinces by 1.#
+
+161. Halls of Justice
+#Slows down the unrest growth rate in all provinces. Reduces corruption by 20~.#
+
+162. Temple of Peace
+#Type: Great Temple.
+Increases population growth and mood in all provinces. Improves diplomatic relations. Increases the heroes' diplomacy skill by 1.
+Decreases income from spoils of war and province plundering by 50~.
+The castle can only have one building of this type.#
+
+163. Temple of War
+#Type: Great Temple.
+Increases income from spoils of war and province plundering by 50~. Reduces the cost of new units by 10~. Increases recruits' experience by 60.
+Decreases population growth in all provinces.
+The castle can only have one building of this type.#
+
+164. Scaffold
+#Slows down the unrest growth rate in the capital. Allows hiring the Overseers guard. Reduces corruption by 5~.#
+
+165. Mechanics Guild
+#Reduces the cost of new units by 5~. Reduces the cost of construction in the castle by 5~. Improves the hero's siege power by 5. Allows hiring the Siege Engineers guard. Allows the recruitment of Workmen through contract scrolls.
+Allows the recruitment of Dwarven Cannons, if you have the proper scroll.#
+
+166. White Shield Castle
+#Increases recruits' experience by 30. Increases the strength of castle walls. Allows hiring the White Shield Order guard. Adds a War School to the capital, where elite warriors known as Swordmasters are training.#
+
+167. Celestial Temple
+#Income +10. Yields 5 gems per turn. Allows hiring the Winged Guards guard.#
+
+168. Tower of Night
+#Yields 10 gems per turn. Lowers population mood in the capital by 1. Shoots at enemies during the defense of the capital. Provides 1 building schematics of the Tower of Lightning. Allows hiring the Battlemages guard.#
+
+169. Great Eagle Chapel
+#Yields 5 gems per turn. Improves population mood in the capital by 1. Allows hiring the War Priests guard.#
+
+170. Sacred Order
+#Type: Produces units of the fourth rank.
+Allows thew recruitment of Paladin. Provides 1 contract with the Warriors of Light guard.
+The castle can only have one building of this type.#
+
+171. Elephant Pen
+#Type: Produces units of the fourth rank.
+Allows the recruitment of War Elephants. Provides 1 contract with the Imperial Guards guard.
+The castle can only have one building of this type.#
+
+172. Castle of Darkness
+#Type: Produces units of the fourth rank.
+Allows the recruitment of Warlocks. Gives 1 contract with the Supreme Dark Order guard.
+The castle can only have one building of this type.#
+
+173. Cathedral of Light
+#Type: Teaches spells of the fourth circle.
+Allows heroes to learn the spells of White Magic, Invulnerability, Word of Peace and buy Higher Power spell scrolls.
+Allows to perform the ritual of Gifts of Heaven.
+The castle can only have one building of this type.#
+
+174. Necropolis
+#Type: Teaches spells of the fourth circle.
+Allows heroes to learn the spells of Raise Vampire, Mass Disease, Cloud of Terror and buy Mass Life Drain Spell scrolls.
+Allows to perform the ritual of Pestilence.
+The castle can only have one building of this type.#
+
+175. Sphere of Flame
+#Type: Teaches spells of the fourth circle.
+Allows heroes to learn the spells of Armageddon, Incineration, Firestorm and buy Elemental Immunity Spell scrolls.
+Allows to perform the ritual of Conflagration.
+The castle can only have one building of this type.#
+
+176. Gates of Chaos
+#Type: Teaches spells of the fourth circle.
+Allows heroes to learn the spells of Summon Devil, Black Magic, Corruption and buy Summon Lord of Abyss Spell scrolls.
+Allows to perform the ritual of Demon Invasion. Adds Gates of Abyss to the capital.
+The castle can only have one building of this type.#
+
+177. Secret Guild
+#Type: Teaches spells of the fourth circle.
+Allows heroes to learn the spells of Time Stop, Dragon Form, Polymorph and buy Titan's Strength Spell scrolls.
+Allows to perform the ritual of Tower of Lightning.
+The castle can only have one building of this type.#
+
+178. Psy-Monolith
+#Type: Teaches spells of the fourth circle.
+Allows heroes to learn the spells of Mass Suicide, Enslave Mind, Mass Sleep and buy Confusion Spell scrolls.
+Allows to perform the ritual of Astral Gates.
+The castle can only have one building of this type.#
+
+179. Master Jeweler
+#Type: Sells exceptional items
+Income +5.
+Allows heroes to purchase the following items: Silver Bracelet, Agate Amulet, Bronze Ring, Golden Ring.
+The castle cannot have more than 2 buildings of this type.#
+
+180. Master Mailmaker
+#Type: Sells exceptional items
+Income +5.
+Allows heroes to purchase the following items: Mithril Chainmail, Ironshod Boots, Closed Helmet, Commander's Gloves, Mithril Bracers.
+The castle cannot have more than 2 buildings of this type.#
+
+181. Master Platemaker
+#Type: Sells exceptional items
+Income +5.
+Allows heroes to purchase the following items: Mithril Cuirass, Knight's Boots, Mithril Helmet, Battle Gloves, Armored Bracers.
+The castle cannot have more than 2 buildings of this type.#
+
+182. Master Weaponsmith
+#Type: Sells exceptional items
+Income +5.
+Allows heroes to purchase the following items: Broadsword, Battle Poleaxe, Flanged Mace, Claymore, Knight's Shield.
+The castle cannot have more than 2 buildings of this type.#
+
+183. Master Carpenter
+#Type: Sells exceptional items
+Income +5.
+Allows heroes to purchase the following items: Halberd, Composite Bow, Guardsman's Crossbow, Mithril Arrows.
+The castle cannot have more than 2 buildings of this type.#
+
+184. Master Tanner
+#Type: Sells exceptional items
+Income +5.
+Allows heroes to purchase the following items: Riveted Jacket, Ranger's Boots, Leather Helmet, Archer's Gloves, Warrior's Belt.
+The castle cannot have more than 2 buildings of this type.#
+
+185. Master Tailor
+#Type: Sells exceptional items
+Income +5.
+Allows heroes to purchase the following items: Mantle, Suede Boots, Silk Gloves, Ranger's Cloak, Flag of Defense.
+The castle cannot have more than 2 buildings of this type.#
+
+186. Master Enchanter
+#Type: Sells exceptional items
+Income +5.
+Allows heroes to purchase the following items: Cutlass, Battle Staff, Mage's Wand, Wizard's Hat, Sphere of Thought.
+The castle cannot have more than 2 buildings of this type.#
+
+187. Capitol
+#Increases gold income by 15~. Allows building a Tax Collector in provinces with a Town Council.
+Allows hiring the Vassal guard.#
+
+188. Tower of Artifacts
+#Allows heroes to purchase rare magic items. Allows performing an additional ritual per turn. Provides 1 contract with the Ancient Guards guard.
+Reduces the gem upkeep of garrison units by 20~.#
+
+189. Fountain of Youth
+#Increases population growth in all provinces.#
+
+190. Palace
+#Improves diplomatic relations. Increases the strength of castle walls. Adds a tower to castle fortifications and increases their strength. Increases the stronghold's towers attack by 1. Attracts better mercenaries to the castle. Allows upgrading a Fortress in provinces to a Castle. Reduces corruption by 30~.#
+
+191. Elven Quarter 
+#Allows the recruitment of Elves.#
+
+192. Elven Grove
+#Allows hiring the Elven squad guard. Income from forest provinces +2. Gem income +2. Allows the recruitment of Blade Dancer from the contract scrolls.#
+
+193. Elven Theater
+#Improves population mood in all provinces by 1.#
+
+194. Dwarven Quarter
+#Allows the recruitment of Dwarves.#
+
+195. Miners Guild
+#Income from hilly provinces +1. Allows hiring the Dwarven Clan guard.#
+
+196. Dwarven Forge
+#Income +5. Offers dwarven artifacts for sale. Mithril income +10.#
+
+197. Goblin Quarter
+#Allows the recruitment of Goblins. Lowers the population mood in the capital by 1.#
+
+198. Mud
+#Increases income from swamp provinces by 3. Allows the recruitment of Goblin-archers from the contract scrolls.#
+
+199. Goblin Workshop
+#Income +2. Occasionally produces artifacts for sale.#
+
+200. Orcish Quarter
+#Allows the recruitment of Orcs. Allows the recruitment of Bugbears from the contract scrolls. Lowers the population mood in the capital by 1.#
+
+201. Stone Idol
+#Increases gem income by 1. Allows the recruitment of Dreamseers from the contract scrolls. Income from provinces inhabited by Orcs +2.#
+
+202. Banner of the Horde
+#Allows hiring the Horde guard. Generates orc raids on the neighbors, with a portion of the loot going to the ruler.#
+
+203. Halfling Quarter
+#Allows the recruitment of Halflings. Allows hiring Herbalist scrolls (appear in the store.)
+Allows to perform the ritual of Pacification.#
+
+204. Halfling Market
+#Significantly increases population growth in the capital.
+Allows hiring Mule and Bard scrolls (appears in the store). Income from plains provinces +1.#
+
+205. Fair
+#Income +15. Improves population mood in the capital by 1.
+Allows to perform the ritual of Trade Fair.#
+
+206. Centaur Tents
+#Allows the recruitment of Young Centaurs.#
+
+207. Sacred Flame
+#Increases gem income by 3.#
+
+208. Clan Tent
+#Income from provinces inhabited by Centaurs +5. Allows hiring the Centaurs guard.#
+
+209. Lizardmen Quarter
+#Allows the recruitment of Lizardmen. Allows the recruitment of Lizardmen-archers from the contract scrolls.#
+
+210. Bone Totem
+#Increases gem income by 2. Speeds up restoration of unit hit points in the capital by 10~ per turn.#
+
+211. Pool
+#Income from provinces inhabited by Lizardmen +1. Allows hiring the Lizard Guards guard.#
+
+212. Dark Sanctuary
+#Increases gem income by 5.
+Adds to the store 2 phylacteries of Dracolich.
+Provides 2 schematics of the Monument of Darkness.
+Provides 3 contract with the Lord of the Undead guard.#
+
+213. Elven Garrison 
+#Allows hiring of Elven Swordsman and Elven Riders scrolls (appears in the store.)#
+
+214. Elven Grove 
+#Allows the recruitment of Elf Druid scrolls (appears in the store).#
+
+215. Great Tree 
+#Allows hiring of the Elven Mistress scrolls (appears in the store). Allows you to hire Elven army guards. Recruitable in home provinces of elves, where their troops are available for hire at normal prices.#
+
+216. Rune Workshop
+#Allows hiring Rune Blacksmiths, Alchemists and Dwarven Guards scrolls (appear in the store).#
+
+217. Master Halls
+#Allows hiring Runemaster and Dwarven Scorpion contract scrolls (appear in the store).#
+
+218. Great Hall
+#Allows hiring Earthshaker and Colossus contract scrolls (appear in the store). Allows the recruitment of Dwarven Cannons, if you have the proper scroll. Allows you to hire a Dwarven army guards. Recruitable in home provinces of dwarfs, where their troops are available for hire at normal prices.#
+
+219. Goblin Hut 
+#Allows hiring Goblin Shaman and Goblin Hunter scrolls (appears in the store.)#
+
+220. Swampland 
+#Allows hiring Ericubas scrolls (appears in the store) and use the eggs (if found). Allows you to hire Gang of goblins guards. Recritable in home provinces of goblins, where their troops are available for hire at normal prices.#
+
+221. Sorcerer's Chambers 
+#Allows hiring Goblin Sorcerers scrolls (appear in the store.) Allows you to build a Battlemage Garden in swamp provinces.#
+
+222. Orcish Barracks 
+#Allows hiring of Brutes and Wolfriders scrolls (appears in the store.)#
+
+223. Stone Idol 
+#Allows hiring of Dreamwalkers and Warmongers scrolls (appears in the store).#
+
+224. Warcamp 
+#Allows hiring of Chieftains scrolls (appears in the store). Allows you to hire Great Horde guards. Recritable in home provinces of orcs, where their troops are available for hire at normal prices.#
+
+225. Halfling's Suburb 
+#Allows the recruitment of Border Guard scrolls (appears in the store). Allows you to hire Border guard.
+Allows building a Bakery in plains provinces.#
+
+226. Halfling Post
+#Allows the recruitment of Rogue scrolls (appears in the store).
+Allows to perform the ritual of Harvest Festival.
+Recruitable in home provinces of halflings, where their troops are available for hire at normal prices.#
+
+227. Great Forge
+#Income +10. Allows hiring the Mechanicals guard.
+Allows upgrading a Mine in provinces to a Dwarven Mine. Allows upgrading a Mine in provinces with crystal to a Crystal Mine.#
+
+228. Centaur Camp 
+#Allows hiring Centaurs and Centaur Warriors scrolls (appears in the store.)#
+
+229. Sacred Flame 
+#Allows hiring Spirit Talkers scrolls (appears in the store).#
+
+230. Centaur Stables 
+#Allows hiring Centaur Chieftains from the contract scrolls (appear in the store). Allows you to hire Tribe of Centaurs guards. Recruitable in home provinces of centaurs, where their troops are available for hire at normal prices.#
+
+231. Eternal Spring 
+#Allows hiring Lizardman Champions scrolls (appear in the store.)#
+
+232. Bone Idol
+#Allows you to hire Lizardman Sentinels and Lizardman Shamans scrolls (appear in the store.)#
+
+233. Temple of Strength 
+#Allows hiring Lizardman-Warlocks from the contract scrolls (appear in the store). Allows you to hire Lizardmen army guards. Recruitable in home provinces of lizardmen, where their troops are available for hire at normal prices.#
+
+234. Shining Palace
+#Increases gem income by 5.
+Adds to the store 2 seraphim holy relics.
+Provides 2 schematics of the Monument of Light.
+Gives 3 contracts with the Avatar of Light guardian.#
+
+235. Heart of Abyss
+#Increases gem income by 5.
+Adds to the store 2 cursed relics of Acheron.
+Provides 2 schematics of the Monument of Chaos.
+Allows you to perform rituals Gates of Chaos and the Gate of Abyss.#
+
+236. Altar of Prime Elements
+#Increases gem income by 5.
+Adds to the store 2 Elemental contracts.
+Provides 2 schematics of the Monument of Elements.
+Gives 3 contracts with the Elementals guardian.#
+
+237. Magic Academy
+#Increases gem income by 5.
+Adds to the store 2 Faerie Dragon eggs.
+Provides 2 schematics of the Monument of Magic.
+Gives 3 contracts with the Faerie Dragon guardian.#
+
+238. Psion Castle
+#Increases gem income by 5.
+Adds to the store 2 Psion contracts.
+Provides 2 schematics of the Monument of Sorcery.
+Gives 3 contracts with the Lord of Phantoms guardian.#
+
+239. Reliquary
+#Yields 15 gems per turn. Allow heroes to acquire rare magical items. Allows you to hire Dragons if their eggs are present in the treasury.
+Reduces the gem upkeep of garrison units by 25~.#
+
+240. Trappers Guild
+#Allows the recruitment of Medusas and Wyverns, if their eggs are present in the treasury. Reduces the upkeep of garrison units by 10~.#
+
+241. Gaming House
+#Increases gold income by 1~. Opens a casino in the capital.#
+
+242. Epic Carpenter
+#Type: Sells enchanted items
+Allows heroes to purchase the following items (only one of each): Spear of Destiny, Renver's Arrows, Long-range Crossbow.
+The castle can only have one building of this type.#
+
+243. Epic Enchanter
+#Type: Sells enchanted items
+Allows heroes to purchase the following items (only one of each): Moon Staff, Emissary's Scepter, Dark Flame.
+The castle can only have one building of this type.#
+
+244. Epic Jeweler
+#Type: Sells enchanted items
+Allows heroes to purchase the following items (only one of each): Messengers's Bracelet, Poison ring, Ardent Heart.
+The castle can only have one building of this type.#
+
+245. Epic Tanner
+#Type: Sells enchanted items
+Allows heroes to purchase the following items (only one of each): Boots of Speed, Offender's Mask, Alvari Jacket.
+The castle can only have one building of this type.#
+
+246. Epic Mailmaker
+#Type: Sells enchanted items
+Allows heroes to purchase the following items (only one of each): Helmet of Madness, Ethereal Feet, Holy Chainmail.
+The castle can only have one building of this type.#
+
+247. Epic Platemaker
+#Type: Sells enchanted items
+Allows heroes to purchase the following items (only one of each): Flaming Chestplate, Romulan's Bloodsquashers, Executioner's Mittens.
+The castle can only have one building of this type.#
+
+248. Epic Tailor
+#Type: Sells enchanted items
+Allows heroes to purchase the following items (only one of each): Banner of the Dead, Sorcerer's Cloak, Magister's Mantle.
+The castle can only have one building of this type.#
+
+249. Epic Weaponsmith
+#Type: Sells enchanted items
+Allows heroes to purchase the following items (only one of each): Sword of the Immortals, Spiked Shield, Flaming Axe.
+The castle can only have one building of this type.#
+
+250. Gambling House
+#Increases gold income by 2~. Increases gem income by 1. Opens in a tribal province of the gaming house.#
+
+251. Kobold Cages
+#Allows you to hire Kobold Slaves from contract scrolls (appear in the store).#
+
+252. Slaveholders Guild
+#Allows you to hire Slavedrivers from contract scrolls (appear in the store).
+Lowers the population mood in the capital by 1.#
+
+253. Alvari War School
+#Allows you to hire Blood Butterflies from contract scrolls (appear in the store).
+Allows recruitment of the Black Band guard.#
+
+254. Scout Camp
+#Allows recruitment of the Nightshades guard.
+Slows unrest growth in the capital.#
+
+255. Dark Path
+#Yields 3 gems per turn. Provides 1 building schematic of the Sacrificial Altar.
+Allows to perform the ritual of Summon Kobolds.#
+
+256. Hunter Stronghold
+#Income +5.
+Allows you to hire Nocturnal Hunters from contract scrolls (appear in the store).#
+
+257. Temple of Shadows
+#Allows you to hire Dark Priestesses from contract scrolls (appear in the store).
+Allows hiring the Twilight Initiates guard.#
+
+258. Tower of Shadows
+#Yields 5 gems per turn.
+Allows you to hire Darkness Cravers from contract scrolls (appear in the store).
+Reduces the population growth in the capital by 1.#
+
+259. Citadel of Shadows
+#Allows you to hire Darkness Chosen from contract scrolls (appear in the store).
+Allows you to hire an Army of Darkness guard. Recruitable in home provinces of the Alvari, where their troops are available for hire at normal prices.#
+
+260. Academy of Darkness
+#Lowers the population mood in the capital by 1. Slows unrest growth in the capital.
+Allows you to hire Darkness Guards from contract scrolls (appear in the store).#
+
+261. Heart of the Night
+#Places a single Beholder egg in the store. Allows the recruitment of Illithids, if you have the proper scroll.#
+
+262. Altar of Death
+#Lowers the population mood in the capital by 1.
+Allows to perform the ritual of Call of Darkness.
+Adds Altar of Death to capital.#
+
+263. Handler's Guild
+#Allows you to hire Manticores if you have their eggs in the treasury. Allows the recruitment of Rat Reapers and Lycans, if you have the proper scroll. Increases income from swamp provinces by 1. Reduces the upkeep of garrison units by 5~.#
+
+264. Gnoll's Quarters
+#Allows you to hire Gnoll. Lowers the population mood in the capital by 1. Reduces the population growth in the capital by 1. Allows to perform the ritual of Gathering of the Pack.#
+
+265. Gnoll's Pyramid 
+#Allows you to hire Gnoll Sergeants with contract scrolls (appear in the store) and by Gathering the Pack.
+Allows you to hire Gnoll gang guards.
+Slows unrest growth in the capital.#
+
+266. Hunter's Tent
+#Allows you to hire Gnoll Archers with contract scrolls (appear in the store) and by Gathering the Pack.
+Allows you to build Gnoll Outpost in the provinces.#
+
+267. Slaver's Pen
+#Income +5.
+Allows you to hire Gnoll siege machine from the contract scrolls (appear in the store).
+Lowers the population mood in the capital by 1.#
+
+268. Great Pyramid
+#Allows you to hire Gnoll Chieftain with contract scrolls (appear in the store) and by Gathering the Pack.
+Allows you to hire Gnoll Horde guards.
+Recruitable in home provinces of gnolls, where their troops are available for hire at normal prices.#
+
+269. Dark Brotherhood
+#Lowers the population mood in the capital by 1.
+Allows you to perform rituals Target of Brotherhood and Bloody Hand.#
+
+270. Templar Order
+#Improves population mood in the capital by 1.
+Detachment of Templar soldiers periodically conducts raids on monsters and witches.#
+
+271. Fighter's Guild
+#Allows you to hire Duellists from the contract scrolls (appear in the store). Speeds up the arrival of new Mercenaries. Provides gold whenever units are disbanded while in castle garrisons.#
+
+272. Alkari Quarter
+#Allows the recruitment of Icari - Alkari warriors. Allows to perform the ritual of Summon Icarus.#
+
+273. White Tower
+#Allows you to hire Luminaries and Stalkers from contract scrolls (appear in the store). Allows hiring the Combat Wing guard.#
+
+274. Celestial Eye
+#Allows you to hire Witnesses from contract scrolls (appear in the store). Improves population mood in the capital by 1. Reduces corruption by 5~.#
+
+275. Crystal Pillars
+#Allows the recruitment of Eternal Mentors from contract scrolls (appear in the store). Allows hiring the Celestial Squadron guard. Income from provinces inhabited by Alkari +2.
+Recruitable in home provinces of Alkari, where their troops are available for hire at normal prices.#
+
+276. Mentorium
+#Allows you to hire Memory Keepers from contract scrolls (appear in the store). Speeds up restoration of unit hit points in the capital by 10~ per turn.#
+
+277. Shining Spire
+#Allows the recruitment of Arisen Luminaries from contract scrolls (appear in the store). Reduces the cost of hero resurrection and the performing of rituals by 10~.#
+
+278. Driller Guild
+#Type: Basic Ratman buildings.
+Allows the recruitment of Ratmen. Allows you to hire Drillers from contract scrolls (appear in the store).
+Gold and gem income from provinces inhabited by Ratmen +1.
+The castle can only have one building of this type.#
+
+279. Seekers Clan Temple
+#Type: Basic Ratman buildings.
+Yields 1 gem per turn.
+Allows the recruitment of Ratmen. Allows you to recruit Warriors of Decay from contract scrolls (appear in the store).
+The castle can only have one building of this type.#
+
+280. Skirr Clan Factory
+#Type: Advanced Ratman buildings.
+Allows you to hire Lightning Cannons from contract scrolls (appear in the store). Allows hiring the Drillers guard.
+Allows the recruitment of Shadow Claws, if you have the proper scroll.#
+
+281. Plague Factory
+#Type: Advanced Ratman buildings.
+Allows you to hire Plague Shooters from contract scrolls (appear in the store). Allows hiring the Ratman Pack guard.
+Allows the recruitment of Shadow Claws, if you have the proper scroll.#
+
+282. Seeker Laboratory
+#Allows you to hire Ratclaws from contract scrolls (appear in the store).
+Allows the recruitment of Rat Reapers, Rippers and Masters of Decay, if you have the proper scroll.#
+
+283. Grand Ratt Altar
+#Allows you to hire Rat Kings from contract scrolls (appear in the store). Allows hiring the Rat King guard.
+Yields 5 gems per turn. Lowers the population mood in the capital by 1.#

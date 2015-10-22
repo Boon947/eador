@@ -1,0 +1,131 @@
+Quantity: 43
+
+0. Right-click
+#You can view unit and hero statistics along with other game details by right-clicking on their corresponding icon.#
+
+1. Experience
+#The more actively the unit participates in a battle, the more experience he gains. Summoned creatures don't get any experience at the end of a battle, regardless of their actions in it.#
+
+2. Deterioration
+#Heroes' equipment deteriorates with use - weapons and ammunition during attacks, armor when taking damage.#
+
+3. Burial
+#If you don't have enough money to resurrect your hero, you can bury him. This will bring down the price of a new hero.#
+
+4. Garrison
+#Always keep at least one unit in the garrison of your personal stronghold. This will prevent the enemy from immediately conquering your capital with a sudden attack.#
+
+5. Stamina
+#Attack and counterattack cost one stamina point. If the unit moved and attacked during his turn, he loses two stamina points. In addition, stamina is spent to cross hills and swamps.#
+
+6. Speed
+#If a negative effect reduces the unit's Speed to 0, he can still move, but each step will cost him one stamina point.#
+
+7. Alignment
+#Being combined in a single army reduces Morale of the units of opposite alignment. In addition, if the units' alignment is very different from yours, they too will suffer a Morale penalty.#
+
+8. Resource
+#If you have access to a certain resource, you won't have to pay for it even if the unit or building construction require more than one instance of this resource.#
+
+9. Resource Prices
+#Resource prices remain the same for every ruler. The resource price goes up every time that resource is bought. To be able to buy resources at lower prices, you need to construct special buildings (such as Market, Alchemists Guild, and so on).#
+
+10. Supplies
+#It's best to have a permanent reserve of gold and gems in case of an emergency.#
+
+11. Screenshots
+#Press F1 to take a game screenshot. All screenshots are automatically saved in the «Screens» folder.#
+
+12. Shipyards
+#Be careful when sending your hero on a sea voyage. Remember, he will need a shipyard to make a return trip.#
+
+13. Unrest
+#Unrest increases at a rate determined by the race inhabiting the province, the population mood, and level of the province.#
+
+14. Forgetfulness
+#Over time, the population forgets the good and the evil deeds performed by the ruler.#
+
+15. Quests
+#Heroes can be given certain tasks in the Temple of Light and some trading stores.#
+
+16. Allies
+#In order to build an Allies' Quarter, you have to form an alliance with one of the non-human races. You need to negotiate with the representatives of this race inhabiting a neutral province to accomplish that.#
+
+17. Corruption
+#The more provinces you have, the higher the corruption level is. Dwarves, Goblins, Ratmen and Alvar are the most corrupt races. Centaur and Alkari provinces have no impact on corruption.#
+
+18. Exploration
+#If the province population is not increasing due to the lack of explored lands, the level of province exploration is displayed in red.#
+
+19. Siege
+#You cannot hire units in a castle under siege. If your stronghold is under siege, you cannot hire heroes or build new buildings.#
+
+20. Terrain type
+#The terrain type of a province determines its income. Plains yield a lot of gold but little gems. Swamps are rich in gems and poor in gold. In addition, the terrain type determines province exploration speed. On plains, exploration is the fastest. Exploring forests and swamps takes a lot more time.#
+
+21. Hotkeys
+#Hotkeys allow you to speed up the game considerably. Press C to enter your stronghold, N to select next hero, or E to end your turn.#
+
+22. Hotkeys, combat
+#In combat, virtually any hero's ability can be activated by pressing hotkeys. For instance, you can activate and cancel healing by pressing H or cast a spell by pressing S. Hotkey information is shown in button tooltips.#
+
+23. Melee
+#To order your ranged unit to attack an enemy in melee, Ctrl-click on the enemy unit. Or, move your unit next to the enemy unit first, then attack.#
+
+24. Merchants
+#Neutral stores have much higher prices for buying and repairing items than your shops do.#
+
+25. Material Components
+#Complicated rituals require rare resources as material components. If you don't have the required resources, performing such rituals may lead to enormous expenses. Buildings that decrease the cost of performing rituals only decrease their base cost, not the price of the resources required.#
+
+26. Neighbors
+#If your province neighbors barbarian lands, undead lands, or lands of Chaos, it is very likely to be eventually attacked. Goblins, orcs, dark elves, ratman, harpies, brigands, giants and trolls from the neighboring territories can also attack you. However, they are less dangerous, as they are content with plunder alone, leaving the looted province under your rule still.#
+
+27. Specialization
+#In order to be able to increase his skill mastery to level 5, the hero must select the profession he already has as his second profession. If the hero selects a new profession, he can learn new skills that can only be upgraded up to level 3.#
+
+28. Exhaustion
+#If a unit performs an action that exceeds his stamina in combat, exhaustion will cause his morale to drop.#
+
+29. Siege 2
+#Units besieging a castle do not regenerate hit points. The only exception are units possessing First Aid or Regeneration skills and armies that have a healer. During a siege, the besiegers' morale gradually decreases.#
+
+30. Resistance
+#When casting a spell on an enemy unit, keep in mind their resistance lowers spell duration. If enemy resistance equals or exceeds spell duration, the spell will fail. The sorcerer's Thaumaturgy skill makes it possible to negate enemy resistance.#
+
+32. Website
+#If you have any questions concerning the game, you can ask them in the forum at the official game website. 
+Website: www.eador.com#
+
+33. Treasury
+#If you find an item your hero can't use, you can store it in the Treasury to pass on to a new hero of another class in the future.#
+
+34. Identical items
+#If you want to hire several identical warriors, learn identical spells, or buy identical items, you can do so by pressing the Ctrl key. That way you won't have to select the same object several times.#
+
+35. Hero hotkeys
+#You can use hotkeys for quick hero selection on the game map. Press 1 to select the first hero you hired, press 2 to select the second one, and so on. You can also switch between heroes using the N key or spacebar. The Enter key centers the map on the selected hero or province.#
+
+36. Restoration
+#Units stationed in garrisons restore their hit points faster.#
+
+37. Bribery
+#You can't bribe a guard if there is a hero in the province.#
+
+38. Province List
+#You can open the province list window from the main game window by pressing P.#
+
+39. Profile
+#You can start a new mission or campaign without deleting the old one by creating a new player profile in the main menu.#
+
+40. Difficulty
+#The game difficulty level determines the initial amount and yield of resources, the strength of neutral armies, the experience received by heroes in combat, the amount of gold and gems found in treasure chests, and the corruption growth rate.#
+
+41. Auto-combat
+#Press F10 to start quick combat. Press F11 to start an auto-combat (with an option to cancel it). Press Ctrl-F10 or Ctrl-F11 to limit spell use for your hero in auto-combat.#
+
+42. Locations
+#The longer a hero explores a province, the less territory is revealed per turn. However, the least accessible areas hide more locations containing even more valuable treasures. After the province is fully explored, the income it yields increases.#
+
+43. Hidden locations
+#If a gold-producing building in a province fails to increase its income by the amount stated in the building description, there is likely an income-decreasing location in the area. It may be located on unexplored territory.#

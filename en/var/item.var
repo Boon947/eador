@@ -1,0 +1,17214 @@
+Quantity: 704
+
+/0
+Name: Empty;
+Slot: 0
+Class: 0
+Durability: 0
+GoldCost: 0
+GemCost: 0
+ShopLevel: 0
+Rarity: 0
+Building: 0
+Pic: 0
+Resourse: (0)
+Effects:
+
+Effect: 0
+Power: 0
+Area: 0;
+
+/1
+Name: Knife;
+Slot: 2
+Class: 0
+Durability: 20
+GoldCost: 5
+GemCost: 0
+ShopLevel: 1
+Rarity: 1
+Building: 37
+Pic: 317
+Resourse: (1)
+Effects:
+
+Parry: 53
+Power: 1
+Area: 0
+
+CounterAttack: 3
+Power: 1
+Area: 0
+
+AimedStrike: 76
+Power: 1
+Area: 0;
+
+/2
+Name: Dagger;
+Slot: 2
+Class: 0
+Durability: 25
+GoldCost: 20
+GemCost: 0
+ShopLevel: 2
+Rarity: 1
+Building: 93
+Pic: 318
+Resourse: (1)
+Effects:
+
+Parry: 53
+Power: 2
+Area: 0
+
+CounterAttack: 3
+Power: 2
+Area: 0
+
+AimedStrike: 76
+Power: 1
+Area: 0;
+
+/3
+Name: Stiletto;
+Slot: 2
+Class: 0
+Durability: 30
+GoldCost: 70
+GemCost: 0
+ShopLevel: 3
+Rarity: 1
+Building: 145
+Pic: 319
+Resourse: (1)
+Effects:
+
+Parry: 53
+Power: 2
+Area: 0
+
+CounterAttack: 3
+Power: 3
+Area: 0
+
+AimedStrike: 76
+Power: 2
+Area: 0;
+
+/4
+Name: Cutlass;
+Slot: 2
+Class: 0
+Durability: 30
+GoldCost: 90
+GemCost: 0
+ShopLevel: 4
+Rarity: 1
+Building: 186
+Pic: 320
+Resourse: (1)
+Effects:
+
+Parry: 53
+Power: 3
+Area: 0
+
+CounterAttack: 3
+Power: 3
+Area: 0
+
+AimedStrike: 76
+Power: 3
+Area: 0;
+
+/5
+Name: Short Staff;
+Slot: 100
+Class: 0
+Durability: 40
+GoldCost: 10
+GemCost: 0
+ShopLevel: 1
+Rarity: 1
+Building: 35
+Pic: 291
+Resourse: (2)
+Effects:
+
+Attack: 2
+Power: 1
+Area: 0
+
+CounterAttack: 3
+Power: 2
+Area: 0
+
+Stamina: 11
+Power: 2
+Area: 0
+
+CastStamina: 161
+Power: 1
+Area: 0;
+
+/6
+Name: Traveling Staff;
+Slot: 100
+Class: 0
+Durability: 40
+GoldCost: 40
+GemCost: 0
+ShopLevel: 2
+Rarity: 1
+Building: 93
+Pic: 292
+Resourse: (2)
+Effects:
+
+Attack: 2
+Power: 1
+Area: 0
+
+CounterAttack: 3
+Power: 3
+Area: 0
+
+Stamina: 11
+Power: 4
+Area: 0
+
+CastStamina: 161
+Power: 1
+Area: 0;
+
+/7
+Name: Long Staff;
+Slot: 100
+Class: 0
+Durability: 60
+GoldCost: 80
+GemCost: 0
+ShopLevel: 3
+Rarity: 1
+Building: 145
+Pic: 293
+Resourse: (2)
+Effects:
+
+Attack: 2
+Power: 2
+Area: 0
+
+CounterAttack: 3
+Power: 3
+Area: 0
+
+Stamina: 11
+Power: 4
+Area: 0
+
+CastStamina: 161
+Power: 2
+Area: 0;
+
+/8
+Name: Battle Staff;
+Slot: 100
+Class: 0
+Durability: 60
+GoldCost: 140
+GemCost: 0
+ShopLevel: 4
+Rarity: 1
+Building: 186
+Pic: 294
+Resourse: (2)
+Effects:
+
+Attack: 2
+Power: 3
+Area: 0
+
+CounterAttack: 3
+Power: 4
+Area: 0
+
+Parry: 53
+Power: 3
+Area: 0
+
+Stamina: 11
+Power: 5
+Area: 0
+
+CastStamina: 161
+Power: 1
+Area: 0;
+
+/9
+Name: Shortsword;
+Slot: 1
+Class: 1
+Durability: 40
+GoldCost: 15
+GemCost: 0
+ShopLevel: 1
+Rarity: 1
+Building: 2
+Pic: 341
+Resourse: (1)
+Effects:
+
+Attack: 2
+Power: 2
+Area: 0
+
+CounterAttack: 3
+Power: 2
+Area: 0;
+
+/10
+Name: Saber;
+Slot: 1
+Class: 1
+Durability: 50
+GoldCost: 40
+GemCost: 0
+ShopLevel: 2
+Rarity: 1
+Building: 89
+Pic: 342
+Resourse: (1)
+Effects:
+
+Attack: 2
+Power: 3
+Area: 0
+
+CounterAttack: 3
+Power: 2
+Area: 0;
+
+/11
+Name: Longsword;
+Slot: 1
+Class: 1
+Durability: 50
+GoldCost: 90
+GemCost: 0
+ShopLevel: 3
+Rarity: 1
+Building: 141
+Pic: 343
+Resourse: (1)
+Effects:
+
+Attack: 2
+Power: 3
+Area: 0
+
+CounterAttack: 3
+Power: 3
+Area: 0;
+
+/12
+Name: Broadsword;
+Slot: 1
+Class: 1
+Durability: 50
+GoldCost: 170
+GemCost: 0
+ShopLevel: 4
+Rarity: 1
+Building: 182
+Pic: 344
+Resourse: (1)
+Effects:
+
+Attack: 2
+Power: 4
+Area: 0
+
+CounterAttack: 3
+Power: 4
+Area: 0;
+
+/13
+Name: Hand Axe;
+Slot: 1
+Class: 1
+Durability: 40
+GoldCost: 20
+GemCost: 0
+ShopLevel: 1
+Rarity: 1
+Building: 2
+Pic: 0
+Resourse: (1)
+Effects:
+
+Attack: 2
+Power: 3
+Area: 0
+
+CounterAttack: 3
+Power: 1
+Area: 0;
+
+/14
+Name: Poleaxe;
+Slot: 1
+Class: 1
+Durability: 50
+GoldCost: 50
+GemCost: 0
+ShopLevel: 2
+Rarity: 1
+Building: 89
+Pic: 1
+Resourse: (1)
+Effects:
+
+Attack: 2
+Power: 4
+Area: 0
+
+CounterAttack: 3
+Power: 1
+Area: 0;
+
+/15
+Name: Battle Axe;
+Slot: 1
+Class: 1
+Durability: 60
+GoldCost: 100
+GemCost: 0
+ShopLevel: 3
+Rarity: 1
+Building: 141
+Pic: 2
+Resourse: (1)
+Effects:
+
+Attack: 2
+Power: 5
+Area: 0
+
+CounterAttack: 3
+Power: 1
+Area: 0;
+
+/16
+Name: Battle Poleaxe;
+Slot: 1
+Class: 2
+Durability: 70
+GoldCost: 190
+GemCost: 0
+ShopLevel: 4
+Rarity: 1
+Building: 182
+Pic: 3
+Resourse: (1)
+Effects:
+
+Attack: 2
+Power: 6
+Area: 0
+
+CounterAttack: 3
+Power: 2
+Area: 0;
+
+/17
+Name: Short Spear;
+Slot: 1
+Class: 1
+Durability: 30
+GoldCost: 10
+GemCost: 0
+ShopLevel: 1
+Rarity: 1
+Building: 1
+Pic: 12
+Resourse: (2)
+Effects:
+
+Attack: 2
+Power: 1
+Area: 0
+
+CounterAttack: 3
+Power: 3
+Area: 0;
+
+/18
+Name: Long Spear;
+Slot: 1
+Class: 1
+Durability: 40
+GoldCost: 30
+GemCost: 0
+ShopLevel: 2
+Rarity: 1
+Building: 90
+Pic: 13
+Resourse: (1, 2)
+Effects:
+
+Attack: 2
+Power: 1
+Area: 0
+
+CounterAttack: 3
+Power: 4
+Area: 0;
+
+/19
+Name: Partisan;
+Slot: 100
+Class: 1
+Durability: 45
+GoldCost: 120
+GemCost: 0
+ShopLevel: 3
+Rarity: 1
+Building: 142
+Pic: 14
+Resourse: (1, 2)
+Effects:
+
+First_strike: 16
+Power: 1
+Area: 0
+
+Attack: 2
+Power: 3
+Area: 0
+
+CounterAttack: 3
+Power: 5
+Area: 0;
+
+/20
+Name: Halberd;
+Slot: 100
+Class: 1
+Durability: 50
+GoldCost: 190
+GemCost: 0
+ShopLevel: 4
+Rarity: 1
+Building: 183
+Pic: 15
+Resourse: (1, 2)
+Effects:
+
+First_strike: 16
+Power: 1
+Area: 0
+
+Attack: 2
+Power: 4
+Area: 0
+
+CounterAttack: 3
+Power: 6
+Area: 0;
+
+/21
+Name: Cudgel;
+Slot: 1
+Class: 1
+Durability: 25
+GoldCost: 15
+GemCost: 0
+ShopLevel: 1
+Rarity: 1
+Building: 37
+Pic: 353
+Resourse: (2)
+Effects:
+
+Stun: 40
+Power: 1
+Area: 0
+
+Attack: 2
+Power: 2
+Area: 0
+
+CounterAttack: 3
+Power: 1
+Area: 0;
+
+/22
+Name: Mace;
+Slot: 1
+Class: 1
+Durability: 30
+GoldCost: 40
+GemCost: 0
+ShopLevel: 2
+Rarity: 1
+Building: 89
+Pic: 354
+Resourse: (1)
+Effects:
+
+Stun: 40
+Power: 1
+Area: 0
+
+Attack: 2
+Power: 2
+Area: 0
+
+CounterAttack: 3
+Power: 2
+Area: 0;
+
+/23
+Name: Hammer;
+Slot: 1
+Class: 2
+Durability: 35
+GoldCost: 90
+GemCost: 0
+ShopLevel: 3
+Rarity: 1
+Building: 141
+Pic: 355
+Resourse: (1)
+Effects:
+
+Stun: 40
+Power: 2
+Area: 0
+
+Attack: 2
+Power: 3
+Area: 0
+
+CounterAttack: 3
+Power: 2
+Area: 0;
+
+/24
+Name: Flanged Mace;
+Slot: 1
+Class: 2
+Durability: 40
+GoldCost: 250
+GemCost: 0
+ShopLevel: 4
+Rarity: 1
+Building: 182
+Pic: 356
+Resourse: (1)
+Effects:
+
+Stun: 40
+Power: 2
+Area: 0
+
+Attack: 2
+Power: 4
+Area: 0
+
+CounterAttack: 3
+Power: 3
+Area: 0;
+
+/25
+Name: Bastard Sword;
+Slot: 100
+Class: 2
+Durability: 70
+GoldCost: 80
+GemCost: 0
+ShopLevel: 2
+Rarity: 1
+Building: 89
+Pic: 11
+Resourse: (1, 1)
+Effects:
+
+Attack: 2
+Power: 6
+Area: 0
+
+CounterAttack: 3
+Power: 4
+Area: 0;
+
+/26
+Name: Two-Handed Sword;
+Slot: 100
+Class: 2
+Durability: 80
+GoldCost: 120
+GemCost: 0
+ShopLevel: 3
+Rarity: 1
+Building: 141
+Pic: 377
+Resourse: (1, 1)
+Effects:
+
+Attack: 2
+Power: 7
+Area: 0
+
+CounterAttack: 3
+Power: 5
+Area: 0;
+
+/27
+Name: Claymore;
+Slot: 100
+Class: 2
+Durability: 90
+GoldCost: 200
+GemCost: 0
+ShopLevel: 4
+Rarity: 1
+Building: 182
+Pic: 378
+Resourse: (1, 1)
+Effects:
+
+Attack: 2
+Power: 8
+Area: 0
+
+CounterAttack: 3
+Power: 6
+Area: 0;
+
+/28
+Name: Flamberge;
+Slot: 100
+Class: 2
+Durability: 70
+GoldCost: 350
+GemCost: 0
+ShopLevel: 4
+Rarity: 2
+Building: 0
+Pic: 379
+Resourse: (1, 7)
+Effects:
+
+Attack: 2
+Power: 6
+Area: 0
+
+CounterAttack: 3
+Power: 5
+Area: 0
+
+Bleeding: 208
+Power: 2
+Area: 0;
+
+/29
+Name: Short Bow;
+Slot: 1
+Class: 3
+Durability: 30
+GoldCost: 20
+GemCost: 0
+ShopLevel: 1
+Rarity: 1
+Building: 0
+Pic: 364
+Resourse: (2)
+Effects:
+
+RangedAttack: 8
+Power: 5
+Area: 0
+
+ShootingRange: 9
+Power: 5
+Area: 0
+
+Ammo: 10
+Power: 4
+Area: 0;
+
+/30
+Name: Hunting Bow;
+Slot: 1
+Class: 3
+Durability: 40
+GoldCost: 40
+GemCost: 0
+ShopLevel: 2
+Rarity: 1
+Building: 90
+Pic: 365
+Resourse: (2)
+Effects:
+
+RangedAttack: 8
+Power: 6
+Area: 0
+
+ShootingRange: 9
+Power: 5
+Area: 0
+
+Ammo: 10
+Power: 4
+Area: 0;
+
+/31
+Name: Long Bow;
+Slot: 1
+Class: 3
+Durability: 50
+GoldCost: 100
+GemCost: 0
+ShopLevel: 3
+Rarity: 1
+Building: 142
+Pic: 366
+Resourse: (2)
+Effects:
+
+RangedAttack: 8
+Power: 6
+Area: 0
+
+ShootingRange: 9
+Power: 6
+Area: 0
+
+Ammo: 10
+Power: 4
+Area: 0;
+
+/32
+Name: Composite Bow;
+Slot: 1
+Class: 3
+Durability: 60
+GoldCost: 170
+GemCost: 0
+ShopLevel: 4
+Rarity: 1
+Building: 183
+Pic: 367
+Resourse: (2)
+Effects:
+
+RangedAttack: 8
+Power: 7
+Area: 0
+
+ShootingRange: 9
+Power: 6
+Area: 0
+
+Ammo: 10
+Power: 4
+Area: 0;
+
+/33
+Name: Hand Crossbow;
+Slot: 1
+Class: 3
+Durability: 30
+GoldCost: 30
+GemCost: 0
+ShopLevel: 1
+Rarity: 1
+Building: 37
+Pic: 387
+Resourse: (1, 2)
+Effects:
+
+RangedAttack: 8
+Power: 5
+Area: 0
+
+ShootingRange: 9
+Power: 4
+Area: 0
+
+Ammo: 10
+Power: 4
+Area: 0
+
+Piercing_shot: 17
+Power: 1
+Area: 0;
+
+/34
+Name: Light Crossbow;
+Slot: 1
+Class: 3
+Durability: 40
+GoldCost: 60
+GemCost: 0
+ShopLevel: 2
+Rarity: 1
+Building: 90
+Pic: 388
+Resourse: (1, 2)
+Effects:
+
+RangedAttack: 8
+Power: 6
+Area: 0
+
+ShootingRange: 9
+Power: 4
+Area: 0
+
+Ammo: 10
+Power: 4
+Area: 0
+
+Piercing_shot: 17
+Power: 1
+Area: 0;
+
+/35
+Name: Heavy Crossbow;
+Slot: 1
+Class: 3
+Durability: 50
+GoldCost: 150
+GemCost: 0
+ShopLevel: 3
+Rarity: 1
+Building: 142
+Pic: 389
+Resourse: (1, 2)
+Effects:
+
+RangedAttack: 8
+Power: 6
+Area: 0
+
+ShootingRange: 9
+Power: 5
+Area: 0
+
+Ammo: 10
+Power: 4
+Area: 0
+
+Piercing_shot: 17
+Power: 1
+Area: 0;
+
+/36
+Name: Guards Crossbow;
+Slot: 1
+Class: 3
+Durability: 60
+GoldCost: 220
+GemCost: 0
+ShopLevel: 4
+Rarity: 1
+Building: 183
+Pic: 390
+Resourse: (1, 2)
+Effects:
+
+RangedAttack: 8
+Power: 7
+Area: 0
+
+ShootingRange: 9
+Power: 5
+Area: 0
+
+Ammo: 10
+Power: 4
+Area: 0
+
+Piercing_shot: 17
+Power: 1
+Area: 0;
+
+/37
+Name: Simple Wand;
+Slot: 1
+Class: 4
+Durability: 20
+GoldCost: 20
+GemCost: 1
+ShopLevel: 1
+Rarity: 1
+Building: 35
+Pic: 253
+Resourse: (0)
+Effects:
+
+RangeAttack: 8
+Power: 4
+Area: 0
+
+Range: 9
+Power: 4
+Area: 0
+
+Ammo: 10
+Power: 4
+Area: 0
+
+Magic_shot: 28
+Power: 1
+Area: 0;
+
+/38
+Name: Shaman's Wand;
+Slot: 1
+Class: 4
+Durability: 30
+GoldCost: 40
+GemCost: 2
+ShopLevel: 2
+Rarity: 1
+Building: 93
+Pic: 254
+Resourse: (4)
+Effects:
+
+RangeAttack: 8
+Power: 5
+Area: 0
+
+Range: 9
+Power: 4
+Area: 0
+
+Ammo: 10
+Power: 4
+Area: 0
+
+Magic_shot: 28
+Power: 1
+Area: 0;
+
+/39
+Name: Sorcerer's Wand;
+Slot: 1
+Class: 4
+Durability: 35
+GoldCost: 80
+GemCost: 5
+ShopLevel: 3
+Rarity: 1
+Building: 145
+Pic: 255
+Resourse: (4)
+Effects:
+
+RangeAttack: 8
+Power: 6
+Area: 0
+
+Range: 9
+Power: 4
+Area: 0
+
+Ammo: 10
+Power: 5
+Area: 0
+
+Magic_shot: 28
+Power: 1
+Area: 0;
+
+/40
+Name: Mage's Wand;
+Slot: 1
+Class: 4
+Durability: 35
+GoldCost: 160
+GemCost: 10
+ShopLevel: 4
+Rarity: 1
+Building: 186
+Pic: 256
+Resourse: (5)
+Effects:
+
+RangeAttack: 8
+Power: 7
+Area: 0
+
+Range: 9
+Power: 5
+Area: 0
+
+Ammo: 10
+Power: 5
+Area: 0
+
+Magic_shot: 28
+Power: 1
+Area: 0;
+
+/41
+Name: Buckler;
+Slot: 2
+Class: 9
+Durability: 30
+GoldCost: 15
+GemCost: 0
+ShopLevel: 1
+Rarity: 1
+Building: 2
+Pic: 329
+Resourse: (1)
+Effects:
+
+Defence: 4
+Power: 1
+Area: 0;
+
+/42
+Name: Wooden Shield;
+Slot: 2
+Class: 9
+Durability: 30
+GoldCost: 10
+GemCost: 0
+ShopLevel: 1
+Rarity: 1
+Building: 1
+Pic: 328
+Resourse: (2)
+Effects:
+
+RangedDefence: 5
+Power: 1
+Area: 0;
+
+/43
+Name: Round Shield;
+Slot: 2
+Class: 9
+Durability: 40
+GoldCost: 30
+GemCost: 0
+ShopLevel: 2
+Rarity: 1
+Building: 89
+Pic: 330
+Resourse: (1)
+Effects:
+
+Defence: 4
+Power: 1
+Area: 0
+
+RangedDefence: 5
+Power: 1
+Area: 0;
+
+/44
+Name: Infantry Shield;
+Slot: 2
+Class: 9
+Durability: 50
+GoldCost: 60
+GemCost: 0
+ShopLevel: 3
+Rarity: 1
+Building: 141
+Pic: 331
+Resourse: (1, 2)
+Effects:
+
+Defence: 4
+Power: 2
+Area: 0
+
+RangedDefence: 5
+Power: 2
+Area: 0;
+
+/45
+Name: Knight's Shield;
+Slot: 2
+Class: 9
+Durability: 60
+GoldCost: 130
+GemCost: 0
+ShopLevel: 4
+Rarity: 1
+Building: 182
+Pic: 332
+Resourse: (1, 2)
+Effects:
+
+Defence: 4
+Power: 2
+Area: 0
+
+RangedDefence: 5
+Power: 3
+Area: 0;
+
+/46
+Name: Common Arrows;
+Slot: 2
+Class: 3
+Durability: 15
+GoldCost: 10
+GemCost: 0
+ShopLevel: 1
+Rarity: 1
+Building: 1
+Pic: 264
+Resourse: (0)
+Effects:
+
+RangedAttack: 993
+Power: 1
+Area: 0
+
+Ammo: 10
+Power: 4
+Area: 0;
+
+/47
+Name: Feathered Arrows;
+Slot: 2
+Class: 3
+Durability: 10
+GoldCost: 10
+GemCost: 0
+ShopLevel: 1
+Rarity: 1
+Building: 37
+Pic: 265
+Resourse: (0)
+Effects:
+
+RangedAttack: 993
+Power: 2
+Area: 0
+
+Ammo: 10
+Power: 3
+Area: 0;
+
+/48
+Name: Jagged Arrows;
+Slot: 2
+Class: 3
+Durability: 15
+GoldCost: 20
+GemCost: 0
+ShopLevel: 2
+Rarity: 1
+Building: 90
+Pic: 266
+Resourse: (1)
+Effects:
+
+RangedAttack: 993
+Power: 3
+Area: 0
+
+Ammo: 10
+Power: 3
+Area: 0;
+
+/49
+Name: Heavy Arrows;
+Slot: 2
+Class: 3
+Durability: 20
+GoldCost: 40
+GemCost: 0
+ShopLevel: 3
+Rarity: 1
+Building: 142
+Pic: 267
+Resourse: (1)
+Effects:
+
+RangedAttack: 993
+Power: 3
+Area: 0
+
+Ammo: 10
+Power: 3
+Area: 0
+
+HeavyMissile: 69
+Power: 3
+Area: 0;
+
+/50
+Name: Mithril Arrows;
+Slot: 2
+Class: 3
+Durability: 20
+GoldCost: 80
+GemCost: 0
+ShopLevel: 4
+Rarity: 1
+Building: 183
+Pic: 268
+Resourse: (7)
+Effects:
+
+RangedAttack: 993
+Power: 4
+Area: 0
+
+Ammo: 10
+Power: 4
+Area: 0;
+
+/51
+Name: Leather Jacket;
+Slot: 3
+Class: 6
+Durability: 20
+GoldCost: 15
+GemCost: 0
+ShopLevel: 1
+Rarity: 1
+Building: 1
+Pic: 201
+Resourse: (0)
+Effects:
+
+Defence: 4
+Power: 1
+Area: 0
+
+RangedDefence: 5
+Power: 1
+Area: 0;
+
+/52
+Name: Tanned Leather Jacket;
+Slot: 3
+Class: 6
+Durability: 25
+GoldCost: 30
+GemCost: 0
+ShopLevel: 2
+Rarity: 1
+Building: 91
+Pic: 202
+Resourse: (0)
+Effects:
+
+Defence: 4
+Power: 2
+Area: 0
+
+RangedDefence: 5
+Power: 1
+Area: 0;
+
+/53
+Name: Quilted Jacket;
+Slot: 3
+Class: 6
+Durability: 30
+GoldCost: 60
+GemCost: 0
+ShopLevel: 3
+Rarity: 1
+Building: 143
+Pic: 203
+Resourse: (0)
+Effects:
+
+Defence: 4
+Power: 2
+Area: 0
+
+RangedDefence: 5
+Power: 2
+Area: 0;
+
+/54
+Name: Riveted Jacket;
+Slot: 3
+Class: 6
+Durability: 35
+GoldCost: 120
+GemCost: 0
+ShopLevel: 4
+Rarity: 1
+Building: 184
+Pic: 204
+Resourse: (1)
+Effects:
+
+Defence: 4
+Power: 3
+Area: 0
+
+RangedDefence: 5
+Power: 2
+Area: 0;
+
+/55
+Name: Simple Chainmail;
+Slot: 3
+Class: 7
+Durability: 30
+GoldCost: 25
+GemCost: 0
+ShopLevel: 1
+Rarity: 1
+Building: 2
+Pic: 81
+Resourse: (1)
+Effects:
+
+Defence: 4
+Power: 2
+Area: 0
+
+RangedDefence: 5
+Power: 2
+Area: 0;
+
+/56
+Name: Banded Mail;
+Slot: 3
+Class: 7
+Durability: 35
+GoldCost: 50
+GemCost: 0
+ShopLevel: 2
+Rarity: 1
+Building: 87
+Pic: 82
+Resourse: (1)
+Effects:
+
+Defence: 4
+Power: 2
+Area: 0
+
+RangedDefence: 5
+Power: 3
+Area: 0;
+
+/57
+Name: Scale Mail;
+Slot: 3
+Class: 7
+Durability: 40
+GoldCost: 100
+GemCost: 0
+ShopLevel: 3
+Rarity: 1
+Building: 139
+Pic: 83
+Resourse: (1)
+Effects:
+
+Defence: 4
+Power: 3
+Area: 0
+
+RangedDefence: 5
+Power: 3
+Area: 0;
+
+/58
+Name: Mithril Chainmail;
+Slot: 3
+Class: 7
+Durability: 45
+GoldCost: 200
+GemCost: 0
+ShopLevel: 4
+Rarity: 1
+Building: 180
+Pic: 84
+Resourse: (7)
+Effects:
+
+Defence: 4
+Power: 4
+Area: 0
+
+RangedDefence: 5
+Power: 4
+Area: 0;
+
+/59
+Name: Chestpiece;
+Slot: 3
+Class: 8
+Durability: 30
+GoldCost: 50
+GemCost: 0
+ShopLevel: 1
+Rarity: 1
+Building: 37
+Pic: 160
+Resourse: (1, 1)
+Effects:
+
+Defence: 4
+Power: 3
+Area: 0
+
+RangedDefence: 5
+Power: 4
+Area: 0
+
+Speed: 7
+Power: -1
+Area: 0
+
+Attack: 2
+Power: -1
+Area: 0;
+
+/60
+Name: Cuirass;
+Slot: 3
+Class: 8
+Durability: 35
+GoldCost: 100
+GemCost: 0
+ShopLevel: 2
+Rarity: 1
+Building: 88
+Pic: 161
+Resourse: (1, 1)
+Effects:
+
+Defence: 4
+Power: 4
+Area: 0
+
+RangedDefence: 5
+Power: 5
+Area: 0
+
+Speed: 7
+Power: -1
+Area: 0
+
+Attack: 2
+Power: -1
+Area: 0;
+
+/61
+Name: Breastplate;
+Slot: 3
+Class: 8
+Durability: 40
+GoldCost: 180
+GemCost: 0
+ShopLevel: 3
+Rarity: 1
+Building: 140
+Pic: 162
+Resourse: (1, 1)
+Effects:
+
+Defence: 4
+Power: 5
+Area: 0
+
+RangedDefence: 5
+Power: 6
+Area: 0
+
+Speed: 7
+Power: -1
+Area: 0
+
+Attack: 2
+Power: -2
+Area: 0
+
+CounterAttack: 3
+Power: -1
+Area: 0;
+
+/62
+Name: Mithril Cuirass;
+Slot: 3
+Class: 8
+Durability: 45
+GoldCost: 300
+GemCost: 0
+ShopLevel: 4
+Rarity: 1
+Building: 181
+Pic: 163
+Resourse: (7, 7)
+Effects:
+
+Defence: 4
+Power: 5
+Area: 0
+
+RangedDefence: 5
+Power: 6
+Area: 0
+
+Speed: 7
+Power: -1
+Area: 0;
+
+/63
+Name: Toga;
+Slot: 3
+Class: 0
+Durability: 10
+GoldCost: 10
+GemCost: 0
+ShopLevel: 1
+Rarity: 1
+Building: 35
+Pic: 123
+Resourse: (0)
+Effects:
+
+Life: 1
+Power: 3
+Area: 0;
+
+/64
+Name: Tunic;
+Slot: 3
+Class: 0
+Durability: 15
+GoldCost: 20
+GemCost: 0
+ShopLevel: 2
+Rarity: 1
+Building: 92
+Pic: 124
+Resourse: (0)
+Effects:
+
+Life: 1
+Power: 4
+Area: 0;
+
+/65
+Name: Coat;
+Slot: 3
+Class: 0
+Durability: 20
+GoldCost: 40
+GemCost: 0
+ShopLevel: 3
+Rarity: 1
+Building: 144
+Pic: 125
+Resourse: (0)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0;
+
+/66
+Name: Mantle;
+Slot: 3
+Class: 0
+Durability: 15
+GoldCost: 120
+GemCost: 0
+ShopLevel: 4
+Rarity: 1
+Building: 185
+Pic: 126
+Resourse: (4)
+Effects:
+
+Life: 1
+Power: 2
+Area: 0
+
+Defence: 4
+Power: 1
+Area: 0
+
+RangedDefence: 5
+Power: 1
+Area: 0;
+
+/67
+Name: Sandals;
+Slot: 7
+Class: 0
+Durability: 10
+GoldCost: 15
+GemCost: 0
+ShopLevel: 1
+Rarity: 1
+Building: 35
+Pic: 143
+Resourse: (0)
+Effects:
+
+Stamina: 11
+Power: 1
+Area: 0;
+
+/68
+Name: Shoes;
+Slot: 7
+Class: 0
+Durability: 15
+GoldCost: 25
+GemCost: 0
+ShopLevel: 2
+Rarity: 1
+Building: 0
+Pic: 144
+Resourse: (0)
+Effects:
+
+Life: 1
+Power: 2
+Area: 0
+
+Stamina: 11
+Power: 1
+Area: 0;
+
+/69
+Name: Light Boots;
+Slot: 7
+Class: 0
+Durability: 20
+GoldCost: 60
+GemCost: 0
+ShopLevel: 3
+Rarity: 1
+Building: 144
+Pic: 145
+Resourse: (0)
+Effects:
+
+Life: 1
+Power: 3
+Area: 0
+
+Stamina: 11
+Power: 1
+Area: 0;
+
+/70
+Name: Suede Boots;
+Slot: 7
+Class: 0
+Durability: 20
+GoldCost: 100
+GemCost: 0
+ShopLevel: 4
+Rarity: 1
+Building: 185
+Pic: 146
+Resourse: (0)
+Effects:
+
+Life: 1
+Power: 3
+Area: 0
+
+Stamina: 11
+Power: 2
+Area: 0;
+
+/71
+Name: Leather Overshoes;
+Slot: 7
+Class: 6
+Durability: 20
+GoldCost: 30
+GemCost: 0
+ShopLevel: 2
+Rarity: 1
+Building: 91
+Pic: 220
+Resourse: (0)
+Effects:
+
+Life: 1
+Power: 3
+Area: 0;
+
+/72
+Name: Leather Boots;
+Slot: 7
+Class: 6
+Durability: 30
+GoldCost: 50
+GemCost: 0
+ShopLevel: 3
+Rarity: 1
+Building: 143
+Pic: 221
+Resourse: (0)
+Effects:
+
+Life: 1
+Power: 4
+Area: 0;
+
+/73
+Name: Ranger's Boots;
+Slot: 7
+Class: 6
+Durability: 35
+GoldCost: 100
+GemCost: 0
+ShopLevel: 4
+Rarity: 1
+Building: 184
+Pic: 222
+Resourse: (0)
+Effects:
+
+Life: 1
+Power: 4
+Area: 0
+
+Stamina: 11
+Power: 1
+Area: 0;
+
+/74
+Name: Soldier's Overshoes;
+Slot: 7
+Class: 7
+Durability: 30
+GoldCost: 40
+GemCost: 0
+ShopLevel: 2
+Rarity: 1
+Building: 87
+Pic: 100
+Resourse: (1)
+Effects:
+
+Life: 1
+Power: 4
+Area: 0;
+
+/75
+Name: Heavy Boots;
+Slot: 7
+Class: 7
+Durability: 35
+GoldCost: 70
+GemCost: 0
+ShopLevel: 3
+Rarity: 1
+Building: 139
+Pic: 101
+Resourse: (1)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0;
+
+/76
+Name: Ironshod Boots;
+Slot: 7
+Class: 7
+Durability: 40
+GoldCost: 120
+GemCost: 0
+ShopLevel: 4
+Rarity: 1
+Building: 180
+Pic: 102
+Resourse: (1)
+Effects:
+
+Life: 1
+Power: 6
+Area: 0;
+
+/77
+Name: Plate Overshoes;
+Slot: 7
+Class: 8
+Durability: 40
+GoldCost: 50
+GemCost: 0
+ShopLevel: 2
+Rarity: 1
+Building: 88
+Pic: 179
+Resourse: (1)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0;
+
+/78
+Name: Plate Boots;
+Slot: 7
+Class: 8
+Durability: 45
+GoldCost: 80
+GemCost: 0
+ShopLevel: 3
+Rarity: 1
+Building: 140
+Pic: 180
+Resourse: (1)
+Effects:
+
+Life: 1
+Power: 6
+Area: 0;
+
+/79
+Name: Knight's Boots;
+Slot: 7
+Class: 8
+Durability: 50
+GoldCost: 150
+GemCost: 0
+ShopLevel: 4
+Rarity: 1
+Building: 181
+Pic: 181
+Resourse: (1)
+Effects:
+
+Life: 1
+Power: 7
+Area: 0;
+
+/80
+Name: Simple Cap;
+Slot: 4
+Class: 0
+Durability: 10
+GoldCost: 10
+GemCost: 0
+ShopLevel: 1
+Rarity: 1
+Building: 35
+Pic: 134
+Resourse: (0)
+Effects:
+
+Life: 1
+Power: 1
+Area: 0;
+
+/81
+Name: Hat;
+Slot: 4
+Class: 0
+Durability: 10
+GoldCost: 25
+GemCost: 0
+ShopLevel: 2
+Rarity: 1
+Building: 92
+Pic: 135
+Resourse: (0)
+Effects:
+
+Life: 1
+Power: 2
+Area: 0;
+
+/82
+Name: Turban;
+Slot: 4
+Class: 0
+Durability: 15
+GoldCost: 40
+GemCost: 0
+ShopLevel: 3
+Rarity: 1
+Building: 144
+Pic: 136
+Resourse: (0)
+Effects:
+
+Life: 1
+Power: 3
+Area: 0;
+
+/83
+Name: Wizard's Hat;
+Slot: 4
+Class: 0
+Durability: 15
+GoldCost: 100
+GemCost: 0
+ShopLevel: 4
+Rarity: 1
+Building: 186
+Pic: 137
+Resourse: (4)
+Effects:
+
+Exp_gain: 991
+Power: 5
+Area: 0;
+
+/84
+Name: Leather Hat;
+Slot: 4
+Class: 6
+Durability: 15
+GoldCost: 30
+GemCost: 0
+ShopLevel: 2
+Rarity: 1
+Building: 91
+Pic: 212
+Resourse: (0)
+Effects:
+
+Life: 1
+Power: 3
+Area: 0;
+
+/85
+Name: Ranger's Cap;
+Slot: 4
+Class: 6
+Durability: 15
+GoldCost: 70
+GemCost: 0
+ShopLevel: 3
+Rarity: 1
+Building: 143
+Pic: 213
+Resourse: (0)
+Effects:
+
+Life: 1
+Power: 3
+Area: 0
+
+Morale: 12
+Power: 1
+Area: 0;
+
+/86
+Name: Leather Helmet;
+Slot: 4
+Class: 6
+Durability: 20
+GoldCost: 100
+GemCost: 0
+ShopLevel: 4
+Rarity: 1
+Building: 184
+Pic: 214
+Resourse: (0)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0;
+
+/87
+Name: Open Helmet;
+Slot: 4
+Class: 7
+Durability: 20
+GoldCost: 40
+GemCost: 0
+ShopLevel: 2
+Rarity: 1
+Building: 87
+Pic: 92
+Resourse: (1)
+Effects:
+
+Life: 1
+Power: 4
+Area: 0;
+
+/88
+Name: Commander's Helmet;
+Slot: 4
+Class: 7
+Durability: 25
+GoldCost: 90
+GemCost: 0
+ShopLevel: 3
+Rarity: 1
+Building: 139
+Pic: 93
+Resourse: (1)
+Effects:
+
+Life: 1
+Power: 4
+Area: 0
+
+Morale: 12
+Power: 1
+Area: 0;
+
+/89
+Name: Closed Helmet;
+Slot: 4
+Class: 7
+Durability: 30
+GoldCost: 140
+GemCost: 0
+ShopLevel: 4
+Rarity: 1
+Building: 180
+Pic: 94
+Resourse: (1)
+Effects:
+
+Life: 1
+Power: 6
+Area: 0;
+
+/90
+Name: Plate Helmet;
+Slot: 4
+Class: 8
+Durability: 30
+GoldCost: 50
+GemCost: 0
+ShopLevel: 2
+Rarity: 1
+Building: 88
+Pic: 171
+Resourse: (1)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0;
+
+/91
+Name: Knight's Helmet;
+Slot: 4
+Class: 8
+Durability: 35
+GoldCost: 120
+GemCost: 0
+ShopLevel: 3
+Rarity: 1
+Building: 140
+Pic: 172
+Resourse: (1)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+Morale: 12
+Power: 1
+Area: 0;
+
+/92
+Name: Mithril Helmet;
+Slot: 4
+Class: 8
+Durability: 40
+GoldCost: 160
+GemCost: 0
+ShopLevel: 4
+Rarity: 1
+Building: 181
+Pic: 173
+Resourse: (7)
+Effects:
+
+Life: 1
+Power: 7
+Area: 0;
+
+/93
+Name: Wizard's Gloves;
+Slot: 8
+Class: 0
+Durability: 10
+GoldCost: 40
+GemCost: 0
+ShopLevel: 2
+Rarity: 1
+Building: 93
+Pic: 152
+Resourse: (0)
+Effects:
+
+Life: 1
+Power: 1
+Area: 0;
+
+/94
+Name: Woolen Gloves;
+Slot: 8
+Class: 0
+Durability: 15
+GoldCost: 50
+GemCost: 0
+ShopLevel: 3
+Rarity: 1
+Building: 0
+Pic: 153
+Resourse: (0)
+Effects:
+
+Life: 1
+Power: 2
+Area: 0;
+
+/95
+Name: Silk Gloves;
+Slot: 8
+Class: 0
+Durability: 10
+GoldCost: 80
+GemCost: 0
+ShopLevel: 4
+Rarity: 1
+Building: 185
+Pic: 154
+Resourse: (0)
+Effects:
+
+Life: 1
+Power: 3
+Area: 0;
+
+/96
+Name: Leather Gloves;
+Slot: 8
+Class: 6
+Durability: 15
+GoldCost: 40
+GemCost: 0
+ShopLevel: 2
+Rarity: 1
+Building: 91
+Pic: 228
+Resourse: (0)
+Effects:
+
+Life: 1
+Power: 2
+Area: 0;
+
+/97
+Name: Riveted Gloves;
+Slot: 8
+Class: 6
+Durability: 20
+GoldCost: 80
+GemCost: 0
+ShopLevel: 3
+Rarity: 1
+Building: 143
+Pic: 229
+Resourse: (0)
+Effects:
+
+Life: 1
+Power: 3
+Area: 0;
+
+/98
+Name: Archer's Gloves;
+Slot: 8
+Class: 6
+Durability: 15
+GoldCost: 200
+GemCost: 0
+ShopLevel: 4
+Rarity: 1
+Building: 184
+Pic: 230
+Resourse: (0)
+Effects:
+
+Life: 1
+Power: 1
+Area: 0
+
+Bow_Attack: 8
+Power: 1
+Area: 0;
+
+/99
+Name: Mail Gauntlets;
+Slot: 8
+Class: 7
+Durability: 25
+GoldCost: 50
+GemCost: 0
+ShopLevel: 2
+Rarity: 1
+Building: 87
+Pic: 108
+Resourse: (1)
+Effects:
+
+Life: 1
+Power: 3
+Area: 0;
+
+/100
+Name: Mail Gloves;
+Slot: 8
+Class: 7
+Durability: 20
+GoldCost: 90
+GemCost: 0
+ShopLevel: 3
+Rarity: 1
+Building: 139
+Pic: 109
+Resourse: (1)
+Effects:
+
+Life: 1
+Power: 4
+Area: 0;
+
+/101
+Name: Commander's Gloves;
+Slot: 8
+Class: 7
+Durability: 25
+GoldCost: 200
+GemCost: 0
+ShopLevel: 4
+Rarity: 1
+Building: 180
+Pic: 110
+Resourse: (1)
+Effects:
+
+Life: 1
+Power: 4
+Area: 0
+
+Morale: 12
+Power: 1
+Area: 0;
+
+/102
+Name: Plate Gauntlets;
+Slot: 8
+Class: 8
+Durability: 40
+GoldCost: 60
+GemCost: 0
+ShopLevel: 2
+Rarity: 1
+Building: 88
+Pic: 187
+Resourse: (1)
+Effects:
+
+Life: 1
+Power: 4
+Area: 0;
+
+/103
+Name: Plate Gloves;
+Slot: 8
+Class: 8
+Durability: 40
+GoldCost: 100
+GemCost: 0
+ShopLevel: 3
+Rarity: 1
+Building: 140
+Pic: 188
+Resourse: (1)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0;
+
+/104
+Name: Battle Gloves;
+Slot: 8
+Class: 8
+Durability: 40
+GoldCost: 250
+GemCost: 0
+ShopLevel: 4
+Rarity: 1
+Building: 181
+Pic: 189
+Resourse: (1)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+Attack: 2
+Power: 1
+Area: 0;
+
+/105
+Name: Mail Bracers;
+Slot: 10
+Class: 7
+Durability: 20
+GoldCost: 30
+GemCost: 0
+ShopLevel: 2
+Rarity: 1
+Building: 87
+Pic: 117
+Resourse: (1)
+Effects:
+
+Life: 1
+Power: 2
+Area: 0;
+
+/106
+Name: Iron Bracers;
+Slot: 10
+Class: 7
+Durability: 25
+GoldCost: 60
+GemCost: 0
+ShopLevel: 3
+Rarity: 1
+Building: 139
+Pic: 118
+Resourse: (1)
+Effects:
+
+Life: 1
+Power: 3
+Area: 0;
+
+/107
+Name: Mithril Bracers;
+Slot: 10
+Class: 7
+Durability: 30
+GoldCost: 120
+GemCost: 0
+ShopLevel: 4
+Rarity: 1
+Building: 180
+Pic: 119
+Resourse: (7)
+Effects:
+
+Life: 1
+Power: 4
+Area: 0;
+
+/108
+Name: Plate Bracers;
+Slot: 10
+Class: 8
+Durability: 30
+GoldCost: 40
+GemCost: 0
+ShopLevel: 2
+Rarity: 1
+Building: 88
+Pic: 195
+Resourse: (1)
+Effects:
+
+Life: 1
+Power: 3
+Area: 0;
+
+/109
+Name: Heavy Bracers;
+Slot: 10
+Class: 8
+Durability: 35
+GoldCost: 80
+GemCost: 0
+ShopLevel: 3
+Rarity: 1
+Building: 140
+Pic: 196
+Resourse: (1)
+Effects:
+
+Life: 1
+Power: 4
+Area: 0;
+
+/110
+Name: Armored Bracers;
+Slot: 10
+Class: 8
+Durability: 40
+GoldCost: 150
+GemCost: 0
+ShopLevel: 4
+Rarity: 1
+Building: 181
+Pic: 197
+Resourse: (1)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0;
+
+/111
+Name: Cloth Bracers;
+Slot: 10
+Class: 0
+Durability: 10
+GoldCost: 25
+GemCost: 0
+ShopLevel: 2
+Rarity: 1
+Building: 92
+Pic: 302
+Resourse: (0)
+Effects:
+
+Life: 1
+Power: 1
+Area: 0;
+
+/112
+Name: Silk Bracers;
+Slot: 10
+Class: 0
+Durability: 10
+GoldCost: 100
+GemCost: 0
+ShopLevel: 4
+Rarity: 1
+Building: 0
+Pic: 303
+Resourse: (0)
+Effects:
+
+Life: 1
+Power: 3
+Area: 0;
+
+/113
+Name: Leather Bracers;
+Slot: 10
+Class: 6
+Durability: 15
+GoldCost: 50
+GemCost: 0
+ShopLevel: 3
+Rarity: 1
+Building: 143
+Pic: 236
+Resourse: (0)
+Effects:
+
+Life: 1
+Power: 2
+Area: 0;
+
+/114
+Name: Blacksmith's Bracelet;
+Slot: 10
+Class: 0
+Durability: 1
+GoldCost: 80
+GemCost: 2
+ShopLevel: 2
+Rarity: 1
+Building: 86
+Pic: 305
+Resourse: (1)
+Effects:
+
+Smithing: 995
+Power: 10
+Area: 0;
+
+/115
+Name: Copper Bracelet;
+Slot: 10
+Class: 0
+Durability: 1
+GoldCost: 150
+GemCost: 5
+ShopLevel: 3
+Rarity: 1
+Building: 138
+Pic: 306
+Resourse: (0)
+Effects:
+
+Stamina: 11
+Power: 2
+Area: 0;
+
+/116
+Name: Silver Bracelet;
+Slot: 10
+Class: 0
+Durability: 1
+GoldCost: 200
+GemCost: 10
+ShopLevel: 4
+Rarity: 1
+Building: 179
+Pic: 307
+Resourse: (0)
+Effects:
+
+Morale: 12
+Power: 4
+Area: 0;
+
+
+/117
+Name: Leather Belt;
+Slot: 5
+Class: 0
+Durability: 15
+GoldCost: 40
+GemCost: 0
+ShopLevel: 2
+Rarity: 1
+Building: 91
+Pic: 240
+Resourse: (0)
+Effects:
+
+Stamina: 11
+Power: 2
+Area: 0;
+
+/118
+Name: Wizard's Sash;
+Slot: 5
+Class: 0
+Durability: 10
+GoldCost: 80
+GemCost: 3
+ShopLevel: 3
+Rarity: 1
+Building: 145
+Pic: 241
+Resourse: (0)
+Effects:
+
+Reinvigoration: 21
+Power: 1
+Area: 0;
+
+/119
+Name: Warrior's Belt;
+Slot: 5
+Class: 0
+Durability: 15
+GoldCost: 120
+GemCost: 0
+ShopLevel: 4
+Rarity: 1
+Building: 184
+Pic: 242
+Resourse: (0)
+Effects:
+
+Stamina: 11
+Power: 2
+Area: 0
+
+Life: 1
+Power: 3
+Area: 0;
+
+/120
+Name: Traveling Cloak;
+Slot: 6
+Class: 0
+Durability: 10
+GoldCost: 30
+GemCost: 0
+ShopLevel: 2
+Rarity: 1
+Building: 92
+Pic: 277
+Resourse: (0)
+Effects:
+
+Reinvigoration: 21
+Power: 1
+Area: 0;
+
+/121
+Name: Warm Cloak;
+Slot: 6
+Class: 0
+Durability: 15
+GoldCost: 60
+GemCost: 0
+ShopLevel: 3
+Rarity: 1
+Building: 144
+Pic: 278
+Resourse: (0)
+Effects:
+
+Reinvigoration: 21
+Power: 1
+Area: 0
+
+Life: 1
+Power: 1
+Area: 0;
+
+/122
+Name: Ranger's Cloak;
+Slot: 6
+Class: 0
+Durability: 10
+GoldCost: 150
+GemCost: 0
+ShopLevel: 4
+Rarity: 1
+Building: 185
+Pic: 279
+Resourse: (0)
+Effects:
+
+Reinvigoration: 21
+Power: 2
+Area: 0
+
+Life: 1
+Power: 1
+Area: 0;
+
+/123
+Name: Commander's Medal;
+Slot: 9
+Class: 0
+Durability: 1
+GoldCost: 100
+GemCost: 3
+ShopLevel: 2
+Rarity: 1
+Building: 86
+Pic: 32
+Resourse: (0)
+Effects:
+
+Morale: 12
+Power: 3
+Area: 0;
+
+/124
+Name: Malachite Amulet;
+Slot: 9
+Class: 0
+Durability: 1
+GoldCost: 150
+GemCost: 5
+ShopLevel: 3
+Rarity: 1
+Building: 138
+Pic: 33
+Resourse: (4)
+Effects:
+
+Resist: 6
+Power: 1
+Area: 0;
+
+/125
+Name: Agate Amulet;
+Slot: 9
+Class: 0
+Durability: 1
+GoldCost: 300
+GemCost: 10
+ShopLevel: 4
+Rarity: 1
+Building: 179
+Pic: 34
+Resourse: (4)
+Effects:
+
+Resist: 6
+Power: 2
+Area: 0;
+
+/126
+Name: Copper Ring;
+Slot: 11
+Class: 0
+Durability: 1
+GoldCost: 100
+GemCost: 5
+ShopLevel: 2
+Rarity: 1
+Building: 86
+Pic: 46
+Resourse: (0)
+Effects:
+
+Stamina: 11
+Power: 1
+Area: 0;
+
+/127
+Name: Iron Ring;
+Slot: 11
+Class: 0
+Durability: 1
+GoldCost: 80
+GemCost: 5
+ShopLevel: 2
+Rarity: 1
+Building: 86
+Pic: 47
+Resourse: (0)
+Effects:
+
+Life: 1
+Power: 1
+Area: 0;
+
+/128
+Name: Silver Ring;
+Slot: 11
+Class: 0
+Durability: 1
+GoldCost: 130
+GemCost: 5
+ShopLevel: 3
+Rarity: 1
+Building: 138
+Pic: 48
+Resourse: (0)
+Effects:
+
+Morale: 12
+Power: 1
+Area: 0;
+
+/129
+Name: Steel Ring;
+Slot: 11
+Class: 0
+Durability: 1
+GoldCost: 170
+GemCost: 10
+ShopLevel: 3
+Rarity: 1
+Building: 138
+Pic: 49
+Resourse: (0)
+Effects:
+
+Life: 1
+Power: 2
+Area: 0;
+
+/130
+Name: Bronze Ring;
+Slot: 11
+Class: 0
+Durability: 1
+GoldCost: 220
+GemCost: 15
+ShopLevel: 4
+Rarity: 1
+Building: 179
+Pic: 50
+Resourse: (0)
+Effects:
+
+Stamina: 11
+Power: 2
+Area: 0;
+
+/131
+Name: Golden Ring;
+Slot: 11
+Class: 0
+Durability: 1
+GoldCost: 270
+GemCost: 15
+ShopLevel: 4
+Rarity: 1
+Building: 179
+Pic: 51
+Resourse: (0)
+Effects:
+
+Morale: 12
+Power: 2
+Area: 0;
+
+/132
+Name: Assassin's Stiletto;
+Slot: 2
+Class: 0
+Durability: 25
+GoldCost: 80
+GemCost: 0
+ShopLevel: 3
+Rarity: 2
+Building: 0
+Pic: 321
+Resourse: (1, 4)
+Effects:
+
+Parry: 53
+Power: 3
+Area: 0
+
+CounterAttack: 3
+Power: 3
+Area: 0
+
+AimedStrike: 76
+Power: 2
+Area: 0
+
+Poison: 41
+Power: 1
+Area: 0;
+
+/133
+Name: Kris;
+Slot: 2
+Class: 0
+Durability: 30
+GoldCost: 100
+GemCost: 30
+ShopLevel: 3
+Rarity: 3
+Building: 0
+Pic: 322
+Resourse: (4)
+Effects:
+
+Parry: 53
+Power: 2
+Area: 0
+
+CounterAttack: 3
+Power: 2
+Area: 0
+
+StealSoul: 57
+Power: 5
+Area: 0
+
+DarkReplenish: 215
+Power: 1
+Area: 0;
+
+/134
+Name: Gutripper;
+Slot: 2
+Class: 0
+Durability: 30
+GoldCost: 200
+GemCost: 0
+ShopLevel: 4
+Rarity: 2
+Building: 0
+Pic: 323
+Resourse: (1)
+Effects:
+
+Parry: 53
+Power: 3
+Area: 0
+
+CounterAttack: 3
+Power: 3
+Area: 0
+
+AimedStrike: 76
+Power: 3
+Area: 0
+
+Bleeding: 208
+Power: 2
+Area: 0;
+
+/135
+Name: Necromancer's Knife;
+Slot: 2
+Class: 0
+Durability: 30
+GoldCost: 100
+GemCost: 50
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 324
+Resourse: (9)
+Effects:
+
+Parry: 53
+Power: 3
+Area: 0
+
+CounterAttack: 3
+Power: 2
+Area: 0
+
+PowerfulUndeads: 909
+Power: 1
+Area: 0
+
+Curse: 43
+Power: 5
+Area: 0;
+
+
+/136
+Name: Conjurer's Dagger;
+Slot: 2
+Class: 0
+Durability: 35
+GoldCost: 400
+GemCost: 50
+ShopLevel: 5
+Rarity: 3
+Building: 0
+Pic: 325
+Resourse: (5, 7)
+Effects:
+
+Parry: 53
+Power: 3
+Area: 0
+
+CounterAttack: 3
+Power: 4
+Area: 0
+
+DropResist: 908
+Power: 1
+Area: 0;
+
+
+/137
+Name: Lightning Dagger;
+Slot: 2
+Class: 0
+Durability: 35
+GoldCost: 500
+GemCost: 70
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 326
+Resourse: (5, 7, 8)
+Effects:
+
+Parry: 53
+Power: 4
+Area: 0
+
+CounterAttack: 3
+Power: 5
+Area: 0
+
+Speed: 7
+Power: 1
+Area: 0
+
+AimedStrike: 76
+Power: 4
+Area: 0
+
+Enchanted: 151
+Power: 4
+Area: 0;
+
+
+/138
+Name: Dagger of Two Worlds;
+Slot: 2
+Class: 0
+Durability: 40
+GoldCost: 1000
+GemCost: 100
+ShopLevel: 6
+Rarity: 4
+Building: 0
+Pic: 327
+Resourse: (7, 8, 9)
+Effects:
+
+Parry: 53
+Power: 5
+Area: 0
+
+CounterAttack: 3
+Power: 5
+Area: 0
+
+DamageAura: 212
+Power: 3
+Area: 0
+
+PierceResist: 196
+Power: 1
+Area: 0
+
+LayVulnerability: 79
+Power: 4
+Area: 0
+
+SpellPenetration: 908
+Power: 2
+Area: 0;
+
+/139
+Name: Healer's Staff;
+Slot: 100
+Class: 0
+Durability: 50
+GoldCost: 120
+GemCost: 20
+ShopLevel: 3
+Rarity: 2
+Building: 0
+Pic: 295
+Resourse: (2, 4)
+Effects:
+
+Attack: 2
+Power: 2
+Area: 0
+
+CounterAttack: 3
+Power: 3
+Area: 0
+
+Heal: 24
+Power: 6
+Area: 0
+
+Range: 9
+Power: 3
+Area: 0
+
+Ammo: 10
+Power: 5
+Area: 0
+
+Stamina: 11
+Power: 1
+Area: 0;
+
+/140
+Name: Summoner's Staff;
+Slot: 100
+Class: 0
+Durability: 60
+GoldCost: 150
+GemCost: 30
+ShopLevel: 3
+Rarity: 3
+Building: 0
+Pic: 296
+Resourse: (2, 5)
+Effects:
+
+Attack: 2
+Power: 3
+Area: 0
+
+CounterAttack: 3
+Power: 4
+Area: 0
+
+Summon: 907
+Power: 2
+Area: 0
+
+Stamina: 11
+Power: 4
+Area: 0
+
+CastStamina: 161
+Power: 2
+Area: 0;
+
+/141
+Name: Enchanter's Staff;
+Slot: 100
+Class: 0
+Durability: 60
+GoldCost: 300
+GemCost: 30
+ShopLevel: 4
+Rarity: 2
+Building: 0
+Pic: 297
+Resourse: (2, 5)
+Effects:
+
+Attack: 2
+Power: 3
+Area: 0
+
+CounterAttack: 3
+Power: 4
+Area: 0
+
+SpellDuration: 906
+Power: 1
+Area: 0
+
+Stamina: 11
+Power: 4
+Area: 0
+
+CastStamina: 161
+Power: 2
+Area: 0;
+
+/142
+Name: Mage's Staff;
+Slot: 100
+Class: 0
+Durability: 60
+GoldCost: 350
+GemCost: 40
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 298
+Resourse: (2, 5)
+Effects:
+
+Attack: 2
+Power: 3
+Area: 0
+
+CounterAttack: 3
+Power: 4
+Area: 0
+
+SpellPower: 905
+Power: 1
+Area: 0
+
+Stamina: 11
+Power: 5
+Area: 0
+
+CastStamina: 161
+Power: 2
+Area: 0;
+
+
+/143
+Name: Runestaff;
+Slot: 100
+Class: 0
+Durability: 60
+GoldCost: 700
+GemCost: 100
+ShopLevel: 5
+Rarity: 3
+Building: 0
+Pic: 299
+Resourse: (2, 5, 9)
+Effects:
+
+Attack: 2
+Power: 4
+Area: 0
+
+CounterAttack: 3
+Power: 4
+Area: 0
+
+SpellPower: 905
+Power: 1
+Area: 0
+
+SpellDuration: 906
+Power: 1
+Area: 0
+
+Stamina: 11
+Power: 5
+Area: 0
+
+CastStamina: 161
+Power: 1
+Area: 0;
+
+
+/144
+Name: Moon Staff;
+Slot: 100
+Class: 0
+Durability: 60
+GoldCost: 650
+GemCost: 100
+ShopLevel: 5
+Rarity: 4
+Building: 243
+Pic: 300
+Resourse: (2, 5, 8)
+Effects:
+
+Attack: 2
+Power: 4
+Area: 0
+
+CounterAttack: 3
+Power: 5
+Area: 0
+
+SpellCost: 983
+Power: 20
+Area: 0
+
+Stamina: 11
+Power: 5
+Area: 0
+
+CastStamina: 161
+Power: 3
+Area: 0;
+
+/145
+Name: Archmage's Staff;
+Slot: 100
+Class: 0
+Durability: 50
+GoldCost: 1500
+GemCost: 200
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 301
+Resourse: (5, 8, 9)
+Effects:
+
+Attack: 2
+Power: 5
+Area: 0
+
+CounterAttack: 3
+Power: 5
+Area: 0
+
+SpellPower: 905
+Power: 3
+Area: 0
+
+Stamina: 11
+Power: 5
+Area: 0
+
+CastStamina: 161
+Power: 2
+Area: 0;
+
+/146
+Name: Scimitar;
+Slot: 1
+Class: 1
+Durability: 60
+GoldCost: 70
+GemCost: 0
+ShopLevel: 2
+Rarity: 2
+Building: 121
+Pic: 345
+Resourse: (1)
+Effects:
+
+Attack: 2
+Power: 4
+Area: 0
+
+CounterAttack: 3
+Power: 2
+Area: 0;
+
+
+/147
+Name: Enchanted Blade;
+Slot: 1
+Class: 1
+Durability: 40
+GoldCost: 200
+GemCost: 20
+ShopLevel: 3
+Rarity: 2
+Building: 0
+Pic: 346
+Resourse: (1, 5)
+Effects:
+
+Attack: 2
+Power: 2
+Area: 0
+
+CounterAttack: 3
+Power: 2
+Area: 0
+
+MagicStrike: 27
+Power: 1
+Area: 0;
+
+
+/148
+Name: Protector Sword;
+Slot: 2
+Class: 1
+Durability: 70
+GoldCost: 400
+GemCost: 0
+ShopLevel: 3
+Rarity: 3
+Building: 0
+Pic: 347
+Resourse: (7)
+Effects:
+
+CounterAttack: 3
+Power: 3
+Area: 0
+
+Parry: 53
+Power: 4
+Area: 0
+
+Defence: 4
+Power: 1
+Area: 0;
+
+
+/149
+Name: Fencer's Rapier;
+Slot: 1
+Class: 1
+Durability: 40
+GoldCost: 300
+GemCost: 0
+ShopLevel: 4
+Rarity: 2
+Building: 0
+Pic: 348
+Resourse: (1)
+Effects:
+
+Attack: 2
+Power: 4
+Area: 0
+
+CounterAttack: 3
+Power: 4
+Area: 0
+
+Vigilance: 214
+Power: 1
+Area: 0;
+
+
+/150
+Name: Sword of Justice;
+Slot: 1
+Class: 1
+Durability: 70
+GoldCost: 350
+GemCost: 15
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 349
+Resourse: (7)
+Effects:
+
+Attack: 2
+Power: 5
+Area: 0
+
+CounterAttack: 3
+Power: 5
+Area: 0
+
+SmiteEvil: 61
+Power: 1
+Area: 0;
+
+
+/151
+Name: Fire Sword;
+Slot: 1
+Class: 1
+Durability: 50
+GoldCost: 500
+GemCost: 70
+ShopLevel: 5
+Rarity: 3
+Building: 0
+Pic: 350
+Resourse: (7, 5, 5)
+Effects:
+
+Attack: 2
+Power: 4
+Area: 0
+
+CounterAttack: 3
+Power: 4
+Area: 0
+
+MagicStrike: 27
+Power: 1
+Area: 0
+
+Burning: 143
+Power: 2
+Area: 0;
+
+
+/152
+Name: Blade of Night;
+Slot: 1
+Class: 1
+Durability: 50
+GoldCost: 550
+GemCost: 20
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 351
+Resourse: (7, 4)
+Effects:
+
+Attack: 2
+Power: 6
+Area: 0
+
+CounterAttack: 3
+Power: 4
+Area: 0
+
+Poison: 41
+Power: 2
+Area: 0
+
+Agility: 26
+Power: 1
+Area: 0;
+
+
+/153
+Name: Sword of the Ancients;
+Slot: 1
+Class: 1
+Durability: 80
+GoldCost: 750
+GemCost: 50
+ShopLevel: 6
+Rarity: 4
+Building: 0
+Pic: 352
+Resourse: (7, 7, 8)
+Effects:
+
+Attack: 2
+Power: 7
+Area: 0
+
+CounterAttack: 3
+Power: 7
+Area: 0
+
+AimedStrike: 76
+Power: 4
+Area: 0
+
+FirstStrike: 16
+Power: 1
+Area: 0;
+
+
+/154
+Name: Dwarven Axe;
+Slot: 1
+Class: 2
+Durability: 80
+GoldCost: 160
+GemCost: 0
+ShopLevel: 3
+Rarity: 2
+Building: 196
+Pic: 4
+Resourse: (7)
+Effects:
+
+Attack: 2
+Power: 5
+Area: 0
+
+CounterAttack: 3
+Power: 3
+Area: 0;
+
+
+/155
+Name: Executioner's Axe;
+Slot: 1
+Class: 2
+Durability: 70
+GoldCost: 300
+GemCost: 0
+ShopLevel: 3
+Rarity: 3
+Building: 0
+Pic: 5
+Resourse: (7)
+Effects:
+
+Attack: 2
+Power: 7
+Area: 0
+
+CounterAttack: 3
+Power: 2
+Area: 0
+
+Cripple: 51
+Power: 3
+Area: 0;
+
+/156
+Name: Berserker's Axe;
+Slot: 1
+Class: 2
+Durability: 70
+GoldCost: 400
+GemCost: 0
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 6
+Resourse: (7)
+Effects:
+
+Attack: 2
+Power: 8
+Area: 0
+
+CounterAttack: 3
+Power: 3
+Area: 0
+
+Defence: 4
+Power: -1
+Area: 0
+
+Berserk: 25
+Power: 3
+Area: 0;
+
+/157
+Name: Soulslayer;
+Slot: 1
+Class: 2
+Durability: 80
+GoldCost: 500
+GemCost: 30
+ShopLevel: 4
+Rarity: 4
+Building: 0
+Pic: 7
+Resourse: (7, 5)
+Effects:
+
+Attack: 2
+Power: 7
+Area: 0
+
+CounterAttack: 3
+Power: 4
+Area: 0
+
+StealSoul: 57
+Power: 5
+Area: 0;
+
+/158
+Name: Bloodsucker;
+Slot: 1
+Class: 2
+Durability: 90
+GoldCost: 800
+GemCost: 50
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 8
+Resourse: (7, 9)
+Effects:
+
+Attack: 2
+Power: 8
+Area: 0
+
+CounterAttack: 3
+Power: 4
+Area: 0
+
+DrainLife: 68
+Power: 30
+Area: 0;
+
+
+/159
+Name: Poleaxe of Fury;
+Slot: 1
+Class: 2
+Durability: 90
+GoldCost: 900
+GemCost: 30
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 9
+Resourse: (7, 9)
+Effects:
+
+Attack: 2
+Power: 9
+Area: 0
+
+CounterAttack: 3
+Power: 4
+Area: 0
+
+CrushingBlow: 59
+Power: 4
+Area: 0;
+
+
+/160
+Name: Destroyer;
+Slot: 1
+Class: 2
+Durability: 100
+GoldCost: 1500
+GemCost: 50
+ShopLevel: 6
+Rarity: 4
+Building: 0
+Pic: 10
+Resourse: (7, 7, 9)
+Effects:
+
+Attack: 2
+Power: 10
+Area: 0
+
+CounterAttack: 3
+Power: 5
+Area: 0
+
+DamageArmor: 45
+Power: 3
+Area: 0
+
+DamageAura: 212
+Power: 3
+Area: 0
+
+Cripple: 51
+Power: 3
+Area: 0;
+
+/161
+Name: Bardiche;
+Slot: 100
+Class: 1
+Durability: 50
+GoldCost: 150
+GemCost: 0
+ShopLevel: 3
+Rarity: 2
+Building: 0
+Pic: 16
+Resourse: (1, 2)
+Effects:
+
+First_strike: 16
+Power: 1
+Area: 0
+
+Attack: 2
+Power: 5
+Area: 0
+
+CounterAttack: 3
+Power: 4
+Area: 0;
+
+/162
+Name: Guards Halberd;
+Slot: 100
+Class: 1
+Durability: 60
+GoldCost: 250
+GemCost: 0
+ShopLevel: 3
+Rarity: 3
+Building: 0
+Pic: 17
+Resourse: (7, 2)
+Effects:
+
+First_strike: 16
+Power: 1
+Area: 0
+
+Attack: 2
+Power: 4
+Area: 0
+
+CounterAttack: 3
+Power: 5
+Area: 0
+
+Piercing_strike: 39
+Power: 1
+Area: 0;
+
+/163
+Name: Spear of Retribution;
+Slot: 100
+Class: 1
+Durability: 50
+GoldCost: 200
+GemCost: 20
+ShopLevel: 3
+Rarity: 3
+Building: 0
+Pic: 18
+Resourse: (7, 2, 4)
+Effects:
+
+First_strike: 16
+Power: 1
+Area: 0
+
+Attack: 2
+Power: 3
+Area: 0
+
+CounterAttack: 3
+Power: 6
+Area: 0
+
+Vigilance: 214
+Power: 1
+Area: 0;
+
+/164
+Name: Piercing Spear;
+Slot: 100
+Class: 1
+Durability: 60
+GoldCost: 400
+GemCost: 30
+ShopLevel: 4
+Rarity: 4
+Building: 0
+Pic: 19
+Resourse: (2, 5, 7)
+Effects:
+
+Attack: 2
+Power: 5
+Area: 0
+
+CounterAttack: 3
+Power: 6
+Area: 0
+
+First_strike: 16
+Power: 1
+Area: 0
+
+Piercing_strike: 39
+Power: 1
+Area: 0
+
+Bleeding: 208
+Power: 1
+Area: 0;
+
+
+/165
+Name: Scythe of Death;
+Slot: 100
+Class: 1
+Durability: 70
+GoldCost: 500
+GemCost: 50
+ShopLevel: 5
+Rarity: 3
+Building: 0
+Pic: 20
+Resourse: (7, 9)
+Effects:
+
+Attack: 2
+Power: 9
+Area: 0
+
+CounterAttack: 3
+Power: 6
+Area: 0
+
+NecroLord: 910
+Power: 1
+Area: 0
+
+FestringWounds: 136
+Power: 1
+Area: 0
+
+LayDisease: 80
+Power: 3
+Area: 0;
+
+
+/166
+Name: Devil's Trident;
+Slot: 100
+Class: 1
+Durability: 70
+GoldCost: 700
+GemCost: 50
+ShopLevel: 4
+Rarity: 4
+Building: 0
+Pic: 21
+Resourse: (7, 9)
+Effects:
+
+Attack: 2
+Power: 8
+Area: 0
+
+CounterAttack: 3
+Power: 5
+Area: 0
+
+Summon: 907
+Power: 4
+Area: 0
+
+Burning: 143
+Power: 2
+Area: 0;
+
+
+/167
+Name: Spear of Destiny;
+Slot: 100
+Class: 1
+Durability: 80
+GoldCost: 2000
+GemCost: 70
+ShopLevel: 6
+Rarity: 5
+Building: 242
+Pic: 22
+Resourse: (7, 8, 9)
+Effects:
+
+First_strike: 16
+Power: 1
+Area: 0
+
+Attack: 2
+Power: 7
+Area: 0
+
+CounterAttack: 3
+Power: 9
+Area: 0
+
+Attack: 2
+Power: 2
+Area: 1
+
+CounterAttack: 3
+Power: 2
+Area: 1;
+
+
+/168
+Name: Troll's Club;
+Slot: 1
+Class: 2
+Durability: 40
+GoldCost: 150
+GemCost: 0
+ShopLevel: 3
+Rarity: 2
+Building: 0
+Pic: 357
+Resourse: (2, 2)
+Effects:
+
+Stun: 40
+Power: 2
+Area: 0
+
+Attack: 2
+Power: 5
+Area: 0
+
+CounterAttack: 3
+Power: 2
+Area: 0;
+
+
+/169
+Name: Bonebreaker;
+Slot: 1
+Class: 2
+Durability: 45
+GoldCost: 150
+GemCost: 0
+ShopLevel: 3
+Rarity: 3
+Building: 0
+Pic: 358
+Resourse: (1, 2)
+Effects:
+
+Stun: 40
+Power: 1
+Area: 0
+
+Attack: 2
+Power: 4
+Area: 0
+
+CounterAttack: 3
+Power: 3
+Area: 0
+
+Cripple: 51
+Power: 3
+Area: 0;
+
+
+/170
+Name: Blighter;
+Slot: 1
+Class: 2
+Durability: 45
+GoldCost: 300
+GemCost: 0
+ShopLevel: 4
+Rarity: 2
+Building: 0
+Pic: 359
+Resourse: (1)
+Effects:
+
+Stun: 40
+Power: 2
+Area: 0
+
+Attack: 2
+Power: 4
+Area: 0
+
+CounterAttack: 3
+Power: 3
+Area: 0
+
+Smite_Good: 200
+Power: 2
+Area: 0;
+
+
+/171
+Name: Shieldbreaker;
+Slot: 1
+Class: 2
+Durability: 50
+GoldCost: 320
+GemCost: 0
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 360
+Resourse: (1)
+Effects:
+
+Stun: 40
+Power: 2
+Area: 0
+
+Attack: 2
+Power: 5
+Area: 0
+
+CounterAttack: 3
+Power: 4
+Area: 0
+
+DamageArmor: 45
+Power: 4
+Area: 0;
+
+
+/172
+Name: Flail of Thunder;
+Slot: 1
+Class: 2
+Durability: 60
+GoldCost: 500
+GemCost: 10
+ShopLevel: 5
+Rarity: 3
+Building: 0
+Pic: 361
+Resourse: (7, 5)
+Effects:
+
+Stun: 40
+Power: 2
+Area: 0
+
+Attack: 2
+Power: 6
+Area: 0
+
+CounterAttack: 3
+Power: 5
+Area: 0
+
+Undead_Hunter: 220
+Power: 1
+Area: 0;
+
+
+/173
+Name: Hammer of Smashing;
+Slot: 1
+Class: 2
+Durability: 70
+GoldCost: 700
+GemCost: 30
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 362
+Resourse: (7, 9)
+Effects:
+
+Stun: 40
+Power: 2
+Area: 0
+
+Attack: 2
+Power: 7
+Area: 0
+
+CounterAttack: 3
+Power: 5
+Area: 0
+
+CrushingBlow: 59
+Power: 4
+Area: 0;
+
+
+/174
+Name: Hammer of the Creator;
+Slot: 100
+Class: 2
+Durability: 100
+GoldCost: 3000
+GemCost: 150
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 363
+Resourse: (7, 8, 9)
+Effects:
+
+Stun: 40
+Power: 2
+Area: 0
+
+Attack: 2
+Power: 10
+Area: 0
+
+CounterAttack: 3
+Power: 9
+Area: 0
+
+Restless: 18
+Power: 1
+Area: 0;
+
+
+/175
+Name: Ancient Sword;
+Slot: 100
+Class: 2
+Durability: 70
+GoldCost: 100
+GemCost: 0
+ShopLevel: 3
+Rarity: 2
+Building: 0
+Pic: 380
+Resourse: (7)
+Effects:
+
+Attack: 2
+Power: 6
+Area: 0
+
+CounterAttack: 3
+Power: 6
+Area: 0
+
+Morale: 12
+Power: 1
+Area: 0
+
+UndeadHunter: 220
+Power: 1
+Area: 0;
+
+
+/176
+Name: Great Sword;
+Slot: 100
+Class: 2
+Durability: 80
+GoldCost: 300
+GemCost: 0
+ShopLevel: 3
+Rarity: 3
+Building: 0
+Pic: 381
+Resourse: (7, 7)
+Effects:
+
+Attack: 2
+Power: 8
+Area: 0
+
+CounterAttack: 3
+Power: 7
+Area: 0
+
+Demon_Hunter: 221
+Power: 1
+Area: 0;
+
+
+/177
+Name: Master's Sword;
+Slot: 100
+Class: 2
+Durability: 80
+GoldCost: 400
+GemCost: 0
+ShopLevel: 4
+Rarity: 2
+Building: 0
+Pic: 382
+Resourse: (7, 7)
+Effects:
+
+Attack: 2
+Power: 9
+Area: 0
+
+CounterAttack: 3
+Power: 7
+Area: 0
+
+AimedStrike: 76
+Power: 3
+Area: 0;
+
+
+/178
+Name: Sword of Insanity;
+Slot: 100
+Class: 2
+Durability: 85
+GoldCost: 500
+GemCost: 30
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 383
+Resourse: (7, 7, 4)
+Effects:
+
+Attack: 2
+Power: 12
+Area: 0
+
+CounterAttack: 3
+Power: 6
+Area: 0
+
+Berserk: 25
+Power: 4
+Area: 0
+
+Defence: 4
+Power: -2
+Area: 0;
+
+
+/179
+Name: Demonblade;
+Slot: 100
+Class: 2
+Durability: 90
+GoldCost: 500
+GemCost: 50
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 384
+Resourse: (1, 1, 9)
+Effects:
+
+Attack: 2
+Power: 12
+Area: 0
+
+CounterAttack: 3
+Power: 7
+Area: 0
+
+StealSoul: 57
+Power: 5
+Area: 0
+
+Smite_Good: 200
+Power: 3
+Area: 0;
+
+
+/180
+Name: Sword of Blood;
+Slot: 100
+Class: 2
+Durability: 100
+GoldCost: 2000
+GemCost: 90
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 385
+Resourse: (7, 9, 9)
+Effects:
+
+Attack: 2
+Power: 11
+Area: 0
+
+CounterAttack: 3
+Power: 9
+Area: 0
+
+DrainLife: 68
+Power: 40
+Area: 0;
+
+
+/181
+Name: Sword of the Immortals;
+Slot: 100
+Class: 2
+Durability: 100
+GoldCost: 1500
+GemCost: 80
+ShopLevel: 5
+Rarity: 5
+Building: 249
+Pic: 386
+Resourse: (7, 8, 8)
+Effects:
+
+Attack: 2
+Power: 12
+Area: 0
+
+CounterAttack: 3
+Power: 10
+Area: 0
+
+Regeneration: 48
+Power: 5
+Area: 0;
+
+
+/182
+Name: Flag of Intrepidity;
+Slot: 2
+Class: 5
+Durability: 10
+GoldCost: 100
+GemCost: 5
+ShopLevel: 2
+Rarity: 1
+Building: 92
+Pic: 24
+Resourse: (2)
+Effects:
+
+CounterAttack: 3
+Power: 2
+Area: 0
+
+Morale: 12
+Power: 3
+Area: 1;
+
+
+/183
+Name: Flag of Tirelessness;
+Slot: 2
+Class: 5
+Durability: 10
+GoldCost: 150
+GemCost: 10
+ShopLevel: 3
+Rarity: 1
+Building: 144
+Pic: 25
+Resourse: (2)
+Effects:
+
+CounterAttack: 3
+Power: 3
+Area: 0
+
+Stamina: 11
+Power: 3
+Area: 1;
+
+
+/184
+Name: Banner of Fury;
+Slot: 100
+Class: 5
+Durability: 30
+GoldCost: 500
+GemCost: 20
+ShopLevel: 4
+Rarity: 2
+Building: 0
+Pic: 26
+Resourse: (2, 4)
+Effects:
+
+Attack: 2
+Power: 3
+Area: 0
+
+CounterAttack: 3
+Power: 2
+Area: 0
+
+Attack: 2
+Power: 2
+Area: 1
+
+CounterAttack: 3
+Power: 2
+Area: 1
+
+BloodRage: 211
+Power: 1
+Area: 1;
+
+
+/185
+Name: Banner of Defiance;
+Slot: 100
+Class: 5
+Durability: 40
+GoldCost: 600
+GemCost: 30
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 27
+Resourse: (2, 4)
+Effects:
+
+Attack: 2
+Power: 2
+Area: 0
+
+CounterAttack: 3
+Power: 3
+Area: 0
+
+Defence: 4
+Power: 1
+Area: 1
+
+RangedDefence: 5
+Power: 1
+Area: 1
+
+Resist: 6
+Power: 1
+Area: 1;
+
+
+/186
+Name: Eagle Pennant;
+Slot: 2
+Class: 5
+Durability: 15
+GoldCost: 550
+GemCost: 40
+ShopLevel: 4
+Rarity: 4
+Building: 0
+Pic: 28
+Resourse: (2, 4)
+Effects:
+
+CounterAttack: 3
+Power: 3
+Area: 0
+
+RangedAttack: 8
+Power: 2
+Area: 1
+
+Morale: 12
+Power: 2
+Area: 1;
+
+/187
+Name: Banner of Victory;
+Slot: 100
+Class: 5
+Durability: 30
+GoldCost: 900
+GemCost: 60
+ShopLevel: 5
+Rarity: 3
+Building: 0
+Pic: 29
+Resourse: (2, 5)
+Effects:
+
+Attack: 2
+Power: 5
+Area: 0
+
+CounterAttack: 3
+Power: 3
+Area: 0
+
+Life: 1
+Power: 3
+Area: 1
+
+Stamina: 11
+Power: 4
+Area: 1
+
+Morale: 12
+Power: 5
+Area: 1;
+
+
+/188
+Name: Dragon Pennant;
+Slot: 2
+Class: 5
+Durability: 20
+GoldCost: 1000
+GemCost: 80
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 30
+Resourse: (2, 8)
+Effects:
+
+CounterAttack: 3
+Power: 4
+Area: 0
+
+Life: 1
+Power: 5
+Area: 1
+
+Resist: 6
+Power: 2
+Area: 1;
+
+
+/189
+Name: Banner of the Ancients;
+Slot: 100
+Class: 5
+Durability: 40
+GoldCost: 2500
+GemCost: 120
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 31
+Resourse: (2, 8, 8)
+Effects:
+
+Attack: 2
+Power: 5
+Area: 0
+
+CounterAttack: 3
+Power: 5
+Area: 0
+
+Attack: 2
+Power: 2
+Area: 1
+
+CounterAttack: 3
+Power: 2
+Area: 1
+
+Defence: 4
+Power: 2
+Area: 1
+
+RangedDefence: 5
+Power: 2
+Area: 1;
+
+
+/190
+Name: Nomad Bow;
+Slot: 1
+Class: 3
+Durability: 45
+GoldCost: 70
+GemCost: 0
+ShopLevel: 2
+Rarity: 2
+Building: 121
+Pic: 368
+Resourse: (2)
+Effects:
+
+RangedAttack: 8
+Power: 8
+Area: 0
+
+ShootingRange: 9
+Power: 5
+Area: 0
+
+Ammo: 10
+Power: 6
+Area: 0;
+
+/191
+Name: Bandit's Bow;
+Slot: 1
+Class: 3
+Durability: 55
+GoldCost: 200
+GemCost: 0
+ShopLevel: 3
+Rarity: 3
+Building: 0
+Pic: 369
+Resourse: (2)
+Effects:
+
+RangedAttack: 8
+Power: 8
+Area: 0
+
+ShootingRange: 9
+Power: 6
+Area: 0
+
+Ammo: 10
+Power: 4
+Area: 0
+
+Looter: 992
+Power: 1
+Area: 0;
+
+
+/192
+Name: Centaur's Bow;
+Slot: 1
+Class: 3
+Durability: 60
+GoldCost: 200
+GemCost: 0
+ShopLevel: 3
+Rarity: 3
+Building: 0
+Pic: 370
+Resourse: (2)
+Effects:
+
+RangedAttack: 8
+Power: 7
+Area: 0
+
+ShootingRange: 9
+Power: 5
+Area: 0
+
+Ammo: 10
+Power: 4
+Area: 0
+
+PowerfulShot: 157
+Power: 3
+Area: 0;
+
+/193
+Name: Elven Bow;
+Slot: 1
+Class: 3
+Durability: 65
+GoldCost: 220
+GemCost: 5
+ShopLevel: 4
+Rarity: 2
+Building: 0
+Pic: 371
+Resourse: (2, 4)
+Effects:
+
+RangedAttack: 8
+Power: 9
+Area: 0
+
+ShootingRange: 9
+Power: 6
+Area: 0
+
+Ammo: 10
+Power: 4
+Area: 0
+
+AimedShot: 77
+Power: 2
+Area: 0;
+
+
+/194
+Name: Black Forest Bow;
+Slot: 1
+Class: 3
+Durability: 70
+GoldCost: 250
+GemCost: 10
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 372
+Resourse: (2, 4)
+Effects:
+
+RangedAttack: 8
+Power: 11
+Area: 0
+
+ShootingRange: 9
+Power: 5
+Area: 0
+
+Ammo: 10
+Power: 4
+Area: 0
+
+GatherAmmo: 23
+Power: 4
+Area: 0;
+
+
+/195
+Name: Flaming Bow;
+Slot: 1
+Class: 3
+Durability: 70
+GoldCost: 350
+GemCost: 40
+ShopLevel: 5
+Rarity: 3
+Building: 0
+Pic: 373
+Resourse: (2, 5)
+Effects:
+
+RangedAttack: 8
+Power: 11
+Area: 0
+
+ShootingRange: 9
+Power: 5
+Area: 0
+
+Ammo: 10
+Power: 4
+Area: 0
+
+Burning: 144
+Power: 2
+Area: 0;
+
+
+/196
+Name: Bow of Winds;
+Slot: 1
+Class: 3
+Durability: 75
+GoldCost: 500
+GemCost: 40
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 374
+Resourse: (2, 5)
+Effects:
+
+RangedAttack: 8
+Power: 11
+Area: 0
+
+ShootingRange: 9
+Power: 7
+Area: 0
+
+Ammo: 10
+Power: 4
+Area: 0
+
+Initiative: 999
+Power: 1
+Area: 0;
+
+
+/197
+Name: Renver's Bow;
+Slot: 1
+Class: 3
+Durability: 80
+GoldCost: 1000
+GemCost: 80
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 375
+Resourse: (2, 8, 8)
+Effects:
+
+RangedAttack: 8
+Power: 13
+Area: 0
+
+ShootingRange: 9
+Power: 6
+Area: 0
+
+Ammo: 10
+Power: 4
+Area: 0
+
+AimedShot: 77
+Power: 4
+Area: 0
+
+FlamingArrows: 60
+Power: 4
+Area: 0;
+
+
+/198
+Name: Dwarven Crossbow;
+Slot: 1
+Class: 3
+Durability: 50
+GoldCost: 200
+GemCost: 0
+ShopLevel: 2
+Rarity: 2
+Building: 196
+Pic: 391
+Resourse: (1, 2)
+Effects:
+
+RangedAttack: 8
+Power: 7
+Area: 0
+
+ShootingRange: 9
+Power: 4
+Area: 0
+
+Ammo: 10
+Power: 3
+Area: 0
+
+Piercing_shot: 17
+Power: 1
+Area: 0
+
+Life: 1
+Power: 3
+Area: 0;
+
+/199
+Name: Accurate Crossbow;
+Slot: 1
+Class: 3
+Durability: 55
+GoldCost: 250
+GemCost: 0
+ShopLevel: 3
+Rarity: 2
+Building: 0
+Pic: 392
+Resourse: (1, 2)
+Effects:
+
+RangedAttack: 8
+Power: 8
+Area: 0
+
+ShootingRange: 9
+Power: 4
+Area: 0
+
+Ammo: 10
+Power: 4
+Area: 0
+
+Piercing_shot: 17
+Power: 1
+Area: 0
+
+Aimed_shot: 77
+Power: 2
+Area: 0;
+
+
+/200
+Name: Enchanted Crossbow;
+Slot: 1
+Class: 3
+Durability: 60
+GoldCost: 300
+GemCost: 20
+ShopLevel: 3
+Rarity: 3
+Building: 0
+Pic: 393
+Resourse: (1, 2, 4)
+Effects:
+
+RangedAttack: 8
+Power: 9
+Area: 0
+
+ShootingRange: 9
+Power: 4
+Area: 0
+
+Ammo: 10
+Power: 4
+Area: 0
+
+Piercing_shot: 17
+Power: 1
+Area: 0
+
+FlamingArrows: 60
+Power: 3
+Area: 0;
+
+/201
+Name: Springald;
+Slot: 1
+Class: 3
+Durability: 65
+GoldCost: 450
+GemCost: 0
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 394
+Resourse: (1, 2, 7)
+Effects:
+
+RangedAttack: 8
+Power: 10
+Area: 0
+
+ShootingRange: 9
+Power: 5
+Area: 0
+
+Ammo: 10
+Power: 6
+Area: 0
+
+Piercing_shot: 17
+Power: 1
+Area: 0;
+
+
+/202
+Name: Hand Ballista;
+Slot: 1
+Class: 3
+Durability: 80
+GoldCost: 400
+GemCost: 0
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 395
+Resourse: (2, 7, 7)
+Effects:
+
+RangedAttack: 8
+Power: 11
+Area: 0
+
+ShootingRange: 9
+Power: 6
+Area: 0
+
+Ammo: 10
+Power: 2
+Area: 0
+
+Piercing_shot: 17
+Power: 1
+Area: 0
+
+Siege: 55
+Power: 5
+Area: 0
+
+Speed: 7
+Power: -1
+Area: 0;
+
+
+/203
+Name: Ethereal Crossbow;
+Slot: 1
+Class: 3
+Durability: 70
+GoldCost: 600
+GemCost: 60
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 396
+Resourse: (7, 2, 5)
+Effects:
+
+RangedAttack: 8
+Power: 12
+Area: 0
+
+ShootingRange: 9
+Power: 5
+Area: 0
+
+Ammo: 10
+Power: 5
+Area: 0
+
+Magic_shot: 28
+Power: 1
+Area: 0;
+
+
+/204
+Name: Crossbow of Wrath;
+Slot: 1
+Class: 3
+Durability: 80
+GoldCost: 1000
+GemCost: 40
+ShopLevel: 6
+Rarity: 4
+Building: 0
+Pic: 397
+Resourse: (2, 7, 9)
+Effects:
+
+RangedAttack: 8
+Power: 14
+Area: 0
+
+ShootingRange: 9
+Power: 5
+Area: 0
+
+Ammo: 10
+Power: 4
+Area: 0
+
+Piercing_shot: 17
+Power: 1
+Area: 0
+
+PoisonShot: 78
+Power: 2
+Area: 0
+
+FearedShot: 169
+Power: 1
+Area: 0;
+
+
+/205
+Name: Fire Wand;
+Slot: 1
+Class: 4
+Durability: 30
+GoldCost: 150
+GemCost: 10
+ShopLevel: 3
+Rarity: 3
+Building: 0
+Pic: 257
+Resourse: (4)
+Effects:
+
+RangeAttack: 8
+Power: 7
+Area: 0
+
+Range: 9
+Power: 4
+Area: 0
+
+Ammo: 10
+Power: 6
+Area: 0
+
+Magic_shot: 28
+Power: 1
+Area: 0
+
+Burning: 144
+Power: 1
+Area: 0;
+
+
+/206
+Name: Wand of Lightning;
+Slot: 1
+Class: 4
+Durability: 30
+GoldCost: 100
+GemCost: 7
+ShopLevel: 3
+Rarity: 2
+Building: 0
+Pic: 258
+Resourse: (4)
+Effects:
+
+RangeAttack: 8
+Power: 5
+Area: 0
+
+Range: 9
+Power: 5
+Area: 0
+
+Ammo: 10
+Power: 5
+Area: 0
+
+PierceResist: 196
+Power: 1
+Area: 0
+
+Magic_shot: 28
+Power: 1
+Area: 0;
+
+
+/207
+Name: Wand of Darkness;
+Slot: 1
+Class: 4
+Durability: 35
+GoldCost: 200
+GemCost: 15
+ShopLevel: 4
+Rarity: 2
+Building: 0
+Pic: 259
+Resourse: (5)
+Effects:
+
+RangeAttack: 8
+Power: 7
+Area: 0
+
+Range: 9
+Power: 5
+Area: 0
+
+Ammo: 10
+Power: 5
+Area: 0
+
+Magic_shot: 28
+Power: 1
+Area: 0
+
+CounterAttack: 3
+Power: 3
+Area: 0
+
+LayCurse: 43
+Power: 4
+Area: 0;
+
+
+/208
+Name: Warlock's Wand;
+Slot: 1
+Class: 4
+Durability: 40
+GoldCost: 200
+GemCost: 15
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 260
+Resourse: (9)
+Effects:
+
+RangeAttack: 8
+Power: 7
+Area: 0
+
+Range: 9
+Power: 5
+Area: 0
+
+Ammo: 10
+Power: 4
+Area: 0
+
+Magic_shot: 28
+Power: 1
+Area: 0
+
+UndeadPower: 909
+Power: 2
+Area: 0;
+
+
+/209
+Name: Wand of Power;
+Slot: 1
+Class: 4
+Durability: 45
+GoldCost: 400
+GemCost: 50
+ShopLevel: 5
+Rarity: 3
+Building: 0
+Pic: 261
+Resourse: (4, 5)
+Effects:
+
+RangeAttack: 8
+Power: 9
+Area: 0
+
+Range: 9
+Power: 5
+Area: 0
+
+Ammo: 10
+Power: 4
+Area: 0
+
+Magic_shot: 28
+Power: 1
+Area: 0
+
+LowerResist: 908
+Power: 1
+Area: 0;
+
+
+/210
+Name: Wand of Tempest;
+Slot: 1
+Class: 4
+Durability: 50
+GoldCost: 500
+GemCost: 60
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 262
+Resourse: (5, 5)
+Effects:
+
+RangeAttack: 8
+Power: 9
+Area: 0
+
+Range: 9
+Power: 5
+Area: 0
+
+Ammo: 10
+Power: 3
+Area: 0
+
+Energy_control: 95
+Power: 4
+Area: 0
+
+Magic_shot: 28
+Power: 1
+Area: 0
+
+SpellPower: 905
+Power: 1
+Area: 0;
+
+
+/211
+Name: Wand of Ages;
+Slot: 1
+Class: 4
+Durability: 55
+GoldCost: 700
+GemCost: 60
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 263
+Resourse: (5, 8)
+Effects:
+
+RangeAttack: 8
+Power: 10
+Area: 0
+
+Range: 9
+Power: 5
+Area: 0
+
+Ammo: 10
+Power: 5
+Area: 0
+
+Energy_control: 95
+Power: 5
+Area: 0
+
+Magic_shot: 28
+Power: 1
+Area: 0
+
+SpellDuration: 906
+Power: 1
+Area: 0;
+
+
+/212
+Name: Crystal Sphere;
+Slot: 2
+Class: 4
+Durability: 10
+GoldCost: 0
+GemCost: 5
+ShopLevel: 1
+Rarity: 1
+Building: 93
+Pic: 66
+Resourse: (0)
+Effects:
+
+Energy_control: 95
+Power: 1
+Area: 0;
+
+
+/213
+Name: Sphere of Memory;
+Slot: 2
+Class: 4
+Durability: 15
+GoldCost: 0
+GemCost: 10
+ShopLevel: 2
+Rarity: 1
+Building: 0
+Pic: 67
+Resourse: (4)
+Effects:
+
+Meditation: 22
+Power: 1
+Area: 0;
+
+/214
+Name: Sphere of Knowledge;
+Slot: 2
+Class: 4
+Durability: 15
+GoldCost: 10
+GemCost: 5
+ShopLevel: 2
+Rarity: 1
+Building: 145
+Pic: 68
+Resourse: (4)
+Effects:
+
+Energy_control: 95
+Power: 1
+Area: 0
+
+Ammo: 10
+Power: 2
+Area: 0;
+
+
+/215
+Name: Sphere of Flame;
+Slot: 2
+Class: 4
+Durability: 20
+GoldCost: 50
+GemCost: 7
+ShopLevel: 3
+Rarity: 2
+Building: 0
+Pic: 69
+Resourse: (4)
+Effects:
+
+Energy_control: 95
+Power: 2
+Area: 0
+
+RangedAttack: 994
+Power: 2
+Area: 0;
+
+
+/216
+Name: Sphere of Thought;
+Slot: 2
+Class: 4
+Durability: 20
+GoldCost: 40
+GemCost: 5
+ShopLevel: 3
+Rarity: 1
+Building: 186
+Pic: 70
+Resourse: (4)
+Effects:
+
+Energy_control: 95
+Power: 1
+Area: 0
+
+Ammo: 10
+Power: 2
+Area: 0
+
+RangedAttack: 994
+Power: 1
+Area: 0;
+
+
+/217
+Name: Sphere of Wisdom;
+Slot: 2
+Class: 4
+Durability: 25
+GoldCost: 80
+GemCost: 10
+ShopLevel: 3
+Rarity: 3
+Building: 0
+Pic: 71
+Resourse: (4)
+Effects:
+
+Energy_control: 95
+Power: 2
+Area: 0
+
+Ammo: 10
+Power: 2
+Area: 0
+
+ExpGain: 991
+Power: 10
+Area: 0;
+
+
+/218
+Name: Sphere of Destruction;
+Slot: 2
+Class: 4
+Durability: 30
+GoldCost: 100
+GemCost: 15
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 72
+Resourse: (9)
+Effects:
+
+Energy_control: 95
+Power: 3
+Area: 0
+
+RangedAttack: 994
+Power: 3
+Area: 0
+
+Ammo: 10
+Power: 1
+Area: 0;
+
+
+/219
+Name: Crystalline Sphere;
+Slot: 2
+Class: 4
+Durability: 30
+GoldCost: 100
+GemCost: 40
+ShopLevel: 4
+Rarity: 4
+Building: 0
+Pic: 73
+Resourse: (8)
+Effects:
+
+Energy_control: 95
+Power: 1
+Area: 0
+
+SpellCost: 983
+Power: 10
+Area: 0
+
+GemIncome: 82
+Power: 5
+Area: 0;
+
+
+/220
+Name: Sphere of Ages;
+Slot: 2
+Class: 4
+Durability: 35
+GoldCost: 250
+GemCost: 60
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 23
+Resourse: (5, 5)
+Effects:
+
+Energy_control: 95
+Power: 3
+Area: 0
+
+RangedAttack: 994
+Power: 2
+Area: 0
+
+Ammo: 10
+Power: 2
+Area: 0
+
+SpellDuration: 906
+Power: 1
+Area: 0;
+
+
+/221
+Name: Reinforced Shield;
+Slot: 2
+Class: 9
+Durability: 50
+GoldCost: 50
+GemCost: 0
+ShopLevel: 2
+Rarity: 2
+Building: 0
+Pic: 333
+Resourse: (1)
+Effects:
+
+Defence: 4
+Power: 1
+Area: 0
+
+RangedDefence: 5
+Power: 1
+Area: 0
+
+Life: 1
+Power: 5
+Area: 0;
+
+/222
+Name: Dwarven Shield;
+Slot: 2
+Class: 9
+Durability: 70
+GoldCost: 90
+GemCost: 0
+ShopLevel: 3
+Rarity: 2
+Building: 196
+Pic: 334
+Resourse: (1)
+Effects:
+
+Defence: 4
+Power: 2
+Area: 0
+
+RangedDefence: 5
+Power: 2
+Area: 0
+
+Life: 1
+Power: 5
+Area: 0;
+
+
+/223
+Name: Warrior's Shield;
+Slot: 2
+Class: 9
+Durability: 60
+GoldCost: 100
+GemCost: 0
+ShopLevel: 3
+Rarity: 3
+Building: 0
+Pic: 335
+Resourse: (1)
+Effects:
+
+Defence: 4
+Power: 2
+Area: 0
+
+RangedDefence: 5
+Power: 2
+Area: 0
+
+CounterAttack: 3
+Power: 1
+Area: 0;
+
+
+/224
+Name: Silver Shield;
+Slot: 2
+Class: 9
+Durability: 65
+GoldCost: 180
+GemCost: 10
+ShopLevel: 4
+Rarity: 2
+Building: 0
+Pic: 336
+Resourse: (1)
+Effects:
+
+Defence: 4
+Power: 2
+Area: 0
+
+RangedDefence: 5
+Power: 3
+Area: 0
+
+Resist: 6
+Power: 1
+Area: 0;
+
+
+/225
+Name: Mithril Shield;
+Slot: 2
+Class: 9
+Durability: 70
+GoldCost: 220
+GemCost: 15
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 337
+Resourse: (7)
+Effects:
+
+Defence: 4
+Power: 2
+Area: 0
+
+RangedDefence: 5
+Power: 3
+Area: 0
+
+Resist: 6
+Power: 2
+Area: 0;
+
+
+/226
+Name: Fire Shield;
+Slot: 2
+Class: 9
+Durability: 75
+GoldCost: 300
+GemCost: 50
+ShopLevel: 5
+Rarity: 3
+Building: 0
+Pic: 338
+Resourse: (5, 7)
+Effects:
+
+Defence: 4
+Power: 3
+Area: 0
+
+RangedDefence: 5
+Power: 2
+Area: 0
+
+BurningFlesh: 154
+Power: 1
+Area: 0;
+
+
+/227
+Name: Dragon Shield;
+Slot: 2
+Class: 9
+Durability: 80
+GoldCost: 500
+GemCost: 50
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 339
+Resourse: (5, 7)
+Effects:
+
+Defence: 4
+Power: 3
+Area: 0
+
+RangedDefence: 5
+Power: 3
+Area: 0
+
+Resist: 6
+Power: 3
+Area: 0;
+
+
+/228
+Name: Sacred Shield;
+Slot: 2
+Class: 9
+Durability: 100
+GoldCost: 1500
+GemCost: 100
+ShopLevel: 6
+Rarity: 4
+Building: 0
+Pic: 340
+Resourse: (7, 8, 8)
+Effects:
+
+Defence: 4
+Power: 4
+Area: 0
+
+RangedDefence: 5
+Power: 4
+Area: 0
+
+Resist: 6
+Power: 3
+Area: 0
+
+FirstAid: 35
+Power: 5
+Area: 0
+
+Recover: 21
+Power: 5
+Area: 0;
+
+
+/229
+Name: Nomad Arrows;
+Slot: 2
+Class: 3
+Durability: 25
+GoldCost: 40
+GemCost: 0
+ShopLevel: 2
+Rarity: 2
+Building: 121
+Pic: 269
+Resourse: (1)
+Effects:
+
+RangedAttack: 993
+Power: 3
+Area: 0
+
+Ammo: 10
+Power: 6
+Area: 0;
+
+/230
+Name: Silver Arrows;
+Slot: 2
+Class: 3
+Durability: 10
+GoldCost: 80
+GemCost: 5
+ShopLevel: 3
+Rarity: 2
+Building: 0
+Pic: 270
+Resourse: (1)
+Effects:
+
+RangedAttack: 993
+Power: 4
+Area: 0
+
+Ammo: 10
+Power: 3
+Area: 0
+
+Smite Evil: 61
+Power: 1
+Area: 0;
+
+
+/231
+Name: Poisoned Arrows;
+Slot: 2
+Class: 3
+Durability: 15
+GoldCost: 100
+GemCost: 0
+ShopLevel: 3
+Rarity: 3
+Building: 0
+Pic: 271
+Resourse: (1, 4)
+Effects:
+
+RangedAttack: 993
+Power: 3
+Area: 0
+
+Ammo: 10
+Power: 3
+Area: 0
+
+PoisonShot: 78
+Power: 1
+Area: 0;
+
+
+/232
+Name: Elven Arrows;
+Slot: 2
+Class: 3
+Durability: 20
+GoldCost: 120
+GemCost: 10
+ShopLevel: 4
+Rarity: 2
+Building: 0
+Pic: 272
+Resourse: (7)
+Effects:
+
+RangedAttack: 993
+Power: 4
+Area: 0
+
+Ammo: 10
+Power: 4
+Area: 0
+
+AimedShot: 77
+Power: 1
+Area: 0;
+
+
+/233
+Name: Fire Arrows;
+Slot: 2
+Class: 3
+Durability: 15
+GoldCost: 150
+GemCost: 20
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 273
+Resourse: (5)
+Effects:
+
+RangedAttack: 993
+Power: 3
+Area: 0
+
+Ammo: 10
+Power: 4
+Area: 0
+
+FireArrows: 144
+Power: 2
+Area: 0;
+
+
+/234
+Name: Gryphon's Arrows;
+Slot: 2
+Class: 3
+Durability: 20
+GoldCost: 200
+GemCost: 10
+ShopLevel: 5
+Rarity: 3
+Building: 0
+Pic: 274
+Resourse: (7)
+Effects:
+
+RangedAttack: 993
+Power: 2
+Area: 0
+
+Ammo: 10
+Power: 5
+Area: 0
+
+Range: 9
+Power: 1
+Area: 0;
+
+
+/235
+Name: Arrows of Death;
+Slot: 2
+Class: 3
+Durability: 25
+GoldCost: 250
+GemCost: 20
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 275
+Resourse: (7, 9)
+Effects:
+
+RangedAttack: 993
+Power: 4
+Area: 0
+
+Ammo: 10
+Power: 4
+Area: 0
+
+BleedingShot: 209
+Power: 2
+Area: 0;
+
+
+/236
+Name: Renver's Arrows;
+Slot: 2
+Class: 3
+Durability: 33
+GoldCost: 500
+GemCost: 40
+ShopLevel: 6
+Rarity: 4
+Building: 242
+Pic: 276
+Resourse: (7, 8)
+Effects:
+
+RangedAttack: 993
+Power: 5
+Area: 0
+
+Ammo: 10
+Power: 4
+Area: 0
+
+EnchantedArrows: 60
+Power: 4
+Area: 0
+
+AimedShot: 77
+Power: 1
+Area: 0;
+
+
+/237
+Name: Sorcerer's Toga;
+Slot: 3
+Class: 0
+Durability: 20
+GoldCost: 60
+GemCost: 5
+ShopLevel: 3
+Rarity: 2
+Building: 0
+Pic: 127
+Resourse: (0)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+Stamina: 11
+Power: 2
+Area: 0;
+
+
+/238
+Name: Mantle of Illusion;
+Slot: 3
+Class: 0
+Durability: 20
+GoldCost: 60
+GemCost: 5
+ShopLevel: 3
+Rarity: 3
+Building: 0
+Pic: 128
+Resourse: (0)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+RangedDefence: 5
+Power: 1
+Area: 0;
+
+
+/239
+Name: Merchant's Coat;
+Slot: 3
+Class: 0
+Durability: 25
+GoldCost: 150
+GemCost: 0
+ShopLevel: 4
+Rarity: 2
+Building: 0
+Pic: 129
+Resourse: (0)
+Effects:
+
+Life: 1
+Power: 6
+Area: 0
+
+GoldIncome: 81
+Power: 12
+Area: 0;
+
+
+/240
+Name: Mantle of Incarnation;
+Slot: 3
+Class: 0
+Durability: 20
+GoldCost: 170
+GemCost: 30
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 130
+Resourse: (5)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+Summon: 907
+Power: 2
+Area: 0;
+
+
+/241
+Name: Enchanter's Mantle;
+Slot: 3
+Class: 0
+Durability: 30
+GoldCost: 400
+GemCost: 50
+ShopLevel: 5
+Rarity: 3
+Building: 0
+Pic: 131
+Resourse: (5)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+Defence: 4
+Power: 1
+Area: 0
+
+RangedDefence: 5
+Power: 1
+Area: 0
+
+Resist: 6
+Power: 1
+Area: 0
+
+SpellDuration: 906
+Power: 1
+Area: 0;
+
+
+/242
+Name: Mantle of Mystery;
+Slot: 3
+Class: 0
+Durability: 35
+GoldCost: 500
+GemCost: 70
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 132
+Resourse: (5, 9)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+Defence: 4
+Power: 1
+Area: 0
+
+RangedDefence: 5
+Power: 2
+Area: 0
+
+Resist: 6
+Power: 2
+Area: 0
+
+SpellPenetration: 908
+Power: 1
+Area: 0;
+
+
+/243
+Name: Archmage's Mantle;
+Slot: 3
+Class: 0
+Durability: 40
+GoldCost: 1000
+GemCost: 150
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 133
+Resourse: (5, 8, 9)
+Effects:
+
+Life: 1
+Power: 10
+Area: 0
+
+Defence: 4
+Power: 2
+Area: 0
+
+RangedDefence: 5
+Power: 2
+Area: 0
+
+Resist: 6
+Power: 2
+Area: 0
+
+SpellPower: 905
+Power: 2
+Area: 0;
+
+
+/244
+Name: Stalker's Jacket;
+Slot: 3
+Class: 6
+Durability: 30
+GoldCost: 90
+GemCost: 0
+ShopLevel: 3
+Rarity: 2
+Building: 0
+Pic: 205
+Resourse: (0)
+Effects:
+
+Defence: 4
+Power: 2
+Area: 0
+
+RangedDefence: 5
+Power: 2
+Area: 0
+
+Explore: 996
+Power: 3
+Area: 0;
+
+
+/245
+Name: Swindler's Jacket;
+Slot: 3
+Class: 6
+Durability: 35
+GoldCost: 150
+GemCost: 0
+ShopLevel: 3
+Rarity: 3
+Building: 0
+Pic: 206
+Resourse: (0)
+Effects:
+
+Defence: 4
+Power: 2
+Area: 0
+
+RangedDefence: 5
+Power: 3
+Area: 0
+
+Pillage: 982
+Power: 35
+Area: 0;
+
+
+/246
+Name: Raider's Jacket;
+Slot: 3
+Class: 6
+Durability: 35
+GoldCost: 200
+GemCost: 0
+ShopLevel: 4
+Rarity: 2
+Building: 0
+Pic: 207
+Resourse: (0)
+Effects:
+
+Defence: 4
+Power: 3
+Area: 0
+
+RangedDefence: 5
+Power: 2
+Area: 0
+
+Looter: 992
+Power: 1
+Area: 0;
+
+
+/247
+Name: Basilisk Jacket;
+Slot: 3
+Class: 6
+Durability: 40
+GoldCost: 200
+GemCost: 10
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 208
+Resourse: (4)
+Effects:
+
+Defence: 4
+Power: 3
+Area: 0
+
+RangedDefence: 5
+Power: 3
+Area: 0
+
+Life: 1
+Power: 5
+Area: 0;
+
+
+/248
+Name: Manticore Jacket;
+Slot: 3
+Class: 6
+Durability: 45
+GoldCost: 400
+GemCost: 20
+ShopLevel: 5
+Rarity: 3
+Building: 0
+Pic: 209
+Resourse: (4, 5)
+Effects:
+
+Defence: 4
+Power: 4
+Area: 0
+
+RangedDefence: 5
+Power: 4
+Area: 0
+
+Stamina: 11
+Power: 3
+Area: 0;
+
+
+/249
+Name: Unicorn Jacket;
+Slot: 3
+Class: 6
+Durability: 50
+GoldCost: 500
+GemCost: 40
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 210
+Resourse: (4, 5, 8)
+Effects:
+
+Defence: 4
+Power: 4
+Area: 0
+
+RangedDefence: 5
+Power: 4
+Area: 0
+
+Resist: 6
+Power: 2
+Area: 0;
+
+
+/250
+Name: Troll's Jacket;
+Slot: 3
+Class: 6
+Durability: 60
+GoldCost: 1200
+GemCost: 30
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 211
+Resourse: (4, 4, 9)
+Effects:
+
+Defence: 4
+Power: 5
+Area: 0
+
+RangedDefence: 5
+Power: 5
+Area: 0
+
+Regeneration: 48
+Power: 4
+Area: 0;
+
+
+/251
+Name: Dwarven Chainmail;
+Slot: 3
+Class: 7
+Durability: 50
+GoldCost: 200
+GemCost: 0
+ShopLevel: 3
+Rarity: 2
+Building: 196
+Pic: 85
+Resourse: (1)
+Effects:
+
+Defence: 4
+Power: 4
+Area: 0
+
+RangedDefence: 5
+Power: 2
+Area: 0
+
+Life: 1
+Power: 5
+Area: 0;
+
+
+/252
+Name: Veteran's Chainmail;
+Slot: 3
+Class: 7
+Durability: 45
+GoldCost: 250
+GemCost: 0
+ShopLevel: 3
+Rarity: 3
+Building: 0
+Pic: 86
+Resourse: (1)
+Effects:
+
+Defence: 4
+Power: 4
+Area: 0
+
+RangedDefence: 5
+Power: 3
+Area: 0
+
+Stamina: 11
+Power: 3
+Area: 0;
+
+/253
+Name: Elven Chainmail;
+Slot: 3
+Class: 7
+Durability: 20
+GoldCost: 100
+GemCost: 20
+ShopLevel: 4
+Rarity: 2
+Building: 0
+Pic: 87
+Resourse: (7)
+Effects:
+
+Defence: 4
+Power: 4
+Area: 0
+
+RangedDefence: 5
+Power: 4
+Area: 0
+
+Resist: 6
+Power: 1
+Area: 0;
+
+
+/254
+Name: Hero's Chainmail;
+Slot: 3
+Class: 7
+Durability: 50
+GoldCost: 300
+GemCost: 5
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 88
+Resourse: (7)
+Effects:
+
+Defence: 4
+Power: 5
+Area: 0
+
+RangedDefence: 5
+Power: 4
+Area: 0
+
+Morale: 12
+Power: 3
+Area: 0;
+
+
+/255
+Name: Sacred Chainmail;
+Slot: 3
+Class: 7
+Durability: 50
+GoldCost: 300
+GemCost: 40
+ShopLevel: 5
+Rarity: 3
+Building: 0
+Pic: 89
+Resourse: (7, 5, 5)
+Effects:
+
+Defence: 4
+Power: 5
+Area: 0
+
+RangedDefence: 5
+Power: 5
+Area: 0
+
+Resist: 6
+Power: 3
+Area: 0;
+
+
+/256
+Name: Dragon Chainmail;
+Slot: 3
+Class: 7
+Durability: 60
+GoldCost: 700
+GemCost: 30
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 90
+Resourse: (7, 5, 8)
+Effects:
+
+Defence: 4
+Power: 6
+Area: 0
+
+RangedDefence: 5
+Power: 6
+Area: 0
+
+Resist: 6
+Power: 2
+Area: 0;
+
+
+/257
+Name: Mail of the Ancients;
+Slot: 3
+Class: 7
+Durability: 70
+GoldCost: 1500
+GemCost: 50
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 91
+Resourse: (7, 9, 8)
+Effects:
+
+Defence: 4
+Power: 7
+Area: 0
+
+RangedDefence: 5
+Power: 7
+Area: 0
+
+Resist: 6
+Power: 3
+Area: 0;
+
+
+/258
+Name: Guards Breastplate;
+Slot: 3
+Class: 8
+Durability: 40
+GoldCost: 200
+GemCost: 0
+ShopLevel: 3
+Rarity: 2
+Building: 0
+Pic: 164
+Resourse: (1, 1)
+Effects:
+
+Defence: 4
+Power: 6
+Area: 0
+
+RangedDefence: 5
+Power: 6
+Area: 0
+
+Speed: 7
+Power: -1
+Area: 0
+
+Attack: 2
+Power: -2
+Area: 0;
+
+
+/259
+Name: Paladin's Cuirass;
+Slot: 3
+Class: 8
+Durability: 45
+GoldCost: 300
+GemCost: 5
+ShopLevel: 3
+Rarity: 3
+Building: 0
+Pic: 165
+Resourse: (1, 7)
+Effects:
+
+Defence: 4
+Power: 6
+Area: 0
+
+RangedDefence: 5
+Power: 6
+Area: 0
+
+Speed: 7
+Power: -1
+Area: 0
+
+Attack: 2
+Power: -1
+Area: 0
+
+Morale: 12
+Power: 2
+Area: 0;
+
+/260
+Name: Dark Armor;
+Slot: 3
+Class: 8
+Durability: 45
+GoldCost: 350
+GemCost: 10
+ShopLevel: 4
+Rarity: 2
+Building: 0
+Pic: 166
+Resourse: (5, 7)
+Effects:
+
+Defence: 4
+Power: 6
+Area: 0
+
+RangedDefence: 5
+Power: 6
+Area: 0
+
+Speed: 7
+Power: -1
+Area: 0
+
+Smite_Good: 200
+Power: 1
+Area: 0;
+
+
+/261
+Name: Chestpiece of Valor;
+Slot: 3
+Class: 8
+Durability: 50
+GoldCost: 400
+GemCost: 15
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 167
+Resourse: (7, 7)
+Effects:
+
+Defence: 4
+Power: 6
+Area: 0
+
+RangedDefence: 5
+Power: 7
+Area: 0
+
+Speed: 7
+Power: -1
+Area: 0
+
+Morale: 12
+Power: 3
+Area: 0;
+
+
+/262
+Name: Blood Red Cuirass;
+Slot: 3
+Class: 8
+Durability: 60
+GoldCost: 800
+GemCost: 15
+ShopLevel: 5
+Rarity: 3
+Building: 0
+Pic: 168
+Resourse: (5, 7, 7)
+Effects:
+
+Defence: 4
+Power: 7
+Area: 0
+
+RangedDefence: 5
+Power: 8
+Area: 0
+
+Speed: 7
+Power: -1
+Area: 0
+
+BloodRage: 211
+Power: 3
+Area: 0;
+
+
+/263
+Name: Cuirass of Grandeur;
+Slot: 3
+Class: 8
+Durability: 60
+GoldCost: 1000
+GemCost: 20
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 169
+Resourse: (7, 7, 8)
+Effects:
+
+Defence: 4
+Power: 8
+Area: 0
+
+RangedDefence: 5
+Power: 8
+Area: 0
+
+Speed: 7
+Power: -1
+Area: 0;
+
+
+/264
+Name: Indestructible Cuirass;
+Slot: 3
+Class: 8
+Durability: 200
+GoldCost: 2000
+GemCost: 50
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 170
+Resourse: (7, 7, 8, 8)
+Effects:
+
+Defence: 4
+Power: 10
+Area: 0
+
+RangedDefence: 5
+Power: 10
+Area: 0
+
+Speed: 7
+Power: -1
+Area: 0;
+
+
+/265
+Name: Sandals of Illusion;
+Slot: 7
+Class: 0
+Durability: 20
+GoldCost: 90
+GemCost: 10
+ShopLevel: 3
+Rarity: 3
+Building: 0
+Pic: 147
+Resourse: (0)
+Effects:
+
+Life: 1
+Power: 2
+Area: 0
+
+Stamina: 11
+Power: 2
+Area: 0;
+
+/266
+Name: Shoes of Incarnation;
+Slot: 7
+Class: 0
+Durability: 20
+GoldCost: 150
+GemCost: 20
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 148
+Resourse: (4)
+Effects:
+
+Life: 1
+Power: 3
+Area: 0
+
+Summon: 907
+Power: 2
+Area: 0;
+
+
+/267
+Name: Astral Boots;
+Slot: 7
+Class: 0
+Durability: 25
+GoldCost: 300
+GemCost: 40
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 149
+Resourse: (5)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+GemIncome: 82
+Power: 5
+Area: 0;
+
+
+/268
+Name: Boots of Mystery;
+Slot: 7
+Class: 0
+Durability: 30
+GoldCost: 400
+GemCost: 60
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 150
+Resourse: (5, 9)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+Resist: 6
+Power: 1
+Area: 0;
+
+
+/269
+Name: Boots of Levitation;
+Slot: 7
+Class: 0
+Durability: 35
+GoldCost: 1000
+GemCost: 100
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 151
+Resourse: (5, 5, 8)
+Effects:
+
+Float: 15
+Power: 1
+Area: 0
+
+Speed: 7
+Power: 1
+Area: 0;
+
+
+/270
+Name: Traveler's Boots;
+Slot: 7
+Class: 6
+Durability: 35
+GoldCost: 80
+GemCost: 0
+ShopLevel: 3
+Rarity: 3
+Building: 0
+Pic: 223
+Resourse: (0)
+Effects:
+
+Life: 1
+Power: 3
+Area: 0
+
+Explore: 996
+Power: 3
+Area: 0;
+
+
+/271
+Name: Basilisk Boots;
+Slot: 7
+Class: 6
+Durability: 40
+GoldCost: 160
+GemCost: 15
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 224
+Resourse: (4)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+Swampwalk: 34
+Power: 4
+Area: 0;
+
+
+/272
+Name: Manticore Boots;
+Slot: 7
+Class: 6
+Durability: 45
+GoldCost: 300
+GemCost: 20
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 225
+Resourse: (4, 5)
+Effects:
+
+Life: 1
+Power: 6
+Area: 0
+
+Stamina: 11
+Power: 3
+Area: 0
+
+Hillwalk: 33
+Power: 4
+Area: 0;
+
+
+/273
+Name: Unicorn Boots;
+Slot: 7
+Class: 6
+Durability: 40
+GoldCost: 400
+GemCost: 25
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 226
+Resourse: (5, 5)
+Effects:
+
+Life: 1
+Power: 7
+Area: 0
+
+Stamina: 11
+Power: 2
+Area: 0
+
+Resist: 6
+Power: 1
+Area: 0
+
+Forestwalk: 32
+Power: 4
+Area: 0;
+
+
+/274
+Name: Boots of Speed;
+Slot: 7
+Class: 6
+Durability: 40
+GoldCost: 1000
+GemCost: 50
+ShopLevel: 6
+Rarity: 5
+Building: 245
+Pic: 227
+Resourse: (5, 5, 8)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+Stamina: 11
+Power: 5
+Area: 0
+
+Speed: 7
+Power: 1
+Area: 0
+
+Initiative: 999
+Power: 1
+Area: 0;
+
+
+/275
+Name: Veteran's Boots;
+Slot: 7
+Class: 7
+Durability: 40
+GoldCost: 120
+GemCost: 0
+ShopLevel: 3
+Rarity: 2
+Building: 0
+Pic: 103
+Resourse: (1)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+Stamina: 11
+Power: 1
+Area: 0;
+
+/276
+Name: Hero's Boots;
+Slot: 7
+Class: 7
+Durability: 45
+GoldCost: 180
+GemCost: 0
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 104
+Resourse: (1)
+Effects:
+
+Life: 1
+Power: 7
+Area: 0
+
+Morale: 12
+Power: 2
+Area: 0;
+
+
+/277
+Name: Protector's Boots;
+Slot: 7
+Class: 7
+Durability: 50
+GoldCost: 400
+GemCost: 0
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 105
+Resourse: (7)
+Effects:
+
+Life: 1
+Power: 7
+Area: 0
+
+CounterAttack: 3
+Power: 1
+Area: 0
+
+Defence: 4
+Power: 1
+Area: 0;
+
+
+/278
+Name: Dragon Boots;
+Slot: 7
+Class: 7
+Durability: 60
+GoldCost: 600
+GemCost: 20
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 106
+Resourse: (7, 5)
+Effects:
+
+Life: 1
+Power: 8
+Area: 0
+
+Defence: 4
+Power: 1
+Area: 0
+
+RangedDefence: 5
+Power: 1
+Area: 0
+
+Resist: 6
+Power: 1
+Area: 0;
+
+
+/279
+Name: General's Boots;
+Slot: 7
+Class: 7
+Durability: 55
+GoldCost: 1000
+GemCost: 20
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 107
+Resourse: (7, 8)
+Effects:
+
+Life: 1
+Power: 6
+Area: 0
+
+CounterAttack: 3
+Power: 1
+Area: 1
+
+Stamina: 11
+Power: 2
+Area: 1;
+
+
+/280
+Name: Paladin's Boots;
+Slot: 7
+Class: 8
+Durability: 50
+GoldCost: 120
+GemCost: 5
+ShopLevel: 3
+Rarity: 3
+Building: 0
+Pic: 182
+Resourse: (1)
+Effects:
+
+Life: 1
+Power: 6
+Area: 0
+
+Morale: 12
+Power: 2
+Area: 0;
+
+/281
+Name: Boots of Valor;
+Slot: 7
+Class: 8
+Durability: 55
+GoldCost: 200
+GemCost: 10
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 183
+Resourse: (7)
+Effects:
+
+Life: 1
+Power: 7
+Area: 0
+
+Attack: 2
+Power: 1
+Area: 0;
+
+/282
+Name: Monolith Boots;
+Slot: 7
+Class: 8
+Durability: 65
+GoldCost: 400
+GemCost: 30
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 184
+Resourse: (7, 7)
+Effects:
+
+Life: 1
+Power: 8
+Area: 0
+
+Defence: 4
+Power: 1
+Area: 0
+
+RangedDefence: 5
+Power: 1
+Area: 0;
+
+
+/283
+Name: Boots of Grandeur;
+Slot: 7
+Class: 8
+Durability: 60
+GoldCost: 600
+GemCost: 40
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 185
+Resourse: (7, 7)
+Effects:
+
+Life: 1
+Power: 8
+Area: 0
+
+Defence: 4
+Power: 1
+Area: 0
+
+RangedDefence: 5
+Power: 1
+Area: 0
+
+Resist: 6
+Power: 2
+Area: 0;
+
+
+/284
+Name: Stone Skin Boots;
+Slot: 7
+Class: 8
+Durability: 80
+GoldCost: 1200
+GemCost: 70
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 186
+Resourse: (7, 7, 8)
+Effects:
+
+Life: 1
+Power: 10
+Area: 0
+
+Defence: 4
+Power: 2
+Area: 0
+
+RangedDefence: 5
+Power: 2
+Area: 0
+
+Resist: 6
+Power: 1
+Area: 0;
+
+
+/285
+Name: Hat of Illusion;
+Slot: 4
+Class: 0
+Durability: 15
+GoldCost: 80
+GemCost: 15
+ShopLevel: 3
+Rarity: 3
+Building: 0
+Pic: 138
+Resourse: (4)
+Effects:
+
+Life: 1
+Power: 3
+Area: 0
+
+GemIncome: 82
+Power: 2
+Area: 0;
+
+/286
+Name: Hood of Incarnation;
+Slot: 4
+Class: 0
+Durability: 20
+GoldCost: 150
+GemCost: 10
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 139
+Resourse: (4)
+Effects:
+
+Life: 1
+Power: 4
+Area: 0
+
+Recover: 21
+Power: 2
+Area: 0;
+
+
+/287
+Name: Necromancer's Hood;
+Slot: 4
+Class: 0
+Durability: 20
+GoldCost: 300
+GemCost: 30
+ShopLevel: 4
+Rarity: 4
+Building: 0
+Pic: 140
+Resourse: (9)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+UndeadPower: 909
+Power: 2
+Area: 0;
+
+
+/288
+Name: Hood of Mystery;
+Slot: 4
+Class: 0
+Durability: 25
+GoldCost: 400
+GemCost: 40
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 141
+Resourse: (5, 9)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+Resist: 6
+Power: 1
+Area: 0
+
+ExpGain: 991
+Power: 10
+Area: 0;
+
+
+/289
+Name: Crown of Thought;
+Slot: 4
+Class: 0
+Durability: 30
+GoldCost: 1000
+GemCost: 80
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 142
+Resourse: (5, 8, 9)
+Effects:
+
+Life: 1
+Power: 6
+Area: 0
+
+Resist: 6
+Power: 2
+Area: 0
+
+SpellPower: 905
+Power: 1
+Area: 0;
+
+
+/290
+Name: Merchant's Hat;
+Slot: 4
+Class: 0
+Durability: 15
+GoldCost: 100
+GemCost: 5
+ShopLevel: 3
+Rarity: 3
+Building: 0
+Pic: 215
+Resourse: (0)
+Effects:
+
+Life: 1
+Power: 3
+Area: 0
+
+GoldIncome: 81
+Power: 10
+Area: 0;
+
+/291
+Name: Basilisk Helmet;
+Slot: 4
+Class: 6
+Durability: 30
+GoldCost: 160
+GemCost: 10
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 216
+Resourse: (4)
+Effects:
+
+Life: 1
+Power: 7
+Area: 0;
+
+
+/292
+Name: Manticore Helmet;
+Slot: 4
+Class: 6
+Durability: 35
+GoldCost: 300
+GemCost: 15
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 217
+Resourse: (4)
+Effects:
+
+Life: 1
+Power: 8
+Area: 0
+
+Stamina: 11
+Power: 3
+Area: 0;
+
+
+/293
+Name: Unicorn Helmet;
+Slot: 4
+Class: 6
+Durability: 40
+GoldCost: 400
+GemCost: 25
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 218
+Resourse: (5)
+Effects:
+
+Life: 1
+Power: 8
+Area: 0
+
+Resist: 6
+Power: 1
+Area: 0
+
+Morale: 12
+Power: 4
+Area: 0;
+
+
+/294
+Name: Ogre's Mask;
+Slot: 4
+Class: 0
+Durability: 40
+GoldCost: 300
+GemCost: 15
+ShopLevel: 4
+Rarity: 4
+Building: 0
+Pic: 219
+Resourse: (4, 5)
+Effects:
+
+Life: 1
+Power: 6
+Area: 0
+
+Cannibalize: 49
+Power: 10
+Area: 0;
+
+
+/295
+Name: Veteran's Helmet;
+Slot: 4
+Class: 7
+Durability: 30
+GoldCost: 130
+GemCost: 0
+ShopLevel: 3
+Rarity: 3
+Building: 0
+Pic: 95
+Resourse: (1)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+Stamina: 11
+Power: 2
+Area: 0;
+
+/296
+Name: Hero's Helmet;
+Slot: 4
+Class: 7
+Durability: 35
+GoldCost: 180
+GemCost: 10
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 96
+Resourse: (7)
+Effects:
+
+Life: 1
+Power: 7
+Area: 0
+
+Morale: 12
+Power: 3
+Area: 0;
+
+
+/297
+Name: Victor's Helmet;
+Slot: 4
+Class: 7
+Durability: 40
+GoldCost: 300
+GemCost: 20
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 97
+Resourse: (7, 5)
+Effects:
+
+Life: 1
+Power: 8
+Area: 0
+
+RangedDefence: 5
+Power: 1
+Area: 0
+
+Morale: 12
+Power: 2
+Area: 1;
+
+
+/298
+Name: Dragon Helmet;
+Slot: 4
+Class: 7
+Durability: 50
+GoldCost: 400
+GemCost: 35
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 98
+Resourse: (7, 7, 5)
+Effects:
+
+Life: 1
+Power: 9
+Area: 0
+
+RangedDefence: 5
+Power: 1
+Area: 0
+
+Resist: 6
+Power: 1
+Area: 0;
+
+
+/299
+Name: Gryphon Helmet;
+Slot: 4
+Class: 7
+Durability: 45
+GoldCost: 1000
+GemCost: 50
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 99
+Resourse: (7, 5, 8)
+Effects:
+
+Life: 1
+Power: 8
+Area: 0
+
+RangedDefence: 5
+Power: 1
+Area: 0
+
+RangedAttack: 8
+Power: 1
+Area: 1
+
+Initiative: 999
+Power: 1
+Area: 0;
+
+
+/300
+Name: Paladin's Helmet;
+Slot: 4
+Class: 8
+Durability: 35
+GoldCost: 160
+GemCost: 5
+ShopLevel: 3
+Rarity: 2
+Building: 0
+Pic: 174
+Resourse: (1)
+Effects:
+
+Life: 1
+Power: 6
+Area: 0
+
+Morale: 12
+Power: 2
+Area: 0;
+
+
+/301
+Name: Helmet of Valor;
+Slot: 4
+Class: 8
+Durability: 45
+GoldCost: 200
+GemCost: 10
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 175
+Resourse: (7)
+Effects:
+
+Life: 1
+Power: 8
+Area: 0
+
+Attack: 2
+Power: 1
+Area: 0;
+
+
+/302
+Name: Helmet of Intrepidity;
+Slot: 4
+Class: 8
+Durability: 50
+GoldCost: 400
+GemCost: 15
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 176
+Resourse: (7)
+Effects:
+
+Life: 1
+Power: 10
+Area: 0
+
+Morale: 12
+Power: 6
+Area: 0;
+
+
+/303
+Name: Helmet of Grandeur;
+Slot: 4
+Class: 8
+Durability: 55
+GoldCost: 500
+GemCost: 25
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 177
+Resourse: (7, 8)
+Effects:
+
+Life: 1
+Power: 10
+Area: 0
+
+RangedDefence: 5
+Power: 2
+Area: 0;
+
+
+/304
+Name: Helm of the Ancients;
+Slot: 4
+Class: 8
+Durability: 60
+GoldCost: 1000
+GemCost: 45
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 178
+Resourse: (7, 8, 9)
+Effects:
+
+Life: 1
+Power: 12
+Area: 0
+
+Defence: 4
+Power: 2
+Area: 0
+
+RangedDefence: 5
+Power: 2
+Area: 0
+
+Resistance: 6
+Power: 1
+Area: 0;
+
+
+/305
+Name: Gloves of Illusion;
+Slot: 8
+Class: 0
+Durability: 10
+GoldCost: 100
+GemCost: 10
+ShopLevel: 3
+Rarity: 3
+Building: 0
+Pic: 155
+Resourse: (4)
+Effects:
+
+Life: 1
+Power: 2
+Area: 0
+
+Resist: 6
+Power: 1
+Area: 0;
+
+
+/306
+Name: Gloves of Incarnation;
+Slot: 8
+Class: 0
+Durability: 15
+GoldCost: 120
+GemCost: 15
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 156
+Resourse: (4)
+Effects:
+
+Life: 1
+Power: 3
+Area: 0
+
+WandAttack: 8
+Power: 2
+Area: 0;
+
+
+/307
+Name: Gloves of Meditation;
+Slot: 8
+Class: 0
+Durability: 15
+GoldCost: 250
+GemCost: 20
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 157
+Resourse: (5)
+Effects:
+
+Life: 1
+Power: 4
+Area: 0
+
+Recover: 21
+Power: 2
+Area: 0
+
+FirstAid: 35
+Power: 2
+Area: 0;
+
+
+/308
+Name: Gloves of Mystery;
+Slot: 8
+Class: 0
+Durability: 20
+GoldCost: 300
+GemCost: 30
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 158
+Resourse: (5, 9)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+WandAttack: 8
+Power: 2
+Area: 0
+
+Energy_control: 95
+Power: 2
+Area: 0
+
+Resist: 6
+Power: 1
+Area: 0;
+
+
+/309
+Name: Enchanter's Gloves;
+Slot: 8
+Class: 0
+Durability: 20
+GoldCost: 300
+GemCost: 70
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 159
+Resourse: (5, 8, 9)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+Resist: 6
+Power: 1
+Area: 0
+
+SpellDuration: 906
+Power: 1
+Area: 0;
+
+
+/310
+Name: Thief's Gloves;
+Slot: 8
+Class: 6
+Durability: 20
+GoldCost: 120
+GemCost: 0
+ShopLevel: 3
+Rarity: 2
+Building: 0
+Pic: 231
+Resourse: (0)
+Effects:
+
+Life: 1
+Power: 3
+Area: 0
+
+StealAmmo: 44
+Power: 3
+Area: 0;
+
+
+/311
+Name: Basilisk Gloves;
+Slot: 8
+Class: 6
+Durability: 30
+GoldCost: 250
+GemCost: 0
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 232
+Resourse: (4)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+FirstAid: 35
+Power: 2
+Area: 0;
+
+
+/312
+Name: Manticore Gloves;
+Slot: 8
+Class: 6
+Durability: 30
+GoldCost: 400
+GemCost: 0
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 233
+Resourse: (4, 5)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+Looter: 992
+Power: 1
+Area: 0
+
+BowAttack: 8
+Power: 1
+Area: 0;
+
+
+/313
+Name: Unicorn Gloves;
+Slot: 8
+Class: 6
+Durability: 35
+GoldCost: 500
+GemCost: 0
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 234
+Resourse: (5, 5)
+Effects:
+
+Life: 1
+Power: 6
+Area: 0
+
+Resist: 6
+Power: 1
+Area: 0
+
+BowAttack: 8
+Power: 2
+Area: 0;
+
+
+/314
+Name: Sniper Gloves;
+Slot: 8
+Class: 6
+Durability: 35
+GoldCost: 1000
+GemCost: 0
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 235
+Resourse: (5, 5, 8)
+Effects:
+
+Life: 1
+Power: 7
+Area: 0
+
+RangedDefence: 5
+Power: 1
+Area: 0
+
+AimedShot: 77
+Power: 3
+Area: 0
+
+BowAttack: 8
+Power: 3
+Area: 0;
+
+
+/315
+Name: Dwarven Gauntlets;
+Slot: 8
+Class: 7
+Durability: 30
+GoldCost: 150
+GemCost: 0
+ShopLevel: 3
+Rarity: 3
+Building: 196
+Pic: 111
+Resourse: (1)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+Smithing: 995
+Power: 10
+Area: 0;
+
+
+/316
+Name: Veteran's Gloves;
+Slot: 8
+Class: 7
+Durability: 25
+GoldCost: 150
+GemCost: 0
+ShopLevel: 3
+Rarity: 3
+Building: 0
+Pic: 112
+Resourse: (1)
+Effects:
+
+Life: 1
+Power: 4
+Area: 0
+
+Stamina: 11
+Power: 1
+Area: 0
+
+Parry: 53
+Power: 1
+Area: 0;
+
+/317
+Name: Hero's Gloves;
+Slot: 8
+Class: 7
+Durability: 30
+GoldCost: 250
+GemCost: 5
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 113
+Resourse: (7)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+Attack: 2
+Power: 1
+Area: 0;
+
+
+/318
+Name: Gloves of Strength;
+Slot: 8
+Class: 7
+Durability: 35
+GoldCost: 500
+GemCost: 15
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 114
+Resourse: (7, 4)
+Effects:
+
+Life: 1
+Power: 7
+Area: 0
+
+Attack: 2
+Power: 2
+Area: 0;
+
+
+/319
+Name: Dragon Gloves;
+Slot: 8
+Class: 7
+Durability: 40
+GoldCost: 600
+GemCost: 25
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 115
+Resourse: (7, 5)
+Effects:
+
+Life: 1
+Power: 8
+Area: 0
+
+Resist: 6
+Power: 1
+Area: 0
+
+Attack: 2
+Power: 1
+Area: 0;
+
+
+/320
+Name: Lordly Gloves;
+Slot: 8
+Class: 7
+Durability: 40
+GoldCost: 1000
+GemCost: 40
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 116
+Resourse: (7, 5, 8)
+Effects:
+
+Life: 1
+Power: 8
+Area: 0
+
+Economy: 997
+Power: 20
+Area: 0
+
+Attack: 2
+Power: 2
+Area: 0;
+
+
+/321
+Name: Paladin's Gloves;
+Slot: 8
+Class: 8
+Durability: 40
+GoldCost: 130
+GemCost: 5
+ShopLevel: 3
+Rarity: 3
+Building: 0
+Pic: 190
+Resourse: (1)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+Parry: 53
+Power: 1
+Area: 0;
+
+
+/322
+Name: Gloves of Valor;
+Slot: 8
+Class: 8
+Durability: 40
+GoldCost: 350
+GemCost: 10
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 191
+Resourse: (7)
+Effects:
+
+Life: 1
+Power: 6
+Area: 0
+
+Attack: 2
+Power: 1
+Area: 0
+
+Parry: 53
+Power: 2
+Area: 0;
+
+
+/323
+Name: Gloves of Will;
+Slot: 8
+Class: 8
+Durability: 45
+GoldCost: 500
+GemCost: 15
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 192
+Resourse: (7, 5)
+Effects:
+
+Life: 1
+Power: 7
+Area: 0
+
+Attack: 2
+Power: 2
+Area: 0
+
+Resist: 6
+Power: 1
+Area: 0
+
+Morale: 12
+Power: 1
+Area: 0;
+
+
+/324
+Name: Gloves of Grandeur;
+Slot: 8
+Class: 8
+Durability: 50
+GoldCost: 700
+GemCost: 20
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 193
+Resourse: (7, 5, 8)
+Effects:
+
+Life: 1
+Power: 8
+Area: 0
+
+Attack: 2
+Power: 2
+Area: 0
+
+CounterAttack: 3
+Power: 1
+Area: 0
+
+ArmyPayment: 997
+Power: 10
+Area: 0;
+
+
+/325
+Name: Gloves of Smashing;
+Slot: 8
+Class: 8
+Durability: 60
+GoldCost: 1000
+GemCost: 30
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 194
+Resourse: (7, 7, 8)
+Effects:
+
+Life: 1
+Power: 10
+Area: 0
+
+Attack: 2
+Power: 4
+Area: 0
+
+CounterAttack: 3
+Power: 3
+Area: 0;
+
+
+/326
+Name: Embroidered Bracers;
+Slot: 10
+Class: 0
+Durability: 10
+GoldCost: 220
+GemCost: 10
+ShopLevel: 3
+Rarity: 2
+Building: 0
+Pic: 304
+Resourse: (4)
+Effects:
+
+Life: 1
+Power: 1
+Area: 0
+
+GoldIncome: 81
+Power: 5
+Area: 0;
+
+/327
+Name: Shining Bracelet;
+Slot: 10
+Class: 0
+Durability: 1
+GoldCost: 250
+GemCost: 20
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 308
+Resourse: (4)
+Effects:
+
+Resist: 6
+Power: 1
+Area: 0;
+
+
+/328
+Name: Serpent Bracelet;
+Slot: 10
+Class: 0
+Durability: 1
+GoldCost: 350
+GemCost: 25
+ShopLevel: 4
+Rarity: 5
+Building: 0
+Pic: 309
+Resourse: (4)
+Effects:
+
+initiative: 999
+Power: 1
+Area: 0;
+
+
+/329
+Name: Topaz Bracelet;
+Slot: 10
+Class: 0
+Durability: 1
+GoldCost: 300
+GemCost: 20
+ShopLevel: 4
+Rarity: 4
+Building: 0
+Pic: 310
+Resourse: (5)
+Effects:
+
+RangedAttack: 8
+Power: 1
+Area: 0;
+
+
+/330
+Name: Ruby Bracelet;
+Slot: 10
+Class: 0
+Durability: 1
+GoldCost: 400
+GemCost: 20
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 311
+Resourse: (5)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+Stamina: 11
+Power: 2
+Area: 0;
+
+
+/331
+Name: Sapphire Bracelet;
+Slot: 10
+Class: 0
+Durability: 1
+GoldCost: 450
+GemCost: 25
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 312
+Resourse: (5)
+Effects:
+
+Morale: 12
+Power: 4
+Area: 0
+
+Resist: 6
+Power: 2
+Area: 0;
+
+
+/332
+Name: Emerald Bracelet;
+Slot: 10
+Class: 0
+Durability: 1
+GoldCost: 550
+GemCost: 35
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 313
+Resourse: (5, 9)
+Effects:
+
+Attack: 2
+Power: 2
+Area: 0
+
+CounterAttack: 3
+Power: 2
+Area: 0;
+
+
+/333
+Name: Diamond Bracelet;
+Slot: 10
+Class: 0
+Durability: 1
+GoldCost: 550
+GemCost: 35
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 314
+Resourse: (5, 8)
+Effects:
+
+Defence: 4
+Power: 1
+Area: 0
+
+Rangedefence: 5
+Power: 1
+Area: 0;
+
+
+/334
+Name: Moon Bracelet;
+Slot: 10
+Class: 0
+Durability: 1
+GoldCost: 1000
+GemCost: 60
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 315
+Resourse: (5, 9, 9)
+Effects:
+
+Summon: 907
+Power: 2
+Area: 0;
+
+
+/335
+Name: Sun Bracelet;
+Slot: 10
+Class: 0
+Durability: 1
+GoldCost: 1500
+GemCost: 100
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 316
+Resourse: (5, 8, 8)
+Effects:
+
+SpellPower: 905
+Power: 2
+Area: 0;
+
+
+/336
+Name: Marauder's Bracers;
+Slot: 10
+Class: 6
+Durability: 15
+GoldCost: 250
+GemCost: 5
+ShopLevel: 4
+Rarity: 4
+Building: 0
+Pic: 237
+Resourse: (4)
+Effects:
+
+Life: 1
+Power: 3
+Area: 0
+
+Looter: 992
+Power: 1
+Area: 0;
+
+
+/337
+Name: Turtle Bracers;
+Slot: 10
+Class: 6
+Durability: 30
+GoldCost: 500
+GemCost: 15
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 238
+Resourse: (4, 4, 4)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+Defence: 4
+Power: 2
+Area: 0
+
+RangedDefence: 5
+Power: 2
+Area: 0
+
+Speed: 7
+Power: -1
+Area: 0;
+
+
+/338
+Name: Assassin's Bracers;
+Slot: 10
+Class: 6
+Durability: 30
+GoldCost: 1000
+GemCost: 25
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 239
+Resourse: (4, 4, 5)
+Effects:
+
+Life: 1
+Power: 6
+Area: 0
+
+PoisonAttack: 41
+Power: 2
+Area: 0
+
+PoisonShot: 78
+Power: 2
+Area: 0;
+
+
+/339
+Name: Fighter's Bracers;
+Slot: 10
+Class: 7
+Durability: 20
+GoldCost: 250
+GemCost: 5
+ShopLevel: 4
+Rarity: 4
+Building: 0
+Pic: 120
+Resourse: (7)
+Effects:
+
+Life: 1
+Power: 4
+Area: 0
+
+CounterAttack: 3
+Power: 1
+Area: 0;
+
+
+/340
+Name: Gladiator's Bracers;
+Slot: 10
+Class: 7
+Durability: 30
+GoldCost: 500
+GemCost: 15
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 121
+Resourse: (7)
+Effects:
+
+Life: 1
+Power: 4
+Area: 0
+
+Attack: 2
+Power: 1
+Area: 0
+
+Thorns: 210
+Power: 1
+Area: 0;
+
+
+/341
+Name: Bracers of Might;
+Slot: 10
+Class: 7
+Durability: 40
+GoldCost: 1000
+GemCost: 30
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 122
+Resourse: (7, 7, 8)
+Effects:
+
+Life: 1
+Power: 8
+Area: 0
+
+Attack: 2
+Power: 2
+Area: 0
+
+CounterAttack: 3
+Power: 2
+Area: 0;
+
+
+/342
+Name: Crab Bracers;
+Slot: 10
+Class: 8
+Durability: 30
+GoldCost: 280
+GemCost: 10
+ShopLevel: 4
+Rarity: 4
+Building: 0
+Pic: 198
+Resourse: (7, 4)
+Effects:
+
+Life: 1
+Power: 8
+Area: 0
+
+Stamina: 11
+Power: 3
+Area: 0;
+
+
+/343
+Name: Obsidian Bracers;
+Slot: 10
+Class: 8
+Durability: 40
+GoldCost: 550
+GemCost: 20
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 199
+Resourse: (5, 5)
+Effects:
+
+Life: 1
+Power: 8
+Area: 0
+
+Resist: 6
+Power: 1
+Area: 0
+
+Defence: 4
+Power: 1
+Area: 0;
+
+
+/344
+Name: Mountain Bracers;
+Slot: 10
+Class: 8
+Durability: 50
+GoldCost: 900
+GemCost: 50
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 200
+Resourse: (7, 7, 8)
+Effects:
+
+Life: 1
+Power: 10
+Area: 0
+
+Defence: 4
+Power: 2
+Area: 0
+
+RangedDefence: 5
+Power: 2
+Area: 0
+
+HillDweller: 33
+Power: 4
+Area: 0;
+
+
+/345
+Name: Monk's Belt;
+Slot: 5
+Class: 0
+Durability: 10
+GoldCost: 100
+GemCost: 10
+ShopLevel: 3
+Rarity: 2
+Building: 0
+Pic: 243
+Resourse: (0)
+Effects:
+
+Life: 1
+Power: 2
+Area: 0
+
+Reinvigoration: 21
+Power: 2
+Area: 0;
+
+/346
+Name: Druid's Belt;
+Slot: 5
+Class: 0
+Durability: 15
+GoldCost: 120
+GemCost: 5
+ShopLevel: 3
+Rarity: 3
+Building: 0
+Pic: 244
+Resourse: (4)
+Effects:
+
+Stamina: 11
+Power: 3
+Area: 0
+
+Forester: 32
+Power: 1
+Area: 0;
+
+/347
+Name: Belt of Incarnation;
+Slot: 5
+Class: 0
+Durability: 15
+GoldCost: 150
+GemCost: 20
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 245
+Resourse: (5)
+Effects:
+
+Life: 1
+Power: 2
+Area: 0
+
+GemIncome: 82
+Power: 3
+Area: 0;
+
+
+/348
+Name: Belt of Valor;
+Slot: 5
+Class: 0
+Durability: 20
+GoldCost: 180
+GemCost: 15
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 246
+Resourse: (5)
+Effects:
+
+Life: 1
+Power: 3
+Area: 0
+
+Morale: 12
+Power: 2
+Area: 0
+
+CounterAttack: 3
+Power: 1
+Area: 0;
+
+
+/349
+Name: Belt of Levitation;
+Slot: 5
+Class: 0
+Durability: 15
+GoldCost: 400
+GemCost: 40
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 247
+Resourse: (4, 5, 5)
+Effects:
+
+Float: 15
+Power: 1
+Area: 0;
+
+
+/350
+Name: Manticore Belt;
+Slot: 5
+Class: 0
+Durability: 15
+GoldCost: 450
+GemCost: 25
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 248
+Resourse: (4, 5, 5)
+Effects:
+
+Life: 1
+Power: 4
+Area: 0
+
+BowAttack: 8
+Power: 1
+Area: 0
+
+Initiative: 999
+Power: 1
+Area: 0;
+
+
+/351
+Name: Dragon Belt;
+Slot: 5
+Class: 0
+Durability: 20
+GoldCost: 500
+GemCost: 30
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 249
+Resourse: (7, 5, 5)
+Effects:
+
+Life: 1
+Power: 6
+Area: 0
+
+RangedDefence: 5
+Power: 1
+Area: 0
+
+Resist: 6
+Power: 1
+Area: 0;
+
+
+/352
+Name: Giant's Belt;
+Slot: 5
+Class: 0
+Durability: 20
+GoldCost: 550
+GemCost: 25
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 250
+Resourse: (7, 5, 5)
+Effects:
+
+Life: 1
+Power: 7
+Area: 0
+
+Attack: 2
+Power: 3
+Area: 0
+
+CounterAttack: 3
+Power: 1
+Area: 0;
+
+
+/353
+Name: Troll's Belt;
+Slot: 5
+Class: 0
+Durability: 30
+GoldCost: 1000
+GemCost: 40
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 251
+Resourse: (5, 5, 9)
+Effects:
+
+Life: 1
+Power: 8
+Area: 0
+
+Regeneration: 48
+Power: 2
+Area: 0;
+
+
+/354
+Name: Belt of Ages;
+Slot: 5
+Class: 0
+Durability: 25
+GoldCost: 1000
+GemCost: 60
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 252
+Resourse: (5, 8, 9)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+SpellDuration: 906
+Power: 1
+Area: 0
+
+Summon: 907
+Power: 2
+Area: 0;
+
+
+/355
+Name: Cloak of Illusion;
+Slot: 6
+Class: 0
+Durability: 15
+GoldCost: 100
+GemCost: 20
+ShopLevel: 3
+Rarity: 3
+Building: 0
+Pic: 280
+Resourse: (4)
+Effects:
+
+Life: 1
+Power: 1
+Area: 0
+
+RangedDefence: 5
+Power: 1
+Area: 0;
+
+
+/356
+Name: Veteran's Cloak;
+Slot: 6
+Class: 0
+Durability: 20
+GoldCost: 120
+GemCost: 10
+ShopLevel: 3
+Rarity: 3
+Building: 0
+Pic: 281
+Resourse: (4)
+Effects:
+
+Life: 1
+Power: 2
+Area: 0
+
+Defence: 4
+Power: 1
+Area: 0;
+
+
+/357
+Name: Paladin's Cloak;
+Slot: 6
+Class: 0
+Durability: 20
+GoldCost: 110
+GemCost: 15
+ShopLevel: 3
+Rarity: 3
+Building: 0
+Pic: 282
+Resourse: (4)
+Effects:
+
+Life: 1
+Power: 3
+Area: 0
+
+Resist: 6
+Power: 1
+Area: 0;
+
+
+/358
+Name: Cloak of Rain;
+Slot: 6
+Class: 0
+Durability: 15
+GoldCost: 200
+GemCost: 10
+ShopLevel: 4
+Rarity: 4
+Building: 0
+Pic: 283
+Resourse: (4)
+Effects:
+
+SwampDweller: 34
+Power: 1
+Area: 0
+
+Stamina: 11
+Power: 2
+Area: 0;
+
+
+/359
+Name: Cloak of Whirlwinds;
+Slot: 6
+Class: 0
+Durability: 15
+GoldCost: 300
+GemCost: 20
+ShopLevel: 4
+Rarity: 4
+Building: 0
+Pic: 284
+Resourse: (5)
+Effects:
+
+RangedDefence: 5
+Power: 2
+Area: 0
+
+Stamina: 11
+Power: 2
+Area: 0;
+
+
+/360
+Name: Cloak of Rainbow;
+Slot: 6
+Class: 0
+Durability: 20
+GoldCost: 500
+GemCost: 40
+ShopLevel: 5
+Rarity: 3
+Building: 0
+Pic: 285
+Resourse: (4, 5)
+Effects:
+
+Life: 1
+Power: 3
+Area: 0
+
+Stamina: 11
+Power: 3
+Area: 0
+
+Morale: 12
+Power: 3
+Area: 0
+
+Resist: 6
+Power: 1
+Area: 0;
+
+
+/361
+Name: Cloak of Terror;
+Slot: 6
+Class: 0
+Durability: 25
+GoldCost: 550
+GemCost: 40
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 286
+Resourse: (5, 9)
+Effects:
+
+Defence: 4
+Power: 1
+Area: 0
+
+CauseFear: 50
+Power: 1
+Area: 0;
+
+/362
+Name: Dragon Cloak;
+Slot: 6
+Class: 0
+Durability: 30
+GoldCost: 650
+GemCost: 30
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 287
+Resourse: (5, 8)
+Effects:
+
+Resist: 6
+Power: 2
+Area: 0
+
+Smithing: 995
+Power: 20
+Area: 0;
+
+
+/363
+Name: Unicorn Cape;
+Slot: 6
+Class: 0
+Durability: 30
+GoldCost: 600
+GemCost: 40
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 288
+Resourse: (5, 8)
+Effects:
+
+RangedAttack: 8
+Power: 2
+Area: 0
+
+Resist: 6
+Power: 1
+Area: 0;
+
+
+/364
+Name: Marshall's Cape;
+Slot: 6
+Class: 0
+Durability: 35
+GoldCost: 1200
+GemCost: 70
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 289
+Resourse: (5, 8, 8)
+Effects:
+
+Life: 1
+Power: 2
+Area: 1
+
+Attack: 2
+Power: 1
+Area: 1;
+
+
+/365
+Name: Phoenix Cloak;
+Slot: 6
+Class: 0
+Durability: 40
+GoldCost: 1000
+GemCost: 80
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 290
+Resourse: (5, 8, 8)
+Effects:
+
+PoisonImmunity: 42
+Power: 1
+Area: 0
+
+FireFlesh: 154
+Power: 1
+Area: 0;
+
+
+/366
+Name: Wolf's Fang;
+Slot: 9
+Class: 0
+Durability: 1
+GoldCost: 170
+GemCost: 5
+ShopLevel: 2
+Rarity: 1
+Building: 0
+Pic: 35
+Resourse: (4)
+Effects:
+
+Explore: 996
+Power: 5
+Area: 0;
+
+
+/367
+Name: Merchant's Pendant;
+Slot: 9
+Class: 0
+Durability: 1
+GoldCost: 200
+GemCost: 5
+ShopLevel: 3
+Rarity: 3
+Building: 0
+Pic: 36
+Resourse: (4)
+Effects:
+
+GoldIncome: 81
+Power: 10
+Area: 0;
+
+/368
+Name: Hero's Medallion;
+Slot: 9
+Class: 0
+Durability: 1
+GoldCost: 320
+GemCost: 10
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 37
+Resourse: (4)
+Effects:
+
+Morale: 12
+Power: 4
+Area: 0;
+
+
+/369
+Name: Basilisk Necklace;
+Slot: 9
+Class: 0
+Durability: 1
+GoldCost: 350
+GemCost: 10
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 38
+Resourse: (4)
+Effects:
+
+Life: 1
+Power: 8
+Area: 0;
+
+
+/370
+Name: Serpent Amulet;
+Slot: 9
+Class: 0
+Durability: 1
+GoldCost: 350
+GemCost: 15
+ShopLevel: 4
+Rarity: 4
+Building: 0
+Pic: 39
+Resourse: (4)
+Effects:
+
+Initiative: 999
+Power: 1
+Area: 0;
+
+
+/371
+Name: Captain's Medal;
+Slot: 9
+Class: 0
+Durability: 1
+GoldCost: 600
+GemCost: 15
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 40
+Resourse: (5)
+Effects:
+
+ArmyPayment: 997
+Power: 10
+Area: 0;
+
+
+/372
+Name: Order of Grandeur;
+Slot: 9
+Class: 0
+Durability: 1
+GoldCost: 700
+GemCost: 20
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 41
+Resourse: (5, 8)
+Effects:
+
+Attack: 2
+Power: 1
+Area: 0
+
+CounterAttack: 3
+Power: 1
+Area: 0
+
+Stamina: 11
+Power: 3
+Area: 0;
+
+
+/373
+Name: Dragon Amulet;
+Slot: 9
+Class: 0
+Durability: 1
+GoldCost: 800
+GemCost: 30
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 42
+Resourse: (5, 8)
+Effects:
+
+Resist: 6
+Power: 2
+Area: 0
+
+ExpGain: 991
+Power: 15
+Area: 0;
+
+
+/374
+Name: Pendant of Mystery;
+Slot: 9
+Class: 0
+Durability: 1
+GoldCost: 700
+GemCost: 40
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 43
+Resourse: (5, 9)
+Effects:
+
+Resist: 6
+Power: 1
+Area: 0
+
+CastStamina: 161
+Power: 2
+Area: 0;
+
+
+/375
+Name: Amulet of Ages;
+Slot: 9
+Class: 0
+Durability: 1
+GoldCost: 1200
+GemCost: 90
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 44
+Resourse: (5, 8, 9)
+Effects:
+
+SpellCost: 983
+Power: 10
+Area: 0
+
+SpellPenetration: 908
+Power: 1
+Area: 0;
+
+
+/376
+Name: Amulet of the Storm;
+Slot: 9
+Class: 0
+Durability: 1
+GoldCost: 2000
+GemCost: 100
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 45
+Resourse: (8, 8, 9)
+Effects:
+
+Speed: 7
+Power: 1
+Area: 1;
+
+
+/377
+Name: Merchant's Ring;
+Slot: 11
+Class: 0
+Durability: 1
+GoldCost: 150
+GemCost: 5
+ShopLevel: 3
+Rarity: 2
+Building: 0
+Pic: 52
+Resourse: (4)
+Effects:
+
+GoldIncome: 81
+Power: 8
+Area: 0;
+
+
+/378
+Name: Crystalline Ring;
+Slot: 11
+Class: 0
+Durability: 1
+GoldCost: 130
+GemCost: 20
+ShopLevel: 3
+Rarity: 3
+Building: 0
+Pic: 53
+Resourse: (4)
+Effects:
+
+GemIncome: 82
+Power: 2
+Area: 0;
+
+
+/379
+Name: Serpent Ring;
+Slot: 11
+Class: 0
+Durability: 1
+GoldCost: 280
+GemCost: 20
+ShopLevel: 4
+Rarity: 4
+Building: 0
+Pic: 54
+Resourse: (5)
+Effects:
+
+Initiative: 999
+Power: 1
+Area: 0;
+
+
+/380
+Name: Topaz Ring;
+Slot: 11
+Class: 0
+Durability: 1
+GoldCost: 300
+GemCost: 25
+ShopLevel: 4
+Rarity: 5
+Building: 0
+Pic: 55
+Resourse: (5)
+Effects:
+
+RangedAttack: 8
+Power: 1
+Area: 0;
+
+
+/381
+Name: Ruby Ring;
+Slot: 11
+Class: 0
+Durability: 1
+GoldCost: 500
+GemCost: 25
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 56
+Resourse: (5)
+Effects:
+
+Life: 1
+Power: 4
+Area: 0
+
+Stamina: 11
+Power: 2
+Area: 0;
+
+
+/382
+Name: Sapphire Ring;
+Slot: 11
+Class: 0
+Durability: 1
+GoldCost: 450
+GemCost: 35
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 57
+Resourse: (5)
+Effects:
+
+Morale: 12
+Power: 3
+Area: 0
+
+Resist: 6
+Power: 1
+Area: 0;
+
+
+/383
+Name: Necromancer's Ring;
+Slot: 11
+Class: 0
+Durability: 1
+GoldCost: 300
+GemCost: 20
+ShopLevel: 4
+Rarity: 4
+Building: 0
+Pic: 58
+Resourse: (5)
+Effects:
+
+UndeadPower: 909
+Power: 1
+Area: 0;
+
+
+/384
+Name: Emerald Ring;
+Slot: 11
+Class: 0
+Durability: 1
+GoldCost: 600
+GemCost: 40
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 59
+Resourse: (5, 9)
+Effects:
+
+Attack: 2
+Power: 1
+Area: 0
+
+CounterAttack: 3
+Power: 1
+Area: 0;
+
+/385
+Name: Diamond Ring;
+Slot: 11
+Class: 0
+Durability: 1
+GoldCost: 700
+GemCost: 50
+ShopLevel: 5
+Rarity: 6
+Building: 0
+Pic: 60
+Resourse: (5, 8)
+Effects:
+
+defence: 4
+Power: 1
+Area: 0
+
+RangedDefence: 5
+Power: 1
+Area: 0;
+
+
+/386
+Name: Ring of Regeneration;
+Slot: 11
+Class: 0
+Durability: 1
+GoldCost: 600
+GemCost: 30
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 61
+Resourse: (5, 8)
+Effects:
+
+Regeneration: 48
+Power: 1
+Area: 0;
+
+
+/387
+Name: Vampire's Ring;
+Slot: 11
+Class: 0
+Durability: 1
+GoldCost: 2000
+GemCost: 60
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 62
+Resourse: (5, 9, 9)
+Effects:
+
+Attack: 2
+Power: 2
+Area: 0
+
+DrainLife: 68
+Power: 20
+Area: 0;
+
+
+/388
+Name: Enchanter's Ring;
+Slot: 11
+Class: 0
+Durability: 1
+GoldCost: 1000
+GemCost: 70
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 63
+Resourse: (5, 8, 9)
+Effects:
+
+Recover: 21
+Power: 4
+Area: 0
+
+SpellDuration: 906
+Power: 1
+Area: 0;
+
+
+/389
+Name: Conjurer's Ring;
+Slot: 11
+Class: 0
+Durability: 1
+GoldCost: 1200
+GemCost: 70
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 64
+Resourse: (5, 8, 9)
+Effects:
+
+Resist: 6
+Power: 2
+Area: 0
+
+SpellPenetration: 908
+Power: 1
+Area: 0;
+
+
+/390
+Name: Archmage's Ring;
+Slot: 11
+Class: 0
+Durability: 1
+GoldCost: 1700
+GemCost: 100
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 65
+Resourse: (5, 8, 9)
+Effects:
+
+ExpGain: 991
+Power: 10
+Area: 0
+
+SpellPower: 905
+Power: 1
+Area: 0;
+
+/391
+Name: Spider's Egg;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 100
+GemCost: 5
+ShopLevel: 3
+Rarity: 3
+Building: 0
+Pic: 79
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 33
+Area: 0;
+
+/392
+Name: Basilisk's Egg;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 100
+GemCost: 5
+ShopLevel: 3
+Rarity: 2
+Building: 0
+Pic: 78
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 32
+Area: 0;
+
+/393
+Name: Manticore's Egg;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 200
+GemCost: 5
+ShopLevel: 5
+Rarity: 3
+Building: 0
+Pic: 80
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 52
+Area: 0;
+
+/394
+Name: Hydra's Egg;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 500
+GemCost: 10
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 376
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 62
+Area: 0;
+
+/395
+Name: Giant Slug Eggs;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 100
+GemCost: 5
+ShopLevel: 3
+Rarity: 2
+Building: 0
+Pic: 398
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 68
+Area: 0;
+
+/396
+Name: Phoenix' Egg;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 500
+GemCost: 20
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 399
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 70
+Area: 0;
+
+/397
+Name: Winged Chainmail;
+Slot: 3
+Class: 7
+Durability: 50
+GoldCost: 1000
+GemCost: 100
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 400
+Resourse: (7, 5, 8)
+Effects:
+
+Defence: 4
+Power: 5
+Area: 0
+
+RangedDefence: 5
+Power: 5
+Area: 0
+
+Resist: 6
+Power: 2
+Area: 0
+
+Flying: 14
+Power: 1
+Area: 0
+
+Hil Dweller: 33
+Power: 4
+Area: 1;
+
+/398
+Name: Elven Blades;
+Slot: 100
+Class: 1
+Durability: 40
+GoldCost: 200
+GemCost: 15
+ShopLevel: 3
+Rarity: 3
+Building: 0
+Pic: 401
+Resourse: (1, 7)
+Effects:
+
+FirstStrike: 16
+Power: 1
+Area: 0
+
+Smite Evil: 61
+Power: 1
+Area: 0
+
+Attack: 2
+Power: 6
+Area: 0
+
+CounterAttack: 3
+Power: 4
+Area: 0;
+
+/399
+Name: Book of Necrus;
+Slot: 2
+Class: 4
+Durability: 40
+GoldCost: 750
+GemCost: 100
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 402
+Resourse: (9, 9)
+Effects:
+
+Life: 1
+Power: -5
+Area: 0
+
+Undertaker: 64
+Power: 19
+Area: 0
+
+Necromancy: 909
+Power: 5
+Area: 0;
+
+/400
+Name: Arrows of the Damned;
+Slot: 2
+Class: 3
+Durability: 25
+GoldCost: 500
+GemCost: 150
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 403
+Resourse: (7, 9, 9)
+Effects:
+
+RangedAttack: 993
+Power: 5
+Area: 0
+
+Ammo: 10
+Power: 4
+Area: 0
+
+Undertaker: 64
+Power: 19
+Area: 0
+
+PoisonShot: 78
+Power: 2
+Area: 0;
+
+/401
+Name: Eagle Helmet;
+Slot: 4
+Class: 6
+Durability: 50
+GoldCost: 600
+GemCost: 55
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 404
+Resourse: (5, 8)
+Effects:
+
+Life: 1
+Power: 8
+Area: 0
+
+Morale: 12
+Power: 6
+Area: 0
+
+AimedShot: 77
+Power: 4
+Area: 0;
+
+/402
+Name: Scales of Chassarth;
+Slot: 3
+Class: 7
+Durability: 50
+GoldCost: 1000
+GemCost: 300
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 405
+Resourse: (7, 9, 9)
+Effects:
+
+Defence: 4
+Power: 4
+Area: 0
+
+RangedDefence: 5
+Power: 4
+Area: 0
+
+Resist: 6
+Power: 2
+Area: 0
+
+Poisonous_Flesh: 96
+Power: 4
+Area: 0
+ 
+Poison Strike: 41
+Power: 1
+Area: 1
+
+Speed: 7
+Power: -1
+Area: 0;
+
+/403
+Name: Banner of Unity;
+Slot: 100
+Class: 5
+Durability: 80
+GoldCost: 2400
+GemCost: 150
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 406
+Resourse: (2, 5, 8)
+Effects:
+
+Attack: 2
+Power: 5
+Area: 0
+
+CounterAttack: 3
+Power: 7
+Area: 0
+
+Ambassador: 979
+Power: 1
+Area: 0
+
+Life: 1
+Power: 5
+Area: 1
+
+Defence: 4
+Power: 3
+Area: 1
+
+Tolerance: 98
+Power: 1
+Area: 1;
+
+/404
+Name: Sunbeam;
+Slot: 5
+Class: 0
+Durability: 30
+GoldCost: 750
+GemCost: 75
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 407
+Resourse: (5, 8, 8)
+Effects:
+
+Life: 1
+Power: 10
+Area: 0
+
+Defence: 4
+Power: 1
+Area: 0
+
+RangedDefence: 5
+Power: 1
+Area: 0
+
+Resist: 6
+Power: 2
+Area: 0
+
+Smite Evil: 61
+Power: 2
+Area: 1;
+
+/405
+Name: Treant's Acorn;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 400
+GemCost: 20
+ShopLevel: 6
+Rarity: 4
+Building: 0
+Pic: 408
+Resourse: (8)
+Effects:
+
+Summon: 84
+Power: 61
+Area: 0;
+
+/406
+Name: Golem Ingot;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 300
+GemCost: 15
+ShopLevel: 5
+Rarity: 3
+Building: 0
+Pic: 409
+Resourse: (6)
+Effects:
+
+Summon: 84
+Power: 71
+Area: 0;
+
+/407
+Name: Spirit of Dracolich;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 5500
+GemCost: 550
+ShopLevel: 6
+Rarity: 5
+Building: 212
+Pic: 410
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 75
+Area: 0;
+
+/408
+Name: Young Centaur;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 60
+GemCost: 0
+ShopLevel: 3
+Rarity: 8
+Building: 0
+Pic: 411
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 122
+Area: 0;
+
+/409
+Name: Centaur;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 110
+GemCost: 0
+ShopLevel: 4
+Rarity: 8
+Building: 228
+Pic: 412
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 34
+Area: 0;
+
+/410
+Name: Centaur-warrior;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 120
+GemCost: 0
+ShopLevel: 4
+Rarity: 8
+Building: 228
+Pic: 413
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 123
+Area: 0;
+
+/411
+Name: Spirit Talker;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 525
+GemCost: 105
+ShopLevel: 5
+Rarity: 8
+Building: 229
+Pic: 414
+Resourse: (4, 5)
+Effects:
+
+Summon: 84
+Power: 124
+Area: 0;
+
+/412
+Name: Centaur-chief;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 900
+GemCost: 15
+ShopLevel: 6
+Rarity: 8
+Building: 230
+Pic: 415
+Resourse: (5, 7)
+Effects:
+
+Summon: 84
+Power: 125
+Area: 0;
+
+/413
+Name: Elf;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 150
+GemCost: 7
+ShopLevel: 3
+Rarity: 8
+Building: 0
+Pic: 416
+Resourse: (2)
+Effects:
+
+Summon: 84
+Power: 15
+Area: 0;
+
+/414
+Name: Blade Dancer;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 75
+GemCost: 0
+ShopLevel: 3
+Rarity: 8
+Building: 192
+Pic: 417
+Resourse: (7)
+Effects:
+
+Summon: 84
+Power: 126
+Area: 0;
+
+/415
+Name: Elf-swordsman;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 180
+GemCost: 0
+ShopLevel: 4
+Rarity: 8
+Building: 213
+Pic: 418
+Resourse: (7)
+Effects:
+
+Summon: 84
+Power: 105
+Area: 0;
+
+/416
+Name: Elf-horseman;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 195
+GemCost: 0
+ShopLevel: 4
+Rarity: 8
+Building: 213
+Pic: 419
+Resourse: (3, 7)
+Effects:
+
+Summon: 84
+Power: 106
+Area: 0;
+
+/417
+Name: Elf-druid;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 450
+GemCost: 105
+ShopLevel: 5
+Rarity: 8
+Building: 214
+Pic: 420
+Resourse: (4, 5, 5)
+Effects:
+
+Summon: 84
+Power: 107
+Area: 0;
+
+/418
+Name: Elven Mistress;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 675
+GemCost: 150
+ShopLevel: 6
+Rarity: 8
+Building: 215
+Pic: 421
+Resourse: (7, 5, 9)
+Effects:
+
+Summon: 84
+Power: 127
+Area: 0;
+
+/419
+Name: Dwarf;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 120
+GemCost: 0
+ShopLevel: 3
+Rarity: 8
+Building: 0
+Pic: 422
+Resourse: (1)
+Effects:
+
+Summon: 84
+Power: 16
+Area: 0;
+
+/420
+Name: Ancient Ballista;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 375
+GemCost: 0
+ShopLevel: 4
+Rarity: 8
+Building: 0
+Pic: 423
+Resourse: (1, 2, 7)
+Effects:
+
+Summon: 84
+Power: 101
+Area: 0;
+
+/421
+Name: Ancient Catapult;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 1125
+GemCost: 0
+ShopLevel: 5
+Rarity: 8
+Building: 0
+Pic: 424
+Resourse: (1, 2, 7)
+Effects:
+
+Summon: 84
+Power: 102
+Area: 0;
+
+/422
+Name: Runemaster;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 450
+GemCost: 30
+ShopLevel: 5
+Rarity: 8
+Building: 217
+Pic: 425
+Resourse: (7, 7)
+Effects:
+
+Summon: 84
+Power: 103
+Area: 0;
+
+/423
+Name: Earthshaker;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 2250
+GemCost: 0
+ShopLevel: 6
+Rarity: 8
+Building: 218
+Pic: 426
+Resourse: (7, 7, 6)
+Effects:
+
+Summon: 84
+Power: 104
+Area: 0;
+
+/424
+Name: Goblin;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 7
+GemCost: 0
+ShopLevel: 3
+Rarity: 8
+Building: 0
+Pic: 427
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 13
+Area: 0;
+
+/425
+Name: Goblin-shaman;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 105
+GemCost: 7
+ShopLevel: 3
+Rarity: 8
+Building: 219
+Pic: 428
+Resourse: (4, 4)
+Effects:
+
+Summon: 84
+Power: 96
+Area: 0;
+
+/426
+Name: Goblin-hunter;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 90
+GemCost: 0
+ShopLevel: 4
+Rarity: 8
+Building: 219
+Pic: 429
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 129
+Area: 0;
+
+/427
+Name: Goblin-archer;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 45
+GemCost: 0
+ShopLevel: 4
+Rarity: 8
+Building: 198
+Pic: 430
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 77
+Area: 0;
+
+/428
+Name: Goblin-sorcerer;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 450
+GemCost: 105
+ShopLevel: 5
+Rarity: 8
+Building: 221
+Pic: 431
+Resourse: (4, 5)
+Effects:
+
+Summon: 84
+Power: 130
+Area: 0;
+
+/429
+Name: Ericuba;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 1125
+GemCost: 30
+ShopLevel: 6
+Rarity: 8
+Building: 220
+Pic: 432
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 131
+Area: 0;
+
+/430
+Name: Halfling;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 37
+GemCost: 0
+ShopLevel: 3
+Rarity: 8
+Building: 0
+Pic: 433
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 18
+Area: 0;
+
+/431
+Name: Halfling Rogue;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 90
+GemCost: 0
+ShopLevel: 4
+Rarity: 8
+Building: 226
+Pic: 434
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 132
+Area: 0;
+
+/432
+Name: Border Sentinel;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 375
+GemCost: 0
+ShopLevel: 5
+Rarity: 8
+Building: 0
+Pic: 435
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 133
+Area: 0;
+
+/433
+Name: White Mage;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 600
+GemCost: 120
+ShopLevel: 6
+Rarity: 8
+Building: 0
+Pic: 436
+Resourse: (4, 5, 5)
+Effects:
+
+Summon: 84
+Power: 134
+Area: 0;
+
+/434
+Name: Lizardman;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 45
+GemCost: 0
+ShopLevel: 3
+Rarity: 8
+Building: 0
+Pic: 437
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 69
+Area: 0;
+
+/435
+Name: Lizardman-archer;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 90
+GemCost: 0
+ShopLevel: 3
+Rarity: 8
+Building: 209
+Pic: 438
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 113
+Area: 0;
+
+/436
+Name: Lizardman-sentinel;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 120
+GemCost: 0
+ShopLevel: 4
+Rarity: 8
+Building: 232
+Pic: 439
+Resourse: (1, 1)
+Effects:
+
+Summon: 84
+Power: 115
+Area: 0;
+
+/437
+Name: Lizardman-shaman;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 150
+GemCost: 22
+ShopLevel: 4
+Rarity: 8
+Building: 232
+Pic: 440
+Resourse: (4, 4)
+Effects:
+
+Summon: 84
+Power: 114
+Area: 0;
+
+/438
+Name: Lizardman-champion;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 375
+GemCost: 6
+ShopLevel: 5
+Rarity: 8
+Building: 231
+Pic: 441
+Resourse: (7, 7)
+Effects:
+
+Summon: 84
+Power: 116
+Area: 0;
+
+/439
+Name: Lizardman-warlock;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 1200
+GemCost: 180
+ShopLevel: 6
+Rarity: 8
+Building: 233
+Pic: 442
+Resourse: (5, 5, 9)
+Effects:
+
+Summon: 84
+Power: 117
+Area: 0;
+
+/440
+Name: Orc;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 22
+GemCost: 0
+ShopLevel: 3
+Rarity: 8
+Building: 0
+Pic: 443
+Resourse: (1)
+Effects:
+
+Summon: 84
+Power: 14
+Area: 0;
+
+/441
+Name: Bugbear;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 18
+GemCost: 0
+ShopLevel: 3
+Rarity: 8
+Building: 200
+Pic: 444
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 100
+Area: 0;
+
+/442
+Name: Dreamseer;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 37
+GemCost: 15
+ShopLevel: 3
+Rarity: 8
+Building: 201
+Pic: 445
+Resourse: (4)
+Effects:
+
+Summon: 84
+Power: 109
+Area: 0;
+
+/443
+Name: Brute;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 75
+GemCost: 0
+ShopLevel: 4
+Rarity: 8
+Building: 222
+Pic: 446
+Resourse: (1, 1)
+Effects:
+
+Summon: 84
+Power: 73
+Area: 0;
+
+/444
+Name: Wolfrider;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 115
+GemCost: 0
+ShopLevel: 4
+Rarity: 8
+Building: 222
+Pic: 447
+Resourse: (1, 1)
+Effects:
+
+Summon: 84
+Power: 169
+Area: 0;
+
+/445
+Name: Dreamwalker;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 450
+GemCost: 105
+ShopLevel: 5
+Rarity: 8
+Building: 223
+Pic: 448
+Resourse: (5, 9)
+Effects:
+
+Summon: 84
+Power: 110
+Area: 0;
+
+/446
+Name: Chieftain;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 900
+GemCost: 0
+ShopLevel: 6
+Rarity: 8
+Building: 224
+Pic: 449
+Resourse: (1, 1, 7)
+Effects:
+
+Summon: 84
+Power: 111
+Area: 0;
+
+/447
+Name: Dragonfly Eggs;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 100
+GemCost: 10
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 450
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 151
+Area: 0;
+
+/448
+Name: Runesmith;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 135
+GemCost: 15
+ShopLevel: 4
+Rarity: 8
+Building: 216
+Pic: 451
+Resourse: (7)
+Effects:
+
+Summon: 84
+Power: 156
+Area: 0;
+
+/449
+Name: Sacred Relic;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 4400
+GemCost: 440
+ShopLevel: 6
+Rarity: 5
+Building: 234
+Pic: 452
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 157
+Area: 0;
+
+/450
+Name: Cursed Relic;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 4400
+GemCost: 440
+ShopLevel: 6
+Rarity: 5
+Building: 235
+Pic: 453
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 160
+Area: 0;
+
+/451
+Name: Duelist;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 175
+GemCost: 0
+ShopLevel: 3
+Rarity: 8
+Building: 45
+Pic: 454
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 158
+Area: 0;
+
+/452
+Name: Elemental Mistress;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 3300
+GemCost: 330
+ShopLevel: 6
+Rarity: 5
+Building: 236
+Pic: 455
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 161
+Area: 0;
+
+/453
+Name: Faerie Dragon;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 5000
+GemCost: 500
+ShopLevel: 6
+Rarity: 5
+Building: 237
+Pic: 456
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 162
+Area: 0;
+
+/454
+Name: Psion;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 3300
+GemCost: 330
+ShopLevel: 6
+Rarity: 5
+Building: 238
+Pic: 457
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 164
+Area: 0;
+
+/455
+Name: Medusa's Egg;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 200
+GemCost: 10
+ShopLevel: 5
+Rarity: 3
+Building: 0
+Pic: 458
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 67
+Area: 0;
+
+/456
+Name: Oinor's Amulet;
+Slot: 9
+Class: 0
+Durability: 1
+GoldCost: 1800
+GemCost: 135
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 459
+Resourse: (5, 8, 9)
+Effects:
+
+SpellPower: 905
+Power: 2
+Area: 0;
+
+/457
+Name: Oinor's Tunic;
+Slot: 3
+Class: 0
+Durability: 40
+GoldCost: 1500
+GemCost: 225
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 460
+Resourse: (5, 8, 9)
+Effects:
+
+Life: 1
+Power: 12
+Area: 0
+
+Defence: 4
+Power: 4
+Area: 0
+
+RangedDefence: 5
+Power: 3
+Area: 0
+
+Resist: 6
+Power: 3
+Area: 0
+
+SpellPower: 905
+Power: 2
+Area: 0;
+
+/458
+Name: Oinor's Belt;
+Slot: 5
+Class: 0
+Durability: 20
+GoldCost: 1500
+GemCost: 90
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 461
+Resourse: (5, 8, 9)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+Stamina: 11
+Power: 5
+Area: 0
+
+SpellPower: 905
+Power: 1
+Area: 0;
+
+/459
+Name: Oinor's Boots;
+Slot: 7
+Class: 0
+Durability: 20
+GoldCost: 1200
+GemCost: 120
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 462
+Resourse: (5, 9, 9)
+Effects:
+
+Life: 1
+Power: 7
+Area: 0
+
+RangedDefence: 5
+Power: 1
+Area: 0
+
+Resist: 6
+Power: 1
+Area: 0
+
+SpellPower: 905
+Power: 1
+Area: 0;
+
+/460
+Name: Oinor's Bracelet;
+Slot: 10
+Class: 0
+Durability: 1
+GoldCost: 2200
+GemCost: 150
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 463
+Resourse: (5, 8, 8)
+Effects:
+
+SpellPower: 905
+Power: 2
+Area: 0
+
+SpellPenetration: 908
+Power: 1
+Area: 0;
+
+/461
+Name: Oinor's Tiara;
+Slot: 4
+Class: 0
+Durability: 50
+GoldCost: 600
+GemCost: 60
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 464
+Resourse: (5, 9)
+Effects:
+
+SpellPower: 905
+Power: 1
+Area: 0
+
+ExpGain: 991
+Power: 25
+Area: 0;
+
+/462
+Name: Oinor's Gloves;
+Slot: 8
+Class: 0
+Durability: 20
+GoldCost: 500
+GemCost: 50
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 465
+Resourse: (5, 9)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+Defence: 4
+Power: 1
+Area: 0
+
+RangedDefence: 5
+Power: 1
+Area: 0
+
+Resist: 6
+Power: 1
+Area: 0
+
+SpellPower: 905
+Power: 1
+Area: 0;
+
+/463
+Name: Oinor's Ring;
+Slot: 11
+Class: 0
+Durability: 1
+GoldCost: 2500
+GemCost: 150
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 466
+Resourse: (5, 8, 9)
+Effects:
+
+ExpGain: 991
+Power: 15
+Area: 0
+
+SpellPower: 905
+Power: 1
+Area: 0
+
+Summon: 907
+Power: 2
+Area: 0;
+
+/464
+Name: Oinor's Staff;
+Slot: 100
+Class: 0
+Durability: 50
+GoldCost: 2300
+GemCost: 300
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 467
+Resourse: (5, 8, 9)
+Effects:
+
+Attack: 2
+Power: 5
+Area: 0
+
+CounterAttack: 3
+Power: 5
+Area: 0
+
+SpellPower: 905
+Power: 3
+Area: 0
+
+CastStamina: 161
+Power: 3
+Area: 0
+
+PhantomForm: 181
+Power: 1
+Area: 0;
+
+/465
+Name: Garros' Amulet;
+Slot: 9
+Class: 0
+Durability: 1
+GoldCost: 1100
+GemCost: 40
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 468
+Resourse: (5, 8)
+Effects:
+
+Attack: 2
+Power: 3
+Area: 0
+
+CounterAttack: 3
+Power: 3
+Area: 0;
+
+/466
+Name: Garros' Chestplate;
+Slot: 3
+Class: 8
+Durability: 120
+GoldCost: 3000
+GemCost: 100
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 469
+Resourse: (7, 7, 7, 8)
+Effects:
+
+Defence: 4
+Power: 11
+Area: 0
+
+RangedDefence: 5
+Power: 11
+Area: 0
+
+Speed: 7
+Power: -1
+Area: 0;
+
+/467
+Name: Garros' Belt;
+Slot: 5
+Class: 0
+Durability: 60
+GoldCost: 1100
+GemCost: 150
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 470
+Resourse: (5)
+Effects:
+
+Attack: 2
+Power: 2
+Area: 0
+
+CounterAttack: 3
+Power: 2
+Area: 0
+
+Defence: 4
+Power: 1
+Area: 0
+
+RangedDefence: 5
+Power: 1
+Area: 0
+
+Forester: 32
+Power: 4
+Area: 0;
+
+/468
+Name: Garros' Boots;
+Slot: 7
+Class: 8
+Durability: 160
+GoldCost: 1800
+GemCost: 120
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 471
+Resourse: (7, 7, 8)
+Effects:
+
+Life: 1
+Power: 10
+Area: 0
+
+Defence: 4
+Power: 2
+Area: 0
+
+RangedDefence: 5
+Power: 2
+Area: 0
+
+Resist: 6
+Power: 1
+Area: 0
+
+Hillwalk: 33
+Power: 4
+Area: 0;
+
+/469
+Name: Garros' Bracer;
+Slot: 10
+Class: 8
+Durability: 100
+GoldCost: 1700
+GemCost: 90
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 472
+Resourse: (7, 7, 8)
+Effects:
+
+Life: 1
+Power: 10
+Area: 0
+
+Defence: 4
+Power: 3
+Area: 0
+
+RangedDefence: 5
+Power: 3
+Area: 0
+
+Smithing: 995
+Power: 10
+Area: 0;
+
+/470
+Name: Garros' Gloves;
+Slot: 8
+Class: 8
+Durability: 120
+GoldCost: 1500
+GemCost: 50
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 473
+Resourse: (7, 7, 8)
+Effects:
+
+Life: 1
+Power: 10
+Area: 0
+
+Attack: 2
+Power: 3
+Area: 0
+
+CounterAttack: 3
+Power: 2
+Area: 0
+
+Defence: 4
+Power: 2
+Area: 0
+
+RangedDefence: 5
+Power: 2
+Area: 0;
+
+/471
+Name: Garros' Helmet;
+Slot: 4
+Class: 8
+Durability: 120
+GoldCost: 1500
+GemCost: 75
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 474
+Resourse: (7, 8, 9)
+Effects:
+
+Life: 1
+Power: 10
+Area: 0
+
+Defence: 4
+Power: 2
+Area: 0
+
+RangedDefence: 5
+Power: 2
+Area: 0
+
+Resistance: 6
+Power: 2
+Area: 0
+
+Morale: 12
+Power: 7
+Area: 0;
+
+/472
+Name: Garros' Ring;
+Slot: 11
+Class: 0
+Durability: 1
+GoldCost: 3000
+GemCost: 90
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 475
+Resourse: (5, 9, 9)
+Effects:
+
+DrainLife: 68
+Power: 20
+Area: 0
+
+Swampwalk: 34
+Power: 4
+Area: 0;
+
+/473
+Name: Garros' Defender;
+Slot: 2
+Class: 9
+Durability: 200
+GoldCost: 2300
+GemCost: 150
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 476
+Resourse: (7, 8, 8)
+Effects:
+
+Defence: 4
+Power: 5
+Area: 0
+
+RangedDefence: 5
+Power: 4
+Area: 0
+
+Resist: 6
+Power: 3
+Area: 0
+
+Attack: 2
+Power: 1
+Area: 0
+
+CounterAttack: 3
+Power: 2
+Area: 0;
+
+/474
+Name: Garros' Divider;
+Slot: 1
+Class: 2
+Durability: 160
+GoldCost: 1100
+GemCost: 600
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 477
+Resourse: (7, 9)
+Effects:
+
+Attack: 2
+Power: 9
+Area: 0
+
+CounterAttack: 3
+Power: 9
+Area: 0
+
+DrainLife: 68
+Power: 20
+Area: 0
+
+LayArmorWear: 182
+Power: 1
+Area: 0;
+
+/475
+Name: Dariol's Pendant;
+Slot: 9
+Class: 0
+Durability: 1
+GoldCost: 1800
+GemCost: 140
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 478
+Resourse: (5, 8, 9)
+Effects:
+
+Initiative: 999
+Power: 1
+Area: 0
+
+Speed: 7
+Power: 1
+Area: 0
+
+Explore: 996
+Power: 10
+Area: 0;
+
+/476
+Name: Dariol's Quiver;
+Slot: 2
+Class: 3
+Durability: 30
+GoldCost: 1500
+GemCost: 100
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 479
+Resourse: (7, 8, 8)
+Effects:
+
+RangedAttack: 993
+Power: 5
+Area: 0
+
+Ammo: 10
+Power: 10
+Area: 0
+
+Piercing_shot: 17
+Power: 1
+Area: 0;
+
+/477
+Name: Dariol's Belt;
+Slot: 5
+Class: 0
+Durability: 60
+GoldCost: 850
+GemCost: 100
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 480
+Resourse: (5, 8, 8)
+Effects:
+
+Defence: 4
+Power: 2
+Area: 0
+
+RangedDefence: 5
+Power: 2
+Area: 0
+
+Resist: 6
+Power: 2
+Area: 0
+
+RangedAttack: 8
+Power: 3
+Area: 0;
+
+/478
+Name: Dariol's Boots;
+Slot: 7
+Class: 6
+Durability: 80
+GoldCost: 1500
+GemCost: 80
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 481
+Resourse: (5, 5, 8)
+Effects:
+
+Life: 1
+Power: 10
+Area: 0
+
+Stamina: 11
+Power: 7
+Area: 0
+
+Explore: 996
+Power: 25
+Area: 0
+
+Mobility: 998
+Power: 1
+Area: 0;
+
+/479
+Name: Dariol's Longbow;
+Slot: 1
+Class: 3
+Durability: 160
+GoldCost: 2000
+GemCost: 120
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 482
+Resourse: (2, 8, 8)
+Effects:
+
+RangedAttack: 8
+Power: 15
+Area: 0
+
+ShootingRange: 9
+Power: 6
+Area: 0
+
+Ammo: 10
+Power: 10
+Area: 0
+
+Stuning_Shot: 156
+Power: 2
+Area: 0;
+
+/480
+Name: Dariol's Bracer;
+Slot: 10
+Class: 6
+Durability: 60
+GoldCost: 1500
+GemCost: 40
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 483
+Resourse: (4, 4, 5)
+Effects:
+
+Life: 1
+Power: 6
+Area: 0
+
+Ammo: 10
+Power: 3
+Area: 0
+
+FireArrows: 60
+Power: 5
+Area: 0;
+
+/481
+Name: Dariol's Gloves;
+Slot: 8
+Class: 6
+Durability: 70
+GoldCost: 1500
+GemCost: 50
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 484
+Resourse: (5, 5, 8)
+Effects:
+
+Life: 1
+Power: 10
+Area: 0
+
+Looter: 992
+Power: 4
+Area: 0
+
+BowAttack: 8
+Power: 4
+Area: 0;
+
+/482
+Name: Dariol's Helmet;
+Slot: 4
+Class: 6
+Durability: 100
+GoldCost: 900
+GemCost: 100
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 485
+Resourse: (5, 8)
+Effects:
+
+Life: 1
+Power: 10
+Area: 0
+
+Stamina: 11
+Power: 8
+Area: 0
+
+Resist: 6
+Power: 2
+Area: 0;
+
+/483
+Name: Dariol's Ring;
+Slot: 11
+Class: 0
+Durability: 1
+GoldCost: 1800
+GemCost: 120
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 486
+Resourse: (5, 8, 9)
+Effects:
+
+BowAttack: 8
+Power: 2
+Area: 0
+
+AimedShot: 77
+Power: 4
+Area: 0;
+
+/484
+Name: Dariol's Jacket;
+Slot: 3
+Class: 6
+Durability: 120
+GoldCost: 1800
+GemCost: 50
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 487
+Resourse: (4, 4, 9)
+Effects:
+
+Defence: 4
+Power: 5
+Area: 0
+
+RangedDefence: 5
+Power: 4
+Area: 0
+
+Resist: 6
+Power: 3
+Area: 0
+
+Stamina: 11
+Power: 7
+Area: 0;
+
+/485
+Name: Herskil's Amulet;
+Slot: 9
+Class: 0
+Durability: 1
+GoldCost: 2500
+GemCost: 130
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 488
+Resourse: (8, 8, 9)
+Effects:
+
+Initiative: 999
+Power: 1
+Area: 0
+
+Speed: 7
+Power: -1
+Area: 0
+
+Speed: 7
+Power: 1
+Area: 1;
+
+/486
+Name: Herskil's Armor;
+Slot: 3
+Class: 7
+Durability: 100
+GoldCost: 2500
+GemCost: 150
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 489
+Resourse: (7, 5, 8)
+Effects:
+
+Life: 1
+Power: 10
+Area: 0
+
+Defence: 4
+Power: 7
+Area: 0
+
+RangedDefence: 5
+Power: 7
+Area: 0
+
+Resist: 6
+Power: 4
+Area: 0;
+
+/487
+Name: Herskil's Belt;
+Slot: 5
+Class: 0
+Durability: 60
+GoldCost: 900
+GemCost: 100
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 490
+Resourse: (5, 8, 8)
+Effects:
+
+Life: 1
+Power: 10
+Area: 0
+
+Defence: 4
+Power: 2
+Area: 0
+
+RangedDefence: 5
+Power: 2
+Area: 0
+
+Resist: 6
+Power: 1
+Area: 1;
+
+/488
+Name: Herskil's Boots;
+Slot: 7
+Class: 7
+Durability: 110
+GoldCost: 1500
+GemCost: 30
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 491
+Resourse: (7, 8)
+Effects:
+
+Life: 1
+Power: 10
+Area: 0
+
+Attack: 2
+Power: 1
+Area: 1
+
+CounterAttack: 3
+Power: 1
+Area: 1
+
+Stamina: 11
+Power: 2
+Area: 1;
+
+/489
+Name: Herskil's Bracelet;
+Slot: 10
+Class: 0
+Durability: 1
+GoldCost: 1500
+GemCost: 45
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 492
+Resourse: (7, 7, 8)
+Effects:
+
+Life: 1
+Power: 10
+Area: 0
+
+Attack: 2
+Power: 4
+Area: 0
+
+CounterAttack: 3
+Power: 3
+Area: 0;
+
+/490
+Name: Herskil's Gloves;
+Slot: 8
+Class: 7
+Durability: 80
+GoldCost: 1500
+GemCost: 60
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 493
+Resourse: (7, 5, 8)
+Effects:
+
+Life: 1
+Power: 10
+Area: 0
+
+Attack: 2
+Power: 3
+Area: 0
+
+CounterAttack: 3
+Power: 3
+Area: 0
+
+Economy: 997
+Power: 25
+Area: 0;
+
+/491
+Name: Herskil's Helmet;
+Slot: 4
+Class: 7
+Durability: 90
+GoldCost: 1500
+GemCost: 75
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 494
+Resourse: (7, 5, 8)
+Effects:
+
+Life: 1
+Power: 12
+Area: 0
+
+Defence: 4
+Power: 2
+Area: 0
+
+RangedDefence: 5
+Power: 2
+Area: 1
+
+Initiative: 999
+Power: 1
+Area: 0;
+
+/492
+Name: Herskil's Ring;
+Slot: 11
+Class: 0
+Durability: 1
+GoldCost: 1200
+GemCost: 60
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 495
+Resourse: (5, 8)
+Effects:
+
+Regeneration: 48
+Power: 2
+Area: 1;
+
+/493
+Name: Herskil's Banner;
+Slot: 100
+Class: 5
+Durability: 160
+GoldCost: 2800
+GemCost: 200
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 496
+Resourse: (2, 5, 8)
+Effects:
+
+Life: 1
+Power: 5
+Area: 1
+
+Attack: 2
+Power: 3
+Area: 1
+
+CounterAttack: 3
+Power: 3
+Area: 1
+
+Defence: 4
+Power: 3
+Area: 1
+
+RangedDefence: 5
+Power: 3
+Area: 1
+
+Resist: 6
+Power: 2
+Area: 1;
+
+/494
+Name: Birdeater's Egg;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 120
+GemCost: 10
+ShopLevel: 3
+Rarity: 2
+Building: 0
+Pic: 497
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 166
+Area: 0;
+
+/495
+Name: Armageddon Blade;
+Slot: 100
+Class: 1
+Durability: 60
+GoldCost: 3500
+GemCost: 250
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 498
+Resourse: (7, 7, 9, 9)
+Effects:
+
+Attack: 2
+Power: 12
+Area: 0
+
+CounterAttack: 3
+Power: 12
+Area: 0
+
+FireImmunity: 101
+Power: 1
+Area: 1
+
+Armageddon: 219
+Power: 1
+Area: 0;
+
+/496
+Name: DELETED;
+Slot: 11
+Class: 0
+Durability: 1
+GoldCost: 5000
+GemCost: 500
+ShopLevel: 6
+Rarity: 8
+Building: 0
+Pic: 499
+Resourse: (0)
+Effects:
+
+Cats_Paw: 110
+Power: 1
+Area: 0
+
+Morale: 12
+Power: 5
+Area: 1
+
+Poison: 41
+Power: 2
+Area: 1
+
+PoisonShot: 78
+Power: 1
+Area: 1;
+
+/497
+Name: DELETED;
+Slot: 11
+Class: 0
+Durability: 1
+GoldCost: 5000
+GemCost: 500
+ShopLevel: 6
+Rarity: 8
+Building: 0
+Pic: 500
+Resourse: (0)
+Effects:
+
+Wirts_Leg: 111
+Power: 1
+Area: 0
+
+Summon: 907
+Power: 6
+Area: 0
+
+Stamina: 11
+Power: 5
+Area: 0
+
+Looter: 992
+Power: 2
+Area: 0;
+
+/498
+Name: DELETED;
+Slot: 11
+Class: 0
+Durability: 1
+GoldCost: 5000
+GemCost: 500
+ShopLevel: 6
+Rarity: 8
+Building: 0
+Pic: 501
+Resourse: (0)
+Effects:
+
+Horadrics_Cube: 112
+Power: 1
+Area: 0
+
+Looter: 992
+Power: 5
+Area: 0
+
+GoldIncome: 81
+Power: 200
+Area: 0
+
+GemIncome: 82
+Power: 20
+Area: 0;
+
+/499
+Name: DELETED;
+Slot: 11
+Class: 0
+Durability: 1
+GoldCost: 5000
+GemCost: 500
+ShopLevel: 6
+Rarity: 8
+Building: 0
+Pic: 502
+Resourse: (0)
+Effects:
+
+Minerals: 113
+Power: 1
+Area: 0
+
+GemIncome: 82
+Power: 40
+Area: 0
+
+SpellPower: 905
+Power: 2
+Area: 0
+
+Resist: 6
+Power: 2
+Area: 0;
+
+/500
+Name: DELETED;
+Slot: 11
+Class: 0
+Durability: 1
+GoldCost: 5000
+GemCost: 500
+ShopLevel: 6
+Rarity: 8
+Building: 0
+Pic: 503
+Resourse: (0)
+Effects:
+
+Lightsaber: 114
+Power: 1
+Area: 0
+
+Attack: 2
+Power: 3
+Area: 0
+
+CounterAttack: 3
+Power: 3
+Area: 0
+
+Defence: 4
+Power: 1
+Area: 0
+
+RangedDefence: 5
+Power: 2
+Area: 0
+
+MagicStrike: 27
+Power: 1
+Area: 0;
+
+/501
+Name: DELETED;
+Slot: 11
+Class: 0
+Durability: 1
+GoldCost: 5000
+GemCost: 500
+ShopLevel: 6
+Rarity: 8
+Building: 0
+Pic: 504
+Resourse: (0)
+Effects:
+
+Pip_Boy: 115
+Power: 1
+Area: 0
+
+Initiative: 999
+Power: 2
+Area: 0
+
+Defence: 4
+Power: 2
+Area: 0
+
+RangedDefence: 5
+Power: 2
+Area: 0
+
+AimedStrike: 76
+Power: 2
+Area: 0
+
+AimedShot: 77
+Power: 2
+Area: 0;
+
+/502
+Name: DELETED;
+Slot: 11
+Class: 0
+Durability: 1
+GoldCost: 5000
+GemCost: 500
+ShopLevel: 6
+Rarity: 8
+Building: 0
+Pic: 505
+Resourse: (0)
+Effects:
+
+Space_Rangers: 185
+Power: 1
+Area: 0
+
+Attack: 2
+Power: 1
+Area: 1
+
+CounterAttack: 3
+Power: 1
+Area: 1
+
+RangedAttack: 8
+Power: 2
+Area: 1
+
+Life: 1
+Power: 5
+Area: 1;
+
+/503
+Name: DELETED;
+Slot: 11
+Class: 0
+Durability: 1
+GoldCost: 5000
+GemCost: 500
+ShopLevel: 6
+Rarity: 8
+Building: 0
+Pic: 506
+Resourse: (0)
+Effects:
+
+Yuri_Ring: 186
+Power: 1
+Area: 0
+
+Defence: 4
+Power: 1
+Area: 1
+
+RangedDefence: 5
+Power: 1
+Area: 1
+
+Resist: 6
+Power: 1
+Area: 1
+
+Regeneration: 48
+Power: 2
+Area: 1;
+
+/504
+Name: Oinor's Mantle;
+Slot: 6
+Class: 0
+Durability: 10
+GoldCost: 1500
+GemCost: 225
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 507
+Resourse: (5, 8, 9)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+RangedDefence: 5
+Power: 3
+Area: 0
+
+Resist: 6
+Power: 2
+Area: 0
+
+SpellPower: 905
+Power: 2
+Area: 0;
+
+/505
+Name: Herskil's Cloak;
+Slot: 6
+Class: 0
+Durability: 35
+GoldCost: 1800
+GemCost: 110
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 508
+Resourse: (5, 8, 8)
+Effects:
+
+Life: 1
+Power: 3
+Area: 1
+
+Attack: 2
+Power: 2
+Area: 1
+
+CounterAttack: 3
+Power: 2
+Area: 1;
+
+/506
+Name: Offender's Mask;
+Slot: 4
+Class: 6
+Durability: 30
+GoldCost: 250
+GemCost: 15
+ShopLevel: 5
+Rarity: 4
+Building: 245
+Pic: 509
+Resourse: (4)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+Stamina: 11
+Power: 2
+Area: 0
+
+FastChange: 980
+Power: 1
+Area: 0;
+
+/507
+Name: Offender's Jacket;
+Slot: 3
+Class: 6
+Durability: 50
+GoldCost: 450
+GemCost: 50
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 510
+Resourse: (4, 5)
+Effects:
+
+Defence: 4
+Power: 4
+Area: 0
+
+RangedDefence: 5
+Power: 4
+Area: 0
+
+Stamina: 11
+Power: 3
+Area: 0
+
+Looter: 992
+Power: 2
+Area: 0;
+
+/508
+Name: Offender's Boots;
+Slot: 7
+Class: 6
+Durability: 45
+GoldCost: 300
+GemCost: 20
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 511
+Resourse: (4, 5)
+Effects:
+
+Life: 1
+Power: 8
+Area: 0
+
+Stamina: 11
+Power: 4
+Area: 0
+
+Speed: 7
+Power: 1
+Area: 0;
+
+/509
+Name: Offender's Blade;
+Slot: 1
+Class: 1
+Durability: 40
+GoldCost: 350
+GemCost: 20
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 512
+Resourse: (1, 7)
+Effects:
+
+FirstStrike: 16
+Power: 1
+Area: 0
+
+Attack: 2
+Power: 5
+Area: 0
+
+CounterAttack: 3
+Power: 5
+Area: 0
+
+Pillage: 982
+Power: 50
+Area: 0;
+
+/510
+Name: Offender's Shield;
+Slot: 2
+Class: 9
+Durability: 60
+GoldCost: 400
+GemCost: 50
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 513
+Resourse: (5, 7)
+Effects:
+
+Defence: 4
+Power: 3
+Area: 0
+
+RangedDefence: 5
+Power: 3
+Area: 0
+
+Parry: 53
+Power: 4
+Area: 0;
+
+/511
+Name: Dragon's Egg;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 800
+GemCost: 60
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 514
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 60
+Area: 0;
+
+/512
+Name: Emissary's Hood;
+Slot: 4
+Class: 0
+Durability: 35
+GoldCost: 300
+GemCost: 35
+ShopLevel: 4
+Rarity: 4
+Building: 0
+Pic: 515
+Resourse: (9)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+Ambassador: 979
+Power: 1
+Area: 0;
+
+/513
+Name: Emissary's Robe;
+Slot: 6
+Class: 0
+Durability: 40
+GoldCost: 450
+GemCost: 50
+ShopLevel: 4
+Rarity: 4
+Building: 0
+Pic: 516
+Resourse: (5)
+Effects:
+
+RangedDefence: 5
+Power: 1
+Area: 0
+
+Resist: 6
+Power: 1
+Area: 0
+
+Ambassador: 979
+Power: 1
+Area: 0;
+
+/514
+Name: Messengers's Bracelet;
+Slot: 10
+Class: 0
+Durability: 1
+GoldCost: 500
+GemCost: 40
+ShopLevel: 5
+Rarity: 5
+Building: 244
+Pic: 517
+Resourse: (4, 7)
+Effects:
+
+SpellCost: 983
+Power: 10
+Area: 0
+
+MagicStrike: 27
+Power: 1
+Area: 0;
+
+/515
+Name: Emissary's Boots;
+Slot: 7
+Class: 0
+Durability: 30
+GoldCost: 300
+GemCost: 40
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 518
+Resourse: (5)
+Effects:
+
+Life: 1
+Power: 6
+Area: 0
+
+Stamina: 11
+Power: 3
+Area: 0;
+
+/516
+Name: Emissary's Scepter;
+Slot: 1
+Class: 4
+Durability: 55
+GoldCost: 800
+GemCost: 50
+ShopLevel: 5
+Rarity: 5
+Building: 243
+Pic: 519
+Resourse: (5, 8)
+Effects:
+
+RangedAttack: 8
+Power: 8
+Area: 0
+
+Range: 9
+Power: 6
+Area: 0
+
+Ammo: 10
+Power: 7
+Area: 0
+
+Heal: 24
+Power: 8
+Area: 0
+
+Magic_Shot: 28
+Power: 1
+Area: 0
+
+Ambassador: 979
+Power: 1
+Area: 0;
+
+/517
+Name: Pendant of Knowledge;
+Slot: 9
+Class: 0
+Durability: 1
+GoldCost: 650
+GemCost: 40
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 520
+Resourse: (5, 9)
+Effects:
+
+SpellPenetration: 908
+Power: 1
+Area: 0
+
+Exp_gain: 991
+Power: 10
+Area: 0;
+
+/518
+Name: Marshall's Armor;
+Slot: 3
+Class: 7
+Durability: 55
+GoldCost: 800
+GemCost: 40
+ShopLevel: 6
+Rarity: 4
+Building: 0
+Pic: 521
+Resourse: (7, 5, 5)
+Effects:
+
+Defence: 4
+Power: 6
+Area: 0
+
+RangedDefence: 5
+Power: 5
+Area: 0
+
+Attack: 2
+Power: 2
+Area: 1
+
+CounterAttack: 3
+Power: 1
+Area: 1;
+
+/519
+Name: Tome of Abyss;
+Slot: 2
+Class: 4
+Durability: 35
+GoldCost: 250
+GemCost: 30
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 522
+Resourse: (9, 9)
+Effects:
+
+SpellPower: 905
+Power: 1
+Area: 0
+
+Summon: 907
+Power: 5
+Area: 0;
+
+/520
+Name: Bracer-Compass;
+Slot: 10
+Class: 0
+Durability: 15
+GoldCost: 550
+GemCost: 35
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 523
+Resourse: (4)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+Mobility: 998
+Power: 2
+Area: 0;
+
+/521
+Name: Claws;
+Slot: 100
+Class: 1
+Durability: 50
+GoldCost: 800
+GemCost: 15
+ShopLevel: 4
+Rarity: 4
+Building: 0
+Pic: 524
+Resourse: (1, 7)
+Effects:
+
+FirstStrike: 16
+Power: 1
+Area: 0
+
+Attack: 2
+Power: 7
+Area: 0
+
+CounterAttack: 3
+Power: 5
+Area: 0
+
+Poison: 41
+Power: 2
+Area: 0;
+
+/522
+Name: Helmet of Madness;
+Slot: 4
+Class: 7
+Durability: 50
+GoldCost: 900
+GemCost: 55
+ShopLevel: 6
+Rarity: 5
+Building: 246
+Pic: 525
+Resourse: (7, 7, 5)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+Defence: 4
+Power: 1
+Area: 0
+
+Attack: 2
+Power: 2
+Area: 1;
+
+/523
+Name: Face of Death;
+Slot: 4
+Class: 0
+Durability: 20
+GoldCost: 800
+GemCost: 50
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 526
+Resourse: (9)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+UndeadPower: 909
+Power: 3
+Area: 0
+
+CauseFear: 50
+Power: 1
+Area: 0
+
+FearedShoot: 169
+Power: 1
+Area: 0;
+
+/524
+Name: Tiara of Innocence;
+Slot: 4
+Class: 0
+Durability: 30
+GoldCost: 1000
+GemCost: 80
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 527
+Resourse: (5, 8, 9)
+Effects:
+
+Life: 1
+Power: 10
+Area: 0
+
+Resist: 6
+Power: 2
+Area: 0
+
+SpellPower: 905
+Power: 2
+Area: 0
+
+SmiteEvil: 61
+Power: 1
+Area: 0;
+
+/525
+Name: Gleaming Spear;
+Slot: 100
+Class: 1
+Durability: 70
+GoldCost: 600
+GemCost: 70
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 528
+Resourse: (7, 9)
+Effects:
+
+Attack: 2
+Power: 8
+Area: 0
+
+CounterAttack: 3
+Power: 10
+Area: 0
+
+First_strike: 16
+Power: 1
+Area: 0
+
+MagicStrike: 27
+Power: 1
+Area: 0;
+
+/526
+Name: Horse Pike;
+Slot: 1
+Class: 2
+Durability: 60
+GoldCost: 180
+GemCost: 0
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 529
+Resourse: (1, 2)
+Effects:
+
+Stun: 40
+Power: 1
+Area: 0
+
+Attack: 2
+Power: 4
+Area: 0
+
+CounterAttack: 3
+Power: 3
+Area: 0
+
+ArmorPiercing: 39
+Power: 1
+Area: 0;
+
+/527
+Name: Dwarven Maul;
+Slot: 100
+Class: 2
+Durability: 50
+GoldCost: 200
+GemCost: 0
+ShopLevel: 4
+Rarity: 2
+Building: 0
+Pic: 530
+Resourse: (1, 2)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+Stun: 40
+Power: 2
+Area: 0
+
+Attack: 2
+Power: 6
+Area: 0
+
+CounterAttack: 3
+Power: 6
+Area: 0;
+
+/528
+Name: Heavy Mace;
+Slot: 1
+Class: 1
+Durability: 60
+GoldCost: 120
+GemCost: 0
+ShopLevel: 8
+Rarity: 8
+Building: 0
+Pic: 531
+Resourse: (1)
+Effects:
+
+Stun: 40
+Power: 2
+Area: 0
+
+Attack: 2
+Power: 4
+Area: 0
+
+CounterAttack: 3
+Power: 3
+Area: 0;
+
+/529
+Name: Morgenstern;
+Slot: 1
+Class: 2
+Durability: 70
+GoldCost: 200
+GemCost: 0
+ShopLevel: 3
+Rarity: 3
+Building: 0
+Pic: 532
+Resourse: (1, 2)
+Effects:
+
+Stun: 40
+Power: 2
+Area: 0
+
+Attack: 2
+Power: 4
+Area: 0
+
+CounterAttack: 3
+Power: 3
+Area: 0
+
+Undead_Hunter: 220
+Power: 1
+Area: 0;
+
+/530
+Name: Poison Ring;
+Slot: 11
+Class: 0
+Durability: 1
+GoldCost: 1500
+GemCost: 140
+ShopLevel: 6
+Rarity: 5
+Building: 244
+Pic: 533
+Resourse: (5, 5)
+Effects:
+
+Poison: 41
+Power: 2
+Area: 0
+
+PoisonShot: 78
+Power: 2
+Area: 0
+
+Poison: 41
+Power: 1
+Area: 1
+
+PoisonShot: 78
+Power: 1
+Area: 1
+
+Speed: 7
+Power: -1
+Area: 0;
+
+/531
+Name: Sign of Unrest;
+Slot: 2
+Class: 4
+Durability: 35
+GoldCost: 350
+GemCost: 60
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 534
+Resourse: (9)
+Effects:
+
+Resist: 6
+Power: 1
+Area: 0
+
+Necromancy: 909
+Power: 2
+Area: 0
+
+StealSoul: 57
+Power: 5
+Area: 1;
+
+/532
+Name: Spiked Shield;
+Slot: 2
+Class: 9
+Durability: 80
+GoldCost: 550
+GemCost: 55
+ShopLevel: 5
+Rarity: 4
+Building: 249
+Pic: 535
+Resourse: (5, 7)
+Effects:
+
+Defence: 4
+Power: 3
+Area: 0
+
+RangedDefence: 5
+Power: 2
+Area: 0
+
+CounterAttack: 3
+Power: 3
+Area: 0
+
+Thorns: 210
+Power: 2
+Area: 0;
+
+/533
+Name: Holy Shield;
+Slot: 2
+Class: 9
+Durability: 100
+GoldCost: 280
+GemCost: 20
+ShopLevel: 8
+Rarity: 8
+Building: 0
+Pic: 536
+Resourse: (7)
+Effects:
+
+Defence: 4
+Power: 2
+Area: 0
+
+RangedDefence: 5
+Power: 3
+Area: 0
+
+Resist: 6
+Power: 1
+Area: 0
+
+FirstAid: 35
+Power: 2
+Area: 0
+
+Recover: 21
+Power: 2
+Area: 0;
+
+/534
+Name: Enchanted Shield;
+Slot: 2
+Class: 9
+Durability: 70
+GoldCost: 300
+GemCost: 50
+ShopLevel: 4
+Rarity: 4
+Building: 0
+Pic: 537
+Resourse: (5, 7)
+Effects:
+
+Defence: 4
+Power: 2
+Area: 0
+
+RangedDefence: 5
+Power: 2
+Area: 0
+
+Resist: 6
+Power: 3
+Area: 0;
+
+/535
+Name: Rune Blade;
+Slot: 1
+Class: 1
+Durability: 40
+GoldCost: 200
+GemCost: 0
+ShopLevel: 3
+Rarity: 3
+Building: 0
+Pic: 538
+Resourse: (7)
+Effects:
+
+Attack: 2
+Power: 3
+Area: 0
+
+CounterAttack: 3
+Power: 3
+Area: 0
+
+ArmorPiercing: 39
+Power: 1
+Area: 0;
+
+/536
+Name: Khan's Blade;
+Slot: 1
+Class: 1
+Durability: 60
+GoldCost: 380
+GemCost: 20
+ShopLevel: 3
+Rarity: 3
+Building: 0
+Pic: 539
+Resourse: (1, 7)
+Effects:
+
+Attack: 2
+Power: 5
+Area: 0
+
+CounterAttack: 3
+Power: 3
+Area: 0
+
+DamageWeapon: 52
+Power: 4
+Area: 0;
+
+/537
+Name: Astral Blade;
+Slot: 1
+Class: 1
+Durability: 70
+GoldCost: 550
+GemCost: 30
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 540
+Resourse: (7, 5)
+Effects:
+
+Attack: 2
+Power: 5
+Area: 0
+
+CounterAttack: 3
+Power: 5
+Area: 0
+
+MagicStrike: 27
+Power: 1
+Area: 0
+
+PierceResist: 196
+Power: 1
+Area: 0
+
+LayVulnerability: 79
+Power: 4
+Area: 0;
+
+/538
+Name: Ripper;
+Slot: 2
+Class: 0
+Durability: 35
+GoldCost: 600
+GemCost: 20
+ShopLevel: 4
+Rarity: 4
+Building: 0
+Pic: 541
+Resourse: (5, 7)
+Effects:
+
+Parry: 53
+Power: 4
+Area: 0
+
+CounterAttack: 3
+Power: 4
+Area: 0
+
+AimedStrike: 76
+Power: 4
+Area: 0
+
+Cripple: 51
+Power: 2
+Area: 0;
+
+/539
+Name: Plate Armor;
+Slot: 3
+Class: 8
+Durability: 50
+GoldCost: 280
+GemCost: 0
+ShopLevel: 8
+Rarity: 8
+Building: 0
+Pic: 542
+Resourse: (1, 1)
+Effects:
+
+Defence: 4
+Power: 5
+Area: 0
+
+RangedDefence: 5
+Power: 5
+Area: 0
+
+Speed: 7
+Power: -1
+Area: 0;
+
+/540
+Name: Flaming Amulet;
+Slot: 9
+Class: 0
+Durability: 1
+GoldCost: 600
+GemCost: 20
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 543
+Resourse: (5, 8)
+Effects:
+
+Resist: 6
+Power: 2
+Area: 0
+
+Burning: 143
+Power: 1
+Area: 0
+
+BurningArrows: 144
+Power: 1
+Area: 0;
+
+/541
+Name: Flaming Chestplate;
+Slot: 3
+Class: 8
+Durability: 60
+GoldCost: 1300
+GemCost: 70
+ShopLevel: 5
+Rarity: 5
+Building: 247
+Pic: 544
+Resourse: (7, 7, 8)
+Effects:
+
+Defence: 4
+Power: 7
+Area: 0
+
+RangedDefence: 5
+Power: 7
+Area: 0
+
+Speed: 7
+Power: -1
+Area: 0
+
+BurningFlesh: 154
+Power: 2
+Area: 0
+
+WebImmunity: 201
+Power: 1
+Area: 0;
+
+/542
+Name: Flaming Axe;
+Slot: 1
+Class: 2
+Durability: 90
+GoldCost: 1000
+GemCost: 30
+ShopLevel: 5
+Rarity: 5
+Building: 249
+Pic: 545
+Resourse: (7, 7, 9)
+Effects:
+
+Attack: 2
+Power: 9
+Area: 0
+
+CounterAttack: 3
+Power: 4
+Area: 0
+
+MagicStrike: 27
+Power: 1
+Area: 0
+
+Burning: 143
+Power: 2
+Area: 0;
+
+/543
+Name: Flaming Boots;
+Slot: 7
+Class: 8
+Durability: 65
+GoldCost: 400
+GemCost: 30
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 546
+Resourse: (7, 7)
+Effects:
+
+Life: 1
+Power: 6
+Area: 0
+
+Defence: 4
+Power: 1
+Area: 0
+
+RangedDefence: 5
+Power: 1
+Area: 0
+
+EntangleImmunity: 203
+Power: 1
+Area: 0;
+
+/544
+Name: Flaming Helmet;
+Slot: 4
+Class: 8
+Durability: 50
+GoldCost: 500
+GemCost: 25
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 547
+Resourse: (7)
+Effects:
+
+Life: 1
+Power: 8
+Area: 0
+
+RangedDefence: 5
+Power: 1
+Area: 0
+
+BurningFlesh: 154
+Power: 1
+Area: 0;
+
+/545
+Name: Flaming Shield;
+Slot: 2
+Class: 9
+Durability: 80
+GoldCost: 700
+GemCost: 70
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 548
+Resourse: (5, 7)
+Effects:
+
+Defence: 4
+Power: 3
+Area: 0
+
+RangedDefence: 5
+Power: 3
+Area: 0
+
+BurningFlesh: 154
+Power: 2
+Area: 0
+
+FireImmunity: 101
+Power: 1
+Area: 0;
+
+/546
+Name: Long-range Crossbow;
+Slot: 1
+Class: 3
+Durability: 100
+GoldCost: 1200
+GemCost: 10
+ShopLevel: 5
+Rarity: 5
+Building: 242
+Pic: 549
+Resourse: (2, 7, 9)
+Effects:
+
+RangedAttack: 8
+Power: 10
+Area: 0
+
+ShootingRange: 9
+Power: 7
+Area: 0
+
+Ammo: 10
+Power: 5
+Area: 0
+
+Piercing_shot: 17
+Power: 1
+Area: 0;
+
+/547
+Name: Hunter's Cloak;
+Slot: 6
+Class: 0
+Durability: 15
+GoldCost: 550
+GemCost: 50
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 550
+Resourse: (4, 5, 8)
+Effects:
+
+Forester: 32
+Power: 1
+Area: 0
+
+RangedDefence: 5
+Power: 2
+Area: 0
+
+Sabotage: 981
+Power: 1
+Area: 0;
+
+/548
+Name: Raider's Arrows;
+Slot: 2
+Class: 3
+Durability: 25
+GoldCost: 200
+GemCost: 25
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 551
+Resourse: (7, 9)
+Effects:
+
+RangedAttack: 993
+Power: 5
+Area: 0
+
+Ammo: 10
+Power: 5
+Area: 0
+
+CripplingArrows: 197
+Power: 2
+Area: 0;
+
+/549
+Name: Protection Boots;
+Slot: 7
+Class: 6
+Durability: 45
+GoldCost: 300
+GemCost: 20
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 552
+Resourse: (4, 5)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+Defence: 4
+Power: 1
+Area: 0
+
+RangedDefence: 5
+Power: 1
+Area: 0;
+
+/550
+Name: Forester's Gloves;
+Slot: 8
+Class: 6
+Durability: 35
+GoldCost: 650
+GemCost: 0
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 553
+Resourse: (5, 5, 8)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+AimedShot: 77
+Power: 2
+Area: 0
+
+BowAttack: 8
+Power: 2
+Area: 0;
+
+/551
+Name: Adventurer's Helmet;
+Slot: 4
+Class: 6
+Durability: 35
+GoldCost: 300
+GemCost: 15
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 554
+Resourse: (4)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+Stamina: 11
+Power: 5
+Area: 0
+
+Looter: 992
+Power: 2
+Area: 0;
+
+/552
+Name: Spirit of Dracolich;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 5500
+GemCost: 550
+ShopLevel: 6
+Rarity: 5
+Building: 212
+Pic: 555
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 75
+Area: 0;
+
+/553
+Name: Sacred Relic;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 4400
+GemCost: 440
+ShopLevel: 6
+Rarity: 5
+Building: 234
+Pic: 556
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 157
+Area: 0;
+
+/554
+Name: Cursed Relic;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 4400
+GemCost: 440
+ShopLevel: 6
+Rarity: 5
+Building: 235
+Pic: 557
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 160
+Area: 0;
+
+/555
+Name: Elemental Mistress;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 3300
+GemCost: 330
+ShopLevel: 6
+Rarity: 5
+Building: 236
+Pic: 558
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 161
+Area: 0;
+
+/556
+Name: Faerie Dragon;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 5000
+GemCost: 500
+ShopLevel: 6
+Rarity: 5
+Building: 237
+Pic: 559
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 162
+Area: 0;
+
+/557
+Name: Psion;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 3300
+GemCost: 330
+ShopLevel: 6
+Rarity: 5
+Building: 238
+Pic: 560
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 164
+Area: 0;
+
+/558
+Name: Night Shadow;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 75
+GemCost: 8
+ShopLevel: 3
+Rarity: 8
+Building: 0
+Pic: 561
+Resourse: (2)
+Effects:
+
+Summon: 84
+Power: 175
+Area: 0;
+
+/559
+Name: Blood Butterfly;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 150
+GemCost: 30
+ShopLevel: 4
+Rarity: 8
+Building: 253
+Pic: 562
+Resourse: (1, 4)
+Effects:
+
+Summon: 84
+Power: 176
+Area: 0;
+
+/560
+Name: Darkness Craver;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 600
+GemCost: 90
+ShopLevel: 5
+Rarity: 8
+Building: 258
+Pic: 563
+Resourse: (4, 5, 5)
+Effects:
+
+Summon: 84
+Power: 177
+Area: 0;
+
+/561
+Name: Darkness Chosen;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 750
+GemCost: 150
+ShopLevel: 6
+Rarity: 8
+Building: 259
+Pic: 564
+Resourse: (5, 5, 9)
+Effects:
+
+Summon: 84
+Power: 178
+Area: 0;
+
+/562
+Name: Slavedriver;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 145
+GemCost: 8
+ShopLevel: 4
+Rarity: 8
+Building: 252
+Pic: 565
+Resourse: (1, 2, 4)
+Effects:
+
+Summon: 84
+Power: 179
+Area: 0;
+
+/563
+Name: Nocturnal Hunter;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 220
+GemCost: 25
+ShopLevel: 4
+Rarity: 8
+Building: 256
+Pic: 566
+Resourse: (2, 4)
+Effects:
+
+Summon: 84
+Power: 180
+Area: 0;
+
+/564
+Name: Guardian of Darkness;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 540
+GemCost: 35
+ShopLevel: 5
+Rarity: 8
+Building: 260
+Pic: 567
+Resourse: (1, 4, 7)
+Effects:
+
+Summon: 84
+Power: 181
+Area: 0;
+
+/565
+Name: Beholder Egg;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 240
+GemCost: 85
+ShopLevel: 3
+Rarity: 4
+Building: 261
+Pic: 568
+Resourse: (5, 9, 9)
+Effects:
+
+Summon: 84
+Power: 182
+Area: 0;
+
+/566
+Name: Dark Priestess;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 300
+GemCost: 22
+ShopLevel: 3
+Rarity: 3
+Building: 257
+Pic: 569
+Resourse: (4, 4)
+Effects:
+
+Summon: 84
+Power: 183
+Area: 0;
+
+/567
+Name: Scorpion;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 750
+GemCost: 15
+ShopLevel: 5
+Rarity: 8
+Building: 217
+Pic: 570
+Resourse: (1, 1, 7)
+Effects:
+
+Summon: 84
+Power: 184
+Area: 0;
+
+/568
+Name: Illithid;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 1100
+GemCost: 230
+ShopLevel: 6
+Rarity: 8
+Building: 0
+Pic: 571
+Resourse: (5, 9, 9)
+Effects:
+
+Summon: 84
+Power: 185
+Area: 0;
+
+/569
+Name: Kobold-slave;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 0
+GemCost: 0
+ShopLevel: 2
+Rarity: 8
+Building: 251
+Pic: 572
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 187
+Area: 0;
+
+/570
+Name: Kobold;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 15
+GemCost: 0
+ShopLevel: 2
+Rarity: 8
+Building: 0
+Pic: 573
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 188
+Area: 0;
+
+/571
+Name: Alvari Jacket;
+Slot: 3
+Class: 6
+Durability: 45
+GoldCost: 300
+GemCost: 30
+ShopLevel: 4
+Rarity: 4
+Building: 245
+Pic: 574
+Resourse: (4, 7)
+Effects:
+
+Defence: 4
+Power: 3
+Area: 0
+
+RangedDefence: 5
+Power: 4
+Area: 0
+
+Bleeding: 208
+Power: 1
+Area: 0;
+
+/572
+Name: Alvari Boots;
+Slot: 7
+Class: 6
+Durability: 45
+GoldCost: 300
+GemCost: 20
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 575
+Resourse: (4, 5)
+Effects:
+
+Life: 1
+Power: 6
+Area: 0
+
+Stamina: 11
+Power: 4
+Area: 0
+
+March: 29
+Power: 1
+Area: 0;
+
+/573
+Name: Alvari Gloves;
+Slot: 8
+Class: 6
+Durability: 30
+GoldCost: 400
+GemCost: 0
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 576
+Resourse: (4, 5)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+AimedStrike: 76
+Power: 1
+Area: 0
+
+AimedShot: 77
+Power: 2
+Area: 0;
+
+/574
+Name: Alvari Helmet;
+Slot: 4
+Class: 6
+Durability: 35
+GoldCost: 300
+GemCost: 15
+ShopLevel: 4
+Rarity: 4
+Building: 0
+Pic: 577
+Resourse: (1, 4)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+CauseFear: 50
+Power: 1
+Area: 0
+
+BloodRage: 211
+Power: 2
+Area: 0;
+
+/575
+Name: Romulan's Bloodsquashers;
+Slot: 7
+Class: 8
+Durability: 80
+GoldCost: 750
+GemCost: 60
+ShopLevel: 6
+Rarity: 5
+Building: 247
+Pic: 578
+Resourse: (7, 7, 8)
+Effects:
+
+BloodRage: 211
+Power: 5
+Area: 0
+
+Trample: 63
+Power: 10
+Area: 0;
+
+/576
+Name: Armor of Desire;
+Slot: 3
+Class: 8
+Durability: 70
+GoldCost: 2000
+GemCost: 50
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 579
+Resourse: (7, 7, 7, 9)
+Effects:
+
+Life: 1
+Power: -10
+Area: 0
+
+Defence: 4
+Power: 8
+Area: 0
+
+RangedDefence: 5
+Power: 8
+Area: 0
+
+Speed: 7
+Power: -1
+Area: 0
+
+DrainLife: 68
+Power: 25
+Area: 0
+
+RangeDrain: 104
+Power: 25
+Area: 0;
+
+/577
+Name: Horned Coronet;
+Slot: 4
+Class: 8
+Durability: 60
+GoldCost: 600
+GemCost: 40
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 580
+Resourse: (7, 9)
+Effects:
+
+Life: 1
+Power: -5
+Area: 0
+
+Defence: 4
+Power: 2
+Area: 0
+
+RangedDefence: 5
+Power: 2
+Area: 0
+
+CauseFear: 50
+Power: 2
+Area: 0
+
+BloodRage: 211
+Power: 4
+Area: 0;
+
+/578
+Name: Touch of Doom;
+Slot: 8
+Class: 8
+Durability: 60
+GoldCost: 1000
+GemCost: 30
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 581
+Resourse: (7, 7, 8)
+Effects:
+
+Life: 1
+Power: -5
+Area: 0
+
+Defence: 4
+Power: 1
+Area: 0
+
+RangedDefence: 5
+Power: 1
+Area: 0
+
+RestAmmo: 215
+Power: 1
+Area: 0
+
+CauseFear: 50
+Power: 2
+Area: 0;
+
+/579
+Name: Dark Flame;
+Slot: 2
+Class: 4
+Durability: 60
+GoldCost: 250
+GemCost: 55
+ShopLevel: 5
+Rarity: 4
+Building: 243
+Pic: 583
+Resourse: (5, 9)
+Effects:
+
+Energy_control: 95
+Power: 3
+Area: 0
+
+RangedAttack: 994
+Power: 3
+Area: 0
+
+AstralShot: 213
+Power: 3
+Area: 0
+
+DrainLife: 68
+Power: 25
+Area: 0
+
+RangeDrain: 104
+Power: 25
+Area: 0;
+
+/580
+Name: Gloves of Slaughter;
+Slot: 8
+Class: 8
+Durability: 75
+GoldCost: 1800
+GemCost: 60
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 582
+Resourse: (7, 5, 8)
+Effects:
+
+Life: 1
+Power: 6
+Area: 0
+
+Attack: 2
+Power: 2
+Area: 0
+
+CounterAttack: 3
+Power: 2
+Area: 0
+
+FirstStrike: 16
+Power: 1
+Area: 0
+
+ArmorPiercing: 39
+Power: 1
+Area: 0;
+
+/581
+Name: Rapid Stream;
+Slot: 100
+Class: 1
+Durability: 100
+GoldCost: 1450
+GemCost: 100
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 584
+Resourse: (7, 9, 9)
+Effects:
+
+Attack: 2
+Power: 7
+Area: 0
+
+CounterAttack: 3
+Power: 9
+Area: 0
+
+FirstStrike: 16
+Power: 1
+Area: 0
+
+Speed: 7
+Power: 1
+Area: 0;
+
+/582
+Name: Wyvern's Egg;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 200
+GemCost: 5
+ShopLevel: 5
+Rarity: 3
+Building: 0
+Pic: 585
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 150
+Area: 0;
+
+/583
+Name: Eternal Sun;
+Slot: 9
+Class: 0
+Durability: 1
+GoldCost: 3500
+GemCost: 500
+ShopLevel: 6
+Rarity: 8
+Building: 0
+Pic: 586
+Resourse: (5, 7, 8, 8)
+Effects:
+
+Reincarnate: 97
+Power: 1
+Area: 0
+
+SmiteEvil: 61
+Power: 3
+Area: 0;
+
+/584
+Name: Illithid;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 1100
+GemCost: 230
+ShopLevel: 6
+Rarity: 8
+Building: 0
+Pic: 587
+Resourse: (5, 9, 9)
+Effects:
+
+Summon: 84
+Power: 185
+Area: 0;
+
+/585
+Name: Demonologist;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 120
+GemCost: 20
+ShopLevel: 3
+Rarity: 2
+Building: 0
+Pic: 588
+Resourse: (4, 5)
+Effects:
+
+Summon: 84
+Power: 190
+Area: 0;
+
+/586
+Name: Ericuba's Egg;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 450
+GemCost: 10
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 589
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 131
+Area: 0;
+
+/587
+Name: Executioner's Amulet;
+Slot: 9
+Class: 0
+Durability: 1
+GoldCost: 1500
+GemCost: 100
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 590
+Resourse: (5, 8)
+Effects:
+
+Resist: 6
+Power: 1
+Area: 1;
+
+/588
+Name: Executioner's Chestplate;
+Slot: 3
+Class: 8
+Durability: 60
+GoldCost: 1600
+GemCost: 50
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 591
+Resourse: (7, 7, 8, 8)
+Effects:
+
+Defence: 4
+Power: 8
+Area: 0
+
+RangedDefence: 5
+Power: 8
+Area: 0
+
+Speed: 7
+Power: -1
+Area: 0
+
+Morale: 12
+Power: 3
+Area: 1;
+
+/589
+Name: Executioner's Bracer;
+Slot: 10
+Class: 8
+Durability: 50
+GoldCost: 900
+GemCost: 50
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 592
+Resourse: (7, 7, 8)
+Effects:
+
+Life: 1
+Power: 8
+Area: 0
+
+Smite_Evil: 61
+Power: 1
+Area: 0
+
+Defence: 4
+Power: 1
+Area: 0
+
+RangedDefence: 5
+Power: 1
+Area: 0;
+
+/590
+Name: Executioner's Axe;
+Slot: 100
+Class: 5
+Durability: 80
+GoldCost: 2200
+GemCost: 100
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 593
+Resourse: (2, 7, 8)
+Effects:
+
+Attack: 2
+Power: 8
+Area: 0
+
+CounterAttack: 3
+Power: 7
+Area: 0
+
+Attack: 2
+Power: 2
+Area: 1
+
+CounterAttack: 3
+Power: 3
+Area: 1
+
+Smite Evil: 61
+Power: 2
+Area: 1;
+
+/591
+Name: Executioner's Belt;
+Slot: 5
+Class: 0
+Durability: 20
+GoldCost: 500
+GemCost: 30
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 594
+Resourse: (7, 5, 8)
+Effects:
+
+Life: 1
+Power: 8
+Area: 0
+
+Regeneration: 48
+Power: 1
+Area: 0;
+
+/592
+Name: Executioner's Boots;
+Slot: 7
+Class: 8
+Durability: 60
+GoldCost: 550
+GemCost: 45
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 595
+Resourse: (7, 8)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+Defence: 4
+Power: 1
+Area: 0
+
+RangedDefence: 5
+Power: 1
+Area: 0
+
+Trample: 63
+Power: 5
+Area: 0;
+
+/593
+Name: Executioner's Mittens;
+Slot: 8
+Class: 8
+Durability: 50
+GoldCost: 600
+GemCost: 20
+ShopLevel: 5
+Rarity: 5
+Building: 247
+Pic: 596
+Resourse: (7, 5, 8)
+Effects:
+
+Life: 1
+Power: 6
+Area: 0
+
+Attack: 2
+Power: 1
+Area: 0
+
+CounterAttack: 3
+Power: 1
+Area: 0
+
+SmiteEvil: 61
+Power: 1
+Area: 0
+
+Parry: 53
+Power: 2
+Area: 1;
+
+/594
+Name: Executioner's Helmet;
+Slot: 4
+Class: 8
+Durability: 55
+GoldCost: 1000
+GemCost: 50
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 597
+Resourse: (7, 8)
+Effects:
+
+Life: 1
+Power: 10
+Area: 0
+
+Defence: 4
+Power: 1
+Area: 0
+
+RangedDefence: 5
+Power: 1
+Area: 0
+
+Defence: 4
+Power: 1
+Area: 1;
+
+/595
+Name: Executioner's Ring;
+Slot: 11
+Class: 0
+Durability: 1
+GoldCost: 600
+GemCost: 50
+ShopLevel: 5
+Rarity: 6
+Building: 0
+Pic: 598
+Resourse: (8, 8)
+Effects:
+
+Resist: 6
+Power: 2
+Area: 0;
+
+/596
+Name: Elemental Ring of Earth;
+Slot: 11
+Class: 0
+Durability: 1
+GoldCost: 2500
+GemCost: 100
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 599
+Resourse: (5, 8, 9)
+Effects:
+
+CounterAttack: 3
+Power: 2
+Area: 0
+
+PoisonImmunity: 42
+Power: 1
+Area: 0;
+
+/597
+Name: Elemental Ring of Fire;
+Slot: 11
+Class: 0
+Durability: 1
+GoldCost: 2500
+GemCost: 100
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 600
+Resourse: (5, 8, 9)
+Effects:
+
+Attack: 2
+Power: 2
+Area: 0
+
+FireImmunity: 101
+Power: 1
+Area: 0;
+
+/598
+Name: Elemental Ring of Water;
+Slot: 11
+Class: 0
+Durability: 1
+GoldCost: 2500
+GemCost: 100
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 601
+Resourse: (5, 8, 9)
+Effects:
+
+Defence: 4
+Power: 2
+Area: 0
+
+ColdImmunity: 102
+Power: 1
+Area: 0;
+
+/599
+Name: Elemental Ring of Air;
+Slot: 11
+Class: 0
+Durability: 1
+GoldCost: 2500
+GemCost: 100
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 602
+Resourse: (5, 8, 9)
+Effects:
+
+RangedDefence: 5
+Power: 3
+Area: 0
+
+AirImmunity: 105
+Power: 1
+Area: 0;
+
+/600
+Name: Ring of Life;
+Slot: 11
+Class: 0
+Durability: 1
+GoldCost: 2500
+GemCost: 100
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 603
+Resourse: (5, 8, 9)
+Effects:
+
+Regeneration: 48
+Power: 1
+Area: 0
+
+Regeneration: 48
+Power: 1
+Area: 1
+
+Rest: 21
+Power: 2
+Area: 0
+
+Rest: 21
+Power: 2
+Area: 1;
+
+/601
+Name: Ring of Agility;
+Slot: 11
+Class: 0
+Durability: 1
+GoldCost: 2000
+GemCost: 100
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 604
+Resourse: (5, 8, 9)
+Effects:
+
+Attack: 2
+Power: 1
+Area: 0
+
+CounterAttack: 3
+Power: 1
+Area: 0
+
+Agility: 26
+Power: 1
+Area: 0;
+
+/602
+Name: Eye of Twilight;
+Slot: 9
+Class: 0
+Durability: 1
+GoldCost: 700
+GemCost: 20
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 605
+Resourse: (5, 8)
+Effects:
+
+Life: 1
+Power: 8
+Area: 0
+
+Initiative: 999
+Power: 1
+Area: 0
+
+Resist: 6
+Power: 1
+Area: 0;
+
+/603
+Name: Dead Flesh;
+Slot: 3
+Class: 7
+Durability: 50
+GoldCost: 1000
+GemCost: 100
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 606
+Resourse: (7, 5, 8)
+Effects:
+
+Defence: 4
+Power: 6
+Area: 0
+
+RangedDefence: 5
+Power: 6
+Area: 0
+
+FestringWounds: 136
+Power: 1
+Area: 0
+
+PoisonImmunity: 42
+Power: 1
+Area: 0
+
+SummonUndead: 909
+Power: 4
+Area: 0;
+
+/604
+Name: Ethereal Feet;
+Slot: 7
+Class: 7
+Durability: 35
+GoldCost: 1000
+GemCost: 100
+ShopLevel: 6
+Rarity: 5
+Building: 246
+Pic: 607
+Resourse: (5, 5, 8)
+Effects:
+
+Defence: 4
+Power: 1
+Area: 0
+
+RangedDefence: 5
+Power: 2
+Area: 0
+
+Float: 15
+Power: 1
+Area: 0;
+
+/605
+Name: Banner of the Dead;
+Slot: 2
+Class: 5
+Durability: 70
+GoldCost: 1200
+GemCost: 90
+ShopLevel: 5
+Rarity: 4
+Building: 248
+Pic: 608
+Resourse: (2, 8)
+Effects:
+
+CounterAttack: 3
+Power: 4
+Area: 0
+
+Undertaker: 64
+Power: 216
+Area: 0
+
+Smite_Good: 200
+Power: 2
+Area: 1
+
+Tolerance: 98
+Power: 1
+Area: 1
+
+FestringWounds: 136
+Power: 1
+Area: 1;
+
+/606
+Name: Ghoul's Touch;
+Slot: 8
+Class: 7
+Durability: 40
+GoldCost: 600
+GemCost: 25
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 609
+Resourse: (7, 5)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+LayDisease: 80
+Power: 3
+Area: 0
+
+SpellDuration: 906
+Power: 1
+Area: 0;
+
+/607
+Name: Skull-Helmet;
+Slot: 4
+Class: 7
+Durability: 50
+GoldCost: 450
+GemCost: 40
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 610
+Resourse: (7, 7, 5)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+Defence: 4
+Power: 1
+Area: 0
+
+RangedDefence: 5
+Power: 1
+Area: 0
+
+MindImmunity: 100
+Power: 1
+Area: 0;
+
+/608
+Name: Cold Sun;
+Slot: 1
+Class: 4
+Durability: 55
+GoldCost: 600
+GemCost: 70
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 611
+Resourse: (5, 9)
+Effects:
+
+RangeAttack: 8
+Power: 10
+Area: 0
+
+Range: 9
+Power: 6
+Area: 0
+
+Ammo: 10
+Power: 5
+Area: 0
+
+MagicShot: 28
+Power: 1
+Area: 0
+
+RangeDrain: 104
+Power: 25
+Area: 0
+
+SummonUndead: 909
+Power: 4
+Area: 0;
+
+/609
+Name: Sorcerer's Mantle;
+Slot: 6
+Class: 0
+Durability: 40
+GoldCost: 800
+GemCost: 110
+ShopLevel: 6
+Rarity: 5
+Building: 248
+Pic: 612
+Resourse: (5, 8, 9)
+Effects:
+
+Stamina: 11
+Power: 2
+Area: 1
+
+Resist: 6
+Power: 2
+Area: 0
+
+SpellPenetration: 908
+Power: 1
+Area: 0;
+
+/610
+Name: Underhill Master;
+Slot: 10
+Class: 8
+Durability: 50
+GoldCost: 800
+GemCost: 50
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 613
+Resourse: (7, 8)
+Effects:
+
+Life: 1
+Power: 10
+Area: 0
+
+Defence: 4
+Power: 1
+Area: 0
+
+Smithing: 995
+Power: 15
+Area: 0;
+
+/611
+Name: Holy Chainmail;
+Slot: 3
+Class: 7
+Durability: 60
+GoldCost: 500
+GemCost: 50
+ShopLevel: 5
+Rarity: 4
+Building: 246
+Pic: 614
+Resourse: (7, 9, 8)
+Effects:
+
+Defence: 4
+Power: 4
+Area: 0
+
+RangedDefence: 5
+Power: 4
+Area: 0
+
+Resist: 6
+Power: 3
+Area: 0
+
+Rest: 21
+Power: 3
+Area: 0
+
+FirstAid: 35
+Power: 3
+Area: 0;
+
+/612
+Name: Ardent Heart;
+Slot: 9
+Class: 0
+Durability: 1
+GoldCost: 800
+GemCost: 450
+ShopLevel: 6
+Rarity: 5
+Building: 244
+Pic: 615
+Resourse: (5, 8, 9)
+Effects:
+
+Life: 1
+Power: 4
+Area: 0
+
+Stamina: 11
+Power: 4
+Area: 1
+
+Morale: 12
+Power: 4
+Area: 1;
+
+/613
+Name: Warmonger;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 450
+GemCost: 5
+ShopLevel: 6
+Rarity: 8
+Building: 223
+Pic: 616
+Resourse: (1, 1, 3)
+Effects:
+
+Summon: 84
+Power: 195
+Area: 0;
+
+/614
+Name: Amulet of Bloodlust;
+Slot: 9
+Class: 0
+Durability: 1
+GoldCost: 1200
+GemCost: 90
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 617
+Resourse: (5, 8, 9)
+Effects:
+
+DrainLife: 68
+Power: 10
+Area: 0
+
+Berserk: 25
+Power: 5
+Area: 0;
+
+/615
+Name: Magister's Mantle;
+Slot: 3
+Class: 0
+Durability: 40
+GoldCost: 1000
+GemCost: 150
+ShopLevel: 6
+Rarity: 5
+Building: 248
+Pic: 618
+Resourse: (5, 8, 9)
+Effects:
+
+Life: 1
+Power: 10
+Area: 0
+
+Defence: 4
+Power: 2
+Area: 0
+
+RangedDefence: 5
+Power: 2
+Area: 0
+
+Resist: 6
+Power: 3
+Area: 0
+
+Energy_control: 95
+Power: 2
+Area: 0
+
+SpellPenetration: 908
+Power: 1
+Area: 0;
+
+/616
+Name: Magister's Necklace;
+Slot: 9
+Class: 0
+Durability: 1
+GoldCost: 1100
+GemCost: 100
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 619
+Resourse: (5, 8, 9)
+Effects:
+
+SpellPenetration: 908
+Power: 2
+Area: 0;
+
+/617
+Name: Magister's Gloves;
+Slot: 8
+Class: 0
+Durability: 20
+GoldCost: 400
+GemCost: 50
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 620
+Resourse: (5, 9)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+Energy_control: 95
+Power: 2
+Area: 0
+
+SpellDuration: 906
+Power: 1
+Area: 0;
+
+/618
+Name: Magister's Boots;
+Slot: 7
+Class: 0
+Durability: 30
+GoldCost: 500
+GemCost: 60
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 621
+Resourse: (5, 9)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+Resist: 6
+Power: 1
+Area: 0
+
+Initiative: 999
+Power: 1
+Area: 0;
+
+/619
+Name: Magister's Hood;
+Slot: 4
+Class: 0
+Durability: 30
+GoldCost: 1200
+GemCost: 90
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 622
+Resourse: (5, 8, 9)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+Resist: 6
+Power: 1
+Area: 0
+
+SpellPower: 905
+Power: 1
+Area: 0
+
+SpellPenetration: 908
+Power: 1
+Area: 0;
+
+/620
+Name: Thorny Jacket;
+Slot: 3
+Class: 6
+Durability: 50
+GoldCost: 500
+GemCost: 40
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 623
+Resourse: (4, 5, 8)
+Effects:
+
+Defence: 4
+Power: 5
+Area: 0
+
+RangedDefence: 5
+Power: 4
+Area: 0
+
+Thorns: 210
+Power: 2
+Area: 0;
+
+/621
+Name: Hard Belt;
+Slot: 5
+Class: 0
+Durability: 15
+GoldCost: 450
+GemCost: 25
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 624
+Resourse: (4, 5, 5)
+Effects:
+
+Life: 1
+Power: 5
+Area: 0
+
+Bleeding: 208
+Power: 1
+Area: 0
+
+RangeBleeding: 209
+Power: 1
+Area: 0
+
+Initiative: 999
+Power: 1
+Area: 0;
+
+/622
+Name: Cursed Helmet;
+Slot: 4
+Class: 6
+Durability: 35
+GoldCost: 300
+GemCost: 15
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 625
+Resourse: (4, 4)
+Effects:
+
+Life: 1
+Power: 3
+Area: 0
+
+Curse: 43
+Power: 4
+Area: 0;
+
+/623
+Name: Scholar;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 90
+GemCost: 18
+ShopLevel: 1
+Rarity: 2
+Building: 0
+Pic: 626
+Resourse: (4, 4)
+Effects:
+
+Summon: 84
+Power: 197
+Area: 0;
+
+/624
+Name: Adept;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 300
+GemCost: 70
+ShopLevel: 2
+Rarity: 3
+Building: 0
+Pic: 627
+Resourse: (4, 5, 5)
+Effects:
+
+Summon: 84
+Power: 198
+Area: 0;
+
+/625
+Name: Magister;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 560
+GemCost: 130
+ShopLevel: 3
+Rarity: 4
+Building: 0
+Pic: 628
+Resourse: (5, 5, 9)
+Effects:
+
+Summon: 84
+Power: 199
+Area: 0;
+
+/626
+Name: Archmagister;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 950
+GemCost: 230
+ShopLevel: 4
+Rarity: 5
+Building: 0
+Pic: 629
+Resourse: (5, 9, 9)
+Effects:
+
+Summon: 84
+Power: 200
+Area: 0;
+
+/627
+Name: Creepy Trophy;
+Slot: 9
+Class: 0
+Durability: 1
+GoldCost: 450
+GemCost: 15
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 630
+Resourse: (5)
+Effects:
+
+FearedShoot: 169
+Power: 1
+Area: 0;
+
+/628
+Name: Strongbow;
+Slot: 1
+Class: 3
+Durability: 50
+GoldCost: 300
+GemCost: 10
+ShopLevel: 3
+Rarity: 4
+Building: 0
+Pic: 631
+Resourse: (2, 2)
+Effects:
+
+RangedAttack: 8
+Power: 15
+Area: 0
+
+ShootingRange: 9
+Power: 4
+Area: 0
+
+Ammo: 10
+Power: 5
+Area: 0;
+
+/629
+Name: Marshall's Baton;
+Slot: 2
+Class: 5
+Durability: 40
+GoldCost: 25
+GemCost: 5
+ShopLevel: 1
+Rarity: 1
+Building: 2
+Pic: 632
+Resourse: (1)
+Effects:
+
+CounterAttack: 3
+Power: 1
+Area: 0
+
+Attack: 2
+Power: 1
+Area: 1;
+
+/630
+Name: Flag of Defense;
+Slot: 2
+Class: 5
+Durability: 10
+GoldCost: 200
+GemCost: 15
+ShopLevel: 4
+Rarity: 1
+Building: 185
+Pic: 633
+Resourse: (0)
+Effects:
+
+CounterAttack: 3
+Power: 3
+Area: 0
+
+Defence: 4
+Power: 1
+Area: 1
+
+RangedDefence: 5
+Power: 1
+Area: 1;
+
+/631
+Name: Gnoll;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 38
+GemCost: 0
+ShopLevel: 3
+Rarity: 8
+Building: 0
+Pic: 634
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 202
+Area: 0;
+
+/632
+Name: Gnoll-sergeant;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 120
+GemCost: 0
+ShopLevel: 4
+Rarity: 8
+Building: 265
+Pic: 635
+Resourse: (1, 1)
+Effects:
+
+Summon: 84
+Power: 203
+Area: 0;
+
+/633
+Name: Gnoll-archer;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 460
+GemCost: 35
+ShopLevel: 5
+Rarity: 8
+Building: 266
+Pic: 636
+Resourse: (1, 2, 2)
+Effects:
+
+Summon: 84
+Power: 204
+Area: 0;
+
+/634
+Name: Siege Machine;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 800
+GemCost: 0
+ShopLevel: 5
+Rarity: 4
+Building: 267
+Pic: 637
+Resourse: (1, 2, 7)
+Effects:
+
+Summon: 84
+Power: 205
+Area: 0;
+
+/635
+Name: Gnoll-chieftain;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 760
+GemCost: 35
+ShopLevel: 6
+Rarity: 8
+Building: 268
+Pic: 638
+Resourse: (1, 5, 7)
+Effects:
+
+Summon: 84
+Power: 206
+Area: 0;
+
+/636
+Name: "Soul Trap";
+Slot: 0
+Class: 10
+Durability: 1
+GoldCost: 35
+GemCost: 7
+ShopLevel: 1
+Rarity: 8
+Building: 22
+Pic: 75
+Resourse: (0)
+Effects:
+
+Spell: 83
+Power: 283
+Area: 0;
+
+/637
+Name: "Chaos Surge";
+Slot: 0
+Class: 10
+Durability: 1
+GoldCost: 45
+GemCost: 9
+ShopLevel: 2
+Rarity: 8
+Building: 24
+Pic: 75
+Resourse: (0)
+Effects:
+
+Spell: 83
+Power: 238
+Area: 0;
+
+/638
+Name: "Fearless";
+Slot: 0
+Class: 10
+Durability: 1
+GoldCost: 25
+GemCost: 5
+ShopLevel: 1
+Rarity: 8
+Building: 21
+Pic: 75
+Resourse: (0)
+Effects:
+
+Spell: 83
+Power: 244
+Area: 0;
+
+/639
+Name: "Levitation";
+Slot: 0
+Class: 10
+Durability: 1
+GoldCost: 35
+GemCost: 7
+ShopLevel: 2
+Rarity: 8
+Building: 19
+Pic: 75
+Resourse: (0)
+Effects:
+
+Spell: 83
+Power: 188
+Area: 0;
+
+/640
+Name: "Cat's Reflexes";
+Slot: 0
+Class: 10
+Durability: 1
+GoldCost: 35
+GemCost: 7
+ShopLevel: 2
+Rarity: 8
+Building: 23
+Pic: 75
+Resourse: (0)
+Effects:
+
+Spell: 83
+Power: 225
+Area: 0;
+
+/641
+Name: "Summon Mephit";
+Slot: 0
+Class: 10
+Durability: 1
+GoldCost: 35
+GemCost: 7
+ShopLevel: 1
+Rarity: 8
+Building: 20
+Pic: 75
+Resourse: (0)
+Effects:
+
+Spell: 83
+Power: 285
+Area: 0;
+
+/642
+Name: "Feebleness";
+Slot: 0
+Class: 10
+Durability: 1
+GoldCost: 65
+GemCost: 13
+ShopLevel: 1
+Rarity: 8
+Building: 82
+Pic: 76
+Resourse: (4)
+Effects:
+
+Spell: 83
+Power: 246
+Area: 0;
+
+/643
+Name: "Demon Blood";
+Slot: 0
+Class: 10
+Durability: 1
+GoldCost: 75
+GemCost: 15
+ShopLevel: 2
+Rarity: 8
+Building: 84
+Pic: 76
+Resourse: (4)
+Effects:
+
+Spell: 83
+Power: 232
+Area: 0;
+
+/644
+Name: "Battle Cry";
+Slot: 0
+Class: 10
+Durability: 1
+GoldCost: 65
+GemCost: 13
+ShopLevel: 1
+Rarity: 8
+Building: 85
+Pic: 76
+Resourse: (4)
+Effects:
+
+Spell: 83
+Power: 247
+Area: 0;
+
+/645
+Name: "Weighing";
+Slot: 0
+Class: 10
+Durability: 1
+GoldCost: 75
+GemCost: 15
+ShopLevel: 1
+Rarity: 8
+Building: 80
+Pic: 76
+Resourse: (4)
+Effects:
+
+Spell: 83
+Power: 249
+Area: 0;
+
+/646
+Name: "Heroism";
+Slot: 0
+Class: 10
+Durability: 1
+GoldCost: 85
+GemCost: 17
+ShopLevel: 2
+Rarity: 8
+Building: 81
+Pic: 76
+Resourse: (4)
+Effects:
+
+Spell: 83
+Power: 220
+Area: 0;
+
+/647
+Name: "Stone Crust";
+Slot: 0
+Class: 10
+Durability: 1
+GoldCost: 75
+GemCost: 15
+ShopLevel: 2
+Rarity: 8
+Building: 83
+Pic: 76
+Resourse: (4)
+Effects:
+
+Spell: 83
+Power: 263
+Area: 0;
+
+/648
+Name: "Unrest";
+Slot: 0
+Class: 10
+Durability: 1
+GoldCost: 175
+GemCost: 35
+ShopLevel: 3
+Rarity: 8
+Building: 137
+Pic: 74
+Resourse: (5)
+Effects:
+
+Spell: 83
+Power: 213
+Area: 0;
+
+/649
+Name: "Suicide";
+Slot: 0
+Class: 10
+Durability: 1
+GoldCost: 175
+GemCost: 35
+ShopLevel: 3
+Rarity: 8
+Building: 133
+Pic: 74
+Resourse: (5)
+Effects:
+
+Spell: 83
+Power: 88
+Area: 0;
+
+/650
+Name: "Heaven's Rage";
+Slot: 0
+Class: 10
+Durability: 1
+GoldCost: 165
+GemCost: 33
+ShopLevel: 3
+Rarity: 8
+Building: 135
+Pic: 74
+Resourse: (5)
+Effects:
+
+Spell: 83
+Power: 316
+Area: 0;
+
+/651
+Name: "Enchanted Weapon";
+Slot: 0
+Class: 10
+Durability: 1
+GoldCost: 175
+GemCost: 35
+ShopLevel: 3
+Rarity: 8
+Building: 134
+Pic: 74
+Resourse: (5)
+Effects:
+
+Spell: 83
+Power: 202
+Area: 0;
+
+/652
+Name: "Insanity";
+Slot: 0
+Class: 10
+Durability: 1
+GoldCost: 175
+GemCost: 35
+ShopLevel: 3
+Rarity: 8
+Building: 136
+Pic: 74
+Resourse: (5)
+Effects:
+
+Spell: 83
+Power: 108
+Area: 0;
+
+/653
+Name: "Geyser";
+Slot: 0
+Class: 10
+Durability: 1
+GoldCost: 175
+GemCost: 35
+ShopLevel: 3
+Rarity: 8
+Building: 132
+Pic: 74
+Resourse: (5)
+Effects:
+
+Spell: 83
+Power: 116
+Area: 0;
+
+/654
+Name: "Mass Life Drain";
+Slot: 0
+Class: 10
+Durability: 1
+GoldCost: 455
+GemCost: 91
+ShopLevel: 4
+Rarity: 8
+Building: 174
+Pic: 77
+Resourse: (8)
+Effects:
+
+Spell: 83
+Power: 231
+Area: 0;
+
+/655
+Name: "Higher Power";
+Slot: 0
+Class: 10
+Durability: 1
+GoldCost: 445
+GemCost: 89
+ShopLevel: 3
+Rarity: 8
+Building: 173
+Pic: 77
+Resourse: (8)
+Effects:
+
+Spell: 83
+Power: 219
+Area: 0;
+
+/656
+Name: "Summon Lord of Abyss";
+Slot: 0
+Class: 10
+Durability: 1
+GoldCost: 445
+GemCost: 89
+ShopLevel: 3
+Rarity: 8
+Building: 176
+Pic: 77
+Resourse: (8)
+Effects:
+
+Spell: 83
+Power: 172
+Area: 0;
+
+/657
+Name: "Elemental Immunity";
+Slot: 0
+Class: 10
+Durability: 1
+GoldCost: 445
+GemCost: 89
+ShopLevel: 3
+Rarity: 8
+Building: 175
+Pic: 77
+Resourse: (8)
+Effects:
+
+Spell: 83
+Power: 266
+Area: 0;
+
+/658
+Name: "Titan's Strength";
+Slot: 0
+Class: 10
+Durability: 1
+GoldCost: 445
+GemCost: 89
+ShopLevel: 3
+Rarity: 8
+Building: 177
+Pic: 77
+Resourse: (8)
+Effects:
+
+Spell: 83
+Power: 209
+Area: 0;
+
+/659
+Name: "Confusion";
+Slot: 0
+Class: 10
+Durability: 1
+GoldCost: 455
+GemCost: 91
+ShopLevel: 4
+Rarity: 8
+Building: 178
+Pic: 77
+Resourse: (8)
+Effects:
+
+Spell: 83
+Power: 267
+Area: 0;
+
+/660
+Name: Workman;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 40
+GemCost: 0
+ShopLevel: 3
+Rarity: 3
+Building: 165
+Pic: 639
+Resourse: (2)
+Effects:
+
+Summon: 84
+Power: 209
+Area: 0;
+
+/661
+Name: Duelist;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 105
+GemCost: 0
+ShopLevel: 4
+Rarity: 8
+Building: 271
+Pic: 640
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 158
+Area: 0;
+
+/662
+Name: Icarus;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 20
+GemCost: 5
+ShopLevel: 3
+Rarity: 8
+Building: 0
+Pic: 641
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 212
+Area: 0;
+
+/663
+Name: Luminary;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 90
+GemCost: 18
+ShopLevel: 4
+Rarity: 8
+Building: 273
+Pic: 642
+Resourse: (1)
+Effects:
+
+Summon: 84
+Power: 213
+Area: 0;
+
+/664
+Name: Stalker;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 115
+GemCost: 15
+ShopLevel: 4
+Rarity: 8
+Building: 273
+Pic: 643
+Resourse: (2)
+Effects:
+
+Summon: 84
+Power: 214
+Area: 0;
+
+/665
+Name: Witness;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 65
+GemCost: 19
+ShopLevel: 4
+Rarity: 8
+Building: 274
+Pic: 644
+Resourse: (5)
+Effects:
+
+Summon: 84
+Power: 215
+Area: 0;
+
+/666
+Name: Old Staff;
+Slot: 100
+Class: 4
+Durability: 70
+GoldCost: 750
+GemCost: 100
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 645
+Resourse: (5, 5, 9)
+Effects:
+
+RangeAttack: 8
+Power: 12
+Area: 0
+
+Range: 9
+Power: 6
+Area: 0
+
+Ammo: 10
+Power: 8
+Area: 0
+
+Magic_shot: 28
+Power: 1
+Area: 0
+
+Undertaker: 64
+Power: 20
+Area: 0
+
+SpellCost: 983
+Power: 15
+Area: 0;
+
+/667
+Name: Black Unicorn;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 600
+GemCost: 80
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 646
+Resourse: (9)
+Effects:
+
+Summon: 84
+Power: 220
+Area: 0;
+
+/668
+Name: Ratman;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 15
+GemCost: 0
+ShopLevel: 3
+Rarity: 8
+Building: 0
+Pic: 647
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 221
+Area: 0;
+
+/669
+Name: Giant Rat;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 7
+GemCost: 0
+ShopLevel: 3
+Rarity: 8
+Building: 0
+Pic: 648
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 222
+Area: 0;
+
+/670
+Name: Warrior of Decay;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 30
+GemCost: 10
+ShopLevel: 3
+Rarity: 8
+Building: 279
+Pic: 649
+Resourse: (1, 4)
+Effects:
+
+Summon: 84
+Power: 223
+Area: 0;
+
+/671
+Name: Driller;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 40
+GemCost: 5
+ShopLevel: 3
+Rarity: 8
+Building: 278
+Pic: 650
+Resourse: (1, 2)
+Effects:
+
+Summon: 84
+Power: 224
+Area: 0;
+
+/672
+Name: Shadow Claw;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 120
+GemCost: 23
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 651
+Resourse: (1, 5)
+Effects:
+
+Summon: 84
+Power: 225
+Area: 0;
+
+/673
+Name: Plague Shooter;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 75
+GemCost: 30
+ShopLevel: 4
+Rarity: 8
+Building: 281
+Pic: 652
+Resourse: (1, 4, 5)
+Effects:
+
+Summon: 84
+Power: 226
+Area: 0;
+
+/674
+Name: Lightning Cannon;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 125
+GemCost: 15
+ShopLevel: 4
+Rarity: 8
+Building: 280
+Pic: 653
+Resourse: (1, 5, 7)
+Effects:
+
+Summon: 84
+Power: 227
+Area: 0;
+
+/675
+Name: Assault Rat;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 225
+GemCost: 30
+ShopLevel: 4
+Rarity: 4
+Building: 0
+Pic: 654
+Resourse: (1, 7, 7)
+Effects:
+
+Summon: 84
+Power: 228
+Area: 0;
+
+/676
+Name: Rat Reaper;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 600
+GemCost: 35
+ShopLevel: 5
+Rarity: 5
+Building: 0
+Pic: 655
+Resourse: (3, 9)
+Effects:
+
+Summon: 84
+Power: 229
+Area: 0;
+
+/677
+Name: Ratclaw;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 350
+GemCost: 25
+ShopLevel: 5
+Rarity: 8
+Building: 282
+Pic: 656
+Resourse: (3, 9)
+Effects:
+
+Summon: 84
+Power: 230
+Area: 0;
+
+/678
+Name: Ripper;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 375
+GemCost: 45
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 657
+Resourse: (2, 7, 9)
+Effects:
+
+Summon: 84
+Power: 231
+Area: 0;
+
+/679
+Name: Master of Decay;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 475
+GemCost: 120
+ShopLevel: 5
+Rarity: 4
+Building: 0
+Pic: 658
+Resourse: (5, 9, 9)
+Effects:
+
+Summon: 84
+Power: 232
+Area: 0;
+
+/680
+Name: Rat King;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 500
+GemCost: 50
+ShopLevel: 6
+Rarity: 8
+Building: 283
+Pic: 659
+Resourse: (5, 9, 9)
+Effects:
+
+Summon: 84
+Power: 233
+Area: 0;
+
+/681
+Name: Grand Ratt;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 1075
+GemCost: 150
+ShopLevel: 6
+Rarity: 8
+Building: 0
+Pic: 660
+Resourse: (9, 9, 9)
+Effects:
+
+Summon: 84
+Power: 234
+Area: 0;
+
+/682
+Name: Lycan;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 225
+GemCost: 110
+ShopLevel: 3
+Rarity: 8
+Building: 0
+Pic: 661
+Resourse: (5, 5, 9)
+Effects:
+
+Summon: 84
+Power: 217
+Area: 0;
+
+/683
+Name: Silver Dagger;
+Slot: 2
+Class: 0
+Durability: 25
+GoldCost: 25
+GemCost: 5
+ShopLevel: 2
+Rarity: 1
+Building: 33
+Pic: 662
+Resourse: (1)
+Effects:
+
+Parry: 53
+Power: 1
+Area: 0
+
+CounterAttack: 3
+Power: 1
+Area: 0
+
+Smite_Evil: 61
+Power: 1
+Area: 0
+
+AimedStrike: 76
+Power: 1
+Area: 0;
+
+/684
+Name: Magic Arrows;
+Slot: 2
+Class: 3
+Durability: 20
+GoldCost: 50
+GemCost: 40
+ShopLevel: 4
+Rarity: 3
+Building: 103
+Pic: 663
+Resourse: (5)
+Effects:
+
+RangedAttack: 993
+Power: 2
+Area: 0
+
+Ammo: 10
+Power: 2
+Area: 0
+
+Magic_shot: 28
+Power: 1
+Area: 0;
+
+/685
+Name: Silver Axe;
+Slot: 1
+Class: 2
+Durability: 50
+GoldCost: 110
+GemCost: 10
+ShopLevel: 3
+Rarity: 1
+Building: 33
+Pic: 664
+Resourse: (1)
+Effects:
+
+Attack: 2
+Power: 2
+Area: 0
+
+CounterAttack: 3
+Power: 1
+Area: 0
+
+Smite Evil: 61
+Power: 3
+Area: 0;
+
+/686
+Name: Alchemist;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 150
+GemCost: 45
+ShopLevel: 4
+Rarity: 8
+Building: 216
+Pic: 665
+Resourse: (1, 4)
+Effects:
+
+Summon: 84
+Power: 255
+Area: 0;
+
+/687
+Name: Dwarven Pavisier;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 190
+GemCost: 0
+ShopLevel: 4
+Rarity: 8
+Building: 216
+Pic: 666
+Resourse: (1, 2)
+Effects:
+
+Summon: 84
+Power: 256
+Area: 0;
+
+/688
+Name: Colossus;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 375
+GemCost: 150
+ShopLevel: 6
+Rarity: 8
+Building: 218
+Pic: 667
+Resourse: (7, 7, 6)
+Effects:
+
+Summon: 84
+Power: 258
+Area: 0;
+
+/689
+Name: Herbalist;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 40
+GemCost: 7
+ShopLevel: 3
+Rarity: 8
+Building: 203
+Pic: 668
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 259
+Area: 0;
+
+/690
+Name: "Shock";
+Slot: 0
+Class: 10
+Durability: 1
+GoldCost: 25
+GemCost: 5
+ShopLevel: 1
+Rarity: 8
+Building: 33
+Pic: 75
+Resourse: (0)
+Effects:
+
+Spell: 83
+Power: 300
+Area: 0;
+
+/691
+Name: "Eternal Light";
+Slot: 0
+Class: 10
+Durability: 1
+GoldCost: 65
+GemCost: 13
+ShopLevel: 1
+Rarity: 8
+Building: 60
+Pic: 76
+Resourse: (4)
+Effects:
+
+Spell: 83
+Power: 315
+Area: 0;
+
+/692
+Name: Blazing Fire;
+Slot: 1
+Class: 4
+Durability: 70
+GoldCost: 2100
+GemCost: 140
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 669
+Resourse: (5, 8, 9)
+Effects:
+
+RangeAttack: 8
+Power: 15
+Area: 0
+
+Range: 9
+Power: 6
+Area: 0
+
+Ammo: 10
+Power: 7
+Area: 0
+
+Energy_control: 95
+Power: 3
+Area: 1
+
+FireArrows: 144
+Power: 3
+Area: 0
+
+Magic_shot: 28
+Power: 1
+Area: 0;
+
+/693
+Name: Mule;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 55
+GemCost: 0
+ShopLevel: 3
+Rarity: 8
+Building: 204
+Pic: 670
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 260
+Area: 0;
+
+/694
+Name: Witch's Mirror;
+Slot: 2
+Class: 4
+Durability: 30
+GoldCost: 100
+GemCost: 30
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 671
+Resourse: (5, 5)
+Effects:
+
+Resist: 6
+Power: 3
+Area: 0
+
+Curse: 43
+Power: 5
+Area: 0
+
+LayVulnerability: 79
+Power: 4
+Area: 0;
+
+/695
+Name: Arisen Luminary;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 360
+GemCost: 37
+ShopLevel: 5
+Rarity: 8
+Building: 277
+Pic: 672
+Resourse: (1, 5)
+Effects:
+
+Summon: 84
+Power: 279
+Area: 0;
+
+/696
+Name: Memory Keeper;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 270
+GemCost: 70
+ShopLevel: 5
+Rarity: 8
+Building: 276
+Pic: 673
+Resourse: (5, 5)
+Effects:
+
+Summon: 84
+Power: 280
+Area: 0;
+
+/697
+Name: Eternal Mentor;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 450
+GemCost: 115
+ShopLevel: 6
+Rarity: 8
+Building: 275
+Pic: 674
+Resourse: (5, 8)
+Effects:
+
+Summon: 84
+Power: 281
+Area: 0;
+
+/698
+Name: Ambassador's Ribbon;
+Slot: 6
+Class: 0
+Durability: 10
+GoldCost: 150
+GemCost: 0
+ShopLevel: 3
+Rarity: 3
+Building: 0
+Pic: 675
+Resourse: (4)
+Effects:
+
+Ambassador: 979
+Power: 1
+Area: 0;
+
+/699
+Name: Border Guard;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 90
+GemCost: 0
+ShopLevel: 4
+Rarity: 8
+Building: 225
+Pic: 676
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 261
+Area: 0;
+
+/700
+Name: Bard;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 55
+GemCost: 0
+ShopLevel: 3
+Rarity: 8
+Building: 204
+Pic: 677
+Resourse: (0)
+Effects:
+
+Summon: 84
+Power: 262
+Area: 0;
+
+/701
+Name: Dwarven Cannon;
+Slot: 0
+Class: 0
+Durability: 1
+GoldCost: 2775
+GemCost: 0
+ShopLevel: 6
+Rarity: 5
+Building: 0
+Pic: 678
+Resourse: (2, 7, 7)
+Effects:
+
+Summon: 84
+Power: 79
+Area: 0;
+
+/702
+Name: Rope Sling;
+Slot: 100
+Class: 3
+Durability: 40
+GoldCost: 40
+GemCost: 0
+ShopLevel: 1
+Rarity: 1
+Building: 1
+Pic: 679
+Resourse: (0)
+Effects:
+
+RangedAttack: 8
+Power: 5
+Area: 0
+
+ShootingRange: 9
+Power: 4
+Area: 0
+
+Ammo: 10
+Power: 6
+Area: 0
+
+Gather_ammo: 23
+Power: 4
+Area: 0
+
+Stunning_shot: 156
+Power: 2
+Area: 0;
+
+/703
+Name: Leather Sling;
+Slot: 100
+Class: 3
+Durability: 40
+GoldCost: 130
+GemCost: 0
+ShopLevel: 3
+Rarity: 1
+Building: 142
+Pic: 680
+Resourse: (0)
+Effects:
+
+RangedAttack: 8
+Power: 7
+Area: 0
+
+ShootingRange: 9
+Power: 4
+Area: 0
+
+Ammo: 10
+Power: 7
+Area: 0
+
+Gather_ammo: 23
+Power: 4
+Area: 0
+
+Stunning_shot: 156
+Power: 3
+Area: 0;
+
+/704
+Name: Chain Sling;
+Slot: 100
+Class: 3
+Durability: 40
+GoldCost: 300
+GemCost: 0
+ShopLevel: 4
+Rarity: 2
+Building: 0
+Pic: 681
+Resourse: (1)
+Effects:
+
+RangedAttack: 8
+Power: 9
+Area: 0
+
+ShootingRange: 9
+Power: 4
+Area: 0
+
+Ammo: 10
+Power: 10
+Area: 0
+
+Armor_pierce: 17
+Power: 4
+Area: 0
+
+Stunning_shot: 156
+Power: 4
+Area: 0;

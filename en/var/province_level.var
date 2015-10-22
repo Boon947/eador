@@ -1,0 +1,72 @@
+/0
+Name: Empty;
+Max_pop: 0
+Income: 0
+Explored: 0
+
+/1
+Name: Cursed Land;
+Max_pop: -10
+Income: -100
+Explored: 0
+
+/2
+Name: Dead Land;
+Max_pop: 0
+Income: -100
+Explored: 0
+
+
+/3
+Name: New Land;
+Max_pop: 100
+Income: 0
+Explored: 0
+
+/4
+Name: Dwelling;
+Max_pop: 250
+Income: 10
+Explored: 20
+
+/5
+Name: Hamlet;
+Max_pop: 500
+Income: 20
+Explored: 25
+
+/6
+Name: Village;
+Max_pop: 1000
+Income: 30
+Explored: 30
+
+/7
+Name: Large Village;
+Max_pop: 2000
+Income: 50
+Explored: 40
+
+/8
+Name: Town;
+Max_pop: 4000
+Income: 70
+Explored: 50
+
+/9
+Name: Large Town;
+Max_pop: 8000
+Income: 90
+Explored: 60
+
+/10
+Name: City;
+Max_pop: 15000
+Income: 120
+Explored: 70
+
+/11
+Name: Large City;
+Max_pop: 30000
+Income: 150
+Explored: 70

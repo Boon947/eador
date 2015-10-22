@@ -1,0 +1,281 @@
+/Дариол
+/0 Первая встреча
+Index: 1;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I welcome you to these blessed lands, %s. I am Dariol, King of Druids and protector of elves. I sincerely hope you're smart enough not to enter a conflict with my race.#
+
+/1 Не первая встреча (Плохие отношения)
+Index: 2;
+Min: -5000;
+Max: -100;
+Name: 1;
+Param: 0;
+Text: #%s, once again you're trying to get your hands on my new Shard. Remember that the Forest Folk won't give up these lands without a fight.#
+
+/2 Не первая встреча (Нейтрален)
+Index: 2;
+Min: -99;
+Max: 99;
+Name: 1;
+Param: 0;
+Text: #Greetings, %s! Soon this Shard will become part of the green world of the elves. I hope you're wise enough not to try to interfere.#
+
+/3 Не первая встреча (Хорошие отношения)
+Index: 2;
+Min: 100;
+Max: 5000;
+Name: 1;
+Param: 0;
+Text: #Greetings, %s! Glad to meet you. I wish you luck fighting for this Shard.#
+
+/4 Сразу война
+Index: 3;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Greetings, %s! This Shard belongs to the Forest Folk by right, so you're out of place here. I have no alternative but to declare war on you.#
+
+/5 Объявление войны
+Index: 4;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #You were mistaken when you thought that your dark deeds would go unpunished, %s. I declare war on you, on behalf of the Forest Folk!#
+
+/6 Предложение мира
+Index: 5;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #The war has exhausted this land and taken the gift of Life away from many warriors. I offer to stop the bloodshed and sign a peace treaty with you. Do you agree, %s?#
+
+/7 Предложение союза
+Index: 6;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #The world is full of evil and dangers, %s. The time has come for us to unite and fight the common enemy together. I offer you an alliance, on behalf of the Forest Folk. Do you agree?#
+
+/8 Предложение торговли 
+Index: 7;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Peace to you, %s. I propose we strengthen our friendship with a little trade agreement. Do you agree?#
+
+/9 Предложение обмена
+Index: 8;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Peace to you, %s. I propose we strengthen our friendship with a little trade agreement. Do you agree?#
+
+/10 Пересмотр торговли
+Index: 9;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #The world is ever changing, like the flow of an impetuous river. We, too, have to adapt to remain in harmony with the world. It's time we changed our Trade Agreement, %s.#
+
+/11 Отмена торговли
+Index: 10;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I regret that I can't go on trading with you any longer, %s. I'm terminating our Trade Agreement.#
+
+/12 Отмена союза
+Index: 11;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #You and the Forest Folk are going separate ways, %s. I'm dissolving our alliance.#
+
+/13 Требование выкупа
+Index: 12;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Long have you tortured the lands of this world. It will take years to heal the wounds that you have inflicted on Nature. It seems I must rid this land of your presence, %s. Although, if you are remorseful, I am ready to have mercy on you. I need resources to restore the Nature you have defiled by your deeds. As a token of remorse, you must cover some of my expenses.#
+
+/14 Дар
+Index: 13;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I'm giving you this gift on behalf of the Forest Folk, %s. Accept it as a token of friendship and a symbol of peace between our races.#
+
+/15 Отказ (Грубый)
+Index: 14;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: -1;
+Text: #Your offer is an insult, %s. I refuse!#
+
+/16 Отказ (Обычный)
+Index: 14;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Unfortunately, I must refuse.#
+
+/17 Отказ (Вежливый)
+Index: 14;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 1;
+Text: #I'm very sorry, but I can't accept your offer, %s.#
+
+/18 Соглашение (Недовольное)
+Index: 15;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: -1;
+Text: #It seems I have no other choice. I agree.#
+
+/19 Соглашение (Нейтральное)
+Index: 15;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Yes, I agree.#
+
+/20 Соглашение (Довольное)
+Index: 15;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 1;
+Text: #Thank you, %s, for this excellent offer. I agree.#
+
+/21 Отказ от общения (1х1)
+Index: 19;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #There's no point in negotiations, %s. Only one of us can possess this Shard, and I'm not going to give up my right. So, war is the only way out, however sorrowful that may be.#
+
+/22 Отказ от переговоров
+Index: 23;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I don't intend to listen to your lies, %s.#
+
+/23 Союзник, жребий или война
+Index: 20;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #We have fought gloriously and won a great victory! Now the time has come to decide to whom this Shard will belong. I propose we cast lots, but you may wish to resolve this dispute on the battlefield.#
+
+/24 Союзник, сдаться или война
+Index: 21;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #We have fought gloriously and won a great victory! I think you'll agree that this Shard belongs to the Forest Folk by right. If you don't agree, we'll have to resolve this dispute with war.#
+
+/25 Союзник, сдача
+Index: 22;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #We have fought gloriously and won a great victory! As a token of friendship and respect, I'm giving this Shard to you. Let it be combined in harmony with your world, %s.#
+
+/26 Отказ от подарка
+Index: 24;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Did you intend to insult me with such a wretched gift, %s? Well then, you've succeeded. You may keep this pathetic handout.#
+
+/27 Принимаем дары
+Index: 25;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I thank you for your generous gift, %s. I accept it as a token of peace and friendship.#
+
+/28 Отказ от союза с предателем
+Index: 16;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #How dare you offer me an alliance after you stabbed me in the back so treacherously? I don't want to talk to you anymore, you vile traitor!#
+
+/29 Отказ от мира с предателем
+Index: 17;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I don't intend to conclude a treaty of peace with you, %s. You have betrayed me, and you will do it again as soon as you think it will benefit you. I won't fall for your lies a second time.#
+
+/30 Первая встреча, кампания
+Index: 26;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I welcome you to these blessed lands, %s. I wish you luck in the battles to come. May Fate be a fair judge to decide who will possess this Shard.#
+
+/31 Ответ на объявление войны
+Index: 27;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #You're going to pay for this, %s! You can be sure that the Forest Folk can stand up for themselves!#
+
+/32 Отказ в мире союзнику
+Index: 28;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #I respect your opinion and your desire for peace, %s, but I don't think that %s is worthy of your compassion. It's possible that we'll be able to make peace in the future, but for now I don't see any reason to do so!#
+
+/33 Ответ на предательство
+Index: 29;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #You're a vile traitor, %s! I'm never going to forget how mean and treacherous you have been! And I doubt I will ever forgive you.#
+
+/34 Война, остались 1х1
+Index: 30;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #There are only two of us left on this Shard, %s. And it seems we have no other choice but to start a war. May Fate be fair and give victory to the one who is worthy of it.#
+&&&&&&

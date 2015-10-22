@@ -1,0 +1,69 @@
+Quantity: 16
+
+/0
+Max: 0
+Name: Empty;
+
+/1 Units1
+Max: 4
+Name: Produces first rank units;
+
+/2 Spells1
+Max: 4
+Name: Teaches circle I spells;
+
+/3 Units2
+Max: 3
+Name: Produces second rank units;
+
+/4 Spells2
+Max: 3
+Name: Teaches circle II spells;
+
+/5 Items1
+Max: 4
+Name: Sells common items;
+
+/6 Generators
+Max: 1
+Name: Transmutation;
+
+/7 Units3
+Max: 2
+Name: Produces third rank units;
+
+/8 Spells3
+Max: 2
+Name: Teaches circle III spells;
+
+/9 Items2
+Max: 3
+Name: Sells quality items;
+
+/10 Temples
+Max: 1
+Name: Great Temples;
+
+/11 Units4
+Max: 1
+Name: Produces fourth rank units;
+
+/12 Spells4
+Max: 1
+Name: Teaches circle IV spells;
+
+/13 Items3
+Max: 2
+Name: Sells exceptional items;
+
+/14 Items4
+Max: 1
+Name: Sells enchanted items;
+
+/15 ScavensT1
+Max: 1
+Name: Basic Ratman buildings;
+
+/16 ScavensT2
+Max: 1
+Name: Advanced Ratman buildings;

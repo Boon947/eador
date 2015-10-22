@@ -1,0 +1,281 @@
+/Ранадил
+/0 Первая встреча
+Index: 1;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Thunderation! Another immortal in these lands! Well, %s, you may exist if you don't get in my way.#
+
+/1 Не первая встреча (Плохие отношения)
+Index: 2;
+Min: -5000;
+Max: -100;
+Name: 1;
+Param: 0;
+Text: #What did you forget in these lands, %s? Stay away from my possessions!#
+
+/2 Не первая встреча (Нейтрален)
+Index: 2;
+Min: -99;
+Max: 99;
+Name: 1;
+Param: 0;
+Text: #What wind blows you here, %s?#
+
+/3 Не первая встреча (Хорошие отношения)
+Index: 2;
+Min: 100;
+Max: 5000;
+Name: 1;
+Param: 0;
+Text: #Thunderation, it's %s! I'm glad that you're here, for we have a nice storm before us!#
+
+/4 Сразу война
+Index: 3;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #It's the time of the storm! The mud and the filth of this Shard will be washed away by streams of cleansing waters. And so will you, %s. Prepare for war!#
+
+/5 Объявление войны
+Index: 4;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #It's the time of the storm! The mud and the filth of this Shard will be washed away by streams of cleansing waters. And so will you, %s. Prepare for war!#
+
+/6 Предложение мира
+Index: 5;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #No storm can last forever, sooner or later the clouds give way to the sun. I suggest we end the war and think of making peace.#
+
+/7 Предложение союза
+Index: 6;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I'm going to need a reliable friend and assistant in the storms to come, and it's you that I see in this role, %s. Do you agree to form an alliance?#
+
+/8 Предложение торговли 
+Index: 7;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #The rain gives the river water to drink, the river brings the water to the sea, out of the sea the water rises to the sky, and then again it falls as the rain. This water circulation represents life. And the circulation of goods is like... Um... Damn, I was never good at phrase-mongering. Long story short, let's trade, %s!#
+
+/9 Предложение обмена
+Index: 8;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Maybe you'll be interested in a little exchange...#
+
+/10 Пересмотр торговли
+Index: 9;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #I've decided to change our Trade Agreement.#
+
+/11 Отмена торговли
+Index: 10;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #I'm tired of trading with you. I cancel the agreement.#
+
+/12 Отмена союза
+Index: 11;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #The alliance with you no longer suits me. I cancel it.#
+
+/13 Требование выкупа
+Index: 12;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #I'm going to bring down the whole power of the storm upon you! It's not too late to stop me. You just need to pay me some resources.#
+
+/14 Дар
+Index: 13;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I have a gift for you, %s. Do you like it?#
+
+/15 Отказ (Грубый)
+Index: 14;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: -1;
+Text: #Thunderation! What kind of nonsense is this!? Of course I'm against it!#
+
+/16 Отказ (Обычный)
+Index: 14;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #I don't agree.#
+
+/17 Отказ (Вежливый)
+Index: 14;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 1;
+Text: #That's an interesting offer. But I don't agree.#
+
+/18 Соглашение (Недовольное)
+Index: 15;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: -1;
+Text: #All right. I agree this time.#
+
+/19 Соглашение (Недовольное)
+Index: 15;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #I agree.#
+
+/20 Соглашение (Довольное)
+Index: 15;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 1;
+Text: #Thunderation! What an excellent offer! I agree!#
+
+/21 Отказ от общения (1х1)
+Index: 19;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Don't waste your words, %s. This storm will only end when the last slave of yours is washed off the Shard.#
+
+/22 Отказ от переговоров
+Index: 23;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Stop with your empty words! The storm has just begun!#
+
+/23 Союзник, жребий или война
+Index: 20;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Excellent, %s, the Shard is cleared of enemies. Let's decide who it will go to. Do we wage war or draw lots?#
+
+/24 Союзник, сдаться или война
+Index: 21;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Excellent, %s, the Shard is cleared of enemies. Now I'm going to take it. Of course, if you don't agree, we can fight first.#
+
+/25 Союзник, сдача
+Index: 22;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Excellent, %s, the Shard is cleared of enemies. I'm giving it to you.#
+
+/26 Отказ от подарка
+Index: 24;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #This is a pile of mud, not a gift! You may keep it!#
+
+/27 Принимаем дары
+Index: 25;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #This is a good gift, it will be useful to me.#
+
+/28 Отказ от союза с предателем
+Index: 16;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I don't believe you, %s. All your words are lies.#
+
+/29 Отказ от мира с предателем
+Index: 17;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Oh no, such mud as you should be washed off this Shard, and I'll do it, I swear by Thunder!#
+
+/30 Первая встреча, кампания
+Index: 26;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Thunderation! Another immortal in these lands! Well, %s, you may exist if you don't get in my way.#
+
+/31 Ответ на объявление войны
+Index: 27;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Are you searching for a storm, %s? Well, you have found it! Now expect no mercy!#
+
+/32 Отказ в мире союзнику
+Index: 28;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #I don't agree, %s. I need to clear this Shard of filth like %s.#
+
+/33 Ответ на предательство
+Index: 29;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Betrayal! Your death is near, you vile traitor!#
+
+/34 Война, остались 1х1
+Index: 30;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #It's the time of the storm! The mud and the filth of this Shard will be washed away by streams of cleansing waters. And so will you, %s. Prepare for war!#
+&&&&&&

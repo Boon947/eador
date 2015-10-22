@@ -1,0 +1,109 @@
+Quantity: 11
+
+/0
+Name: Empty;
+MoveCost: 0
+StamCost: 0
+CounterAttack: 0
+Defence: 0
+RangedDefence: 0
+ShootingRange: 0
+
+/1
+Name: Plains;
+MoveCost: 1
+StamCost: 0
+CounterAttack: 0
+Defence: 0
+RangedDefence: 0
+ShootingRange: 0
+
+/2
+Name: Forest;
+MoveCost: 2
+StamCost: 0
+CounterAttack: 0
+Defence: 0
+RangedDefence: 2
+ShootingRange: 0
+
+/3
+Name: Hill;
+MoveCost: 3
+StamCost: 1
+CounterAttack: 1
+Defence: 1
+RangedDefence: 0
+ShootingRange: 1
+
+/4
+Name: Swamp;
+MoveCost: 4
+StamCost: 1
+CounterAttack: -1
+Defence: -1
+RangedDefence: 0
+ShootingRange: 0
+
+/5
+Name: Ravine;
+MoveCost: 0
+StamCost: 0
+CounterAttack: 0
+Defence: 0
+RangedDefence: 0
+ShootingRange: 0
+
+/6
+Name: Thicket;
+MoveCost: 0
+StamCost: 0
+CounterAttack: 0
+Defence: 0
+RangedDefence: 0
+ShootingRange: 0
+
+/7
+Name: Mountain;
+MoveCost: 0
+StamCost: 0
+CounterAttack: 0
+Defence: 0
+RangedDefence: 0
+ShootingRange: 0
+
+/8
+Name: Swampland;
+MoveCost: 0
+StamCost: 0
+CounterAttack: 0
+Defence: 0
+RangedDefence: 0
+ShootingRange: 0
+
+/9
+Name: Wall;
+MoveCost: 0
+StamCost: 0
+CounterAttack: 0
+Defence: 0
+RangedDefence: 0
+ShootingRange: 0
+
+/10
+Name: Tower;
+MoveCost: 0
+StamCost: 0
+CounterAttack: 0
+Defence: 0
+RangedDefence: 0
+ShootingRange: 0
+
+/11
+Name: Debris;
+MoveCost: 1
+StamCost: 0
+CounterAttack: 0
+Defence: 0
+RangedDefence: 0
+ShootingRange: 0

@@ -1,0 +1,38 @@
+0. Empty
+#No description#
+
+1. Iron
+#Iron is used to make weapons and various tools. It is often employed in construction to make grates and reinforced doors.
+  Iron deposits can be found in the hills. This is a fairly common resource.#
+
+2. Redwood
+#A special sort of timber called «redwood» is used to make the strongest bows and spears. Redwood doesn't grow in every forest, so this resource is quite valuable. Often redwood is used in construction to make solid walls that aren't damaged by dampness or wood borers.
+  Redwood can be found in the forest provinces. This is a fairly common resource.#
+
+3. Horses
+#Horses are an essential resource when you need to create mounted troops. Besides, horses are very important in everyday life. They are used for carrying cargo, delivering messages, and plowing fields. Horse hides are often used to make leather armor.
+  Horses can be found in the plains. This is a fairly common resource.#
+
+4. Mandrake
+#The root of this plant contains powerful magical energy. Mandrake is often called «a mother of alchemy» - very few magical potions don't include this root among their ingredients. In addition, mandrake is used to make magical objects. Many conjurers add specially processed mandrake root to their food, which enables them to restore their powers faster and increases the effect of their spells.
+  Mandrake can be found in the swamps. This is a fairly common resource.#
+
+5. Arcanite
+#Arcanite crystals possess rare magical properties, so they are often used to create various artifacts and magical devices. It is believed that arcanite transforms the light passing through it into pure magical energy. Unfortunately, arcanite deposits are quite rare. They can only be found on the bottom of the deep pools of black water, where no light of the sun can reach them. 
+  Arcanite can be found in the swamps. This is a relatively rare resource.#
+
+6. Marble
+#Marble is used in the construction of the most important and splendid buildings. This mineral isn't just beautiful and strong - it possesses a magical ability to reflect any sorcery. Thus, only marble walls can keep one safe from scrying spells and magical spies.
+  Marble deposits can be found in the hills. This is a relatively rare resource.#
+
+7. Mithril
+#Mithril, or truesilver, is a metal valued above gold. Mithril weapons and armor know no equals. Mithril weapons, apart from being unbelievably strong, are known for their ability to destroy magical barriers and damage creatures that no ordinary weapon can harm. Many great artifacts are made of this magical metal. 
+  Mithril deposits can be found in the hills. This is a relatively rare resource.#
+
+8. Dionium
+#Dionium is a special substance extracted from the fruit of dionite trees. These trees are extremely rare, elves consider them sacred. Dionium possesses varied and obscure properties. It is burned as incense during the most complicated magical and sacred rituals. Dionium is an ingredient of many potent magical concoctions. Often, dionium is added to metal alloys to imbue the weapon or armor with special magical properties. The substance is valued by mages and priests alike. Many cults know dionium as «the flesh of Gods.»
+  Dionium can be found in the forests. It is a very rare resource.#
+
+9. Black Lotus
+#Black Lotus is highly valued by all sorts of magicians and enchanters. There is no other magical substance in Eador as potent as Black Lotus flowers. The legends and myths enshrouding this rare flower hold true to an extent. For instance, it has been proven that a mortal can be transported to the Astral plane by inhaling the Black Lotus pollen. However, very few can return and retain their sanity after such an experience. 
+  Black Lotus can be found in the swamps. It is a very rare resource.#

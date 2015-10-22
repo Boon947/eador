@@ -1,0 +1,254 @@
+/0 Empty
+# #
+
+/1 Logistics
+#Logistics is the ability to supply troops with provisions and to arrange the sieges efficiently.
+
+Lvl 1: Gold Upkeep -10~, Gems -5~, Siege +10
+Lvl 2: Gold Upkeep -10~, Gems -5~, Siege +10
+Lvl 3: Gold Upkeep -10~, Gems -5~, Siege +10
+Lvl 4: Gold Upkeep -10~, Gems -5~, Siege +20
+Lvl 5: Gold Upkeep -10~, Gems -5~, Siege +30#
+
+/2 Discipline
+#The skill of discipline increases the units' vitality and raises their magic resistance.
+
+Lvl 1: Hit Points +1, Resistance +1
+Lvl 2: Hit Points +1
+Lvl 3: Hit Points +1, Resistance +1
+Lvl 4: Hit Points +2
+Lvl 5: Hit Points +1, Resistance +1#
+
+/3 Offensive Tactics
+#Proper offensive tactics improve the units' attack and counterattack.
+
+Lvl 1: Attack +1
+Lvl 2: Counterattack +1
+Lvl 3: Attack +1
+Lvl 4: Counterattack +1
+Lvl 5: Attack +1, Counterattack +1#
+
+/4 Defensive Tactics
+#Skillful defensive tactics decrease the damage taken by units.
+
+Lvl 1: Ranged Defense +1
+Lvl 2: Defense +1
+Lvl 3: Ranged Defense +1
+Lvl 4: Defense +1
+Lvl 5: Defense +1, Ranged Defense +1#
+
+/5 Ranged Tactics
+#Knowledge of ranged tactics improves missile troops' combat efficiency. Does not affect healers or units using Magic Shot. Does not affect ammo capacity of barbarians and spearmen.
+
+Lvl 1: Ranged Attack +1
+Lvl 2: Ammo +1
+Lvl 3: Ranged Attack +1
+Lvl 4: Ammo +1
+Lvl 5: Range +1#
+
+/6 Maneuvering
+#The ability to maneuver not only increases the initiative of the army, but favorably affects the stamina of the troops and speeds up global map movement.
+
+Lvl 1: Init +1, Stamina +1
+Lvl 2: Init +1, Stamina +1
+Lvl 3: Init +1, Stamina +1, Mobility +1
+Lvl 4: Init +1, Stamina +2
+Lvl 5: Init +1, Stamina +2, Mobility +1#
+
+/7 Leadership
+#The troops under a competent leader train faster in their skills, and possess higher morale, as well.
+
+Lvl 1: Experience Gained +5~, Morale +1
+Lvl 2: Experience Gained +5~, Morale +1
+Lvl 3: Experience Gained +5~, Morale +1
+Lvl 4: Experience Gained +5~, Morale +2
+Lvl 5: Experience Gained +5~, Morale +2#
+
+/8 Weapon Master
+#A Weapon Master inflicts greater damage on the enemy.
+
+Lvl 1: Attack +1, Counterattack +1
+Lvl 2: Attack +2, Counterattack +1
+Lvl 3: Attack +1, Counterattack +2
+Lvl 4: Attack +2, Counterattack +1
+Lvl 5: Attack +1, Counterattack +2#
+
+/9 Armor Master
+#An Armor Master increases his defense against physical damage.
+
+Lvl 1: Defense +1, Ranged Defense +1
+Lvl 2: Defense +1, Ranged Defense +1
+Lvl 3: Defense +1, Ranged Defense +1
+Lvl 4: Defense +1, Ranged Defense +1
+Lvl 5: Defense +1, Ranged Defense +1#
+
+/10 Constitution
+#Constitution increases the hero's hit points and stamina.
+
+Lvl 1: Hit Points +2, Stamina +1
+Lvl 2: Hit Points +2, Stamina +1
+Lvl 3: Hit Points +3, Stamina +1, Regen +1
+Lvl 4: Hit Points +4, Stamina +2
+Lvl 5: Hit Points +5, Stamina +2, Regen +1#
+
+/11 Willpower
+#Willpower increases the hero's morale and magic resistance.
+
+Lvl 1: Resistance +1, Morale +1
+Lvl 2: Resistance +1, Morale +1
+Lvl 3: Resistance +1, Morale +1
+Lvl 4: Resistance +1, Morale +2
+Lvl 5: Resistance +1, Morale +2#
+
+/12 Athletics
+#Athletics increases the hero's initiative and his movement speed in battle.
+
+Lvl 1: Initiative +1, Forced March
+Lvl 2: Initiative +1, Recuperation +3
+Lvl 3: Initiative +1, Speed +1
+Lvl 4: Initiative +1, Charge
+Lvl 5: Initiative +1, Speed +1#
+
+/13 Combat
+#This skill improves the hero's attack accuracy and parry rating.
+
+Lvl 1: Precise Strike +2, Parry +2
+Lvl 2: Precise Strike +1, Parry +2
+Lvl 3: Precise Strike +2, Parry +2
+Lvl 4: Precise Strike +1, Parry +2
+Lvl 5: Precise Strike +2, Parry +2#
+
+/14 Blacksmithing
+#Blacksmithing slows down the degradation of the hero's equipment, and increases the gold income as well.
+
+Lvl 1: Item Wear -10~, Income +10
+Lvl 2: Item Wear -10~, Income +20
+Lvl 3: Item Wear -10~, Stunning Blow +1
+Lvl 4: Item Wear -10~, Income +30
+Lvl 5: Item Wear -10~, Stunning Blow +1#
+
+/15 Magic Power
+#Magic Power increases the spellpower of the hero.
+
+Lvl 1: Spellpower +1
+Lvl 2: Spellpower +1
+Lvl 3: Spellpower +2
+Lvl 4: Spellpower +1
+Lvl 5: Spellpower +1#
+
+/16 Concentration
+#Concentration increases the duration of the spells cast by the hero, and helps him to restore more energy while resting.
+
+Lvl 1: Spell Duration +1, Recuperation +1
+Lvl 2: Spell Duration +1, Recuperation +1
+Lvl 3: Spell Duration +1, First Aid +1
+Lvl 4: Spell Duration +1, Recuperation +2
+Lvl 5: Spell Duration +1, First Aid +2#
+
+/17 Summoning
+#Summoning increases power of the summoned creatures and the maximum range of summoning spells.
+
+Lvl 1: Summoning Strength +2, Range +1
+Lvl 2: Summoning Strength +2, Range +1
+Lvl 3: Summoning Strength +2, Range +1
+Lvl 4: Summoning Strength +2, Range +1
+Lvl 5: Summoning Strength +2, Range +1#
+
+/18 Thaumaturgy
+#Thaumaturgy increases the hero's magic resistance and his ability to overpower the resistance of the enemy.
+
+Lvl 1: Resistance Hero +1, Target -1
+Lvl 2: Resistance Hero +1, Target -1
+Lvl 3: Resistance Hero +1, Target -1
+Lvl 4: Resistance Hero +1, Target -1
+Lvl 5: Resistance Hero +1, Target -1#
+
+/19 Wisdom
+#Wisdom increases the experience earned by the hero and allows him to learn additional spells.
+
+Lvl 1: Experience +10~, 1st circle Spell
+Lvl 2: Experience +10~, 1st circle Spell
+Lvl 3: Experience +10~, 2nd circle Spell
+Lvl 4: Experience +10~, 3rd circle Spell
+Lvl 5: Experience +10~, 4th circle Spell#
+
+/20 Wand Master
+#Wand Mastery not only increases the power and range of a ranged unit, but also increases its initiative.
+
+Lvl 1: Init +1, Ranged Attack +1, Ammo +1
+Lvl 2: Init +1, Ranged Attack +2
+Lvl 3: Init +1, Range +1
+Lvl 4: Init +1, Ranged Attack +2, Ammo +1
+Lvl 5: Init +1, Ranged Attack +2, Energy Control +2#
+
+/21 Necromancy
+#Necromancy increases power of undead, allows them to stay on after combat. Speeds up hit point restoration for the party's undead.
+
+Lvl 1: Power +1, skeleton can stay, +10~ hit points per turn
+Lvl 2: Power +1, 1st rank undead can stay, +10~ hit points per turn
+Lvl 3: Power +2, 2nd rank undead can stay, +10~ hit points per turn
+Lvl 4: Power +1, 3rd rank undead can stay, +10~ hit points per turn
+Lvl 5: Power +2, vampire can stay, +10~ hit points per turn#
+
+/22 Marksmanship
+#Marksmanship increases the power and range of the hero's ranged attacks.
+
+Lvl 1: Ranged Attack +1
+Lvl 2: Ranged Attack +1
+Lvl 3: Range +1
+Lvl 4: Ranged Attack +2
+Lvl 5: Ranged Attack +2#
+
+/23 Reaction
+#Reaction increases the hero's initiative, speed, and defense.
+
+Lvl 1: Init +1, Ranged Def +1,  Resist +1
+Lvl 2: Init +1, Ranged Def +1, Defense +1
+Lvl 3: Init +1,      Speed +1,  Resist +1
+Lvl 4: Init +1, Ranged Def +1, Defense +1
+Lvl 5: Init +1,      Speed +1,  Resist +1#
+
+/24 Scouting
+#Scouting increases the speed of province exploration, and allows the hero to spy on the enemy's forces and perform acts of sabotage before attacking.
+
+Lvl 1: Exploration +5, Allows Scouting
+Lvl 2: Exploration +5, Raise false alarm
+Lvl 3: Exploration +5, Poison the water
+Lvl 4: Exploration +10, Create panic
+Lvl 5: Exploration +10, Scouting and Sabotage 50~ cheaper#
+
+/25 Archery
+#Archery increases the hero's shooting accuracy and spare ammo. It also helps him to bypass some of the enemy's defense while shooting.
+
+Lvl 1: Precise Shot +1, Ammo +1
+Lvl 2: Precise Shot +1, Ammo +1
+Lvl 3: Precise Shot +1, Ammo +1
+Lvl 4: Precise Shot +1, Ammo +1
+Lvl 5: Precise Shot +1, Ammo +1#
+
+/26 Pathfinding
+#Pathfinding gives the hero and his army a knowledge of the countryside. Speeds up the global map movement of the army.
+
+Lvl 1:  Forest Knowledge +1
+Lvl 2:   Hills Knowledge +1
+Lvl 3:   Swamp Knowledge +1, Mobility +1
+Lvl 4: Terrain Knowledge +3
+Lvl 5: Terrain Knowledge +4, Mobility +1#
+
+/27 Diplomacy
+#Diplomacy increases the rewards for completing quests and winning arena battles. Decreases prices in province stores and guard bribery costs. Provides more opportunities at negotiations.
+
+Lvl 1: Rewards +10~, Prices -10~
+Lvl 2: Rewards +10~, Prices -10~
+Lvl 3: Rewards +20~, Prices -10~
+Lvl 4: Rewards +30~, Prices -10~
+Lvl 5: Rewards +30~, Prices -10~#
+
+/28 Looting
+#The Looting skill increases the number of battle trophies and increases a chance of acquiring items from the fallen enemies.
+
+Lvl 1: Spoils +10~
+Lvl 2: Spoils +10~
+Lvl 3: Spoils +10~
+Lvl 4: Spoils +20~
+Lvl 5: Spoils +20~#

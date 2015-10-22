@@ -1,0 +1,392 @@
+Quantity: 122
+0. Empty
+#No description#
+
+1. Treasures found
+#After a thorough search your party has found:#
+
+2. Construction prohibited (already built)
+#You cannot build anything else during this turn.#
+
+3. Construction
+#You don't have any buildings available for construction in this province. Construct a building that opens access to new provincial buildings in your stronghold.#
+
+4. Construction forbidden (no room)
+#The province has no room for new buildings, and none of the existing buildings can be upgraded.#
+
+5. Construction forbidden (capital)
+#You cannot construct outer buildings in your capital.#
+
+6. No guards
+#There are no guards available for hire in this province. Construct a building that opens access to new guards in your stronghold.#
+
+7. Hiring forbidden (already hired)
+#You cannot hire any more guards during this turn.#
+
+8. Rituals forbidden (no buildings)
+#There are no available rituals to perform in this province. Construct a building that opens access to new rituals in your stronghold.#
+
+9. Rituals forbidden (already performed)
+#You cannot perform any more rituals during this turn.#
+
+10. Hero level (standard)
+#Hero %s gained enough experience to achieve a new level. Now he is a %s of level %d.#
+
+11. Hero level (10)
+#%s %s has achieved level 10. It's time to determine his future.#
+
+12. Hero level (new skill)
+#Select a skill to learn:#
+
+13. Hero level (new attribute)
+#Attribute increased:#
+
+14. Unit level (standard)
+#Experience gained in combat allows the unit to achieve a new level.#
+
+15. Unit award
+#This unit may be rewarded for outstanding performance in combat.#
+
+16. Province defense
+#Who should lead the defense?#
+
+17. Necromancy
+#A group of animated dead will join the hero's army if he performs a necromantic ritual.#
+
+18. Construction forbidden (siege)
+#You cannot construct buildings during a siege.#
+
+19. Hiring forbidden (siege)
+#You cannot hire guards during a siege.#
+
+20. Attack without declaring war
+#Ruler %s concluded a peace treaty with you. Do you really want to attack him treacherously, without a formal declaration of war?#
+
+21. Attack an ally
+#Ruler %s is your ally! Do you really want to attack him treacherously?#
+
+22. End of game
+#The mortals of this Shard call you their %s. The legends of your deeds will be remembered and passed from one generation to another for %d %s.#
+
+23. High scores
+#%s
+
+Your achievements are so great that your name will go down in the Book of Masters, taking the %d place on its pages.#
+
+24. Resources
+#%s
+
+This resource is one of the so-called strategic resources. If you want to construct a building or hire a unit that requires a certain strategic resource you don't possess, you will have to pay the market price of this resource in gold and gems (if the production requires several pieces of the resource, you have to pay for each unit). After each purchase of the resource, its starting price increases a little. Keep in mind that starting price of every resource is the same for all players.
+Strategic resources cannot be accumulated. If you have at least one province that produces a certain strategic resource, you won't have to pay its price anymore. In order for the province to produce an available resource, the deposit has to be on an explored territory, unguarded by neutral parties.
+In addition, you can gain access to some resources via trading with other players.#
+
+25. Warning before a draw
+#This battle went for far too long, the evening is coming. If neither side wins, the troops will have to abandon field.
+Turns remaining: %d.#
+
+26. Hiring forbidden (undisbandable guard hired)
+#There is a guard you can't disband in this province. To change the guard, you will have to attack and destroy the current one first.#
+
+27. Ritual with the hero
+#Select the hero for the ritual.#
+
+28. Rituals forbidden (no buildings)
+#No available rituals for heroes. Construct a building that opens access to new rituals in your stronghold.#
+
+29. End of game
+#Your presence in this world didn't leave a single trace. It's highly unlikely that any of the mortals will ever remember you.#
+
+30. Explored
+#The percentage of explored land shows how much of the province has been charted. The explored lands can be used for settlement and farming. When there is not enough explored land, the exploration percentage is displayed in red. A hero can be tasked with an order to explore the province. During exploration, heroes often find unusual things.#
+
+31. Mood
+#The population's mood determines their working capacity and growth rate. If the population is unhappy, unrest starts to accumulate in the province (red bar). When unrest reaches its limit, a rebellion will begin. If the population is calm and content, the accumulated unrest will slowly dissipate.#
+
+32. Province level
+#The province population size determines the income it generates to a large extent. The green bar shows the population above the current level. When the green bar reaches the end, the province will achieve a new level. Dead lands have no population, the green bar shows how soon these lands will become habitable again. For cursed lands, the bar shows the duration of the curse - after the curse expires, they turn into a dead land.#
+
+33. Province type
+#There are various neutral provinces in the game. Province type determines its population, exploration percentage, and potential guards. In addition, certain types of provinces may contain special secret locations.#
+
+34. No resource
+#Either there are no strategic resources in this province, or they are located on unexplored territory.#
+
+35. Impassable
+#This territory is impassable, only flying creatures can pass through it.#
+
+36. Version
+#Eador Demo v.%s.      #
+
+37. Copyrights
+#Eador %s      #
+
+38. Plains
+#An open terrain without any obstacles. To pass a plain, unit spends 1 movement point.#
+
+39. Forest
+#When in the forest, the unit's ranged defense is increased by 2. To cross a forest, unit spends 2 movement points.#
+
+40. Hill
+#When on a high ground, the unit's defense, counterattack and firing range are increased by 1. To cross a hill, unit spends 3 movement points and 1 stamina point.#
+
+41. Swamp
+#When in a swamp, units are most vulnerable. Their defense and counterattack are decreased by 1. To pass a swamp, unit spends 4 movement points and 1 stamina point.#
+
+42. Fortifications
+#When in a fortress, units get +3 ranged defense, +1 missile attack and +1 firing range. To pass this tile, unit spends 1 movement point.#
+
+43. Tower
+#Towers fire at attacking troops each turn. They can only be destroyed prior to combat, during the siege.#
+
+44. Plains
+#The plains are typically the fertile lands that yield plentiful harvests. Gold income from the plains provinces is very high. People eagerly settle in the plains, so the population grows quite quickly. Plains provinces are open terrain, exploring them doesn't take much time. Low gem income is the main disadvantage of plains.
+A hero spends 1 Mobility Point to pass through a plains province.#
+
+45. Forest
+#Hunting and timber harvesting are the main source of income for forest lands. Forests don't yield much gold, but they are often rich in gems. Exploring forest provinces is rather difficult, it often takes much time. Besides, exploring forests is a risky endeavor, as the hero can easily be ambushed.
+A hero spends 2 Mobility Points to pass through a forest province.#
+
+46. Hill
+#Hills are rich in minerals and natural resources. Hilly provinces yield good income, although it's a little lower than the income from fertile plains. Besides, magical veins full of gems are often located in the hills. Exploring hills takes a little longer than exploring plains. However, new deposits of natural resources are often found during exploration.
+A hero spends 3 Mobility Points to pass through a hilly province.#
+
+47. Swamp
+#It's hard to make a living in swamps, so the income and population growth in such provinces are rather low. However, swamp lands are the best source of gems and magical energy. Exploring swamps takes a lot of time.
+A hero spends 4 Mobility Points to pass through a swamp province.#
+
+48. Mountains
+#Mountains are an impassable terrain. Heroes cannot pass through the mountainous regions.#
+
+49. Seas
+#Heroes cannot stay in sea provinces, but they can cross them if they depart from a province with a shipyard. A shipyard allows a hero to cross a single sea province, a lighthouse two. A hero spends one turn to cross the sea, regardless of his Mobility.#
+
+50. Construction secret
+#Now you can construct this building in your stronghold.#
+
+51. Lies
+#It's a lie!#
+
+52. Line break
+#%s
+
+%s#
+
+53. Scouting
+#Scout. (-%d $ )#
+
+54. Scouting
+#Scouting results:#
+
+55. Line break 2
+#%s
+%s#
+
+56. Hint Crests
+#Show large crest icons above provinces.#
+
+57. Hint Mood
+#Show icons over friendly provinces with unhappy population.#
+
+58. Hint Unrest
+#Show icons over friendly provinces with high unrest rate.#
+
+59. Hint Guard
+#Show icons over friendly provinces with guards stationed within.#
+
+60. Hint Limit
+#Show icons over friendly provinces that lack explored land for further growth.#
+
+61. Quests
+#Show icons over provinces where the selected hero has quests.#
+
+62. Arenas
+#Show icons over friendly provinces that have arenas.#
+
+63. Shops
+#Show icons over friendly provinces that have trading stores.#
+
+64. Hint Lairs
+#Show icons over friendly provinces that have special locations allowing to hire units.#
+
+65. Hint Temples
+#Show icons over friendly provinces that have a Temple of Light.#
+
+66. Hint Tutorial
+#Show tutorial hints during the game.#
+
+67. Hint Population limit
+#Show a message window whenever the population limit is reached in a province.#
+
+68. Hint Idlers
+#Show a message window upon an attempt to end turn whenever some of the heroes have no orders assigned.#
+
+69. Hint Unit sale
+#Show a message window when you receive gold from the Mercenary Guild upon the discharge of your warriors.#
+
+70. Hint Delete
+#Show a message window when you attempt to discard an item or discharge a warrior.#
+
+71. Hint Disband guards
+#Show a message window upon an attempt to disband a guard.#
+
+72. Hint Removing buildings
+#Show a message window upon an attempt to raze a building in a province.#
+
+73. Auto-level
+#Automatically increase the level of units of specified ranks.#
+
+74. Auto-combat
+#Always use quick combat in the specified situation.#
+
+75. Campaign, gave up
+#As soon as you abandoned your world, hellish creatures assaulted you and dragged you into Chaos. The last thing you remembered was a raging blaze devouring your very essence. Without its master, your world split apart.#
+
+76. Campaign, failed to defend the world
+#Another Master destroyed your world, and demons dragged you into Chaos. The last thing you remembered was a raging blaze devouring your very essence.#
+
+77. Campaign, surrendered
+#Under the new Overlord of Eador an uneasy truce was established between the Masters. Your small world was accepted into the New Eador pleiad of worlds. The long years of preparation for the final battle against Chaos are waiting ahead. It seems Eador finally has an elusive chance of winning this battle...#
+
+78. Campaign, Ul-Dagan
+#Ul-Dagan destroyed Eador, wishing to become the sole demiurge of the new Creation. Perhaps, he will succeed in creating a new world, but you will never see it...#
+
+79. Campaign, Beleth's servant
+#Having a vast world at his disposal, Beleth defeated the other Masters easily. Those who refused to submit to his power were mercilessly destroyed. Having become Eador's sole Overlord, Beleth established a cruel dictatorship, assuming the title of the One God and banning other religions. Due to the strict order established by Beleth's iron fist, Chaos receded from the orderly world.
+Beleth appointed you as his first councilor, granting you a large estate in the heart of New Eador. You entered the time of prosperity. However, something was troubling your heart - with every passing day the Sun gave less and less light and heat...#
+
+80. Campaign, demolition by the Destroyer
+#With the help of The Destroyer, all the worlds of other Masters were demolished. The order in Eador weakened, and a dark wave of Chaos spawn surged out of the Underworld. Your only hope is to try and fight back the hordes of Chaos with the power of The Destroyer. Little if anything will remain of Eador...#
+
+81. Campaign, surrender to the Destroyer
+#You became the Overlord of Eador. However, the conquered Masters never found peace among themselves. Many continued fighting and plotting against each other. Each of the enslaved secretly wished to overthrow you and take your place. However, the greatest danger remains that if anything ever happens to the Destroyer, a foundation of your rule, then your reign and likely your life as well would soon be over.#
+
+82. Campaign Keys of Truth
+#Your contribution to Eador's Fate is truly great. Even if the «Return of the Creator» can't save the ordered world, you brought hope to all creatures of Eador, mortals and immortals alike.
+The newly-formed Masters' Council offered you the honorary title of the Keeper of Truth and the right to settle disputes between other Masters.#
+
+83. Campaign, Enemy destroyed
+#All your enemies were cast down into Chaos. The title of the Overlord of Eador is rightfully yours. Now, with no competition to worry about, you can focus on uniting all shards into one world that would be able to fight back the forces of Chaos. Mortals call you the Creator God and the Protector God. Immortals know you as the Conqueror. 
+Eador's future lies in your hands.#
+
+84. Campaign, destroyed all flesh
+#After the death of all living things, the Sun slowly faded. Gradually it turned into a lifeless black sphere that was engulfed by Chaos. 
+Eador became a dead gray wasteland surrounded by the ocean of Chaos on all sides. The time in the dead world flowed slowly and seemed endless. You had nothing to do, nothing to yearn for. Eventually your heart started hoping for the moment when Chaos would finally engulf Eador's remains. Perhaps, that will happen one day...#
+
+85. Campaign, assembled the Talisman
+#With your help Erdu was able to assemble the talisman that protects Eador against Chaos. You destroyed a multitude of dark creatures that sneaked into the orderly world. An uneasy truce was established between the Masters. At last, there is hope that Eador won't be destroyed. Chaos has no power over the orderly world as long as the Talisman is intact.
+Mortals exalt you as the great combatant against Chaos. Word of your glorious deeds goes before you throughout Eador. You have every right to be proud of your accomplishments.#
+
+86. Campaign, demonic invasion
+#The orderly world was destroyed by the spawn of Chaos. You were among the Masters who saw the final day of Eador. Unfortunately, you were unable to prevent the world's collapse. Perhaps, one day another orderly world will emerge, and by fate you will be among its inhabitants again...#
+
+87. Line break 3
+#%s
+---------------------------------
+%s#
+
+88. Campaign, memory 1
+#The shards of your world scattered across Eador. Their inhabitants, absorbed in their everyday business, soon forgot about you. Most likely, no one in the future will ever remember that once upon a time there was a Master named %s.#
+
+89. Campaign, memory 2
+#The shards of your world scattered across Eador, and most of their inhabitants soon forgot about you. Only a few mortals from among your former heroes made a lonely pilgrimage from town to town, trying to remind people that it was you who once saved these lands from Chaos by joining them to your world. However, few listened to those heroes, and when they died, all memory of you disappeared from Eador. Most likely, no one in the future will ever remember that once upon a time there was a Master named %s.#
+
+90. Campaign, memory 3
+#The shards of your world scattered across Eador, but a few mortals never forgot their former Master. A secret cult formed on some of the shards. Its members worshiped you, hoping to bring you back from nonexistence with their prayers. However, the cult had rather few members and soon faded away. The Holy Inquisition had a large say in that, furiously persecuting your worshipers. Soon the memory of you disappeared from Eador. Only a few manuscripts of a forgotten cult that managed to escape the Inquisition's bonfires preserve the knowledge that once upon a time there was a Master named %s.#
+
+91. Campaign, memory 4
+#The shards of your world scattered across Eador, but the mortals cherished the memory of their Master. Chapels in your name were built in several major cities. There mortals prayed and called unto you for help. However, their prayers remained unanswered, and, over the years, you were forgotten. The books written about your deeds gathered dust on library shelves. They interested no one except some historians who studied ancient gods and religions. Only a few learned scholars will recall that once upon a time there was a Master named %s.#
+
+92. Energy
+#Energy is the only resource on the Astral plane. You can use Energy to activate the bonuses you need in the battles over the shards. In addition, you can use Energy to trade with the other inhabitants of the Astral plane.
+Your world is the main source of Energy income. Each Shard joined to your world generates a certain amount of Energy per astral turn. You can view your current Energy income and consumption in the Statistics window.#
+
+93. Shard size
+#The bigger the Shard, the more opponents you will encounter there, and the stronger neutral troops will be. In addition, its size determines the scale of the map where the battle over the Shard will take place.#
+
+94. Terrain type
+#The Shard's terrain type helps to determine what kind of terrain will be prevalent on its map.#
+
+95. Hint Landscape
+#General layout of the map.#
+
+96. Hint Islands
+#The amount of small lakes and islands.#
+
+97. Hint Land mix
+#The lower this parameter is, the larger the uniform spans of the same terrain (forests, swamps, etc.).#
+
+98. Hint Boundaries
+#The way boundaries among the provinces look (changing it will have an effect on the maps generated throughout the campaign, as well).#
+
+99. Hint Water
+#The amount of sea provinces.#
+
+100. Hint Forests
+#The amount of forest provinces.#
+
+101. Hint Hills
+#The amount of hilly provinces.#
+
+102. Hint Swamps
+#The amount of swamp provinces.#
+
+103. Hint Population
+#The higher this parameter is, the more population there will be in the neutral provinces.#
+
+104. Hint Neutrals
+#The lower this parameter is, the weaker the guards of the neutral provinces and special locations will be. Note that the quality of treasures depends on the strength of its guards.#
+
+105. Hint Resources
+#The number of resource deposits on the map.#
+
+106. Hint Locations
+#The number of special locations (ruins, crypts, etc.) in the provinces.#
+
+107. Hint Battle
+#Huge map, up to 16 players simultaneously.#
+
+108. Hint Campaign
+#Several hundred hours of gameplay. The outcome of the campaign depends on you.#
+
+109. Hint Diplomacy
+#War is not the only path to victory. Make peace and enter into trade agreements and alliances, considering the strengths and weaknesses of your rivals.#
+
+110. Hint Construction
+#Build the most luxurious castle of Eador! Choose from more than two hundred different buildings.#
+
+111. Hint Modes
+#Generate a custom map. Play against computer opponents in single player mode or play against friends in multiplayer mode.#
+
+112. Hint Miscellaneous
+#Try powerful spells and rituals, train elite warriors and fight huge monsters. Obtain legendary artifacts and collect rare armor sets.#
+
+113. Hint Miscellaneous
+# New Horizons 15.0427.f03 - English translation v2.50c#
+
+114. No lottery
+#  
+#
+
+115. No lottery
+#  #
+
+116. No lottery
+#    #
+
+117. No lottery
+#    #
+
+118. No lottery
+#  #
+
+119. No lottery
+#  #
+
+120. Join messages
+#%s %s#
+
+121. Switch Weapon - Magic strike
+#This unit is able to use additional enchanted weapons. This weapon deals magic damage. Attacking costs extra stamina.#
+
+122. Switch Ammo - Magic shot
+#The unit can switch to different and enchanted ammunition. These missiles deal magic damage. Attacking costs extra stamina.#

@@ -1,0 +1,40 @@
+Health (Life, Stamina, Morale)
+
+Lvl1: 3, 1, 1
+Lvl2: 3, 1, 1
+Lvl3: 4, 1, 1
+Lvl4: 4, 2, 1
+Lvl5: 5, 2, 1
+Lvl6: 5, 2, 2
+Lvl7: 6, 3, 2
+Lvl8: 6, 3, 2
+Lvl9: 7, 3, 2
+Lvl10: 7, 4, 2
+
+
+Magic (Slot1, Slot2)
+
+Lvl1: 1, 0, 0
+Lvl2: 2, 0, 0
+Lvl3: 2, 1, 0
+Lvl4: 3, 0, 0
+Lvl5: 2, 1, 0
+Lvl6: 4, 0, 0
+Lvl7: 3, 0, 0
+Lvl8: 2, 2, 0
+Lvl9: 3, 0, 0
+Lvl10: 4, 0, 0
+
+
+Leader (Slot1, Slot2)
+
+Lvl1: 1, 0, 0
+Lvl2: 2, 0, 0
+Lvl3: 2, 0, 0
+Lvl4: 3, 0, 0
+Lvl5: 2, 1, 0
+Lvl6: 4, 0, 0
+Lvl7: 3, 0, 0
+Lvl8: 2, 1, 0
+Lvl9: 3, 0, 0
+Lvl10: 4, 0, 0

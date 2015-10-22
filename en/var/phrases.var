@@ -1,0 +1,1821 @@
+Quantity: 606
+/0
+Name: Empty;
+
+/1
+Name: Scared;
+
+/2
+Name: Panic;
+
+/3
+Name: Rage!;
+
+/4
+Name: Resistance!;
+
+/5
+Name: Level;
+
+/6
+Name: Health;
+
+/7
+Name: Magic;
+
+/8
+Name: Command;
+
+/9
+Name: Hit Points;
+
+/10
+Name: Rank;
+
+/11
+Name: Hero;
+
+/12
+Name: Selling Price;
+
+/13
+Name: Buying Price;
+
+/14
+Name: Repair Price;
+
+/15
+Name: Repair not required;
+
+/16
+Name: Durability;
+
+/17
+Name: Party;
+
+/18
+Name: Your Party;
+
+/19
+Name: Enemy Party;
+
+/20
+Name: Spoils;
+
+/21
+Name: Losses;
+
+/22
+Name: VICTORY;
+
+/23
+Name: DEFEAT;
+
+/24
+Name: Explored;
+
+/25
+Name: Defenders;
+
+/26
+Name: Resource not found;
+
+/27
+Name: Intact;
+
+/28
+Name: Slightly Damaged;
+
+/29
+Name: Seriously Damaged;
+
+/30
+Name: Breach;
+
+/31
+Name: Large Breach;
+
+/32
+Name: Half Destroyed;
+
+/33
+Name: Destroyed;
+
+/34
+Name: Completely Destroyed;
+
+/35
+Name: Fortifications;
+
+/36
+Name: Wall;
+
+/37
+Name: Tower;
+
+/38
+Name: No Fortifications;
+
+/39
+Name: Quest;
+
+/40
+Name: No;
+
+/41
+Name: Go to Province;
+
+/42
+Name: Explore Province;
+
+/43
+Name: Plunder Province;
+
+/44
+Name: Enter Building;
+
+/45
+Name: Attack Guard;
+
+/46
+Name: Unknown Lands;
+
+/47
+Name: Hire Hero;
+
+/48
+Name: Resurrect Hero;
+
+/49
+Name: DRAW;
+
+/50
+Name: Player;
+
+/51
+Name: Turn;
+
+/52
+Name: Map;
+
+/53
+Name: Income;
+
+/54
+Name: Expenses;
+
+/55
+Name: Castle;
+
+/56
+Name: Provinces;
+
+/57
+Name: Heroes;
+
+/58
+Name: Opponents;
+
+/59
+Name: Guards;
+
+/60
+Name: Garrisons;
+
+/61
+Name: Total;
+
+/62
+Name: Balance;
+
+/63
+Name: Resources;
+
+/64
+Name: Mood;
+
+/65
+Name: Current Quests;
+
+/66
+Name: Discard Items;
+
+/67
+Name: Forced March;
+
+/68
+Name: Necrophagy;
+
+/69
+Name: Crushing Blow;
+
+/70
+Name: Round Attack;
+
+/71
+Name: Siege;
+
+/72
+Name: Set Properties;
+
+/73
+Name: Completed;
+
+/74
+Name: Not Completed;
+
+/75
+Name: Hateful;
+
+/76
+Name: Furious;
+
+/77
+Name: Indignant;
+
+/78
+Name: Very Discontent;
+
+/79
+Name: Discontent;
+
+/80
+Name: Quiet;
+
+/81
+Name: Content;
+
+/82
+Name: Very Content;
+
+/83
+Name: Happy;
+
+/84
+Name: Skills and Properties;
+
+/85
+Name: Active Effects;
+
+/86
+Name: Duration;
+
+/87
+Name: till the end of combat;
+
+/88
+Name: Current HP;
+
+/89
+Name: Current Morale;
+
+/90
+Name: Gold Upkeep;
+
+/91
+Name: Gem Upkeep;
+
+/92
+Name: Hire Guard (Q);
+
+/93
+Name: Construct Building (W);
+
+/94
+Name: Garrison (D);
+
+/95
+Name: Perform Ritual (R);
+
+/96
+Name: Menu (Esc);
+
+/97
+Name: Stronghold (C);
+
+/98
+Name: Diplomacy;
+
+/99
+Name: Statistics;
+
+/100
+Name: End of Turn (E);
+
+/101
+Name: Cancel Orders (Q);
+
+/102
+Name: Treasury and Shops (A);
+
+/103
+Name: Learn Spells (S);
+
+/104
+Name: Hire Troops (D);
+
+/105
+Name: Exchange with Another Hero (F);
+
+/106
+Name: Cancel;
+
+/107
+Name: Hide Unavailable Buildings;
+
+/108
+Name: Show Unavailable Buildings;
+
+/109
+Name: Hide Unavailable Guards;
+
+/110
+Name: Show Unavailable Guards;
+
+/111
+Name: Hide Unavailable Rituals;
+
+/112
+Name: Show Unavailable Rituals;
+
+/113
+Name: Demolish Building;
+
+/114
+Name: Dismiss Guard;
+
+/115
+Name: Guard Info;
+
+/116
+Name: View Constructed Buildings;
+
+/117
+Name: Condition of Fortifications;
+
+/118
+Name: View Locations;
+
+/119
+Name: Rest (Skip Turn) (R);
+
+/120
+Name: Next Unit (N);
+
+/121
+Name: Activate Healing (H);
+
+/122
+Name: Cancel Healing (H);
+
+/123
+Name: Cast Spell (S);
+
+/124
+Name: Cancel Spell (ESC);
+
+/125
+Name: Forced March (M);
+
+/126
+Name: Eat Corpse (T);
+
+/127
+Name: Start Battle (E);
+
+/128
+Name: Activate Crushing Blow (C);
+
+/129
+Name: Cancel Crushing Blow (C);
+
+/130
+Name: Activate Double Shot (D);
+
+/131
+Name: Cancel Double Shot (D);
+
+/132
+Name: Activate Round Attack (A);
+
+/133
+Name: Cancel Round Attack (A);
+
+/134
+Name: Gather Ammo (P);
+
+/135
+Name: Exit;
+
+/136
+Name: Hire or Resurrect Hero (F);
+
+/137
+Name: Hire Hero;
+
+/138
+Name: Resurrect Hero;
+
+/139
+Name: Bury Hero;
+
+/140
+Name: Dead Hero's Army;
+
+/141
+Name: Construction in the Stronghold (C);
+
+/142
+Name: Dismiss Hero;
+
+/143
+Name: Repair All Items (T);
+
+/144
+Name: Activate Item Repair (R);
+
+/145
+Name: Cancel Item Repair (R);
+
+/146
+Name: Hero Screen (G);
+
+/147
+Name: Reward;
+
+/148
+Name: Enemy Turn...;
+
+/149
+Name: Saving...;
+
+/150
+Name: Auto Combat...;
+
+/151
+Name: Next Hero (N);
+
+/152
+Name: Several Heroes;
+
+/153
+Name: Loading...;
+
+/154
+Name: Write Message;
+
+/155
+Name: Enemies;
+
+/156
+Name: Allies;
+
+/157
+Name: Resources needed;
+
+/158
+Name: Excess resources;
+
+/159
+Name: Defeated;
+
+/160
+Name: Make Peace;
+
+/161
+Name: Declare War;
+
+/162
+Name: Form Alliance;
+
+/163
+Name: Offer Trade;
+
+/164
+Name: Offer Barter;
+
+/165
+Name: Offer;
+
+/166
+Name: Request;
+
+/167
+Name: Resource to Exchange;
+
+/168
+Name: Cancel Message;
+
+/169
+Name: Send Message;
+
+/170
+Name: Give Item;
+
+/171
+Name: No Trade Agreement;
+
+/172
+Name: Message Sent;
+
+/173
+Name: No Message;
+
+/174
+Name: Cancel Alliance;
+
+/175
+Name: Change Trade Agreement;
+
+/176
+Name: Cancel Trade Agreement;
+
+/177
+Name: Break Alliance;
+
+/178
+Name: Cancel Political Offer;
+
+/179
+Name: Cancel Trade Offer;
+
+/180
+Name: Edit Message;
+
+/181
+Name: Trade;
+
+/182
+Name: Barter;
+
+/183
+Name: Trade Agreement;
+
+/184
+Name: War;
+
+/185
+Name: Peace;
+
+/186
+Name: Alliance;
+
+/187
+Name: Gold per Turn;
+
+/188
+Name: Gems per Turn;
+
+/189
+Name: Gold;
+
+/190
+Name: Gems;
+
+/191
+Name: Choose a resource to exchange;
+
+/192
+Name: Choose a province to exchange;
+
+/193
+Name: Choose an item to exchange;
+
+/194
+Name: Agree;
+
+/195
+Name: Refuse;
+
+/196
+Name: Ruler %s has sent you a message;
+
+/197
+Name: Offers;
+
+/198
+Name: Requests;
+
+/199
+Name: Continue;
+
+/200
+Name: Attack!;
+
+/201
+Name: Retreat;
+
+/202
+Name: Diplomatic Message;
+
+/203
+Name: Campaign;
+
+/204
+Name: Single Player;
+
+/205
+Name: Multiplayer;
+
+/206
+Name: Settings;
+
+/207
+Name: Credits;
+
+/208
+Name: Exit;
+
+/209
+Name: New;
+
+/210
+Name: Continue;
+
+/211
+Name: Back;
+
+/212
+Name: New Player;
+
+/213
+Name: Save;
+
+/214
+Name: Player Name;
+
+/215
+Name: Capital Name;
+
+/216
+Name: Anonymous;
+
+/217
+Name: Homeland;
+
+/218
+Name: Difficulty Level;
+
+/219
+Name: Beginner;
+
+/220
+Name: Skilled;
+
+/221
+Name: Competent;
+
+/222
+Name: Expert;
+
+/223
+Name: Master;
+
+/224
+Name: Lord;
+
+/225
+Name: Overlord;
+
+/226
+Name: Create Map;
+
+/227
+Name: New Shard;
+
+/228
+Name: Shard size;
+
+/229
+Name: Players;
+
+/230
+Name: Random;
+
+/231
+Name: No Population;
+
+/232
+Name: Building Plan;
+
+/233
+Name: Military Quarter;
+
+/234
+Name: Trade Quarter;
+
+/235
+Name: Magic Quarter;
+
+/236
+Name: Craftsmen Quarter;
+
+/237
+Name: Temple Quarter;
+
+/238
+Name: Central Quarter;
+
+/239
+Name: Leisure Quarter;
+
+/240
+Name: Forest Quarter;
+
+/241
+Name: Foreign Quarter;
+
+/242
+Name: Required Buildings;
+
+/243
+Name: Gives access to buildings;
+
+/244
+Name: Already built;
+
+/245
+Name: Can be built;
+
+/246
+Name: Insufficient means;
+
+/247
+Name: Conditions not met;
+
+/248
+Name: Unavailable for building;
+
+/249
+Name: Can't build this turn;
+
+/250
+Name: Need %d buildings of this type -;
+
+/251
+Name: Plan a Building;
+
+/252
+Name: Effects;
+
+/253
+Name: Select Sacrifice;
+
+/254
+Name: Select Target;
+
+/255
+Name: Quick Combat (F10);
+
+/256
+Name: Auto Combat (F11);
+
+/257
+Name: Surrender;
+
+/258
+Name: Battlefield Grid (G);
+
+/259
+Name: Info Panels (Alt);
+
+/260
+Name: Automated Turn Transfer;
+
+/261
+Name: Movement Speed;
+
+/262
+Name: Collect Ammo;
+
+/263
+Name: Corruption;
+
+/264
+Name: Economics;
+
+/265
+Name: Defeated;
+
+/266
+Name: Armies under Heroes;
+
+/267
+Name: Victories;
+
+/268
+Name: Defeats;
+
+/269
+Name: Provinces;
+
+/270
+Name: Heroes;
+
+/271
+Name: Unknown;
+
+/272
+Name: Not found;
+
+/273
+Name: Enemies Defeated;
+
+/274
+Name: Treasures Found;
+
+/275
+Name: Rare;
+
+/276
+Name: Very Rare;
+
+/277
+Name: Legendary;
+
+/278
+Name: Quests Completed;
+
+/279
+Name: Achievements;
+
+/280
+Name: Rewards;
+
+/281
+Name: Points Gained;
+
+/282
+Name: Point Modifiers;
+
+/283
+Name: Veteran Units;
+
+/284
+Name: Buildings in Stronghold;
+
+/285
+Name: Personality;
+
+/286
+Name: Modifiers;
+
+/287
+Name: Tactician;
+
+/288
+Name: Strategist;
+
+/289
+Name: Explorer;
+
+/290
+Name: Cartographer;
+
+/291
+Name: Architect;
+
+/292
+Name: Dragon Hunter;
+
+/293
+Name: Destroyer;
+
+/294
+Name: Collector;
+
+/295
+Name: points;
+
+/296
+Name: year;
+
+/297
+Name: years;
+
+/298
+Name: years;
+
+/299
+Name: Book of the Masters;
+
+/300
+Name: Evil Incarnate;
+
+/301
+Name: Evil;
+
+/302
+Name: Unscrupulous;
+
+/303
+Name: Neutral;
+
+/304
+Name: Lawful;
+
+/305
+Name: Good;
+
+/306
+Name: Champion of Light;
+
+/307
+Name: Base Price in Gold;
+
+/308
+Name: Base Price in Gems;
+
+/309
+Name: Resource harvested;
+
+/310
+Name: Cost in Gold;
+
+/311
+Name: Cost in Gems;
+
+/312
+Name: Cost;
+
+/313
+Name: Turns;
+
+/314
+Name: First Circle;
+
+/315
+Name: Second Circle;
+
+/316
+Name: Third Circle;
+
+/317
+Name: Fourth Circle;
+
+/318
+Name: Library (S);
+
+/319
+Name: Inventory Full!;
+
+/320
+Name: Necromancy;
+
+/321
+Name: Next;
+
+/322
+Name: Perform Ritual;
+
+/323
+Name: Local Lord;
+
+/324
+Name: Sea;
+
+/325
+Name: Lake;
+
+/326
+Name: Mountains;
+
+/327
+Name: Great Nothing;
+
+/328
+Name: Creating Map...;
+
+/329
+Name: Summon Zarr;
+
+/330
+Name: Enter your name;
+
+/331
+Name: Name of your stronghold;
+
+/332
+Name: Create banner;
+
+/333
+Name: Mercenary;
+
+/334
+Name: Seas;
+
+/335
+Name: Plains;
+
+/336
+Name: Forests;
+
+/337
+Name: Hills;
+
+/338
+Name: Swamps;
+
+/339
+Name: Mixed;
+
+/340
+Name: Shard Invasion;
+
+/341
+Name: Other Benefits;
+
+/342
+Name: Energy Reserve;
+
+/343
+Name: Energy Spent;
+
+/344
+Name: The %s Shard is conquered!;
+
+/345
+Name: Building Knowledge Obtained;
+
+/346
+Name: Benefits Obtained;
+
+/347
+Name: Points Gained;
+
+/348
+Name: Player Info;
+
+/349
+Name: Another Player;
+
+/350
+Name: Dialogue;
+
+/351
+Name: Combat Settings (O);
+
+/352
+Name: Alchemy;
+
+/353
+Name: Convert!;
+
+/354
+Name: Accept;
+
+/355
+Name: Default Settings;
+
+/356
+Name: World Creation Settings;
+
+/357
+Name: Landscape;
+
+/358
+Name: Islands, Lakes;
+
+/359
+Name: Land Mix;
+
+/360
+Name: Boundary Type;
+
+/361
+Name: Water;
+
+/362
+Name: Forests;
+
+/363
+Name: Mountains, Hills;
+
+/364
+Name: Swamps;
+
+/365
+Name: Population;
+
+/366
+Name: Independents;
+
+/367
+Name: Resources;
+
+/368
+Name: Locations;
+
+/369
+Name: Item nearly broken;
+
+/370
+Name: Item broken;
+
+/371
+Name: Weapon Failure;
+
+/372
+Name: Armor Failure;
+
+/373
+Name: A little;
+
+/374
+Name: Not much;
+
+/375
+Name: Average;
+
+/376
+Name: A plenty;
+
+/377
+Name: Lots;
+
+/378
+Name: Worthless;
+
+/379
+Name: Harmless;
+
+/380
+Name: Weak;
+
+/381
+Name: Limited;
+
+/382
+Name: Common;
+
+/383
+Name: Island;
+
+/384
+Name: Common;
+
+/385
+Name: Keepers of Peace;
+
+/386
+Name: *Reserved*;
+
+/387
+Name: *Reserved*;
+
+/388
+Name: *Reserved*;
+
+/389
+Name: Exploration;
+
+/390
+Name: Map Settings;
+
+/391
+Name: Cast Lots;
+
+/392
+Name: Choose War;
+
+/393
+Name: Surrender;
+
+/394
+Name: Interval Between Uses;
+
+/395
+Name: Into the Past;
+
+/396
+Name: Reversions;
+
+/397
+Name: Unit Movement Speed;
+
+/398
+Name: Active Rituals;
+
+/399
+Name: Harvested Resource;
+
+/400
+Name: Explored Area;
+
+/401
+Name: Population Mood;
+
+/402
+Name: Province Race;
+
+/403
+Name: Population Level;
+
+/404
+Name: Province type;
+
+/405
+Name: Gold Income;
+
+/406
+Name: Gem Income;
+
+/407
+Name: Messages;
+
+/408
+Name: Map;
+
+/409
+Name: Sound Volume;
+
+/410
+Name: Music Volume;
+
+/411
+Name: Map Scrolling;
+
+/412
+Name: Auto-level;
+
+/413
+Name: Auto-combat;
+
+/414
+Name: never;
+
+/415
+Name: vs independents;
+
+/416
+Name: always;
+
+/417
+Name: Banners;
+
+/418
+Name: Mood;
+
+/419
+Name: Unrest;
+
+/420
+Name: Sentinel;
+
+/421
+Name: Population Limit;
+
+/422
+Name: Quests;
+
+/423
+Name: Arenas;
+
+/424
+Name: Shops;
+
+/425
+Name: Lairs;
+
+/426
+Name: Temples;
+
+/427
+Name: Tutorial;
+
+/428
+Name: Population Limit;
+
+/429
+Name: Idlers;
+
+/430
+Name: Unit Sale;
+
+/431
+Name: Delete;
+
+/432
+Name: Dismiss Guards;
+
+/433
+Name: Demolish Building;
+
+/434
+Name: Obstacle;
+
+/435
+Name: Fortress;
+
+/436
+Name: Tower;
+
+/437
+Name: Terrain type;
+
+/438
+Name: Construction secret;
+
+/439
+Name: Lord %s is overthrown!;
+
+/440
+Name: Invading a Master's World (owned by %s);
+
+/441
+Name: Glory;
+
+/442
+Name: Shards Conquered;
+
+/443
+Name: Inner Voice;
+
+/444
+Name: Player's Choice;
+
+/445
+Name: One Computer;
+
+/446
+Name: Local Network;
+
+/447
+Name: Internet;
+
+/448
+Name: Your Turn;
+
+/449
+Name: A message for lord %s.;
+
+/450
+Name: Important!;
+
+/451
+Name: Change Weapon (X);
+
+/452
+Name: Choose Weapon;
+
+/453
+Name: New Profession;
+
+/454
+Name: Lvl.;
+
+/455
+Name: Raise a false alarm (-%d $ ).;
+
+/456
+Name: Poison the water (-%d $ ).;
+
+/457
+Name: Raise panic (-%d $ ).;
+
+/458
+Name: Let's do this without sabotage.;
+
+/459
+Name: Reasonable Choice;
+
+/460
+Name: Not Easy;
+
+/461
+Name: Hard;
+
+/462
+Name: Very Hard;
+
+/463
+Name: Almost Impossible;
+
+/464
+Name: Impossible!;
+
+/465
+Name: Don't Even Try!;
+
+/466
+Name: Journal;
+
+/467
+Name: Energy;
+
+/468
+Name: World Income;
+
+/469
+Name: Other Income;
+
+/470
+Name: Alliance with Beleth;
+
+/471
+Name: Mortals Destroyed;
+
+/472
+Name: Ancient Parts;
+
+/473
+Name: Destroyer Parts;
+
+/474
+Name: Destroyer Demolished;
+
+/475
+Name: Keys of Truth;
+
+/476
+Name: Talisman Completion at;
+
+/477
+Name: Talisman Completion at %d~;
+
+/478
+Name: Chaos Spawns Destroyed;
+
+/479
+Name: Doh-Gor's Amulet Found;
+
+/480
+Name: ...Journal entry added...;
+
+/481
+Name: Unreadable Inscription;
+
+/482
+Name: The History of Eador;
+
+/483
+Name: Points;
+
+/484
+Name: Garros has died;
+
+/485
+Name: Garros has been released;
+
+/486
+Name: Doh-Gor's Amulet Destroyed;
+
+/487
+Name: Beleth has Doh-Gor's Amulet;
+
+/488
+Name: Energy Income;
+
+/489
+Name: Shard size;
+
+/490
+Name: Terrain type;
+
+/491
+Name: Auto Combat (Esc - Cancel);
+
+/492
+Name: Current Stamina;
+
+/493
+Name: Current Speed;
+
+/494
+Name: Current Ammo;
+
+/495
+Name: Unit Rank;
+
+/496
+Name: Base Value;
+
+/497
+Name: Current Value;
+
+/498
+Name: Wounds;
+
+/499
+Name: Fatigue;
+
+/500
+Name: Terrain;
+
+/501
+Name: Resurrect the hero. (%d $ , %d & );
+
+/502
+Name: Bribe the guard. (-%d $ );
+
+/503
+Name: Best Title;
+
+/504
+Name: Buy;
+
+/505
+Name: OBSOLETE(phrases.505);
+
+/506
+Name: OBSOLETE(phrases.506);
+
+/507
+Name: OBSOLETE(phrases.507);
+
+/508
+Name: Diplomacy;
+
+/509
+Name: OBSOLETE(phrases.509);
+
+/510
+Name: OBSOLETE(phrases.510);
+
+/511
+Name: OBSOLETE(phrases.511);
+
+/512
+Name: OBSOLETE(phrases.512);
+
+/513
+Name: OBSOLETE(phrases.513);
+
+/514
+Name: OBSOLETE(phrases.514);
+
+/515
+Name: OBSOLETE(phrases.515);
+
+/516
+Name: OBSOLETE(phrases.516);
+
+/517
+Name: Gold;
+
+/518
+Name: OBSOLETE(phrases.518);
+
+/519
+Name: OBSOLETE(phrases.519);
+
+/520
+Name: OBSOLETE(phrases.520);
+
+/521
+Name: OBSOLETE(phrases.521);
+
+/522
+Name: OBSOLETE(phrases.522);
+
+/523
+Name: Hint;
+
+/524
+Name: Buy the Game;
+
+/525
+Name: Change Difficulty;
+
+/526
+Name: Arena Champion;
+
+/527
+Name: Terrain (explored);
+
+/528
+Name: Capital;
+
+/529
+Name: hidden;
+
+/530
+Name: guarded;
+
+/531
+Name: No Building;
+
+/532
+Name: No Defenders;
+
+/533
+Name: Locations;
+
+/534
+Name: Sort by distance from stronghold (1);
+
+/535
+Name: Sort by gold income (2);
+
+/536
+Name: Sort by gem income (3);
+
+/537
+Name: Sort by population (4);
+
+/538
+Name: Sort by mood (5);
+
+/539
+Name: Sort by unrest (6);
+
+/540
+Name: Sort by exploration value (7);
+
+/541
+Name: Sort by races (8);
+
+/542
+Name: Sort by locations (9);
+
+/543
+Name: Sort by number of buildings (0);
+
+/544
+Name: Sort in decreasing order;
+
+/545
+Name: Sort in increasing order;
+
+/546
+Name: Statistics View Mode;
+
+/547
+Name: Location View Mode;
+
+/548
+Name: Page Up (PgUp);
+
+/549
+Name: Page Down (PgDn);
+
+/550
+Name: Go to Province;
+
+/551
+Name: List of Provinces (P);
+
+/552
+Name: Current spell power;
+
+/553
+Name: Current spell duration;
+
+/554
+Name: Level of summoned creature;
+
+/555
+Name: Explore Province (Q);
+
+/556
+Name: Plunder Province (T);
+
+/557
+Name: Enter Building (W);
+
+/558
+Name: Attack Guard (T);
+
+/559
+Name: Use frenzy (V);
+
+/560
+Name: Use regular strike (V);
+
+/561
+Name: Shield Wall (F);
+
+/562
+Name: Shield Wall;
+
+/563
+Name: Meditation;
+
+/564
+Name: Rest;
+
+/565
+Name: First Aid;
+
+/566
+Name: Use spare weapon (X);
+
+/567
+Name: Use main weapon (X);
+
+/568
+Name: Use special ammo (Z);
+
+/569
+Name: Use regular ammo (Z);
+
+/570
+Name: Create Armageddon;
+
+/571
+Name: Blast!;
+
+/572
+Name: Cast upon yourself (U);
+
+/573
+Name: Explosive Shot;
+
+/574
+Name: Fire Shot;
+
+/575
+Name: Seismic Charge;
+
+/576
+Name: Regular Shot;
+
+/577
+Name: Arrange Bombardment (B);
+
+/578
+Name: Cancel Bombardment (B);
+
+/579
+Name: Execute Sniper Shot;
+
+/580
+Name: Aim!;
+
+/581
+Name: Use gas bombs;
+
+/582
+Name: Use regular ammo;
+
+/583
+Name: Gas Bomb;
+
+/584
+Name: Bombardment!;
+
+/585
+Name: Use area shot;
+
+/586
+Name: Use regular shot;
+
+/587
+Name: Items;
+
+/588
+Name: Scrolls;
+
+/589
+Name: Execute Powerful Shot (I);
+
+/590
+Name: Cancel Powerful Shot (I);
+
+/591
+Name: Use Dark Power;
+
+/592
+Name: Don't use Dark Power;
+
+/593
+Name: Change form (L);
+
+/594
+Name: Siege Mode;
+
+/595
+Name: Traveling Mode;
+
+/596
+Name: Activate Repair;
+
+/597
+Name: Cancel Repair;
+
+/598
+Name: Siege Mode (Y);
+
+/599
+Name: Traveling Mode (Y);
+
+/600
+Name: Unit name;
+
+/601
+Name:  Type -;
+
+/602
+Name: Class -;
+
+/603
+Name: turn;
+
+/604
+Name: turns;
+
+/605
+Name: turns;
+
+/606
+Name: Site Description;

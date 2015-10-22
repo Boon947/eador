@@ -1,0 +1,529 @@
+0. Empty
+#No description#
+
+1. Local Militia
+#Not the most reliable protection by far, but certainly the cheapest.#
+
+2. Gang of Thieves
+#These guys do not charge a fee for their services... from you, anyway. People aren't too happy with this kind of «protection,» but that's their own problem.
+Population mood -1.
+Province income -10~.#
+
+3. Tribe
+#A friendly tribe of barbarians makes a pretty good defense force for your lands.
+Can only be placed on plains.#
+
+4. Cutthroats
+#These dashing rogues are willing to work for you free of charge. They are used to taking everything they need by themselves.
+Population mood -2.
+Province income -20~.#
+
+5. Guards
+#Guards are always...well, on their guard. Not only do they protect the borders of your province, they also keep order within.
+Unrest growth rate reduced by 3.#
+
+6. Patrolmen
+#The patrolmen are well-suited both for province defense and the suppression of malcontents.
+Unrest growth rate reduced by 2.#
+
+7. Hunters
+#A party of hunters are not the most reliable defenders, but they provide the local garrison with provisions.
+Cost of garrison units reduced by -50~.#
+
+8. Watchmen
+#Though lacking any special fighting strength, the watchmen are of great benefit in that they gather intelligence on the neighboring enemy areas.
+The province spotting range is increased.#
+
+9. Brethren of Light
+#The Servants of Light are better suited for treating wounds and diseases than for fighting on a battlefield.
+Population mood +1.
+Unit recuperation sped up by 10~.#
+
+10. Foresters
+#A few foresters might be able to beat off a gang of robbers or a handful of rebels, but they are ill-suited for a serious battle. However, they procure valuable furs in peacetime, increasing the province's income.
+Raises province income by 10~.
+Can only be placed in forests.#
+
+11. Mercenaries
+#A party of mercenaries is a force to be reckoned with. They are decent defenders, but charge a hefty sum for their services.#
+
+12. Forest Spirits
+#No one knows why the mortals like these forest spirits so much, but you cannot get away from the fact people are a lot happier under their protection.
+Population mood +2.
+Can only be placed in forests.
+Incorruptible.#
+
+13. Walking Dead
+#Having the dead defend the living, isn't that an ingenious idea? Alas, for some reason the population isn't too fond of such protection...
+Population mood -1. 
+Incorruptible. Intrepid.#
+
+14. Forest Keepers
+#Not only do unicorns, dryads and fairies protect the province, they fill the hearts of all those who live there with happiness too. After all, harmony with Nature is a wonderful thing.
+Population mood +3.
+Can only be placed in forests.
+Incorruptible.#
+
+15. Men of War
+#A company of professional warriors can repel considerable enemy forces.#
+
+16. Secret Agents
+#The spies and assassins in your service can make decent province defenders. Moreover, they never cease to gather intelligence on your neighbors nor reports on potential troublemakers. The only drawback is that life in such a province becomes rather dangerous.
+Population mood -1.
+Provides detailed information of neighboring enemy provinces.
+Unrest growth rate reduced by 2.#
+
+17. Mob
+#When crime is organized by the ruler himself, it's not a crime any longer, but a civic service. The Mob copes excellently with both the defense of their turf and the extraction of excess luxuries from the populace.
+Population mood -2.
+Province income -30~.
+This guard cannot be disbanded.#
+
+18. Guardsmen
+#This company of elite infantry can present a challenge even for relatively powerful enemies.#
+
+19. Nomads
+#A nomadic tribe is good at defending its pastures, with mounted patrols ever on the alert at the borders. Moreover, the nomads can look after horses better than anyone else.
+Province income +12 if horses are present.
+Can only be placed on plains.#
+
+20. Eagle Brotherhood
+#These battle monks defending a province aren't easy to defeat. Moreover, any monk can treat wounds and diseases with the best of them.
+Population mood +1.
+Unit recuperation sped up by 10~.#
+
+21. Dark Brotherhood
+#The sorcerers and shamans serving the Dark Gods can defend a province pretty well. But, to tell the truth, people have little love for them...
+Population mood -1.#
+
+22. Cavalry
+#A swift cavalry squadron can repel a rather strong enemy army.#
+
+23. Overseers
+#The overseers are good at both preventing and suppressing uprisings. Accustomed to inflicting public reprisals upon the disobedient, overseers invoke fear not only in rebels within but amongst enemies without as well.
+Unrest growth rate reduced by 4.#
+
+24. Siege Engineers
+#Ballistae, catapults and their crews make a force to be reckoned with. In peacetime, the catapult maintenance staff can help local builders repair fortifications.
+Fortification rebuilding sped up by 5~.#
+
+25. White Shield Order
+#When a knightly order takes up the defense of a province, practically nothing can threaten it. Only the strongest enemies will be able to overpower a troop of well-armed knights.#
+
+26. Winged Guards
+#A company of gryphons and pegasi watches from the sky not just over their own province but over the neighboring lands as well. A swift attack by the winged guards can inflict serious damage to the enemy.
+The province spotting range is increased.#
+
+27. Battlemages
+#A band of experienced mages and sorcerers are not just excellent defenders, but a good source of magic gems as well. But, to tell the truth, people tend to go missing once such guards arrive, and that negatively affects the population's mood.
+Province gem income +30~.
+Population mood -1.
+Population growth -1.#
+
+28. War Priests
+#A company of priests and monks handles both the defense of a province and the healing of the wounded and the sick quite well.
+Population mood +1.
+Unit recuperation sped up by 10~.#
+
+29. Robbers
+#You have reached an agreement with the leader of a local gang of robbers, and now they defend your lands. However, they do not plan to stop plundering.
+This guard cannot be disbanded.
+Province income -40~.
+Population mood -2.#
+
+30. Local Militia
+#A company of militiamen consisting of local residents performs their work in good faith, for it's their own home that they are defending.#
+
+31. Vassal
+#A local baron has pledged his allegiance to you, and now he and his retinue defend these lands. As it should be, he is meticulous in paying you his tithes.
+This guard cannot be disbanded.
+Province gold and gem income -90~.#
+
+32. Retinue
+#A company of warriors who used to serve the local baron are now your faithful followers.#
+
+33. Light Infantry
+#These defenders are not very strong, but will have no problem with a handful of robbers or rebels.#
+
+34. Forest Guards
+#The forest spirits bound to you by an ancient Contract defend these lands. The local people are happy to have such protection.
+This guard cannot be disbanded.
+Population mood +3.
+Incorruptible.#
+
+35. Nomadic Tribe
+#A troop of nomads has defended these lands since times of old. They served a local khan before, and now they serve you.
+Province income +12 if horses are present.#
+
+36. Dark Druids
+#The Dark Druids rule these lands. They look to slaughter people «in the name of Nature», so no wonder no one looks forward to settling in this province.
+This guard cannot be disbanded.
+Population growth -20.#
+
+37. Elven Guards
+#A band of elves protects the peace of this forest at all times.#
+
+38. Dwarven Patrol
+#A patrol of dwarves is on watch, permitting no stranger to trespass on these lands. In peacetime, Dwarves work in mines, increasing the output of minerals.
+Province income +5 if iron is present.
+Province income +10 if marble is present.
+Province income +15 if mithril is present.#
+
+39. Dwarven Clan
+#A Clan of Dwarves is quite able to repel the attack of a strong enemy. In peacetime, Dwarves work in mines, increasing the output of minerals.
+Province income +5 if iron is present.
+Province income +10 if marble is present.
+Province income +15 if mithril is present.
+Can only be placed in hills.
+Improves population mood in the dwarven province by 1.#
+
+40. Horde
+#The orcs and goblins usually succeed by dint of their numbers, not by their skill. The Horde is a perfect example. It is not easy to feed such a mob, so orcs often make their living all by themselves, typically via plunder.
+Province income -20~.
+Population mood -1.
+Does not lower the mood in Orc provinces.#
+
+41. Centaurs
+#The centaurs are loyal and courageous warriors. They don't use money, so their only maintenance expense is paying for provisions.
+Incorruptible.
+Can only be placed on plains or in forests.
+Improves population mood in the Centaur province by 1.#
+
+42. Orcish Patrol
+#A patrol of orcs protects these lands.#
+
+43. Goblins
+#A band of goblins watches over this province.#
+
+44. Clan of Centaurs
+#A clan of centaurs is watching the province borders.
+Incorruptible.#
+
+45. Halflings
+#Usually not that warlike, the halflings are nevertheless quite capable of standing up for themselves if it means protecting their families and property.#
+
+46. Druid Brotherhood
+#A contract with the druids allows you to post a powerful group of various forest creatures in a province.
+Population mood +1.
+Unit recuperation sped up by 10~.
+Can only be placed in forests.#
+
+47. Imperial Guards
+#A contract with the Imperial Guards is of great value. These guards are elite troops that once served the Emperor Daokon. After the Empire collapsed, many guardsmen turned into mercenaries, and they are held in high esteem on every shard.
+Unrest growth rate reduced by 5.#
+
+48. Supreme Dark Order
+#A contract with the highest caste of priesthood of the Dark Gods is a valuable, yet dangerous, thing. You would be hard pressed to find a stronger force to protect your land with. But the population of a province with these defenders is largely doomed.
+Population mood -1.
+Population growth -1.#
+
+49. Armada
+#A contract with the Armada is a strange and poorly studied thing. The only thing known for sure is that a powerful army emerges after you have read this contract and that they loyally serve the one who summoned them.
+Unrest growth rate reduced by 3.#
+
+50. Dragon
+#«One dragon is worth an army.» This old saying holds true to this day.
+Province income -50~. Province gem income -50~.
+This guard cannot be disbanded.#
+
+51. Breeding Ground
+#Not everyone can stomach the thought of turning his land into a breeding ground for huge monsters. But once the decision has been made, it's unlikely any enemy will be able to pass through this province.
+Population growth -1.
+Can only be placed in swamps.
+This guard cannot be disbanded.#
+
+52. Clan of Giants
+#Once you sign a contract with a clan of giants, you don't have to worry about the security of your province borders - hardly anyone will be able to deal with such a defensive force. The only thing that may cause some concern is the giants' fondness for human flesh.
+Population mood -1.
+Population growth -1.
+Can only be placed in hills.
+This guard cannot be disbanded.#
+
+53. Clan of Cyclopes
+#The cyclopes are almost invincible as guards. Their only shortcomings are their ill temper and their disposition to kill people just for fun.
+Population mood -1.
+Population growth -1.
+Can only be placed in hills.
+This guard cannot be disbanded.#
+
+54. Ogres
+#The ogres are always ready to repulse the enemy. But in peacetime, it's all too common for them to haunt local settlements looking for fresh human meat.
+Population mood -1.
+Population growth -1.
+This guard cannot be disbanded.
+Cannot be placed in swamps.#
+
+55. Trolls
+#A band of trolls are good defenders for your land. Unfortunately, the local people suffering from the trolls' unappeasable appetite do not share this opinion.
+Population mood -1.
+Population growth -1.
+Can only be placed in swamps.
+This guard cannot be disbanded.#
+
+56. Labyrinth Guards
+#A band of minotaurs trained to protect the mystic Labyrinth is quite suitable for watching over an ordinary province as well. As long as you have an appropriate contract, that is.#
+
+57. Host of the Dead
+#To raise an army of the dead from their graves and to bind them to one's service is a task nigh impossible for most conjurers. Only some rare ancient scrolls keep the sigils for this powerful incantation.
+Population mood -2.
+Population growth -1.
+Incorruptible. Intrepid.#
+
+58. Army of Chaos
+#A contract with the Army of Chaos is a tempting yet dangerous thing. On the one hand, enemies will have a difficult time overcoming these powerful guards. On the other, firing them from the job might be harder still.
+Population mood -2.
+Population growth -1.
+This guard cannot be disbanded.#
+
+59. Warriors of Light
+#This host of the mighty Warriors of Light who had made an oath to combat Evil rarely stoops to a menial task of defending provinces. Only a contract approved with a Heavenly Seal can force them to do such a thing.
+Population mood +1.
+Incorruptible.#
+
+60. Creature Masters
+#Having made an agreement with the mages who control the minds of huge monsters, you will get some outstanding guards for your lands. Alas, such contracts are very rare.#
+
+61. Monsters
+#Spiders, basilisks and manticores tamed by experienced monstrologists make good defenders for your possessions. Especially so since they are trained not to attack civilians.#
+
+62. Adventurers
+#A team of adventurers are relatively inexpensive and strong defenders for your province. Their only shortcoming is their unreliability - the adventure seekers can't stay in one place for too long.#
+
+63. Gargoyle Masters
+#Several master mages and their assistants can provide a rather powerful defense for your province, creating a host of gargoyles obedient to your will.#
+
+64. Heavenly Guards
+#The pegasi summoned by means of a special ritual watch over your province and its surroundings. The local people are gladdened when they see winged horses hovering in the sky, guarding the peace.
+The province spotting range is increased.
+Population mood +2.#
+
+65. Recruits
+#It's not a very good idea to bring together the first recruits you come across to form a troop, but when the enemy is at the gates, there is no other choice. Recruits are poorly trained and have low morale. Nevertheless, at least the province they protect will not be completely defenseless.#
+
+66. Inquisition
+#The representatives of the Holy Inquisition are ever watchful of the public order, violently suppressing any attempts at magic or freethinking... which does not make the population happy at all. All income from the land is placed in the treasury of the Holy Order.
+This guard cannot be disbanded.
+Unrest growth rate reduced by 5.
+Province income -100~.
+Population mood -2.#
+
+67. Medusas
+#Medusa's are excellent defenders, if you ignore one significant drawback - they tend to visit the local settlements from time to time to petrify some inhabitants who have caught their fancy.
+Population mood -1.
+Population growth -1.#
+
+68. Lizardmen
+#A band of lizardmen defends your lands and is ready to repulse any stranger.#
+
+69. Lizard Guards
+#The lizardmen are warriors of great discipline and endurance. Moreover, a standard company of these guards always has a medusa and several swamp creatures following it. Unfortunately, such a company cannot be posted far from their native swamps.
+Can only be placed in swamps.
+Improves population mood in the Lizardman province by 1.#
+
+70. Phoenix
+#At the moment of danger, a Phoenix summoned from the plane of fire comes up to defend the province. Rumor has it that the contract with this guard was signed by Kza-Kallar himself, the God of Fire who perished in the War of the Gods.
+Incorruptible. Intrepid.#
+
+71. Ancient Guards
+#A contract with guards like these is a very rare thing indeed. The golems created by ancient artisans are not only able to defend your province but to do heavy physical work in peacetime as well.
+Raises province income by 30~.
+Incorruptible. Intrepid.#
+
+72. Lord of the Undead
+#Sometimes powerful undead wizards are looking for a place to do their research. Some lords give them shelter in exchange for protection of the provinces. Such guardians are very difficult to destroy. It is unbearable for residents to have such neighbors - the undead only recognize the power of their creator.
+This guard cannot be disbanded.
+Population mood -2.
+Population growth -2.
+Intrepid. Incorruptible.#
+
+73. Avatar of Light
+#The God blesses his avatar to help protect the province. Residents are happy to have such a guard - practically nobody can threaten them.
+This guard cannot be disbanded.
+Population mood +2.
+Speeds up restoration of units hit points by 20~.
+Intrepid. Incorruptible.#
+
+74. Elementals
+#The forces of nature, the sentinels of the province - a great guard. With such protection nothing can go unnoticed - it's impossible to cheat the wind or conceal footsteps on the ground. The province's residents, seeing the power of the Lord able to command such beings, prefer to keep their discontent to themselves and won't dare open their mouths again.
+This guard cannot be disbanded.
+Unrest growth rate reduced by 3.
+Provides detailed information of neighboring enemy provinces.
+Intrepid. Incorruptible.#
+
+75. Faerie Dragon
+#A dragon from the astral plane can replace a whole army. Magic, which it conducts, appears in the material plane in the form of magic crystals, and in such quantity that it's usually enough for the Lord.
+This guard cannot be disbanded.
+Province gem income +100~.
+Intrepid. Incorruptible.#
+
+76. Lord of Phantoms
+#When a province is protected by powerful and incorporeal, almost invisible and invulnerable psionic creatures, its residents are not so quick to show their anger with their Lord. The soldiers of the garrison don't get their full pay, although they have no idea about that, of course.
+This guard cannot be disbanded.
+Unrest growth rate reduced by 2.
+Reduces the cost of the garrison troops by 35~.
+Intrepid. Incorruptible.#
+
+77. Tribe of barbarians
+#This former tribe of barbarians now guard your province.#
+
+78. Alvari Patrol
+#The dark elves continue to protect their province, but now under your strict rule.#
+
+79. Black Band
+#A large force of dark elves guarding the borders of your province. The locals however, knowing the nature of the Alvari, are not too happy about it. But, that's their problem...
+Population mood -1.
+Does not lower the mood in Alvari provinces.#
+
+80. Army of Darkness
+#When the Dark Elves gather in large formations, few people can resist them - very few are able to overcome such a guard. But the residents of the province leave their house less often with such guardians around, which has an impact on the province's income.
+Population growth -1.
+Province income -10~.
+Population mood -1.
+Does not lower the mood in Alvari provinces.#
+
+81. Elven Guards
+#A large force of elves protects your borders. For some reason, the locals like those guardians.
+Population mood +1.
+Improves population mood in the Elven province by 1.
+Can only be placed in forests.#
+
+82. Elven Army
+#To defeat an army of elves is a very difficult task. They are fast, and despite their size, can do a lot of damage - definitely not easy to overcome. The presence of such an army comforts the locals.
+Population mood +2.
+Improves population mood in the Elven province by 1.
+Can only be placed in forests.#
+
+83. Dwarven Army
+#When dwarves fortify themselves in the hills, kicking them out is almost impossible. Dwarves usually place powerful cannons at key points, reducing enemy numbers considerably. The dwarves' eagerness to delve and did is so great that in peacetime, the dwarves work in the mines and increase the province's mining output.
+Province income +10 if iron is present.
+Province income +15 if marble is present.
+Province income +20 if mithril is present.
+Can only be placed in hills.
+Improves population mood in the dwarven province by 1.#
+
+84. Goblin Gang
+#A large pack of goblins led by a magician is a disaster for the province. These petty thieves are stealing everything that is not nailed down, locals are of course not happy with this state. To beat them however, is not that easy.
+This guard cannot be disbanded.
+Province income -10~.
+Population mood -1.
+Does not lower the mood in Goblin provinces.#
+
+85. Great Horde
+#A huge number of orcs can crush even the most powerful enemy. The Horde only wants to eat forever, but you didn't send them any food. So they're looking for food themselves - taking it from the residents or eating the villagers themselves. This, of course, is not conducive of the peaceful mood of the province's population.
+This guard cannot be disbanded.
+Province income -20~.
+Population growth -1.
+Population mood -2.
+Does not lower the mood in Orc provinces.#
+
+86. Border Guards
+#A party of Halfling border guards are hard to beat. Non-aggressive, but not weak, they are able to successfully resist an enemy assault. As scouts will constantly patrol the borders, it will be hard to approach the province unnoticed.
+The province spotting range is increased.
+Improves population mood in the Halfling province by 1.#
+
+87. Centaur Tribe
+#With a large tribe of centaurs security is very, very high. Few are able to overcome such a strong army. Centaurs are honest and proud beings and will only accept provisions as payment. So you don't need to worry that the enemy will be able to bribe them to his side. That alone is worth such protection. Centaurs can live only in the woods and on the plains.
+Incorruptible.
+Can only be placed on plains or in forests.
+Improves population mood in the Centaur province by 1.#
+
+88. Lizardmen army
+#A large and very strong squad of lizardmen is virtually unbeatable in the marshes. Driven by a powerful spellcaster, this army is capable of defeating a large enemy force. The use of Lizardmen is rather limited, because they cannot live outside their swamps for such a long time.
+Can only be placed in swamps.
+Improves population mood in the Lizardman province by 1.#
+
+89. Gnoll Pack
+#A pack of gnolls is living here. Having recognized your power, they now protect these lands.#
+
+90. Gnoll Gang
+#Allowing a gang of Gnolls guards to protect your land from enemies is not a bad idea, but can be a very painful experience for the locals. Ferocious predators, gnolls are constantly hungry. They satisfy their hunger in the local villages.
+Can only be placed in the plains, forest and hills provinces.
+This guard cannot be disbanded.
+Population growth -2.
+Population mood -1.
+Does not lower the mood in Gnoll provinces.#
+
+91. Gnoll Horde
+#Large horde of voracious predators. Any amount of food will be too low for them. They will therefore take what they lack themselves - virtually decimating the settlement. Naturally, the people are not amused. EXTREMELY DANGEROUS!
+Can only be placed in the plains, forest and hills provinces.
+This guard cannot be disbanded.
+Province income -20~.
+Population growth -3.
+Population mood -2.
+Does not lower the mood in Gnoll provinces.#
+
+92. Winged Watch
+#Winged watches usually consist of a small group of Icari, lead by a Luminary, vigilantly patrolling the area around the Alkari settlement and ready at any time to raise the alarm and if necessary call in reinforcements. In large populations however, the Watches usually consist of more members, and may be lead by Memory Keepers and even Eternal Mentors. All the warriors of the Children of Heaven are faithful to their people and unable to deliberately betray them.
+The province spotting range is increased.
+Incorruptible.#
+
+93. Combat Wing
+#A large group of winged warriors are guarding the borders of the province. The height of their flight allows the Alkari to see very far, so an attack by an enemy is unlikely to surprise them, and the mental power of the accompanying squadron of Witnesses help raise the alarm quickly.
+The province spotting range is increased.
+Incorruptible.
+Improves population mood in the Alkari province by 1.#
+
+94. Celestial Squadron
+#A large army of Children of Heaven, led by Eternal Mentors and Arisen Luminaries, have vowed to guard the peace and quiet of your province and they never break their vows. By combining minds a Celestial Squadron operates like a single organism. Anyone spotted within the protected area is discovered and eliminated, the enemy spy or troops are crushed. 
+The province spotting range is increased.
+Intrepid. Incorruptible.
+Improves population mood in the Alkari province by 1.#
+
+95. Pack of Ratmen
+#A pack of Ratman guards does not bother the locals in the province - Ratmen can be invisible and inaudible when they want. However, the habit to go and browse through other people's food storage has consequences - the gold income from the province is quite noticeably decreased.
+Province income -20~.#
+
+96. Drillers
+#A troop of Ratman Drillers with their mates - quite a strong protection for the province. In peacetime, they are looking for useful deposits, extracting valuable resources from the ground. The locals in the area however, are not too happy about this.
+Can only be placed on plains and hills.
+Raises province income by 25~.
+Population mood -1.
+Does not lower the mood in Ratman provinces.#
+
+97. Ratmen
+#A troop of Ratmen guards your province, and continues to serve you.#
+
+98. Rat King
+#Hordes of Ratmen, led by their king - excellent protection of the province. Protecting their king, the Ratmen are imperceptibly darting along the borders, giving advance warning of any possible attacks. Wanting to curry favor with him, they drag him to the best food - and in large quantities, extracting it from the locals, who obviously do not like that much.
+The province spotting range is increased.
+Province income -10~.
+Population mood -1.
+Does not lower the mood in Ratman provinces.#
+
+99. Gargoyles
+#These seemingly stone sculptures are in fact flying statues that are magically alive. Not the most powerful protection, but also not the weakest defenders.#
+
+100. Slugs
+#Brainless poisonous carcasses as protection for a province - a very original idea: they do not require gold and do not run away from the enemy. On the other hand, they cannot resist snacking on the province's inhabitants, and they are not exactly happy about that.
+Can only be placed in swamps.
+This guard cannot be disbanded.
+Population mood -1.
+Population growth -2.
+Incorruptible. Intrepid.#
+
+101. Mechanicals
+#Dwarven mechanical creations are able to repel any enemy. When there are no enemies, their talents are very useful in the repair of the fortifications.
+Fortification rebuilding sped up by 10~.#
+
+102. Phantoms
+#A creation of the mighty mind, phantoms are tirelessly guarding the province. And the province's inhabitants, acknowledging the power of its ruler, try to keep their unrest to themselves.
+This guard cannot be disbanded.
+Unrest growth rate reduced by 2.
+Intrepid. Incorruptible.#
+
+103. Vassal
+#You made one of your courtiers the rightful owner of the whole province, and you get a strong guard, able to confront the majority of enemies. Moreover, this guard is entirely the responsibility of your vassal. You only get one-tenth of the income from this province, but fair is fair, isn't it?
+This guard cannot be disbanded.
+Province gold and gem income -90~.#
+
+104. Twilight Initiates
+#Often recently trained dark elves are sent to maintain order in a submitted province, to practice their skills. Local inhabitants are not very happy with this, of course, but they keep their discontent to themselves.
+Unrest growth rate reduced by 3.
+Population mood -2.
+Does not lower the mood in Alvari provinces.#
+
+105. Clan of Centaurs
+#Although they have agreed to grant passage through their lands, centaurs do not consider themselves part of your empire. They are ever on guard, vigilantly monitoring the borders of the province.
+This guard cannot be disbanded.
+Province income -100~.
+Incorruptible.#

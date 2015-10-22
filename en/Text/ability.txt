@@ -1,0 +1,1968 @@
+/0 Empty
+##
+
+/1 Hit Points
+#Value: %d.
+Hit Points show how much damage a unit can withstand before he dies.
+When the hit points of a unit decrease to less than half of their maximum value, his attack values decrease, as well.
+Once the unit's hit points reach 0, the unit dies.
+Hit points are slowly restored when a unit is not in combat (10~ per turn). The speed of restoration is further affected by various buildings.#
+
+/2 Attack
+#Value: %d.
+The strength of the unit's melee attack. Determines the damage the unit inflicts on the enemies he strikes.#
+
+/3 Counterattack
+#Value: %d.
+The power of the unit's retaliatory strike. Determines the damage the unit's counterattack inflicts on an enemy that attacked him.#
+
+/4 Defense
+#Value: %d.
+The unit's defense against melee attacks. Decreases the damage received by the unit in melee.#
+
+/5 Ranged Defense
+#Value: %d.
+The unit's defense against arrows and missiles. Decreases the damage received from enemy ranged units.#
+
+/6 Resistance
+#Value: %d.
+The unit's resistance to spells and magical damage. Decreases the damage received from a magical attack, both melee and ranged, as well as the efficiency and duration of harmful spells cast upon him.#
+
+/7 Speed
+#Value: %d.
+The unit's action points on the battlefield. The points are spent on movement, depending on terrain type. An attack takes up all of a unit's remaining action points. All action points are restored each battle turn.#
+
+/8 Ranged Attack
+#Value: %d.
+The power of the unit's shot. Determines the damage inflicted on a target by the unit's missile attack.#
+
+/9 Range
+#Value: %d.
+The maximum range of the unit's ranged attack or healing skill.#
+
+/10 Ammo
+#Value: %d.
+Ranged attacks require ammunition. Once the ammo is down to 0, the unit can no longer fire. Ammo is restored instantly after combat.#
+
+/11 Stamina
+#Value: %d.
+Stamina determines the unit's maximum energy reserve. The energy is spent on attacking, using special skills, and crossing rough terrain. When the unit's energy is down to 5 or less, his attack values and speed decrease. Once it reaches 0, the unit becomes unable to do anything. The unit needs to rest by missing a turn in order to restore some of his energy. Energy is restored instantly after combat.#
+
+/12 Morale
+#Value: %d.
+The unit's confidence of victory. Morale increases whenever the unit kills an enemy unit himself, or an enemy unit dies on a neighboring tile. Morale decreases when the unit is dealt a heavy wound, or an ally dies on a neighboring tile.
+When morale is above 15, the unit's attack values increase. If morale is 5 or less, the unit's attack decreases.
+If the unit's morale falls to 0, he begins to panic.
+After a battle a unit's morale gradually returns to its base level.#
+
+/13 Feels No Pain
+#Wounds have no impact on the unit's attack.#
+
+/14 Flying
+#The unit can fly over other units and impassable tiles. It takes 1 movement point to pass over any terrain, without spending any stamina. The unit is not affected by any landscape features. He cannot be trampled either.#
+
+/15 Floating
+#The unit can float over other units. It takes 1 movement point to pass over any terrain, without spending any stamina. It cannot fly over impassable tiles.#
+
+/16 First Strike
+#Whenever a unit with first strike is attacked, he performs a counterattack before the enemy strikes. This rule does not apply when the enemy possesses first strike as well.#
+
+/17 Armor Piercing Shot
+#The target's ranged defense is effectively halved against this unit's ranged attacks. Not valid when shooting at incorporeal enemies and using Double Shot.#
+
+/18 Tireless
+#The unit spends no stamina on any actions.#
+
+/19 Intrepid
+#The unit's morale does not decrease.#
+
+/20 Double Shot
+#Stamina consumption: %d.
+A special ability allowing the unit to shoot twice at a target, at the expense of some stamina. This shooting is done with less precision than usual, and cannot penetrate enemy armor.#
+
+/21 Recuperation
+#The unit's stamina regain while resting is increased by %d.#
+
+/22 Meditation
+#While resting, the unit recharges his magical ammo by %d.#
+
+/23 Collect Ammo
+#A special ability allowing the unit to collect up to %d units of ammunition per turn.#
+
+/24 Healing
+#A special ability allowing the unit to heal a friendly unit within his shooting range. Restores an average of %d hit points. The healing expends 1 ammo unit. Out of combat the hit points restoration rate for all units in the party is increased when a healer is present.#
+
+/25 Battle Frenzy
+#Once heavily wounded, the unit falls into a rage. As a result, his attack value increases by %d, and wounds do not affect it. The unit's morale cannot get lower than its base value.#
+
+/26 Agility
+#Agile units ignore the opponents' counterattacks while engaging them in melee.#
+
+/27 Magic Strike
+#The unit's melee attack inflicts magic damage, which is only mitigated by the enemy's resistance, not its defense.#
+
+/28 Magic Shot
+#The unit's ranged attack inflicts magic damage, which is only mitigated by the enemy's resistance, not its ranged defense.#
+
+/29 Forced March
+#A special ability allowing the unit to increase his speed by 1 until the end of the turn at the cost of 3 units of stamina.#
+
+/30 Spell Immunity
+#The unit is not affected by any spells.#
+
+/31 Break spell
+#The unit can use a ranged attack to reduce the duration of enemy spells by %d.#
+
+/32 Forest Knowledge;
+#Value: %d.
+The unit feels at home in the woods. It spends only one movement point to pass through a forest tile. The unit's increased knowledge of the woods gives it additional defense while in a forest.#
+
+/33 Hills Knowledge
+#Value: %d.
+The unit feels at home in the hills. It spends only one movement point to pass through a hill tile, without wasting any stamina. Moreover, the unit's increased knowledge gives him some additional defense when fighting in the hills.#
+
+/34 Swamp Knowledge
+#Value: %d.
+The unit feels at home in the swamps. It spends only one movement point to pass through a swamp tile, without wasting any stamina. Moreover, the unit's increased knowledge gives him some additional defense when fighting in swamps.#
+
+/35 First Aid
+#While resting, the unit regains %d more hit points. Speeds up hit points restoration when not in combat.#
+
+/36 Immobilized
+#The unit is unable to do anything.#
+
+/37 Charge
+#Amount of damage: +%d per tile.
+The unit is taught to deal additional damage in melee, depending on how far away the opponent is at the start of the turn.
+No effect on incorporeal enemies.#
+
+/38 Does not fight
+#The unit is not able to attack or counterattack an enemy in melee.#
+
+/39 Armorpiercing Strike
+#The target's defense is effectively halved against this unit's attacks. Not valid when attacking incorporeal enemies.#
+
+/40 Stunning Blow
+#Each of the unit's attacks reduces the target's stamina by %d. No effect on incorporeal enemies.#
+
+/41 Poison Attack
+#The unit poisons the enemies it attacks in melee, making them lose %d hit points per turn for 3 turns.#
+
+/42 Poison Immunity
+#The unit is not affected by poison.#
+
+/43 Hex
+#An enemy struck by this unit is affected by a curse, reducing its strength, armor and resistance by 1. The curse remains active for several turns. An enemy's resistance reduces its duration.#
+
+/44 Steal Ammo
+#When attacking an enemy in melee, the unit reduces the target's ammunition reserve by %d. No effect on incorporeal enemies.#
+
+/45 Damage Armor
+#When attacking an enemy in melee, the unit reduces the target's defense by 1. The effect lasts for 3 turns. No effect on incorporeal enemies.#
+
+/46 Petrification
+#This special ranged attack allows the unit to turn the enemy into a statue for %d turns. A petrified enemy cannot do anything, but its armor and resistance are increased. An enemy's resistance can reduce the duration of the petrification.#
+
+/47 Web
+#This special ranged attack allows the unit to entangle an enemy in a web for 2 turns. An entangled enemy cannot do anything. The higher the enemy's attack is, the quicker it will free itself.#
+
+/48 Regeneration
+#The unit recovers %d hit points per turn. Speeds up hit points restoration when not in combat.#
+
+/49 Necrophage
+#This special ability allows the unit to consume corpses, thus regaining up to %d hit points. Animals eating corpses can restore their ammo (if any).#
+
+/50 Intimidation
+#When attacking an enemy in melee, the unit reduces the target's morale by %d.#
+
+/51 Crippling Strike
+#When attacking an enemy in melee, the unit reduces the target's speed by 1 for %d turns. No effect on incorporeal enemies.#
+
+/52 Damage Weapon
+#Effect duration: %d.
+Any creature attacking this unit in melee damages its weapon - attack and counterattack are reduced by 1. No effect on incorporeal enemies.#
+
+/53 Parry
+#When the unit is attacked in melee for the first time during the current turn, its defense is increased by %d.#
+
+/54 Forager
+#This unit is able to fend for itself. The cost of its upkeep is reduced by %d gold. The higher the unit's level, the greater the savings will be.#
+
+/55 Siege
+#Increases the speed with which enemy fortifications are destroyed by %d.#
+
+/56 Marauder
+#The unit claims a portion of the trophies after a battle, reducing the looting income by %d~.#
+
+/57 Soul Stealing
+#Having killed an enemy in melee, the unit consumes its soul, restoring %d hit points.#
+
+/58 Plunderer
+#The unit resorts to robbery in his spare time, decreasing the tax income of the province he is located in by %d~.#
+
+/59 Crushing Blow
+#Stamina consumption: %d.
+This special skill allows the unit to perform a melee strike inflicting 50~ more damage at the cost of some stamina.#
+
+/60 Enchanted Arrows
+#The unit's ranged attacks inflict %d points of magical damage on the enemy in addition to physical damage.#
+
+/61 Smite Evil
+#Value: %d.
+The unit inflicts additional damage on enemies whose souls are tainted by evil.#
+
+/62 Change Type
+#Changes the unit type.#
+
+/63 Stomp
+#When attacking an enemy in melee, the unit can trample it if the enemy has %d or less hit points left after the attack. Having made the kill, the unit moves to the tile previously occupied by its opponent. Flying enemies and large opponents are impossible to trample.#
+
+/64 Lord of the Undead
+#Killing an enemy soldier raises it as an obedient undead.
+Raises the creature - %s.
+At the extra cost of 1 stamina point the unit can attack with Dark Revival 3. An enemy soldier killed like this will not be raised, but 1 ammo is restored instead.#
+
+/65 Mass Attack
+#The unit attacks all enemies in adjacent tiles.#
+
+/66 Round Attack
+#Stamina consumption: %d.
+This special ability allows the unit to attack all enemies in adjacent tiles at the cost of some stamina.#
+
+/67 Roots
+#The unit entangles an enemy it attacks in melee with his roots, preventing it from moving for 3 turns. No effect on incorporeal enemies.#
+
+/68 Bloodsucker
+#Having struck an enemy in melee, the unit restores %d~ of the damage dealt as hit points.#
+
+/69 Heavy Ammo
+#The unit's missiles are so heavy they damage the target's armor, reducing its ranged defense by 1. The effect lasts for 3 turns. No effect on incorporeal enemies.#
+
+/70 Precise Strike
+#The unit's melee attacks are particularly accurate, ignoring up to %d of the enemy's defense. No effect on incorporeal enemies.#
+
+/71 Precise Shot
+#The unit's ranged attacks are particularly accurate, ignoring up to %d of the enemy's ranged defense. No effect on incorporeal enemies.#
+
+/72 Poison Shot
+#The unit poisons the target with its shots, making it lose %d hit points per turn for 3 turns.#
+
+/73 Cause Vulnerability
+#Whenever the unit inflicts melee damage to an enemy, it affects the target with the «Vulnerability» spell.#
+
+/74 Cause Disease
+#Whenever the unit inflicts melee damage to an enemy, it infects the target with a disease.#
+
+/75 Gold Income
+#Increases gold income by %d.#
+
+/76 Gem Income
+#Increases gem income by %d.#
+
+/77 Learn Spell
+#Allows the hero to learn a spell. In order to do so, the hero needs to take the scroll to a library and place it into his spell slot there.#
+
+/78 Summon Creature
+#Allows the hero to summon a creature. In order to do so, the hero needs to take the object to the garrison and place it into a unit slot of the corresponding rank. Different creatures require different buildings to be constructed in the Stronghold first.#
+
+/79 Increased Upkeep
+#The unit requires more gold than usual. The level of increase depends on the unit's rank.#
+
+/80 Cannot Move
+#The unit is unable to move.#
+
+/81 Spellpower
+#Increases the power of spells cast by %d.#
+
+/82 Spell Duration
+#Increases the duration of spells cast by %d.#
+
+/83 Summoning Power
+#Increases the strength of units summoned by %d. If the summon creature is undead, the strength increases only by %d, and if it's a demon by %d.#
+
+/84 Resistance Negation
+#Decreases the spell target's resistance by %d.#
+
+/85 Undead Summoning Power
+#Increases the strength of undead risen by %d.#
+
+/86 Fast Draw
+#The hero can change weapons in battle without spending a turn.#
+
+/87 Sabotage
+#Increases the effect of sabotage performed by the hero by %d.#
+
+/88 Province Plunder
+#Increases the income from plundering the provinces by %d~.#
+
+/89 Decrease Spell Cost
+#Decreases the cost of spellcasting by %d~ gems.#
+
+/90 Fast Casting
+#Can cast 2 spells per turn, if their levels combined is less than %d.#
+
+/91 Gold for Quests
+#Increases the gold rewards for quest completion by %d~.#
+
+/92 Army Experience
+#Increases experience gained by the troops by %d~.#
+
+/93 Hero Experience
+#Increases experience gained by the hero by %d~.#
+
+/94 Looting
+#Increases the amount of gold and gems received by %d~ when collecting trophies. Increases the chance of obtaining an item from a fallen enemy.#
+
+/95 Ranged Weapon
+#Increases shooting strength by %d.#
+
+/96 Wand Firing
+#Increases wand shooting strength by %d.#
+
+/97 Item Maintenance
+#Lowers the deterioration of weapons and armor by %d~.#
+
+/98 Province Exploration
+#Value: %d.
+Speeds up province exploration.#
+
+/99 Lower upkeep
+#The unit's gold upkeep is reduced by %d~ and its gem upkeep by %d~.#
+
+/100 Mobility
+#Value: %d.
+The party's movement speed on the global map. The base mobility of an army is determined by the speed of its slowest unit. It can be increased by special buildings and by heroes' skills.#
+
+/101 Initiative
+#Value: %d.
+In combat, the party whose commander's initiative is higher, moves first. When leaders have equal initiative, the attacker moves first.#
+
+/102 Transformed
+#This unit was transformed into something else by a powerful spell.#
+
+/103 Summoned
+#This unit was summoned by magic. When the battle is over, he will disappear.#
+
+/104 Curse Spell
+#This unit can cast the Curse spell, reducing the target's attack and defense.
+Ammo units consumed by casting: %d.#
+
+/105 Vulnerability Spell
+#This unit can cast the Vulnerability spell, reducing the target's defense and resistance.
+Ammo units consumed by casting: %d.#
+
+/106 Fireball Spell
+#This unit can cast the Fireball spell, striking several enemies at once with magic fire.
+Ammo units consumed by casting: %d.#
+
+/107 Bless Spell
+#This unit can cast the Bless spell, increasing the target's defense and attack, and restoring 2 stamina points.
+Ammo units consumed by casting: %d.#
+
+/108 Exorcism Spell
+#This unit can cast the Exorcism spell, inflicting damage on demons and the undead.
+Ammo units consumed by casting: %d.#
+
+/109 Air Shield Spell
+#This unit can cast the Air Shield Spell, increasing the target's ranged defense and resistance.
+Ammo units consumed by casting: %d.#
+
+/110 Fear Spell
+#This unit can cast the Fear spell, reducing the target's morale.
+Ammo units consumed by casting: %d.#
+
+/111 Raise Skeleton Spell
+#This unit can cast the Raise Skeleton spell, creating a skeleton from a slain unit's corpse.
+Ammo units consumed by casting: %d.#
+
+/112 Inspiration Spell
+#This unit can cast the Inspiration spell, restoring some of the target's morale and stamina.
+Ammo units consumed by casting: %d.#
+
+/113 Summon Imp Spell
+#This unit can cast the Summon Imp spell, summoning an imp to an adjacent tile. The caster loses 3 hit points.
+Ammo units consumed by casting: %d.#
+
+/114 Dispel Spell
+#This unit can cast the Dispel spell, dispelling enemy incantations and inflicting damage on summoned creatures.
+Ammo units consumed by casting: %d.#
+
+/115 Life Drain Spell
+#This unit can cast the Life Drain spell, inflicting damage on all enemies within 1 tile and healing the caster's wounds.
+Ammo units consumed by casting: %d.#
+
+/116 Command
+#Value: %d.
+One of the three core attributes of the heroes. The higher the hero's command is, the more units can join his army.
+This is the most important attribute for a Commander.#
+
+/117 Magic
+#Value: %d.
+One of the three core attributes of the heroes. The higher the hero's magic is, the more spells he can learn.
+This is the most important attribute for a Wizard.#
+
+/118 Health
+#Value: %d.
+One of the three core attributes of the heroes. The higher the hero's health, the higher are his hit points, stamina, and morale. Health increases the hero's hit points restoration rate when not in combat.
+This is the most important attribute for a Warrior.#
+
+/119 Experience Level
+#Value: %d.
+Heroes gain experience in combat and for completing quests. When the hero's experience reaches a certain value, he advances to the next level, and one of his attributes and one of his skills increases.
+Upon reaching level 10, the hero gets to choose among four elite professions. Upon reaching level 20, the hero becomes a master of the chosen profession. 30 is the highest level available. 
+Ordinary units also gain experience. By reaching a higher experience level, a unit can increase one of his attributes or learn a new skill.#
+
+/120 Guard Contract
+#A guard contract is not placed into the hero's inventory. Instead, it is added to the list of guards available for hire.#
+
+/121 Building Schematics
+#Building schematics are not placed into the hero's inventory. Instead, they are added to the list of buildings available for construction in provinces.#
+
+/122 Astral Energy Spell
+#This unit can cast the Astral Energy spell, restoring the target's stamina and increasing its resistance.
+Ammo units consumed by casting: %d.#
+
+/123 Raise Zombie Spell
+#This unit can cast the Raise Zombie spell, creating a zombie from a slain unit's corpse.
+Ammo units consumed by casting: %d.#
+
+/124 Haste Spell
+#This unit can cast the Haste spell, increasing the target's speed and gradually restoring its stamina.
+Ammo units consumed by casting: %d.#
+
+/125 Slow Spell
+#This unit can cast the Slow spell, reducing the target's speed and making it gradually lose its stamina.
+Ammo units consumed by casting: %d.#
+
+/126 Ritual Scroll
+#This scroll is not placed into the hero's inventory. Instead, it is added to the list of available rituals.#
+
+/127 Treasure Hunt
+#The hero gains %d~ more gold and gems while searching special locations.#
+
+/128 Restoration Spell
+#This unit can heal an ally, restoring 12 hit points, removing poisoning and reducing the duration of harmful spells. Has no effect on undead and mechanical units.
+Ammo units consumed by casting: %d.#
+
+/129 Word of Power Spell
+#This unit can cast the Word of Power spell, subduing the target with a resistance of 3 or less for one turn. Does not affect the undead, mechanical units and heroes.
+Ammo units consumed by casting: %d.#
+
+/130 Resurrection Spell
+#This unit can bring a friendly unit slain in battle back to life and full health. Has no effect on undead and mechanical units.
+Ammo units consumed by casting: %d.#
+
+/131 Mass Curse Spell
+#This unit can cast the Mass Curse spell, reducing the combat abilities of the whole enemy army for 6 turns.
+Ammo units consumed by casting: %d.#
+
+/132 Energy Control
+#The ability to control magic energy allows the unit to ignore %d points of the target's resistance while using a magical ranged attack.#
+
+/133 Poison Flesh
+#The flesh of this creature is so venomous that anyone attacking it in melee will be intoxicated with poison of strength %d.#
+
+/134 Reincarnation
+#If this creature is killed in battle, it will rise again with maximum health. This ability only works once per battle.#
+
+/135 Tolerance
+#The unit's morale does not decrease when his alignment conflicts with the Master's or with other units in the party.#
+
+/136 Necromancer's Call
+#The hero may keep in his army undead which are %d levels higher than his Necromancy skill would normally allow.
+Undead units recover hit points %d~ faster.
+Reduce the cost of keeping undead units after a battle by %d~.
+Decrease the upkeep of undead units.#
+
+/137 Raise Ghoul Spell
+#This unit can cast the Raise Ghoul Spell, creating a Ghoul from a slain unit's corpse.
+Ammo units consumed by casting: %d.#
+
+/138 Raise Ghost Spell
+#This unit can cast the Raise Ghost Spell, creating a Ghost from a slain unit's corpse.
+Ammo units consumed by casting: %d.#
+
+/139 Cure Wounds Spell
+#Restores hit points of the target by 7. Has no effect on undead and mechanical units.
+Ammo units consumed by casting: %d.#
+
+/140 Aard Sign
+#Telekinetic blow that stuns and slows down the enemy. Target loses 8 points of stamina instantly and its speed is reduced by 1 for 3 turns. Magic Resistance only partially reduces the damage from this spell. Ignores magic immunity.
+Ammo units consumed by casting: %d.#
+
+/141 Igni Sign
+#Creates a fiery arrow, inflicting 8 points of damage. Magic Resistance only partially reduces the damage from this spell.
+Ammo units consumed by casting: %d.#
+
+/142 Quen Sign
+#Creates a protective shield that increases the armor and magic resistance of the Witcher by 2 points. Lasts 3 turns.
+Ammo units consumed by casting: %d.#
+
+/143 Undead Regeneration Spell
+#Under the influence of this spell the undead restore hit points each turn. Duration 4 turns.
+Ammo units consumed by casting: %d.#
+
+/144 Stinking Cloud Spell
+#Poisons all living creatures within 1 tile. A poisoned unit loses 3 hit points immediately, and 3 hit points and 1 stamina point each turn. Attack and speed are reduced by 1. Lasts 2 turns.
+Ammo units consumed by casting: %d.#
+
+/145 Sinister Howl
+#A terrifying howl scares enemies. Reduces morale points by 3. Ignores magic immunity and spell resistance. Has no effect on undead and mechanical units.
+Ammo units consumed by casting: %d.#
+
+/146 Mind Control
+#This unit can cast the Mind Control Spell. For one turn it takes control of an enemy unit, whose resistance is 4 or lower. Does not affect the undead, mechanical units and heroes.
+Ammo units consumed by casting: %d.#
+
+/147 Sacrifice
+#This unit can use the life force of one unit to heal another. A friendly unit needs to be sacrificed for this incantation. Heals target for 25 hit points.
+Has no effect on undead and mechanical units.
+Ammo units consumed by casting: %d.#
+
+/148 Fireblast
+#This unit can cast the Fireblast Spell, creating a huge fireblast that ignites the targets.
+Ammo units consumed by casting: %d.#
+
+/149 Hellgates
+#This unit can cast the Hellgates Spell, which can move a friendly demon unit into a free tile.
+Ammo units consumed by casting: %d.#
+
+/150 Suicide
+#This unit can cast the Suicide Spell, causing one enemy unit to inflict damage on itself.
+Ammo units consumed by casting: %d.#
+
+/151 Submission
+#This unit can cast the Submission Spell, which allows it to possess an enemy unit for 2 turns. Does not affect the undead, mechanical units and heroes.
+Ammo units consumed by casting: %d.#
+
+/152 Unholy Word
+#This unit can cast the Unholy Word Spell, dealing 13 magical damage to all mortal creatures on the battlefield. Does not affect demons, undead, mechanical units and heroes. Magic immunity does not apply.
+Ammo units consumed by casting: %d.#
+
+/153 Healing Spell
+#This unit can cast the Healing spell, healing the target for 4 hit points, and reducing the duration of negative magical effects. Has no effect on undead and mechanical units.
+Ammo units consumed by casting: %d.#
+
+/154 Fire Immunity
+#Grants the unit immunity from fire spells: Fireball, Armageddon, Incineration, Firestorm, Igni Sign, Fireblast, Fire Shot, Fire Storm, Fire Rain, Mass Fire Immunity, Cleansing Flame, Volcano, Scorching Ground and Solar Blast.#
+
+/155 Summon Huorn Spell
+#This unit can cast the Summon Huorn Spell, summoning a Huorn to an adjacent tile.
+Ammo units consumed by casting: %d.#
+
+/156 Magic Shield Spell
+#This unit can cast the Magic Shield Spell, increasing the target's defense by 4 points.
+Ammo units consumed by casting: %d.#
+
+/157 Summon Wasp Swarm Spell
+#This unit can cast the Summon Wasp Swarm spell, summoning a swarm of stinging insects, preventing an enemy unit from shooting and dealing them damage. Has no effect on undead and mechanical units.
+Ammo units consumed by casting: %d.#
+
+/158 Summon Wasp Cloud Spell
+#This unit can cast the Summon Wasp Cloud spell, summoning several swarms of stinging insects, preventing all enemy units from shooting and dealing them damage. Has no effect on undead and mechanical units.
+Ammo units consumed by casting: %d.#
+
+/159 Life Breath Spell
+#This unit can cast the Life Breath spell, restoring 5 hit points to a unit and curing poisoning. Has no effect on undead and mechanical units.
+Ammo units consumed by casting: %d.#
+
+/160 Explosive Shot
+#This unit can use a special shot that inflicts full damage to the primary target and partial damage to all units around it.
+The purpose of the shot is to cause additional injury.
+The shot uses up additional ammo: %d.#
+
+/161 Fire Shot
+#This unit can use a special shot that inflicts half of the normal damage to its target and all units around it. Does magical damage.
+Also ignites all targets.
+The shot uses up additional ammo: %d.#
+
+/162 Rune of Restoration
+#This unit can cast the "Rune of Restoration" spell, restoring health to a friendly mechanical unit, and restores one ammo.
+Ammo units consumed by casting: %d.#
+
+/163 Rune of Decay
+#This unit can cast the "Rune of Decay" spell, inflicting 8 points of damage and destroying 4 ammo. Affects only mechanical units. Magic Resistance and Magic Immunity offer no protection from this spell.
+Ammo units consumed by casting: %d.#
+
+/164 Rune of Renewal
+#This unit can cast the "Rune of Renewal" spell, restoring health to all friendly mechanical units.
+Ammo units consumed by casting: %d.#
+
+/165 Rune of Power
+#This unit can cast the Rune of Power spell, taking control of an enemy unit for 2 turns. Magic Resistance and Magic Immunity offer no protection from this spell.
+Affects only mechanical units.
+Ammo units consumed by casting: %d.#
+
+/166 Stone Spikes
+#This unit can cast the Stone Spikes Spell, dealing 4 points of damage to all units within 1 tile. The caster loses 3 hit points.
+Ammo units consumed by casting: %d.#
+
+/167 Vampiric Touch
+#This unit can cast the Vampire Touch spell, restoring the unit's health by attacking an enemy unit.
+Ammo units consumed by casting: %d.#
+
+/168 Mighty Weapon
+#This unit can cast the Mighty Weapon spell, increasing the attack and counterattack of the target by 3.
+Ammo units consumed by casting: %d.#
+
+/169 Starfall
+#This unit can cast the Starfall spell, dealing 10 damage to all units within 1 tile. The caster loses 6 hit points.
+Ammo units consumed by casting: %d.#
+
+/170 Rage
+#This unit can cast the Rage spell, increasing the attack and counterattack of a friendly unit, giving it Bloodlust 3 and Quick Restoration (2 hit points per turn).
+Ammo units consumed by casting: %d.#
+
+/171 Insanity
+#This unit can cast the Insanity spell, inflicting 10 magical damage, reducing stamina by 5 and morale by 2 and restoring the caster's health, stamina and morale (amount depends on the inflicted damage)
+Magic Resistance only partially protects from this spell
+Ammo units consumed by casting: %d.#
+
+/172 Mass Rage
+#This unit can cast the Mass Rage Spell, increasing the attack and counterattack of all friendly units, giving them Bloodlust 3 and Quick Restoration (2 hit points per turn).
+Ammo units consumed by casting: %d.#
+
+/173 Horde's Rage
+#This unit can cast the Horde's Rage spell, granting all friendly units the ability to reduce the enemy's morale with each hit.
+Ammo units consumed by casting: %d.#
+
+/174 Chieftain Order
+#This unit can cast the Chieftain Order spell, dealing a friendly unit 5 points of damage, but giving it an extra turn.
+Ammo units consumed by casting: %d.#
+
+/175 Quagmire
+#This unit can cast the Quagmire spell, reducing the target's speed and its defense and ranged defense.
+Ammo units consumed by casting: %d.#
+
+/176 Weakness
+#This unit can cast the Weakness spell, reducing the attack, ranged attack and counterattack of the target by 3.
+Ammo units consumed by casting: %d.#
+
+/177 Armor Break
+#This unit can cast the Armor Break spell, decreasing the target's defense and ranged defense by 6.
+Ammo units consumed by casting: %d.#
+
+/178 Plague
+#This unit can cast the Plague spell, infecting all living creatures within 1 tile with disease.
+Ammo units consumed by casting: %d.#
+
+/179 Geyser
+#This unit can cast the Geyser spell, dealing 15 magical damage to all units within 1 tile.
+Ammo units consumed by casting: %d.#
+
+/180 Power Word - Curse
+#This unit can cast the Power Word Curse spell, reducing the target's attack to zero. Resistance protects only partially against this spell.
+Ammo units consumed by casting: %d.#
+
+/181 Power Word - Hold
+#This unit can cast the Power Word Hold spell, preventing the target from moving and fighting. Resistance protects only partially against this spell.
+Ammo units consumed by casting: %d.#
+
+/182 Power Word - Pain
+#This unit can cast the Power Word Pain spell, causing the target severe pain. Resistance protects only partially against this spell.
+Ammo units consumed by casting: %d.#
+
+/183 Summon Water Elemental
+#This unit can cast the Summon Water Elemental spell, summoning a Water Elemental to an adjacent tile.
+Ammo units consumed by casting: %d.#
+
+/184 Glacial Heart
+#This unit can cast the Glacial Heart spell, making the target fearless and immune to poison, but dealing 3 points of damage each turn. Ignores magic resistance.
+Ammo units consumed by casting: %d.#
+
+/185 Freeze
+#This unit can cast the Freeze spell, immobilizing the target, and dealing 8 points of magic damage.
+Ammo units consumed by casting: %d.#
+
+/186 Ice Chunk Spell
+#This unit can cast the Ice Chunk spell, dealing physical damage to the target.
+Ammo units consumed by casting: %d.#
+
+/187 Armor Piercing Shot
+#This unit can cast the Armor Piercing Shot spell, giving the target the armorpiercing shot ability.
+Ammo units consumed by casting: %d.#
+
+/188 Thick Fog Spell
+#This unit can cast the Thick Fog spell, reducing the ranged attack of all enemy shooters on the battlefield by 5. Magic Resistance and Magic Immunity offer no protection from this spell.
+Ammo units consumed by casting: %d.#
+
+/189 Double Shot Spell
+#This unit can cast the Double Shot spell, granting a friendly unit the double shot ability.
+Ammo units consumed by casting: %d.#
+
+/190 Enchanted Arrow Spell
+#This unit can cast the Enchanted Arrow spell, dealing 10 points of physical damage to the target.
+Ammo units consumed by casting: %d.#
+
+/191 Ancestral Rage
+#This unit can cast the Ancestral Rage spell, increasing the attack and counterattack of the target by 3 and its speed by 1.
+Ammo units consumed by casting: %d.#
+
+/192 Ancestral Shield
+#This unit can cast the Ancestral Shield spell, increasing defense and ranged defense of the target by 3 and its resistance by 1.
+Ammo units consumed by casting: %d.#
+
+/193 Sparks
+#This unit can cast the Sparks spell, dealing magical damage to multiple units. Resistance protects only partially against this spell.
+Ammo units consumed by casting: %d.#
+
+/194 Electric Shock
+#This unit can cast the Electric Shock spell, inflicting a huge amount of magical damage. Resistance protects only partially against this spell.
+Ammo units consumed by casting: %d.#
+
+/195 Storm
+#This unit can cast the Storm spell, dealing damage to multiple units. Resistance protects only partially against this spell.
+Ammo units consumed by casting: %d.#
+
+/196 Frenzy
+#This unit can cast the Frenzy spell, increasing the attack and counterattack of the target by 3 points.
+Ammo units consumed by casting: %d.#
+
+/197 Bloodlust
+#This unit can cast the Bloodlust spell, increasing the attack and counterattack of the target by 3, its speed by 1 and granting the ability to restore health by dealing melee damage.
+Ammo units consumed by casting: %d.#
+
+/198 Snare Spell
+#This unit can cast the Snare spell, damaging the enemy and reducing its speed by 1. Magic Resistance and Magic Immunity offer no protection from this spell.
+Ammo units consumed by casting: %d.#
+
+/199 Trap Spell
+#This unit can cast the Trap spell, badly damaging the enemy and reducing its speed by 1. Magic Resistance and Magic Immunity offer no protection from this spell.
+Ammo units consumed by casting: %d.#
+
+/200 Swamp Poison Spell
+#This unit can cast the Swamp Poison spell, reducing the enemy's speed by 1 and making it lose stamina each turn. Ignores magic resistance.
+Ammo units consumed by casting: %d.#
+
+/201 Regeneration Spell
+#This unit can cast the Regeneration spell, restoring health for several turns, slightly increasing the target's resistance and making it immune to poison.
+Ammo units consumed by casting: %d.#
+
+/202 Poison Weapon Spell
+#This unit can cast the Poison Weapon spell, making the melee attack of the target poisonous.
+Ammo units consumed by casting: %d.#
+
+/203 Devour Spell
+#This unit can cast the Devour spell, taking hit points from a friendly unit and giving it to the caster.
+Ammo units consumed by casting: %d.#
+
+/204 Word of Life Spell
+#This unit can cast the Word of Life spell, increasing its attack, counterattack and speed by 1 each turn, and also restoring some hit points and stamina points to the target.
+Ammo units consumed by casting: %d.#
+
+/205 Mass Heal Spell
+#This unit can cast the Mass Heal spell, restoring hit points of all friendly units.
+Ammo units consumed by casting: %d.#
+
+/206 Mass Defense Spell
+#This unit can cast the Mass Defense spell, increasing the armor and resistance of all friendly units.
+Ammo units consumed by casting: %d.#
+
+/207 White Magic Spell
+#This unit can cast the White Magic spell, dealing damage to enemies and healing friendly units. The caster loses 15 hit points.
+Ammo units consumed by casting: %d.#
+
+/208 Swiftness Spell
+#This unit can cast the Swiftness spell, increasing its speed and restoring stamina each turn.
+Ammo units consumed by casting: %d.#
+
+/209 Dispel Magic Spell
+#This unit can cast the Dispel Magic spell, reducing the duration of negative effects of friendly units and positive effects on enemy units.
+Ammo units consumed by casting: %d.#
+
+/210 Demon Slayer Spell
+#This unit can cast the Demon Slayer spell, increasing damage dealt to evil creatures, especially demons and undead.
+Ammo units consumed by casting: %d.#
+
+/211 Grace Spell
+#This unit can cast the Grace spell, increasing all types of attack, all types of defense and the resistance of the target by 2. The target recovers 2 hit points each turn.
+Ammo units consumed by casting: %d.#
+
+/212 Divine Seal Spell
+#This unit can cast the Divine Seal spell, preventing the target from casting spells. Magic immunity does not apply.
+Ammo units consumed by casting: %d.#
+
+/213 Hard as Stone Spell
+#This unit can cast the Hard as Stone spell, increasing all types of defense and resistance of the target by 4.
+Ammo units consumed by casting: %d.#
+
+/214 True Resurrection Spell
+#This unit can bring a friendly unit slain in battle back to life and full health. Does not affect the undead, demons and mechanical units.
+Ammo units consumed by casting: %d.#
+
+/215 Sanctuary Spell
+#This unit can cast the Sanctuary spell, increasing all types of attack by 2, all types of defense and resistance of the target by 5 and making the enchanted unit immune to spells.
+Does not affect the undead and demons.
+Ammo units consumed by casting: %d.#
+
+/216 Divine Warp Spell
+#This unit can cast the Divine Warp spell, moving the target unit to a free tile. Works only on friendly units. The spell has no effect on undead and demons.
+Ammo units consumed by casting: %d.#
+
+/217 Divine Light Spell
+#This unit can cast the Divine Light spell, reducing all types of attack of all enemies within 2 tiles to zero. Resistance protects only partially against this spell.
+Ammo units consumed by casting: %d.#
+
+/218 Holy Word Spell
+#This unit can cast the Holy Word spell, inflicting damage to all enemies on the battlefield. Ignores magic resistance.
+Ammo units consumed by casting: %d.#
+
+/219 Divine Vengeance Spell
+#This unit can cast the Divine Vengeance spell, dealing damage to all demons and undead within 2 tiles.
+Ammo units consumed by casting: %d.#
+
+/220 Summon Skeleton Spell
+#This unit can cast the Summon Skeleton spell, summoning a skeleton to an adjacent tile.
+Ammo units consumed by casting: %d.#
+
+/221 Enslave Mind Spell
+#This unit can cast the Enslave Mind spell, taking control of an enemy unit.
+Ammo units consumed by casting: %d.#
+
+/222 Summon Wyvern Spell
+#This unit can cast the Summon Wyvern spell, summoning a Wyvern to an adjacent tile. Requires a fresh corpse.
+Ammo units consumed by casting: %d.#
+
+/223 Fire Storm Spell
+#This unit can cast the Fire Storm spell, inflicting damage to all units within a range of 2 tiles and igniting the targets.
+Ammo units consumed by casting: %d.#
+
+/224 Chilling Lightning Spell
+#This unit can cast the Chilling Lightning Spell, dealing physical damage to a single unit.
+Ammo units consumed by casting: %d.#
+
+/225 Order Spell
+#This unit can cast the Order Spell, taking control of an enemy unit.
+Ammo units consumed by casting: %d.#
+
+/226 Ice Immunity
+#Grants the unit immunity to ice and cold based spells: Word of Ice, Geyser, Freeze, Ice Storm and Ice Snake.#
+
+/227 Air Immunity
+#Grants the unit immunity to air and electricity based spells: Magic Spark, Lightning, Sparks, Electric Shock, Storm, Celestial Thunder, Chain Lightning, Head Wind, Lightning Ball and Mass Grounding.#
+
+/228 Bombardment
+#This unit can use a special shot that not only inflicts damage to its target, but also to all units around it. It does half the amount of damage.
+The shot uses up additional ammo: %d.#
+
+/229 Mind Control Immunity
+#Grants the unit immunity to mind affecting spells and abilities: Fear, Sleep, Hallucinations, Word of Power, Cloud of Terror, Mass Suicide, Enslave Mind, Terrible Howl, Mind Control, Suicide, Submission, Intercept Control (only Mechanicals), Order, Deadly Terror, Panic, Imaginary Assassin, Bind Will, Strong Mind, Control Undead (only Undead), Banshee's Howl, Paralyze, Mass Sleep, Axii Sign, Healing Sleep, Nightmare, Horror, Confusion and Fierce Roar.#
+
+/230 Celestial Thunder Spell
+#This unit can cast the Celestial Thunder spell, dealing damage to a single unit. Resistance protects only partially against this spell.
+Ammo units consumed by casting: %d.#
+
+/231 Chain Lightning Spell
+#This unit can cast the Chain Lightning spell, inflicting damage to all units within a range of 2 tiles. Resistance protects only partially against this spell.
+Ammo units consumed by casting: %d.#
+
+/232 Head Wind Spell
+#This unit can cast the Head Wind spell, reducing the range, ranged attack and speed of the target unit by 1. Ignores magic resistance.
+Ammo units consumed by casting: %d.#
+
+/233 Sluggishness Spell
+#This unit can cast the Sluggishness spell, slowing the target and making it lose stamina each turn.
+Ammo units consumed by casting: %d.#
+
+/234 Quicksand Spell
+#This unit can cast the Quicksand spell, slowing all enemies within 1 tile and causing them to gradually lose stamina. Magic Resistance and Magic Immunity offer no protection from this spell.
+Ammo units consumed by casting: %d.#
+
+/235 Earthquake Spell
+#This unit can cast the Earthquake spell, inflicting physical damage to all enemy units. Resistance protects only partially against this spell. Magic immunity does not apply.
+Ammo units consumed by casting: %d.#
+
+/236 Fire Rain Spell
+#This unit can cast the Fire Rain spell, inflicting damage to all units within 1 tile and inflicting serious burns.
+Ammo units consumed by casting: %d.#
+
+/237 Mass Fire Immunity Spell
+#This unit can cast the Mass Fire Immunity spell, granting all friendly units immunity to fire and slightly increasing their ranged defense.
+Ammo units consumed by casting: %d.#
+
+/238 Cleansing Flame Spell
+#This unit can cast the Cleansing Flame spell, inflicting damage to all units on the battlefield and igniting them. Caster loses 50 hit points.
+Ammo units consumed by casting: %d.#
+
+/239 Summon Air Elemental
+#This unit can cast the Summon Air Elemental spell, summoning an Air Elemental to an adjacent tile.
+Ammo units consumed by casting: %d.#
+
+/240 Summon Earth Elemental
+#This unit can cast the Summon Earth Elemental spell, summoning an Earth Elemental to an adjacent tile.
+Ammo units consumed by casting: %d.#
+
+/241 Summon Fire Elemental
+#This unit can cast the Summon Fire Elemental spell, summoning a Fire Elemental to an adjacent tile.
+Ammo units consumed by casting: %d.#
+
+/242 Summon Living Armor
+#This unit can cast the Summon Living Armor spell, summoning Living Armor to an adjacent tile.
+Ammo units consumed by casting: %d.#
+
+/243 Summon Lord of Abyss
+#This unit can cast the Summon Lord of Abyss spell, summoning a Lord of Abyss to an adjacent tile. Caster loses 20 hit points.
+Ammo units consumed by casting: %d.#
+
+/244 Anthem Of The Damned
+#This unit can cast the Anthem of the Damned spell, inflicting 16 damage to all mortal creatures on the battlefield. Resistance protects only partially against this spell. Magic immunity does not apply.
+Ammo units consumed by casting: %d.#
+
+/245 Summon Hellhound Spell
+#This unit can cast the Summon Hellhound spell, summoning a hellhound to an adjacent tile. Caster loses 5 hit points.
+Ammo units consumed by casting: %d.#
+
+/246 Skeleton Transformation Spell
+#This unit can cast the Skeleton Transformation spell, transforming a friendly or enemy unit into a skeleton.
+Ammo units consumed by casting: %d.#
+
+/247 Fiend Transformation Spell
+#This unit can cast the Fiend Transformation spell, transforming a friendly or enemy unit into a fiend. Resistance protects only partially against this spell.
+Ammo units consumed by casting: %d.#
+
+/248 Cleric Transformation Spell
+#This unit can cast the Cleric Transformation spell, transforming a friendly or enemy unit into a cleric. Magic immunity does not apply.
+Ammo units consumed by casting: %d.#
+
+/249 Fire Blade Spell
+#This unit can cast the Fire Blade spell, increasing all types of attack of a friendly unit by 4 and turning them into magical attacks.
+Ammo units consumed by casting: %d.#
+
+/250 Mass Dispel Spell
+#This unit can cast the Mass Dispel spell, reducing the duration of negative effects on friendly units and positive effects on enemy units. Inflicts damage to hostile summoned creatures.
+Ammo units consumed by casting: %d.#
+
+/251 Summon Phantom Spell
+#This unit can cast the Summon Phantom spell, summoning a phantom to an adjacent tile.
+Ammo units consumed by casting: %d.#
+
+/252 Fanaticism Spell
+#This unit can cast the Fanaticism spell. When the target dies while under this spell, it is resurrected. While the spell is active the morale of the target cannot be changed.
+Ammo units consumed by casting: %d.#
+
+/253 Deadly Terror Spell
+#This unit can cast the Deadly Terror spell, reducing the morale of the unit.
+Ammo units consumed by casting: %d.#
+
+/254 Panic Spell
+#This unit can cast the Panic spell, reducing the morale of all enemies within 1 tile.
+Ammo units consumed by casting: %d.#
+
+/255 Imaginary Assassin Spell
+#This unit can cast the Imaginary Assassin spell, making an enemy see things and hurting itself.
+Ammo units consumed by casting: %d.#
+
+/256 Bind Will Spell
+#This unit can cast the Bind Will spell, allowing the possession of an enemy unit for 2 turns. Does not affect the undead, mechanical units and heroes.
+Ammo units consumed by casting: %d.#
+
+/257 Strong Mind Spell
+#This unit can cast the Strong Mind spell, granting all friendly units immunity to mind-affecting spells and effects.
+Ammo units consumed by casting: %d.#
+
+/258 DELETED
+# #
+
+/259 DELETED
+#   #
+
+/260 DELETED
+#      #
+
+/261 DELETED
+#   #
+
+/262 DELETED
+#  #
+
+/263 DELETED
+##
+
+/264 DELETED
+# #
+
+/265 DELETED
+# #
+
+/266 Arrow Shower Spell
+#This unit can cast the Arrow Shower spell, granting all friendly units Enchanted Arrows and Double Shot, dealing additional magical damage and replenishing ammo. The enchanted units' actions do not consume stamina.
+Ammo units consumed by casting: %d.#
+
+/267 Control Undead Spell
+#This unit can cast the Control Undead spell, taking control of an enemy undead unit for 2 turns. Affects only the undead.
+Ammo units consumed by casting: %d.#
+
+/268 Seismic Charge
+#Instead of the usual shot the unit can use a special missile that stuns and slows down several non-flying creatures. There is no damage inflicted.
+The shot uses up additional ammo: %d.#
+
+/269 Mockery Spell
+#This unit can cast the "Mockery" spell, reducing an enemy's stamina. Ignores magic immunity.
+Ammo units consumed by casting: %d.#
+
+/270 Levitation Spell
+#This unit can cast the Levitation spell, slightly speeding up a friendly unit by granting it the ability to float above the terrain and restoring the unit's stamina each turn.
+Ammo units consumed by casting: %d.#
+
+/271 Embrace of Darkness Spell
+#This unit can cast the Embrace of Darkness spell, granting a friendly unit the traits of an undead creature. The unit becomes tireless, fearless, immune to poison and cold, feels no pain and is able to replenish health by dealing melee damage. Has no effect on undead and mechanical units.
+Ammo units consumed by casting: %d.#
+
+/272 Deadly Touch Spell
+#This unit can cast the Deadly Touch spell, instantly killing any creature, be it friend or foe.
+Magic Resistance and Magic Immunity offer no protection from this spell.
+Does not affect the undead, mechanical units and heroes.
+Ammo units consumed by casting: %d.#
+
+/273 Banshee's Howl Spell
+#This unit can cast the Banshee's Howl spell, draining health and reducing the morale and speed of all living creatures within 2 tiles. Magic Resistance and Magic Immunity offer no protection from this spell. Has no effect on undead and mechanical units.
+Ammo units consumed by casting: %d.#
+
+/274 Antimagic Spell
+#This unit can cast the Antimagic spell, increasing the resistance of the target by 10 and granting it Magic Immunity.
+Ammo units consumed by casting: %d.#
+
+/275 Paralyze Spell
+#This unit can cast the Paralyze spell, rendering a target unit immobile and incapable of fighting. The target's resistance only partially protects it from the spell.
+Ammo units consumed by casting: %d.#
+
+/276 Mass Sleep Spell
+#This unit can cast the Mass Sleep spell, putting all enemies on the battlefield to sleep. Sleeping units cannot fight or move for the duration of the spell, unless they are attacked. Has no effect on undead and mechanical units.
+Ammo units consumed by casting: %d.#
+
+/277 Shadow Form Butterfly Spell
+#A Blood Butterfly can cast this Shadow Form spell to give it special powers:
+in this state it loses Vigilance, reduces counterattack by 5 and resistance by half, and every turn it loses 3 morale points. On the other hand its attack is increased by 3 and its speed by 1, it recovers 2 stamina points each turn, it gets Bloodlust 2, becomes incorporeal and agile, and is able to apply a Round Attack.#
+
+/278 Shadow Form Priestess Spell
+#A Dark Priestess can cast  this Shadow Form spell to give it special powers:
+In this state her ranged attack is increased by 6 and her range by 2, and the enemy's resistance only partially protects against it. She becomes incorporeal, gets Bloodlust 2 and each shot reduces the enemy's resistance by 1.
+Her resistance is reduced by half and she loses 2 morale points each turn. Her spell duration is reduced by 1 and she loses her healing powers.#
+
+/279 Summon Beholder Spell
+#This unit can cast the Summon Beholder spell, summoning a Beholder to a tile adjacent to the summoner.
+Ammo units consumed by casting: %d.#
+
+/280 Magic Crystal Spell
+#This unit can cast the Magic Crystal spell, creating a magic crystal on a tile adjacent to the caster.
+Ammo units consumed by casting: %d.#
+
+/281 Alvari Rage Spell
+#This unit can cast the Alvari Rage spell, increasing the attack and ranged attack of a friendly unit by 2, its speed by 1 and granting Bloodlust.
+Ammo units consumed by casting: %d.#
+
+/282 Blinding Darkness Spell
+#This unit can cast the Blinding Darkness spell, reducing the attack of an enemy unit to zero.
+Ammo units consumed by casting: %d.#
+
+/283 Kiss of Darkness Spell
+#This unit can cast the Kiss of Darkness spell, allowing a unit in shadow form to act twice each turn.
+Ammo units consumed by casting: %d.#
+
+/284 Astral Parasite Spell
+#This unit has special arrows with an effect similar to the Astral Parasite spell: reducing the resistance of the enemy unit by 1 with each shot and making it lose stamina each turn. Resistance only partially protects against this spell and it has no effect on undead and mechanical units.
+Using these arrows the unit expends 3 additional stamina points.#
+
+/285 Hands of Darkness Spell
+#This unit can cast the Hands of Darkness spell, granting a friendly unit the ability to attack all enemies around it at an additional cost of stamina.
+Ammo units consumed by casting: %d.#
+
+/286 Shadow Thief Spell
+#This unit can cast the Shadow Thief spell, destroying 8 ammo of the target unit and inflicting an equal amount of damage to it. Part of the destroyed ammo is given to the caster.
+Ammo units consumed by casting: %d.#
+
+/287 Dark Depletion Spell
+#This unit can cast the Dark Decimation spell, destroying 8 ammo of each target within 2 tiles and causing an equal amount of damage to it.
+Ammo units consumed by casting: %d.#
+
+/288 Dark Revival Spell
+#This unit can cast the Dark Revival spell, resurrecting one friendly unit by sacrificing another. Does not affect the undead and mechanical units.
+Ammo units consumed by casting: %d.#
+
+/289 Cloud of Darkness Spell
+#This unit can cast the Cloud of Darkness spell, reducing all types of attack of all enemies within 2 tiles to zero.
+Ammo units consumed by casting: %d.#
+
+/290 Raise Reaper Spell
+#This unit can cast the Raise Reaper spell, creating a reaper from a slain unit's corpse.
+Ammo units consumed by casting: %d.#
+
+/291 Cloud of Restoration Spell
+#This unit can cast the Cloud of Restoration spell, restoring the health of all undead within 1 tile.
+Ammo units consumed by casting: %d.#
+
+/292 Mass Undead Restoration Spell
+#This unit can cast the Mass Undead Restoration spell, under the influence of which the undead immediately restore 6 hit points, continuing for several turns.
+Ammo units consumed by casting: %d.#
+
+/293 Unrest Spell
+#This unit can cast the Unrest spell. When the target dies while under this spell, it will rise again.
+Ammo units consumed by casting: %d.#
+
+/294 Armor Weakening Spell
+#This unit can cast the Armor Weakening spell, reducing defense and ranged defense of the target unit. Ignores spell resistance.
+Ammo units consumed by casting: %d.#
+
+/295 Axii Sign
+#Reduces the morale of the target by 8 points. Magic Resistance only partially reduces the effect. Ignores magic immunity.
+Ammo units consumed by casting: %d.#
+
+/296 Yrden Sign
+#Causes the target of the spell to feel severe pain. Enchanted unit loses 4 hit points and 1 point of stamina each turn. All types of attacks are reduced by 1.
+Ignores magic immunity.
+Ammo units consumed by casting: %d.#
+
+/297 Raise Mummy Spell
+#This unit can cast the Raise Mummy spell, creating a mummy from a slain unit's corpse.
+Ammo units consumed by casting: %d.#
+
+/298 Raise Cadaver Spell
+#This unit can cast the Raise Cadaver spell, creating a cadaver from a slain unit's corpse.
+Ammo units consumed by casting: %d.#
+
+/299 Raise Vampire Spell
+#This unit can cast the Raise Vampire spell, creating a vampire from a slain unit's corpse.
+Ammo units consumed by casting: %d.#
+
+/300 Word of Death Spell
+#This unit can cast the Word of Death spell, reducing the stamina of all living creatures on the battlefield by a huge amount.
+Ammo units consumed by casting: %d.#
+
+/301 Summon Devil Spell
+#This unit can cast the Summon Devil spell, summoning a devil to an adjacent tile.
+Ammo units consumed by casting: %d.#
+
+/302 Raise Banshee Spell
+#This unit can cast the Raise Banshee spell, creating a banshee from a slain unit's corpse.
+Ammo units consumed by casting: %d.#
+
+/303 Death Cloud Spell
+#This unit can cast the Death Cloud spell, poisoning all living creatures within 2 tiles. Poisoned units lose hit points, stamina and morale each turn. All types of attack are reduced. Lasts 3 turns.
+Ammo units consumed by casting: %d.#
+
+/304 Mass Life Drain Spell
+#This unit can cast the Mass Life Drain spell, inflicting damage to all enemy units on the battlefield. The caster restores hit points equal to the damage dealt. Resistance protects only partially against this spell.
+Ammo units consumed by casting: %d.#
+
+/305 Summon Fiend Spell
+#This unit can cast the Summon Fiend spell, summoning a fiend to an adjacent tile. Caster loses 6 hit points.
+Ammo units consumed by casting: %d.#
+
+/306 Summon Demon Spell
+#This unit can cast the Summon Demon spell, summoning a Demon to an adjacent tile. The sacrifice of a friendly unit is required for this summoning.
+Ammo units consumed by casting: %d.#
+
+/307 Demon Blood Spell
+#This unit can cast the Demon Blood spell, inflicting damage to an enemy or a friendly demon and healing the injuries of the caster.
+Ammo units consumed by casting: %d.#
+
+/308 Mass Bless Spell
+#This unit can cast the Mass Bless spell, increasing all the abilities of all friendly units and restoring 2 stamina points.
+Ammo units consumed by casting: %d.#
+
+/309 Healing Sleep
+#The unit can cast the Healing Sleep spell, putting all units within 1 tile to sleep, restoring health and stamina each turn.
+Ammo units consumed by casting: %d.#
+
+/310 Corruption Spell
+#This unit can cast the Corruption spell, greatly reducing all attributes of all units within 2 tiles.
+Magic Resistance and Magic Immunity offer no protection from this spell.
+Ammo units consumed by casting: %d.#
+
+/311 Dark Pact Spell
+#This unit can cast the Dark Pact spell, making it possible for a friendly unit to resurrect after death as a demon of the same rank.
+Ammo units consumed by casting: %d.#
+
+/312 Death Servant
+#The following spells have no effect on the unit: Exorcism, Undead Regeneration, Undead Recovery, Cloud of Restoration, Unrest, Necromancer's Cry, Banish, Shock and Heaven's Rage.#
+
+/313 Chaos Distortion Spell
+#This unit can cast the Chaos Distortion spell, giving an additional turn to all friendly demons on the battlefield.
+Ammo units consumed by casting: %d.#
+
+/314 Chaos Surge Spell
+#This unit can cast the Chaos Surge spell, giving an additional turn to a friendly demon.
+Ammo units consumed by casting: %d.#
+
+/315 Fearless Spell
+#This unit can cast the Fearless spell, restoring the morale of a friendly unit and temporarily increasing its attack.
+Ammo units consumed by casting: %d.#
+
+/316 Rune Shot Spell
+#This unit can cast the "Rune Shot" spell, increasing ranged attack to mechanical unit, changing damage type to magical and restoring 2 ammo.
+Ammo units consumed by casting: %d.#
+
+/317 Containment Spell
+#This unit can cast the Containment spell, decreasing the target's speed and making it lose stamina.
+Ammo units consumed by casting: %d.#
+
+/318 Dark Redemption Spell
+#This unit can cast the Dark Redemption spell, increasing the magical abilities of all friendly units, and giving them a small boost to morale.
+Ammo units consumed by casting: %d.#
+
+/319 Animal
+#This is an animal and it has no weapons other than natural ones - like claws and fangs. It is not affected by the spells Magic Weapon, Burn Ammo, Fire Blade, Arrow Shower, Deplete Quivers, Enchanted Weapon, Heroism, Dark Steel, Dash and Blind Faith, nor by technomagical Dwarven Blacksmiths.#
+
+/320 Ice Snake Spell
+#This unit can cast the Ice Snake spell, inflicting huge damage to a single enemy and slowing him greatly. Resistance protects only partially against this spell.
+Ammo units consumed by casting: %d.#
+
+/321 Lightning Ball Spell
+#This unit can cast the Lightning Ball spell, inflicting a huge amount of magical damage to all units within 1 tile and reducing their ranged defense. Ignores magic resistance.
+Ammo units consumed by casting: %d.#
+
+/322 Scorching Ground Spell
+#This unit can cast the Scorching Ground spell, inflicting long lasting damage to all non-flying enemies and slowing them down. Magic Resistance and Magic Immunity offer no protection from this spell.
+Ammo units consumed by casting: %d.#
+
+/323 Solar Blast Spell
+#This unit can cast the Solar Blast spell, inflicting heavy damage to all enemies. Magic Resistance and Magic Immunity offer no protection from this spell.
+Ammo units consumed by casting: %d.#
+
+/324 Necromancer's Cry Spell
+#This unit can cast the Necromancer's Cry spell, giving all undead units an extra turn. Does not affect the Servants of Death.
+Ammo units consumed by casting: %d.#
+
+/325 Slimy Bomb Spell
+#This unit can cast the Slimy Bomb spell, greatly reducing the combat capabilities of affected units, and reducing the stamina, morale and attack of all targets within 1 tile.
+Ammo units consumed by casting: %d.#
+
+/326 Great Pack Warrior
+#Swift and quick warriors who can pilfer ammunition and gems from enemies are rewarded with runes. These runes are scribed on little stones and are enchanted by gnoll wise men. Gnolls usually wear these around their necks, and the mightiest of gnolls have an entire necklace of runes.
+
+This rune increases a gnoll's strength by 2 and his armor by 1.
+
+Each warrior marked with this rune can ascend in physical or magical damage.#
+
+/327 Flesh-tearer
+#The best of the Great Pack Warriors can acquire a distinct runic mark. The blood of a demon is used in the ritual, bestowing a red glow on the rune.
+
+This rune grants a gnoll the ability Armorpiercing Strike.#
+
+/328 Flesh-scorcher
+#The best of the Great Pack Warriors can acquire a distinct runic mark. Magic crystals, also knows as gems, are used in the ritual, bestowing a blue glow on the rune.
+
+This rune grants a gnoll the ability Magic Strike.#
+
+/329 Great Pack Headhunter
+#Agile and skilled archers are rewarded with runes. These runes are scribed on little stones and are enchanted by gnoll wise men. Gnolls usually wear these around their necks, and the mightiest of gnolls have an entire necklace of runes.
+
+This rune increases a gnoll's ranged attack by 3 and his range by 1.
+
+Each warrior marked with this rune can ascend in physical or magical damage.#
+
+/330 Flesh-piercer
+#The best of the Great Pack Headhunters can acquire a distinct runic mark. The blood of a demon is used in the ritual, bestowing a red glow on the rune.
+
+This Rune gives a gnoll the ability Armorpiercing Shot.#
+
+/331 Flesh-incinerator
+#The best of the Great Pack Headhunters can acquire a distinct runic mark. Magic crystals, also knows as gems, are used in the ritual, bestowing a blue glow on the rune.
+
+This rune grants a gnoll the ability Magic Shot.#
+
+/332 Rune of Life
+#Number of marks: %d.
+Skilled warriors are rewarded with runes. These runes are scribed on little stones and are enchanted by gnoll wise men. Gnolls usually wear these around their necks, and the mightiest of gnolls have an entire necklace of runes.
+
+This rune increases a gnoll's health by 10, but decreases his attack and counterattack by 2.#
+
+/333 Rune of Predator
+#One of the most recognized warriors among gnolls are those who can provide everything for themselves, be it food, weapons, or armor. The warriors are rewarded with runes. These runes are scribed on little stones and are enchanted by gnoll wise men. Gnolls usually wear these around their necks, and the mightiest of gnolls have an entire necklace of runes.
+
+This rune reduces a gnoll's expenses by 100~, but increases negative effects from his Plunderer ability by 20.#
+
+/334 Rune of Rage
+#Number of marks: %d.
+Skilled warriors are rewarded with runes. These runes are scribed on little stones and are enchanted by gnoll wise men. Gnolls usually wear these around their necks, and the mightiest of gnolls have an entire necklace of runes.
+
+Gnolls, decorated with the Rune of Rage, are so prideful in battle, that they believe avoiding attacks is cowardly. Their madness knows no bounds.
+
+This rune increases a gnoll's attack by 3 and Berserker by 2, but also reduces his defense by 2.#
+
+/335 Rune of Thorns
+#Number of marks: %d.
+Skilled warriors are rewarded with runes. These runes are scribed on little stones and are enchanted by gnoll wise men. Gnolls usually wear these around their necks, and the mightiest of gnolls have an entire necklace of runes.
+
+Gnolls, decorated with the Rune of Thorns, can make retaliatory strikes with extreme force, while maintaining a strong defense, but such a focus on the counterstrike reduces his attacking capabilities.
+
+This rune increases a gnoll's counterattack by 4 and Parry by 2, but also reduces his attack by 4.#
+
+/336 Rune of Accuracy
+#Number of marks: %d.
+Skilled warriors are rewarded with runes. These runes are scribed on little stones and are enchanted by gnoll wise men. Gnolls usually wear these around their necks, and the mightiest of gnolls have an entire necklace of runes.
+
+Gnolls, decorated with the Rune of Accuracy, use heavier, more penetrating arrows, sacrificing defense as a result of effectively utilizing such powerful ammunition.
+
+This rune increases a gnoll's ranged attack by 4, but reduces his ranged defense and ammo by 2.#
+
+/337 Rune of Destruction
+#Number of marks: %d.
+Skilled warriors are rewarded with runes. These runes are scribed on little stones and are enchanted by gnoll wise men. Gnolls usually wear these around their necks, and the mightiest of gnolls have an entire necklace of runes.
+
+Warriors such as this have less experience facing combatants in battle, making them more fearful in combat.
+
+This rune increases Siege by 2 and stamina by 5, but reduces morale by 4.#
+
+/338 Rune of Swiftness
+#Skillful gnoll warriors are able to steal enemy arrows or magic crystals directly in combat, and as a sign of distinction they are given a specially enchanted rune stone. These runes are scribed on little stones and are enchanted by gnoll wise men. Gnolls usually wear these around their necks, and the mightiest of gnolls have an entire necklace of runes.
+
+This rune increases a gnoll's stamina by 7 and Steal Ammo by 3, but also increases the negative effects of the Marauder ability by 15.#
+
+/339 Mass Slow Spell
+#This unit can cast the Mass Slow spell, slowing all enemies on the battlefield and causing them to gradually lose stamina.
+Ammo units consumed by casting: %d.#
+
+/340 Avatar of Light
+#This unit is not affected by the spells Vampirism, Dark Pact, Life Drain, Black Magic, Corruption, Mass Suicide, Sacrifice, Unholy Word, Vampire Touch, Bloodlust, Divine Light, Holy Word, Anthem of the Damned, Embrace of Darkness, Dark Steel, Mass Life Drain, Nightmare, Blood Ritual, Blood Sacrifice and Death Ashes.#
+
+/341 Armageddon Spell
+#This unit can cast the Armageddon spell, inflicting huge fire damage to all creatures on the battlefield.
+Ammo units consumed by casting: %d.#
+
+/342 Workaholic
+#The unit spends its spare time working, increasing the income from a province he is stationed in by %d~.#
+
+/343 Siege Mode
+#This unit can switch to siege mode.
+In this mode the unit cannot move or fight, but his ranged attacks can cause damage to an area without harming friendly units.#
+
+/344 Siege Mode
+#This unit can switch to siege mode.
+In this mode the unit cannot move or fight, but his ranged attack is increased by 3 and his range by 1.#
+
+/345 Siege Mode
+#This unit can switch to siege mode.
+In this mode the unit cannot move or fight, but his ranged attack is increased by 8 and his range by 2. In this attack the unit inflicts permanent damage to the area.#
+
+/346 Siege Mode
+#This unit can switch to siege mode.
+In this mode the unit cannot move or fight, but his ranged attack is doubled although its range cannot be more than 3.#
+
+/347 Phoenix
+#You can hatch a Phoenix from this egg. In order to do that you need to build the Monstrologists Guild. Unit upkeep is 400 gold / 15 gems.#
+
+/348 Treant
+#You can grow a Treant from this acorn. In order to do that you need to build Stonehenge. Unit upkeep is 70 gold / 6 gems.#
+
+/349 Stone Golem
+#You can create a Stone Golem from this ingot. In order to do that you need to build the Artifact Master. Unit upkeep is 10 gems.#
+
+/350 Dracolich
+#You can create a Dracolich using this phylactery. In order to do that you need to build the Tower of Necromancy. Unit upkeep is 250 gold / 130 gems.#
+
+/351 Swamp Dragonfly
+#You can raise a Swamp Dragonfly from these eggs. In order to do that you need to build the Swamp Trappers Guild. Unit upkeep is 14 gold / 1 gem.#
+
+/352 Seraphim
+#You can summon a Seraphim with this relic. In order to do that you need to build the Tower of Restoration. Unit upkeep is 400 gold / 80 gems.#
+
+/353 Acheron
+#You can summon an Acheron with this relic. In order to do that you need to build the Tower of Chaos. Unit upkeep is 200 gold / 80 gems.#
+
+/354 Duelist
+#You can hire a Duelist with this contract. In order to do that you need to build the Merchant Court. Unit upkeep is 14 gold.#
+
+/355 Elemental Mistress
+#You can hire an Elemental Mistress with this contract. In order to do that you need to build the Sphere of Ice. Unit upkeep is 200 gold / 30 gems.#
+
+/356 Faerie Dragon
+#You can hatch a Faerie Dragon from this egg. In order to do that you need to build the School of High Magic. Unit upkeep is 500 gold / 40 gems.#
+
+/357 Psion
+#You can hire a Psion with this contract. In order to do that you need to build the Tower of Hypnosis. Unit upkeep is 180 gold / 40 gems.#
+
+/358 Medusa
+#You can hatch a Medusa from this egg. In order to do that you need to build the Swamp Trappers Guild. Unit upkeep is 60 gold / 8 gems.#
+
+/359 Birdeater
+#You can hatch a Birdeater from this egg. In order to do that you need to build the Swamp Trappers Guild. Unit upkeep is 25 gold / 2 gems.#
+
+/360 Dragon
+#You can hatch a Dragon from this egg. In order to do that you need to build the Reliquarium. Unit upkeep is 500 gold / 20 gems.#
+
+/361 Dark Priestess
+#You can hire a Dark Priestess with this contract. In order to do that you need to build the Temple of Chaos. Unit upkeep is 20 gold / 5 gems.#
+
+/362 Siege Machine
+#You can build an Siege Weapon with this drawing. In order to do that you need to build the Craftsmen Guild. Unit upkeep is 80 gold / 4 gems.#
+
+/363 Illithid
+#You can hire an Illithid with this contract. In order to do that you need to build the Tower of Knowledge or Heart of the Night. Unit upkeep is 150 gold / 30 gems.#
+
+/364 Wyvern
+#You can hatch a Wyvern from this egg. In order to do that you need to build the Swamp Trappers Guild. Unit upkeep is 35 gold / 3 gems.#
+
+/365 Demonologist
+#You can hire a Demonologist with this contract. In order to do that you need to build the Temple of Chaos. Unit upkeep is 20 gold / 2 gems.#
+
+/366 Ericuba
+#You can hatch an Ericuba from this egg. In order to do that you need to build the Monstrologists Guild. Unit upkeep is 150 gold / 4 gems.#
+
+/367 Scholar
+#You can hire a Scholar with this contract. In order to do that you need to build the Library. Unit upkeep is 12 gold / 3 gems.#
+
+/368 Adept
+#You can hire an Adept with this contract. In order to do that you need to build the Sages Guild. Unit upkeep is 30 gold / 11 gems.#
+
+/369 Magister
+#You can hire a Magister with this contract. In order to do that you need to build the Secret Library. Unit upkeep is 70 gold / 18 gems.#
+
+/370 Archmagister
+#You can hire an Archmagister with this contract. In order to do that you need to build the Tower of Knowledge. Unit upkeep is 100 gold / 35 gems.#
+
+/371 Siege Machine
+#You can build a siege machine with these schematics. In order to do that you need to build a Craftsmen Guild or Slaver's Pen. Unit upkeep is 150 gold.#
+
+/372 Summon Hnara Spell
+#This unit can cast the Summon Hnara spell, summoning a hnara to a tile adjacent to the summoner.
+Ammo units consumed by casting: %d.#
+
+/373 Miracle Spell
+#This unit can cast the Miracle spell, healing friendly units within 1 tile and causing damage to enemies which are nearby.
+Ammo units consumed by casting: %d.#
+
+/374 Fix
+#This unit has the special ability to repair a friendly mechanical unit within shooting range. Restores %d of health, and reduces the duration of damaging effects on armor and weapons. The repair expends 1 ammo unit.
+Out of combat the hit points restoration rate for all mechanical units in the party is increased when a repairer is present.#
+
+/375 Mobility Spell
+#This unit can cast the Mobility spell, increasing the speed of a friendly mechanical unit by 1 for 1 turn.
+Ammo units consumed by casting: %d.#
+
+/376 Workman
+#You can hire a Workman with this contract. In order to do that you need to build the Carpenters Guild. Unit upkeep is 5 gold.#
+
+/377 Reload Spell
+#This unit can cast the Reload spell, restoring a friendly mechanical unit with 1 ammo.
+Ammo units consumed by casting: %d.#
+
+/378 Summon Wolf Spell
+#This unit can cast the Summon Wolf spell, summoning a wolf to an adjacent tile.
+Ammo units consumed by casting: %d.#
+
+/379 Summon Dire Bear Spell
+#This unit can cast the Summon Dire Bear spell, summoning a dire bear to an adjacent tile.
+Ammo units consumed by casting: %d.#
+
+/380 Lord of Chaos
+#This unit is a powerful creature of Chaos. The following spells have no effect on the unit: Blind, Black Magic, Suicide, Chieftain Order, Cloud of Darkness, Disintegration, Armor Weakening, Demon Blood, Chaos Distortion, Chaos Surge, Hellfire and Blood Ritual.#
+
+/381 Test of Faith Spell
+#This unit can cast the Test of Faith spell, temporarily restoring hit points and stamina to a friendly unit, granting it Smite Evil and instantly replenishing one ammo.
+Ammo units consumed by casting: %d.#
+
+/382 Summon Icarus Spell
+#This unit can cast the Summon Icarus spell, summoning an Alkari warrior to a tile adjacent to the summoner.
+Ammo units consumed by casting: %d.#
+
+/383 Summon Stalker Spell
+#This unit can cast the Summon Stalker spell, summoning an Alkari hunter to a tile adjacent to the summoner.
+Ammo units consumed by casting: %d.#
+
+/384 Summon Luminary Spell
+#This unit can cast the Summon Luminary spell, summoning a Luminary to a tile adjacent to the summoner.
+Ammo units consumed by casting: %d.#
+
+/385 Soul Trap Spell
+#This unit can cast the Soul Trap spell, creating a soul taken from corpses on the battlefield.
+Ammo units consumed by casting: %d.#
+
+/386 Strike of Pain Spell
+#This unit can cast the Strike of Pain spell, inflicting the enemy with damage to health, stamina and morale.
+Ammo units consumed by casting: %d.#
+
+/387 Death Bell Spell
+#This unit can cast the Death Bell spell, increasing the health, stamina and morale of friendly units.
+Ammo units consumed by casting: %d.#
+
+/388 Black Unicorn
+#You can create a Black Unicorn with this scroll. In order to do that you need to build Stonehenge. Unit upkeep is 60 gold / 8 gems.#
+
+/389 Concoction Spell
+#This unit can cast the Concoction spell, temporarily increasing a friendly unit's attack, defense and ranged defense, but also causing it to lose health.
+Ammo units consumed by casting: %d.#
+
+/390 Gas Bomb
+#Instead of its usual shot the unit can use a shell with poisonous gas, poisoning all living creatures within 1 tile of the target. This shot expends 4 units of stamina.
+The poison gas causes %d damage each turn.#
+
+/391 Fierce Roar
+#The fierce roar of evil creatures frightens its enemies. Consumes 6 morale points. Ignores magic immunity and spell resistance.
+Ammo units consumed by casting: %d.#
+
+/392 Fever Spell
+#This unit can cast the Fever spell, infecting an enemy creature with a magical disease, causing substantial damage while inflicted.
+Ammo units consumed by casting: %d.#
+
+/393 Exhaustion Spell
+#This unit can cast the Exhaustion spell, poisoning an enemy creature, causing substantial damage while active.
+Ammo units consumed by casting: %d.#
+
+/394 Black Plague Spell
+#This unit can cast the Black Plague spell, poisoning all living creatures within 1 tile, causing substantial damage while active.
+Ammo units consumed by casting: %d.#
+
+/395 Pestilence Spell
+#This unit can cast the Pestilence spell, poisoning all living creatures within 2 tiles, causing substantial damage while active.
+Ammo units consumed by casting: %d.#
+
+/396 Summon Rat Spell
+#This unit can cast the Summon Rat spell, summoning a Giant Rat to a tile adjacent to the summoner.
+Ammo units consumed by casting: %d.#
+
+/397 Summon Ratman Spell
+#This unit can cast the Summon Ratman spell, summoning a ratman to a tile adjacent to the summoner.
+Ammo units consumed by casting: %d.#
+
+/398 Battle Cry Spell
+#This unit can cast the Battle Cry spell, restoring a friendly unit's morale and stamina.
+Ammo units consumed by casting: %d.#
+
+/399 Summon Shadow Claw Spell
+#This unit can cast the Summon Shadow Claw spell, summoning a Shadow Claw to a tile adjacent to the summoner.
+Ammo units consumed by casting: %d.#
+
+/400 Summon Rat King Spell
+#This unit can cast the Summon Rat King spell, summoning a Rat King to a tile adjacent to the summoner.
+Ammo units consumed by casting: %d.#
+
+/401 Summon Rat Reaper Spell
+#This unit can cast the Summon Rat Reaper spell, summoning a Rat Reaper to a tile adjacent to the summoner.
+Ammo units consumed by casting: %d.#
+
+/402 Giant
+#This unit is enormous, so is not affected by the spells Time Stop, Chieftain Order, Multiattack, Titan's Strength, Heroism, Cat's Reflexes, Blood Sacrifice, Slimy Bomb and Dash. He cannot be trampled either.#
+
+/403 Shadow Claw
+#You can hire an Shadow Claw with this contract. In order to do that you need to build a Military School, Skirr Clan Factory or Plague Gun Factory. Unit upkeep is 16 gold / 3 gems.#
+
+/404 Assault Rat
+#You can hire an Assault Rat with this contract. In order to do that you need to build a Craft Shop. Unit upkeep is 11 gold / 8 gems.#
+
+/405 Rat Reaper
+#You can create a Rat Reaper with this scroll. In order to do that you need to build the Handler's Guild or the Seeker Laboratory. Unit upkeep is 90 gold.#
+
+/406 Ripper
+#You can create a Ripper with this scroll. In order to do that you need to build the Craftsmen Guild or the Seeker Laboratory. Unit upkeep is 50 gold / 6 gems.#
+
+/407 Master of Decay
+#You can hire a Master of Decay with this contract. In order to do that you need to build the Secret Library or the Seeker Laboratory. Unit upkeep is 60 gold / 11 gems.#
+
+/408 Mass Disease Spell
+#This unit can cast the Mass Disease spell, infecting all enemy creatures with a disease.
+Ammo units consumed by casting: %d.#
+
+/409 Elemental Spirit
+#This is an inhabitant of another plane of existence, temporarily summoned by a spell, and thus immune to the spells Armor Break and Hard as Stone, as well as technomagical dwarves.#
+
+/410 Lycan
+#You can hire a Lycan with this contract. In order to do that you need to build the Handler's Guild. Unit upkeep is 30 gold / 15 gems.#
+
+/411 Blind Faith Spell
+#This unit can cast the Blind Faith spell, reducing all types of a unit's attack to zero, but granting it Smite Evil (10).
+Ammo units consumed by casting: %d.#
+
+/412 Poison Rain Spell
+#This unit can cast the Poison Rain spell, weakly but permanently poisoning all living creatures within 2 tiles.
+Ammo units consumed by casting: %d.#
+
+/413 Dark Dominion
+#Value: %d.
+This unit deals extra damage to enemies serving the Light.#
+
+/414 Web Immunity
+#It's impossible to entangle the unit in a web.#
+
+/415 Petrification Immunity
+#Petrification spells have no effect on the unit.#
+
+/416 Entanglement Immunity
+#It's impossible to entangle the unit in roots.#
+
+/417 Summon Imp Spell
+#This unit can cast the Summon Imp spell, summoning an imp to an adjacent tile.
+Ammo units consumed by casting: %d.#
+
+/418 Summon Spawn Spell
+#This unit can cast the Summon Spawn spell, summoning a spawn to a tile adjacent to the summoner.
+Ammo units consumed by casting: %d.#
+
+/419 Summon Fiend Spell
+#This unit can cast the Summon Fiend spell, summoning a fiend to an adjacent tile.
+Ammo units consumed by casting: %d.#
+
+/420 Summon Hellhound Spell
+#This unit can cast the Summon Hellhound spell, summoning a hellhound to an adjacent tile.
+Ammo units consumed by casting: %d.#
+
+/421 Summon Fiend Lord Spell
+#This unit can cast the Summon Fiend Lord spell, summoning a Fiend Lord to a tile adjacent to the summoner.
+Ammo units consumed by casting: %d.#
+
+/422 Summon Cerberus Spell
+#This unit can cast the Summon Cerberus spell, summoning a Cerberus to a tile adjacent to the summoner.
+Ammo units consumed by casting: %d.#
+
+/423 Summon Succubus Spell
+#This unit can cast the Summon Succubus spell, summoning a Succubus to a tile adjacent to the summoner.
+Ammo units consumed by casting: %d.#
+
+/424 Summon Demon Spell
+#This unit can cast the Summon Demon spell, summoning a Demon to an adjacent tile.
+Ammo units consumed by casting: %d.#
+
+/425 Summon Destroyer Spell
+#This unit can cast the Summon Destroyer spell, summoning a Destroyer to a tile adjacent to the summoner.
+Ammo units consumed by casting: %d.#
+
+/426 Summon Devil Spell
+#This unit can cast the Summon Devil Spell, summoning a Devil to a tile adjacent to the summoner.
+Ammo units consumed by casting: %d.#
+
+/427 Black Blood Spell
+#A Lizardman Archer can cast the Black Blood spell on himself, increasing his poisonous melee and ranged attack by 3, but making him lose 3 hit points each turn.#
+
+/428 Skeleton
+#This creature consists solely of almost bare bones. It is not affected by the spells Magic Armor and Stone Skin, nor by technomagical Dwarven Blacksmiths.#
+
+/429 Incorporeal
+#This being has no physical body. It is not affected by the spells Fatigue, Magic Armor, Phantom Form, Stone Skin and Gaseous Form, nor by technomagical Dwarven Blacksmiths.#
+
+/430 Gaseous Form Spell
+#A vampire can cast the Gaseous Form spell on itself, greatly reducing attack and counter-attack, and significantly increasing both defense attributes and granting fast regeneration.#
+
+/431 Chaos Cultist
+#A Chaos Cultist is so fanatical that he will not hesitate to sacrifice himself, and he will never use his power for his own healing.#
+
+/432 Scorn Spell
+#This unit can cast the "Scorn" spell, reducing the counterattack, defense and ranged defense of friendly or enemy creatures, but increasing their attack.
+Ammo units consumed by casting: %d.#
+
+/433 Hero's Ballad Spell
+#This unit can cast the "Hero's Ballad" spell, restoring stamina and morale to all friendly units.
+Ammo units consumed by casting: %d.#
+
+/434 Rune Armor Spell
+#This unit can cast the "Rune Armor" spell, increasing the armor of friendly units within 1 tile around the caster.
+Ammo units consumed by casting: %d.#
+
+/435 Rune Weapon Spell
+#This unit can cast the "Rune Weapon" spell, increasing all types of attack of friendly units within 1 tile around the caster.
+Ammo units consumed by casting: %d.#
+
+/436 Rune Amulet Spell
+#This unit can cast the "Rune Amulet" spell, increasing the resistance of friendly units within 1 tile around the caster.
+Ammo units consumed by casting: %d.#
+
+/437 Caustic Mixture Spell
+#This unit can use arrows to cast the Caustic Mixture spell at will: for 4 turns reduces the enemy's defense and ranged defense by 3, and poisons it, causing it to lose 3 hit points each turn. The spell does not affect incorporeal creatures with spell immunity, and spell resistance does not apply.
+Using these arrows the unit expends 2 additional stamina points.#
+
+/438 Chilling Touch
+#Chilling touch immobilizes any living creature for 3 turns, ignoring magic immunity and almost ignoring resistance to magic spells.#
+
+/439 Phantom Form
+#Oinor's staff causes its enemies to become partially illusory and thus unable to do any damage.#
+
+/440 Armor Weakened
+#Garros' Blade makes the front of the enemy's armor thinner.#
+
+/441 Revival
+#Targets the creature - %s.
+After its death, this unit will be revived into another body.#
+
+/442 Master Constructor
+#You can hire a Master Constructor with this contract. In order to do that you need to build the Craftsmen Guild or the Great Forge in your castle. Unit upkeep is 100 gold / 6 gems.#
+
+/443 Necrosurge Spell
+#This unit can cast the Necrosurge spell, instantly restoring 3 hit points to all undead creatures within 1 tile.
+Ammo units consumed by casting: %d.#
+
+/444 Word of the Lord Spell
+#This unit can cast the Word of the Lord spell, increasing the attack and counterattack of all friendly skeletons by 2, defense and ranged defense by 3 and resistance by 4. Lasts 4 turns.
+Ammo units consumed by casting: %d.#
+
+/445 Hunter's Net
+#Instead of the usual shot the unit casts a hunter's net: immobilizes the target for 2 turns, but increases its defense by 1. The entangled target cannot fight. The higher the enemy's attack is, the quicker it will free itself. Does not affect enemies with resistance above 3.
+Using the hunter's net, the unit expends 1 additional stamina point.#
+
+/446 Mental Support Spell
+#This unit can cast the Mental Support spell, temporarily increasing the summoning power of all friendly units by 2.
+Ammo units consumed by casting: %d.#
+
+/447 Mental Duel Spell
+#This unit can cast the Mental Duel spell, reducing an enemy's magical abilities.
+Ammo units consumed by casting: %d.#
+
+/448 Mental Sermon Spell
+#This unit can cast the Mental Sermon spell, restoring health and stamina of all friendly units each turn and granting them Smite Evil.
+Ammo units consumed by casting: %d.#
+
+/449 Mental Resonance Spell
+#This unit can cast the Mental Resonance spell, greatly increasing the magical abilities of a friendly unit and giving it another turn.
+Ammo units consumed by casting: %d.#
+
+/450 Act of Faith Spell
+#This unit can cast the Act of Faith spell, causing 70 points of damage to the caster, but granting Reincarnation, Immunity to Pain and strong Smite Evil to all friendly Alkari.
+Ammo units consumed by casting: %d.#
+
+/451 Summon Arisen Spell
+#This unit can cast the Summon Arisen spell, summoning an Arisen Luminary, a mighty Alkali warrior, to a tile adjacent to the summoner.
+Ammo units consumed by casting: %d.#
+
+/452 Summon Keeper Spell
+#This unit can cast the Summon Keeper spell, summoning a Memory Keeper, a strong spellcasting Alkari warrior, to a tile adjacent to the summoner.
+Ammo units consumed by casting: %d.#
+
+/453 Mental Shadow Spell
+#This unit can cast the Mental Shadow spell, reducing the magical abilities of all enemies.
+Ammo units consumed by casting: %d.#
+
+/454 Frenzy
+#Special ability allowing a unit to spend 2 additional stamina points to deal melee damage to an enemy, while restoring %d hit points. Health restored cannot be greater than the damage dealt.#
+
+/455 Crippling Shot
+#With its shot the unit is able to reduce an enemy's speed by 1 for %d turns. No effect on incorporeal enemies.#
+
+/456 Overwhelming Force
+#The target's defense is effectively halved against this unit's shots or strikes.#
+
+/457 Surge of Strength
+#This unit restores %d stamina points per turn.#
+
+/458 Shield Wall
+#A special ability that allows the unit to increase their defense and ranged defense by %d and have vigilance until the next turn. The unit's attack is reduced by %d.#
+
+/459 Life Leech
+#When using Magic Shot on the enemy, the unit restores hit points equal to %d~ of the damage dealt.#
+
+/460 Stunning Shot
+#Each of the unit's attacks reduces the target's stamina by %d. No effect on incorporeal enemies.#
+
+/461 Intimidating Shot
+#Each of the unit's attacks reduces the target's morale by %d.#
+
+/462 Wounding Strike
+#The unit wounds the enemies it attacks in melee, making them lose blood and %d hit points per turn for 2 turns. If the health of the enemy is half of its maximum or less, bleeding will last for 4 turns. The regeneration ability halves the bleeding's duration.
+No effect on incorporeal enemies.#
+
+/463 Wounding Shot
+#The unit wounds the enemies it shoots at, making them lose blood and %d hit points per turn for 2 turns. If the health of the enemy is half of its maximum or less, bleeding will last for 4 turns. The regeneration ability halves the bleeding's duration.
+No effect on incorporeal enemies.#
+
+/464 Enchanted Blade
+#The unit's melee attacks inflict %d points of magical damage on the enemy in addition to physical damage.#
+
+/465 Bloodlust
+#Killing an enemy in melee attack boosts the morale of the unit by an additional %d.
+When killing by a counterattack or a ranged attack, the unit receives only half of this value.#
+
+/466 Damaged Aura
+#When attacking an enemy in melee, if it's not mechanical, the unit decreases the target's defense by 1. The effect lasts for 3 turns.#
+
+/467 Astral Ammo
+#Effect duration - %d.
+When shooting an enemy, if it's not mechanical, the unit decreases the target's resistance by 1.#
+
+/468 Vigilance
+#Vigilance allows the unit to counterattack even against an agile enemy's melee attack.#
+
+/469 Skillful Diplomat
+#The hero's Diplomacy skill is considered %d points higher.#
+
+/470 Stone Statue Spell
+#A Gargoyle can cast the Stone Statue spell on itself, turning it into a regular stone statue capable of restoring health for 3 turns. In this state its armor and resistance are increased by 3.#
+
+/471 Raise Skeleton of Doom Spell
+#This unit can cast the Raise Skeleton of Doom spell, creating a Skeleton of Doom from a slain unit's corpse.
+Ammo units consumed by casting: %d.#
+
+/472 Switch Weapon
+#This unit is able to use additional enchanted weapons. When it attacks with this weapon, it casts the spell "%s" upon the enemy (if it is able to influence the creature). The attacker will spend an additional %d stamina.#
+
+/473 Switch Ammo
+#The unit can switch to different and enchanted ammunition. When it attacks with this ammunition, it casts the spell "%s" upon the enemy (if it is able to influence the creature). The attacker will spend an additional %d stamina.#
+
+/474 Reincarnation Spell
+#This unit can cast the Reincarnation spell, immediately resurrecting a friendly unit in the event of its death.
+Ammo units consumed by casting: %d.#
+
+/475 Armageddon
+#The Armageddon's Blade, a powerful relic, allows the unit to use the Armageddon spell at will without harming its own allies. Such use of the blade usually leads to consequences for its owner.#
+
+/476 Dark Balance Spell
+#This unit can cast the Dark balance spell, increasing a friendly unit's resistance and its morale by 2 each turn.
+Ammo units consumed by casting: %d.#
+
+/477 Blood Shadow Spell
+#This unit can cast the Blood Shadow spell, increasing spell casting strength and duration by 1 in exchange for some of the caster's health and instantly replenishing 2 ammo.
+Ammo units consumed by casting: %d.#
+
+/478 Summon Slave Spell
+#This unit can cast the Summon Slave spell, summoning a kobold slave to a tile adjacent to the summoner.
+Ammo units consumed by casting: %d.#
+
+/479 Stimulus Spell
+#This unit can cast the Stimulus spell, causing several kobold slaves to act again. Increases their speed by 1 until end of turn.
+Ammo units consumed by casting: %d.#
+
+/480 Shadow Form Hunter Spell
+#Hunters can cast this Shadow Form spell to give them special powers:
+In this state terrain knowledge is increased by 8 and speed by 1. The unit may make an enhanced shot and wounds left by this crippling shot take 3 turns longer to heal. The unit becomes incorporeal, gets Bloodlust 2 and restores 2 stamina points each turn. 
+Its resistance is reduced by half and it loses 2 morale points each turn. The unit's shooting range is reduced by 2.#
+
+/481 Trembling Shadow Spell
+#This unit can cast the Trembling Shadow spell, reducing an enemy unit's ranged attack and slightly reducing morale.
+Ammo units consumed by casting: %d.#
+
+/482 Shadow Form Guardsman Spell
+#Guardsmen can cast this Shadow Form spell to give them special powers:
+The unit becomes incorporeal and gets agility, Bloodlust 2, Magic Strike and is now able to inflict a Crushing Blow, ignoring half of the enemy's resistance to the attack.
+Its resistance is reduced by half and it loses 3 morale points each turn. The unit loses the ability First Strike and Vigilance.#
+
+/483 Shadow Form Craver Spell
+#Darkness Cravers can cast this Shadow Form spell to give them special powers:
+Shooting range is increased by 1, restores 3 stamina points and 1 ammo each turn. The unit becomes incorporeal, gets Bloodlust 2 and Double Shot, and each shot reduces the target's resistance.
+The unit's resistance is reduced by half, it loses 2 morale points each turn and it cannot cast spells.#
+
+/484 Shadow Dance Spell
+#This unit can cast the Shadow Dance spell, reducing the ranged attack of all enemy units and slightly reducing their morale.
+Ammo units consumed by casting: %d.#
+
+/485 Shadow Form Chosen Spell
+#A Darkness Chosen can cast this Shadow Form spell to give it special powers:
+The unit's spell duration is increased by 2, its summoning power by 6 and its resistance negation by 2. The Darkness Chosen becomes incorporeal and replenishes 1 ammo each turn.
+Its resistance is reduced by half and it can no longer shoot.#
+
+/486 Stone Crust Spell
+#This unit can use arrows to cast the Stone Crust spell at will: it covers the enemy unit in an airtight crust for 4 turns, immobilizing it and making it lose 4 hit points per turn; armor is increased by 4 and resistance by 2. The spell has no effect on tireless creatures and those immune to pain, and resistance significantly reduces the duration of the spell.
+Using these arrows the unit expends 2 additional stamina points.#
+
+/487 Beholder
+#You can raise a Beholder  from these eggs. In order to do that you need to build the Tower of Knowledge or Heart of the Night. Unit upkeep is 22 gems.#
+
+/488 Dark Replenishment
+#Having killed an enemy in melee, the unit replenishes %d ammo.#
+
+/489 Hunter of Undead
+#Value: %d.
+This unit can inflict additional damage to undead creatures (the higher the level, the higher the extra damage).#
+
+/490 Hunter of Demons
+#Value: %d.
+This unit can inflict additional damage to demons (the higher the level, the higher the extra damage).#
+
+/491 Astral Schism Spell
+#This unit can cast the Astral Schism spell, reducing the resistance of the enemy by half. Resistance has almost no protection against this spell.
+Ammo units consumed by casting: %d.#
+
+/492 Immunity to Bleeding
+#This unit does not bleed when wounded.#
+
+/493 Explosive Weapon
+#This unit uses special shells that when hit, cause additional damage to all creatures around the target equal to half the normal damage. The effects of the shot are only applied to the main target.#
+
+/494 Cannot Cast
+#This unit cannot cast spells from his spell book.#
+
+/495 Darkness Surge
+#Anyone who attacks this unit in melee, gets subjected to the cumulative effects of the Darkness Surge spell: the unit loses 4 hit points and 2 points of stamina and morale each turn for three turns.
+Duration increases with the caster's Concentration. Ignores magic resistance.
+Has no effect on undead and mechanical units.#
+
+/496 Storm Shadow
+#Anyone who attacks the unit in melee, gets subjected to the cumulative effects of the Storm Shadow spell, including all units adjacent to it: the unit loses 4 hit points and 2 points of stamina and morale each turn for three turns.
+Duration increases with the caster's Concentration. Ignores magic resistance.
+Has no effect on undead and mechanical units.#
+
+/497 Festering Wounds
+#This unit's wounds - if it is a living creature - cannot be cured through healing, regeneration or first aid.#
+
+/498 Wounding Spikes
+#Anyone who attacks the unit in melee, is wounded and loses blood and %d hit points per turn for 2 turns. If the health of the enemy is half of its maximum or less, bleeding will last for 4 turns. The regeneration ability halves the bleeding's duration.
+No effect on incorporeal enemies.#
+
+/499 Sniper Shot
+#Special skill that allows this unit to fully concentrate on shooting. The unit's speed becomes equal to 1, it will expend %d stamina and its shooting range is increased by one. If the unit has Precise Shot, the ranged attack value for this shot will be doubled.#
+
+/500 Cocoon of Darkness Spell
+#This unit can cast the Cocoon of Darkness spell, granting incorporeality and thus increasing the defense of a friendly or enemy unit, but reducing its resistance and preventing it from shooting and casting spells.
+Ammo units consumed by casting: %d.#
+
+/501 Flaming Sword
+#This unit ignites the enemies it attacks in melee, making them lose %d hit points per turn for 3 turns.#
+
+/502 Flaming Arrows
+#This unit ignites the target with its shots, making it lose %d hit points per turn for 3 turns.#
+
+/503 Scorching Flesh
+#This unit emits such heat that any melee attack against it will ignite and burn the attacker, receiving %d points of damage.#
+
+/504 Chain Lightning
+#The shot uses up additional ammo: %d.
+This unit can use a special shot that not only inflicts damage to its target, but also to all enemies around it. It does expend some extra ammo and double the amount of stamina than usual.#
+
+/505 Powerful Shot
+#Stamina consumption: %d.
+The unit can perform a ranged attack inflicting 50~ more damage at the expense of some stamina.#
+
+/506 Warp Spell
+#This unit can cast the "Warp" spell, moving the target unit to a free tile.
+Ammo units consumed by casting: %d.#
+
+/507 Skillful Spellcaster
+#This unit can cast spells while spending %d less stamina points.#
+
+/508 Cause Putrefaction
+#Effect duration: %d.
+The wounds of the enemy this unit strikes cannot be healed as long as the effect of the curse lasts. The curse remains active for several turns. An enemy's resistance reduces its duration.#
+
+/509 Tracker
+#After combat this unit can search enemies, increasing the income of trophies by %d~.#
+
+/510 Ammo Bearer
+#All adjacent friendly units are able to replenish from 1 to %d units of ammo right on the battlefield. The effect different ammo bearers can have on adjacent units is cumulative.#
+
+/511 Healing Circle Spell
+#This unit can cast the "Healing Circle" spell, healing the caster and all friendly units around it with 3 hit points.
+Ammo units consumed by casting: %d.#
+
+/512 Dash Spell
+#This unit can cast the "Dash" spell, giving a friendly unit another turn.
+Ammo units consumed by casting: %d.#
+
+/513 Skillful Healer
+#When using Healing this unit can reduce the duration of poisoning and bleeding in friendly target by %d turns.#
+
+/514 Supplier
+#All adjacent friendly units at rest recover %d health and stamina. The suppliers' effects and a unit's First Aid / Recuperation effects are cumulative.#
+
+/515 Self-control
+#Ammo restored: %d.
+If the unit has a magic shot or is a spellcaster, it will recover ammo each turn.#
+
+/516 Abysmal Joke Spell
+#This unit can cast the "Abysmal Joke" spell, causing damage to all enemy creatures around it.
+Ammo units consumed by casting: %d.#
+
+/517 Abysmal Swallow Spell
+#This unit can cast the "Abysmal Swallow" spell, supplying ammo to friendly units.
+Ammo units consumed by casting: %d.#
+
+/518 Summon Mocker Spell
+#This unit can cast the "Summon Mocker" spell, summoning a mocker to a tile adjacent to the summoner. Caster loses 5 hit points.
+Ammo units consumed by casting: %d.#
+
+/519 Skillful Tracker
+#This unit has the Tracker ability, making it easier to search locations for loot. The increase is half of its level of ability.#
+
+/520 Entangling Shot
+#This unit can entangle an enemy in roots from a distance, preventing it from moving for several turns. No effect on incorporeal enemies.#
+
+/521 Healing Circle Spell
+#This unit can cast the "Healing Circle" spell, healing 6 hit points to the caster and all adjacent friendly units, while at the same time it cures poisoning, stops bleeding and reduces the duration of festering wounds.
+Ammo units consumed by casting: %d.#
+
+/522 Cold Rage
+#When a unit falls into a Battle Frenzy, counter-attack increases by %d.#

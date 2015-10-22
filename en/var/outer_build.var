@@ -1,0 +1,2675 @@
+Quantity: 55
+
+/0
+Name: Empty;
+Upgrade: 0
+Building: 0
+GoldCost: 0
+GemCost: 0
+GoldAdd: 0
+GemAdd: 0
+GoldPerc: 0
+GemPerc: 0
+Mood: 0
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Resource: (0)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 0
+Param1: 0
+Param2: 0;
+
+/1
+Name: Sawmill;
+Upgrade: 0
+Building: 27
+GoldCost: 60
+GemCost: 0
+GoldAdd: 7
+GemAdd: 0
+GoldPerc: 0
+GemPerc: 0
+Mood: 0
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 0
+Forest: 1
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Resource: (2)
+
+ResourceBonus:
+Resource: 2
+Bonus: 2;
+
+Ability:
+Ability: 0
+Param1: 0
+Param2: 0;
+
+/2
+Name: Mine;
+Upgrade: 0
+Building: 29
+GoldCost: 70
+GemCost: 0
+GoldAdd: 7
+GemAdd: 0
+GoldPerc: 0
+GemPerc: 0
+Mood: 0
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 1
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Resource: (1)
+
+ResourceBonus:
+Resource: 1
+Bonus: 2
+
+Resource: 6
+Bonus: 4
+
+Resource: 7
+Bonus: 6;
+
+Ability:
+Ability: 7
+Param1: 7
+Param2: 30
+
+Ability: 7
+Param1: 514
+Param2: 10
+
+Ability: 7
+Param1: 521
+Param2: 5
+
+Ability: 7
+Param1: 528
+Param2: 2;
+
+/3
+Name: Mill;
+Upgrade: 0
+Building: 32
+GoldCost: 75
+GemCost: 0
+GoldAdd: 7
+GemAdd: 0
+GoldPerc: 0
+GemPerc: 0
+Mood: 0
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Resource: (0)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 7
+Param1: 1048
+Param2: 50;
+
+/4
+Name: Brewery;
+Upgrade: 3
+Building: 0
+GoldCost: 100
+GemCost: 0
+GoldAdd: 10
+GemAdd: 0
+GoldPerc: 0
+GemPerc: 0
+Mood: 1
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Resource: (0)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 10
+Param1: 2
+Param2: 0
+
+Ability: 7
+Param1: 243
+Param2: 40;
+
+/5
+Name: Storehouse;
+Upgrade: 0
+Building: 37
+GoldCost: 50
+GemCost: 0
+GoldAdd: 2
+GemAdd: 0
+GoldPerc: 0
+GemPerc: 0
+Mood: 0
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 1
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (0)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 0
+Param1: 0
+Param2: 0;
+
+/6
+Name: Mall;
+Upgrade: 5
+Building: 0
+GoldCost: 70
+GemCost: 0
+GoldAdd: 7
+GemAdd: 0
+GoldPerc: 0
+GemPerc: 0
+Mood: 0
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 1
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (3)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 7
+Param1: 14
+Param2: 20
+
+Ability: 7
+Param1: 708
+Param2: 50
+
+Ability: 7
+Param1: 745
+Param2: 40
+
+Ability: 7
+Param1: 759
+Param2: 20;
+
+/7
+Name: Market;
+Upgrade: 6
+Building: 0
+GoldCost: 150
+GemCost: 0
+GoldAdd: 13
+GemAdd: 0
+GoldPerc: 0
+GemPerc: 0
+Mood: 0
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 1
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (3, 3)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 7
+Param1: 14
+Param2: 50
+
+Ability: 7
+Param1: 708
+Param2: 100
+
+Ability: 7
+Param1: 745
+Param2: 70
+
+Ability: 7
+Param1: 759
+Param2: 50;
+
+/8
+Name: Granary;
+Upgrade: 0
+Building: 36
+GoldCost: 20
+GemCost: 0
+GoldAdd: 0
+GemAdd: 0
+GoldPerc: 0
+GemPerc: 0
+Mood: 0
+Attitude: 0
+Grow: 2
+Karma: 0
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (0)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 7
+Param1: 1
+Param2: -50;
+
+/9
+Name: Stable;
+Upgrade: 8
+Building: 38
+GoldCost: 150
+GemCost: 0
+GoldAdd: 3
+GemAdd: 0
+GoldPerc: 0
+GemPerc: 0
+Mood: 0
+Attitude: 0
+Grow: 4
+Karma: 0
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (3, 3)
+
+ResourceBonus:
+Resource: 3
+Bonus: 5;
+
+Ability:
+Ability: 2
+Param1: 1
+Param2: 0
+
+Ability: 7
+Param1: 1
+Param2: -50;
+
+/10
+Name: Shipyard;
+Upgrade: 0
+Building: 0
+GoldCost: 100
+GemCost: 0
+GoldAdd: 3
+GemAdd: 0
+GoldPerc: 0
+GemPerc: 0
+Mood: 0
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 1
+Port: 1
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (2, 2, 2)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 0
+Param1: 0
+Param2: 0;
+
+/11
+Name: Port;
+Upgrade: 10
+Building: 0
+GoldCost: 200
+GemCost: 0
+GoldAdd: 9
+GemAdd: 0
+GoldPerc: 0
+GemPerc: 0
+Mood: 0
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 1
+Port: 1
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (2, 2, 1)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 7
+Param1: 14
+Param2: 20
+
+Ability: 7
+Param1: 8
+Param2: 30;
+
+/12
+Name: Lighthouse;
+Upgrade: 11
+Building: 0
+GoldCost: 150
+GemCost: 0
+GoldAdd: 15
+GemAdd: 0
+GoldPerc: 0
+GemPerc: 0
+Mood: 0
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 1
+Port: 2
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (2, 1, 5)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 7
+Param1: 14
+Param2: 20
+
+Ability: 7
+Param1: 8
+Param2: 30;
+
+/13
+Name: Arena;
+Upgrade: 0
+Building: 0
+GoldCost: 150
+GemCost: 0
+GoldAdd: 4
+GemAdd: 0
+GoldPerc: 0
+GemPerc: 0
+Mood: 2
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (1, 3, 3)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 156
+
+Ability: 6
+Param1: 3
+Param2: 156;
+
+/14
+Name: Pub;
+Upgrade: 0
+Building: 31
+GoldCost: 25
+GemCost: 0
+GoldAdd: 2
+GemAdd: 0
+GoldPerc: 0
+GemPerc: 0
+Mood: 0
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (0)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 44
+
+Ability: 10
+Param1: 1
+Param2: 0;
+
+/15
+Name: Tavern;
+Upgrade: 14
+Building: 45
+GoldCost: 50
+GemCost: 0
+GoldAdd: 5
+GemAdd: 0
+GoldPerc: 0
+GemPerc: 0
+Mood: 0
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (0)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 44
+
+Ability: 10
+Param1: 2
+Param2: 0;
+
+/16
+Name: Inn;
+Upgrade: 15
+Building: 0
+GoldCost: 70
+GemCost: 0
+GoldAdd: 10
+GemAdd: 0
+GoldPerc: 0
+GemPerc: 0
+Mood: 0
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (0)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 44
+
+Ability: 10
+Param1: 3
+Param2: 0;
+
+/17
+Name: Library;
+Upgrade: 0
+Building: 43
+GoldCost: 40
+GemCost: 5
+GoldAdd: 0
+GemAdd: 0
+GoldPerc: 0
+GemPerc: 0
+Mood: 0
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 1
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (0)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 0
+Param1: 0
+Param2: 0;
+
+/18
+Name: Magic Tower;
+Upgrade: 17
+Building: 0
+GoldCost: 150
+GemCost: 20
+GoldAdd: 0
+GemAdd: 2
+GoldPerc: 0
+GemPerc: 0
+Mood: 0
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 10
+TowerShoot: 6
+TowerType: 17
+Library: 1
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (4, 5)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 11
+Param1: 1
+Param2: 0;
+
+/19
+Name: Outpost;
+Upgrade: 0
+Building: 28
+GoldCost: 500
+GemCost: 0
+GoldAdd: 0
+GemAdd: 0
+GoldPerc: 0
+GemPerc: 0
+Mood: 0
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 200
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (2, 2, 1, 3, 3)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 4
+Param1: 1
+Param2: 4;
+
+/20
+Name: Fort;
+Upgrade: 19
+Building: 41
+GoldCost: 150
+GemCost: 0
+GoldAdd: 0
+GemAdd: 0
+GoldPerc: 0
+GemPerc: 0
+Mood: 0
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 300
+TowerHealth: 10
+TowerShoot: 5
+TowerType: 1
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (2, 1, 1, 3, 3)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 4
+Param1: 1
+Param2: 5
+
+Ability: 4
+Param1: 2
+Param2: 2
+
+Ability: 10
+Param1: 2
+Param2: 0
+
+Ability: 11
+Param1: 1
+Param2: 0;
+
+/21
+Name: Citadel;
+Upgrade: 20
+Building: 0
+GoldCost: 250
+GemCost: 0
+GoldAdd: 0
+GemAdd: 0
+GoldPerc: 0
+GemPerc: 0
+Mood: 0
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 400
+TowerHealth: 12
+TowerShoot: 6
+TowerType: 2
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (2, 1, 1, 3, 3, 7)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 4
+Param1: 1
+Param2: 5
+
+Ability: 4
+Param1: 2
+Param2: 3
+
+Ability: 4
+Param1: 3
+Param2: 2
+
+Ability: 10
+Param1: 4
+Param2: 0
+
+Ability: 11
+Param1: 1
+Param2: 0;
+
+/22
+Name: Fortress;
+Upgrade: 21
+Building: 0
+GoldCost: 400
+GemCost: 0
+GoldAdd: 0
+GemAdd: 0
+GoldPerc: 0
+GemPerc: 0
+Mood: 0
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 500
+TowerHealth: 15
+TowerShoot: 7
+TowerType: 3
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (1, 3, 3, 7, 7, 7)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 4
+Param1: 1
+Param2: 6
+
+Ability: 4
+Param1: 2
+Param2: 3
+
+Ability: 4
+Param1: 3
+Param2: 2
+
+Ability: 4
+Param1: 4
+Param2: 1
+
+Ability: 10
+Param1: 6
+Param2: 0
+
+Ability: 11
+Param1: 1
+Param2: 0;
+
+/23
+Name: Castle;
+Upgrade: 22
+Building: 0
+GoldCost: 500
+GemCost: 0
+GoldAdd: 0
+GemAdd: 0
+GoldPerc: 0
+GemPerc: 0
+Mood: 0
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 600
+TowerHealth: 17
+TowerShoot: 8
+TowerType: 4
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (1, 1, 3, 7, 7, 7)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 4
+Param1: 1
+Param2: 6
+
+Ability: 4
+Param1: 2
+Param2: 4
+
+Ability: 4
+Param1: 3
+Param2: 3
+
+Ability: 4
+Param1: 4
+Param2: 2
+
+Ability: 10
+Param1: 10
+Param2: 0
+
+Ability: 11
+Param1: 1
+Param2: 0;
+
+/24
+Name: Infirmary;
+Upgrade: 0
+Building: 0
+GoldCost: 40
+GemCost: 5
+GoldAdd: 0
+GemAdd: 0
+GoldPerc: 0
+GemPerc: 0
+Mood: 0
+Attitude: 0
+Grow: 3
+Karma: 1
+Heal: 10
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (4)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 7
+Param1: 8
+Param2: -50
+
+Ability: 7
+Param1: 219
+Param2: -50;
+
+/25
+Name: Pharmacy;
+Upgrade: 24
+Building: 0
+GoldCost: 125
+GemCost: 15
+GoldAdd: 0
+GemAdd: 1
+GoldPerc: 0
+GemPerc: 0
+Mood: 0
+Attitude: 0
+Grow: 7
+Karma: 1
+Heal: 25
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (6, 4)
+
+ResourceBonus:
+Resource: 4
+Bonus: 7;
+
+Ability:
+Ability: 7
+Param1: 8
+Param2: -80
+
+Ability: 7
+Param1: 219
+Param2: -80;
+
+/26
+Name: Deputy's House;
+Upgrade: 0
+Building: 0
+GoldCost: 100
+GemCost: 0
+GoldAdd: 0
+GemAdd: 0
+GoldPerc: 15
+GemPerc: 0
+Mood: 0
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (2, 6)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 9
+Param1: -30
+Param2: 0;
+
+/27
+Name: Judge's House;
+Upgrade: 26
+Building: 0
+GoldCost: 100
+GemCost: 0
+GoldAdd: 0
+GemAdd: 0
+GoldPerc: 25
+GemPerc: 0
+Mood: 0
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (6, 6)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 5
+Param1: 2
+Param2: 0
+
+Ability: 9
+Param1: -50
+Param2: 0;
+
+/28
+Name: Town Council;
+Upgrade: 27
+Building: 0
+GoldCost: 200
+GemCost: 0
+GoldAdd: 0
+GemAdd: 0
+GoldPerc: 40
+GemPerc: 0
+Mood: 0
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (6, 6, 6)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 5
+Param1: 2
+Param2: 0
+
+Ability: 9
+Param1: -70
+Param2: 0;
+
+/29
+Name: Tax Collector;
+Upgrade: 28
+Building: 0
+GoldCost: 400
+GemCost: 0
+GoldAdd: 0
+GemAdd: 0
+GoldPerc: 50
+GemPerc: 0
+Mood: -1
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (6, 6, 6, 6)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 5
+Param1: 2
+Param2: 0
+
+Ability: 9
+Param1: -100
+Param2: 0;
+
+/30
+Name: Secret Monastery;
+Upgrade: 0
+Building: 0
+GoldCost: 100
+GemCost: 20
+GoldAdd: 0
+GemAdd: 2
+GoldPerc: 0
+GemPerc: 0
+Mood: 0
+Attitude: 0
+Grow: 0
+Karma: 2
+Heal: 15
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 1
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (2, 4)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 8
+Param1: 2
+Param2: 2;
+
+/31
+Name: Dark Tower;
+Upgrade: 0
+Building: 0
+GoldCost: 60
+GemCost: 25
+GoldAdd: 0
+GemAdd: 3
+GoldPerc: 0
+GemPerc: 0
+Mood: -1
+Attitude: 0
+Grow: 0
+Karma: -2
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 1
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (4, 5)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 8
+Param1: 2
+Param2: 2
+
+Ability: 11
+Param1: 1
+Param2: 0;
+
+/32
+Name: Tower of Lightning;
+Upgrade: 0
+Building: 0
+GoldCost: 200
+GemCost: 40
+GoldAdd: 0
+GemAdd: 5
+GoldPerc: 0
+GemPerc: 0
+Mood: 0
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 10
+TowerShoot: 10
+TowerType: 21
+Library: 1
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (5, 5)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 8
+Param1: 3
+Param2: 3
+
+Ability: 11
+Param1: 1
+Param2: 0;
+
+/33
+Name: Golden Sphere;
+Upgrade: 0
+Building: 0
+GoldCost: 100
+GemCost: 10
+GoldAdd: 20
+GemAdd: 0
+GoldPerc: 0
+GemPerc: 0
+Mood: 1
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (5, 7)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 8
+Param1: 3
+Param2: 3;
+
+/34
+Name: Enchanted Well;
+Upgrade: 0
+Building: 0
+GoldCost: 50
+GemCost: 15
+GoldAdd: 0
+GemAdd: 1
+GoldPerc: 0
+GemPerc: 0
+Mood: 2
+Attitude: 0
+Grow: 5
+Karma: 0
+Heal: 10
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (4)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 8
+Param1: 2
+Param2: 3;
+
+/35
+Name: Ancient Pyramid;
+Upgrade: 0
+Building: 0
+GoldCost: 100
+GemCost: 30
+GoldAdd: 0
+GemAdd: 0
+GoldPerc: 0
+GemPerc: 100
+Mood: 0
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (5)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 8
+Param1: 3
+Param2: 3;
+
+/36
+Name: Ancient Shrine;
+Upgrade: 0
+Building: 0
+GoldCost: 150
+GemCost: 30
+GoldAdd: 5
+GemAdd: 2
+GoldPerc: 0
+GemPerc: 0
+Mood: 5
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (5)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 8
+Param1: 3
+Param2: 3
+
+Ability: 10
+Param1: 3
+Param2: 0;
+
+/37
+Name: Ancient Temple;
+Upgrade: 0
+Building: 0
+GoldCost: 200
+GemCost: 30
+GoldAdd: 3
+GemAdd: 3
+GoldPerc: 0
+GemPerc: 0
+Mood: 3
+Attitude: 0
+Grow: 3
+Karma: 0
+Heal: 15
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (6)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 8
+Param1: 3
+Param2: 4;
+
+/38
+Name: Ancient Vault;
+Upgrade: 0
+Building: 0
+GoldCost: 300
+GemCost: 10
+GoldAdd: 25
+GemAdd: 0
+GoldPerc: 0
+GemPerc: 0
+Mood: 0
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 1
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (6, 7)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 8
+Param1: 4
+Param2: 4;
+
+/39
+Name: Ancient Mine;
+Upgrade: 0
+Building: 0
+GoldCost: 150
+GemCost: 0
+GoldAdd: 15
+GemAdd: 0
+GoldPerc: 0
+GemPerc: 0
+Mood: 0
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 1
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Resource: (7)
+
+ResourceBonus:
+Resource: 1
+Bonus: 4
+
+Resource: 6
+Bonus: 8
+
+Resource: 7
+Bonus: 12;
+
+Ability:
+Ability: 8
+Param1: 3
+Param2: 2
+
+Ability: 7
+Param1: 7
+Param2: 30
+
+Ability: 7
+Param1: 514
+Param2: 20
+
+Ability: 7
+Param1: 521
+Param2: 10
+
+Ability: 7
+Param1: 528
+Param2: 5;
+
+/40
+Name: Shaman's Hut;
+Upgrade: 0
+Building: 0
+GoldCost: 40
+GemCost: 10
+GoldAdd: 0
+GemAdd: 3
+GoldPerc: 0
+GemPerc: 0
+Mood: 0
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 10
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 1
+Desert: 0
+Tundra: 0
+
+Resource: (4)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 8
+Param1: 2
+Param2: 3;
+
+/41
+Name: Crystal Mine;
+Upgrade: 0
+Building: 55
+GoldCost: 200
+GemCost: 20
+GoldAdd: 1
+GemAdd: 3
+GoldPerc: 0
+GemPerc: 10
+Mood: 0
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 0
+Desert: 1
+Tundra: 0
+
+Resource: (1, 2)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 7
+Param1: 748
+Param2: 10;
+
+/42
+Name: Berry Farm;
+Upgrade: 0
+Building: 56
+GoldCost: 70
+GemCost: 0
+GoldAdd: 8
+GemAdd: 0
+GoldPerc: 0
+GemPerc: -35
+Mood: 0
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 1
+Desert: 0
+Tundra: 0
+
+Resource: (0)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 0
+Param1: 0
+Param2: 0;
+
+/43
+Name: Sacrificial Altar;
+Upgrade: 0
+Building: 0
+GoldCost: 150
+GemCost: 20
+GoldAdd: 0
+GemAdd: 10
+GoldPerc: 0
+GemPerc: 0
+Mood: -2
+Attitude: 0
+Grow: -4
+Karma: -1
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (4, 5, 6)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 8
+Param1: 3
+Param2: 4;
+
+/44
+Name: Chaos Monument;
+Upgrade: 0
+Building: 0
+GoldCost: 250
+GemCost: 40
+GoldAdd: 25
+GemAdd: 6
+GoldPerc: 0
+GemPerc: 0
+Mood: -2
+Attitude: 0
+Grow: -2
+Karma: -2
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (4, 5, 6)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 8
+Param1: 3
+Param2: 3;
+
+/45
+Name: Magic Monument;
+Upgrade: 0
+Building: 0
+GoldCost: 250
+GemCost: 40
+GoldAdd: 8
+GemAdd: 8
+GoldPerc: 0
+GemPerc: 0
+Mood: -1
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (4, 5, 6)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 8
+Param1: 3
+Param2: 3;
+
+/46
+Name: Darkness Monument;
+Upgrade: 0
+Building: 0
+GoldCost: 250
+GemCost: 40
+GoldAdd: 30
+GemAdd: 2
+GoldPerc: 0
+GemPerc: 0
+Mood: -2
+Attitude: 0
+Grow: -2
+Karma: -2
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (4, 5, 6)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 8
+Param1: 3
+Param2: 3
+
+Ability: 7
+Param1: 727
+Param2: 10;
+
+/47
+Name: Light Monument;
+Upgrade: 0
+Building: 0
+GoldCost: 250
+GemCost: 40
+GoldAdd: 0
+GemAdd: 0
+GoldPerc: 0
+GemPerc: 0
+Mood: 2
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (4, 5, 6)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 8
+Param1: 3
+Param2: 3
+
+Ability: 10
+Param1: 10
+Param2: 0
+
+Ability: 9
+Param1: -100
+Param2: 0
+
+Ability: 11
+Param1: 1
+Param2: 0;
+
+/48
+Name: Elemental Monument;
+Upgrade: 0
+Building: 0
+GoldCost: 200
+GemCost: 20
+GoldAdd: 15
+GemAdd: 0
+GoldPerc: 0
+GemPerc: 0
+Mood: 1
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (4, 5, 6)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 10
+Param1: 2
+Param2: 0
+
+Ability: 8
+Param1: 3
+Param2: 3
+
+Ability: 7
+Param1: 1
+Param2: -100;
+
+/49
+Name: Sorcery Monument;
+Upgrade: 0
+Building: 0
+GoldCost: 250
+GemCost: 40
+GoldAdd: 0
+GemAdd: 15
+GoldPerc: 0
+GemPerc: 0
+Mood: -2
+Attitude: 0
+Grow: 0
+Karma: -1
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (4, 5, 6)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 8
+Param1: 3
+Param2: 3;
+
+/50
+Name: Gnoll's Outpost;
+Upgrade: 0
+Building: 266
+GoldCost: 175
+GemCost: 0
+GoldAdd: 0
+GemAdd: 0
+GoldPerc: 0
+GemPerc: 0
+Mood: 0
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (1, 2, 2, 3)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 5
+Param1: 3
+Param2: 0
+
+Ability: 11
+Param1: 1
+Param2: 0;
+
+/51
+Name: Dwarven Mine;
+Upgrade: 2
+Building: 0
+GoldCost: 100
+GemCost: 0
+GoldAdd: 12
+GemAdd: 0
+GoldPerc: 0
+GemPerc: 0
+Mood: 0
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 1
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Resource: (7)
+
+ResourceBonus:
+Resource: 1
+Bonus: 6
+
+Resource: 6
+Bonus: 8
+
+Resource: 7
+Bonus: 10;
+
+Ability:
+Ability: 7
+Param1: 7
+Param2: 40
+
+Ability: 7
+Param1: 514
+Param2: 20
+
+Ability: 7
+Param1: 521
+Param2: 10
+
+Ability: 7
+Param1: 528
+Param2: 5
+
+Ability: 7
+Param1: 261
+Param2: 50;
+
+/52
+Name: Temple;
+Upgrade: 0
+Building: 0
+GoldCost: 200
+GemCost: 40
+GoldAdd: 0
+GemAdd: 0
+GoldPerc: 0
+GemPerc: 0
+Mood: 1
+Attitude: 0
+Grow: 0
+Karma: 1
+Heal: 10
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 1
+Desert: 1
+Tundra: 1
+
+Resource: (6, 7, 8)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 9
+Param1: -50
+Param2: 0
+
+Ability: 7
+Param1: 36
+Param2: -50
+
+Ability: 7
+Param1: 56
+Param2: -50
+
+Ability: 8
+Param1: 2
+Param2: 3;
+
+/53
+Name: Battlemage Garden;
+Upgrade: 0
+Building: 221
+GoldCost: 160
+GemCost: 15
+GoldAdd: 0
+GemAdd: 3
+GoldPerc: 0
+GemPerc: 35
+Mood: 0
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 1
+Desert: 0
+Tundra: 0
+
+Resource: (6, 9)
+
+ResourceBonus:
+Resource: 9
+Bonus: 10;
+
+Ability:
+Ability: 0
+Param1: 0
+Param2: 0;
+
+/54
+Name: Bakery;
+Upgrade: 3
+Building: 225
+GoldCost: 100
+GemCost: 0
+GoldAdd: 15
+GemAdd: 0
+GoldPerc: 0
+GemPerc: 0
+Mood: 0
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Resource: (0)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 7
+Param1: 1
+Param2: -35
+
+Ability: 7
+Param1: 14
+Param2: 20
+
+Ability: 7
+Param1: 1048
+Param2: 35;
+
+/55
+Name: Crystal Mine;
+Upgrade: 41
+Building: 227
+GoldCost: 100
+GemCost: 25
+GoldAdd: 5
+GemAdd: 5
+GoldPerc: 0
+GemPerc: 25
+Mood: 0
+Attitude: 0
+Grow: 0
+Karma: 0
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 0
+Desert: 1
+Tundra: 0
+
+Resource: (6, 2)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 7
+Param1: 748
+Param2: 20;

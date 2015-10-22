@@ -1,0 +1,281 @@
+/Оинор
+/0 Первая встреча
+Index: 1;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Greetings to you, %s! I am Oinor, formerly the Archmage of the White Tower, now one of the Masters creating these worlds. I wish you luck in your undertakings. Remember - we have a common enemy, Chaos, craving to destroy the whole world until nothing remains. So may the battle for this Shard strengthen Eador, and may the wisest one win!#
+
+/1 Не первая встреча (Плохие отношения)
+Index: 2;
+Min: -5000;
+Max: -100;
+Name: 1;
+Param: 0;
+Text: #Is it you again, %s? I swear by the Eternal Knowledge, I wish it had been someone else. One way or the other, Fate will judge which of us is right.#
+
+/2 Не первая встреча (Нейтрален)
+Index: 2;
+Min: -99;
+Max: 99;
+Name: 1;
+Param: 0;
+Text: #Greetings, %s! Fate has brought us together again. I hope that this time we can come to a mutual understanding.#
+
+/3 Не первая встреча (Хорошие отношения)
+Index: 2;
+Min: 100;
+Max: 5000;
+Name: 1;
+Param: 0;
+Text: #Greetings, %s! I'm glad that you're here too. No matter which of us wins, I know that this Shard of the world will be in good hands.#
+
+/4 Сразу война
+Index: 3;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Greetings, %s! I'm sorry to admit that I have no other option - I must declare war on you. Prepare your troops, and let the battle judge us!#
+
+/5 Объявление войны
+Index: 4;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #The time has come to commence our battle, %s. I declare war on you, and may the wisest one win!#
+
+/6 Предложение мира
+Index: 5;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #War is horrible, no matter the reason for it. So many innocents perish in its flames, so many children are left without fathers. Here is my offer to you, %s - let us stop the bloodshed and make peace.#
+
+/7 Предложение союза
+Index: 6;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #The wise help each other, while the foolish die alone. I offer you an alliance, %s! Together we will clear this Shard of the forces of evil and Chaos, and peace will come to this long-suffering land at last.#
+
+/8 Предложение торговли 
+Index: 7;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Trade is the road to prosperity and friendly relations. Let us sign a Trade Agreement, %s, for the benefit of our lands.#
+
+/9 Предложение обмена
+Index: 8;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I'm offering you a fair deal, %s. What do you say?#
+
+/10 Пересмотр торговли
+Index: 9;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #The time has come to revise our trade relations. What do you say, %s?#
+
+/11 Отмена торговли
+Index: 10;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Regretfully, I must break our Trade Agreement. The economic situation is such that I can't go on trading.#
+
+/12 Отмена союза
+Index: 11;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I know, %s, that you use our alliance as a cover to make your shady deals behind my back. No longer will I put up with your hypocrisy and lies. The alliance is broken!#
+
+/13 Требование выкупа
+Index: 12;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #You have caused so much evil to the people of this Shard, %s. I could deliver this world from your presence, but I've decided to give you one last chance. Give me part of the loot, and I'll try to remedy the damage that you have caused to the innocent.#
+
+/14 Дар
+Index: 13;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Accept this gift as a token of friendship and a symbol of peace, %s!#
+
+/15 Отказ (Грубый)
+Index: 14;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: -1;
+Text: #What a ridiculous offer, %s!! I refuse!#
+
+/16 Отказ (Обычный)
+Index: 14;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #I don't think I can accept your offer.#
+
+/17 Отказ (Вежливый)
+Index: 14;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 1;
+Text: #Your offer is very tempting, %s, but I don't think that it would be wise to accept it.#
+
+/18 Соглашение (Недовольное)
+Index: 15;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: -1;
+Text: #It seems I have no other choice. I accept your terms.#
+
+/19 Соглашение (Нейтральное)
+Index: 15;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Yes, I agree.#
+
+/20 Соглашение (Довольное)
+Index: 15;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 1;
+Text: #This is a very wise offer, %s. I agree.#
+
+/21 Отказ от общения (1х1)
+Index: 19;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #The time for talking is over. Only war will tell which of us is right.#
+
+/22 Отказ от переговоров
+Index: 23;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I don't see any sense in negotiations with you, %s.#
+
+/23 Союзник, жребий или война
+Index: 20;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Together we have overpowered our enemies, so now the time has come to decide which of us receives this Shard. We can cast lots or resolve our dispute on the battlefield. What do you choose, %s?#
+
+/24 Союзник, сдаться или война
+Index: 21;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Together we have overpowered our enemies, although it was mostly my warriors who won this war. I hope you're wise enough to admit that this Shard must be added to my world. If not, I'll have to prove my superiority to you in battle.#
+
+/25 Союзник, сдача
+Index: 22;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Together we have overpowered our enemies, and I believe this Shard belongs to you rightfully, %s. Rule over it wisely and remember the fates of mere mortals.#
+
+/26 Отказ от подарка
+Index: 24;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Are you really trying to buy my favor with a handout like this? Do not forget greed is a vice, %s!#
+
+/27 Принимаем дары
+Index: 25;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I thank you for your generous gift, %s. I won't forget your kindness.#
+
+/28 Отказ от союза с предателем
+Index: 16;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #How dare you offer me an alliance, when you have betrayed me so viciously? I don't believe a word you say, %s. Get away!#
+
+/29 Отказ от мира с предателем
+Index: 17;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Are you crying for mercy? No, I will not make peace with you. May your fate be a lesson to the others!#
+
+/30 первая встреча, кампания
+Index: 26;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Greetings, %s! So, our paths have crossed. I wish you luck in fighting for this Shard. May our battle strengthen Eador, and may the wisest one win!#
+
+/31 Ответ на объявление войны
+Index: 27;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #You are making a mistake, %s. I hope you'll learn your lesson this time, and never take the same misstep again.#
+
+/32 Отказ в мире союзнику
+Index: 28;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #I applaud your desire for peace, %s, but would it be wise to conclude hostilities right now? There's no doubt that war is a monstrous thing, but many people just don't understand any other method of argument, and %s is the perfect example of such people. Therefore, I'm against this peace. I hope you'll understand, not condemn me.#
+
+/33 Ответ на предательство
+Index: 29;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #How low you have fallen, %s! Only people completely devoid of self-respect can stoop to betrayal. I pity you.#
+
+/34 Война, остались 1х1
+Index: 30;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #There are two of us left on this Shard, %s. According to the ancient laws, only war can decide who will possess it. I wish you luck in the battles to come, and may the wisest one win!#
+&&&&&&

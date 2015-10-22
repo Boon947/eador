@@ -1,0 +1,332 @@
+0. Empty
+#No description#
+
+1. Sawmill
+#Income +7.
+Redwood income +2.
+Can only be built in a forest.#
+
+2. Mine
+#Income +7.
+Iron income +2.
+Marble income +4.
+Mithril income +6.
+Can only be built on a hill.
+#
+
+3. Mill
+#Income +7.
+Can only be built on a plain.#
+
+4. Brewery
+#Mill Upgrade.
+Income +10.
+Population mood +1.
+Increases the morale of province defenders by 2.#
+
+5. Storehouse
+#Income +2.
+Access to the stronghold's shops and treasury from this province.#
+
+6. Mall
+#Storehouse Upgrade.
+Income +7.
+Access to the stronghold's shops and treasury from this province.#
+
+7. Market
+#Mall Upgrade.
+Income +13.
+Access to the stronghold's shops and treasury from this province.#
+
+8. Granary
+#Increases population growth. Reduces the risk of famine in this province.#
+
+9. Stable
+#Granary Upgrade.
+Significantly increases population growth.
+Income +3.
+Income from Horses +5.
+Increases the mobility of a hero staying in this province by 1.
+A hero spends only 1 mobility point to cross this province.#
+
+10. Shipyard
+#Can only be built in a coastal province.
+Income +3.
+Allows a hero to cross a neighboring sea province.#
+
+11. Port
+#Shipyard Upgrade.
+Can only be built in a coastal province.
+Income +9.
+Allows a hero to cross a neighboring sea province.#
+
+12. Lighthouse
+#Port Upgrade.
+Can only be built in a coastal province.
+Income +15.
+Allows a hero to cross two neighboring sea provinces.#
+
+13. Arena
+#Population mood +2. Income +4.
+Improves population mood by 1 and increases Income by 3 if there is a Traveling Circus built in the stronghold.#
+
+14. Pub
+#Income +2.
+Improves population mood by 1 if there is a Theater built in the stronghold.
+Increases the morale of province defenders by 1.#
+
+15. Tavern
+#Pub Upgrade.
+Income +5.
+Improves population mood by 1 if there is a Theater built in the stronghold.
+Increases the morale of province defenders by 2.#
+
+16. Inn
+#Tavern Upgrade.
+Income +10.
+Improves population mood by 1 if there is a Theater built in the stronghold.
+Increases the morale of province defenders by 3.#
+
+17. Library
+#Access to the stronghold's library from this province.#
+
+18. Magic Tower
+#Library Upgrade.
+Access to the stronghold's library from this province.
+Yields 2 gems per turn.
+Fires Magic Shots at the enemies when defending this province in battle.
+Increases spotting range.#
+
+19. Outpost
+#Fortification (200).
+First rank garrison.
+Allows heroes to recruit troops in this province.
+Guards in this province are incorruptible.#
+
+20. Fort
+#Outpost Upgrade.
+Fortification (300).
+1 Tower.
+Second rank garrison.
+Increases spotting range.
+Increases the morale of province defenders by 2.
+Allows heroes to recruit troops in this province.
+Guards in this province are incorruptible.#
+
+21. Citadel
+#Fort Upgrade.
+Fortification (400).
+2 Towers.
+Third rank garrison.
+Increases spotting range.
+Increases the morale of province defenders by 4.
+Allows heroes to recruit troops in this province.
+Guards in this province are incorruptible.#
+
+22. Fortress
+#Citadel Upgrade.
+Fortification (500).
+3 Towers.
+Fourth rank garrison.
+Increases spotting range.
+Increases the morale of province defenders by 6.
+Allows heroes to recruit troops in this province.
+Guards in this province are incorruptible.#
+
+23. Castle
+#Fortress Upgrade.
+Fortification (600).
+4 Towers.
+Full fourth rank garrison.
+Increases spotting range.
+Increases the morale of province defenders by 10.
+Allows heroes to recruit troops in this province.
+Guards in this province are incorruptible.#
+
+24. Infirmary
+#Increases population growth.
+Speeds up restoration of unit hit points by 10~.  
+Reduces the risk of an epidemic in this province.#
+
+25. Pharmacy
+#Infirmary Upgrade.
+Yields 1 gem per turn.
+Greatly increases population growth.
+Speeds up restoration of unit hit points by 25~.
+Mandrake income +7.
+Reduces the risk of an epidemic in this province.#
+
+26. Deputy's House
+#Increases gold income from this province by 15~.
+Reduces corruption in this province by 30~.#
+
+27. Judge's House
+#Deputy's House Upgrade.
+Increases gold income from this province by 25~.
+Slows down unrest growth rate. 
+Reduces corruption in this province by 50~.#
+
+28. Town Council
+#Judge's House Upgrade.
+Increases gold income from this province by 40~.
+Slows down unrest growth rate.
+Reduces corruption in this province by 70~.#
+
+29. Tax Collector
+#Town Council Upgrade.
+Increases gold income from this province by 50~.
+Slows down unrest growth rate.
+Population mood -1.
+Reduces corruption in this province by 100~.#
+
+30. Secret Monastery
+#Yields 2 gems per turn.
+Access to the stronghold's library from this province.
+Speeds up restoration of unit hit points by 15~.#
+
+31. Dark Tower
+#Yields 3 gems per turn.
+Access to the stronghold's library from this province.
+Population mood -1.
+Increases spotting range.#
+
+32. Tower of Lightning
+#Yields 5 gems per turn.
+Access to the stronghold's library from this province.
+Fires Lightning at the enemies when defending this province in battle.
+Increases spotting range.#
+
+33. Golden Sphere
+#Income +20.
+Population mood +1.#
+
+34. Enchanted Well
+#Yields 1 gem per turn.
+Significantly increases population growth.
+Speeds up restoration of unit hit points by 10~.
+Population mood +2.#
+
+35. Ancient Pyramid
+#Doubles gem income from this province.#
+
+36. Ancient Shrine
+#Income +5.
+Yields 2 gems per turn.
+Population mood +5.
+Increases the morale of province defenders by 3.#
+
+37. Ancient Temple
+#Income +3.
+Yields 3 gems per turn.
+Increases population growth.
+Speeds up restoration of unit hit points by 15~.
+Population mood +3.#
+
+38. Ancient Vault
+#Income +25.
+Access to the stronghold's shops and treasury from this province.#
+
+39. Ancient Mine
+#Income +15.
+Iron income +4.
+Marble income +8.
+Mithril income +12.
+Can only be built on a hill.#
+
+40. Shaman's Hut
+#Yields 3 gems per turn.
+Speeds up restoration of unit hit points by 10~.
+Can only be built in a swamp.#
+
+41. Crystal Mine
+#Income +1.
+Yields 3 gems per turn.
+Increase income of gems by 10~.
+Can not be built in a swamp.#
+
+42. Berry Farm
+#Income +8.
+Can only be built in a swamp.
+Reduces gem income by a third.#
+
+43. Sacrificial Altar
+#Yields 10 gems per turn.
+Population mood -2.
+Greatly reduces population growth. #
+
+44. Chaos Monument
+#Gathering place of devil worshipers, where they pray and make sacrifices. Part of the gifts to the idol is taken to the treasury.
+Income +25.
+Yields 6 gems per turn.
+Population mood -2.
+Greatly reduces the population growth.#
+
+45. Magic Monument
+#At night, the statue glows, turning minerals and metal scraps laid at her feet into magic crystals and gold by sunrise. The people of the province are forbidden to come close under penalty of death.
+Income +8.
+Yields 8 gems per turn.
+Population mood -1.#
+
+46. Darkness Monument
+#It is said that at night the monument comes to life and visits people in their houses. There is no escaping it, and by morning whole families are found dead and bloodless. This is typical for a vampire, but as the dead have no use for gold, all of the their property is brought to the treasury.
+Income +30.
+Yields 2 gems per turn.
+Population mood -2.
+Greatly reduces the population growth.#
+
+47. Light Monument
+#Every man tends to pray at the monument, because the obtained blessings give strength and determination in the battles ahead.
+Rumor has it that the statue itself watches over the fate of mortals through the eyes of the Lord of Light.
+Population mood +2.
+Increases spotting range.
+Increases the morale of province defenders by 10.
+Reduces corruption in this province by 100~.#
+
+48. Elemental Monument
+#A wonderful monument established in the province brings the right weather at the right time. Harvests are abundant, income from the province grows and the people are pleased with your reign.
+Income +15.
+Population mood +1.
+Slows down unrest growth rate.
+Increases the morale of province defenders by 2.#
+
+49. Sorcery Monument
+#On the pedestal of the statue ancient texts are written in a long forgotten language. The author was a very powerful warlock and perhaps those who can decipher the mysterious texts gain access to that lost knowledge. The monument often attracts all sorts of spellcasters who generously pay for the right to copy the ancient texts.
+Yields 15 gems per turn.
+Population mood -2.#
+
+50. Gnoll's Outpost
+#Increases spotting range.
+Slows down unrest growth rate.#
+
+51. Dwarven Mine
+#Mine Upgrade.
+Income +12.
+Iron income +6.
+Marble income +8.
+Mithril income +10.
+Can only be built on a hill.
+#
+
+52. Temple
+#Population mood +1.
+Speeds up restoration of unit hit points by 10~.  
+Reduces corruption in this province by 50~.
+Reduces the risk of an attack by undead and demons in the province.#
+
+53. Battlemage Garden
+#Income from black lotus + 10.
+Yields 3 gems per turn.
+Increases gem income by a third.
+Can only be built in a swamp.#
+
+54. Bakery
+#Mill Upgrade.
+Income +15.
+Reduces the risk of famine in this province.#
+
+55. Crystal Mine
+#Mine Upgrade.
+Income +5.
+Yields 5 gems per turn.
+Increase income of gems by 25~.
+Can not be built in a swamp.#

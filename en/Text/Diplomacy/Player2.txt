@@ -1,0 +1,281 @@
+/Дорикус
+/0 Первая встреча
+Index: 1;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Greetings, %s! I hope you're wise enough not to impede my plans. People quite often say that dragons are very vindictive. Well, that's a solemn truth.#
+
+/1 Не первая встреча (Плохие отношения)
+Index: 2;
+Min: -5000;
+Max: -100;
+Name: 0;
+Param: 0;
+Text: #I've already told you that dragons never forgive those who have hurt them in the past. Soon you're going to feel this on your own back.#
+
+/2 Не первая встреча (Нейтрален)
+Index: 2;
+Min: -99;
+Max: 99;
+Name: 1;
+Param: 0;
+Text: #Greetings, %s! Remember that dragons are always watching, so try to behave... appropriately.#
+
+/3 Не первая встреча (Хорошие отношения)
+Index: 2;
+Min: 100;
+Max: 5000;
+Name: 1;
+Param: 0;
+Text: #Greetings, %s! Up until now I have seen only the good side of you. I hope you won't disappoint me later.#
+
+/4 Сразу война
+Index: 3;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #I'm not going to waste my time on empty greetings. Soon dragon flame will burn your lands to ashes. Prepare for war!#
+
+/5 Объявление войны
+Index: 4;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #I've decided to relieve the world from your presence. Soon dragon flame will burn your lands to ashes. Prepare for war!#
+
+/6 Предложение мира
+Index: 5;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #There's a time for war and a time for peace. Now the time has come to cease our hostilities. Do you agree, %s?#
+
+/7 Предложение союза
+Index: 6;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #An alliance with dragons is a powerful thing. Do you agree to accept it and crush the enemies together with my race?#
+
+/8 Предложение торговли 
+Index: 7;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I'm offering you a deal, %s. I hope you'll be wise enough to accept it.#
+
+/9 Предложение обмена
+Index: 8;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I'm offering you a deal, %s. I hope you'll be wise enough to accept it.#
+
+/10 Пересмотр торговли
+Index: 9;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #The situation has changed, %s. Therefore, it's time to change our trade agreements as well.#
+
+/11 Отмена торговли
+Index: 10;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Your merchants are too greedy, %s. I'm tired of their importunity. Our Trade Agreement is now terminated.#
+
+/12 Отмена союза
+Index: 11;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #You are not worthy to be called a friend of dragons. I'm breaking our alliance.#
+
+/13 Требование выкупа
+Index: 12;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Did you know that dragons love treasures, %s? And right now this love might just keep the peace. If you give me a portion of your treasures, I'll maintain peace with your pathetic realm.#
+
+/14 Дар
+Index: 13;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Remember this day, %s. Today, dragons have presented you with a generous gift.#
+
+/15 Отказ (Грубый)
+Index: 14;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: -1;
+Text: #If you wished to infuriate me, you have succeeded. My answer is no!#
+
+/16 Отказ (Обычный)
+Index: 14;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #My answer is no.#
+
+/17 Отказ (Вежливый)
+Index: 14;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 1;
+Text: #You are good at convincing, but you have failed to convince me. My answer is no.#
+
+/18 Соглашение (Недовольное)
+Index: 15;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: -1;
+Text: #I agree this time. But do not think this is going to last forever.#
+
+/19 Соглашение (Нейтральное)
+Index: 15;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Yes, I agree.#
+
+/20 Соглашение (Довольное)
+Index: 15;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 1;
+Text: #Your offer is very reasonable, %s. I agree.#
+
+/21 Отказ от общения (1х1)
+Index: 19;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Conversation is pointless. The time has come to settle our differences with war.#
+
+/22 Отказ от переговоров
+Index: 23;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Enough of these empty words, %s!#
+
+/23 Союзник, жребий или война
+Index: 20;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Together we have destroyed our enemies. Now is the time to decide who will rule this world. We can resolve our dispute with war or we can put our trust in fate. What do you choose, %s?#
+
+/24 Союзник, сдаться или война
+Index: 21;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Our enemies have been destroyed, and this was my achievement mostly. It's for you to decide, whether to give me this Shard on your own accord or to make a doomed attempt to win it in battle.#
+
+/25 Союзник, сдача
+Index: 22;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Our enemies have been destroyed, and I'm giving you this Shard as a token of our friendship.#
+
+/26 Отказ от подарка
+Index: 24;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #You call this trash a gift? Don't even think of insulting dragons with such offerings ever again!#
+
+/27 Принимаем дары
+Index: 25;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #You have acted wisely, %s. I accept your gift.#
+
+/28 Отказ от союза с предателем
+Index: 16;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #You traitor! How dare you offer me an alliance?! Get away!#
+
+/29 Отказ от мира с предателем
+Index: 17;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #You will be destroyed, you damned traitor! No words will help you!#
+
+/30 Первая встреча, кампания
+Index: 26;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Greetings, %s! I hope you're wise enough not to impede my plans. People quite often say that dragons are very vindictive. Well, that's the solemn truth.#
+
+/31 Ответ на объявление войны
+Index: 27;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Do you dare to challenge ME? All right, fine! When the last of your subjects cries for mercy, writhing in dragon flame, then you will understand how deeply you were mistaken.#
+
+/32 Отказ в мире союзнику
+Index: 28;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #My thirst for revenge is not satisfied yet, %s! %s will pay for such foolish conceit. No mercy!#
+
+/33 Ответ на предательство
+Index: 29;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #You must know, %s, that from now on the most important goal I have is to have my vengeance on you, you despicable traitor!#
+
+/34 Война, остались 1х1
+Index: 30;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #So, the moment of truth has come. There are only two of us, and the Shard is waiting for its new master to be revealed. I shall fill that role. You are doomed, %s, for soon the flame of dragons will burn your lands to ashes.#
+&&&&&&

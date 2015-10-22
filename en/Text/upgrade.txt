@@ -1,0 +1,2244 @@
+/0 Empty
+##
+
+/1 Hit Points
+#Increase the unit's vitality.#
+
+/2 Hit Points
+#Increase the unit's vitality.#
+
+/3 Hit Points
+#Increase the unit's vitality.#
+
+/4 Attack
+#Increase the damage done by the unit in a melee attack.#
+
+/5 Attack
+#Increase the damage done by the unit in a melee attack.#
+
+/6 Attack
+#Increase the damage done by the unit in a melee attack.#
+
+/7 Counterattack
+#Increase the damage done by the unit in a retaliatory strike.#
+
+/8 Counterattack
+#Increase the damage done by the unit in a retaliatory strike.#
+
+/9 Counterattack
+#Increase the damage done by the unit in a retaliatory strike.#
+
+/10 Defense
+#Increase the unit's defense against melee attacks.#
+
+/11 Defense
+#Increase the unit's defense against melee attacks.#
+
+/12 Defense
+#Increase the unit's defense against melee attacks.#
+
+/13 Ranged Defense
+#Increase the unit's defense against arrows and other missiles.#
+
+/14 Ranged Defense
+#Increase the unit's defense against arrows and other missiles.#
+
+/15 Ranged Defense
+#Increase the unit's defense against arrows and other missiles.#
+
+/16 Resistance
+#Increase the unit's defense against magic attacks and harmful spells.#
+
+/17 Resistance
+#Increase the unit's defense against magic attacks and harmful spells.#
+
+/18 Resistance
+#Increase the unit's defense against magic attacks and harmful spells.#
+
+/19 Speed
+#Increases the unit's movement speed.#
+
+/20 Ranged Attack
+#Increase the unit's shooting strength.#
+
+/21 Ranged Attack
+#Increase the unit's shooting strength.#
+
+/22 Ranged Attack
+#Increase the unit's shooting strength.#
+
+/23 Range
+#Increase the maximum firing range.#
+
+/24 Range
+#Increase the maximum firing range.#
+
+/25 Hit Points
+#Increase the unit's vitality.#
+
+/26 Healing
+#Increases the number of hit points healed by the unit.#
+
+/27 Ammo
+#Increase the number of shots that the unit can take.#
+
+/28 Ammo
+#Increase the number of shots that the unit can take.#
+
+/29 Ammo
+#Increase the number of shots that the unit can take.#
+
+/30 Stamina
+#Increase the unit's energy reserve.#
+
+/31 Stamina
+#Increase the unit's energy reserve.#
+
+/32 Stamina
+#Increase the unit's energy reserve.#
+
+/33 Morale
+#Increase the unit's courage.#
+
+/34 Morale
+#Increase the unit's courage.#
+
+/35 Morale
+#Increase the unit's courage.#
+
+/36 Health
+#Increases the unit's vitality and energy.#
+
+/37 Health
+#Increases the unit's vitality and energy.#
+
+/38 Strength
+#Increases the damage done by the unit in a melee attack or a counterattack.#
+
+/39 Strength
+#Increases the damage done by the unit in a melee attack or a counterattack.#
+
+/40 Armor
+#Increases defense against melee and ranged attacks.#
+
+/41 Armor
+#Increases defense against melee and ranged attacks.#
+
+/42 Willpower
+#Increases defense against magic attacks and harmful spells. Increases the unit's morale.#
+
+/43 Willpower
+#Increases defense against magic attacks and harmful spells. Increases the unit's morale.#
+
+/44 Flying
+#The unit can fly over other units and impassable tiles. It takes 1 movement point to pass over any terrain, without spending any stamina. The unit is not affected by any landscape features.#
+
+/45 Floating
+#The unit can float over other units. It takes 1 movement point to pass over any terrain, without spending any stamina.#
+
+/46 First Strike
+#A special ability allowing the unit to perform a counterattack before he is actually struck by an enemy.#
+
+/47 Armor Piercing Shot
+#The unit's missile attacks ignore half of the enemy's ranged defense.#
+
+/48 Tireless
+#The unit spends no stamina on any actions.#
+
+/49 Intrepid
+#The unit's morale remains unchanged at all times.#
+
+/50 Double Shot
+#A special ability allowing the unit to take 2 shots at the target at once by spending some stamina.#
+
+/51 Recuperation
+#The unit will restore 1 more stamina point while resting.#
+
+/52 Meditation
+#The unit will restore his ammo while resting.#
+
+/53 Collect Ammo
+#This special ability allows the unit to collect a few units of ammunition per turn.#
+
+/54 Healing
+#A special ability allowing the unit to heal a friendly unit within shooting range.#
+
+/55 Battle Frenzy
+#When heavily wounded, the unit falls into a battle rage. His attack value increases by 2 and wounds cease to affect it. The unit's morale cannot get lower than its base value.#
+
+/56 Agility
+#The unit receives an ability to avoid the enemy's counterattack in melee.#
+
+/57 Magic Strike
+#The unit's melee attack inflicts magic damage, which is only mitigated by the enemy's resistance, not its defense.#
+
+/58 Magic Shot
+#The unit's ranged attack inflicts magic damage, which is only mitigated by the enemy's resistance, not its ranged defense.#
+
+/59 Forced March
+#A special ability allowing the unit to increase his movement by 1 point (active for 1 turn) by spending some stamina.#
+
+/60 Spell Immunity
+#The unit is not affected by any spells.#
+
+/61 Undead
+#The unit is undead, which means it's tireless, fearless, feels no pain, cannot be poisoned and is immune to cold spells.#
+
+/62 Forest Knowledge 8
+#The unit becomes a forest expert. It spends only one movement point to pass through a forest tile. The unit's increased knowledge gives it additional defense when fighting in a forest.#
+
+/63 Hills Knowledge 8
+#The unit becomes a hills expert. It spends only one movement point to pass through a hill tile, without wasting any stamina. The unit's increased knowledge gives it additional defense when fighting on a hill.#
+
+/64 Swamp Knowledge 8
+#The unit becomes a swamp expert. It spends only one movement point to pass through a swamp tile, without wasting any stamina. The unit's increased knowledge gives it additional defense when fighting in a swamp.#
+
+/65 First Aid
+#A special ability allowing the unit to partially heal his wounds while resting.#
+
+/66 Healing
+#A special ability allowing the unit to heal a friendly unit within shooting range.#
+
+/67 Charge
+#The unit is taught to deal additional damage in melee, depending on how far away the opponent is at the start of the turn.#
+
+/68 Does not fight
+#The unit is not able to attack or counterattack an enemy in melee.#
+
+/69 Armorpiercing Strike
+#The unit's weapon is improved, allowing him to ignore half of the enemy's defense.#
+
+/70 Stunning Blow
+#Each of the unit's attacks drains the enemy of 1 stamina point.#
+
+/71 Poison Attack
+#The unit's melee attack will poison the enemy. The higher this ability is, the more damage the poison inflicts.#
+
+/72 Poison Immunity
+#The unit becomes immune to poison.#
+
+/73 Hex
+#An enemy struck by this unit is affected by a curse, reducing its strength, armor and resistance by 1. The tile is active for 4 turns. The enemy's resistance can reduce its duration.#
+
+/74 Steal Ammo
+#An ability allowing the unit to reduce the enemy's ammo in a melee attack.#
+
+/75 Damage Armor
+#The unit learns to inflict severe damage on the enemy's armor in melee, decreasing its defense by 1.#
+
+/76 Petrification
+#This special type of ranged attack allows the unit to turn the enemy into a statue for 3 turns. The petrified enemy cannot do anything, but its defense is increased. An enemy's resistance can reduce the duration of the petrification.#
+
+/77 Web
+#This special ranged attack allows the unit to entangle an enemy in a web for 2 turns. An entangled enemy cannot do anything. The higher the enemy's attack is, the quicker it will free itself.#
+
+/78 Poison Attack
+#The unit's melee attack will poison the enemy. The higher this ability is, the more damage the poison inflicts.#
+
+/79 Necrophage
+#A special ability allowing the unit to devour the dead bodies, thereby restoring 10 hit points.#
+
+/80 Intimidation
+#When attacking in melee, the unit reduces the morale of the enemy by 1.#
+
+/81 Crippling Strike
+#When attacking the enemy in melee, the unit decreases the target's speed by 1. The effect lasts for 2 turns.#
+
+/82 Damage Weapon
+#Any creature attacking this unit in melee damages its weapon - attack and counterattack are reduced by 1. The effect lasts for 3 turns.#
+
+/83 Parry
+#When the unit is attacked in melee for the first time in a given turn, his defense is increased by 2.#
+
+/84 Forager
+#The unit learns to obtain food by hunting. Its upkeep is reduced by 5 gold. The higher the unit's level, the greater the savings in gold.#
+
+/85 Parry
+#The unit's parrying skill improves, allowing him to increase his defense against the first melee attack an enemy makes against him in a given turn.#
+
+/86 Marauder
+#After the battle, the unit plunders some trophies, reducing the loot income by 10~.#
+
+/87 Marauder
+#After the battle, the unit plunders some trophies, reducing the loot income by 15~.#
+
+/88 Plunderer
+#The unit spends his free time plundering, reducing the income from a province he is stationed in by 10~.#
+
+/89 Crushing Blow
+#A special skill allowing the unit to perform a second melee attack per turn at the expense of some stamina. This attack inflicts half as much damage.#
+
+/90 Enchanted Arrows
+#The unit is taught to employ enchanted arrows, inflicting magic damage on the enemy in addition to standard damage.#
+
+/91 Enchanted Arrows
+#Increases the magic damage inflicted by the unit's missiles.#
+
+/92 Become a Spearman
+#A Militiaman can receive new armor and weapons and join the active service as a full-fledged spearman.#
+
+/93 Battle Frenzy
+#Increases the attack bonus received by the unit when falling into battlerage.#
+
+/94 Healing
+#A special ability allowing the unit to heal a friendly unit within shooting range.#
+
+/95 Battle Frenzy
+#When heavily wounded, the unit falls into a battle rage. His attack value increases by 5 and wounds cease to affect it. The unit's morale cannot get lower than its base value.#
+
+/96 First Aid
+#A special ability allowing the unit to partially heal his wounds while resting.#
+
+/97 Regeneration
+#This unit recovers 3 hit points per turn.#
+
+/98 Regeneration
+#Increases the number of hit points the unit recovers each turn.#
+
+/99 Siege
+#Increases the rate of destruction of enemy fortifications by 4.#
+
+/100 Siege
+#Increases the rate of destruction of enemy fortifications.#
+
+/101 Siege
+#Increases the rate of destruction of enemy fortifications by 6.#
+
+/102 Soul Stealing
+#After killing an enemy in melee, the unit steals its soul, restoring 5 hit points.#
+
+/103 Smite Evil 1
+#The unit inflicts additional damage on enemies whose souls are tainted by evil.#
+
+/104 Stomp
+#Increases the upper threshold of hit points an enemy unit has to be under in order to be susceptible to trampling.#
+
+/105 Stomp
+#When attacking an enemy in melee, the unit can trample it down if enemy has 15 or fewer hit points left after the attack. Having made the kill, the unit moves to the tile previously occupied by its opponent.#
+
+/106 Cause Disease
+#Whenever the unit inflicts melee damage to an enemy, it infects the target with a disease.#
+
+/107 Mass Attack
+#The unit attacks all enemies in the neighboring tiles.#
+
+/108 Round Attack
+#A special ability allowing the unit to spend some stamina to attack all the enemies in the neighboring tiles.#
+
+/109 Roots
+#When attacking an enemy in melee, the unit entangles it with his roots, preventing it from moving for 3 turns.#
+
+/110 First Aid
+#A special ability allowing the unit to partially heal his wounds while resting.#
+
+/111 Stomp
+#When attacking an enemy in melee, the unit can trample it down if enemy has 10 or fewer hit points left after the attack. Having made the kill, the unit moves to the tile previously occupied by its opponent.#
+
+/112 Bloodsucker
+#When inflicting melee damage on the enemy, the unit restores hit points equal to 50~ of the damage dealt.#
+
+/113 Intimidation
+#When attacking in melee, the unit reduces the morale of the enemy by 3.#
+
+/114 Heavy Ammo
+#The unit receives special missiles able to damage the target's armor, reducing its ranged defense by 1.#
+
+/115 Curse Spell
+#The unit is taught to cast Curse, which reduces the target's attack and defense.#
+
+/116 Vulnerability Spell
+#The unit is taught to cast Vulnerability, reducing the target's defense and resistance.#
+
+/117 Fireball Spell
+#The unit is taught to cast Fireball, striking several enemies at once with magic fire.#
+
+/118 Bless Spell
+#The unit is taught to cast Bless, increasing the target's defense and attack, and restoring 2 stamina points.#
+
+/119 Exorcism Spell
+#The unit is taught to cast Exorcism, inflicting damage on demons and the undead.#
+
+/120 Air Shield Spell
+#The unit is taught to cast Air Shield, increasing the target's ranged defense and resistance.#
+
+/121 Fear Spell
+#The unit is taught to cast Fear, reducing the target's morale.#
+
+/122 Raise Skeleton Spell
+#The unit is taught to cast Raise Skeleton, creating a skeleton from a fallen unit's dead body.#
+
+/123 Inspiration Spell
+#The unit is taught to cast Inspiration, restoring the target's morale.#
+
+/124 Summon Imp Spell
+#The unit is taught to cast Summon Imp, summoning an imp in a neighboring tile. The caster loses 3 hit points.#
+
+/125 Dispel Spell
+#The unit is taught to cast Dispel, dispelling enemy incantations and inflicting damage on summoned creatures.#
+
+/126 Life Drain Spell
+#The unit is taught to cast Life Drain, inflicting damage on all enemies within 1 tile and healing the caster's wounds.#
+
+/127 Precise Strike
+#The unit is taught to make precise attacks in melee, ignoring part of the enemy's defense.#
+
+/128 Precise Shot
+#The unit is taught how to aim before shooting, ignoring part of the enemy's ranged defense.#
+
+/129 Precise Strike
+#The unit is taught to make precise attacks in melee, ignoring part of the enemy's defense.#
+
+/130 Precise Shot
+#The unit is taught how to aim before shooting, ignoring part of the enemy's ranged defense.#
+
+/131 Soul Stealing
+#After killing an enemy in melee, the unit recovers more hit points.#
+
+/132 Poison Shot
+#The unit's missiles are envenomed, allowing it to poison an enemy with a ranged attack. The higher this ability, the more lethal the poison.#
+
+/133 Poison Attack
+#The unit's melee attack will poison the enemy. The higher this ability is, the more damage the poison inflicts.#
+
+/134 Collect Ammo
+#This special ability allows the unit to collect a few units of ammunition per turn.#
+
+/135 Astral Energy Spell
+#The unit is taught to cast Astral Energy, restoring the target's stamina and increasing its resistance.#
+
+/136 Raise Zombie Spell
+#The unit is taught to cast Raise Zombie, creating a zombie from a fallen unit's dead body.#
+
+/137 Lord of the Undead
+#Raises slain enemies as undead.#
+
+/138 Haste Spell
+#The unit is taught to cast Haste, increasing the target's movement points and gradually restoring its stamina.#
+
+/139 Slow Spell
+#The unit is taught to cast Slow, reducing the target's movement points and making it gradually lose its stamina.#
+
+/140 Poison 1
+#Increases poison damage by 1.#
+
+/141 Restoration Spell
+#The unit is taught to cast Restoration, restoring a friendly unit's hit points and mitigating negative effects.#
+
+/142 Word of Power Spell
+#The unit is taught to cast Word of Power, allowing it to control an enemy unit for 1 turn.#
+
+/143 Resurrection Spell
+#The unit is taught to cast Resurrection, allowing it to bring a slain friendly unit back to life.#
+
+/144 Mass Curse Spell
+#The unit is taught to cast Mass Curse, reducing the combat attributes of the entire enemy army.#
+
+/145 Petrification
+#This special ranged attack allows the unit to turn the enemy into a statue for 6 turns. The petrified enemy cannot do anything, but its defense is increased. An enemy's resistance can reduce the duration of the petrification.#
+
+/146 Petrification +1
+#Increases the duration of petrification by 1.#
+
+/147 Poison Flesh
+#The flesh of this creature is so venomous that anyone attacking it in melee will be intoxicated with a poison of 2-point strength.#
+
+/148 Poison Flesh +1
+#The creature's flesh is made even more poisonous, affecting the strength of the poison affecting anyone who attacks it in melee.#
+
+/149 Energy Control
+#The ability to control magic energy allows the unit to ignore 2 points of target's resistance while using a magical ranged attack.#
+
+/150 Energy Control +1
+#The ability to control magic energy is increased, allowing the unit to ignore an additional point of enemy resistance while using a magical ranged attack.#
+
+/151 Poison Shot 
+#The unit poisons the target with its missiles, making it lose 2 hit points per turn over 3 turns.#
+
+/152 Reincarnation 
+#In the case of the death of a soldier he could be reborn immediately.#
+
+/153 Raise Ghoul Spell
+#The unit is taught to cast "Raise Ghoul" spell, creating a ghoul from the corpse of the fallen warrior.#
+
+/154 Raise Ghost Spell
+#The unit is taught to cast "Raise Ghost" spell, creating a ghost from the corpse of the fallen warrior.#
+
+/155 Cure Wounds Spell
+#The unit is taught to cast "Cure Wounds" spell which restores health to the friendly unit.#
+
+/156 Witcher's Signs
+#Teach a soldier to cast the "Aard" sign that can stun the enemy.
+Teach a soldier to cast the "Igni" sign that does damage to the enemy.
+Teach a unit to cast the "Quen" sign that increases armor and resistance.#
+
+/157 Cold Rage
+#When a unit falls into a Battle Frenzy, counter-attack increases by 1.#
+
+/158 Quen Sign
+#Teach a unit to cast the "Quen" sign that increases armor and resistance.#
+
+/159 Undead Regeneration Spell
+#The unit is taught to cast "Undead Regeneration" spell, restoring health to friendly undead unit.#
+
+/160 Battle Frenzy
+#When heavily wounded, the unit falls into a battle rage. His attack value increases by 5 and wounds cease to affect it. The unit's morale cannot get lower than its base value.#
+
+/161 Stinking Cloud Spell
+#The unit is taught to cast "Stinking Cloud" spell, poisoning all living creatures within 1 tile.#
+
+/162 Become Guardian of Souls
+#Ironclad can get new armor and weapons and joins the ranks of the regular troops as Guardian of Souls.#
+
+/163 Parry
+#Increase the ability to defend against the first attack.#
+
+/164 Become Ranger
+#When archer received better equipment he is able to join the ranks of Rangers.#
+
+/165 Become Ironclad
+#A Swordsman can get new armor and weapons and joins the ranks of the regular troops as an Ironclad.#
+
+/166 Ranger Shot
+#The unit is taught to use a double shot more effectively, so the cost of stamina is reduced by 2.#
+
+/167 Sinister Howl
+#The unit is taught to use Terrible Howl, frightening its enemies.#
+
+/168 Become Sniper
+#When crossbowman received better equipment he is able to join the rank of Snipers.#
+
+/169 Become Berserker
+#When a barbarian receives better equipment he is able to join the ranks of Berserkers. The unit loses the ability to shoot, but will become more powerful in melee combat.#
+
+/170 Become Veteran Spearman
+#When spearman received better equipment he is able to join the ranks of Veteran Spearmen.#
+
+/171 Become Battle Shaman
+#When a shaman receives better equipment he is able to join the ranks of Battle Shamans.#
+
+/172 Become Cutthroat
+#When an assassin receives better equipment he is able to join the ranks of cutthroats.#
+
+/173 Poison Shot
+#Archer poisons his arrows that shots will poison the enemy. The higher this ability, the more lethal the poison.#
+
+/174 Poison Attack
+#The unit's melee attack will poison the enemy. The higher this ability is, the more damage the poison inflicts.#
+
+/175 Become Cavalryman
+#When horseman received better equipment he is able to join the rank of Cavalryman.#
+
+/176 Become Valkyrie
+#By allowing a heavenly maiden to ride a pegasus you can have a powerful ally at your side called Valkyrie.#
+
+/177 First Aid
+#A special ability allowing the unit to partially heal his wounds while resting.#
+
+/178 Become Bone Spearman
+#Skeleton is equiped with throwing javelins becoming Bone Spearman and is able to attack remotely.#
+
+/179 Become Mummy
+#Gives a zombie armor and a weapon, creating a much more dangerous and powerful undead creature - a Mummy.#
+
+/180 Become Champion
+#When knight received better equipment he is able to join the rank of Champions.#
+
+/181 Become Cerberus
+#Exposes hellhound to mutation, after which it becomes a ferocious three-headed Cerberus.#
+
+/182 Mind Control
+#The unit is taught to cast "Mind Control" spell, which allows them to take control some of your enemies for a turn.#
+
+/183 Siege
+#Increases the rate of destruction of enemy fortifications by 8.#
+
+/184 Mass Attack
+#Warrior can attack all enemies on neighboring tiles in the cost of a small additional expenditure of stamina.#
+
+/185 Sacrifice
+#The unit is taught to use the vitality of other allied troops to heal the others.#
+
+/186 Fireblast
+#The unit is taught to unleash great flash of flame inflicting fire damage to large area and igniting units in target area.#
+
+/187 Hellgates
+#The unit is taught to cast the "Hellgates" spell in battle, bringing friendly demonic creatures onto the battlefield.#
+
+/188 Suicide
+#The unit is taught to cast "Suicide" spell, forcing the enemy to cause damage to himself.#
+
+/189 Submission
+#The unit is taught to cast "Submission" spell that allows you to control the actions of the enemy units.#
+
+/190 Unholy Word
+#The unit is taught to cast "Unholy Word" spell, dealing damage to all mortals.#
+
+/191 Healing Spell
+#The unit is taught to cast the "Healing" spell, restoring health to a friendly soldier and dispelling negative effects.#
+
+/192 Fire Immunity
+#Grants the unit immunity from fire spells.#
+
+/193 Summon Huorn Spell
+#The unit is taught to cast "Summon Huorn" spell, summoning giant living tree to neighboring unit tile.#
+
+/194 Magic Shield Spell
+#The unit is taught to cast "Magic Shield" spell, increasing the defense of an ally unit.#
+
+/195 Summon Wasp Swarm Spell
+#The unit is taught to cast "Wasp Swarm" spell, summoning a swarm of stinging insects on target unit which can't act and receives minor damage. Has no effect on undead and mechanical units.#
+
+/196 Summon Wasp Cloud Spell
+#The unit is taught to cast "Wasp Cloud" spell, summoning a cloud of stinging insects on target area. Units strucked by spell can't act and receive minor damage. Has no effect on undead and mechanical units.#
+
+/197 Life Breath Spell
+#The unit is taught to cast "Life Breath" spell, restoring health to friendly units and cure the poison.#
+
+/198 Explosive Shot
+#A cannon with an explosive charge is equipped, dealing physical damage in a small area.#
+
+/199 Fire Shot
+#A cannon with a fire charge is equipped, dealing magical damage in a small area.#
+
+/200 Rune of Restoration
+#The unit is taught to cast the "Rune of Restoration" spell, restoring health to a friendly mechanical unit.#
+
+/201 Rune of Decay
+#The unit is taught to cast the "Rune of Decay" spell, inflicting damage to an enemy mechanical unit and burn some ammo.#
+
+/202 Rune of Renewal
+#The unit is taught to cast the "Rune of Renewal" spell, restoring health to all friendly mechanical units.#
+
+/203 Rune of Power
+#The unit is taught to cast the "Rune of Power" spell, with which you can take control of two enemy mechanical units.#
+
+/204 Stone Spikes
+#The unit is taught to cast "Stone Spikes" spell, damaging all creatures within 1 tile for 4 points of damage.#
+
+/205 Vampiric Touch
+#The unit is taught to cast "Vampire Touch" spell, granting friendly unit life drain in melee combat.#
+
+/206 Mighty Weapon
+#The unit is taught to cast "Mighty Weapon" spell, increasing the friendly unit attack and counter-attack by 3.#
+
+/207 Starfall
+#The unit is taught to cast "Starfall" spell, damaging all creatures within 1 tile for 10 points of damage.#
+
+/208 Rage
+#The unit is taught to cast the "Rage" spell, increasing attack and counterattack of a friendly unit by 2, giving it bloodlust 3 and quick restoration (2 hit points per turn).#
+
+/209 Insanity
+#The unit is taught to cast the "Insanity" spell, with the target unit losing 10 hit points, 5 points of stamina and 2 points of morale. The caster gets the target's lost health, stamina and morale.#
+
+/210 Mass Rage
+#The unit is taught to cast the "Mass Rage" spell, increases attack and counterattack of all friendly units by 2, giving them bloodlust 3 and quick restoration (2 hit points per turn).#
+
+/211 Horde's Rage
+#The unit is taught to cast "Horde's Rage" spell, giving to all friendly units the ability to reduce the morale of the enemy by 2 for each strike.#
+
+/212 Chieftain Order
+#The unit is taught to cast the "Chieftain Order" spell, allowing the caster to make an extra turn at the cost of inflicting 5 points of damage to friendly creatures.#
+
+/213 Become Bandit
+#When a thief becomes experienced enough, he is able to join the Dark Brotherhood, where he will receive new equipment and will be able to join the ranks of troops known as Bandits.#
+
+/214 Quagmire
+#The unit is taught to cast "Quagmire" spell, slowing the enemy and reduces it's defense and ranged defense.#
+
+/215 Weakness
+#The unit is taught to cast "Weakness" spell, reducing attack of the target unit.#
+
+/216 Armor Break
+#The unit is taught to cast "Break Armor" spell, reducing defense and ranged defense of the target unit.#
+
+/217 Plague
+#The unit is taught to cast "Plague" spell, infecting all living units within 1 tile with disease.#
+
+/218 Geyser
+#The unit is taught to cast "Geyser" spell, inflicts 15 magic damage to all units within 1 tile.#
+
+/219 Power Word - Curse
+#The unit is taught to cast "Power Word - Curse", reducing attack of the target to 0. Resistance protects only partially against this spell.#
+
+/220 Power Word - Hold
+#The unit is taught to cast "Power Word - Hold", target unit can't move and fight. Resistance protects only partially against this spell.#
+
+/221 Power Word - Pain
+#The unit is taught to cast "Power Word - Pain", causing severe pain to the target. Resistance protects only partially against this spell.#
+
+/222 Summon Water Elemental Spell
+#The unit is taught to cast "Summon Water Elemental" spell, summoning water elemental on the adjacent tile.#
+
+/223 Glacial Heart Spell
+#The unit is taught to cast "Glacial Heart" spell, granting immunity to poison and fear to target unit, but inflicts 3 points of damage each turn. Ignores magic resistance.#
+
+/224 Freeze Spell
+#The unit is taught to cast "Freeze" spell, immobilizing and inflicting 8 points of magical damage to target unit, but increases armor of the target by 1.#
+
+/225 Ice Chunk Spell
+#The unit is taught to cast the "Ice Chunk" spell, inflicting 12 points of physical damage to target unit.#
+
+/226 Become Veteran Slinger
+#When slinger survives many battles he could get new equipment for his deeds and could be promoted to Veteran Slinger.#
+
+/227 Become Sentinel
+#When a pikeman survives many battles he can get new equipment for his deeds and could be promoted to Sentinel.#
+
+/228 Become Grand Healer
+#When a healer receives the special blessing of the Eagle God, which is a great source of healing power, he can continue his service as a Grand Healer.#
+
+/229 Become Crossbowman
+#When militiaman survives many battles he could get new equipment for his deeds and could be promoted to Crossbowman.#
+
+/230 Become Bowman
+#When militiaman survives many battles he could get new equipment for his deeds and could be promoted to Bowman.#
+
+/231 Become Barbarian
+#When militiaman shows great fury and rage in battles, he could be promoted to Barbarian.#
+
+/232 Become Healer
+#When militiaman is taught medical skills, he could be promoted to Healer.#
+
+/233 Become Pikeman
+#When a militiaman survives many battles, he can get new equipment for his deeds and can be promoted to a Pikeman.#
+
+/234 Become Bandit
+#When militiaman steps on a slippery path of robbery, he could become Bandit.#
+
+/235 Become Shaman
+#When a militiaman is taught techniques and rituals of wild magic, he can be promoted to a Shaman.#
+
+/236 Become Slinger
+#When militiaman survives many battles he could get new equipment for his deeds and could be promoted to Slinger.#
+
+/237 Become Swordsman
+#When militiaman survives many battles he could get new equipment for his deeds and could be promoted to Swordsman.#
+
+/238 Become Thief
+#When militiaman steps on a slippery path of thievery, he could become Bandit.#
+
+/239 Armor Piercing Shot
+#The unit is taught to cast "Armor Piercing Shot" spell, adding armor-piercing effect to friendly unit shots. #
+
+/240 Thick Fog Spell
+#The unit is taught to cast "Thick Gog" spell, reducing ranged attack of all non-magic enemy shooters on the battlefield by 5. Magic Resistance and Magic Immunity offer no protection from this spell.#
+
+/241 Double Shot Spell
+#The unit is taught to cast the "Double Shot" spell, giving a friendly unit the ability Double Shot at the cost of some stamina.#
+
+/242 Enchanted Arrow Spell
+#The unit is taught to cast "Enchanted Arrow" spell, inflicting 10 physical damage to target unit.#
+
+/243 Ancestral Rage
+#The unit is taught to cast "Ancestral Rage" spell, increasing attack and counterattack of the target by 3 and speed by 1.#
+
+/244 Ancestral Shield
+#The unit is taught to cast "Ancestral Shield", increasing defense and ranged defense of the target unit by 3 and resistance by 1.#
+
+/245 Sparks Spell
+#The unit is taught to cast the "Sparks" spell, inflicting 6 points of magical damage to multiple enemies in a large area.#
+
+/246 Electric Shock Spell
+#The unit is taught to cast "Electric Shock" spell, inflicting 18 magic damage to target unit.#
+
+/247 Storm Spell
+#The unit is taught to cast "Storm" spell, inflicting 16 magic damage to multiple enemies.#
+
+/248 Frenzy Spell
+#The unit is taught to cast "Frenzy" spell, increasing attack and counterattack of target friendly unit by 3.#
+
+/249 Bloodlust Spell
+#The unit is taught to cast the "Bloodlust" spell, increasing attack and counterattack by 3, speed by 1 and gives the ability to drain health from the enemy with the attack.#
+
+/250 Snare Spell
+#The unit is taught to cast the "Snare" spell, damaging and reducing the speed of a non-flying enemy by 1, regardless of the immunity and resistance to magic spells.#
+
+/251 Trap Spell
+#The unit is taught to cast the "Trap" spell, badly damaging and reducing the speed of a non-flying enemy by 1, regardless of the immunity and resistance to magic spells.#
+
+/252 Swamp Poison Spell
+#The unit is taught to cast "Swamp Poison" spell, reducing the speed of target unit by 1 and draining stamina each turn. Ignores magic resistance.#
+
+/253 Regeneration Spell
+#The unit is taught to cast the "Regeneration" spell, restoring health in a few turns, slightly increasing target's resistance and granting immunity to poison.#
+
+/254 Poison Weapon Spell
+#The unit is taught to cast the "Poison Weapon" spell, making melee attacks of the target unit poisonous for several turns.#
+
+/255 Devour Spell
+#The unit is taught to cast "Devour" spell, consuming health from friendly units and healing the caster.#
+
+/256 Become Gang Leader
+#When a soldier receives better equipment, he is able to join the ranks of Gang Leaders.#
+
+/257 Pathfinder
+#Teaches the unit to freely pass in any terrain.#
+
+/258 Word of Life Spell
+#The unit is taught to cast "Word of Life" spell, increasing attack, counter-attack and the speed of the target unit by 1, and restoring health and stamina each turn.#
+
+/259 Mass Heal Spell
+#The unit is taught to cast "Mass Heal" spell, restoring health to all friendly units.#
+
+/260 Mass Defense Spell
+#The unit is taught to cast "Mass Defense" spell, increasing armor and resistance of all friendly units.#
+
+/261 White Magic Spell
+#The unit is taught to cast "White Magic" spell, inflicting damage to enemies and heals allied units.#
+
+/262 Swiftness Spell
+#The unit is taught to cast "Swiftness" spell, increasing the speed and gradually restoring stamina.#
+
+/263 Dispel Magic Spell
+#The unit is taught to cast "Dispel Magic" spell, reducing duration of the enchantment.#
+
+/264 Demon Slayer Spell
+#The unit is taught to cast the "Demon Slayer" spell, increasing damage dealt to evil creatures, especially demons and undead.#
+
+/265 Grace Spell
+#The unit is taught to cast "Grace" spell, increasing all kinds of attacks, all defenses and resistance of the target unit by 2. The target recovers 2 hit points each turn.#
+
+/266 Divine Seal Spell
+#The unit is taught to cast the "Divine Seal" spell, preventing the target from casting spells. Magic immunity does not apply.#
+
+/267 Hard as Stone Spell
+#The unit is taught to cast "Hard as Stone" spell, increasing all kinds of defense and resistance of the target by 4.#
+
+/268 True Resurrection Spell
+#The unit is taught to cast the "True Resurrection" spell, with which you can resurrect fallen friendly units.#
+
+/269 Sanctuary Spell
+#The unit is taught to cast "Sanctuary" spell, increasing all types of attacks by 2, all kinds of protection and resistance of the target by 5 and making the target unit immune to spells. The spell has no effect on undead and demons.#
+
+/270 Divine Warp Spell
+#The unit is taught to cast "Divine Warp" spell, moving the target unit on free tile. Works only on friendly units. The spell has no effect on undead and demons.#
+
+/271 Divine Light Spell
+#The unit is taught to cast the "Divine Light" spell, which resets all kinds of attacks of all enemies within 2 tiles. Resistance protects only partially against this spell.#
+
+/272 Holy Word Spell
+#The unit is taught to cast "Holy Word" spell, inflicting damage to all enemies on the battlefield. Ignores magic resistance.#
+
+/273 Divine Vengeance Spell
+#The unit is taught to cast the "Divine Vengeance" spell, inflicting damage to all demons and undead within 2 tiles.#
+
+/274 Become Battle Gryphon
+#Equip the griphon with armor so it will able to join the ranks of Battle Griphons.#
+
+/275 Become Punisher
+#When soldier received better equipment he is able to join the ranks of Punishers.#
+
+/276 Become Faith Devotee
+#When soldier received better equipment he is able to join the ranks of Faith Devotees.#
+
+/277 Become Keshik
+#When soldier received better equipment he is able to join the ranks of Keshiks.#
+
+/278 Smite Evil +2
+#The unit inflicts additional damage on enemies whose souls are tainted by evil.#
+
+/279 Smite Evil +3
+#The unit inflicts additional damage on enemies whose souls are tainted by evil.#
+
+/280 Become Necromancer
+#Perform special consecration after which the soldier can join the ranks of the Necromancers.#
+
+/281 Summon Skeleton Spell
+#The unit is taught to cast "Summon Skeleton" spell, summoning the skeleton on summoner's adjacent tile.#
+
+/282 Become Springald
+#Improve Ballista design, upgrade to a Springald.#
+
+/283 Become Smiting Hand
+#When a unit receives better equipment, it is able to join the ranks of Smiting Hands.#
+
+/284 Become Trebuchet
+#Improve Catapult design, upgrade to a Trebuchet.#
+
+/285 Become High Mage
+#Perform special consecration after which the unit can join the ranks of the High Mages.#
+
+/286 Become Patriarch
+#Perform special consecration after which the soldier can join the ranks of the Patriarchs.#
+
+/287 Mechanical
+#Immunity to poison, morale has no effect on combat capabilities and unit can't fight in close combat.#
+
+/288 Archmage Tome
+##
+
+/289 Magic Fight
+#Unit deals magical damage instead of physical damage. Resistance is used to reduce damage form those kinds of attacks.#
+
+/290 Enslave Mind Spell
+#The unit is taught to cast "Enslave Mind" spell, gaining control of target enemy unit.#
+
+/291 Healing
+#A special ability allowing the unit to heal a friendly unit within shooting range.#
+
+/292 Patriarch Tome
+##
+
+/293 Elven Marksmanship
+#Increase the unit's shooting strength and accuracy.#
+
+/294 Summon Wyvern Spell
+#The unit is taught to cast "Summon Wyvern" spell, summoning the wyvern on summoner's adjacent tile. Requires a fresh corpse.#
+
+/295 Become Bodyguard
+#When soldier received better equipment he is able to join the ranks of Bodyguards.#
+
+/296 Fire Storm Spell
+#The unit is taught to cast the "Fire Storm" spell, inflicting damage to all units within 2 tiles and igniting them.#
+
+/297 Chilling Lightning Spell
+#The unit is taught to cast "Chilling Lightning" spell, inflicting heavy physical damage to a single target.#
+
+/298 Order Spell
+#The unit is taught to cast "Order" spell, returning the control of target unit to owner.#
+
+/299 Ice Immunity
+#Grants unit immunity to ice and cold based spells.#
+
+/300 Air Immunity
+#Grants unit immunity to air and electricity based spells.#
+
+/301 Great Demon
+##
+
+/302 Water Elemental Tome
+##
+
+/303 Bombardment
+#The unit is taught to execute a bombardment that not only affects the main target, but also all the creatures around it. It does half the amount of damage.#
+
+/304 Mind Control Immunity
+#Grants unit immune to mind affecting spells and abilities.#
+
+/305 Elemental
+##
+
+/306 Celestial Thunder Spell
+#The unit is taught to cast "Celestial Thunder" spell, causing damage to one enemy. Resistance protects only partially against this spell.#
+
+/307 Chain Lightning Spell
+#The unit is taught to cast "Chain Lightning", inflicting damage to all units within two tiles. Resistance protects only partially against this spell.#
+
+/308 Head Wind Spell
+#The unit is taught to cast the "Head Wind" spell, which reduces the  range, ranged attack and speed of the target unit. Ignores magic resistance.#
+
+/309 Air Elemental Tome
+##
+
+/310 Sluggishness Spell
+#The unit is taught to cast "Sluggishness" spell, slowing the target and causing to gradually lose stamina.#
+
+/311 Quicksand Spell
+#The unit is taught to cast the "Quicksand" spell, slowing all enemies within 1 tile and causing them to gradually lose stamina. Magic Resistance and Magic Immunity offer no protection from this spell.#
+
+/312 Earthquake Spell
+#The unit is taught to cast "Earthquake" spell, inflicting physical damage to all enemy units. Resistance protects only partially against this spell. Magic immunity does not apply.#
+
+/313 Earth Elemental Tome
+##
+
+/314 Fire Rain Spell
+#The unit is taught to cast "Fire Rain" spell, inflicting damage to all units within a single tile and causing severe burns.#
+
+/315 Mass Fire Immunity Spell
+#The unit is taught to cast "Mass Fire Immunity" spell, granting to all friendly units immunity to fire and a slightly increasing their ranged defense. #
+
+/316 Cleansing Flame Spell
+#The unit is taught to cast "Cleansing Flame" spell, inflicting damage to all units on the battlefield and igniting them. Caster loses 50 hit points.#
+
+/317 Fire Elemental Tome
+##
+
+/318 Summon Air Elemental Spell
+#The unit is taught to cast "Summon Air Elemental" spell, calling incarnation of air to summoner's adjacent tile.#
+
+/319 Summon Earth Elemental Spell
+#The unit is taught to cast "Summon Earth Elemental" spell, calling incarnation of earth to summoner's adjacent tile.#
+
+/320 Summon Fire Elemental Spell
+#The unit is taught to cast "Summon Fire Elemental" spell, calling incarnation of fire to summoner's adjacent tile.#
+
+/321 Necromancer Tome
+##
+
+/322 Summon Living Armor Spell
+#The unit is taught to cast "Summon Living Armor" spell, summoning live armor to summoner's adjacent tile.#
+
+/323 Summon Lord of Abyss Spell
+#The unit is taught to cast "Summon Lord of Abyss" spell, summoning Lord of Abyss to summoner's adjacent tile. Caster loses 20 hit points.#
+
+/324 Charge
+#The unit is taught to deal additional damage in melee, depending on how far away the opponent is at the start of the turn.#
+
+/325 Anthem Of The Damned
+#The unit is taught to cast "Anthem Of The Damned" spell, dealing damage to all mortals. Resistance protects only partially against this spell.#
+
+/326 Summon Hellhound Spell
+#The unit is taught to cast the "Summon Hellhound" spell, summoning a Hellhound to a tile adjacent to the summoner. Caster loses 5 hit points.#
+
+/327 Archdemon
+##
+
+/328 Elementalist Tome
+##
+
+/329 Skeleton Transformation Spell
+#The unit is taught to cast "Skeleton Transformation" spell, transforming friendly or enemy unit into the skeleton.#
+
+/330 Fiend Transformation Spell
+#The unit is taught to cast "Fiend Transformation" spell, transforming a friendly or enemy unit into fiend. Resistance protects only partially against this spell.#
+
+/331 Cleric Transformation Spell
+#The unit is taught to cast "Clerik Transformation" spell, transforming a friendly or enemy unit into clerik. Resistance has almost no protection against this spell. Magic immunity does not apply.#
+
+/332 Fire Blade Spell
+#The unit is taught to cast "Fire Blade" spell, increasing all kinds of attacks of friendly unit by 4 and changing damage to magical.#
+
+/333 Mass Dispel Spell
+#The unit is taught to cast "Mass Dispel" spell, reduces the duration of negative spells on all friendly troops and positive spells on all hostile units.#
+
+/334 Summon Phantom Spell
+#The unit is taught to cast "Summon Phantom" spell, summoning phantom to summoner's adjacent tile.#
+
+/335 Fanaticism Spell
+#The unit is taught to cast the "Fanaticism" spell, resurrecting a friendly unit to full health when it dies in combat. The spell also makes the unit intrepid.#
+
+/336 Deadly Terror Spell
+#The unit is taught to cast "Deadly Terror" spell, reducing morale of the enemy.#
+
+/337 Panic Spell
+#The unit is taught to cast "Panic", reducing the morale of multiple targets.#
+
+/338 Imaginary Assassin Spell
+#The unit is taught to cast "Imaginary Assassin" Spell, forcing the enemy unit to cause damage to itself.#
+
+/339 Psion Tome
+##
+
+/340 Bind Will
+#The unit is taught to cast "Bind Will" spell, that allows to control the actions of the enemy unit.#
+
+/341 Strong Mind Spell
+#The unit is taught to cast the "Strong Mind" spell, granting all friendly units immunity to mind-affecting spells and effects.#
+
+/342 Faith Devotee
+##
+
+/343 Faith Devotee Tome
+##
+
+/344 Become Ripper
+#Give the spider chance to go through mutation, after which it will become Ripper.#
+
+/345 Become Swallower
+#Give the spider chance to go through mutation, after which it will become Swallower.#
+
+/346 Stomp
+#When attacking an enemy in melee, the unit can trample it down if enemy has 5 or fewer hit points left after the attack. Having made the kill, the unit moves to the tile previously occupied by its opponent.#
+
+/347 Stomp
+#Increases the upper threshold of hit points an enemy unit has to be under in order to be susceptible to trampling.#
+
+/348 Arrow Shower Spell
+#The unit is taught to cast the "Arrow Shower" spell, giving all friendly units the abilities Double Shot and Enchanted Arrows, causing magical damage, and restores Ammo. The enchanted units' actions do not consume stamina.#
+
+/349 Control Undead Spell
+#The unit is taught to cast "Control Undead" spell, with which you can take control of hostile undead for 2 turns.#
+
+/350 Seismic Charge
+#A cannon with a special charge is equipped, capable of stunning and slowing down several non-flying creatures.#
+
+/351 Mockery Spell
+#The unit is taught to cast the "Mockery" spell, reducing and enemy's stamina.#
+
+/352 Immobilized
+#Target unit can't move.#
+
+/353 Levitation Spell
+#The unit is taught to cast the "Levitation" spell, slightly speeding up a friendly unit by granting it the ability to float above the terrain and restoring the unit's stamina each turn.#
+
+/354 Embrace of Darkness Spell
+#The unit is taught to cast the "Embrace of Darkness" Spell, giving a friendly unit the traits of an undead creature. The unit becomes tireless, fearless, immune to poison and cold, feels no pain and is able to replenish health by dealing melee damage. Has no effect on undead and mechanical units.#
+
+/355 Deadly Touch Spell
+#The unit is taught to cast the "Deadly Touch" spell, instantly killing a friendly or enemy creature.
+Magic Resistance and Magic Immunity offer no protection from this spell.
+Does not affect the undead, mechanical units and heroes.#
+
+/356 Soul Stealing
+#After killing an enemy in melee, the unit steals its soul, restoring 3 hit points.#
+
+/357 Become Reaper
+#Add two more hands to the skeleton, turning it into a deadly Reaper.#
+
+/358 Become Cadaver
+#A ghoul has mutated into a more dangerous creature - a cadaver. #
+
+/359 Become Banshee
+#Perform a special dark ritual, granting the ghost even greater power and turning it into a harbinger of death - Banshee.#
+
+/360 Banshee's Howl Spell
+#The unit is taught to cast the "Banshee's Howl" spell, consuming health and morale, and reducing the speed of all living units within 2 tiles. Magic Resistance and Magic Immunity offer no protection from this spell. Has no effect on undead and mechanical units.#
+
+/361 Banshee
+##
+
+/362 Antimagic Spell
+#The unit is taught to cast "Antimagic" spell, increasing target unit's resistance by 10 and granting it spell immunity.#
+
+/363 Phantom
+##
+
+/364 Summoning Power
+#Increase the level of summoned creatures by 2 (undead by 1, demons by 4) and the summoning range by 1.#
+
+/365 Paralyze Spell
+#The unit is taught to cast the "Paralyze" spell, paralyzing a target unit which can't move and fight. The target's resistance only partially protects it from the spell. Has no effect on undead and mechanical units.#
+
+/366 Mass Sleep Spell
+#The unit is taught to cast the "Mass Sleep" spell, making all enemies fall asleep. Sleeping units cannot fight or move for the duration of the spell, unless they are attacked. Has no effect on undead and mechanical units.#
+
+/367 Shadow Form Butterfly Spell
+#The unit is taught to cast the "Shadow Form Butterfly" spell, giving it special powers.#
+
+/368 Shadow Form Priestess Spell
+#The unit is taught to cast the "Shadow Form Priestess" spell, giving it special powers.#
+
+/369 Summon Beholder Spell
+#The unit is taught to cast the "Summon Beholder" spell, summoning a Beholder to a tile adjacent to the summoner.#
+
+/370 Magic Crystal Spell
+#The unit is taught to cast the "Magic Crystal" spell, creating a dark crystal on a tile adjacent to the caster.#
+
+/371 Alvari Rage Spell
+#The unit is taught to cast the "Alvari Rage" spell, increasing attack and ranged attack of a friendly unit by 2, speed by 1 and grants bloodlust.#
+
+/372 Blinding Darkness Spell
+#The unit is taught to cast the "Blinding Darkness" spell, which sets the attack of an enemy unit to 0.#
+
+/373 Summoning Power
+#Increase the level of summoned creatures by 4 (undead by 2, demons by 8) and the summoning range by 2.#
+
+/374 Kiss of Darkness Spell
+#The unit is taught to cast the "Kiss of Darkness" spell, allowing a unit in shadow form to act twice each turn.#
+
+/375 Astral Parasite Spell
+#Provides the unit with special arrows - as per "Astral Parasite" spell.#
+
+/376 Hands of Darkness Spell
+#The unit is taught to cast the "Hands of Darkness" spell, granting a friendly unit the ability to attack all enemies around it at an additional cost of stamina.#
+
+/377 Warp Spell
+#The unit is taught to cast the "Warp" spell, moving the target unit to a free tile.#
+
+/378 Shadow Thief Spell
+#The unit is taught to cast the "Shadow Thief" spell, destroying 8 ammo of the target unit and inflicting an equal amount of damage to it. Part of the destroyed ammo is given to the caster.#
+
+/379 Dark Depletion Spell
+#The unit is taught to cast the "Dark Decimation" spell, destroying 8 ammo to each target within 2 tiles and causing an equal amount of damage to it.#
+
+/380 Dark Revival Spell
+#The unit is taught to cast "Dark Revival" spell, with which you can resurrect fallen friendly units due to the sacrifice of another unit.#
+
+/381 Cloud of Darkness Spell
+#The unit is taught to cast "Cloud of Darkness" spell, sets the attack of all living units within 2 tile to 0.#
+
+/382 Raise Reaper Spell
+#The unit is taught to cast "Raise Reaper" spell, creating reaper from the corpse of the dead unit.#
+
+/383 Cloud of Restoration Spell
+#The unit is taught to cast the "Cloud of Restoration" spell, restoring the health of all undead within 1 tile.#
+
+/384 Mass Undead Restoration Spell
+#The unit is taught to cast "Mass Undead Restoration" spell, gradually restoring health to all friendly undead units.#
+
+/385 Unrest Spell
+#The unit is taught to cast "Unrest" spell, allows one undead unit which was under effect of unrest spell, raise again with full health when it was destroyed in battle.#
+
+/386 Feels No Pain
+#Wounds have no impact on the unit's attack.#
+
+/387 Recuperation
+#The unit recovers 3 more stamina point while resting.#
+
+/388 Armor Weakening Spell
+#The unit is taught to cast the "Armor Weakening" spell, reducing defense and ranged defense of the target unit.#
+
+/389 Axii Sign
+#The unit is taught to cast Axii Sign, frightening the enemy.#
+
+/390 Yrden Sign
+#The unit is taught to cast Yrden Sign, able to cause pain to the enemy.#
+
+/391 Lich
+##
+
+/392 Word of Death Spell
+#The unit is taught to cast "Word of Death" spell, greatly reducing stamina of all living units on the battlefield.#
+
+/393 Raise Mummy Spell
+#The unit is taught to cast "Raise Mummy" spell, creating a mummy from the corpse of the dead unit.#
+
+/394 Raise Cadaver Spell
+#The unit is taught to cast "Raise Cadaver" spell, creating a cadaver from the corpse of the dead unit.#
+
+/395 Sinister Howl
+#The unit is taught to use Terrible Howl, frightening its enemies.#
+
+/396 Raise Vampire Spell
+#The unit is taught to cast "Raise Vampire" spell, creating a vampire from the corpse of the dead unit.#
+
+/397 Summon Devil Spell
+#The unit is taught to cast the "Summon Devil" spell, summoning a Devil to a tile adjacent to the summoner.#
+
+/398 Raise Banshee Spell
+#The unit is taught to cast "Raise Banshee" spell, creating a banshee from the corpse of the dead unit.#
+
+/399 Death Cloud Spell
+#The unit is taught to cast the "Death Cloud" spell, poisoning all living units within 2 tiles. #
+
+/400 Mass Life Drain Spell
+#The unit is taught to cast "Mass Life Drain" spell, inflicting minor damage to all enemies and healing injuries of the caster.#
+
+/401 Summon Imp Spell
+#The unit is taught to cast Summon Imp, summoning an imp in a neighboring tile. The caster loses 3 hit points.#
+
+/402 Summon Hellhound Spell
+#The unit is taught to cast the "Summon Hellhound" spell, summoning a Hellhound to a tile adjacent to the summoner. Caster loses 5 hit points.#
+
+/403 Summon Fiend Spell
+#The unit is taught to cast the "Summon Fiend" spell, summoning a Fiend to a tile adjacent to the summoner. Caster loses 6 hit points.#
+
+/404 Summon Demon Spell
+#The unit is taught to cast "Summon Demon", summoning a Demon to a tile adjacent to the summoner. The sacrifice of a friendly unit is required for this summoning.#
+
+/405 Demon Blood Spell
+#The unit is taught to cast the "Demon Blood" spell, inflicting damage to an enemy or a friendly demon and healing the injuries of the caster.#
+
+/406 Mass Bless Spell
+#The unit is taught to cast the "Mass Bless" spell, increasing all abilities of all friendly units and restoring 2 stamina points.#
+
+/407 Healing Sleep
+#The unit is taught to cast "Healing Sleep", putting to sleep all units within 1 tile and restoring health and stamina during sleep.#
+
+/408 Corruption Spell
+#The unit is taught to cast the "Corruption" spell, greatly reducing all stats of all units within 2 tiles, ignoring the resistance and immunity to magic.#
+
+/409 Dark Pact Spell
+#The unit is taught to cast "Dark Pact" spell, allowing friendly creatures to raise after death as a demon of corresponding rank.#
+
+/410 Ammo Bearer
+#The unit is taught to supply their neighbors with ammo on the battlefield. #
+
+/411 Golem
+##
+
+/412 Springald
+##
+
+/413 Death Servant
+#Healing spells have no effect on the unit.#
+
+/414 Become Fiend Lord
+#Perform the dark ritual and equip the unit with new upgraded weapons with outstanding features so he continue his service as a Fiend Lord.#
+
+/415 Chaos Distortion Spell
+#The unit is taught to cast "Chaos Distortion" spell, allowing all friendly demons to make an extra move.#
+
+/416 Chaos Surge Spell
+#The unit is taught to cast "Chaos Surge" spell, allowing the friendly demon to make an extra move.#
+
+/417 Deadly Touch Spell
+#The unit is taught to cast the "Deadly Touch" spell, instantly killing a friendly or enemy creature.
+Magic Resistance and Magic Immunity offer no protection from this spell.
+Does not affect the undead, mechanical units and heroes.#
+
+/418 Become Preacher
+#When soldier received better equipment he is able to join the ranks of Preachers.#
+
+/419 Fearless Spell
+#The unit is taught to cast "Fearless" spell, restoring the morale of friendly unit and increasing it's attack for a while.#
+
+/420 Immobilization
+#Immobilizing an enemy unit with the melee attack, preventing to move during it's turn.#
+
+/421 Spectre
+##
+
+/422 Rune Shot
+#The unit is taught to cast the "Rune Shot" spell, increasing ranged attack to mechanical unit, changing damage type to magical and restoring 2 ammo.#
+
+/423 Recuperation
+#The unit recovers 2 more stamina point while resting.#
+
+/424 Tarrasque
+##
+
+/425 Energy Control
+#The ability to control magic energy allows the unit to ignore 4 points of target's resistance while using a magical ranged attack.#
+
+/426 Energy Control
+#The ability to control magic energy allows the unit to ignore 8 points of target's resistance while using a magical ranged attack.#
+
+/427 Energy Control
+#The ability to control magic energy allows the unit to ignore 12 points of target's resistance while using a magical ranged attack.#
+
+/428 Containment Spell
+#The unit is taught to cast the "Containment" spell, reducing the speed of the enemy unit and making it lose stamina.#
+
+/429 Dark Redemption Spell
+#The unit is taught to cast the "Dark Redemption" spell, which increases the magical abilities of all friendly creatures, and gives a small boost to morale.#
+
+/430 Animal
+#This is an animal and it has no weapons other than natural ones - like claws and fangs.#
+
+/431 Ericuba
+##
+
+/432 Meditation
+#The unit will restore his ammo while resting.#
+
+/433 Ice Snake Spell
+#The unit is taught to cast "Ice Snake" spell, inflicting very heavy damage to one enemy and slows it down significantly.#
+
+/434 Lightning Ball Spell
+#The unit is taught to cast "Lightning Ball" spell, inflicting heavy damage to all units within 1 tile and reducing their defense and ranged defense.#
+
+/435 Scorching Ground Spell
+#The unit is taught to cast "Scorching Ground" spell, inflicting lasting damage to all non-flying enemies and slowing them.#
+
+/436 Solar Blast Spell
+#The unit is taught to cast "Solar Blast" spell, inflicting heavy damage to all enemies.#
+
+/437 Necromancer's Cry Spell
+#The unit is taught to cast "Necromancer's Cry" spell, allowing almost all friendly undead make an extra turn.#
+
+/438 Elemental Master Tome
+##
+
+/439 Elemental Master Immunities
+##
+
+/440 Gnoll flaws
+##
+
+/441 Slimy Bomb Spell
+#The unit is taught to cast "Slimy Bomb" spell, reducing combat effectiveness of units under effect of this spell.#
+
+/442 Stunning Blow 2
+#Each of the unit's attacks drains the enemy of 2 stamina point.#
+
+/443 Great Pack Warrior
+#Decorate the gnoll with a honour rune, which indicates the great military achievements. Soon he had to make a choice.
+
++2 Attack and counterattack.
+Defense and ranged defense +1.#
+
+/444 Flesh-tearer
+#Teach a Great Pack Warrior fighter ability to break through any armor.
+
+This choice will make further selections of Flesh-scorcher ability meaningless.#
+
+/445 Flesh-scorcher
+#Teach a Great Pack Warrior fighter ability to cut incorporeal enemies. 
+
+This choice will make further selections of Flesh-tearer meaningless.#
+
+/446 Great Pack Headhunter
+#Decorate the gnoll with a honour rune, which indicates the great military achievements. Soon he had to make a choice.
+
+Ranged Attack +3.
+Shooting range +1.#
+
+/447 Flesh-piercer
+#Teach a Great Pack Headhunter ability to penetrate the strongest armor. This choice will make further selections of Flesh-incinerator ability meaningless.#
+
+/448 Flesh-incinerator
+#Teach a Great Pack Headhunter to use enchanted arrows. This choice will make further selections of Flesh-piercer ability meaningless.#
+
+/449 Rune of Life
+#Gnoll receives a Rune of Life that increases his hit points but reduces his strength.
+Hit points of unit +10.
+Attack and counterattack -2.#
+
+/450 Rune of Predator
+#Gnoll receives a Rune of Predator that increases his predatory abilities and reduces his salary.
+Salary -100~.
+Robbery +20.#
+
+/451 Rune of Rage
+#Gnoll receives a Rune of Rage that increases his attack, but reduces his defense.
+Attack +3.
+Battle Frenzy +2.
+Defense -2.#
+
+/452 Rune of Thorns
+#Gnoll receives a Rune of Thorns that increases his counterattack, but reduces his attack.
+Counterattack +4. Parry +2.
+Attack -4.#
+
+/453 Rune of Accuracy
+#Gnoll receives an Rune of Accuracy that increases ranged attack, but reduces range defense and the amount of arrows.
+Ranged attack +4.
+Ranged Defense -2.
+Ammo -2.#
+
+/454 Rune of Destruction
+#Gnoll receives a Rune of Destruction that gives him destructive strength, making gnoll more wild and furious.
+Siege +4. Endurance +5.
+The morale -4.#
+
+/455 Gnoll-Archer Precise Shot
+#The unit is taught how to aim before shooting, ignoring part of the enemy's ranged defense.#
+
+/456 Gnoll-Archer Energy Control
+#The ability to control magic energy is increased, allowing the unit to ignore an additional point of enemy resistance while using a magical ranged attack.#
+
+/457 Rune of Swiftness
+#Gnoll receives a Rune of Swiftness that increases endurance and agility of the gnoll and increases his greed too.
+Endurance +7. Stolen ammo +3.
+Marauder +15.#
+
+/458 Mass Slow Spell
+#The unit is taught to cast "Mass Slow" spell, slowing all enemies and causing them to gradually lose stamina.#
+
+/459 Avatar of Light
+#Certain dark spells do not affect the unit.#
+
+/460 Armageddon Spell
+#The unit is taught to cast "Armageddon" spell, inflicting huge fire damage to all units on the battlefield.#
+
+/461 Siege
+#Increases the rate of destruction of enemy fortifications.#
+
+/462 Summon Hnara Spell
+#The unit is taught to cast the "Summon Hnara" spell, summoning a Hnara to a tile adjacent to the summoner.#
+
+/463 Intimidation 4
+#When attacking in melee, the unit reduces the morale of the enemy by 4.#
+
+/464 Intimidation 2
+#When attacking in melee, the unit reduces the morale of an enemy by additional 2 points of morale.#
+
+/465 Miracle Spell
+#The unit is taught to cast the "Miracle" spell, healing friendly units within 1 tile and causing damage to enemies whose are in the same place.#
+
+/466 Fix
+#The unit is taught the special ability to repair a friendly mechanical unit within shooting range.#
+
+/467 Mobility Spell
+#The unit is taught to cast the "Mobility" spell, increasing the speed of friendly mechanical unit by 1 for 1 turn.#
+
+/468 Fix
+#The unit is taught the special ability to repair a friendly mechanical unit within shooting range.#
+
+/469 Fix +1
+#Increase the amount of health restored by means of repair.#
+
+/470 Become Workman
+#When militiaman is taught repair skills, he could be promoted to Workman.#
+
+/471 Reload Spell
+#The unit is taught to cast "Reload" spell, restoring 1 ammo to friendly mechanical unit.#
+
+/472 Summon Wolf Spell
+#The unit is taught to cast "Summon Wolf" spell, summoning wolf to summoner's adjacent tile.#
+
+/473 Summon Dire Bear Spell
+#The unit is taught to cast "Summon Dire Bear" spell, summoning dire bear to summoner's adjacent tile.#
+
+/474 Lord of Chaos
+#The unit is a powerful creature of Chaos, and it's hard to make it act on its turn.#
+
+/475 Regeneration
+#This unit recovers 2 hit points per turn.#
+
+/476 Regeneration
+#This unit recovers 4 hit points per turn.#
+
+/477 Test of Faith Spell
+#The unit is taught to cast the "Test of Faith" spell, restoring hit points and stamina to a friendly unit for a short time, granting it Smite Evil and instantly replenishing one ammo.#
+
+/478 Summon Icarus Spell
+#The unit is taught to cast the "Summon Icarus" spell, summoning the Alkari warrior to a tile adjacent to the summoner.#
+
+/479 Summon Stalker Spell
+#The unit is taught to cast the "Summon Stalker" spell, summoning the Alkari hunter to a tile adjacent to the summoner.#
+
+/480 Summon Luminary Spell
+#The unit is taught to cast the "Summon Luminary" spell, summoning an Luminary to a tile adjacent to the summoner.#
+
+/481 Soul Trap Spell
+#The unit is taught to cast the "Soul Trap" spell, trapping the soul when cast on a recently deceased.#
+
+/482 Strike of Pain Spell
+#The unit is taught to cast the "Strike of Pain" spell, causing pain to the enemy.#
+
+/483 Death Bell Spell
+#The unit is taught to cast the "Death Bell" spell, which restores health to a friendly unit.#
+
+/484 Trapped Soul
+##
+
+/485 Enhanced Trapped Soul
+##
+
+/486 Forest Knowledge 4
+#The unit becomes a forest expert. It spends only one movement point to pass through a forest tile. The unit's increased knowledge of the woods gives it additional defense while in a forest.#
+
+/487 Hills Knowledge 4
+#The unit becomes a hills expert. It spends only one movement point to pass through a hill tile, without wasting any stamina. The unit's increased knowledge gives it additional defense when fighting on a hill.#
+
+/488 Swamp Knowledge 4
+#The unit becomes a swamp expert. It spends only one movement point to pass through a swamp tile, without wasting any stamina. The unit's increased knowledge gives it additional defense when fighting in a swamp.#
+
+/489 Ratman
+##
+
+/490 Concoction Spell
+#The unit is taught to cast the "Concoction" spell, which increases a friendly unit's attack, defense and ranged defense for a short time , but also causes it to lose health.#
+
+/491 Gas Bomb
+#The unit is taught to use special bombs that poison all living creatures within 1 tile of the target.#
+
+/492 Fierce Roar
+#The unit is taught to use Fierce Roar, frightening its enemies.#
+
+/493 Fever Spell
+#The unit is taught to cast the "Fever" spell, infecting an enemy creature with a magical disease, causing substantial damage while inflicted.#
+
+/494 Exhaustion Spell
+#The unit is taught to cast the "Exhaustion" spell, poisoning an enemy creature, causing substantial damage while active.#
+
+/495 Black Plague Spell
+#The unit is taught to cast the "Black Plague" spell, poisoning all living creatures within 1 tile, causing substantial damage while active.#
+
+/496 Pestilence Spell
+#The unit is taught to cast the "Pestilence" spell, poisoning all living creatures within 2 tiles, causing enormous damage while active.#
+
+/497 Summon Rat Spell
+#The unit is taught to cast the "Summon Rat" spell, summoning a Giant Rat to a tile adjacent to the summoner.#
+
+/498 Summon Ratman Spell
+#The unit is taught to cast the "Summon Ratman" spell, summoning a Ratman to a tile adjacent to the summoner.#
+
+/499 Summon Rat Spell
+#The unit is taught to cast the "Summon Rat" spell, summoning a Giant Rat to a tile adjacent to the summoner.#
+
+/500 Hunger
+#Makes a rat warrior more susceptible to its instincts.
+Necrophage +5.#
+
+/501 Severe Hunger
+#Makes a rat warrior more susceptible to its instincts.
+Attack +2.
+Necrophage +5.#
+
+/502 Dark Hunger
+#Makes a rat warrior more susceptible to its instincts.
+Battle Frenzy +1.
+Bloodsucker +10.#
+
+/503 Hunger
+#Makes a rat warrior more susceptible to its instincts.
+Battle Frenzy +2.#
+
+/504 Severe Hunger
+#Makes a rat warrior more susceptible to its instincts.
+Necrophage +10.#
+
+/505 Dark Hunger
+#Makes a rat warrior more susceptible to its instincts.
+Bloodsucker +10.#
+
+/506 Heavy Ammo
+#The unit receives special missiles able to damage the target's armor, reducing its ranged defense by 1.#
+
+/507 Heavy Ammo
+#The unit's ammo is capable of lowering the ranged defense by 1 turn longer.#
+
+/508 Rat Reaper
+##
+
+/509 Ripper
+##
+
+/510 Battle Cry Spell
+#The unit is taught to cast the "Battle Cry" spell, restoring a friendly unit's morale and stamina.#
+
+/511 Summon Shadow Claw Spell
+#The unit is taught to cast the "Summon Shadow Claw" spell, summoning a Shadow Claw to a tile adjacent to the summoner.#
+
+/512 Summon Rat King Spell
+#The unit is taught to cast the "Summon Rat King" spell, summoning a Rat King to a tile adjacent to the summoner.#
+
+/513 Summon Rat Reaper Spell
+#The unit is taught to cast the "Summon Rat Reaper" spell, summoning a Rat Reaper to a tile adjacent to the summoner.#
+
+/514 Grand Ratt 1
+##
+
+/515 Giant
+#The creature is huge and because of this some spells cannot be imposed on him.#
+
+/516 Destroyer
+##
+
+/517 Lord of Abyss
+##
+
+/518 Acheron
+##
+
+/519 Faerie Dragon
+##
+
+/520 Phoenix
+##
+
+/521 Behemoth
+##
+
+/522 Hydra
+##
+
+/523 Swallower
+##
+
+/524 Huorn
+##
+
+/525 Become Daokon's Guardian
+#Equipping a war elephant with enchanted armor and performing a special ritual turns it into the fierce Daokon's Guardian.#
+
+/526 Become Paragon of Light
+#Giving a Paladin specially blessed equipment turns him into a Paragon of Light.#
+
+/527 Become Maleficar
+#Initiating a dedicated warlock into the darkest secrets turns him into a Maleficar.#
+
+/528 Stomp
+#When attacking an enemy in melee, the unit can trample it down if enemy has 20 or fewer hit points left after the attack. Having made the kill, the unit moves to the tile previously occupied by the enemy.#
+
+/529 Healing
+#A special ability allowing the unit to heal a friendly unit within shooting range.#
+
+/530 Maleficar
+##
+
+/531 Paragon of Light
+##
+
+/532 Mass Disease Spell
+#The unit is taught to cast the "Mass Disease" spell, which infects all living enemy creaturs with a disease.#
+
+/533 Daokon's Guardian
+##
+
+/534 Elemental Spirit
+#This is an inhabitant of another plane of existence, which makes it immune to certain spells.#
+
+/535 Necrophage
+#A special ability allowing the unit to devour dead bodies, thereby restoring 5 hit points.#
+
+/536 Grand Ratt 2
+##
+
+/537 Master of Decay
+##
+
+/538 Tolerance
+#The unit's morale does not decrease when his alignment conflicts with the Master's or with other units in the party.#
+
+/539 Plague Warrior
+##
+
+/540 Driller
+##
+
+/541 Shadow Claw
+##
+
+/542 Blind Faith Spell
+#The unit is taught to cast the "Blind faith" spell, which puts all types of a unit's attack at 0, but grants it Smite Evil (10).#
+
+/543 Poison Rain Spell
+#The unit is taught to cast the "Poison Rain" spell, weakly but permanently poisoning all living creatures within 2 tiles.#
+
+/544 Web Immunity
+#It's impossible to entangle the unit in a web.#
+
+/545 Petrification Immunity
+#Petrification spells have no effect on the unit.#
+
+/546 Entanglement Immunity
+#It's impossible to entangle the unit in roots.#
+
+/547 Spellpower +1
+#Increase the unit's Spellpower by 1.#
+
+/548 Spell Duration 1
+#Increase the unit's Spell Duration by 1.#
+
+/549 Resistance Negation 1
+#Increase the unit's ability to negate enemy resistance by 1.#
+
+/550 Marauder 5
+#Makes the unit temper his greed. Decreases the Marauder skill by 5~ and increases morale by 1.#
+
+/551 Plunderer 5
+#Makes the unit temper its predatory inclinations. Decreases the Plunderer skill by 5~ and increases morale by 2.#
+
+/552 Incorporeality
+#The unit has no physical body, so it cannot become entangled in webs or roots or turned to stone.#
+
+/553 Dragon
+##
+
+/554 Treant
+##
+
+/555 Dracolich
+##
+
+/556 Mighty Tarrasque
+##
+
+/557 Gates of Chaos 1
+##
+
+/558 Gates of Chaos 2
+##
+
+/559 Summon Imp Spell
+#The unit is taught to cast Summon Imp, summoning an imp in a neighboring tile.#
+
+/560 Summon Spawn Spell
+#The unit is taught to cast the "Summon Spawn" spell, summoning Spawn in a tile adjacent to the summoner.#
+
+/561 Summon Fiend Spell
+#The unit is taught to cast the "Summon Fiend" spell, summoning a Fiend to a tile adjacent to the summoner.#
+
+/562 Summon Hellhound Spell
+#The unit is taught to cast the "Summon Hellhound" spell, summoning a Hellhound to a tile adjacent to the summoner.#
+
+/563 Summon Fiend Lord Spell
+#The unit is taught to cast the "Summon Fiend Lord" spell, summoning a Fiend Lord to a tile adjacent to the summoner.#
+
+/564 Summon Cerberus Spell
+#The unit is taught to cast the "Summon Cerberus" spell, summoning a  Cerberus to a tile adjacent to the summoner.#
+
+/565 Summon Succubus Spell
+#The unit is taught to cast the "Summon Succubus" spell, summoning a Succubus to a tile adjacent to the summoner.#
+
+/566 Summon Demon Spell
+#The unit is taught to cast "Summon Demon", summoning a Demon to a tile adjacent to the summoner.#
+
+/567 Summon Destroyer Spell
+#The unit is taught to cast the "Summon Destroyer" spell, summoning a Destroyer to a tile adjacent to the summoner.#
+
+/568 Summon Devil Spell
+#The unit is taught to cast the "Summon Devil" spell, summoning a Devil to a tile adjacent to the summoner.#
+
+/569 Black Blood Spell
+#The Lizard Archer is taught to cast the "Black Blood" spell on himself, which increases its poison melee and ranged attack, but makes him lose some health each turn.#
+
+/570 Dark Dominion 1
+#This unit deals extra damage to enemies serving the Light.#
+
+/571 Dark Dominion 2
+#This unit deals extra damage to enemies serving the Light.#
+
+/572 Dark Dominion 3
+#This unit deals extra damage to enemies serving the Light.#
+
+/573 Undead Summoning Power
+#Increase the strength of the summoned undead unit by 1.#
+
+/574 Undead Summoning Power
+#Increase the strength of the summoned undead unit by 2.#
+
+/575 Undead Summoning Power
+#Increase the strength of the summoned undead unit by 4.#
+
+/576 Skeleton
+#This creature consists solely of almost bare bones.#
+
+/577 Lord of Darkness
+##
+
+/578 Summon Hnara Spell
+#The unit is taught to cast the "Summon Hnara" spell, summoning a Hnara to a tile adjacent to the summoner.#
+
+/579 Gaseous Form Spell
+#Teaches a vampire to cast a "Gaseous Form" spell on itself, greatly reducing attack and counter-attack, and significantly increasing both defense attributes and granting a fast regeneration.#
+
+/580 Chaos Cultist
+#A Chaos Cultist is so fanatical that he will not hesitate to sacrifice himself, and he will never use his power for his own healing.#
+
+/581 Become Avenger
+#The demon performs a ritual of rebirth, turning it into a terrible avenger.#
+
+/582 Scorn Spell
+#The unit is taught to cast the "Scorn" spell, reducing the counterattack, defense and ranged defense of friendly or enemy creatures, but increasing their attack.#
+
+/583 Hero's Ballad Spell
+#The unit is taught to cast the "Hero's Ballad" spell, restoring stamina and morale to all friendly units.#
+
+/584 Rune Armor Spell
+#The unit is taught to cast the "Rune Armor" spell, increasing the armor of friendly units within 1 tile around the caster.#
+
+/585 Rune Weapon Spell
+#The unit is taught to cast the "Rune Weapon" spell, increasing all types of attack of friendly units within 1 tile around the caster.#
+
+/586 Rune Amulet Spell
+#The unit is taught to cast the "Rune Amulet" spell, increasing the resistance of friendly units within 1 tile around the caster.#
+
+/587 Caustic Mixture Spell
+#The unit is taught to cast the "Caustic Mixture" spell, reducing the enemy's defense by 3 and poisoning him.#
+
+/588 Raise Demon
+#After its death the unit is resurrected as a regular demon.#
+
+/589 Chilling Touch
+#Spectre's touch immobilizing any living creature for 3 turns, ignoring magic immunity and almost ignoring resistance to magic spells.#
+
+/590 Parry
+#When the unit is attacked in melee for the first time in a given turn, his defense is increased by 3.#
+
+/591 Forest Knowledge 2
+#The unit becomes a forest expert. It spends only one movement point to pass through a forest tile. The unit's increased knowledge gives it additional defense when fighting in a forest.#
+
+/592 Change Weapon - Magic Strike
+#The unit changes to its second weapon, dealing magical damage.#
+
+/593 Hills Knowledge 2
+#The unit becomes a hills expert. It spends only one movement point to pass through a hill tile, without wasting any stamina. The unit's increased knowledge gives it additional defense when fighting on a hill.#
+
+/594 Dash Spell
+#The unit is taught to cast the "Dash" spell, giving a friendly unit another turn.#
+
+/595 Swamp Knowledge 2
+#The unit becomes a swamp expert. It spends only one movement point to pass through a swamp tile, without wasting any stamina. The unit's increased knowledge gives it additional defense when fighting in a swamp.#
+
+/596 Supplier
+#The unit is taught to help its neighbors by restoring health and stamina.#
+
+/597 Necrosurge Spell
+#The unit is taught to cast the "Necrosurge" spell, instantly restoring 3 health points to all undead creatures within 1 tile.#
+
+/598 Resistance Negation 2
+#Increase the unit's ability to negate enemy resistance by 2.#
+
+/599 Word of the Lord Spell
+#The unit is taught to cast the "Word of the Lord" spell, increasing strength, armor and resistance of all friendly skeletons of Darkness.#
+
+/600 Susceptibility
+##
+
+/601 Double Shot 3
+#A special ability allowing the unit to take 2 shots at the target at once by spending some stamina.#
+
+/602 Soul Stealing
+#After killing an enemy in melee, the unit recovers more hit points.#
+
+/603 Enchanted Arrows
+#Increases the magic damage inflicted by the unit's missiles.#
+
+/604 Alkari
+##
+
+/605 Enchanted Arrows
+#Increases the magic damage inflicted by the unit's missiles by 6.#
+
+/606 Stalker Shot 1
+#Increases ranged attack by 1 and inflicts damage from enchanted arrows.#
+
+/607 Hunter's Net
+#Provides the unit with a hunter's net, allowing a shot to entangle the enemy for 2 turns. An entangled enemy cannot do anything. The higher the enemy's attack is, the quicker it will free itself.#
+
+/608 Arisen Luminary
+##
+
+/609 Strong Mind Spell
+#The unit is taught to cast the "Strong Mind" spell, granting all friendly units immunity to mind-affecting spells and effects.#
+
+/610 Eternal Mentor
+##
+
+/611 Mental Support Spell
+#The unit is taught to cast the "Mental Support" spell, temporarily increasing summoning power of all friendly units by 2.#
+
+/612 Mental Duel Spell
+#The unit is taught to cast the "Mental Duel" spell, which reduces an enemy's magical abilities.#
+
+/613 Mental Sermon Spell
+#The unit is taught to cast the "Mental Sermon" spell, restoring health and stamina of all friendly units each turn and granting them Smite Evil.#
+
+/614 Mental Resonance Spell
+#The unit is taught to cast the "Mental Resonance" spell, greatly increasing the magical abilities of a friendly unit and giving it another turn.#
+
+/615 Act of Faith Spell
+#The unit is taught to cast the "Act of Faith" spell, causing great damage to the caster, but granting Reincarnation, Immunity to Pain and strong Smite Evil to all friendly Alkari.#
+
+/616 Summon Arisen Spell
+#The unit is taught to cast the "Summon Arisen" spell, summoning an Arisen Luminary to a tile adjacent to the summoner.#
+
+/617 Summon Keeper Spell
+#The unit is taught to cast the "Summon Keeper" spell, summoning a Memory Keeper, a strong spellcasting Alkari warrior, to a tile adjacent to the summoner.#
+
+/618 Mental Shadow Spell
+#The unit is taught to cast the "Mental Shadow" spell, which reduces the magical abilities of all enemies.#
+
+/619 Tree of the Departed
+##
+
+/620 Tree Abilities
+##
+
+/621 Undead Summoning Power
+#Increase the strength of the summoned undead unit by 1.#
+
+/622 Frenzy
+#The unit may spend two 2 extra stamina points to recover 5 hit poins when dealing melee damage.#
+
+/623 Frenzy
+#Increase hit point recovery from melee damage by 5.#
+
+/624 Parry 1
+#When the unit is attacked in melee for the first time in a given turn, his defense is increased by 1.#
+
+/625 Parry +1
+#The unit's parrying skill improves, allowing him to increase his defense against the first melee attack an enemy makes against him in a given turn.#
+
+/626 Crippling Shot
+#The unit is taught to hit an enemy's vulnerable spots, reducing its speed by 1.#
+
+/627 Crippling Shot +1
+#Increases the duration of the enemy unit's injury from the shot by 1 turn.#
+
+/628 Overwhelming Force
+#The unit's strike or shot is propelled by magic and will ignore half of the enemy's resistance.#
+
+/629 Surge of Strength
+#The unit will restore 1 additional stamina point each turn.#
+
+/630 Shield Wall
+#The unit is able to increase defenses by 3 until the next turn, at the cost of lowering his attack and passing his turn. When activated the unit gets Vigilance.#
+
+/631 Bloodsucker +10
+#Increase health recovered by 25~ of melee damage dealt.#
+
+/632 Master of Zombies
+#Teaches a maleficar to raise the corpses of defeated enemies as zombies instead of skeletons.#
+
+/633 Shield Wall
+#Increases the unit's defense by 1.#
+
+/634 Parry
+#When the unit is attacked in melee for the first time in a given turn, his defense is increased by 8.#
+
+/635 Maleficar Tome
+##
+
+/636 Natural Ammo
+#The unit's ammo is more of an extension of its special features than a bunch of projectiles, like arrows or crystals. Destroying or stealing them is almost impossible.#
+
+/637 Life Leech
+#When using Magic Shot on the enemy, the unit restores hit points equal to 25~ of the damage dealt.#
+
+/638 Life Leech
+#When using Magic Shot on the enemy, the unit restores hit points equal to 50~ of the damage dealt.#
+
+/639 Life Leech +25
+#Increases the amount of restored health while attacking an enemy with Magic Shot by 25~ of the inflicted damage.#
+
+/640 Armor Piercing Shot
+#The unit's missile attacks ignore half of the enemy's ranged defense. Armorpiercing arrows cannot be replenished on the battlefield!#
+
+/641 Stunning Shot 1
+#Each of the unit's shots drains the enemy's stamina points by 1.#
+
+/642 Stunning Shot 2
+#Each shot drains 2 stamina points.#
+
+/643 Intimidating Shot
+#Each of the unit's shots drains the enemy of 1 morale point.#
+
+/644 Wounding Strike 1
+#The melee attack on an enemy unit will leave bleeding wounds. The higher this ability is, the more damage is suffered due to blood loss.#
+
+/645 Wounding Strike 2
+#The melee attack on an enemy unit will leave bleeding wounds. The higher this ability is, the more damage is suffered due to blood loss.#
+
+/646 Wounding Strike +1
+#The additional damage suffered by the enemy due to blood loss from a melee attack is increased by 1.#
+
+/647 Wounding Shot 1
+#The ranged attack on an enemy unit will leave bleeding wounds. The higher this ability is, the more damage is suffered due to blood loss.#
+
+/648 Wounding Shot 2
+#The ranged attack on an enemy unit will leave bleeding wounds. The higher this ability is, the more damage is suffered due to blood loss.#
+
+/649 Wounding Shot +1
+#The additional damage suffered by the enemy due to blood loss from a ranged attack is increased by 1.#
+
+/650 Enchanted Blade
+#The unit is taught to employ an enchanted blade, inflicting magic damage on the enemy in addition to standard damage.#
+
+/651 Enchanted Blade
+#Increases the magic damage inflicted by the unit's melee attack.#
+
+/652 Bloodlust
+#Increases the morale gained from killing an enemy.#
+
+/653 Bloodlust
+#Increases the morale gained from killing an enemy.#
+
+/654 Damaged Aura
+#The unit is taught to inflict severe damage to the enemy's aura in melee, decreasing its resistance by 1.#
+
+/655 Damaged Aura +1
+#Increases the duration the enemy's aura is exposed to the strike by 1 turn.#
+
+/656 Astral Ammo
+#The unit is taught to inflict damage to the enemy's aura with its ranged attack, decreasing its resistance by 1.#
+
+/657 Astral Ammo +1
+#Increases the duration the enemy's aura is exposed to the shot by 1 turn.#
+
+/658 Vigilance
+#The unit is taught to fight back in melee combat, even against agile opponents.#
+
+/659 Skillful Diplomat
+#The hero's Diplomacy skill is considered 1 point higher.#
+
+/660 Skillful Diplomat
+#The hero's Diplomacy skill is considered 2 points higher.#
+
+/661 Healing +2
+#Increases the number of hit points healed by the unit.#
+
+/662 Stone Statue Spell
+#Teaches a Gargoyle to cast the "Stone Statue" spell on itself, turning it into a regular stone statue capable of restoring health. In this state its armor and resistance are increased.#
+
+/663 Lord of the Undead
+#Teaches the Lord of Darkness to raise warriors from the corpses of defeated enemies.#
+
+/664 Reincarnation Spell
+#The unit is taught to cast the "Reincarnation" spell, which immediately resurrects a friendly unit in the event of its death.#
+
+/665 Dark Balance Spell
+#The unit is taught to cast the "Dark balance" spell, which increases a friendly unit's resistance and its morale by 2 each turn.#
+
+/666 Blood Shadow Spell
+#The unit is taught to cast the "Blood Shadow" spell, which increases spell casting strength and duration by 1 in exchange for some of the caster's health and it instantly replenishes 2 ammo.#
+
+/667 Summon Slave Spell
+#The unit is taught to cast the "Summon Slave" spell, summoning a kobold slave to a tile adjacent to the summoner.#
+
+/668 Vulnerable to Stimulus
+##
+
+/669 Stimulus Spell
+#The unit is taught to cast the "Stimulus" spell, which causes several Kobold slaves to act again. Increases their speed by 1 until end of turn.#
+
+/670 Shadow Form Hunter Spell
+#The hunter is taught to cast the "Shadow Form" spell, giving it special powers.#
+
+/671 Trembling Shadow Spell
+#The unit is taught to cast the "Trembling Shadow" spell, which reduces an enemy unit's ranged attack and slightly reduces morale.#
+
+/672 Black Forest Bow
+#Gives the warrior a special enchanted bow in recognition of his services (Ranged Attack +2, Collect Ammo).#
+
+/673 Pathfinder +3
+#The unit is taught better knowledge of all terrain.#
+
+/674 Shadow Form Guardsman Spell
+#The Darkness Guard is taught to cast the "Shadow Form" spell, giving it special powers.#
+
+/675 Shadow Form Craver Spell
+#The Darkness Craver is taught to cast the "Shadow Form" spell, giving it special powers.#
+
+/676 Shadow Dance Spell
+#The unit is taught to cast the "Shadow Dance " spell, which reduces the ranged attack of all enemy units and slightly reduces their morale.#
+
+/677 Shadow Form Chosen Spell
+#The Darkness Chosen is taught to cast the "Shadow Form" spell, giving it special powers.#
+
+/678 Stone Crust Spell
+#The unit is taught to cast the "Stone Crust" spell, which will cover the unit with an airtight crust when fired upon.#
+
+/679 Resistance Negation 1
+#Increase the unit's ability to negate enemy resistance by 1.#
+
+/680 Hunter of Undead 1
+#The unit is taught to inflict additional damage to the undead.#
+
+/681 Hunter of Undead 2
+#The unit is taught to inflict additional damage to the undead.#
+
+/682 Hunter of Demons 1
+#The unit is taught to inflict additional damage to demons.#
+
+/683 Hunter of Demons 2
+#The unit is taught to inflict additional damage to demons.#
+
+/684 Astral Schism Spell
+#The unit is taught to cast the "Astral Schism" spell, reducing the resistance of the enemy by half.#
+
+/685 Immunity to Bleeding
+#It's impossible to inflict a bleeding wound on the unit.#
+
+/686 Crippling Strike +1
+#Increases the duration of the enemy unit's injury from the strike by 1 turn.#
+
+/687 Burning Attack
+#The unit's melee attack will ignite the enemy. The higher this ability is, the more damage the fire inflicts.#
+
+/688 Explosive Weapon
+#The unit is given shells that inflict additional damage to all units around the target.#
+
+/689 Darkness Surge
+#The unit's melee attack inflicts the enemy unit with the effects of the "Darkness Surge" spell.#
+
+/690 Storm Shadow
+#The unit's melee attack inflicts all adjacent units with the effects of the "Storm Shadow" spell.#
+
+/691 Sniper Shot
+#The unit has studied the special ability that expend some stamina to increase its range by 1.#
+
+/692 Gas Bomb +1
+#Increase the poison damage when using these special bombs by 1.#
+
+/693 Cannot Cast
+#The unit is unable to use spells.#
+
+/694 Cocoon of Darkness Spell
+#The unit is taught to cast the "Cocoon of Darkness" spell, which grants Incorporeality and increases the defense of a friendly or enemy unit, but reduces its resistance and prevents it from shoot and casting spells.#
+
+/695 Scorching Flesh
+#The unit emits such heat that any melee attack against it will ignite and burn the attacker, receiving 2 points of damage.#
+
+/696 Scorching Flesh 1
+#Makes the heat emitted by the unit stronger, causing it to burn its attacker more severely during melee.#
+
+/697 Siege Mode
+#The unit can switch to siege mode. When this unit attacks it can cause damage to an area without harming any allies.#
+
+/698 Powerful Shot
+#A special skill allowing the unit to perform a ranged attack inflicting 50~ more damage at the expense of some stamina.#
+
+/699 Healing
+#The unit is taught to heal the wounds of living creatures.#
+
+/700 Summon Demon Spell
+#The unit is taught to cast "Summon Demon", summoning a Demon to a tile adjacent to the summoner.#
+
+/701 Dark Replenishment
+#The unit is taught to replenish their ammo supply by killing in melee combat.#
+
+/702 Flaming Arrows +1
+#The unit is taught to ignite its enemies with its shots.#
+
+/703 Cause Vulnerability
+#Whenever the unit inflicts melee damage to an enemy, it affects the target with the «Vulnerability» spell.#
+
+/704 Wounding Spikes
+#Increases the bleeding damage done by the sharp spikes by 1.#
+
+/705 Wounding Spikes
+#Increases the bleeding damage done by the sharp spikes by 2.#
+
+/706 Skillful Spellcaster
+#The unit is taught to cast spells spending 1 less stamina point than usual.#
+
+/707 Charge
+#The unit is taught to deal additional damage in melee, depending on how far away the opponent is at the start of the turn.#
+
+/708 Charge +1
+#The unit is taught to charge faster, dealing even more additional melee damage.#
+
+/709 Festering Wounds
+#The unit's wounds cannot be healed.#
+
+/710 Cause Putrefaction
+#The unit is taught to cause putrefying wounds while attacking, preventing the opponent to heal.#
+
+/711 Cause Putrefaction +2
+#Increases the duration of the opponent's putrefying wounds.#
+
+/712 Tracker
+#After combat this unit can search enemies, increasing the income of trophies by 10~.#
+
+/713 Workaholic
+#The unit spends its spare time working, increasing the income from a province he is stationed in by 10~.#
+
+/714 Workaholic
+#The unit spends its spare time working, increasing the income from a province he is stationed in by 20~.#
+
+/715 Siege Mode
+#The unit can switch to siege mode, increasing its ranged attack by 3 and range by 1.#
+
+/716 Siege Mode
+#The unit can switch to siege mode, increasing its ranged attack by 6 and range by 2. In this attack the unit will inflict permanent damage to the area.#
+
+/717 Skillful Healer
+#The unit is taught to reduce the duration of poisoning and bleeding by 1 turn.#
+
+/718 Ammo Bearer +1
+#Increases the amount of ammo replenishment to the neighbor by 1.#
+
+/719 Supplier +1
+#Increases the amount of health supplied to neighbors by 1 and stamina by 1.#
+
+/720 Become Mocker
+#Performs a ritual on a demon, who becomes a mocker. It will lose the ability to shoot, but it will gain more powerful magical abilities.#
+
+/721 Self-control +1
+#Every turn the unit will restore 1 more ammo.#
+
+/722 Abysmal Joke Spell
+#The unit is taught to cast the "Abysmal Joke" spell, causing damage to all enemy creatures around it.#
+
+/723 Abysmal Swallow Spell
+#The unit is taught to cast the "Abysmal Swallow" spell, supplying ammo to friendly units.#
+
+/724 Summon Mocker Spell
+#The unit is taught to cast the "Summon Mocker" spell, summoning a mocker to a tile adjacent to the summoner. Caster loses 5 hit points.#
+
+/725 Break spell
+#The unit is taught to dispel positive spells affecting enemies through a ranged attack.#
+
+/726 Halfling Rogue
+##
+
+/727 Bombardment
+#The unit is taught to execute a bombardment that not only affects the main target, but also all the creatures around it. It does half the amount of damage.#
+
+/728 Change Ammo - Magic Shot
+#The unit changes to its second missile, dealing magical damage.#
+
+/729 Siege Mode
+#The unit can switch to siege mode, increasing its ranged attack by 10. The range cannot be further than 3.#
+
+/730 Entangling Shot
+#This unit can entangle an enemy in roots from a distance, preventing it from moving for 2 turns.#
+
+/731 Entangling Shot
+#This unit can entangle an enemy in roots from a distance, preventing it from moving for 4 turns.#
+
+/732 Healing Circle Spell
+#The unit is taught to cast the "Healing Circle" spell, healing the caster and all friendly units around it with 3 hit points.#
+
+/733 Healing Circle Spell
+#Enhance the "Healing Circle" spell cast by this unit.#
+
+/734 Frenzy
+#The unit may spend two 2 extra stamina points to recover 10 hit poins when dealing melee damage.#

@@ -1,0 +1,281 @@
+/Адрагерон
+/0 Первая встреча
+Index: 1;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Greetings, %s! I hope you won't get in my way, or you'll feel for yourself what is Chaos like.#
+
+/1 Не первая встреча (Плохие отношения)
+Index: 2;
+Min: -5000;
+Max: -100;
+Name: 0;
+Param: 0;
+Text: #You again?! I swear by all the powers of the Underworld - this time Chaos will devour you for all eternity!#
+
+/2 Не первая встреча (Нейтрален)
+Index: 2;
+Min: -99;
+Max: 99;
+Name: 1;
+Param: 0;
+Text: #%s, I warned you not to get in my way. You haven't disturbed me too much yet, but my patience is not infinite.#
+
+/3 Не первая встреча (Хорошие отношения)
+Index: 2;
+Min: 100;
+Max: 5000;
+Name: 1;
+Param: 0;
+Text: #Greetings, %s! I think you'll agree that the people of this petty world must be taught a good lesson. And you won't find any better tutor for such lessons than me!#
+
+/4 Сразу война
+Index: 3;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Conversation is unnecessary. Soon I'll cast you into Chaos, along with everyone else who stands in my way!#
+
+/5 Объявление войны
+Index: 4;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #You have tried my patience for too long. It's a pity that I do not have the power to enslave your soul, but I have enough power to drive you out from here, which I will do with the utmost pleasure. Prepare for war!#
+
+/6 Предложение мира
+Index: 5;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Your warriors are strong, %s, but their power has limits. I think it's time they had some rest.#
+
+/7 Предложение союза
+Index: 6;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #It seems that we have common goals, %s. What if we join our efforts and crush our enemies together?#
+
+/8 Предложение торговли 
+Index: 7;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I have a business offer for you, %s. I think it will prove profitable for both of us.#
+
+/9 Предложение обмена
+Index: 8;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I have a business offer for you, %s. I think it will prove profitable for both of us.#
+
+/10 Пересмотр торговли
+Index: 9;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #The situation has changed, %s. Therefore, it's time to change our trade agreements as well.#
+
+/11 Отмена торговли
+Index: 10;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Doing business with your wretched country has only increased my losses. I won't stand it anymore, so I'm breaking our trade agreement.#
+
+/12 Отмена союза
+Index: 11;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #A long friendship is a sign of weakness. The time has come to dissolve our alliance.#
+
+/13 Требование выкупа
+Index: 12;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #My demons are starving for fresh souls, and my warriors are thirsty for fresh blood. Only a generous gift from you can stop them from invading your lands.#
+
+/14 Дар
+Index: 13;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Although it's against my rules, I've decided to break tradition and send you some gifts. I think you will appreciate my generosity.#
+
+/15 Отказ (Грубый)
+Index: 14;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: -1;
+Text: #I'm going to give you a piece of good advice, %s - you'd better not anger me with offers like this any more!#
+
+/16 Отказ (Обычный)
+Index: 14;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #This is unacceptable.#
+
+/17 Отказ (Вежливый)
+Index: 14;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 1;
+Text: #Your offer is quite tempting, %s... So tempting that I'm beginning to suspect there's come kind of catch. I refuse.#
+
+/18 Соглашение (Недовольное)
+Index: 15;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: -1;
+Text: #All right, let's do it your way this time...#
+
+/19 Соглашение (Нейтральное)
+Index: 15;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #All right, you've convinced me.#
+
+/20 Соглашение (Довольное)
+Index: 15;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 1;
+Text: #Hmm... You're not as stupid as I thought you were. I agree.#
+
+/21 Отказ от общения (1х1)
+Index: 19;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #Conversation is pointless. This war will only end when I have cast you down into Chaos.#
+
+/22 Отказ от переговоров
+Index: 23;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Don't tire me with your idle talk, %s. War will resolve our dispute.#
+
+/23 Союзник, жребий или война
+Index: 20;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Well, our enemies are cast down, and now it's time to decide who shall inherit this world! We can cast lots or resolve our dispute with war. What do you choose, %s?#
+
+/24 Союзник, сдаться или война
+Index: 21;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Well, our enemies are cast down, and now the time has come to deal with you, %s. Of course, you may try to resist, but here's a piece of friendly advice - surrender!#
+
+/25 Союзник, сдача
+Index: 22;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Well, our enemies are cast down. I think I will let you have this world, %s. Try not to forget my generosity.#
+
+/26 Отказ от подарка
+Index: 24;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #I don't want your miserable handouts, %s!#
+
+/27 Принимаем дары
+Index: 25;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Well, you're not as hopeless as you seem, %s. I accept your gift.#
+
+/28 Отказ от союза с предателем
+Index: 16;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Are you offering me an alliance, %s? Very nice. But I have not forgotten your betrayal, so I don't see any benefit from such an «alliance.»#
+
+/29 Отказ от мира с предателем
+Index: 17;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #You think you're clever, %s? First you attack without declaring war, and then you offer peace? I'll make peace with you...once your soul has been devoured by Chaos!#
+
+/30 Первая встреча, кампания
+Index: 26;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Greetings, %s! I hope you won't get in my way, or you'll feel for yourself what is Chaos like.#
+
+/31 Ответ на объявление войны
+Index: 27;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Are you really that impatient to reach Chaos, %s? Well, I can help you get there, with pleasure!#
+
+/32 Отказ в мире союзнику
+Index: 28;
+Min: 0;
+Max: 0;
+Name: 0;
+Param: 0;
+Text: #I did not know you were so spineless, %s. What unworthy attempt at peace is this? %s deserves to be destroyed, and you know that just as well as I do. No peace!#
+
+/33 Ответ на предательство
+Index: 29;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #You have betrayed me, %s! I'm actually kind of grateful to you for this - now, casting you into Chaos will be twice the pleasure!#
+
+/34 Война, остались 1х1
+Index: 30;
+Min: 0;
+Max: 0;
+Name: 1;
+Param: 0;
+Text: #Now, at last, there are only two of us left on this Shard, %s. Now one of us will get the power, and the other will flee, disgraced by a shameful defeat! Something tells me it's you who are destined to lose.#
+&&&&&&

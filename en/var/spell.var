@@ -1,0 +1,13346 @@
+Quantity: 355
+
+/0
+Name: Empty;
+Cost: 0
+LifeCost: 0
+StamCost: 1
+ItemLevel: 1
+Level: 0
+PowerMod: 0
+DurationMod: 0
+Target: 0
+Area: 0
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 0
+UnitKind: (0)
+AntiEffect: (0)
+Effects:
+
+Effect: 0
+Power: 0
+Duration: 0;
+
+/1
+Name: Magic Spark;
+Cost: 0
+LifeCost: 0
+StamCost: 1
+ItemLevel: 0
+Level: 0
+PowerMod: 100
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 3
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 100
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 1
+UnitKind: (0)
+AntiEffect: (30, 105)
+
+Effects:
+Damage: 1
+Power: 4
+Duration: -1;
+
+/2
+Name: Fatigue;
+Cost: 0
+LifeCost: 0
+StamCost: 1
+ItemLevel: 0
+Level: 0
+PowerMod: 50
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 3
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 100
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 1
+Sound: 2
+UnitKind: (2, 4)
+AntiEffect: (18, 30)
+
+Effects:
+Stamina: 11
+Power: 5
+Duration: -1;
+
+/3
+Name: Inspiration;
+Cost: 0
+LifeCost: 0
+StamCost: 1
+ItemLevel: 0
+Level: 0
+PowerMod: 100
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 3
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 1
+Cumulative: 1
+Sound: 3
+UnitKind: (2, 4)
+AntiEffect: (30, 107)
+
+Effects:
+Morale: 12
+Power: 4
+Duration: -1
+
+Stamina: 11
+Power: 2
+Duration: -1;
+
+/4
+Name: Magic Arrow;
+Cost: 4
+LifeCost: 0
+StamCost: 1
+ItemLevel: 2
+Level: 1
+PowerMod: 100
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 19
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 100
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 4
+UnitKind: (0)
+AntiEffect: (30)
+
+Effects:
+Damage: 1
+Power: 8
+Duration: -1;
+
+/5
+Name: Magic Armor;
+Cost: 2
+LifeCost: 0
+StamCost: 1
+ItemLevel: 1
+Level: 1
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 19
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 5
+UnitKind: (0)
+AntiEffect: (30, 121, 187)
+
+Effects:
+Defence: 4
+Power: 3
+Duration: 4
+
+RangedDefence: 5
+Power: 3
+Duration: 4;
+
+/6
+Name: Magic Weapon;
+Cost: 2
+LifeCost: 0
+StamCost: 1
+ItemLevel: 1
+Level: 1
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 19
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 1
+Cumulative: 0
+Sound: 6
+UnitKind: (0)
+AntiEffect: (30, 107, 192)
+
+Effects:
+Attack: 2
+Power: 2
+Duration: 5
+
+CounterAttack: 3
+Power: 2
+Duration: 5
+
+RangedAttack: 8
+Power: 2
+Duration: 5
+
+Ammo: 10
+Power: 2
+Duration: -1;
+
+/7
+Name: Slow;
+Cost: 2
+LifeCost: 0
+StamCost: 1
+ItemLevel: 1
+Level: 1
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 20
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 100
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 7
+UnitKind: (0)
+AntiEffect: (30)
+
+Effects:
+Speed: 7
+Power: -2
+Duration: 6
+
+Stamina: 11
+Power: -1
+Duration: 6;
+
+/8
+Name: Haste;
+Cost: 2
+LifeCost: 0
+StamCost: 1
+ItemLevel: 1
+Level: 1
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 20
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 8
+UnitKind: (0)
+AntiEffect: (30)
+
+Effects:
+Speed: 7
+Power: 2
+Duration: 4
+
+Stamina: 11
+Power: 1
+Duration: 4;
+
+/9
+Name: Air Shield;
+Cost: 1
+LifeCost: 0
+StamCost: 1
+ItemLevel: 1
+Level: 1
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 20
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 1
+Sound: 9
+UnitKind: (0)
+AntiEffect: (30)
+
+Effects:
+RangedDefence: 5
+Power: 4
+Duration: 5
+
+Resist: 6
+Power: 1
+Duration: 5;
+
+/10
+Name: Curse;
+Cost: 1
+LifeCost: 0
+StamCost: 1
+ItemLevel: 1
+Level: 1
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 21
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 100
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 10
+UnitKind: (4)
+AntiEffect: (30)
+
+Effects:
+Attack: 2
+Power: -2
+Duration: 6
+
+CounterAttack: 3
+Power: -2
+Duration: 6
+
+Defense: 4
+Power: -1
+Duration: 6
+
+RangedDefense: 5
+Power: -1
+Duration: 6
+
+RangedAttack: 8
+Power: -2
+Duration: 6
+
+Resist: 6
+Power: -1
+Duration: 6;
+
+
+/11
+Name: Bless;
+Cost: 1
+LifeCost: 0
+StamCost: 1
+ItemLevel: 1
+Level: 1
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 21
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 11
+UnitKind: (2, 3)
+AntiEffect: (30)
+
+Effects:
+Attack: 2
+Power: 1
+Duration: 5
+
+CounterAttack: 3
+Power: 1
+Duration: 5
+
+RangedAttack: 8
+Power: 1
+Duration: 5
+
+Defense: 4
+Power: 1
+Duration: 5
+
+RangedDefense: 5
+Power: 1
+Duration: 5
+
+Resist: 6
+Power: 1
+Duration: 5
+
+Stamina: 11
+Power: 2
+Duration: -1;
+
+/12
+Name: Cure Wounds;
+Cost: 2
+LifeCost: 0
+StamCost: 1
+ItemLevel: 1
+Level: 1
+PowerMod: 100
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 1
+Building: 21
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 1
+Sound: 100
+UnitKind: (2, 4)
+AntiEffect: (30)
+
+Effects:
+Heal: 1
+Power: 7
+Duration: -1;
+
+/13
+Name: Fear;
+Cost: 3
+LifeCost: 0
+StamCost: 1
+ItemLevel: 1
+Level: 1
+PowerMod: 50
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 22
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 200
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 13
+UnitKind: (2, 4)
+AntiEffect: (19, 30, 100)
+
+Effects:
+Morale: 12
+Power: 8
+Duration: -1;
+
+/14
+Name: Raise Skeleton;
+Cost: 4
+LifeCost: 0
+StamCost: 1
+ItemLevel: 1
+Level: 1
+PowerMod: 100
+DurationMod: 0
+Target: 4
+Area: 1
+Radius: 0
+Karma: -1
+Building: 22
+Negative: 0
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 14
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1019
+Power: 0
+Duration: -1;
+
+/15
+Name: Raise Zombie;
+Cost: 8
+LifeCost: 0
+StamCost: 2
+ItemLevel: 2
+Level: 1
+PowerMod: 100
+DurationMod: 0
+Target: 4
+Area: 1
+Radius: 0
+Karma: -1
+Building: 22
+Negative: 0
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 15
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1020
+Power: 0
+Duration: -1;
+
+/16
+Name: Dispel;
+Cost: 1
+LifeCost: 0
+StamCost: 1
+ItemLevel: 1
+Level: 1
+PowerMod: 0
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 23
+Negative: 0
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 100
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 16
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Dispel: 31
+Power: 3
+Duration: -1;
+
+/17
+Name: Astral Energy;
+Cost: 4
+LifeCost: 0
+StamCost: 1
+ItemLevel: 1
+Level: 1
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 23
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 1
+Cumulative: 0
+Sound: 17
+UnitKind: (0)
+AntiEffect: (30)
+
+Effects:
+Resist: 6
+Power: 3
+Duration: 3
+
+Stamina: 11
+Power: 8
+Duration: -1;
+
+/18
+Name: Web;
+Cost: 3
+LifeCost: 0
+StamCost: 1
+ItemLevel: 1
+Level: 1
+PowerMod: 0
+DurationMod: 200
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 23
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 100
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 18
+UnitKind: (0)
+AntiEffect: (30, 201)
+
+Effects:
+Web: 47
+Power: 0
+Duration: 8;
+
+/19
+Name: Summon Imp;
+Cost: 5
+LifeCost: 3
+StamCost: 1
+ItemLevel: 2
+Level: 1
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: -1
+Building: 24
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1021
+Power: 0
+Duration: -1;
+
+/20
+Name: Burn Ammo;
+Cost: 4
+LifeCost: 0
+StamCost: 1
+ItemLevel: 1
+Level: 1
+PowerMod: 100
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 24
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 50
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 20
+UnitKind: (0)
+AntiEffect: (30, 107, 192)
+
+Effects:
+Ammo: 10
+Power: 6
+Duration: -1;
+
+/21
+Name: Vulnerability;
+Cost: 1
+LifeCost: 0
+StamCost: 1
+ItemLevel: 1
+Level: 1
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 24
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 100
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 1
+Sound: 21
+UnitKind: (0)
+AntiEffect: (30)
+
+Effects:
+Defence: 4
+Power: -3
+Duration: 6
+
+Ranged_defence: 5
+Power: -3
+Duration: 6
+
+Resist: 6
+Power: -3
+Duration: 6;
+
+/22
+Name: Lightning;
+Cost: 12
+LifeCost: 0
+StamCost: 3
+ItemLevel: 3
+Level: 2
+PowerMod: 200
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 80
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 100
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 22
+UnitKind: (0)
+AntiEffect: (30, 105)
+
+Effects:
+Damage: 1
+Power: 12
+Duration: -1;
+
+/23
+Name: Fireball;
+Cost: 13
+LifeCost: 0
+StamCost: 4
+ItemLevel: 3
+Level: 2
+PowerMod: 100
+DurationMod: 0
+Target: 3
+Area: 1
+Radius: 1
+Karma: 0
+Building: 80
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 100
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 23
+UnitKind: (0)
+AntiEffect: (30, 101)
+
+Effects:
+Damage: 1
+Power: 7
+Duration: -1;
+
+/24
+Name: Fire Blade;
+Cost: 4
+LifeCost: 0
+StamCost: 1
+ItemLevel: 2
+Level: 2
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 80
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 100
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 24
+UnitKind: (0)
+AntiEffect: (30, 107)
+
+Effects:
+Attack: 2
+Power: 4
+Duration: 3
+
+CounterAttack: 3
+Power: 4
+Duration: 3
+
+RangedAttack: 8
+Power: 4
+Duration: 3
+
+MagicStrike: 27
+Power: 1
+Duration: 3
+
+MagicShoot: 28
+Power: 1
+Duration: 3;
+
+/25
+Name: Phantom Form;
+Cost: 4
+LifeCost: 0
+StamCost: 1
+ItemLevel: 2
+Level: 2
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 81
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 100
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 25
+UnitKind: (0)
+AntiEffect: (30, 121)
+
+Effects:
+Attack: 2
+Power: -10
+Duration: 5
+
+CounterAttack: 3
+Power: -10
+Duration: 5
+
+RangedAttack: 8
+Power: -10
+Duration: 5
+
+Defence: 4
+Power: 10
+Duration: 5
+
+RangedDefence: 5
+Power: 10
+Duration: 5
+
+Bodyless: 121
+Power: 1
+Duration: 5;
+
+/26
+Name: Sleep;
+Cost: 6
+LifeCost: 0
+StamCost: 1
+ItemLevel: 2
+Level: 2
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 81
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 100
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 26
+UnitKind: (2, 4)
+AntiEffect: (30, 100)
+
+Effects:
+Sleep: 70
+FlagEffect: 1
+FlagEffect: 1
+
+DontMove: 36
+Power: 1
+Duration: 4
+
+DontFight: 38
+Power: 1
+Duration: 4;
+
+/27
+Name: Hallucination;
+Cost: 9
+LifeCost: 0
+StamCost: 2
+ItemLevel: 3
+Level: 2
+PowerMod: 0
+DurationMod: 100
+Target: 0
+Area: 2
+Radius: 0
+Karma: 0
+Building: 81
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 100
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 27
+UnitKind: (2, 4)
+AntiEffect: (30, 100)
+
+Effects:
+RangedAttack: 8
+Power: -3
+Duration: 5;
+
+/28
+Name: Raise Ghoul;
+Cost: 15
+LifeCost: 0
+StamCost: 4
+ItemLevel: 3
+Level: 2
+PowerMod: 100
+DurationMod: 0
+Target: 4
+Area: 1
+Radius: 0
+Karma: -1
+Building: 82
+Negative: 0
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 15
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1036
+Power: 0
+Duration: -1;
+
+/29
+Name: Vampirism;
+Cost: 12
+LifeCost: 0
+StamCost: 2
+ItemLevel: 3
+Level: 2
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: -1
+Building: 82
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 28
+UnitKind: (4)
+AntiEffect: (30, 135)
+
+Effects:
+DrainLife: 68
+Power: 50
+Duration: 3
+
+RangeDrain: 104
+Power: 50
+Duration: 3;
+
+/30
+Name: Disease;
+Cost: 6
+LifeCost: 0
+StamCost: 1
+ItemLevel: 2
+Level: 2
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: -1
+Building: 82
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 100
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 29
+UnitKind: (2, 4)
+AntiEffect: (30)
+
+Effects:
+Poison: 1
+Power: -3
+Duration: 6
+
+Stamina: 11
+Power: -1
+Duration: 6
+
+Attack: 2
+Power: -3
+Duration: 6
+
+CounterAttack: 3
+Power: -3
+Duration: 6
+
+RangedAttack: 8
+Power: -3
+Duration: 6
+
+Speed: 7
+Power: -1
+Duration: 6;
+
+/31
+Name: Create Gargoyle;
+Cost: 25
+LifeCost: 0
+StamCost: 3
+ItemLevel: 3
+Level: 2
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 83
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 30
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1039
+Power: 0
+Duration: -1;
+
+/32
+Name: Rain of Stones;
+Cost: 15
+LifeCost: 0
+StamCost: 4
+ItemLevel: 3
+Level: 2
+PowerMod: 50
+DurationMod: 0
+Target: 3
+Area: 1
+Radius: 2
+Karma: 0
+Building: 83
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 100
+RestoreOnly: 0
+Cumulative: 0
+Sound: 42
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Damage: 1
+Power: 5
+Duration: -1
+
+Stamina: 11
+Power: 2
+Duration: -1;
+
+/33
+Name: Stone Skin;
+Cost: 4
+LifeCost: 0
+StamCost: 1
+ItemLevel: 2
+Level: 2
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 83
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 31
+UnitKind: (4)
+AntiEffect: (30, 121, 187)
+
+Effects:
+Defence: 4
+Power: 5
+Duration: 4
+
+RangedDefence: 5
+Power: 5
+Duration: 4
+
+Resist: 6
+Power: 3
+Duration: 4;
+
+/34
+Name: Summon Fiend;
+Cost: 12
+LifeCost: 6
+StamCost: 3
+ItemLevel: 3
+Level: 2
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: -2
+Building: 84
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1037
+Power: 0
+Duration: -1;
+
+/35
+Name: Summon Hellhound;
+Cost: 13
+LifeCost: 5
+StamCost: 3
+ItemLevel: 3
+Level: 2
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: -2
+Building: 84
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1038
+Power: 0
+Duration: -1;
+
+/36
+Name: Blindness;
+Cost: 9
+LifeCost: 0
+StamCost: 1
+ItemLevel: 2
+Level: 2
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 84
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 100
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 43
+UnitKind: (2, 4)
+AntiEffect: (30, 108)
+
+Effects:
+Attack: 2
+Power: -100
+Duration: 4
+
+CounterAttack: 3
+Power: -100
+Duration: 4
+
+NoRangedAttack: 146
+Power: 1
+Duration: 4;
+
+/37
+Name: Restoration;
+Cost: 8
+LifeCost: 0
+StamCost: 2
+ItemLevel: 2
+Level: 2
+PowerMod: 100
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 1
+Building: 85
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 1
+Cumulative: 0
+Sound: 44
+UnitKind: (2, 4)
+AntiEffect: (30)
+
+Effects:
+Heal: 1
+Power: 12
+Duration: -1
+
+Dispel: 31
+Power: 2
+Duration: -1
+
+Antidote: 93
+Power: 1
+Duration: -1;
+
+/38
+Name: Exorcism;
+Cost: 8
+LifeCost: 0
+StamCost: 1
+ItemLevel: 2
+Level: 2
+PowerMod: 150
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 2
+Building: 85
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 50
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 45
+UnitKind: (1, 4, 5)
+AntiEffect: (30, 106)
+
+Effects:
+Damage: 1
+Power: 15
+Duration: -1;
+
+/39
+Name: Word of Life;
+Cost: 5
+LifeCost: 0
+StamCost: 1
+ItemLevel: 2
+Level: 2
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 1
+Building: 85
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 46
+UnitKind: (2, 4)
+AntiEffect: (30)
+
+Effects:
+Regen: 1
+Power: 5
+Duration: 4
+
+Stamina: 11
+Power: 2
+Duration: 4
+
+Attack: 2
+Power: 1
+Duration: 4
+
+CounterAttack: 3
+Power: 1
+Duration: 4
+
+Speed: 7
+Power: 1
+Duration: 4;
+
+/40
+Name: Word of Ice;
+Cost: 15
+LifeCost: 0
+StamCost: 2
+ItemLevel: 3
+Level: 3
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 132
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 100
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 48
+UnitKind: (0)
+AntiEffect: (30, 102)
+
+Effects:
+Immobile: 36
+Power: 1
+Duration: 4
+
+DontFight: 38
+Power: 1
+Duration: 4
+
+Defence: 4
+Power: 2
+Duration: 4
+
+RangedDefence: 5
+Power: 2
+Duration: 4
+
+Damage: 1
+Power: 10
+Duration: -1;
+
+/41
+Name: Acid;
+Cost: 18
+LifeCost: 0
+StamCost: 3
+ItemLevel: 4
+Level: 3
+PowerMod: 100
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 132
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 50
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 1
+Sound: 49
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Damage: 1
+Power: 15
+Duration: -1
+
+Defence: 4
+Power: -2
+Duration: 3
+
+RangedDefence: 5
+Power: -2
+Duration: 3;
+
+/42
+Name: Mass Slow;
+Cost: 15
+LifeCost: 0
+StamCost: 3
+ItemLevel: 3
+Level: 3
+PowerMod: 0
+DurationMod: 100
+Target: 0
+Area: 2
+Radius: 0
+Karma: 0
+Building: 132
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 100
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 50
+UnitKind: (0)
+AntiEffect: (30)
+
+Effects:
+Speed: 7
+Power: -2
+Duration: 6;
+
+/43
+Name: Dark Pact;
+Cost: 15
+LifeCost: 0
+StamCost: 4
+ItemLevel: 3
+Level: 3
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: -5
+Building: 133
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 52
+UnitKind: (2, 3, 4, 5)
+AntiEffect: (30, 103, 135)
+
+Effects:
+DarkPact: 91
+Power: 1
+Duration: 10;
+
+/44
+Name: Inferno;
+Cost: 25
+LifeCost: 0
+StamCost: 4
+ItemLevel: 4
+Level: 3
+PowerMod: 200
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: -1
+Building: 133
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 200
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 53
+UnitKind: (3)
+AntiEffect: (30)
+
+Effects:
+Damage: 1
+Power: 20
+Duration: -1;
+
+/45
+Name: Summon Demon;
+Cost: 25
+LifeCost: 0
+StamCost: 4
+ItemLevel: 4
+Level: 3
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: -3
+Building: 133
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 1
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (135)
+
+Effects:
+Summon: 1056
+Power: 0
+Duration: -1;
+
+/46
+Name: Teleport;
+Cost: 10
+LifeCost: 0
+StamCost: 3
+ItemLevel: 4
+Level: 3
+PowerMod: 100
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 134
+Negative: 0
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 100
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 55
+UnitKind: (0)
+AntiEffect: (30)
+
+Effects:
+Replacement: 89
+Power: 0
+Duration: 0;
+
+/47
+Name: Antimagic;
+Cost: 10
+LifeCost: 0
+StamCost: 2
+ItemLevel: 3
+Level: 3
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 134
+Negative: 0
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 100
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 56
+UnitKind: (0)
+AntiEffect: (30)
+
+Effects:
+SpellImmunity: 30
+Power: 1
+Duration: 5
+
+Resist: 6
+Power: 10
+Duration: 5;
+
+/48
+Name: Mass Dispel;
+Cost: 15
+LifeCost: 0
+StamCost: 3
+ItemLevel: 3
+Level: 3
+PowerMod: 0
+DurationMod: 0
+Target: 0
+Area: 2
+Radius: 0
+Karma: 0
+Building: 134
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 57
+UnitKind: (0)
+AntiEffect: (30)
+
+Effects:
+Dispel: 31
+Power: 5
+Duration: -1;
+
+/49
+Name: Resurrection;
+Cost: 25
+LifeCost: 0
+StamCost: 4
+ItemLevel: 4
+Level: 3
+PowerMod: 100
+DurationMod: 0
+Target: 4
+Area: 1
+Radius: 0
+Karma: 3
+Building: 135
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 58
+UnitKind: (2, 4)
+AntiEffect: (0)
+
+Effects:
+Resurrect: 1
+Power: 30
+Duration: -1;
+
+/50
+Name: Mass Defense;
+Cost: 25
+LifeCost: 0
+StamCost: 5
+ItemLevel: 4
+Level: 3
+PowerMod: 0
+DurationMod: 100
+Target: 0
+Area: 2
+Radius: 0
+Karma: 0
+Building: 135
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 59
+UnitKind: (2)
+AntiEffect: (30)
+
+Effects:
+Defence: 4
+Power: 3
+Duration: 3
+
+RangedDefence: 5
+Power: 3
+Duration: 3
+
+Resistance: 6
+Power: 2
+Duration: 3;
+
+/51
+Name: Mass Healing;
+Cost: 30
+LifeCost: 0
+StamCost: 3
+ItemLevel: 4
+Level: 3
+PowerMod: 100
+DurationMod: 0
+Target: 0
+Area: 2
+Radius: 0
+Karma: 2
+Building: 135
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 60
+UnitKind: (2, 4)
+AntiEffect: (30)
+
+Effects:
+Heal: 1
+Power: 9
+Duration: -1;
+
+/52
+Name: Word of Power;
+Cost: 18
+LifeCost: 0
+StamCost: 2
+ItemLevel: 3
+Level: 3
+PowerMod: 50
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 136
+Negative: 0
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 100
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 62
+UnitKind: (2, 4, 5)
+AntiEffect: (30, 73, 100)
+
+Effects:
+MindControl: 73
+Power: 3
+Duration: -1;
+
+/53
+Name: Mass Haste;
+Cost: 20
+LifeCost: 0
+StamCost: 3
+ItemLevel: 4
+Level: 3
+PowerMod: 0
+DurationMod: 100
+Target: 0
+Area: 2
+Radius: 0
+Karma: 0
+Building: 136
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 63
+UnitKind: (0)
+AntiEffect: (30)
+
+Effects:
+Speed: 7
+Power: 2
+Duration: 3;
+
+/54
+Name: Mass Attack;
+Cost: 20
+LifeCost: 0
+StamCost: 3
+ItemLevel: 4
+Level: 3
+PowerMod: 0
+DurationMod: 100
+Target: 0
+Area: 2
+Radius: 0
+Karma: 0
+Building: 136
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 64
+UnitKind: (0)
+AntiEffect: (30)
+
+Effects:
+Attack: 2
+Power: 4
+Duration: 3
+
+CounterAttack: 3
+Power: 4
+Duration: 3
+
+RangedAttack: 8
+Power: 3
+Duration: 3;
+
+/55
+Name: Raise Ghost;
+Cost: 40
+LifeCost: 0
+StamCost: 5
+ItemLevel: 4
+Level: 3
+PowerMod: 100
+DurationMod: 0
+Target: 4
+Area: 1
+Radius: 0
+Karma: -2
+Building: 137
+Negative: 0
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 66
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1055
+Power: 0
+Duration: -1;
+
+/56
+Name: Mass Curse;
+Cost: 15
+LifeCost: 0
+StamCost: 2
+ItemLevel: 3
+Level: 3
+PowerMod: 0
+DurationMod: 100
+Target: 0
+Area: 2
+Radius: 0
+Karma: 0
+Building: 137
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 100
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 67
+UnitKind: (4)
+AntiEffect: (30)
+
+Effects:
+Attack: 2
+Power: -2
+Duration: 6
+
+CounterAttack: 3
+Power: -2
+Duration: 6
+
+RangedAttack: 8
+Power: -2
+Duration: 6
+
+Defense: 4
+Power: -1
+Duration: 6
+
+RangedDefense: 5
+Power: -1
+Duration: 6
+
+Resist: 6
+Power: -1
+Duration: 6;
+
+/57
+Name: Life Drain;
+Cost: 25
+LifeCost: 0
+StamCost: 4
+ItemLevel: 4
+Level: 3
+PowerMod: 100
+DurationMod: 0
+Target: 3
+Area: 1
+Radius: 1
+Karma: -1
+Building: 137
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 100
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 68
+UnitKind: (2, 4)
+AntiEffect: (30, 135)
+
+Effects:
+Drain: 71
+FlagEffect: 1
+FlagEffect: 1
+
+Damage: 1
+Power: 10
+Duration: -1;
+
+/58
+Name: White Magic;
+Cost: 80
+LifeCost: 15
+StamCost: 8
+ItemLevel: 5
+Level: 4
+PowerMod: 100
+DurationMod: 0
+Target: 0
+Area: 2
+Radius: 0
+Karma: 1
+Building: 173
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 100
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 70
+UnitKind: (0)
+AntiEffect: (30)
+
+Effects:
+HealAlly: 72
+FlagEffect: 1
+FlagEffect: 1
+
+Damage: 1
+Power: 9
+Duration: -1;
+
+/59
+Name: Reincarnation;
+Cost: 30
+LifeCost: 0
+StamCost: 3
+ItemLevel: 4
+Level: 3
+PowerMod: 0
+DurationMod: 200
+Target: 1
+Area: 1
+Radius: 0
+Karma: 1
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 71
+UnitKind: (2, 4)
+AntiEffect: (30)
+
+Effects:
+Reincarnation: 74
+Power: 1
+Duration: 10;
+
+/60
+Name: Invulnerability;
+Cost: 25
+LifeCost: 0
+StamCost: 3
+ItemLevel: 4
+Level: 4
+PowerMod: 0
+DurationMod: 50
+Target: 1
+Area: 1
+Radius: 0
+Karma: 1
+Building: 173
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 72
+UnitKind: (2, 3)
+AntiEffect: (30)
+
+Effects:
+Defence: 4
+Power: 20
+Duration: 4
+
+RangedDefence: 5
+Power: 20
+Duration: 4
+
+Resistance: 6
+Power: 20
+Duration: 4;
+
+/61
+Name: Raise Vampire;
+Cost: 50
+LifeCost: 0
+StamCost: 5
+ItemLevel: 4
+Level: 4
+PowerMod: 100
+DurationMod: 0
+Target: 4
+Area: 1
+Radius: 0
+Karma: -3
+Building: 174
+Negative: 0
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 66
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1064
+Power: 0
+Duration: -1;
+
+/62
+Name: Mass Disease;
+Cost: 35
+LifeCost: 0
+StamCost: 5
+ItemLevel: 4
+Level: 4
+PowerMod: 0
+DurationMod: 100
+Target: 0
+Area: 2
+Radius: 0
+Karma: -1
+Building: 174
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 100
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 74
+UnitKind: (2, 4)
+AntiEffect: (30)
+
+Effects:
+Poison: 1
+Power: -3
+Duration: 6
+
+Stamina: 11
+Power: -1
+Duration: 6
+
+Attack: 2
+Power: -3
+Duration: 6
+
+CounterAttack: 3
+Power: -3
+Duration: 6
+
+RangedAttack: 8
+Power: -3
+Duration: 6
+
+Speed: 7
+Power: -1
+Duration: 6;
+
+/63
+Name: Cloud of Terror;
+Cost: 40
+LifeCost: 0
+StamCost: 4
+ItemLevel: 4
+Level: 4
+PowerMod: 100
+DurationMod: 0
+Target: 3
+Area: 1
+Radius: 2
+Karma: 0
+Building: 174
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 100
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 75
+UnitKind: (2, 4)
+AntiEffect: (30, 100)
+
+Effects:
+Morale: 12
+Power: 10
+Duration: -1;
+
+/64
+Name: Armageddon;
+Cost: 70
+LifeCost: 0
+StamCost: 7
+ItemLevel: 4
+Level: 4
+PowerMod: 300
+DurationMod: 0
+Target: 0
+Area: 2
+Radius: 0
+Karma: 0
+Building: 175
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 200
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 76
+UnitKind: (0)
+AntiEffect: (30, 101)
+
+Effects:
+Damage: 1
+Power: 15
+Duration: -1;
+
+/65
+Name: Incineration;
+Cost: 40
+LifeCost: 0
+StamCost: 5
+ItemLevel: 4
+Level: 4
+PowerMod: 300
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 175
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 200
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 77
+UnitKind: (0)
+AntiEffect: (30, 101)
+
+Effects:
+Damage: 1
+Power: 30
+Duration: -1;
+
+/66
+Name: Firestorm;
+Cost: 80
+LifeCost: 0
+StamCost: 9
+ItemLevel: 5
+Level: 4
+PowerMod: 200
+DurationMod: 0
+Target: 3
+Area: 1
+Radius: 2
+Karma: 0
+Building: 175
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 150
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 78
+UnitKind: (0)
+AntiEffect: (30, 101)
+
+Effects:
+Damage: 1
+Power: 10
+Duration: -1;
+
+/67
+Name: Summon Devil;
+Cost: 50
+LifeCost: 0
+StamCost: 4
+ItemLevel: 4
+Level: 4
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: -7
+Building: 176
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 1
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (135)
+
+Effects:
+Summon: 1065
+Power: 0
+Duration: -1;
+
+/68
+Name: Black Magic;
+Cost: 70
+LifeCost: 10
+StamCost: 6
+ItemLevel: 5
+Level: 4
+PowerMod: 200
+DurationMod: 0
+Target: 0
+Area: 2
+Radius: 0
+Karma: -6
+Building: 176
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 1
+ResistPower: 200
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 80
+UnitKind: (2)
+AntiEffect: (30, 108, 135)
+
+Effects:
+Damage: 1
+Power: 13
+Duration: -1;
+
+/69
+Name: Corrupt;
+Cost: 20
+LifeCost: 0
+StamCost: 2
+ItemLevel: 4
+Level: 4
+PowerMod: 0
+DurationMod: 100
+Target: 3
+Area: 1
+Radius: 2
+Karma: -1
+Building: 176
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 81
+UnitKind: (3)
+AntiEffect: (135)
+
+Effects:
+Attack: 2
+Power: -4
+Duration: 5
+
+CounterAttack: 3
+Power: -4
+Duration: 5
+
+Defence: 4
+Power: -4
+Duration: 5
+
+RangedDefence: 5
+Power: -4
+Duration: 5
+
+Resist: 6
+Power: -4
+Duration: 5
+
+RangedAttack: 8
+Power: -4
+Duration: 5
+
+Stamina: 11
+Power: 4
+Duration: -1
+
+Morale: 12
+Power: 4
+Duration: -1;
+
+/70
+Name: Time Stop;
+Cost: 50
+LifeCost: 0
+StamCost: 7
+ItemLevel: 5
+Level: 4
+PowerMod: 0
+DurationMod: 0
+Target: 0
+Area: 2
+Radius: 0
+Karma: 0
+Building: 177
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 83
+UnitKind: (5)
+AntiEffect: (120, 299)
+
+Effects:
+AddTurn: 75
+Power: 1
+Duration: -1;
+
+/71
+Name: Dragon Form;
+Cost: 90
+LifeCost: 0
+StamCost: 7
+ItemLevel: 5
+Level: 4
+PowerMod: 0
+DurationMod: 50
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 177
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 85
+UnitKind: (0)
+AntiEffect: (30)
+
+Effects:
+Morph: 1060
+Power: 1
+Duration: 3;
+
+/72
+Name: Polymorph;
+Cost: 35
+LifeCost: 0
+StamCost: 4
+ItemLevel: 4
+Level: 4
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 177
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 100
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 294
+UnitKind: (5)
+AntiEffect: (30)
+
+Effects:
+Morph: 1260
+Power: 1
+Duration: 4;
+
+/73
+Name: Mass Suicide;
+Cost: 50
+LifeCost: 0
+StamCost: 5
+ItemLevel: 4
+Level: 4
+PowerMod: 100
+DurationMod: 0
+Target: 0
+Area: 2
+Radius: 0
+Karma: -1
+Building: 178
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 100
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 87
+UnitKind: (2, 4)
+AntiEffect: (30, 100, 135)
+
+Effects:
+Damage: 92
+Power: 4
+Duration: -1;
+
+/74
+Name: Enslave;
+Cost: 40
+LifeCost: 0
+StamCost: 4
+ItemLevel: 4
+Level: 4
+PowerMod: 0
+DurationMod: 50
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 178
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 100
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 88
+UnitKind: (2, 4, 5)
+AntiEffect: (30, 73, 100)
+
+Effects:
+MindControl: 73
+Power: 1
+Duration: 3;
+
+/75
+Name: Mass Sleep;
+Cost: 50
+LifeCost: 0
+StamCost: 4
+ItemLevel: 4
+Level: 4
+PowerMod: 0
+DurationMod: 100
+Target: 3
+Area: 1
+Radius: 2
+Karma: 0
+Building: 178
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 50
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 89
+UnitKind: (2, 4)
+AntiEffect: (30, 100)
+
+Effects:
+Sleep: 70
+FlagEffect: 1
+FlagEffect: 1
+
+DontMove: 36
+Power: 1
+Duration: 3
+
+DontFight: 38
+Power: 1
+Duration: 3;
+
+/76
+Name: Create Golem;
+Cost: 50
+LifeCost: 0
+StamCost: 5
+ItemLevel: 4
+Level: 3
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 30
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1071
+Power: 0
+Duration: -1;
+
+/77
+Name: Summon Phoenix;
+Cost: 100
+LifeCost: 0
+StamCost: 7
+ItemLevel: 6
+Level: 4
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1070
+Power: 0
+Duration: -1
+
+NoCastOnSelf: 149
+Power: 1
+Duration: 6;
+
+/78
+Name: Aard Sign;
+Cost: 1
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 1
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 20
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 92
+UnitKind: (2, 4)
+AntiEffect: (0)
+
+Effects:
+Speed: 7
+Power: -1
+Duration: 3
+
+Stamina: 11
+Power: 8
+Duration: -1;
+
+/79
+Name: Igni Sign;
+Cost: 1
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 25
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 93
+UnitKind: (0)
+AntiEffect: (30, 101)
+
+Effects:
+Damage: 1
+Power: 8
+Duration: -1;
+
+/80
+Name: Quen Sign;
+Cost: 1
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 1
+Target: 0
+Area: 0
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 94
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Defence: 4
+Power: 2
+Duration: 3
+
+RangedDefence: 5
+Power: 2
+Duration: 3
+
+Resist: 6
+Power: 2
+Duration: 3;
+
+/81
+Name: Undead Regeneration;
+Cost: 4
+LifeCost: 0
+StamCost: 2
+ItemLevel: 3
+Level: 1
+PowerMod: 50
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 1
+Sound: 212
+UnitKind: (1, 3, 4, 5)
+AntiEffect: (30, 106)
+
+Effects:
+Regen: 1
+Power: 4
+Duration: 4
+
+Heal: 1
+Power: 4
+Duration: -1;
+
+/82
+Name: Stinking Cloud;
+Cost: 10
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 1
+Target: 3
+Area: 1
+Radius: 1
+Karma: -1
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 95
+UnitKind: (2, 4)
+AntiEffect: (42)
+
+Effects:
+Poison: 1
+Power: -3
+Duration: 2
+
+Stamina: 11
+Power: -1
+Duration: 2
+
+Attack: 2
+Power: -1
+Duration: 2
+
+CounterAttack: 3
+Power: -1
+Duration: 2
+
+RangedAttack: 8
+Power: -1
+Duration: 2
+
+Speed: 7
+Power: -1
+Duration: 2
+
+Damage: 1
+Power: 3
+Duration: -1;
+
+/83
+Name: Sinister Howl;
+Cost: 2
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 91
+UnitKind: (2, 4)
+AntiEffect: (19, 100)
+
+Effects:
+Morale: 12
+Power: 3
+Duration: -1;
+
+/84
+Name: Mind Control;
+Cost: 18
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 50
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 100
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 62
+UnitKind: (2, 4, 5)
+AntiEffect: (30, 73, 100)
+
+Effects:
+MindControl: 73
+Power: 4
+Duration: -1;
+
+/85
+Name: Sacrifice;
+Cost: 2
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: -1
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 1
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 1
+Sound: 96
+UnitKind: (2, 4)
+AntiEffect: (30, 135, 188)
+
+Effects:
+Heal: 1
+Power: 25
+Duration: -1;
+
+/86
+Name: Fireblast;
+Cost: 22
+LifeCost: 0
+StamCost: 6
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 3
+Area: 1
+Radius: 2
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 100
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 1
+Sound: 23
+UnitKind: (0)
+AntiEffect: (30, 101)
+
+Effects:
+Damage: 1
+Power: 7
+Duration: -1
+
+Damage: 145
+Power: 1
+Duration: 3;
+
+/87
+Name: Hellgates;
+Cost: 6
+LifeCost: 0
+StamCost: 2
+ItemLevel: 3
+Level: 2
+PowerMod: 0
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 99
+UnitKind: (1, 2, 4, 5)
+AntiEffect: (30)
+
+Effects:
+Replacement: 89
+Power: 0
+Duration: 0;
+
+/88
+Name: Suicide;
+Cost: 35
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 3
+PowerMod: 100
+DurationMod: 0
+Target: 1
+Area: 0
+Radius: 0
+Karma: -1
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 100
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 97
+UnitKind: (2, 4)
+AntiEffect: (30, 100, 108)
+
+Effects:
+Damage: 92
+Power: 4
+Duration: -1;
+
+/89
+Name: Submission;
+Cost: 35
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 1
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 88
+UnitKind: (2, 4, 5)
+AntiEffect: (30, 73, 100)
+
+Effects:
+MindControl: 73
+Power: 1
+Duration: 2;
+
+/90
+Name: Unholy Word;
+Cost: 35
+LifeCost: 0
+StamCost: 6
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 0
+Area: 2
+Radius: 0
+Karma: -3
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 150
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 98
+UnitKind: (2, 3, 4, 5)
+AntiEffect: (135)
+
+Effects:
+Damage: 1
+Power: 13
+Duration: -1;
+
+/91
+Name: Recovery;
+Cost: 2
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 200
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 1
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 1
+Sound: 12
+UnitKind: (2, 4)
+AntiEffect: (30)
+
+Effects:
+Heal: 1
+Power: 4
+Duration: -1
+
+Dispel: 31
+Power: 1
+Duration: -1
+
+Antidote: 93
+Power: 1
+Duration: -1;
+
+/92
+Name: Summon Huorn;
+Cost: 35
+LifeCost: 0
+StamCost: 4
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 199
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1108
+Power: 0
+Duration: -1;
+
+/93
+Name: Magic Shield;
+Cost: 2
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 103
+UnitKind: (2)
+AntiEffect: (30)
+
+Effects:
+Defence: 4
+Power: 4
+Duration: 4;
+
+/94
+Name: Summon Wasp Swarm;
+Cost: 5
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 101
+UnitKind: (2, 4)
+AntiEffect: (0)
+
+Effects:
+NoRangedAttack: 146
+Power: 1
+Duration: 2
+
+Damage: 1
+Power: -2
+Duration: 2
+
+Damage: 1
+Power: -2
+Duration: -1;
+
+/95
+Name: Summon Wasp Cloud;
+Cost: 19
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 0
+Area: 2
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 102
+UnitKind: (2, 4)
+AntiEffect: (0)
+
+Effects:
+NoRangedAttack: 146
+Power: 1
+Duration: 2
+
+Damage: 1
+Power: -2
+Duration: 2
+
+Damage: 1
+Power: -2
+Duration: -1;
+
+/96
+Name: Life Breath;
+Cost: 2
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 200
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 1
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 1
+Sound: 104
+UnitKind: (2, 4)
+AntiEffect: (30)
+
+Effects:
+Heal: 1
+Power: 5
+Duration: -1
+
+Antidote: 93
+Power: 1
+Duration: -1;
+
+/97
+Name: Shadow Thief;
+Cost: 4
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 50
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 25
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 105
+UnitKind: (0)
+AntiEffect: (30, 107, 192)
+
+Effects:
+Ammo: 148
+Power: 8
+Duration: -1;
+
+/98
+Name: Blinding Darkness;
+Cost: 9
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 50
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 106
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Attack: 2
+Power: -100
+Duration: 4
+
+CounterAttack: 3
+Power: -100
+Duration: 4
+
+NoRangedAttack: 146
+Power: 1
+Duration: 4;
+
+/99
+Name: Rune of Restoration;
+Cost: 2
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 1
+Cumulative: 1
+Sound: 107
+UnitKind: (1, 2, 3, 5)
+AntiEffect: (109)
+
+Effects:
+Heal: 1
+Power: 6
+Duration: 2
+
+Heal: 1
+Power: 6
+Duration: -1
+
+Ammo: 10
+Power: 1
+Duration: -1;
+
+/100
+Name: Rune of Decay;
+Cost: 2
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 108
+UnitKind: (1, 2, 3, 5)
+AntiEffect: (109)
+
+Effects:
+Damage: 1
+Power: 8
+Duration: -1
+
+Ammo: 10
+Power: 4
+Duration: -1;
+
+/101
+Name: Rune of Renewal;
+Cost: 12
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 0
+Area: 2
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 1
+Cumulative: 1
+Sound: 107
+UnitKind: (1, 2, 3, 5)
+AntiEffect: (109)
+
+Effects:
+Heal: 1
+Power: 8
+Duration: 2
+
+Heal: 1
+Power: 8
+Duration: -1
+
+Ammo: 10
+Power: 1
+Duration: -1;
+
+/102
+Name: Rune of Power;
+Cost: 25
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 50
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 109
+UnitKind: (1, 2, 3, 5)
+AntiEffect: (73, 100, 109)
+
+Effects:
+MindControl: 73
+Power: 1
+Duration: 2;
+
+/103
+Name: Stone Spikes;
+Cost: 10
+LifeCost: 3
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 3
+Area: 1
+Radius: 1
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 100
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 110
+UnitKind: (0)
+AntiEffect: (14, 15, 30)
+
+Effects:
+Damage: 1
+Power: 4
+Duration: -1;
+
+/104
+Name: Vampiric Touch;
+Cost: 4
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 50
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 111
+UnitKind: (4)
+AntiEffect: (30, 135)
+
+Effects:
+DrainLife: 68
+Power: 35
+Duration: 4;
+
+/105
+Name: Mighty Weapon;
+Cost: 1
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 112
+UnitKind: (2)
+AntiEffect: (30)
+
+Effects:
+Attack: 2
+Power: 3
+Duration: 4
+
+CounterAttack: 3
+Power: 3
+Duration: 4;
+
+/106
+Name: Starfall;
+Cost: 18
+LifeCost: 6
+StamCost: 3
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 3
+Area: 1
+Radius: 1
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 100
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 113
+UnitKind: (0)
+AntiEffect: (30)
+
+Effects:
+Damage: 1
+Power: 10
+Duration: -1;
+
+/107
+Name: Rage;
+Cost: 2
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 114
+UnitKind: (2, 4)
+AntiEffect: (30)
+
+Effects:
+Attack: 2
+Power: 2
+Duration: 5
+
+CounterAttack: 3
+Power: 2
+Duration: 5
+
+Regen: 48
+Power: 2
+Duration: 5
+
+Bloodlust: 211
+Power: 3
+Duration: 5;
+
+/108
+Name: Insanity;
+Cost: 20
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 3
+PowerMod: 100
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 25
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 115
+UnitKind: (2, 4)
+AntiEffect: (30)
+
+Effects:
+Drain: 71
+FlagEffect: 1
+FlagEffect: 1
+
+Damage: 1
+Power: 10
+Duration: -1
+
+Weak: 11
+Power: 5
+Duration: -1
+
+Fear: 12
+Power: 2
+Duration: -1;
+
+/109
+Name: Mass Rage;
+Cost: 6
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 0
+Area: 2
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 116
+UnitKind: (2, 4)
+AntiEffect: (30)
+
+Effects:
+Attack: 2
+Power: 2
+Duration: 5
+
+CounterAttack: 3
+Power: 2
+Duration: 5
+
+Regen: 48
+Power: 2
+Duration: 5
+
+Bloodlust: 211
+Power: 3
+Duration: 5;
+
+/110
+Name: Horde's Rage;
+Cost: 12
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 0
+Area: 2
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 117
+UnitKind: (2, 4)
+AntiEffect: (30)
+
+Effects:
+FearStrike: 50
+Power: 2
+Duration: 4;
+
+/111
+Name: Chieftain Order;
+Cost: 3
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 1
+Cumulative: 0
+Sound: 118
+UnitKind: (2, 4, 5)
+AntiEffect: (30, 108, 120, 299)
+
+Effects:
+AddTurn: 75
+Power: 1
+Duration: -1
+
+Damage: 1
+Power: 5
+Duration: -1
+
+Stamina: 11
+Power: -2
+Duration: -1;
+
+/112
+Name: Quagmire;
+Cost: 4
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 50
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 119
+UnitKind: (0)
+AntiEffect: (14, 15, 30)
+
+Effects:
+Speed: 7
+Power: -2
+Duration: 4
+
+Stamina: 11
+Power: -1
+Duration: 4
+
+Defense: 4
+Power: -1
+Duration: 4
+
+RangedDefense: 5
+Power: -1
+Duration: 4;
+
+/113
+Name: Weakness;
+Cost: 2
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 50
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 120
+UnitKind: (2, 4)
+AntiEffect: (30)
+
+Effects:
+Attack: 2
+Power: -3
+Duration: 4
+
+CounterAttack: 3
+Power: -3
+Duration: 4
+
+RangedAttack: 8
+Power: -3
+Duration: 4;
+
+/114
+Name: Armor Break;
+Cost: 3
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 50
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 121
+UnitKind: (0)
+AntiEffect: (30, 109)
+
+Effects:
+Defence: 4
+Power: -6
+Duration: 4
+
+Ranged_defence: 5
+Power: -6
+Duration: 4;
+
+/115
+Name: Plague;
+Cost: 12
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 3
+Area: 1
+Radius: 1
+Karma: -1
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 50
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 122
+UnitKind: (2, 4)
+AntiEffect: (30)
+
+Effects:
+Poison: 1
+Power: -3
+Duration: 4
+
+Stamina: 11
+Power: -1
+Duration: 4
+
+Attack: 2
+Power: -3
+Duration: 4
+
+CounterAttack: 3
+Power: -3
+Duration: 4
+
+RangedAttack: 8
+Power: -3
+Duration: 4
+
+Speed: 7
+Power: -1
+Duration: 4;
+
+/116
+Name: Geyser;
+Cost: 19
+LifeCost: 0
+StamCost: 4
+ItemLevel: 8
+Level: 3
+PowerMod: 100
+DurationMod: 0
+Target: 3
+Area: 1
+Radius: 1
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 100
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 123
+UnitKind: (0)
+AntiEffect: (30, 102)
+
+Effects:
+Damage: 1
+Power: 15
+Duration: -1;
+
+/117
+Name: Power Word - Curse;
+Cost: 18
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 50
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 124
+UnitKind: (4)
+AntiEffect: (30)
+
+Effects:
+Attack: 2
+Power: -100
+Duration: 6
+
+CounterAttack: 3
+Power: -100
+Duration: 6
+
+NoRangedAttack: 146
+Power: 1
+Duration: 6;
+
+/118
+Name: Power Word - Hold;
+Cost: 16
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 50
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 125
+UnitKind: (0)
+AntiEffect: (30)
+
+Effects:
+Immobile: 36
+Power: 1
+Duration: 6
+
+DontFight: 38
+Power: 1
+Duration: 6;
+
+/119
+Name: Power Word - Pain;
+Cost: 12
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 50
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 126
+UnitKind: (2, 4)
+AntiEffect: (30)
+
+Effects:
+Poison: 1
+Power: -5
+Duration: 6
+
+Stamina: 11
+Power: -2
+Duration: 6
+
+Attack: 2
+Power: -3
+Duration: 6
+
+CounterAttack: 3
+Power: -3
+Duration: 6
+
+RangedAttack: 8
+Power: -3
+Duration: 6
+
+Speed: 7
+Power: -1
+Duration: 6;
+
+/120
+Name: Summon Water Elemental;
+Cost: 35
+LifeCost: 0
+StamCost: 4
+ItemLevel: 4
+Level: 3
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1118
+Power: 0
+Duration: -1;
+
+/121
+Name: Glacial Heart;
+Cost: 5
+LifeCost: 0
+StamCost: 1
+ItemLevel: 2
+Level: 1
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 127
+UnitKind: (2, 4)
+AntiEffect: (30)
+
+Effects:
+No_fear: 19
+Power: 1
+Duration: 4
+
+Poison_immun: 42
+Power: 1
+Duration: 4
+
+Damage: 1
+Power: -3
+Duration: 4;
+
+/122
+Name: Freeze;
+Cost: 15
+LifeCost: 0
+StamCost: 2
+ItemLevel: 4
+Level: 3
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 50
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 128
+UnitKind: (0)
+AntiEffect: (30, 102)
+
+Effects:
+Immobile: 36
+Power: 1
+Duration: 6
+
+DontFight: 38
+Power: 1
+Duration: 6
+
+Defence: 4
+Power: 1
+Duration: 6
+
+RangedDefence: 5
+Power: 1
+Duration: 6
+
+Damage: 1
+Power: 8
+Duration: -1;
+
+/123
+Name: Ice Chunk;
+Cost: 8
+LifeCost: 0
+StamCost: 1
+ItemLevel: 3
+Level: 2
+PowerMod: 100
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 50
+RestoreOnly: 0
+Cumulative: 0
+Sound: 129
+UnitKind: (0)
+AntiEffect: (30)
+
+Effects:
+Damage: 1
+Power: 12
+Duration: -1;
+
+/124
+Name: Armor Piercing Shot;
+Cost: 3
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 1
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 130
+UnitKind: (0)
+AntiEffect: (30, 17, 28)
+
+Effects:
+Armor_Pierce_Shoot: 17
+Power: 1
+Duration: 3;
+
+/125
+Name: Thick Fog;
+Cost: 16
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 0
+Area: 2
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 131
+UnitKind: (0)
+AntiEffect: (28)
+
+Effects:
+RangedAttack: 8
+Power: -5
+Duration: 3;
+
+/126
+Name: Double Shot;
+Cost: 10
+LifeCost: 0
+StamCost: 1
+ItemLevel: 5
+Level: 4
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 132
+UnitKind: (0)
+AntiEffect: (20, 30, 107)
+
+Effects:
+Double_Shot: 20
+Power: 5
+Duration: 3;
+
+/127
+Name: Enchanted Arrow;
+Cost: 4
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 100
+RestoreOnly: 0
+Cumulative: 0
+Sound: 133
+UnitKind: (0)
+AntiEffect: (30)
+
+Effects:
+Damage: 1
+Power: 10
+Duration: -1;
+
+/128
+Name: Ancestral Rage;
+Cost: 3
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 134
+UnitKind: (0)
+AntiEffect: (30)
+
+Effects:
+Attack: 2
+Power: 3
+Duration: 3
+
+CounterAttack: 3
+Power: 3
+Duration: 3
+
+Speed: 7
+Power: 1
+Duration: 3;
+
+/129
+Name: Ancestral Shield;
+Cost: 3
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 135
+UnitKind: (2)
+AntiEffect: (30)
+
+Effects:
+Defence: 4
+Power: 3
+Duration: 3
+
+RangedDefence: 5
+Power: 3
+Duration: 3
+
+Resist: 6
+Power: 1
+Duration: 3;
+
+/130
+Name: Sparks;
+Cost: 6
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 5
+PowerMod: 200
+DurationMod: 0
+Target: 3
+Area: 1
+Radius: 2
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 50
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 136
+UnitKind: (0)
+AntiEffect: (30, 105)
+
+Effects:
+Damage: 1
+Power: 6
+Duration: -1;
+
+/131
+Name: Electric Shock;
+Cost: 10
+LifeCost: 0
+StamCost: 4
+ItemLevel: 8
+Level: 5
+PowerMod: 200
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 50
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 137
+UnitKind: (0)
+AntiEffect: (30, 105)
+
+Effects:
+Damage: 1
+Power: 18
+Duration: -1;
+
+/132
+Name: Storm;
+Cost: 18
+LifeCost: 0
+StamCost: 5
+ItemLevel: 8
+Level: 5
+PowerMod: 200
+DurationMod: 0
+Target: 3
+Area: 1
+Radius: 1
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 50
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 138
+UnitKind: (0)
+AntiEffect: (30, 105)
+
+Effects:
+Damage: 1
+Power: 16
+Duration: -1;
+
+/133
+Name: Frenzy;
+Cost: 3
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 139
+UnitKind: (2, 4)
+AntiEffect: (30)
+
+Effects:
+Attack: 2
+Power: 3
+Duration: 4
+
+CounterAttack: 3
+Power: 3
+Duration: 4;
+
+/134
+Name: Bloodlust;
+Cost: 7
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 140
+UnitKind: (2, 4)
+AntiEffect: (30, 135)
+
+Effects:
+Attack: 2
+Power: 3
+Duration: 4
+
+CounterAttack: 3
+Power: 3
+Duration: 4
+
+Speed: 7
+Power: 1
+Duration: 4
+
+DrainLife: 68
+Power: 25
+Duration: 4;
+
+/135
+Name: Snare;
+Cost: 5
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 1
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 141
+UnitKind: (4)
+AntiEffect: (14, 15)
+
+Effects:
+Speed: 7
+Power: -1
+Duration: 2
+
+Damage: 1
+Power: -3
+Duration: -1;
+
+/136
+Name: Trap;
+Cost: 9
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 1
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 142
+UnitKind: (4)
+AntiEffect: (14, 15)
+
+Effects:
+Speed: 7
+Power: -1
+Duration: 2
+
+Damage: 1
+Power: -2
+Duration: 2
+
+Stamina: 11
+Power: -1
+Duration: 2
+
+Damage: 1
+Power: -5
+Duration: -1;
+
+/137
+Name: Swamp Poison;
+Cost: 12
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 143
+UnitKind: (2, 4)
+AntiEffect: (30, 42)
+
+Effects:
+Speed: 7
+Power: -1
+Duration: 3
+
+Stamina: 11
+Power: -5
+Duration: 3;
+
+/138
+Name: Regeneration;
+Cost: 7
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 144
+UnitKind: (2, 4)
+AntiEffect: (30)
+
+Effects:
+Regen: 1
+Power: 4
+Duration: 4
+
+Stamina: 11
+Power: 1
+Duration: 4
+
+Resist: 6
+Power: 1
+Duration: 4
+
+Poison_Immun: 42
+Power: 1
+Duration: 4;
+
+/139
+Name: Poison Weapon;
+Cost: 8
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: -1
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 145
+UnitKind: (0)
+AntiEffect: (30)
+
+Effects:
+Poison_Strike: 41
+Power: 3
+Duration: 3;
+
+/140
+Name: Devour;
+Cost: 18
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 146
+UnitKind: (2, 4)
+AntiEffect: (0)
+
+Effects:
+Drain: 71
+FlagEffect: 1
+FlagEffect: 1
+
+Damage: 1
+Power: 15
+Duration: -1;
+
+/141
+Name: Swiftness;
+Cost: 2
+LifeCost: 0
+StamCost: 1
+ItemLevel: 1
+Level: 1
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 8
+UnitKind: (2, 3)
+AntiEffect: (30)
+
+Effects:
+Speed: 7
+Power: 1
+Duration: 6
+
+Stamina: 11
+Power: 2
+Duration: 6;
+
+/142
+Name: Dispel Magic;
+Cost: 1
+LifeCost: 0
+StamCost: 1
+ItemLevel: 2
+Level: 1
+PowerMod: 0
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 50
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 16
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Dispel: 31
+Power: 4
+Duration: -1;
+
+/143
+Name: Demon Slayer;
+Cost: 2
+LifeCost: 0
+StamCost: 1
+ItemLevel: 1
+Level: 1
+PowerMod: 0
+DurationMod: 50
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 147
+UnitKind: (2, 3)
+AntiEffect: (0)
+
+Effects:
+Smite_Evil: 61
+Power: 1
+Duration: 6
+
+UndeadHunter: 220
+Power: 1
+Duration: 6
+
+DemonHunter: 221
+Power: 2
+Duration: 6;
+
+/144
+Name: Grace;
+Cost: 4
+LifeCost: 0
+StamCost: 1
+ItemLevel: 3
+Level: 2
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 11
+UnitKind: (2, 3)
+AntiEffect: (30)
+
+Effects:
+Attack: 2
+Power: 2
+Duration: 5
+
+CounterAttack: 3
+Power: 2
+Duration: 5
+
+RangedAttack: 8
+Power: 2
+Duration: 5
+
+Defense: 4
+Power: 2
+Duration: 5
+
+RangedDefense: 5
+Power: 2
+Duration: 5
+
+Resist: 6
+Power: 2
+Duration: 5
+
+Regen: 1
+Power: 2
+Duration: 5;
+
+/145
+Name: Divine Seal;
+Cost: 12
+LifeCost: 0
+StamCost: 4
+ItemLevel: 3
+Level: 3
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 25
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 148
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+NoCast: 150
+Power: 1
+Duration: 4;
+
+/146
+Name: Hard as Stone;
+Cost: 5
+LifeCost: 0
+StamCost: 1
+ItemLevel: 3
+Level: 2
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 31
+UnitKind: (2, 3, 4)
+AntiEffect: (30, 109)
+
+Effects:
+Defence: 4
+Power: 4
+Duration: 5
+
+RangedDefence: 5
+Power: 4
+Duration: 5
+
+Resist: 6
+Power: 4
+Duration: 5;
+
+/147
+Name: True Resurrection;
+Cost: 25
+LifeCost: 5
+StamCost: 5
+ItemLevel: 5
+Level: 3
+PowerMod: 0
+DurationMod: 0
+Target: 4
+Area: 1
+Radius: 0
+Karma: 3
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 58
+UnitKind: (2, 3, 4)
+AntiEffect: (0)
+
+Effects:
+Resurrect: 1
+Power: 100
+Duration: -1;
+
+/148
+Name: Sanctuary;
+Cost: 10
+LifeCost: 0
+StamCost: 3
+ItemLevel: 4
+Level: 3
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 149
+UnitKind: (2, 3)
+AntiEffect: (30)
+
+Effects:
+Attack: 2
+Power: 2
+Duration: 4
+
+CounterAttack: 3
+Power: 2
+Duration: 4
+
+RangedAttack: 8
+Power: 2
+Duration: 4
+
+Defence: 4
+Power: 5
+Duration: 4
+
+RangedDefence: 5
+Power: 5
+Duration: 4
+
+Resist: 6
+Power: 5
+Duration: 4
+
+Magic_Immunity: 30
+Power: 1
+Duration: 4;
+
+/149
+Name: Divine Warp;
+Cost: 14
+LifeCost: 0
+StamCost: 3
+ItemLevel: 4
+Level: 2
+PowerMod: 0
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 55
+UnitKind: (2, 3, 4)
+AntiEffect: (0)
+
+Effects:
+Replacement: 89
+Power: 0
+Duration: 0;
+
+/150
+Name: Divine Light;
+Cost: 45
+LifeCost: 0
+StamCost: 10
+ItemLevel: 4
+Level: 4
+PowerMod: 0
+DurationMod: 100
+Target: 3
+Area: 1
+Radius: 2
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 50
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 150
+UnitKind: (4)
+AntiEffect: (30, 135)
+
+Effects:
+Attack: 2
+Power: -100
+Duration: 4
+
+CounterAttack: 3
+Power: -100
+Duration: 4
+
+NoRangedAttack: 146
+Power: 1
+Duration: 4;
+
+/151
+Name: Holy Word;
+Cost: 65
+LifeCost: 10
+StamCost: 7
+ItemLevel: 5
+Level: 4
+PowerMod: 100
+DurationMod: 0
+Target: 0
+Area: 2
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 151
+UnitKind: (0)
+AntiEffect: (30, 135)
+
+Effects:
+Damage: 1
+Power: 10
+Duration: -1;
+
+/152
+Name: Divine Vengeance;
+Cost: 40
+LifeCost: 0
+StamCost: 5
+ItemLevel: 5
+Level: 4
+PowerMod: 200
+DurationMod: 0
+Target: 3
+Area: 1
+Radius: 2
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 100
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 152
+UnitKind: (1, 4, 5)
+AntiEffect: (30)
+
+Effects:
+Damage: 1
+Power: 15
+Duration: -1;
+
+/153
+Name: Summon Skeleton;
+Cost: 10
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 14
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1019
+Power: 0
+Duration: -1;
+
+/154
+Name: Summon Wyvern;
+Cost: 35
+LifeCost: 0
+StamCost: 6
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 4
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1150
+Power: 0
+Duration: -1;
+
+/155
+Name: Fire Storm;
+Cost: 80
+LifeCost: 0
+StamCost: 9
+ItemLevel: 8
+Level: 5
+PowerMod: 50
+DurationMod: 0
+Target: 3
+Area: 1
+Radius: 2
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 50
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 78
+UnitKind: (0)
+AntiEffect: (30, 101)
+
+Effects:
+Damage: 1
+Power: 10
+Duration: -1
+
+Damage: 145
+Power: 1
+Duration: 3;
+
+/156
+Name: Chilling Lightning;
+Cost: 40
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 100
+RestoreOnly: 0
+Cumulative: 0
+Sound: 110
+UnitKind: (0)
+AntiEffect: (30)
+
+Effects:
+Damage: 1
+Power: 20
+Duration: -1;
+
+/157
+Name: Order;
+Cost: 40
+LifeCost: 0
+StamCost: 6
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 1
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 88
+UnitKind: (2, 4, 5)
+AntiEffect: (30, 73, 100)
+
+Effects:
+MindControl: 73
+Power: 1
+Duration: 1;
+
+/158
+Name: Warp;
+Cost: 10
+LifeCost: 0
+StamCost: 2
+ItemLevel: 3
+Level: 1
+PowerMod: 100
+DurationMod: 0
+Target: 0
+Area: 0
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 153
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Replacement: 89
+Power: 0
+Duration: 0;
+
+/159
+Name: Celestial Thunder;
+Cost: 12
+LifeCost: 0
+StamCost: 3
+ItemLevel: 4
+Level: 2
+PowerMod: 100
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 50
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 154
+UnitKind: (0)
+AntiEffect: (30, 105)
+
+Effects:
+Damage: 1
+Power: 12
+Duration: -1;
+
+/160
+Name: Chain Lightning;
+Cost: 60
+LifeCost: 0
+StamCost: 7
+ItemLevel: 4
+Level: 4
+PowerMod: 100
+DurationMod: 0
+Target: 3
+Area: 1
+Radius: 2
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 50
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 155
+UnitKind: (0)
+AntiEffect: (30, 105)
+
+Effects:
+Damage: 1
+Power: 15
+Duration: -1;
+
+/161
+Name: Head Wind;
+Cost: 8
+LifeCost: 0
+StamCost: 2
+ItemLevel: 2
+Level: 1
+PowerMod: 0
+DurationMod: 1
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 156
+UnitKind: (0)
+AntiEffect: (30, 105, 121)
+
+Effects:
+ShootingAttack: 8
+Power: -1
+Duration: 5
+
+ShootingRange: 9
+Power: -1
+Duration: 5
+
+Speed: 7
+Power: -1
+Duration: 5;
+
+/162
+Name: Sluggishness;
+Cost: 2
+LifeCost: 0
+StamCost: 1
+ItemLevel: 2
+Level: 1
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 50
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 157
+UnitKind: (0)
+AntiEffect: (30)
+
+Effects:
+Speed: 7
+Power: -2
+Duration: 5
+
+Stamina: 11
+Power: -1
+Duration: 5;
+
+/163
+Name: Quicksand;
+Cost: 25
+LifeCost: 0
+StamCost: 4
+ItemLevel: 4
+Level: 3
+PowerMod: 0
+DurationMod: 50
+Target: 3
+Area: 1
+Radius: 1
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 158
+UnitKind: (0)
+AntiEffect: (14, 15)
+
+Effects:
+Speed: 7
+Power: -2
+Duration: 6
+
+Stamina: 11
+Power: -2
+Duration: 6;
+
+/164
+Name: Earthquake;
+Cost: 50
+LifeCost: 0
+StamCost: 6
+ItemLevel: 4
+Level: 4
+PowerMod: 50
+DurationMod: 0
+Target: 0
+Area: 2
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 50
+RestoreOnly: 0
+Cumulative: 0
+Sound: 159
+UnitKind: (0)
+AntiEffect: (14, 15)
+
+Effects:
+Damage: 1
+Power: 12
+Duration: -1;
+
+/165
+Name: Fire Rain;
+Cost: 14
+LifeCost: 0
+StamCost: 4
+ItemLevel: 4
+Level: 3
+PowerMod: 50
+DurationMod: 0
+Target: 3
+Area: 1
+Radius: 1
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 100
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 160
+UnitKind: (0)
+AntiEffect: (30, 101)
+
+Effects:
+Damage: 1
+Power: 10
+Duration: -1
+
+Damage: 145
+Power: 1
+Duration: 3;
+
+/166
+Name: Mass Fire Immunity;
+Cost: 16
+LifeCost: 0
+StamCost: 3
+ItemLevel: 3
+Level: 2
+PowerMod: 0
+DurationMod: 200
+Target: 0
+Area: 2
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 161
+UnitKind: (0)
+AntiEffect: (30, 101)
+
+Effects:
+Fire_Immunity: 101
+Power: 1
+Duration: 2
+
+RangedDefence: 5
+Power: 1
+Duration: 2;
+
+/167
+Name: Cleansing Flame;
+Cost: 10
+LifeCost: 80
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 0
+Area: 2
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 50
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 162
+UnitKind: (0)
+AntiEffect: (30, 101)
+
+Effects:
+Damage: 1
+Power: 12
+Duration: -1
+
+Damage: 145
+Power: 2
+Duration: 3;
+
+/168
+Name: Summon Air Elemental;
+Cost: 35
+LifeCost: 0
+StamCost: 4
+ItemLevel: 4
+Level: 3
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1153
+Power: 0
+Duration: -1;
+
+/169
+Name: Summon Earth Elemental;
+Cost: 35
+LifeCost: 0
+StamCost: 4
+ItemLevel: 4
+Level: 3
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1154
+Power: 0
+Duration: -1;
+
+/170
+Name: Summon Fire Elemental;
+Cost: 35
+LifeCost: 0
+StamCost: 4
+ItemLevel: 4
+Level: 3
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1155
+Power: 0
+Duration: -1;
+
+/171
+Name: Summon Living Armor;
+Cost: 35
+LifeCost: 0
+StamCost: 5
+ItemLevel: 5
+Level: 3
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1159
+Power: 0
+Duration: -1;
+
+/172
+Name: Summon Lord of Abyss;
+Cost: 50
+LifeCost: 20
+StamCost: 4
+ItemLevel: 5
+Level: 4
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: -3
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (135)
+
+Effects:
+Summon: 1098
+Power: 4
+Duration: -1;
+
+/173
+Name: Anthem Of The Damned;
+Cost: 50
+LifeCost: 10
+StamCost: 8
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 0
+Area: 2
+Radius: 0
+Karma: -4
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 50
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 163
+UnitKind: (2, 3, 4, 5)
+AntiEffect: (135)
+
+Effects:
+Damage: 1
+Power: 16
+Duration: -1;
+
+/174
+Name: Skeleton Transformation;
+Cost: 35
+LifeCost: 0
+StamCost: 4
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 100
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 84
+UnitKind: (2, 5)
+AntiEffect: (30, 90)
+
+Effects:
+Morph: 1019
+Power: 1
+Duration: 4;
+
+/175
+Name: Fiend Transformation;
+Cost: 45
+LifeCost: 0
+StamCost: 5
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 50
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 84
+UnitKind: (3, 5)
+AntiEffect: (30, 90)
+
+Effects:
+Morph: 1037
+Power: 1
+Duration: 4;
+
+/176
+Name: Cleric Transformation;
+Cost: 70
+LifeCost: 0
+StamCost: 8
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 25
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 84
+UnitKind: (5)
+AntiEffect: (90)
+
+Effects:
+Morph: 1045
+Power: 1
+Duration: 3;
+
+/177
+Name: Summon Phantom;
+Cost: 40
+LifeCost: 0
+StamCost: 5
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1163
+Power: 1
+Duration: -1;
+
+/178
+Name: Fanaticism;
+Cost: 30
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 200
+Target: 1
+Area: 1
+Radius: 0
+Karma: 1
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 164
+UnitKind: (2, 4)
+AntiEffect: (30)
+
+Effects:
+Reincarnation: 74
+Power: 1
+Duration: 10
+
+Fearless: 19
+Power: 1
+Duration: 10;
+
+/179
+Name: Deadly Terror;
+Cost: 27
+LifeCost: 0
+StamCost: 4
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 100
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 13
+UnitKind: (2, 4)
+AntiEffect: (19, 30, 100)
+
+Effects:
+Morale: 12
+Power: 20
+Duration: -1;
+
+/180
+Name: Panic;
+Cost: 18
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 0
+Target: 3
+Area: 1
+Radius: 1
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 100
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 75
+UnitKind: (2, 4)
+AntiEffect: (19, 30, 100)
+
+Effects:
+Morale: 12
+Power: 8
+Duration: -1;
+
+/181
+Name: Imaginary Assassin;
+Cost: 15
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 1
+Area: 0
+Radius: 0
+Karma: -1
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 100
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 165
+UnitKind: (2, 4)
+AntiEffect: (30, 100)
+
+Effects:
+Damage: 92
+Power: 5
+Duration: -1;
+
+/182
+Name: Bind Will;
+Cost: 35
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 50
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 88
+UnitKind: (2, 4, 5)
+AntiEffect: (30, 73, 100)
+
+Effects:
+MindControl: 73
+Power: 1
+Duration: 2;
+
+/183
+Name: Strong Mind;
+Cost: 26
+LifeCost: 0
+StamCost: 3
+ItemLevel: 3
+Level: 2
+PowerMod: 0
+DurationMod: 50
+Target: 0
+Area: 2
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 161
+UnitKind: (0)
+AntiEffect: (30, 100)
+
+Effects:
+Mind_Immunity: 100
+Power: 1
+Duration: 10;
+
+/184
+Name: Arrow Shower;
+Cost: 32
+LifeCost: 0
+StamCost: 5
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 0
+Area: 2
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 132
+UnitKind: (2, 4, 5)
+AntiEffect: (30, 28, 107)
+
+Effects:
+Flag_DoubleShot3: 183
+Power: 1
+Duration: 3
+
+RestoreAmmo: 184
+Power: 1
+Duration: 3
+
+Fire_Arrows: 60
+Power: 5
+Duration: 3
+
+Stamina: 11
+Power: 2
+Duration: 3;
+
+/185
+Name: Control Undead;
+Cost: 40
+LifeCost: 0
+StamCost: 4
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 1
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 200
+UnitKind: (1, 3, 4, 5)
+AntiEffect: (30, 73, 100)
+
+Effects:
+MindControl: 73
+Power: 1
+Duration: 2;
+
+/186
+Name: Seismic Charge;
+Cost: 12
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 1
+Target: 3
+Area: 1
+Radius: 1
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 159
+UnitKind: (0)
+AntiEffect: (14, 15)
+
+Effects:
+Speed: 7
+Power: -1
+Duration: 3
+
+Stamina: 11
+Power: -1
+Duration: 3;
+
+/187
+Name: Mockery;
+Cost: 2
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 1
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 20
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 216
+UnitKind: (2, 4)
+AntiEffect: (107)
+
+Effects:
+Stamina: 11
+Power: -1
+Duration: 3
+
+Stamina: 11
+Power: 2
+Duration: -1;
+
+/188
+Name: Levitation;
+Cost: 8
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 1
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 168
+UnitKind: (0)
+AntiEffect: (14, 15, 30)
+
+Effects:
+Float: 15
+Power: 1
+Duration: 4
+
+Speed: 7
+Power: 1
+Duration: 4
+
+Stamina: 11
+Power: 1
+Duration: 4;
+
+/189
+Name: Embrace of Darkness;
+Cost: 18
+LifeCost: 0
+StamCost: 3
+ItemLevel: 5
+Level: 3
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 166
+UnitKind: (2, 4)
+AntiEffect: (30, 135)
+
+Effects:
+DrainLife: 68
+Power: 35
+Duration: 4
+
+Painless: 13
+Power: 1
+Duration: 4
+
+Unstamloss: 18
+Power: 1
+Duration: 4
+
+Fearless: 19
+Power: 1
+Duration: 4
+
+Poison_Immunity: 42
+Power: 1
+Duration: 4
+
+Cold_Immunity: 102
+Power: 1
+Duration: 4
+
+Bleeding_Immunity: 204
+Power: 1
+Duration: 4
+
+Antidote: 93
+Power: 1
+Duration: -1;
+
+/190
+Name: Deadly Touch;
+Cost: 50
+LifeCost: 0
+StamCost: 5
+ItemLevel: 8
+Level: 4
+PowerMod: 0
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: -5
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 167
+UnitKind: (2, 4, 5)
+AntiEffect: (0)
+
+Effects:
+Damage: 1
+Power: 999
+Duration: -1;
+
+/191
+Name: Banshee's Howl;
+Cost: 13
+LifeCost: 0
+StamCost: 4
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 3
+Area: 1
+Radius: 2
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 169
+UnitKind: (2, 4)
+AntiEffect: (19, 100)
+
+Effects:
+Speed: 7
+Power: -1
+Duration: 2
+
+Morale: 12
+Power: 2
+Duration: -1
+
+Damage: 1
+Power: 4
+Duration: -1;
+
+/192
+Name: Paralyze;
+Cost: 16
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 50
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 25
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 172
+UnitKind: (2, 4)
+AntiEffect: (30, 100)
+
+Effects:
+Immobile: 36
+Power: 1
+Duration: 4
+
+DontFight: 38
+Power: 1
+Duration: 4;
+
+/193
+Name: Mass Sleep;
+Cost: 45
+LifeCost: 0
+StamCost: 4
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 0
+Area: 2
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 89
+UnitKind: (2, 4)
+AntiEffect: (30, 100)
+
+Effects:
+Sleep: 70
+FlagEffect: 1
+FlagEffect: 1
+
+DontMove: 36
+Power: 1
+Duration: 3
+
+DontFight: 38
+Power: 1
+Duration: 3;
+
+/194
+Name: Shadow Form;
+Cost: 16
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 0
+Area: 0
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 170
+UnitKind: (2, 4, 5)
+AntiEffect: (0)
+
+Effects:
+Attack: 2
+Power: 3
+Duration: 3
+
+Agility: 26
+Power: 1
+Duration: 3
+
+Speed: 7
+Power: 1
+Duration: 3
+
+Multiattack: 66
+Power: 5
+Duration: 3
+
+Stamina: 11
+Power: 2
+Duration: 3
+
+Bodyless: 121
+Power: 1
+Duration: 3
+
+Bloodlust: 211
+Power: 2
+Duration: 3
+
+Counterattack: 3
+Power: -5
+Duration: 3
+
+Preparation: 214
+Power: -1
+Duration: 3
+
+Resist: 223
+Power: -50
+Duration: 3
+
+MoraleChange: 222
+Power: -3
+Duration: 3
+
+SpellVulnerable: 205
+Power: 198
+Duration: 3;
+
+/195
+Name: Holy Circle;
+Cost: 8
+LifeCost: 0
+StamCost: 2
+ItemLevel: 3
+Level: 2
+PowerMod: 0
+DurationMod: 100
+Target: 3
+Area: 1
+Radius: 1
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 171
+UnitKind: (2, 3)
+AntiEffect: (30)
+
+Effects:
+Attack: 2
+Power: 1
+Duration: 5
+
+CounterAttack: 3
+Power: 1
+Duration: 5
+
+RangedAttack: 8
+Power: 1
+Duration: 5
+
+Defense: 4
+Power: 1
+Duration: 5
+
+RangedDefense: 5
+Power: 1
+Duration: 5
+
+Resist: 6
+Power: 1
+Duration: 5;
+
+/196
+Name: Summon Beholder;
+Cost: 45
+LifeCost: 0
+StamCost: 4
+ItemLevel: 5
+Level: 3
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 1
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1182
+Power: 0
+Duration: -1;
+
+/197
+Name: Magic Crystal;
+Cost: 35
+LifeCost: 0
+StamCost: 4
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1186
+Power: 0
+Duration: -1;
+
+/198
+Name: Kiss of Darkness;
+Cost: 15
+LifeCost: 0
+StamCost: 4
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 177
+UnitKind: (1, 2, 3, 4, 5)
+AntiEffect: (299)
+
+Effects:
+No_fear: 19
+Power: 1
+Duration: 3
+
+AddTurn: 75
+Power: 1
+Duration: -1
+
+Ammo: 10
+Power: 2
+Duration: -1
+
+Stamina: 11
+Power: 4
+Duration: -1;
+
+/199
+Name: Astral Parasite;
+Cost: 6
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 50
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 1
+Sound: 173
+UnitKind: (2, 4)
+AntiEffect: (30)
+
+Effects:
+Resist: 6
+Power: -1
+Duration: 4
+
+Stamina: 11
+Power: -2
+Duration: 4;
+
+/200
+Name: Hands of Darkness;
+Cost: 15
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 25
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 174
+UnitKind: (0)
+AntiEffect: (30, 66, 120)
+
+Effects:
+Multiattack: 66
+Power: 4
+Duration: 1;
+
+/201
+Name: Dark Depletion;
+Cost: 12
+LifeCost: 0
+StamCost: 4
+ItemLevel: 4
+Level: 3
+PowerMod: 200
+DurationMod: 0
+Target: 3
+Area: 1
+Radius: 2
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 100
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 175
+UnitKind: (0)
+AntiEffect: (30, 107, 192)
+
+Effects:
+Ammo: 10
+Power: 8
+Duration: -1;
+
+/202
+Name: Enchanted Weapon;
+Cost: 20
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 3
+PowerMod: 0
+DurationMod: 100
+Target: 0
+Area: 2
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 1
+Cumulative: 1
+Sound: 176
+UnitKind: (0)
+AntiEffect: (30, 107, 192)
+
+Effects:
+Attack: 2
+Power: 1
+Duration: 4
+
+CounterAttack: 3
+Power: 1
+Duration: 4
+
+RangedAttack: 8
+Power: 1
+Duration: 4
+
+Ammo: 10
+Power: 4
+Duration: -1;
+
+/203
+Name: Raise Reaper;
+Cost: 18
+LifeCost: 0
+StamCost: 5
+ItemLevel: 4
+Level: 1
+PowerMod: 100
+DurationMod: 0
+Target: 4
+Area: 1
+Radius: 0
+Karma: -1
+Building: 0
+Negative: 0
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 14
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1170
+Power: 0
+Duration: -1;
+
+/204
+Name: Raise Mummy;
+Cost: 24
+LifeCost: 0
+StamCost: 5
+ItemLevel: 4
+Level: 1
+PowerMod: 100
+DurationMod: 0
+Target: 4
+Area: 1
+Radius: 0
+Karma: -1
+Building: 0
+Negative: 0
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 15
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1092
+Power: 0
+Duration: -1;
+
+/205
+Name: Raise Cadaver;
+Cost: 36
+LifeCost: 0
+StamCost: 6
+ItemLevel: 5
+Level: 2
+PowerMod: 100
+DurationMod: 0
+Target: 4
+Area: 1
+Radius: 0
+Karma: -2
+Building: 0
+Negative: 0
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 15
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1171
+Power: 0
+Duration: -1;
+
+/206
+Name: Raise Banshee;
+Cost: 60
+LifeCost: 0
+StamCost: 7
+ItemLevel: 5
+Level: 3
+PowerMod: 100
+DurationMod: 0
+Target: 4
+Area: 1
+Radius: 0
+Karma: -3
+Building: 0
+Negative: 0
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 66
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1172
+Power: 0
+Duration: -1;
+
+/207
+Name: Dark Revival;
+Cost: 20
+LifeCost: 7
+StamCost: 3
+ItemLevel: 4
+Level: 2
+PowerMod: 100
+DurationMod: 0
+Target: 4
+Area: 1
+Radius: 0
+Karma: -3
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 1
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 178
+UnitKind: (2, 4)
+AntiEffect: (0)
+
+Effects:
+Resurrect: 1
+Power: 50
+Duration: -1;
+
+/208
+Name: Cloud of Darkness;
+Cost: 27
+LifeCost: 0
+StamCost: 4
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 3
+Area: 1
+Radius: 2
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 1
+ResistPower: 0
+ResistDuration: 50
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 179
+UnitKind: (2, 4)
+AntiEffect: (30, 108)
+
+Effects:
+Attack: 2
+Power: -100
+Duration: 4
+
+CounterAttack: 3
+Power: -100
+Duration: 4
+
+NoRangedAttack: 146
+Power: 1
+Duration: 4;
+
+/209
+Name: Titan's Strength;
+Cost: 30
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 4
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 180
+UnitKind: (2, 4)
+AntiEffect: (30, 120)
+
+Effects:
+Attack: 2
+Power: 25
+Duration: 3
+
+CounterAttack: 3
+Power: 25
+Duration: 3;
+
+/210
+Name: Cloud of Restoration;
+Cost: 20
+LifeCost: 0
+StamCost: 4
+ItemLevel: 4
+Level: 2
+PowerMod: 50
+DurationMod: 0
+Target: 3
+Area: 1
+Radius: 1
+Karma: -1
+Building: 0
+Negative: 0
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 1
+Sound: 181
+UnitKind: (1, 3, 4, 5)
+AntiEffect: (30, 106, 121)
+
+Effects:
+Heal: 1
+Power: 10
+Duration: -1;
+
+/211
+Name: Mass Undead Restoration;
+Cost: 12
+LifeCost: 0
+StamCost: 3
+ItemLevel: 4
+Level: 3
+PowerMod: 50
+DurationMod: 0
+Target: 0
+Area: 2
+Radius: 0
+Karma: -1
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 1
+Sound: 182
+UnitKind: (1, 3, 4, 5)
+AntiEffect: (30, 106)
+
+Effects:
+Regen: 1
+Power: 8
+Duration: 4
+
+Regen: 1
+Power: 8
+Duration: -1;
+
+/212
+Name: Disintegration;
+Cost: 80
+LifeCost: 0
+StamCost: 10
+ItemLevel: 6
+Level: 4
+PowerMod: 500
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: -1
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 100
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 183
+UnitKind: (0)
+AntiEffect: (108)
+
+Effects:
+Damage: 1
+Power: 50
+Duration: -1;
+
+/213
+Name: Unrest;
+Cost: 30
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 3
+PowerMod: 0
+DurationMod: 200
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 184
+UnitKind: (1, 3, 4, 5)
+AntiEffect: (30, 106)
+
+Effects:
+Reincarnation: 74
+Power: 1
+Duration: 5;
+
+/214
+Name: Word of Death;
+Cost: 40
+LifeCost: 0
+StamCost: 4
+ItemLevel: 4
+Level: 4
+PowerMod: 50
+DurationMod: 0
+Target: 0
+Area: 2
+Radius: 0
+Karma: -1
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 100
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 185
+UnitKind: (2, 4, 5)
+AntiEffect: (18)
+
+Effects:
+Stamina: 11
+Power: 12
+Duration: -1;
+
+/215
+Name: Pathfinding;
+Cost: 30
+LifeCost: 0
+StamCost: 5
+ItemLevel: 4
+Level: 3
+PowerMod: 0
+DurationMod: 100
+Target: 0
+Area: 2
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 186
+UnitKind: (0)
+AntiEffect: (14, 15, 30)
+
+Effects:
+Forest_Walk: 32
+Power: 1
+Duration: 4
+
+Hill_Walk: 33
+Power: 1
+Duration: 4
+
+Swamp_Walk: 34
+Power: 1
+Duration: 4;
+
+/216
+Name: Word of Peace;
+Cost: 40
+LifeCost: 0
+StamCost: 4
+ItemLevel: 4
+Level: 4
+PowerMod: 0
+DurationMod: 50
+Target: 0
+Area: 2
+Radius: 0
+Karma: 1
+Building: 173
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 187
+UnitKind: (0)
+AntiEffect: (30)
+
+Effects:
+Defence: 4
+Power: 5
+Duration: 5
+
+RangedDefence: 5
+Power: 5
+Duration: 5
+
+Resistance: 6
+Power: 5
+Duration: 5
+
+Attack: 2
+Power: -10
+Duration: 5
+
+RangedAttack: 8
+Power: -10
+Duration: 5;
+
+/217
+Name: Fetters;
+Cost: 30
+LifeCost: 0
+StamCost: 4
+ItemLevel: 4
+Level: 2
+PowerMod: 0
+DurationMod: 200
+Target: 3
+Area: 1
+Radius: 1
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 100
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 188
+UnitKind: (0)
+AntiEffect: (30, 201)
+
+Effects:
+Web: 47
+Power: 0
+Duration: 8;
+
+/218
+Name: Spectral Blade;
+Cost: 6
+LifeCost: 0
+StamCost: 2
+ItemLevel: 3
+Level: 2
+PowerMod: 200
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 50
+RestoreOnly: 0
+Cumulative: 0
+Sound: 189
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Damage: 1
+Power: 11
+Duration: -1;
+
+/219
+Name: Higher Power;
+Cost: 45
+LifeCost: 0
+StamCost: 6
+ItemLevel: 8
+Level: 4
+PowerMod: 0
+DurationMod: 1
+Target: 3
+Area: 1
+Radius: 2
+Karma: 2
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 190
+UnitKind: (2, 3, 5)
+AntiEffect: (30)
+
+Effects:
+Attack: 2
+Power: 10
+Duration: 4
+
+CounterAttack: 3
+Power: 10
+Duration: 4
+
+RangedAttack: 8
+Power: 10
+Duration: 4
+
+Defence: 4
+Power: 5
+Duration: 4
+
+RangedDefence: 5
+Power: 5
+Duration: 4
+
+Resistance: 6
+Power: 5
+Duration: 4
+
+Mind_Immunity: 100
+Power: 1
+Duration: 4
+
+Dispel: 31
+Power: 10
+Duration: -1;
+
+/220
+Name: Heroism;
+Cost: 16
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 2
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 191
+UnitKind: (2, 4)
+AntiEffect: (30, 107, 120, 299)
+
+Effects:
+Attack: 2
+Power: 1
+Duration: 4
+
+Mind_Immunity: 100
+Power: 1
+Duration: 4
+
+AddTurn: 75
+Power: 1
+Duration: -1
+
+Morale: 12
+Power: 5
+Duration: -1
+
+Stamina: 11
+Power: 5
+Duration: -1;
+
+/221
+Name: Destroy Undead;
+Cost: 100
+LifeCost: 15
+StamCost: 8
+ItemLevel: 6
+Level: 4
+PowerMod: 0
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 2
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 192
+UnitKind: (1, 3, 4, 5)
+AntiEffect: (0)
+
+Effects:
+Damage: 1
+Power: 999
+Duration: -1;
+
+/222
+Name: Celestial Shield;
+Cost: 10
+LifeCost: 0
+StamCost: 2
+ItemLevel: 2
+Level: 2
+PowerMod: 0
+DurationMod: 100
+Target: 3
+Area: 1
+Radius: 1
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 193
+UnitKind: (2, 3)
+AntiEffect: (30)
+
+Effects:
+RangedDefence: 5
+Power: 4
+Duration: 4
+
+Resist: 6
+Power: 1
+Duration: 4;
+
+/223
+Name: Dark Steel;
+Cost: 12
+LifeCost: 0
+StamCost: 3
+ItemLevel: 3
+Level: 2
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: -1
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 194
+UnitKind: (2)
+AntiEffect: (30, 107, 135)
+
+Effects:
+Attack: 2
+Power: 2
+Duration: 4
+
+CounterAttack: 3
+Power: 2
+Duration: 4
+
+ArmorPierce: 39
+Power: 1
+Duration: 4
+
+Curse: 43
+Power: 4
+Duration: 4
+
+FearStrike: 50
+Power: 2
+Duration: 4;
+
+/224
+Name: Armor Weakened;
+Cost: 4
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 1
+Sound: 21
+UnitKind: (0)
+AntiEffect: (30, 108, 121)
+
+Effects:
+Defence: 4
+Power: -3
+Duration: 4
+
+Ranged_defence: 5
+Power: -3
+Duration: 4;
+
+/225
+Name: Cat's Reflexes;
+Cost: 8
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 1
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 195
+UnitKind: (2, 4)
+AntiEffect: (30, 120)
+
+Effects:
+Agility: 26
+Power: 1
+Duration: 4
+
+Preparation: 214
+Power: 1
+Duration: 4;
+
+/226
+Name: Axii Sign;
+Cost: 3
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 25
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 196
+UnitKind: (2, 4)
+AntiEffect: (19, 100)
+
+Effects:
+Morale: 12
+Power: 8
+Duration: -1;
+
+/227
+Name: Yrden Sign;
+Cost: 3
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 1
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 30
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 197
+UnitKind: (2, 4)
+AntiEffect: (13)
+
+Effects:
+Poison: 1
+Power: -4
+Duration: 3
+
+Stamina: 11
+Power: -1
+Duration: 3
+
+Attack: 2
+Power: -1
+Duration: 3
+
+CounterAttack: 3
+Power: -1
+Duration: 3
+
+RangedAttack: 8
+Power: -1
+Duration: 3;
+
+/228
+Name: Ice Storm;
+Cost: 60
+LifeCost: 0
+StamCost: 8
+ItemLevel: 5
+Level: 4
+PowerMod: 0
+DurationMod: 1
+Target: 3
+Area: 1
+Radius: 2
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 50
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 198
+UnitKind: (0)
+AntiEffect: (30, 102)
+
+Effects:
+Speed: 7
+Power: -1
+Duration: 3
+
+Damage: 1
+Power: 15
+Duration: -1;
+
+/229
+Name: Summon Devil;
+Cost: 75
+LifeCost: 15
+StamCost: 6
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: -5
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 201
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1065
+Power: 0
+Duration: -1;
+
+/230
+Name: Death Cloud;
+Cost: 20
+LifeCost: 0
+StamCost: 5
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 1
+Target: 3
+Area: 1
+Radius: 2
+Karma: -2
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 202
+UnitKind: (2, 4)
+AntiEffect: (0)
+
+Effects:
+Poison: 1
+Power: -5
+Duration: 3
+
+Stamina: 11
+Power: -2
+Duration: 3
+
+Morale: 12
+Power: -2
+Duration: 3
+
+Attack: 2
+Power: -2
+Duration: 3
+
+CounterAttack: 3
+Power: -2
+Duration: 3
+
+RangedAttack: 8
+Power: -2
+Duration: 3
+
+Speed: 7
+Power: -1
+Duration: 3
+
+Damage: 1
+Power: 5
+Duration: -1;
+
+/231
+Name: Mass Life Drain;
+Cost: 60
+LifeCost: 0
+StamCost: 4
+ItemLevel: 8
+Level: 4
+PowerMod: 100
+DurationMod: 0
+Target: 0
+Area: 2
+Radius: 0
+Karma: -2
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 50
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 203
+UnitKind: (2, 4)
+AntiEffect: (30, 135)
+
+Effects:
+Drain: 71
+FlagEffect: 1
+FlagEffect: 1
+
+Damage: 1
+Power: 5
+Duration: -1;
+
+/232
+Name: Demon Blood;
+Cost: 15
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 2
+PowerMod: 50
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 100
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 204
+UnitKind: (1, 2, 4, 5)
+AntiEffect: (30, 108)
+
+Effects:
+Drain: 71
+FlagEffect: 1
+FlagEffect: 1
+
+Damage: 1
+Power: 10
+Duration: -1;
+
+/233
+Name: Mass Bless;
+Cost: 15
+LifeCost: 0
+StamCost: 2
+ItemLevel: 3
+Level: 3
+PowerMod: 0
+DurationMod: 100
+Target: 0
+Area: 2
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 205
+UnitKind: (2, 3)
+AntiEffect: (30)
+
+Effects:
+Attack: 2
+Power: 2
+Duration: 5
+
+CounterAttack: 3
+Power: 2
+Duration: 5
+
+RangedAttack: 8
+Power: 1
+Duration: 5
+
+Defense: 4
+Power: 1
+Duration: 5
+
+RangedDefense: 5
+Power: 1
+Duration: 5
+
+Resist: 6
+Power: 1
+Duration: 5
+
+Stamina: 11
+Power: 2
+Duration: -1;
+
+/234
+Name: Healing Sleep;
+Cost: 35
+LifeCost: 0
+StamCost: 3
+ItemLevel: 4
+Level: 4
+PowerMod: 0
+DurationMod: 50
+Target: 3
+Area: 1
+Radius: 1
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 25
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 206
+UnitKind: (2, 4)
+AntiEffect: (30, 100)
+
+Effects:
+Sleep: 70
+FlagEffect: 1
+FlagEffect: 1
+
+DontMove: 36
+Power: 1
+Duration: 3
+
+DontFight: 38
+Power: 1
+Duration: 3
+
+Regen: 1
+Power: 10
+Duration: 3
+
+Stamina: 11
+Power: 5
+Duration: 3;
+
+/235
+Name: Nightmare;
+Cost: 16
+LifeCost: 0
+StamCost: 3
+ItemLevel: 4
+Level: 3
+PowerMod: 0
+DurationMod: 50
+Target: 1
+Area: 1
+Radius: 0
+Karma: -1
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 50
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 207
+UnitKind: (2, 4)
+AntiEffect: (30, 100, 135)
+
+Effects:
+Sleep: 70
+FlagEffect: 1
+FlagEffect: 1
+
+DontMove: 36
+Power: 1
+Duration: 4
+
+DontFight: 38
+Power: 1
+Duration: 4
+
+Stamina: 11
+Power: -3
+Duration: 4
+
+MoraleChange: 222
+Power: -3
+Duration: 4;
+
+/236
+Name: Summon Destroyer;
+Cost: 40
+LifeCost: 13
+StamCost: 5
+ItemLevel: 4
+Level: 3
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: -2
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1097
+Power: 0
+Duration: -1;
+
+/237
+Name: Chaos Distortion;
+Cost: 40
+LifeCost: 18
+StamCost: 5
+ItemLevel: 5
+Level: 3
+PowerMod: 0
+DurationMod: 0
+Target: 0
+Area: 2
+Radius: 0
+Karma: -1
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 208
+UnitKind: (1, 2, 4, 5)
+AntiEffect: (30, 108, 299)
+
+Effects:
+Heal: 1
+Power: 3
+Duration: -1
+
+Stamina: 11
+Power: 1
+Duration: -1
+
+AddTurn: 75
+Power: 1
+Duration: -1;
+
+/238
+Name: Chaos Surge;
+Cost: 5
+LifeCost: 3
+StamCost: 1
+ItemLevel: 8
+Level: 1
+PowerMod: 1
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 1
+Cumulative: 0
+Sound: 209
+UnitKind: (1, 2, 4, 5)
+AntiEffect: (30, 108, 299)
+
+Effects:
+Stamina: 11
+Power: 1
+Duration: -1
+
+AddTurn: 75
+Power: 1
+Duration: -1;
+
+/239
+Name: Hellfire;
+Cost: 60
+LifeCost: 15
+StamCost: 6
+ItemLevel: 5
+Level: 3
+PowerMod: 1
+DurationMod: 0
+Target: 3
+Area: 1
+Radius: 1
+Karma: -1
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 50
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 210
+UnitKind: (0)
+AntiEffect: (30, 108)
+
+Effects:
+Damage: 1
+Power: 15
+Duration: -1
+
+Damage: 145
+Power: 3
+Duration: 3;
+
+/240
+Name: Volcano;
+Cost: 80
+LifeCost: 0
+StamCost: 15
+ItemLevel: 5
+Level: 3
+PowerMod: 150
+DurationMod: 0
+Target: 3
+Area: 1
+Radius: 2
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 150
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 211
+UnitKind: (0)
+AntiEffect: (101)
+
+Effects:
+Damage: 1
+Power: 10
+Duration: -1;
+
+/241
+Name: Blood Ritual;
+Cost: 100
+LifeCost: 35
+StamCost: 12
+ItemLevel: 6
+Level: 4
+PowerMod: 0
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: -6
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 1
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 213
+UnitKind: (2, 4, 5)
+AntiEffect: (135, 108)
+
+Effects:
+Damage: 1
+Power: 999
+Duration: -1;
+
+/242
+Name: Raise Skeleton of Doom;
+Cost: 20
+LifeCost: 0
+StamCost: 4
+ItemLevel: 2
+Level: 2
+PowerMod: 100
+DurationMod: 0
+Target: 4
+Area: 1
+Radius: 0
+Karma: -2
+Building: 0
+Negative: 0
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 66
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1193
+Power: 0
+Duration: -1;
+
+/243
+Name: Raise Spectre;
+Cost: 45
+LifeCost: 0
+StamCost: 5
+ItemLevel: 5
+Level: 3
+PowerMod: 100
+DurationMod: 0
+Target: 4
+Area: 1
+Radius: 0
+Karma: -3
+Building: 0
+Negative: 0
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 66
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1194
+Power: 0
+Duration: -1;
+
+/244
+Name: Fearlessness;
+Cost: 2
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 1
+PowerMod: 0
+DurationMod: 1
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 1
+Cumulative: 1
+Sound: 214
+UnitKind: (2, 4)
+AntiEffect: (30)
+
+Effects:
+Attack: 2
+Power: 1
+Duration: 3
+
+Morale: 12
+Power: 10
+Duration: -1
+
+No_fear: 19
+Power: 1
+Duration: 3;
+
+/245
+Name: Rune Shot;
+Cost: 5
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 1
+Cumulative: 0
+Sound: 215
+UnitKind: (1, 2, 3, 5)
+AntiEffect: (30, 109)
+
+Effects:
+RangedAttack: 8
+Power: 4
+Duration: 4
+
+MagicShoot: 28
+Power: 1
+Duration: 4
+
+Rest_Ammo: 10
+Power: 2
+Duration: -1;
+
+/246
+Name: Feebleness;
+Cost: 8
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 2
+PowerMod: 100
+DurationMod: 0
+Target: 3
+Area: 1
+Radius: 1
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 150
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 1
+Sound: 217
+UnitKind: (2, 4)
+AntiEffect: (18, 30)
+
+Effects:
+Stamina: 11
+Power: 5
+Duration: -1;
+
+/247
+Name: Battle Cry;
+Cost: 10
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 2
+PowerMod: 50
+DurationMod: 0
+Target: 0
+Area: 2
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 1
+Cumulative: 1
+Sound: 218
+UnitKind: (2, 4)
+AntiEffect: (30)
+
+Effects:
+Morale: 12
+Power: 2
+Duration: -1
+
+Stamina: 11
+Power: 5
+Duration: -1;
+
+/248
+Name: Blood Sacrifice;
+Cost: 50
+LifeCost: 18
+StamCost: 7
+ItemLevel: 6
+Level: 3
+PowerMod: 0
+DurationMod: 0
+Target: 0
+Area: 2
+Radius: 0
+Karma: -5
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 1
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 219
+UnitKind: (2, 3, 4, 5)
+AntiEffect: (30, 120, 135, 299)
+
+Effects:
+AddTurn: 75
+Power: 1
+Duration: -1;
+
+/249
+Name: Weighing;
+Cost: 12
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 2
+PowerMod: 0
+DurationMod: 50
+Target: 3
+Area: 1
+Radius: 1
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 50
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 220
+UnitKind: (0)
+AntiEffect: (30)
+
+Effects:
+Stamina: 11
+Power: -3
+Duration: 3
+
+Speed: 7
+Power: -1
+Duration: 3;
+
+/250
+Name: Horror;
+Cost: 40
+LifeCost: 0
+StamCost: 4
+ItemLevel: 4
+Level: 3
+PowerMod: 50
+DurationMod: 0
+Target: 3
+Area: 1
+Radius: 1
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 100
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 221
+UnitKind: (2, 4)
+AntiEffect: (19, 30, 100)
+
+Effects:
+Morale: 12
+Power: 14
+Duration: -1;
+
+/251
+Name: Death Ashes;
+Cost: 80
+LifeCost: 0
+StamCost: 10
+ItemLevel: 6
+Level: 4
+PowerMod: 150
+DurationMod: 0
+Target: 3
+Area: 1
+Radius: 2
+Karma: -2
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 100
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 222
+UnitKind: (2, 4)
+AntiEffect: (135)
+
+Effects:
+Damage: 1
+Power: 20
+Duration: -1;
+
+/252
+Name: Containment;
+Cost: 25
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 1
+Sound: 223
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Speed: 7
+Power: -1
+Duration: 3
+
+Stamina: 11
+Power: -2
+Duration: 3;
+
+/253
+Name: Dark Redemption;
+Cost: 12
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 1
+Target: 0
+Area: 2
+Radius: 0
+Karma: -1
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 1
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 1
+Cumulative: 1
+Sound: 225
+UnitKind: (5)
+AntiEffect: (30)
+
+Effects:
+SpellPower: 905
+Power: 1
+Duration: 3
+
+SpellDuration: 906
+Power: 1
+Duration: 3
+
+SummonPower: 907
+Power: 2
+Duration: 3
+
+Morale: 12
+Power: 3
+Duration: -1;
+
+/254
+Name: Ice Snake;
+Cost: 40
+LifeCost: 0
+StamCost: 5
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 1
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 50
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 226
+UnitKind: (0)
+AntiEffect: (30, 102)
+
+Effects:
+Speed: 7
+Power: -2
+Duration: 3
+
+Damage: 1
+Power: 30
+Duration: -1;
+
+/255
+Name: Lightning Ball;
+Cost: 50
+LifeCost: 0
+StamCost: 5
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 1
+Target: 3
+Area: 1
+Radius: 1
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 227
+UnitKind: (0)
+AntiEffect: (30, 105)
+
+Effects:
+Defence: 4
+Power: -2
+Duration: 3
+
+Ranged_defence: 5
+Power: -2
+Duration: 3
+
+Damage: 1
+Power: 20
+Duration: -1;
+
+/256
+Name: Scorching Ground;
+Cost: 80
+LifeCost: 0
+StamCost: 6
+ItemLevel: 8
+Level: 5
+PowerMod: 50
+DurationMod: 0
+Target: 0
+Area: 2
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 228
+UnitKind: (0)
+AntiEffect: (14, 15, 101)
+
+Effects:
+Damage: 1
+Power: 7
+Duration: 3
+
+Speed: 7
+Power: -1
+Duration: 3
+
+Damage: 1
+Power: 9
+Duration: -1;
+
+/257
+Name: Solar Blast;
+Cost: 120
+LifeCost: 0
+StamCost: 10
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 0
+Area: 2
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 229
+UnitKind: (0)
+AntiEffect: (101)
+
+Effects:
+Damage: 1
+Power: 15
+Duration: -1;
+
+/258
+Name: Necromancer's Cry;
+Cost: 40
+LifeCost: 13
+StamCost: 5
+ItemLevel: 5
+Level: 3
+PowerMod: 0
+DurationMod: 0
+Target: 0
+Area: 2
+Radius: 0
+Karma: -1
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 230
+UnitKind: (1, 3, 4, 5)
+AntiEffect: (30, 106, 299)
+
+Effects:
+AddTurn: 75
+Power: 1
+Duration: -1;
+
+/259
+Name: Nature's Weapon;
+Cost: 8
+LifeCost: 0
+StamCost: 2
+ItemLevel: 3
+Level: 2
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 1
+Cumulative: 0
+Sound: 231
+UnitKind: (5)
+AntiEffect: (30)
+
+Effects:
+Attack: 2
+Power: 5
+Duration: 5
+
+CounterAttack: 3
+Power: 5
+Duration: 5
+
+RangedAttack: 8
+Power: 5
+Duration: 5
+
+Ammo: 10
+Power: 2
+Duration: -1;
+
+/260
+Name: Enchanted Fang;
+Cost: 8
+LifeCost: 0
+StamCost: 2
+ItemLevel: 2
+Level: 2
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 232
+UnitKind: (5)
+AntiEffect: (30)
+
+Effects:
+Attack: 2
+Power: 5
+Duration: 4
+
+CounterAttack: 3
+Power: 5
+Duration: 4
+
+RangedAttack: 8
+Power: 5
+Duration: 4
+
+MagicStrike: 27
+Power: 1
+Duration: 4
+
+MagicShoot: 28
+Power: 1
+Duration: 4;
+
+/261
+Name: Slimy Bomb;
+Cost: 12
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 1
+Target: 3
+Area: 1
+Radius: 1
+Karma: -1
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 233
+UnitKind: (2, 4)
+AntiEffect: (19, 120)
+
+Effects:
+Attack: 2
+Power: -3
+Duration: 3
+
+CounterAttack: 3
+Power: -3
+Duration: 3
+
+RangedAttack: 8
+Power: -3
+Duration: 3
+
+Speed: 7
+Power: -1
+Duration: 3
+
+Stamina: 11
+Power: 5
+Duration: -1
+
+Morale: 12
+Power: 5
+Duration: -1;
+
+/262
+Name: Raise Lord of Darkness;
+Cost: 36
+LifeCost: 0
+StamCost: 4
+ItemLevel: 4
+Level: 3
+PowerMod: 100
+DurationMod: 0
+Target: 4
+Area: 1
+Radius: 0
+Karma: -2
+Building: 0
+Negative: 0
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 66
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1207
+Power: 0
+Duration: -1;
+
+/263
+Name: Stone Crust;
+Cost: 11
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 2
+PowerMod: 0
+DurationMod: 50
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 200
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 234
+UnitKind: (0)
+AntiEffect: (13, 18, 30)
+
+Effects:
+Immobile: 36
+Power: 1
+Duration: 4
+
+DontFight: 38
+Power: 1
+Duration: 4
+
+Defence: 4
+Power: 4
+Duration: 4
+
+RangedDefence: 5
+Power: 4
+Duration: 4
+
+Resist: 6
+Power: 2
+Duration: 4
+
+Damage: 1
+Power: -4
+Duration: 4;
+
+/264
+Name: Mass Cold Immunity;
+Cost: 18
+LifeCost: 0
+StamCost: 2
+ItemLevel: 4
+Level: 2
+PowerMod: 0
+DurationMod: 200
+Target: 0
+Area: 2
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 235
+UnitKind: (0)
+AntiEffect: (30)
+
+Effects:
+Cold_Immunity: 102
+Power: 1
+Duration: 2
+
+Defence: 4
+Power: 1
+Duration: 2
+
+Heal: 1
+Power: 1
+Duration: 2;
+
+/265
+Name: Mass Grounding;
+Cost: 20
+LifeCost: 0
+StamCost: 3
+ItemLevel: 4
+Level: 2
+PowerMod: 0
+DurationMod: 200
+Target: 0
+Area: 2
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 236
+UnitKind: (0)
+AntiEffect: (30, 105)
+
+Effects:
+Air_Immunity: 105
+Power: 1
+Duration: 2
+
+Resist: 6
+Power: 1
+Duration: 2
+
+Stamina: 11
+Power: 1
+Duration: 2;
+
+/266
+Name: Elemental Immunity;
+Cost: 45
+LifeCost: 0
+StamCost: 5
+ItemLevel: 8
+Level: 4
+PowerMod: 0
+DurationMod: 100
+Target: 0
+Area: 2
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 56
+UnitKind: (2, 3)
+AntiEffect: (30)
+
+Effects:
+Resist: 6
+Power: 3
+Duration: 5
+
+Fire_Immunity: 101
+Power: 1
+Duration: 5
+
+Cold_Immunity: 102
+Power: 1
+Duration: 5
+
+Air_Immunity: 105
+Power: 1
+Duration: 5
+
+Heal: 1
+Power: 1
+Duration: 5
+
+Stamina: 11
+Power: 1
+Duration: 5;
+
+/267
+Name: Confusion;
+Cost: 75
+LifeCost: 0
+StamCost: 5
+ItemLevel: 8
+Level: 4
+PowerMod: 0
+DurationMod: 100
+Target: 3
+Area: 1
+Radius: 1
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 50
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 237
+UnitKind: (2, 4)
+AntiEffect: (30, 100)
+
+Effects:
+RangedAttack: 8
+Power: -100
+Duration: 3
+
+DontFight: 38
+Power: 1
+Duration: 3
+
+NoCast: 150
+Power: 1
+Duration: 3;
+
+/268
+Name: Banish;
+Cost: 15
+LifeCost: 0
+StamCost: 2
+ItemLevel: 3
+Level: 3
+PowerMod: 200
+DurationMod: 0
+Target: 3
+Area: 1
+Radius: 1
+Karma: 3
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 50
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 238
+UnitKind: (1, 4, 5)
+AntiEffect: (30, 106)
+
+Effects:
+Damage: 1
+Power: 15
+Duration: -1;
+
+/269
+Name: Summon Hnara;
+Cost: 2
+LifeCost: 0
+StamCost: 5
+ItemLevel: 3
+Level: 1
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 14
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1208
+Power: 0
+Duration: -1;
+
+/270
+Name: Miracle;
+Cost: 40
+LifeCost: 0
+StamCost: 5
+ItemLevel: 4
+Level: 3
+PowerMod: 100
+DurationMod: 0
+Target: 3
+Area: 1
+Radius: 1
+Karma: 1
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 100
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 239
+UnitKind: (2, 4)
+AntiEffect: (30)
+
+Effects:
+HealAlly: 72
+FlagEffect: 1
+FlagEffect: 1
+
+Damage: 1
+Power: 12
+Duration: -1;
+
+/271
+Name: Magic Stream;
+Cost: 16
+LifeCost: 0
+StamCost: 3
+ItemLevel: 3
+Level: 2
+PowerMod: 100
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 100
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 240
+UnitKind: (2, 4)
+AntiEffect: (30)
+
+Effects:
+HealAlly: 72
+FlagEffect: 1
+FlagEffect: 1
+
+Damage: 1
+Power: 10
+Duration: -1;
+
+/272
+Name: Healing Circle;
+Cost: 6
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 0
+Area: 0
+Radius: 1
+Karma: 1
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 1
+Sound: 295
+UnitKind: (2, 4)
+AntiEffect: (30)
+
+Effects:
+Heal: 1
+Power: 3
+Duration: -1;
+
+/273
+Name: Mobility;
+Cost: 2
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 1
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 242
+UnitKind: (1, 2, 3, 5)
+AntiEffect: (14, 30, 100)
+
+Effects:
+Speed: 7
+Power: 1
+Duration: 1;
+
+/274
+Name: Reload;
+Cost: 2
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 1
+Cumulative: 0
+Sound: 243
+UnitKind: (1, 2, 3, 5)
+AntiEffect: (14, 30, 100)
+
+Effects:
+Ammo: 10
+Power: 1
+Duration: -1;
+
+/275
+Name: Summon Wolf;
+Cost: 5
+LifeCost: 0
+StamCost: 2
+ItemLevel: 3
+Level: 1
+PowerMod: 300
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 250
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1083
+Power: 5
+Duration: -1;
+
+/276
+Name: Summon Dire Bear;
+Cost: 35
+LifeCost: 0
+StamCost: 5
+ItemLevel: 4
+Level: 2
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 244
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1210
+Power: 0
+Duration: -1;
+
+/277
+Name: Cleansing Flame;
+Cost: 50
+LifeCost: 10
+StamCost: 5
+ItemLevel: 4
+Level: 4
+PowerMod: 100
+DurationMod: 0
+Target: 0
+Area: 2
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 50
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 162
+UnitKind: (0)
+AntiEffect: (30, 101)
+
+Effects:
+Damage: 1
+Power: 12
+Duration: -1
+
+Damage: 145
+Power: 2
+Duration: 3;
+
+/278
+Name: Strike of Pain;
+Cost: 3
+LifeCost: 1
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 200
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 245
+UnitKind: (2, 4)
+AntiEffect: (13, 30)
+
+Effects:
+Poison: 1
+Power: 3
+Duration: -1
+
+Stamina: 11
+Power: 3
+Duration: -1
+
+Morale: 12
+Power: 3
+Duration: -1;
+
+/279
+Name: Test of Faith;
+Cost: 4
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 1
+Cumulative: 1
+Sound: 246
+UnitKind: (2, 3, 4)
+AntiEffect: (30, 107, 192)
+
+Effects:
+Regen: 1
+Power: 4
+Duration: 3
+
+Stamina: 11
+Power: 2
+Duration: 3
+
+Smite_Evil: 61
+Power: 1
+Duration: 3
+
+Ammo: 10
+Power: 1
+Duration: -1;
+
+/280
+Name: Summon Icarus;
+Cost: 15
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 247
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1212
+Power: 1
+Duration: -1;
+
+/281
+Name: Summon Stalker;
+Cost: 30
+LifeCost: 0
+StamCost: 5
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 247
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1214
+Power: 1
+Duration: -1;
+
+/282
+Name: Summon Luminary;
+Cost: 40
+LifeCost: 0
+StamCost: 4
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 247
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1213
+Power: 1
+Duration: -1;
+
+/283
+Name: Soul Trap;
+Cost: 5
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 1
+PowerMod: 100
+DurationMod: 0
+Target: 4
+Area: 1
+Radius: 0
+Karma: -1
+Building: 0
+Negative: 0
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 248
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1216
+Power: 0
+Duration: -1;
+
+/284
+Name: Death Bell;
+Cost: 1
+LifeCost: 1
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 200
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 1
+Cumulative: 1
+Sound: 249
+UnitKind: (2, 4)
+AntiEffect: (30)
+
+Effects:
+Heal: 1
+Power: 3
+Duration: -1
+
+Morale: 12
+Power: 3
+Duration: -1
+
+Stamina: 11
+Power: 3
+Duration: -1;
+
+/285
+Name: Summon Mephit;
+Cost: 5
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 1
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1218
+Power: 0
+Duration: -1;
+
+/286
+Name: Self-Sacrifice;
+Cost: 40
+LifeCost: 40
+StamCost: 3
+ItemLevel: 4
+Level: 2
+PowerMod: 100
+DurationMod: 0
+Target: 4
+Area: 1
+Radius: 0
+Karma: 4
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 58
+UnitKind: (2, 4)
+AntiEffect: (0)
+
+Effects:
+Resurrect: 1
+Power: 50
+Duration: -1;
+
+/287
+Name: Concoction;
+Cost: 2
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 1
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 251
+UnitKind: (2, 4, 5)
+AntiEffect: (0)
+
+Effects:
+Attack: 2
+Power: 4
+Duration: 3
+
+Defence: 4
+Power: 2
+Duration: 3
+
+RangedDefence: 5
+Power: 2
+Duration: 3
+
+Poison: 1
+Power: -2
+Duration: 3;
+
+/288
+Name: Cocoon of Darkness;
+Cost: 4
+LifeCost: 0
+StamCost: 4
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 50
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 25
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 252
+UnitKind: (0)
+AntiEffect: (30, 121)
+
+Effects:
+Defence: 4
+Power: 5
+Duration: 4
+
+RangedDefence: 5
+Power: 10
+Duration: 4
+
+NoRangedAttack: 146
+Power: 1
+Duration: 4
+
+NoCast: 150
+Power: 1
+Duration: 4
+
+Resist: 223
+Power: -50
+Duration: 3
+
+Bodyless: 121
+Power: 1
+Duration: 4;
+
+/289
+Name: Fierce Roar;
+Cost: 2
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 253
+UnitKind: (2, 4)
+AntiEffect: (19, 100)
+
+Effects:
+Morale: 12
+Power: 6
+Duration: -1;
+
+/290
+Name: Fever;
+Cost: 5
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 50
+Target: 1
+Area: 1
+Radius: 0
+Karma: -2
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 50
+ResistDuration: 50
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 254
+UnitKind: (2, 4)
+AntiEffect: (30)
+
+Effects:
+Poison: 1
+Power: -5
+Duration: 4
+
+Damage: 1
+Power: 5
+Duration: -1;
+
+/291
+Name: Exhaustion;
+Cost: 12
+LifeCost: 0
+StamCost: 5
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 50
+Target: 1
+Area: 1
+Radius: 0
+Karma: -3
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 50
+ResistDuration: 50
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 255
+UnitKind: (2, 4)
+AntiEffect: (42)
+
+Effects:
+Poison: 1
+Power: -10
+Duration: 4
+
+Damage: 1
+Power: 10
+Duration: -1;
+
+/292
+Name: Black Plague;
+Cost: 18
+LifeCost: 0
+StamCost: 4
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 3
+Area: 1
+Radius: 1
+Karma: -3
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 50
+ResistDuration: 50
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 256
+UnitKind: (2, 4)
+AntiEffect: (0)
+
+Effects:
+Poison: 1
+Power: -10
+Duration: 4
+
+Damage: 1
+Power: 10
+Duration: -1;
+
+/293
+Name: Pestilence;
+Cost: 24
+LifeCost: 0
+StamCost: 6
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 3
+Area: 1
+Radius: 2
+Karma: -5
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 50
+ResistDuration: 50
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 257
+UnitKind: (2, 4)
+AntiEffect: (0)
+
+Effects:
+Poison: 1
+Power: -15
+Duration: 4
+
+Damage: 1
+Power: 15
+Duration: -1;
+
+/294
+Name: Summon Rat;
+Cost: 5
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1222
+Power: 0
+Duration: -1
+
+NoCastOnSelf: 149
+Power: 1
+Duration: 2;
+
+/295
+Name: Summon Ratman;
+Cost: 5
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1221
+Power: 0
+Duration: -1;
+
+/296
+Name: Summon Shadow Claw;
+Cost: 5
+LifeCost: 0
+StamCost: 4
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1225
+Power: 0
+Duration: -1;
+
+/297
+Name: Summon Rat King;
+Cost: 5
+LifeCost: 0
+StamCost: 6
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1233
+Power: 0
+Duration: -1;
+
+/298
+Name: Summon Rat Reaper;
+Cost: 5
+LifeCost: 0
+StamCost: 5
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1229
+Power: 0
+Duration: -1;
+
+/299
+Name: Dash;
+Cost: 5
+LifeCost: 0
+StamCost: 1
+ItemLevel: 1
+Level: 1
+PowerMod: 1
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 258
+UnitKind: (2, 4, 5)
+AntiEffect: (30, 107, 120, 299)
+
+Effects:
+AddTurn: 75
+Power: 1
+Duration: -1
+
+Stamina: 11
+Power: 2
+Duration: -1
+
+Morale: 12
+Power: 1
+Duration: -1;
+
+/300
+Name: Shock;
+Cost: 2
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 1
+PowerMod: 150
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 1
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 50
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 260
+UnitKind: (1, 3, 4, 5)
+AntiEffect: (30, 106)
+
+Effects:
+Damage: 1
+Power: 8
+Duration: -1;
+
+/301
+Name: Blind Faith;
+Cost: 8
+LifeCost: 0
+StamCost: 1
+ItemLevel: 3
+Level: 2
+PowerMod: 0
+DurationMod: 1
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 50
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 261
+UnitKind: (2, 3, 4)
+AntiEffect: (30, 107)
+
+Effects:
+Attack: 2
+Power: -100
+Duration: 4
+
+CounterAttack: 3
+Power: -100
+Duration: 4
+
+NoRangedAttack: 146
+Power: 1
+Duration: 4
+
+Smite_Evil: 61
+Power: 10
+Duration: 4;
+
+/302
+Name: Poison Rain;
+Cost: 24
+LifeCost: 0
+StamCost: 6
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 3
+Area: 1
+Radius: 2
+Karma: -3
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 50
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 262
+UnitKind: (2, 4)
+AntiEffect: (42)
+
+Effects:
+Poison: 1
+Power: -1
+Duration: 10;
+
+/303
+Name: Summon Imp;
+Cost: 5
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: -1
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1021
+Power: 0
+Duration: -1;
+
+/304
+Name: Summon Spawn;
+Cost: 7
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: -1
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1099
+Power: 0
+Duration: -1;
+
+/305
+Name: Summon Fiend;
+Cost: 12
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: -2
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1037
+Power: 0
+Duration: -1;
+
+/306
+Name: Summon Hellhound;
+Cost: 13
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: -2
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1038
+Power: 0
+Duration: -1;
+
+/307
+Name: Summon Fiend Lord;
+Cost: 18
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: -2
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1191
+Power: 0
+Duration: -1;
+
+/308
+Name: Summon Cerberus;
+Cost: 20
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: -2
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1094
+Power: 0
+Duration: -1;
+
+/309
+Name: Summon Succubus;
+Cost: 19
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: -2
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1095
+Power: 0
+Duration: -1;
+
+/310
+Name: Summon Demon;
+Cost: 25
+LifeCost: 0
+StamCost: 4
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: -3
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (135)
+
+Effects:
+Summon: 1056
+Power: 0
+Duration: -1;
+
+/311
+Name: Summon Destroyer;
+Cost: 40
+LifeCost: 0
+StamCost: 5
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: -2
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1097
+Power: 0
+Duration: -1;
+
+/312
+Name: Summon Devil;
+Cost: 50
+LifeCost: 0
+StamCost: 4
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: -7
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (135)
+
+Effects:
+Summon: 1065
+Power: 0
+Duration: -1;
+
+/313
+Name: Black Blood;
+Cost: 6
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 1
+Target: 0
+Area: 0
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 263
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Poison_Strike: 41
+Power: 3
+Duration: 3
+
+Poison_Shot: 78
+Power: 3
+Duration: 3
+
+Poison: 1
+Power: -3
+Duration: 3;
+
+/314
+Name: Gaseous Form;
+Cost: 4
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 0
+Area: 0
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 264
+UnitKind: (1, 3, 4, 5)
+AntiEffect: (121)
+
+Effects:
+Attack: 2
+Power: -20
+Duration: 4
+
+CounterAttack: 3
+Power: -15
+Duration: 4
+
+Defence: 4
+Power: 15
+Duration: 4
+
+RangedDefence: 5
+Power: 20
+Duration: 4
+
+Speed: 7
+Power: 1
+Duration: 4
+
+Bodyless: 121
+Power: 1
+Duration: 4
+
+Regen: 48
+Power: 10
+Duration: 4;
+
+/315
+Name: Eternal Light;
+Cost: 9
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 2
+PowerMod: 0
+DurationMod: 100
+Target: 0
+Area: 2
+Radius: 0
+Karma: 1
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 100
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 265
+UnitKind: (1, 3, 4, 5)
+AntiEffect: (30)
+
+Effects:
+Attack: 2
+Power: -1
+Duration: 6
+
+CounterAttack: 3
+Power: -1
+Duration: 6
+
+Defense: 4
+Power: -1
+Duration: 6
+
+RangedDefense: 5
+Power: -1
+Duration: 6
+
+RangedAttack: 8
+Power: -1
+Duration: 6
+
+Resist: 6
+Power: -1
+Duration: 6
+
+Poison: 1
+Power: -2
+Duration: 6;
+
+/316
+Name: Heaven's Rage;
+Cost: 12
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 3
+PowerMod: 0
+DurationMod: 100
+Target: 3
+Area: 1
+Radius: 2
+Karma: 2
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 50
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 266
+UnitKind: (1, 3, 4, 5)
+AntiEffect: (30, 106)
+
+Effects:
+Damage: 1
+Power: -5
+Duration: 5
+
+Damage: 1
+Power: 7
+Duration: -1;
+
+/317
+Name: Scorn;
+Cost: 5
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 267
+UnitKind: (2, 4)
+AntiEffect: (107)
+
+Effects:
+Attack: 2
+Power: 4
+Duration: 3
+
+CounterAttack: 3
+Power: -2
+Duration: 3
+
+Defence: 4
+Power: -2
+Duration: 3
+
+RangedDefence: 5
+Power: -2
+Duration: 3;
+
+/318
+Name: Hero's Ballad;
+Cost: 15
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 0
+Area: 2
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 1
+Cumulative: 0
+Sound: 268
+UnitKind: (2, 4)
+AntiEffect: (107)
+
+Effects:
+Stamina: 11
+Power: 2
+Duration: -1
+
+Morale: 12
+Power: 4
+Duration: -1;
+
+/319
+Name: Rune Armor;
+Cost: 15
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 0
+Area: 0
+Radius: 1
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 269
+UnitKind: (2)
+AntiEffect: (30, 107, 121)
+
+Effects:
+Defence: 4
+Power: 2
+Duration: 4
+
+RangedDefence: 5
+Power: 2
+Duration: 4
+
+Damage_Weapon: 52
+Power: 3
+Duration: 4;
+
+/320
+Name: Rune Weapon;
+Cost: 10
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 0
+Area: 0
+Radius: 1
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 270
+UnitKind: (2)
+AntiEffect: (30, 107, 121)
+
+Effects:
+Attack: 2
+Power: 2
+Duration: 4
+
+CounterAttack: 3
+Power: 2
+Duration: 4
+
+RangedAttack: 8
+Power: 2
+Duration: 4;
+
+/321
+Name: Rune Amulet;
+Cost: 20
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 5
+PowerMod: 50
+DurationMod: 0
+Target: 0
+Area: 0
+Radius: 1
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 271
+UnitKind: (2)
+AntiEffect: (30, 107, 121)
+
+Effects:
+Resist: 6
+Power: 3
+Duration: 4;
+
+/322
+Name: Caustic Mixture;
+Cost: 6
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 49
+UnitKind: (0)
+AntiEffect: (121)
+
+Effects:
+Poison: 1
+Power: -3
+Duration: 4
+
+Defence: 4
+Power: -3
+Duration: 4
+
+Ranged_defence: 5
+Power: -3
+Duration: 4;
+
+/323
+Name: Chilling Touch;
+Cost: 16
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 20
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 273
+UnitKind: (2, 4)
+AntiEffect: (0)
+
+Effects:
+Immobile: 36
+Power: 1
+Duration: 3
+
+DontFight: 38
+Power: 1
+Duration: 3;
+
+/324
+Name: Necrosurge;
+Cost: 4
+LifeCost: 3
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 3
+Area: 1
+Radius: 1
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 212
+UnitKind: (1, 3, 4, 5)
+AntiEffect: (30, 106)
+
+Effects:
+Heal: 1
+Power: 3
+Duration: -1;
+
+/325
+Name: Word of the Lord;
+Cost: 15
+LifeCost: 0
+StamCost: 4
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 0
+Area: 2
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 274
+UnitKind: (1, 2, 3, 4, 5)
+AntiEffect: (30)
+
+Effects:
+Attack: 2
+Power: 2
+Duration: 4
+
+CounterAttack: 3
+Power: 2
+Duration: 4
+
+Defence: 4
+Power: 3
+Duration: 4
+
+RangedDefence: 5
+Power: 3
+Duration: 4
+
+Resist: 6
+Power: 4
+Duration: 4;
+
+/326
+Name: Mental Support;
+Cost: 12
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 200
+Target: 0
+Area: 2
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 1
+Sound: 275
+UnitKind: (2, 3, 4)
+AntiEffect: (0)
+
+Effects:
+SummonPower: 907
+Power: 2
+Duration: 5;
+
+/327
+Name: Mental Duel;
+Cost: 18
+LifeCost: 0
+StamCost: 6
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 25
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 276
+UnitKind: (2, 4)
+AntiEffect: (30, 100, 107, 192)
+
+Effects:
+Stamina: 11
+Power: -2
+Duration: 4
+
+SpellPower: 905
+Power: -2
+Duration: 4
+
+SpellDuration: 906
+Power: -2
+Duration: 4
+
+SummonPower: 907
+Power: -2
+Duration: 4
+
+UndeadPower: 909
+Power: -2
+Duration: 4
+
+Resist: 6
+Power: -2
+Duration: 4
+
+Ammo: 10
+Power: 1
+Duration: -1;
+
+/328
+Name: Mental Sermon;
+Cost: 30
+LifeCost: 0
+StamCost: 4
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 0
+Area: 2
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 1
+Sound: 277
+UnitKind: (2, 3, 4)
+AntiEffect: (30)
+
+Effects:
+Regen: 1
+Power: 4
+Duration: 3
+
+Stamina: 11
+Power: 2
+Duration: 3
+
+Smite_Evil: 61
+Power: 1
+Duration: 3;
+
+/329
+Name: Mental Resonance;
+Cost: 24
+LifeCost: 7
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 50
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 278
+UnitKind: (2, 3, 4, 5)
+AntiEffect: (30, 299)
+
+Effects:
+Stamina: 11
+Power: 2
+Duration: 3
+
+SpellPower: 905
+Power: 2
+Duration: 3
+
+SpellDuration: 906
+Power: 2
+Duration: 3
+
+SummonPower: 907
+Power: 4
+Duration: 3
+
+SpellPenetration: 908
+Power: 1
+Duration: 3
+
+AddTurn: 75
+Power: 1
+Duration: -1;
+
+/330
+Name: Act of Faith;
+Cost: 60
+LifeCost: 70
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 50
+Target: 0
+Area: 2
+Radius: 0
+Karma: 1
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 279
+UnitKind: (1, 2, 3, 4, 5)
+AntiEffect: (0)
+
+Effects:
+Reincarnation: 74
+Power: 1
+Duration: 2
+
+Painless: 13
+Power: 1
+Duration: 2
+
+Smite_Evil: 61
+Power: 4
+Duration: 2;
+
+/331
+Name: Summon Arisen;
+Cost: 50
+LifeCost: 0
+StamCost: 6
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 247
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1279
+Power: 1
+Duration: -1;
+
+/332
+Name: Summon Keeper;
+Cost: 45
+LifeCost: 0
+StamCost: 5
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 247
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1280
+Power: 1
+Duration: -1;
+
+/333
+Name: Mental Shadow;
+Cost: 55
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 0
+Area: 2
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 50
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 280
+UnitKind: (2, 4)
+AntiEffect: (30, 100, 107, 192)
+
+Effects:
+Stamina: 11
+Power: -2
+Duration: 4
+
+SpellPower: 905
+Power: -2
+Duration: 4
+
+SpellDuration: 906
+Power: -2
+Duration: 4
+
+SummonPower: 907
+Power: -2
+Duration: 4
+
+UndeadPower: 909
+Power: -2
+Duration: 4
+
+Resist: 6
+Power: -2
+Duration: 4
+
+Ammo: 10
+Power: 2
+Duration: -1;
+
+/334
+Name: Hunter's Net;
+Cost: 3
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 200
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 100
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 281
+UnitKind: (0)
+AntiEffect: (30, 201)
+
+Effects:
+Web: 47
+Power: 0
+Duration: 8;
+
+/335
+Name: Stone Statue;
+Cost: 6
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 200
+Target: 0
+Area: 0
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 283
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Immobile: 36
+Power: 1
+Duration: 3
+
+DontFight: 38
+Power: 1
+Duration: 3
+
+Defence: 4
+Power: 3
+Duration: 3
+
+RangedDefence: 5
+Power: 3
+Duration: 3
+
+Resist: 6
+Power: 3
+Duration: 3
+
+Heal: 1
+Power: 4
+Duration: 3;
+
+/336
+Name: Shadow Form;
+Cost: 16
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 0
+Area: 0
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 170
+UnitKind: (2, 4, 5)
+AntiEffect: (0)
+
+Effects:
+RangedAttack: 8
+Power: 6
+Duration: 3
+
+ShootingRange: 9
+Power: 2
+Duration: 3
+
+PierceResist: 196
+Power: 50
+Duration: 3
+
+AstralShoot: 213
+Power: 3
+Duration: 3
+
+Bodyless: 121
+Power: 1
+Duration: 3
+
+Bloodlust: 211
+Power: 2
+Duration: 3
+
+Resist: 223
+Power: -50
+Duration: 3
+
+MoraleChange: 222
+Power: -2
+Duration: 3
+
+NoHeal: 147
+Power: 1
+Duration: 3
+
+SpellDuration: 906
+Power: -1
+Duration: 3
+
+SpellVulnerable: 205
+Power: 198
+Duration: 3;
+
+/337
+Name: Alvari Rage;
+Cost: 6
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 284
+UnitKind: (0)
+AntiEffect: (30)
+
+Effects:
+Attack: 2
+Power: 2
+Duration: 3
+
+Speed: 7
+Power: 1
+Duration: 3
+
+RangedAttack: 8
+Power: 2
+Duration: 3
+
+BloodLust: 211
+Power: 2
+Duration: 3;
+
+/338
+Name: Dark Balance;
+Cost: 4
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 285
+UnitKind: (0)
+AntiEffect: (30)
+
+Effects:
+Resist: 223
+Power: 50
+Duration: 3
+
+MoraleChange: 222
+Power: 2
+Duration: 3;
+
+/339
+Name: Blood Shadow;
+Cost: 2
+LifeCost: 3
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 1
+Cumulative: 1
+Sound: 286
+UnitKind: (0)
+AntiEffect: (30, 107, 192)
+
+Effects:
+SpellPower: 905
+Power: 1
+Duration: 3
+
+SpellDuration: 906
+Power: 1
+Duration: 3
+
+Ammo: 10
+Power: 2
+Duration: -1;
+
+/340
+Name: Summon Slave;
+Cost: 5
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 200
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1187
+Power: 0
+Duration: -1;
+
+/341
+Name: Stimulus;
+Cost: 5
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 1
+Target: 3
+Area: 1
+Radius: 1
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 287
+UnitKind: (1, 2, 3, 4, 5)
+AntiEffect: (30, 299)
+
+Effects:
+Speed: 7
+Power: 1
+Duration: 1
+
+AddTurn: 75
+Power: 1
+Duration: -1
+
+Stamina: 11
+Power: -2
+Duration: -1;
+
+/342
+Name: Shadow Form;
+Cost: 16
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 0
+Area: 0
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 170
+UnitKind: (2, 4, 5)
+AntiEffect: (0)
+
+Effects:
+Forester: 32
+Power: 8
+Duration: 4
+
+Hiller: 33
+Power: 8
+Duration: 4
+
+Swamper: 34
+Power: 8
+Duration: 4
+
+MightyShoot: 157
+Power: 3
+Duration: 4
+
+Speed: 7
+Power: 1
+Duration: 4
+
+Stamina: 11
+Power: 2
+Duration: 4
+
+InjureShot: 197
+Power: 3
+Duration: 4
+
+Bodyless: 121
+Power: 1
+Duration: 4
+
+Bloodlust: 211
+Power: 2
+Duration: 4
+
+ShootingRange: 9
+Power: -2
+Duration: 4
+
+Resist: 223
+Power: -50
+Duration: 4
+
+MoraleChange: 222
+Power: -2
+Duration: 4
+
+SpellVulnerable: 205
+Power: 198
+Duration: 4;
+
+/343
+Name: Trembling Shadow;
+Cost: 8
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 50
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 288
+UnitKind: (2)
+AntiEffect: (30)
+
+Effects:
+ShootingAttack: 8
+Power: -6
+Duration: 6
+
+Morale: 12
+Power: -2
+Duration: -1;
+
+/344
+Name: Shadow Form;
+Cost: 24
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 0
+Area: 0
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 170
+UnitKind: (2, 4, 5)
+AntiEffect: (0)
+
+Effects:
+Crushing_blow: 59
+Power: 4
+Duration: 3
+
+Agility: 26
+Power: 1
+Duration: 3
+
+MagicStrike: 27
+Power: 1
+Duration: 3
+
+PierceResist: 196
+Power: 1
+Duration: 3
+
+Bodyless: 121
+Power: 1
+Duration: 3
+
+Bloodlust: 211
+Power: 2
+Duration: 3
+
+Preparation: 214
+Power: -1
+Duration: 3
+
+First_strike: 16
+Power: -1
+Duration: 3
+
+Resist: 223
+Power: -50
+Duration: 3
+
+MoraleChange: 222
+Power: -3
+Duration: 3
+
+NoRangedAttack: 146
+Power: 1
+Duration: 3
+
+SpellVulnerable: 205
+Power: 198
+Duration: 3;
+
+/345
+Name: Shadow Form;
+Cost: 24
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 0
+Area: 0
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 170
+UnitKind: (2, 4, 5)
+AntiEffect: (0)
+
+Effects:
+RestoreAmmo: 184
+Power: 1
+Duration: 3
+
+Stamina: 11
+Power: 3
+Duration: 3
+
+DoubleShot: 20
+Power: 5
+Duration: 3
+
+ShootingRange: 9
+Power: 1
+Duration: 3
+
+AstralShoot: 213
+Power: 3
+Duration: 3
+
+Bodyless: 121
+Power: 1
+Duration: 3
+
+Bloodlust: 211
+Power: 2
+Duration: 3
+
+NoCast: 150
+Power: 1
+Duration: 3
+
+Resist: 223
+Power: -50
+Duration: 3
+
+MoraleChange: 222
+Power: -2
+Duration: 3
+
+SpellVulnerable: 205
+Power: 198
+Duration: 3;
+
+/346
+Name: Shadow Dance;
+Cost: 24
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 0
+Area: 2
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 50
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 289
+UnitKind: (2, 4)
+AntiEffect: (30)
+
+Effects:
+ShootingAttack: 8
+Power: -6
+Duration: 3
+
+Morale: 12
+Power: -2
+Duration: -1;
+
+/347
+Name: Shadow Form;
+Cost: 32
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 0
+Area: 0
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 170
+UnitKind: (2, 4, 5)
+AntiEffect: (0)
+
+Effects:
+SpellDuration: 906
+Power: 2
+Duration: 3
+
+Summoning: 907
+Power: 6
+Duration: 3
+
+SpellPenetration: 908
+Power: 2
+Duration: 3
+
+RestoreAmmo: 184
+Power: 1
+Duration: 3
+
+Bodyless: 121
+Power: 1
+Duration: 3
+
+NoRangedAttack: 146
+Power: 1
+Duration: 3
+
+Resist: 223
+Power: -50
+Duration: 3
+
+SpellVulnerable: 205
+Power: 198
+Duration: 3;
+
+/348
+Name: Astral Schism;
+Cost: 15
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 50
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 25
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 290
+UnitKind: (0)
+AntiEffect: (30)
+
+Effects:
+Resist: 223
+Power: -50
+Duration: 4;
+
+/349
+Name: Darkness Surge;
+Cost: 4
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 1
+Sound: 291
+UnitKind: (2, 4)
+AntiEffect: (30)
+
+Effects:
+Life: 1
+Power: -4
+Duration: 3
+
+Stamina: 11
+Power: -2
+Duration: 3
+
+Morale: 222
+Power: -2
+Duration: 3;
+
+/350
+Name: Storm Shadow;
+Cost: 16
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 3
+Area: 1
+Radius: 1
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 1
+Sound: 292
+UnitKind: (2, 4)
+AntiEffect: (30)
+
+Effects:
+Life: 1
+Power: -4
+Duration: 3
+
+Stamina: 11
+Power: -2
+Duration: 3
+
+Morale: 222
+Power: -2
+Duration: 3;
+
+/351
+Name: Storm Wind;
+Cost: 12
+LifeCost: 0
+StamCost: 2
+ItemLevel: 4
+Level: 3
+PowerMod: 0
+DurationMod: 50
+Target: 3
+Area: 1
+Radius: 2
+Karma: 0
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 10
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 293
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Fly: 14
+Power: -99
+Duration: 5
+
+Float: 15
+Power: -99
+Duration: 5;
+
+/352
+Name: Abysmal Joke;
+Cost: 1
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 200
+DurationMod: 0
+Target: 0
+Area: 0
+Radius: 1
+Karma: -1
+Building: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 100
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 272
+UnitKind: (3)
+AntiEffect: (30)
+
+Effects:
+Damage: 1
+Power: 7
+Duration: -1
+
+Damage: 145
+Power: 1
+Duration: 3;
+
+/353
+Name: Abysmal Swallow;
+Cost: 4
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 1
+Cumulative: 0
+Sound: 282
+UnitKind: (0)
+AntiEffect: (30, 107, 192)
+
+Effects:
+Ammo: 10
+Power: 2
+Duration: -1;
+
+/354
+Name: Summon Mocker;
+Cost: 8
+LifeCost: 5
+StamCost: 2
+ItemLevel: 3
+Level: 1
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: -1
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1283
+Power: 0
+Duration: -1;
+
+/355
+Name: Healing Circle;
+Cost: 6
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 0
+Area: 0
+Radius: 1
+Karma: 2
+Building: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 1
+Sound: 295
+UnitKind: (2, 4)
+AntiEffect: (30)
+
+Effects:
+Heal: 1
+Power: 6
+Duration: -1
+
+Antidote: 93
+Power: 1
+Duration: -1;

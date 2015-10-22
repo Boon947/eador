@@ -1,0 +1,56 @@
+Quantity: 10
+
+/0
+Min: -30000
+Max: -50
+Text: Hatred;
+
+/1
+Min: -49
+Max: -40
+Text: Hostility;
+
+/2
+Min: -39
+Max: -30
+Text: Disgust;
+
+/3
+Min: -29
+Max: -20
+Text: Contempt;
+
+/4
+Min: -19
+Max: -10
+Text: Dislike;
+
+/5
+Min: -9
+Max: 9
+Text: Indifference;
+
+/6
+Min: 10
+Max: 19
+Text: Favor;
+
+/7
+Min: 20
+Max: 29
+Text: Sympathy;
+
+/8
+Min: 30
+Max: 39
+Text: Recognition;
+
+/9
+Min: 40
+Max: 49
+Text: Respect;
+
+/10
+Min: 50
+Max: 30000
+Text: Friendship;
