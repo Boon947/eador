@@ -314,7 +314,7 @@ The castle cannot have more than 3 buildings of this type.#
 
 80. Mages Guild
 #Type: Teaches spells of the second circle.
-Allows heroes to learn the spells of Lightning, Fireball, Flame Blade and buy Weighing Spell scrolls.
+Allows heroes to learn the spells of Lightning, Fireball, Flame Blade and buy Burden scrolls.
 Allows to perform the ritual of Creation.
 The castle cannot have more than 3 buildings of this type.#
 
@@ -642,7 +642,7 @@ Provides 2 contracts with the Vassal guard.#
 #Reduces the cost of hero resurrection and the performing of rituals by 30~. Increases the morale of the capital defenders by 4.#
 
 155. Monstrologists Guild
-#Allows the recruitment of Manticores, Hydras, Phoenixes and Ericubes, if their eggs are present in the treasury. Opens a Witcher's fortress in the capital. Increases income from swamp provinces by 1. Allows hiring the Monsters guard.#
+#Allows the recruitment of Manticores, Hydras, Phoenixes and Ericubes, if their eggs are present in the treasury. Opens a Witcher Citadel in the capital. Increases income from swamp provinces by 1. Allows hiring the Monsters guard.#
 
 156. Traveling Circus
 #Improves population mood in the capital by 2. Increases income from provinces with Arenas by 3. Improves population mood in these provinces by 1.#
@@ -902,7 +902,7 @@ Provides 3 contract with the Lord of the Undead guard.#
 #Allows hiring Goblin Shaman and Goblin Hunter scrolls (appears in the store.)#
 
 220. Swampland 
-#Allows hiring Ericubas scrolls (appears in the store) and use the eggs (if found). Allows you to hire Gang of goblins guards. Recritable in home provinces of goblins, where their troops are available for hire at normal prices.#
+#Allows hiring Ericubas scrolls (appears in the store) and use the eggs (if found). Allows you to hire Gang of goblins guards. Opens a goblin stronghold in the province, where troops may be recruited at normal prices.#
 
 221. Sorcerer's Chambers 
 #Allows hiring Goblin Sorcerers scrolls (appear in the store.) Allows you to build a Battlemage Garden in swamp provinces.#
@@ -914,7 +914,7 @@ Provides 3 contract with the Lord of the Undead guard.#
 #Allows hiring of Dreamwalkers and Warmongers scrolls (appears in the store).#
 
 224. Warcamp 
-#Allows hiring of Chieftains scrolls (appears in the store). Allows you to hire Great Horde guards. Recritable in home provinces of orcs, where their troops are available for hire at normal prices.#
+#Allows hiring of Chieftains scrolls (appears in the store). Allows you to hire Great Horde guards. Opens an orcish stronghold in the province, where troops may be recruited at normal prices.#
 
 225. Halfling's Suburb 
 #Allows the recruitment of Border Guard scrolls (appears in the store). Allows you to hire Border guard.
@@ -1042,7 +1042,7 @@ Lowers the population mood in the capital by 1.#
 Allows recruitment of the Black Band guard.#
 
 254. Scout Camp
-#Allows recruitment of the Nightshades guard.
+#Allows recruiting Night Shadows.
 Slows unrest growth in the capital.#
 
 255. Dark Path

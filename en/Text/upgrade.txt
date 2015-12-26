@@ -218,7 +218,7 @@
 #The unit becomes immune to poison.#
 
 /73 Hex
-#An enemy struck by this unit is affected by a curse, reducing its strength, armor and resistance by 1. The tile is active for 4 turns. The enemy's resistance can reduce its duration.#
+#When a unit is hit, a curse is unleashed, reducing strength, armor and resistance by 1 for several turns. Resistance reduces the duration of the curse.#
 
 /74 Steal Ammo
 #An ability allowing the unit to reduce the enemy's ammo in a melee attack.#
@@ -1166,8 +1166,8 @@ Does not affect the undead, mechanical units and heroes.#
 /387 Recuperation
 #The unit recovers 3 more stamina point while resting.#
 
-/388 Armor Weakening Spell
-#The unit is taught to cast the "Armor Weakening" spell, reducing defense and ranged defense of the target unit.#
+/388 Dissolve Armor Spell
+#The unit is taught to cast the Dissolve Armor spell, reducing defense and ranged defense of the target unit.#
 
 /389 Axii Sign
 #The unit is taught to cast Axii Sign, frightening the enemy.#

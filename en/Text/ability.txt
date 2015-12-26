@@ -152,7 +152,7 @@ No effect on incorporeal enemies.#
 #The unit is not affected by poison.#
 
 /43 Hex
-#An enemy struck by this unit is affected by a curse, reducing its strength, armor and resistance by 1. The curse remains active for several turns. An enemy's resistance reduces its duration.#
+#When a unit is hit, a curse is unleashed, reducing strength, armor and resistance by 1 for several turns. The curse remains active for several turns. An enemy's resistance reduces its duration.#
 
 /44 Steal Ammo
 #When attacking an enemy in melee, the unit reduces the target's ammunition reserve by %d. No effect on incorporeal enemies.#
@@ -278,7 +278,7 @@ This special ability allows the unit to attack all enemies in adjacent tiles at 
 #Increases the duration of spells cast by %d.#
 
 /83 Summoning Power
-#Increases the strength of units summoned by %d. If the summon creature is undead, the strength increases only by %d, and if it's a demon by %d.#
+#Increases the strength of most summoned units by %d. If the summoned creature is undead, strength only increases by %d, and by %d if it is a demon.#
 
 /84 Resistance Negation
 #Decreases the spell target's resistance by %d.#
@@ -1035,7 +1035,7 @@ Ammo units consumed by casting: %d.#
 in this state it loses Vigilance, reduces counterattack by 5 and resistance by half, and every turn it loses 3 morale points. On the other hand its attack is increased by 3 and its speed by 1, it recovers 2 stamina points each turn, it gets Bloodlust 2, becomes incorporeal and agile, and is able to apply a Round Attack.#
 
 /278 Shadow Form Priestess Spell
-#A Dark Priestess can cast  this Shadow Form spell to give it special powers:
+#A Dark Priestess can cast this Shadow Form spell to give it special powers:
 In this state her ranged attack is increased by 6 and her range by 2, and the enemy's resistance only partially protects against it. She becomes incorporeal, gets Bloodlust 2 and each shot reduces the enemy's resistance by 1.
 Her resistance is reduced by half and she loses 2 morale points each turn. Her spell duration is reduced by 1 and she loses her healing powers.#
 
@@ -1099,8 +1099,8 @@ Ammo units consumed by casting: %d.#
 #This unit can cast the Unrest spell. When the target dies while under this spell, it will rise again.
 Ammo units consumed by casting: %d.#
 
-/294 Armor Weakening Spell
-#This unit can cast the Armor Weakening spell, reducing defense and ranged defense of the target unit. Ignores spell resistance.
+/294 Dissolve Armor Spell
+#This unit can cast the Dissolve Armor spell, reducing defense and ranged defense of the target unit. Ignores spell resistance.
 Ammo units consumed by casting: %d.#
 
 /295 Axii Sign
@@ -1262,7 +1262,7 @@ This Rune gives a gnoll the ability Armorpiercing Shot.#
 This rune grants a gnoll the ability Magic Shot.#
 
 /332 Rune of Life
-#Number of marks: %d.
+#Number of runes: %d.
 Skilled warriors are rewarded with runes. These runes are scribed on little stones and are enchanted by gnoll wise men. Gnolls usually wear these around their necks, and the mightiest of gnolls have an entire necklace of runes.
 
 This rune increases a gnoll's health by 10, but decreases his attack and counterattack by 2.#
@@ -1273,7 +1273,7 @@ This rune increases a gnoll's health by 10, but decreases his attack and counter
 This rune reduces a gnoll's expenses by 100~, but increases negative effects from his Plunderer ability by 20.#
 
 /334 Rune of Rage
-#Number of marks: %d.
+#Number of runes: %d.
 Skilled warriors are rewarded with runes. These runes are scribed on little stones and are enchanted by gnoll wise men. Gnolls usually wear these around their necks, and the mightiest of gnolls have an entire necklace of runes.
 
 Gnolls, decorated with the Rune of Rage, are so prideful in battle, that they believe avoiding attacks is cowardly. Their madness knows no bounds.
@@ -1281,7 +1281,7 @@ Gnolls, decorated with the Rune of Rage, are so prideful in battle, that they be
 This rune increases a gnoll's attack by 3 and Berserker by 2, but also reduces his defense by 2.#
 
 /335 Rune of Thorns
-#Number of marks: %d.
+#Number of runes: %d.
 Skilled warriors are rewarded with runes. These runes are scribed on little stones and are enchanted by gnoll wise men. Gnolls usually wear these around their necks, and the mightiest of gnolls have an entire necklace of runes.
 
 Gnolls, decorated with the Rune of Thorns, can make retaliatory strikes with extreme force, while maintaining a strong defense, but such a focus on the counterstrike reduces his attacking capabilities.
@@ -1289,7 +1289,7 @@ Gnolls, decorated with the Rune of Thorns, can make retaliatory strikes with ext
 This rune increases a gnoll's counterattack by 4 and Parry by 2, but also reduces his attack by 4.#
 
 /336 Rune of Accuracy
-#Number of marks: %d.
+#Number of runes: %d.
 Skilled warriors are rewarded with runes. These runes are scribed on little stones and are enchanted by gnoll wise men. Gnolls usually wear these around their necks, and the mightiest of gnolls have an entire necklace of runes.
 
 Gnolls, decorated with the Rune of Accuracy, use heavier, more penetrating arrows, sacrificing defense as a result of effectively utilizing such powerful ammunition.
@@ -1297,7 +1297,7 @@ Gnolls, decorated with the Rune of Accuracy, use heavier, more penetrating arrow
 This rune increases a gnoll's ranged attack by 4, but reduces his ranged defense and ammo by 2.#
 
 /337 Rune of Destruction
-#Number of marks: %d.
+#Number of runes: %d.
 Skilled warriors are rewarded with runes. These runes are scribed on little stones and are enchanted by gnoll wise men. Gnolls usually wear these around their necks, and the mightiest of gnolls have an entire necklace of runes.
 
 Warriors such as this have less experience facing combatants in battle, making them more fearful in combat.
@@ -1446,7 +1446,7 @@ Ammo units consumed by casting: %d.#
 Ammo units consumed by casting: %d.#
 
 /380 Lord of Chaos
-#This unit is a powerful creature of Chaos. The following spells have no effect on the unit: Blind, Black Magic, Suicide, Chieftain Order, Cloud of Darkness, Disintegration, Armor Weakening, Demon Blood, Chaos Distortion, Chaos Surge, Hellfire and Blood Ritual.#
+#This unit is a powerful creature of Chaos. The following spells have no effect on the unit: Blind, Black Magic, Suicide, Chieftain Order, Cloud of Darkness, Disintegration, Dissolve Armor, Demon Blood, Chaos Distortion, Chaos Surge, Hellfire and Blood Ritual.#
 
 /381 Test of Faith Spell
 #This unit can cast the Test of Faith spell, temporarily restoring hit points and stamina to a friendly unit, granting it Smite Evil and instantly replenishing one ammo.
@@ -1665,7 +1665,7 @@ Using these arrows the unit expends 2 additional stamina points.#
 /439 Phantom Form
 #Oinor's staff causes its enemies to become partially illusory and thus unable to do any damage.#
 
-/440 Armor Weakened
+/440 Dissolve Armor
 #Garros' Blade makes the front of the enemy's armor thinner.#
 
 /441 Revival
@@ -1840,7 +1840,7 @@ Its resistance is reduced by half and it can no longer shoot.#
 Using these arrows the unit expends 2 additional stamina points.#
 
 /487 Beholder
-#You can raise a Beholder  from these eggs. In order to do that you need to build the Tower of Knowledge or Heart of the Night. Unit upkeep is 22 gems.#
+#You can raise a Beholder from these eggs. In order to do that you need to build the Tower of Knowledge or Heart of the Night. Unit upkeep is 22 gems.#
 
 /488 Dark Replenishment
 #Having killed an enemy in melee, the unit replenishes %d ammo.#

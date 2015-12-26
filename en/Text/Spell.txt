@@ -1328,7 +1328,7 @@ Has no effect on undead and mechanical units.#
 School: Shadow Magic.
 The target unit gains the ability to attack all enemies around it for an additional stamina points.
 Lasts 1 turn.
-Duration slightly  increases with the caster's Concentration.
+Duration slightly increases with the caster's Concentration.
 It works on giant creatures and units that already posses Round Attack.#
 
 201. Dark Depletion
@@ -1447,7 +1447,7 @@ Duration is slightly increases with the caster's Concentration.#
 217. Fetters
 #Circle 2.
 School: Necromancy.
-Freezes all creatures within 1 tile, while improving their armor by 1. An entangled target cannot fight. Lasts 2 turns (3 turns for targets with weak melee attack).
+Immobilizes all creatures within 1 tile, while improving their armor by 1. An entangled target cannot fight. Lasts 2 turns (3 turns for targets with weak melee attack).
 Does not affect enemies with resistance above 3.
 High Concentration of the caster increases the chance the target will be entangled for 3 turns.#
 
@@ -1496,7 +1496,7 @@ Increases attack and counter-attack of the target by 2 points, grants an armor-p
 Lasts 4 turns. Duration increases with the caster's Concentration.
 Does not affect the undead and most creatures with natural weapons.#
 
-224. Armor Weakened
+224. Dissolve Armor
 #Circle 1.
 School: Chaos Magic.
 The effect of this spell is cumulative.
@@ -1673,7 +1673,7 @@ A friendly unit needs to be sacrificed for this incantation.
 All friendly units get an additional turn in battle. The spell only affects those units who have already taken a turn.
 Does not affect undead, demons, mechanical and giant units, nor heroes.#
 
-249. Weighing
+249. Burden
 #Circle 2.
 School: Wizardry.
 Reduces the speed of all enemy units within 1 tile by 1 and causes them to lose 3 points of stamina. Lasts 3 turns.

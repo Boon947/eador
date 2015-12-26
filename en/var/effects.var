@@ -769,7 +769,7 @@ Spell: 223
 Numeric: 0
 
 /128
-Name: Armor Weakened;
+Name: Dissolve Armor;
 Ability: 0
 Spell: 224
 Numeric: 0
@@ -835,7 +835,7 @@ Spell: 245
 Numeric: 0
 
 /139
-Name: Weighing;
+Name: Burden;
 Ability: 0
 Spell: 249
 Numeric: 0

@@ -382,7 +382,7 @@
 127. Dark Steel
 #Blessing of Darkness gives the unit more deadly weapon. All attacks of the unit are increased by 2, a shot easily pierces the best armor, reduces the morale of enemies and puts a curse on them.#
 
-128. Armor Weakened
+128. Dissolve Armor
 #Reduces the unit's defense attributes by 3.#
 
 129. Cat's Reflexes
@@ -417,7 +417,7 @@ It loses 3 points of stamina and morale each turn.#
 138. Rune Shot
 #Ranged attack is increased by 4 and becomes magical.#
 
-139. Weighing
+139. Burden
 #Weight of the unit is greatly increased. Its speed is decreased by 1 and the unit loses 3 units of stamina each turn.#
 
 140. Containment

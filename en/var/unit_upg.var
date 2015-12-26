@@ -2960,7 +2960,7 @@ Upg Type: 21
 Quantity: 3;
 
 /388
-Name: Armor Weakened;
+Name: Dissolve Armor;
 Only Once: 1
 Need: (0)
 Upg Type: 2224

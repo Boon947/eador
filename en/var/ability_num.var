@@ -2059,7 +2059,7 @@ Effect: 0
 Percent: 0
 
 /294
-Name: Armor Weakening Spell;
+Name: Dissolve Armor Spell;
 Number: 2224
 Numeric: 1
 Effect: 0
@@ -3081,7 +3081,7 @@ Effect: 0
 Percent: 0
 
 /440
-Name: Armor Weakened;
+Name: Dissolve Armor;
 Number: 182
 Numeric: 0
 Effect: 0

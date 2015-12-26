@@ -8210,7 +8210,7 @@ Power: 2
 Duration: 4;
 
 /224
-Name: Armor Weakened;
+Name: Dissolve Armor;
 Cost: 4
 LifeCost: 0
 StamCost: 2
@@ -9166,7 +9166,7 @@ Power: 1
 Duration: -1;
 
 /249
-Name: Weighing;
+Name: Burden;
 Cost: 12
 LifeCost: 0
 StamCost: 3

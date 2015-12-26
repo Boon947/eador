@@ -200,8 +200,8 @@ Gem income +2. Population mood -1.#
 65. Spider Lair
 #No description#
 
-66. Witcher's Fortress
-#Well guarded witcher's monastery, you can hire Withers here. Locals are afraid of the witchers - not without reason, because to recruit Witcher they need their children.
+66. Witcher Citadel
+#Well guarded Witcher abode, where you can hire Witchers. Locals are afraid of the witchers - not without reason, because to recruit Witcher they need their children.
 Population growth -1. Population mood -1.#
 
 67. War School
@@ -349,12 +349,12 @@ Population mood -1.#
 113. Driller Workshop
 #Ratman building, erected with your permission. Here you can recruit Ratman-drillers.
 Unfortunately the Ratmen go way beyond the budget you permitted, and all the necessary materials and supplies are stolen from the locals.
-Reduce province gem income by 50~. Population mood -2.#
+Reduce province gold income by 50~. Population mood -2.#
 
 114. Temple of the Seekers
 #Ratman building, erected with your permission. Here you can recruit Warriors of Decay.
 Unfortunately the Ratmen go way beyond the budget you permitted, and all the necessary materials and supplies are stolen from the locals.
-Reduce province gem income by 50~. Population mood -2.#
+Reduce province gold income by 50~. Population mood -2.#
 
 115. Tower of Darkness
 #An old refuge of the Conclave, this tower now inspires fear - it is inhabited by mighty wizards who have chosen the path of darkness.#

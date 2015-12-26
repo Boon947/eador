@@ -217,7 +217,7 @@ Population mood +1. Increases population growth.#
 65. Spider Lair
 #No description#
 
-66. Witcher's Fortress
+66. Witcher Citadel
 #No description#
 
 67. War School
@@ -369,12 +369,12 @@ Income -10~. Population mood -1.#
 113. Driller Workshop
 #Ratman building, erected with your permission. Here you can recruit Ratman-drillers.
 Unfortunately the Ratmen go way beyond the budget you permitted, and all the necessary materials and supplies are stolen from the locals.
-Reduce province gem income by 50~. Population mood -2.#
+Reduce province gold income by 50~. Population mood -2.#
 
 114. Pests Clan Temple
 #Ratman building, erected with your permission. Here you can recruit Ratman warriors of the Pests Clan.
 Unfortunately the Ratmen go way beyond the budget you permitted, and all the necessary materials and supplies are stolen from the locals.
-Reduce province gem income by 50~. Population mood -2.#
+Reduce province gold income by 50~. Population mood -2.#
 
 115. Tower of Darkness
 #No description#
