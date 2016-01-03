@@ -1,4 +1,4 @@
-Quantity: 704
+Quantity: 670
 
 /0
 Name: Пусто;
@@ -175,7 +175,7 @@ Power: 3
 Area: 0
 
 Stamina: 11
-Power: 4
+Power: 3
 Area: 0
 
 CastStamina: 161
@@ -209,7 +209,7 @@ Power: 4
 Area: 0
 
 CastStamina: 161
-Power: 2
+Power: 1
 Area: 0;
 
 /8
@@ -532,7 +532,7 @@ Pic: 353
 Resourse: (2)
 Effects:
 
-Stun: 40
+Stun: 39
 Power: 1
 Area: 0
 
@@ -558,7 +558,7 @@ Pic: 354
 Resourse: (1)
 Effects:
 
-Stun: 40
+Stun: 39
 Power: 1
 Area: 0
 
@@ -584,7 +584,7 @@ Pic: 355
 Resourse: (1)
 Effects:
 
-Stun: 40
+Stun: 39
 Power: 2
 Area: 0
 
@@ -610,7 +610,7 @@ Pic: 356
 Resourse: (1)
 Effects:
 
-Stun: 40
+Stun: 39
 Power: 2
 Area: 0
 
@@ -710,7 +710,7 @@ CounterAttack: 3
 Power: 5
 Area: 0
 
-Bleeding: 208
+Bleeding: 155
 Power: 2
 Area: 0;
 
@@ -844,7 +844,7 @@ Ammo: 10
 Power: 4
 Area: 0
 
-Piercing_shot: 17
+Piercing_shot: 31
 Power: 1
 Area: 0;
 
@@ -874,7 +874,7 @@ Ammo: 10
 Power: 4
 Area: 0
 
-Piercing_shot: 17
+Piercing_shot: 31
 Power: 1
 Area: 0;
 
@@ -904,7 +904,7 @@ Ammo: 10
 Power: 4
 Area: 0
 
-Piercing_shot: 17
+Piercing_shot: 31
 Power: 1
 Area: 0;
 
@@ -934,7 +934,7 @@ Ammo: 10
 Power: 4
 Area: 0
 
-Piercing_shot: 17
+Piercing_shot: 31
 Power: 1
 Area: 0;
 
@@ -2929,7 +2929,7 @@ StealSoul: 57
 Power: 5
 Area: 0
 
-DarkReplenish: 215
+DarkReplenish: 123
 Power: 1
 Area: 0;
 
@@ -2959,7 +2959,7 @@ AimedStrike: 76
 Power: 3
 Area: 0
 
-Bleeding: 208
+Bleeding: 155
 Power: 2
 Area: 0;
 
@@ -2989,7 +2989,7 @@ PowerfulUndeads: 909
 Power: 1
 Area: 0
 
-Curse: 43
+Curse: 96
 Power: 5
 Area: 0;
 
@@ -3051,7 +3051,7 @@ AimedStrike: 76
 Power: 4
 Area: 0
 
-Enchanted: 151
+Enchanted: 61
 Power: 4
 Area: 0;
 
@@ -3078,7 +3078,7 @@ CounterAttack: 3
 Power: 5
 Area: 0
 
-DamageAura: 212
+DamageAura: 134
 Power: 3
 Area: 0
 
@@ -3086,7 +3086,7 @@ PierceResist: 196
 Power: 1
 Area: 0
 
-LayVulnerability: 79
+LayVulnerability: 179
 Power: 4
 Area: 0
 
@@ -3441,7 +3441,7 @@ CounterAttack: 3
 Power: 4
 Area: 0
 
-Vigilance: 214
+Vigilance: 126
 Power: 1
 Area: 0;
 
@@ -3468,7 +3468,7 @@ CounterAttack: 3
 Power: 5
 Area: 0
 
-SmiteEvil: 61
+SmiteEvil: 120
 Power: 1
 Area: 0;
 
@@ -3611,7 +3611,7 @@ CounterAttack: 3
 Power: 2
 Area: 0
 
-Cripple: 51
+Cripple: 127
 Power: 3
 Area: 0;
 
@@ -3751,11 +3751,11 @@ DamageArmor: 45
 Power: 3
 Area: 0
 
-DamageAura: 212
+DamageAura: 134
 Power: 3
 Area: 0
 
-Cripple: 51
+Cripple: 127
 Power: 3
 Area: 0;
 
@@ -3811,7 +3811,7 @@ CounterAttack: 3
 Power: 5
 Area: 0
 
-Piercing_strike: 39
+Piercing_strike: 30
 Power: 1
 Area: 0;
 
@@ -3841,7 +3841,7 @@ CounterAttack: 3
 Power: 6
 Area: 0
 
-Vigilance: 214
+Vigilance: 126
 Power: 1
 Area: 0;
 
@@ -3871,11 +3871,11 @@ First_strike: 16
 Power: 1
 Area: 0
 
-Piercing_strike: 39
+Piercing_strike: 30
 Power: 1
 Area: 0
 
-Bleeding: 208
+Bleeding: 155
 Power: 1
 Area: 0;
 
@@ -3910,7 +3910,7 @@ FestringWounds: 136
 Power: 1
 Area: 0
 
-LayDisease: 80
+LayDisease: 178
 Power: 3
 Area: 0;
 
@@ -3995,7 +3995,7 @@ Pic: 357
 Resourse: (2, 2)
 Effects:
 
-Stun: 40
+Stun: 39
 Power: 2
 Area: 0
 
@@ -4022,7 +4022,7 @@ Pic: 358
 Resourse: (1, 2)
 Effects:
 
-Stun: 40
+Stun: 39
 Power: 1
 Area: 0
 
@@ -4034,7 +4034,7 @@ CounterAttack: 3
 Power: 3
 Area: 0
 
-Cripple: 51
+Cripple: 127
 Power: 3
 Area: 0;
 
@@ -4053,7 +4053,7 @@ Pic: 359
 Resourse: (1)
 Effects:
 
-Stun: 40
+Stun: 39
 Power: 2
 Area: 0
 
@@ -4065,7 +4065,7 @@ CounterAttack: 3
 Power: 3
 Area: 0
 
-Smite_Good: 200
+Smite_Good: 121
 Power: 2
 Area: 0;
 
@@ -4084,7 +4084,7 @@ Pic: 360
 Resourse: (1)
 Effects:
 
-Stun: 40
+Stun: 39
 Power: 2
 Area: 0
 
@@ -4115,7 +4115,7 @@ Pic: 361
 Resourse: (7, 5)
 Effects:
 
-Stun: 40
+Stun: 39
 Power: 2
 Area: 0
 
@@ -4127,7 +4127,7 @@ CounterAttack: 3
 Power: 5
 Area: 0
 
-Undead_Hunter: 220
+Undead_Hunter: 202
 Power: 1
 Area: 0;
 
@@ -4146,7 +4146,7 @@ Pic: 362
 Resourse: (7, 9)
 Effects:
 
-Stun: 40
+Stun: 39
 Power: 2
 Area: 0
 
@@ -4177,7 +4177,7 @@ Pic: 363
 Resourse: (7, 8, 9)
 Effects:
 
-Stun: 40
+Stun: 39
 Power: 2
 Area: 0
 
@@ -4220,7 +4220,7 @@ Morale: 12
 Power: 1
 Area: 0
 
-UndeadHunter: 220
+UndeadHunter: 202
 Power: 1
 Area: 0;
 
@@ -4247,7 +4247,7 @@ CounterAttack: 3
 Power: 7
 Area: 0
 
-Demon_Hunter: 221
+Demon_Hunter: 203
 Power: 1
 Area: 0;
 
@@ -4336,7 +4336,7 @@ StealSoul: 57
 Power: 5
 Area: 0
 
-Smite_Good: 200
+Smite_Good: 121
 Power: 3
 Area: 0;
 
@@ -4471,7 +4471,7 @@ CounterAttack: 3
 Power: 2
 Area: 1
 
-BloodRage: 211
+BloodRage: 197
 Power: 1
 Area: 1;
 
@@ -4721,7 +4721,7 @@ Ammo: 10
 Power: 4
 Area: 0
 
-PowerfulShot: 157
+PowerfulShot: 79
 Power: 3
 Area: 0;
 
@@ -4910,7 +4910,7 @@ Ammo: 10
 Power: 3
 Area: 0
 
-Piercing_shot: 17
+Piercing_shot: 31
 Power: 1
 Area: 0
 
@@ -4944,7 +4944,7 @@ Ammo: 10
 Power: 4
 Area: 0
 
-Piercing_shot: 17
+Piercing_shot: 31
 Power: 1
 Area: 0
 
@@ -4979,7 +4979,7 @@ Ammo: 10
 Power: 4
 Area: 0
 
-Piercing_shot: 17
+Piercing_shot: 31
 Power: 1
 Area: 0
 
@@ -5013,7 +5013,7 @@ Ammo: 10
 Power: 6
 Area: 0
 
-Piercing_shot: 17
+Piercing_shot: 31
 Power: 1
 Area: 0;
 
@@ -5044,7 +5044,7 @@ Ammo: 10
 Power: 2
 Area: 0
 
-Piercing_shot: 17
+Piercing_shot: 31
 Power: 1
 Area: 0
 
@@ -5114,15 +5114,15 @@ Ammo: 10
 Power: 4
 Area: 0
 
-Piercing_shot: 17
+Piercing_shot: 31
 Power: 1
 Area: 0
 
-PoisonShot: 78
+PoisonShot: 42
 Power: 2
 Area: 0
 
-FearedShot: 169
+FearedShot: 51
 Power: 1
 Area: 0;
 
@@ -5142,7 +5142,7 @@ Resourse: (4)
 Effects:
 
 RangeAttack: 8
-Power: 7
+Power: 5
 Area: 0
 
 Range: 9
@@ -5150,14 +5150,14 @@ Power: 4
 Area: 0
 
 Ammo: 10
-Power: 6
+Power: 5
 Area: 0
 
 Magic_shot: 28
 Power: 1
 Area: 0
 
-Burning: 144
+Blasting: 147
 Power: 1
 Area: 0;
 
@@ -5193,6 +5193,10 @@ Power: 1
 Area: 0
 
 Magic_shot: 28
+Power: 1
+Area: 0
+
+Chain_lightning: 187
 Power: 1
 Area: 0;
 
@@ -5231,7 +5235,7 @@ CounterAttack: 3
 Power: 3
 Area: 0
 
-LayCurse: 43
+LayCurse: 96
 Power: 4
 Area: 0;
 
@@ -5332,12 +5336,12 @@ Ammo: 10
 Power: 3
 Area: 0
 
-Energy_control: 95
-Power: 4
-Area: 0
-
 Magic_shot: 28
 Power: 1
+Area: 0
+
+Energy_control: 95
+Power: 4
 Area: 0
 
 SpellPower: 905
@@ -5762,7 +5766,7 @@ RangedDefence: 5
 Power: 2
 Area: 0
 
-BurningFlesh: 154
+BurningFlesh: 146
 Power: 1
 Area: 0;
 
@@ -5873,7 +5877,7 @@ Ammo: 10
 Power: 3
 Area: 0
 
-Smite Evil: 61
+Smite Evil: 120
 Power: 1
 Area: 0;
 
@@ -5900,7 +5904,7 @@ Ammo: 10
 Power: 3
 Area: 0
 
-PoisonShot: 78
+PoisonShot: 42
 Power: 1
 Area: 0;
 
@@ -6008,7 +6012,7 @@ Ammo: 10
 Power: 4
 Area: 0
 
-BleedingShot: 209
+BleedingShot: 156
 Power: 2
 Area: 0;
 
@@ -6709,7 +6713,7 @@ Speed: 7
 Power: -1
 Area: 0
 
-Smite_Good: 200
+Smite_Good: 121
 Power: 1
 Area: 0;
 
@@ -6771,7 +6775,7 @@ Speed: 7
 Power: -1
 Area: 0
 
-BloodRage: 211
+BloodRage: 197
 Power: 3
 Area: 0;
 
@@ -8666,7 +8670,7 @@ PoisonAttack: 41
 Power: 2
 Area: 0
 
-PoisonShot: 78
+PoisonShot: 42
 Power: 2
 Area: 0;
 
@@ -8716,7 +8720,7 @@ Attack: 2
 Power: 1
 Area: 0
 
-Thorns: 210
+Thorns: 157
 Power: 1
 Area: 0;
 
@@ -9324,11 +9328,11 @@ Pic: 290
 Resourse: (5, 8, 8)
 Effects:
 
-PoisonImmunity: 42
+PoisonImmunity: 108
 Power: 1
 Area: 0
 
-FireFlesh: 154
+FireFlesh: 146
 Power: 1
 Area: 0;
 
@@ -10017,7 +10021,7 @@ FirstStrike: 16
 Power: 1
 Area: 0
 
-Smite Evil: 61
+Smite Evil: 120
 Power: 1
 Area: 0
 
@@ -10081,7 +10085,7 @@ Undertaker: 64
 Power: 19
 Area: 0
 
-PoisonShot: 78
+PoisonShot: 42
 Power: 2
 Area: 0;
 
@@ -10137,13 +10141,13 @@ Resist: 6
 Power: 2
 Area: 0
 
-Poisonous_Flesh: 96
-Power: 4
-Area: 0
- 
 Poison Strike: 41
 Power: 1
 Area: 1
+
+Poisonous_Flesh: 43
+Power: 4
+Area: 0
 
 Speed: 7
 Power: -1
@@ -10217,7 +10221,7 @@ Resist: 6
 Power: 2
 Area: 0
 
-Smite Evil: 61
+Smite Evil: 120
 Power: 2
 Area: 1;
 
@@ -10302,7 +10306,7 @@ GoldCost: 110
 GemCost: 0
 ShopLevel: 4
 Rarity: 8
-Building: 228
+Building: 0
 Pic: 412
 Resourse: (0)
 Effects:
@@ -10320,7 +10324,7 @@ GoldCost: 120
 GemCost: 0
 ShopLevel: 4
 Rarity: 8
-Building: 228
+Building: 0
 Pic: 413
 Resourse: (0)
 Effects:
@@ -10338,7 +10342,7 @@ GoldCost: 525
 GemCost: 105
 ShopLevel: 5
 Rarity: 8
-Building: 229
+Building: 0
 Pic: 414
 Resourse: (4, 5)
 Effects:
@@ -10356,7 +10360,7 @@ GoldCost: 900
 GemCost: 15
 ShopLevel: 6
 Rarity: 8
-Building: 230
+Building: 0
 Pic: 415
 Resourse: (5, 7)
 Effects:
@@ -10392,7 +10396,7 @@ GoldCost: 75
 GemCost: 0
 ShopLevel: 3
 Rarity: 8
-Building: 192
+Building: 0
 Pic: 417
 Resourse: (7)
 Effects:
@@ -10410,7 +10414,7 @@ GoldCost: 180
 GemCost: 0
 ShopLevel: 4
 Rarity: 8
-Building: 213
+Building: 0
 Pic: 418
 Resourse: (7)
 Effects:
@@ -10428,7 +10432,7 @@ GoldCost: 195
 GemCost: 0
 ShopLevel: 4
 Rarity: 8
-Building: 213
+Building: 0
 Pic: 419
 Resourse: (3, 7)
 Effects:
@@ -10446,7 +10450,7 @@ GoldCost: 450
 GemCost: 105
 ShopLevel: 5
 Rarity: 8
-Building: 214
+Building: 0
 Pic: 420
 Resourse: (4, 5, 5)
 Effects:
@@ -10464,7 +10468,7 @@ GoldCost: 675
 GemCost: 150
 ShopLevel: 6
 Rarity: 8
-Building: 215
+Building: 0
 Pic: 421
 Resourse: (7, 5, 9)
 Effects:
@@ -10536,7 +10540,7 @@ GoldCost: 450
 GemCost: 30
 ShopLevel: 5
 Rarity: 8
-Building: 217
+Building: 0
 Pic: 425
 Resourse: (7, 7)
 Effects:
@@ -10554,7 +10558,7 @@ GoldCost: 2250
 GemCost: 0
 ShopLevel: 6
 Rarity: 8
-Building: 218
+Building: 0
 Pic: 426
 Resourse: (7, 7, 6)
 Effects:
@@ -10590,7 +10594,7 @@ GoldCost: 105
 GemCost: 7
 ShopLevel: 3
 Rarity: 8
-Building: 219
+Building: 0
 Pic: 428
 Resourse: (4, 4)
 Effects:
@@ -10608,7 +10612,7 @@ GoldCost: 90
 GemCost: 0
 ShopLevel: 4
 Rarity: 8
-Building: 219
+Building: 0
 Pic: 429
 Resourse: (0)
 Effects:
@@ -10626,7 +10630,7 @@ GoldCost: 45
 GemCost: 0
 ShopLevel: 4
 Rarity: 8
-Building: 198
+Building: 0
 Pic: 430
 Resourse: (0)
 Effects:
@@ -10644,7 +10648,7 @@ GoldCost: 450
 GemCost: 105
 ShopLevel: 5
 Rarity: 8
-Building: 221
+Building: 0
 Pic: 431
 Resourse: (4, 5)
 Effects:
@@ -10662,7 +10666,7 @@ GoldCost: 1125
 GemCost: 30
 ShopLevel: 6
 Rarity: 8
-Building: 220
+Building: 0
 Pic: 432
 Resourse: (0)
 Effects:
@@ -10698,7 +10702,7 @@ GoldCost: 90
 GemCost: 0
 ShopLevel: 4
 Rarity: 8
-Building: 226
+Building: 0
 Pic: 434
 Resourse: (0)
 Effects:
@@ -10770,7 +10774,7 @@ GoldCost: 90
 GemCost: 0
 ShopLevel: 3
 Rarity: 8
-Building: 209
+Building: 0
 Pic: 438
 Resourse: (0)
 Effects:
@@ -10788,7 +10792,7 @@ GoldCost: 120
 GemCost: 0
 ShopLevel: 4
 Rarity: 8
-Building: 232
+Building: 0
 Pic: 439
 Resourse: (1, 1)
 Effects:
@@ -10806,7 +10810,7 @@ GoldCost: 150
 GemCost: 22
 ShopLevel: 4
 Rarity: 8
-Building: 232
+Building: 0
 Pic: 440
 Resourse: (4, 4)
 Effects:
@@ -10824,7 +10828,7 @@ GoldCost: 375
 GemCost: 6
 ShopLevel: 5
 Rarity: 8
-Building: 231
+Building: 0
 Pic: 441
 Resourse: (7, 7)
 Effects:
@@ -10842,7 +10846,7 @@ GoldCost: 1200
 GemCost: 180
 ShopLevel: 6
 Rarity: 8
-Building: 233
+Building: 0
 Pic: 442
 Resourse: (5, 5, 9)
 Effects:
@@ -10856,7 +10860,7 @@ Name: Орк;
 Slot: 0
 Class: 0
 Durability: 1
-GoldCost: 22
+GoldCost: 30
 GemCost: 0
 ShopLevel: 3
 Rarity: 8
@@ -10878,7 +10882,7 @@ GoldCost: 18
 GemCost: 0
 ShopLevel: 3
 Rarity: 8
-Building: 200
+Building: 0
 Pic: 444
 Resourse: (0)
 Effects:
@@ -10888,7 +10892,7 @@ Power: 100
 Area: 0;
 
 /442
-Name: Видящий-Сны;
+Name: Видящий-духов;
 Slot: 0
 Class: 0
 Durability: 1
@@ -10896,7 +10900,7 @@ GoldCost: 37
 GemCost: 15
 ShopLevel: 3
 Rarity: 8
-Building: 201
+Building: 0
 Pic: 445
 Resourse: (4)
 Effects:
@@ -10906,7 +10910,7 @@ Power: 109
 Area: 0;
 
 /443
-Name: Бугай;
+Name: Рубака;
 Slot: 0
 Class: 0
 Durability: 1
@@ -10914,7 +10918,7 @@ GoldCost: 75
 GemCost: 0
 ShopLevel: 4
 Rarity: 8
-Building: 222
+Building: 0
 Pic: 446
 Resourse: (1, 1)
 Effects:
@@ -10932,7 +10936,7 @@ GoldCost: 115
 GemCost: 0
 ShopLevel: 4
 Rarity: 8
-Building: 222
+Building: 0
 Pic: 447
 Resourse: (1, 1)
 Effects:
@@ -10942,17 +10946,17 @@ Power: 169
 Area: 0;
 
 /445
-Name: Бродящий-По-Снам;
+Name: Заклинатель духов;
 Slot: 0
 Class: 0
 Durability: 1
-GoldCost: 450
-GemCost: 105
+GoldCost: 300
+GemCost: 75
 ShopLevel: 5
 Rarity: 8
-Building: 223
+Building: 0
 Pic: 448
-Resourse: (5, 9)
+Resourse: (9)
 Effects:
 
 Summon: 84
@@ -10968,7 +10972,7 @@ GoldCost: 900
 GemCost: 0
 ShopLevel: 6
 Rarity: 8
-Building: 224
+Building: 0
 Pic: 449
 Resourse: (1, 1, 7)
 Effects:
@@ -11004,7 +11008,7 @@ GoldCost: 135
 GemCost: 15
 ShopLevel: 4
 Rarity: 8
-Building: 216
+Building: 0
 Pic: 451
 Resourse: (7)
 Effects:
@@ -11733,7 +11737,7 @@ Ammo: 10
 Power: 10
 Area: 0
 
-Piercing_shot: 17
+Piercing_shot: 31
 Power: 1
 Area: 0;
 
@@ -11823,7 +11827,7 @@ Ammo: 10
 Power: 10
 Area: 0
 
-Stuning_Shot: 156
+Stuning_Shot: 40
 Power: 2
 Area: 0;
 
@@ -12259,7 +12263,7 @@ FireImmunity: 101
 Power: 1
 Area: 1
 
-Armageddon: 219
+Armageddon: 201
 Power: 1
 Area: 0;
 
@@ -12277,7 +12281,7 @@ Pic: 499
 Resourse: (0)
 Effects:
 
-Cats_Paw: 110
+Cats_Paw: 260
 Power: 1
 Area: 0
 
@@ -12289,7 +12293,7 @@ Poison: 41
 Power: 2
 Area: 1
 
-PoisonShot: 78
+PoisonShot: 42
 Power: 1
 Area: 1;
 
@@ -12307,7 +12311,7 @@ Pic: 500
 Resourse: (0)
 Effects:
 
-Wirts_Leg: 111
+Wirts_Leg: 261
 Power: 1
 Area: 0
 
@@ -12337,7 +12341,7 @@ Pic: 501
 Resourse: (0)
 Effects:
 
-Horadrics_Cube: 112
+Horadrics_Cube: 262
 Power: 1
 Area: 0
 
@@ -12367,7 +12371,7 @@ Pic: 502
 Resourse: (0)
 Effects:
 
-Minerals: 113
+Minerals: 263
 Power: 1
 Area: 0
 
@@ -12397,7 +12401,7 @@ Pic: 503
 Resourse: (0)
 Effects:
 
-Lightsaber: 114
+Lightsaber: 264
 Power: 1
 Area: 0
 
@@ -12435,7 +12439,7 @@ Pic: 504
 Resourse: (0)
 Effects:
 
-Pip_Boy: 115
+Pip_Boy: 265
 Power: 1
 Area: 0
 
@@ -12473,7 +12477,7 @@ Pic: 505
 Resourse: (0)
 Effects:
 
-Space_Rangers: 185
+Space_Rangers: 266
 Power: 1
 Area: 0
 
@@ -12507,7 +12511,7 @@ Pic: 506
 Resourse: (0)
 Effects:
 
-Yuri_Ring: 186
+Yuri_Ring: 267
 Power: 1
 Area: 0
 
@@ -13047,7 +13051,7 @@ CauseFear: 50
 Power: 1
 Area: 0
 
-FearedShoot: 169
+FearedShoot: 51
 Power: 1
 Area: 0;
 
@@ -13077,7 +13081,7 @@ SpellPower: 905
 Power: 2
 Area: 0
 
-SmiteEvil: 61
+SmiteEvil: 120
 Power: 1
 Area: 0;
 
@@ -13125,7 +13129,7 @@ Pic: 529
 Resourse: (1, 2)
 Effects:
 
-Stun: 40
+Stun: 39
 Power: 1
 Area: 0
 
@@ -13137,7 +13141,7 @@ CounterAttack: 3
 Power: 3
 Area: 0
 
-ArmorPiercing: 39
+ArmorPiercing: 30
 Power: 1
 Area: 0;
 
@@ -13159,7 +13163,7 @@ Life: 1
 Power: 5
 Area: 0
 
-Stun: 40
+Stun: 39
 Power: 2
 Area: 0
 
@@ -13185,7 +13189,7 @@ Pic: 531
 Resourse: (1)
 Effects:
 
-Stun: 40
+Stun: 39
 Power: 2
 Area: 0
 
@@ -13211,7 +13215,7 @@ Pic: 532
 Resourse: (1, 2)
 Effects:
 
-Stun: 40
+Stun: 39
 Power: 2
 Area: 0
 
@@ -13223,7 +13227,7 @@ CounterAttack: 3
 Power: 3
 Area: 0
 
-Undead_Hunter: 220
+Undead_Hunter: 202
 Power: 1
 Area: 0;
 
@@ -13245,7 +13249,7 @@ Poison: 41
 Power: 2
 Area: 0
 
-PoisonShot: 78
+PoisonShot: 42
 Power: 2
 Area: 0
 
@@ -13253,7 +13257,7 @@ Poison: 41
 Power: 1
 Area: 1
 
-PoisonShot: 78
+PoisonShot: 42
 Power: 1
 Area: 1
 
@@ -13313,7 +13317,7 @@ CounterAttack: 3
 Power: 3
 Area: 0
 
-Thorns: 210
+Thorns: 157
 Power: 2
 Area: 0;
 
@@ -13399,7 +13403,7 @@ CounterAttack: 3
 Power: 3
 Area: 0
 
-ArmorPiercing: 39
+ArmorPiercing: 30
 Power: 1
 Area: 0;
 
@@ -13459,7 +13463,7 @@ PierceResist: 196
 Power: 1
 Area: 0
 
-LayVulnerability: 79
+LayVulnerability: 179
 Power: 4
 Area: 0;
 
@@ -13489,7 +13493,7 @@ AimedStrike: 76
 Power: 4
 Area: 0
 
-Cripple: 51
+Cripple: 127
 Power: 2
 Area: 0;
 
@@ -13571,11 +13575,11 @@ Speed: 7
 Power: -1
 Area: 0
 
-BurningFlesh: 154
+BurningFlesh: 146
 Power: 2
 Area: 0
 
-WebImmunity: 201
+WebImmunity: 105
 Power: 1
 Area: 0;
 
@@ -13661,7 +13665,7 @@ RangedDefence: 5
 Power: 1
 Area: 0
 
-BurningFlesh: 154
+BurningFlesh: 146
 Power: 1
 Area: 0;
 
@@ -13687,7 +13691,7 @@ RangedDefence: 5
 Power: 3
 Area: 0
 
-BurningFlesh: 154
+BurningFlesh: 146
 Power: 2
 Area: 0
 
@@ -13721,7 +13725,7 @@ Ammo: 10
 Power: 5
 Area: 0
 
-Piercing_shot: 17
+Piercing_shot: 31
 Power: 1
 Area: 0;
 
@@ -13773,7 +13777,7 @@ Ammo: 10
 Power: 5
 Area: 0
 
-CripplingArrows: 197
+CripplingArrows: 128
 Power: 2
 Area: 0;
 
@@ -13856,111 +13860,159 @@ Power: 2
 Area: 0;
 
 /552
-Name: Дух драколича;
-Slot: 0
-Class: 0
-Durability: 1
-GoldCost: 5500
-GemCost: 550
-ShopLevel: 6
-Rarity: 5
-Building: 212
+Name: Верёвочная праща;
+Slot: 100
+Class: 3
+Durability: 40
+GoldCost: 40
+GemCost: 0
+ShopLevel: 1
+Rarity: 1
+Building: 1
 Pic: 555
 Resourse: (0)
 Effects:
 
-Summon: 84
-Power: 75
+RangedAttack: 8
+Power: 5
+Area: 0
+
+ShootingRange: 9
+Power: 4
+Area: 0
+
+Ammo: 10
+Power: 6
+Area: 0
+
+Gather_ammo: 23
+Power: 4
+Area: 0
+
+Stunning_shot: 40
+Power: 2
 Area: 0;
 
 /553
-Name: Святая реликвия;
-Slot: 0
-Class: 0
-Durability: 1
-GoldCost: 4400
-GemCost: 440
-ShopLevel: 6
-Rarity: 5
-Building: 234
+Name: Кожаная праща;
+Slot: 100
+Class: 3
+Durability: 40
+GoldCost: 130
+GemCost: 0
+ShopLevel: 3
+Rarity: 1
+Building: 142
 Pic: 556
 Resourse: (0)
 Effects:
 
-Summon: 84
-Power: 157
+RangedAttack: 8
+Power: 7
+Area: 0
+
+ShootingRange: 9
+Power: 4
+Area: 0
+
+Ammo: 10
+Power: 7
+Area: 0
+
+Gather_ammo: 23
+Power: 4
+Area: 0
+
+Stunning_shot: 40
+Power: 3
 Area: 0;
 
 /554
-Name: Проклятая реликвия;
-Slot: 0
-Class: 0
-Durability: 1
-GoldCost: 4400
-GemCost: 440
-ShopLevel: 6
-Rarity: 5
-Building: 235
+Name: Цепная праща;
+Slot: 100
+Class: 3
+Durability: 40
+GoldCost: 300
+GemCost: 0
+ShopLevel: 4
+Rarity: 2
+Building: 0
 Pic: 557
-Resourse: (0)
+Resourse: (1)
 Effects:
 
-Summon: 84
-Power: 160
+RangedAttack: 8
+Power: 9
+Area: 0
+
+ShootingRange: 9
+Power: 4
+Area: 0
+
+Ammo: 10
+Power: 10
+Area: 0
+
+Armor_pierce: 31
+Power: 4
+Area: 0
+
+Stunning_shot: 40
+Power: 4
 Area: 0;
 
 /555
-Name: Элементалистка;
+Name: Пограничник;
 Slot: 0
 Class: 0
 Durability: 1
-GoldCost: 3300
-GemCost: 330
-ShopLevel: 6
-Rarity: 5
-Building: 236
+GoldCost: 90
+GemCost: 0
+ShopLevel: 4
+Rarity: 8
+Building: 0
 Pic: 558
 Resourse: (0)
 Effects:
 
 Summon: 84
-Power: 161
+Power: 261
 Area: 0;
 
 /556
-Name: Волшебный дракон;
+Name: Бард;
 Slot: 0
 Class: 0
 Durability: 1
-GoldCost: 5000
-GemCost: 500
-ShopLevel: 6
-Rarity: 5
-Building: 237
+GoldCost: 55
+GemCost: 0
+ShopLevel: 3
+Rarity: 8
+Building: 0
 Pic: 559
 Resourse: (0)
 Effects:
 
 Summon: 84
-Power: 162
+Power: 262
 Area: 0;
 
 /557
-Name: Псион;
-Slot: 0
+Name: Лента посла;
+Slot: 6
 Class: 0
-Durability: 1
-GoldCost: 3300
-GemCost: 330
-ShopLevel: 6
-Rarity: 5
-Building: 238
-Pic: 560
-Resourse: (0)
+Durability: 10
+GoldCost: 150
+GemCost: 0
+ShopLevel: 3
+Rarity: 3
+Building: 0
+Pic: 638
+Resourse: (4)
 Effects:
 
-Summon: 84
-Power: 164
+Ambassador: 979
+Power: 1
 Area: 0;
 
 /558
@@ -13990,7 +14042,7 @@ GoldCost: 150
 GemCost: 30
 ShopLevel: 4
 Rarity: 8
-Building: 253
+Building: 0
 Pic: 562
 Resourse: (1, 4)
 Effects:
@@ -14008,7 +14060,7 @@ GoldCost: 600
 GemCost: 90
 ShopLevel: 5
 Rarity: 8
-Building: 258
+Building: 0
 Pic: 563
 Resourse: (4, 5, 5)
 Effects:
@@ -14026,7 +14078,7 @@ GoldCost: 750
 GemCost: 150
 ShopLevel: 6
 Rarity: 8
-Building: 259
+Building: 0
 Pic: 564
 Resourse: (5, 5, 9)
 Effects:
@@ -14044,7 +14096,7 @@ GoldCost: 145
 GemCost: 8
 ShopLevel: 4
 Rarity: 8
-Building: 252
+Building: 0
 Pic: 565
 Resourse: (1, 2, 4)
 Effects:
@@ -14062,7 +14114,7 @@ GoldCost: 220
 GemCost: 25
 ShopLevel: 4
 Rarity: 8
-Building: 256
+Building: 0
 Pic: 566
 Resourse: (2, 4)
 Effects:
@@ -14080,7 +14132,7 @@ GoldCost: 540
 GemCost: 35
 ShopLevel: 5
 Rarity: 8
-Building: 260
+Building: 0
 Pic: 567
 Resourse: (1, 4, 7)
 Effects:
@@ -14116,7 +14168,7 @@ GoldCost: 300
 GemCost: 22
 ShopLevel: 3
 Rarity: 3
-Building: 257
+Building: 0
 Pic: 569
 Resourse: (4, 4)
 Effects:
@@ -14134,7 +14186,7 @@ GoldCost: 750
 GemCost: 15
 ShopLevel: 5
 Rarity: 8
-Building: 217
+Building: 0
 Pic: 570
 Resourse: (1, 1, 7)
 Effects:
@@ -14144,21 +14196,21 @@ Power: 184
 Area: 0;
 
 /568
-Name: Иллитид;
+Name: Гномья пушка;
 Slot: 0
 Class: 0
 Durability: 1
-GoldCost: 1100
-GemCost: 230
+GoldCost: 2775
+GemCost: 0
 ShopLevel: 6
-Rarity: 8
+Rarity: 5
 Building: 0
 Pic: 571
-Resourse: (5, 9, 9)
+Resourse: (2, 7, 7)
 Effects:
 
 Summon: 84
-Power: 185
+Power: 79
 Area: 0;
 
 /569
@@ -14219,7 +14271,7 @@ RangedDefence: 5
 Power: 4
 Area: 0
 
-Bleeding: 208
+Bleeding: 155
 Power: 1
 Area: 0;
 
@@ -14297,7 +14349,7 @@ CauseFear: 50
 Power: 1
 Area: 0
 
-BloodRage: 211
+BloodRage: 197
 Power: 2
 Area: 0;
 
@@ -14315,7 +14367,7 @@ Pic: 578
 Resourse: (7, 7, 8)
 Effects:
 
-BloodRage: 211
+BloodRage: 197
 Power: 5
 Area: 0
 
@@ -14357,7 +14409,7 @@ DrainLife: 68
 Power: 25
 Area: 0
 
-RangeDrain: 104
+RangeDrain: 168
 Power: 25
 Area: 0;
 
@@ -14391,7 +14443,7 @@ CauseFear: 50
 Power: 2
 Area: 0
 
-BloodRage: 211
+BloodRage: 197
 Power: 4
 Area: 0;
 
@@ -14421,7 +14473,7 @@ RangedDefence: 5
 Power: 1
 Area: 0
 
-RestAmmo: 215
+RestAmmo: 123
 Power: 1
 Area: 0
 
@@ -14451,7 +14503,7 @@ RangedAttack: 994
 Power: 3
 Area: 0
 
-AstralShot: 213
+AstralShot: 135
 Power: 3
 Area: 0
 
@@ -14459,7 +14511,7 @@ DrainLife: 68
 Power: 25
 Area: 0
 
-RangeDrain: 104
+RangeDrain: 168
 Power: 25
 Area: 0;
 
@@ -14493,7 +14545,7 @@ FirstStrike: 16
 Power: 1
 Area: 0
 
-ArmorPiercing: 39
+ArmorPiercing: 30
 Power: 1
 Area: 0;
 
@@ -14563,7 +14615,7 @@ Reincarnate: 97
 Power: 1
 Area: 0
 
-SmiteEvil: 61
+SmiteEvil: 120
 Power: 3
 Area: 0;
 
@@ -14687,7 +14739,7 @@ Life: 1
 Power: 8
 Area: 0
 
-Smite_Evil: 61
+Smite_Evil: 120
 Power: 1
 Area: 0
 
@@ -14729,7 +14781,7 @@ CounterAttack: 3
 Power: 3
 Area: 1
 
-Smite Evil: 61
+Smite Evil: 120
 Power: 2
 Area: 1;
 
@@ -14811,7 +14863,7 @@ CounterAttack: 3
 Power: 1
 Area: 0
 
-SmiteEvil: 61
+SmiteEvil: 120
 Power: 1
 Area: 0
 
@@ -14885,7 +14937,7 @@ CounterAttack: 3
 Power: 2
 Area: 0
 
-PoisonImmunity: 42
+PoisonImmunity: 108
 Power: 1
 Area: 0;
 
@@ -15063,7 +15115,7 @@ FestringWounds: 136
 Power: 1
 Area: 0
 
-PoisonImmunity: 42
+PoisonImmunity: 108
 Power: 1
 Area: 0
 
@@ -15119,7 +15171,7 @@ Undertaker: 64
 Power: 216
 Area: 0
 
-Smite_Good: 200
+Smite_Good: 121
 Power: 2
 Area: 1
 
@@ -15149,7 +15201,7 @@ Life: 1
 Power: 5
 Area: 0
 
-LayDisease: 80
+LayDisease: 178
 Power: 3
 Area: 0
 
@@ -15183,7 +15235,7 @@ RangedDefence: 5
 Power: 1
 Area: 0
 
-MindImmunity: 100
+MindImmunity: 104
 Power: 1
 Area: 0;
 
@@ -15217,7 +15269,7 @@ MagicShot: 28
 Power: 1
 Area: 0
 
-RangeDrain: 104
+RangeDrain: 168
 Power: 25
 Area: 0
 
@@ -15338,7 +15390,7 @@ Power: 4
 Area: 1;
 
 /613
-Name: Подстрекатель;
+Name: Бугай;
 Slot: 0
 Class: 0
 Durability: 1
@@ -15346,7 +15398,7 @@ GoldCost: 450
 GemCost: 5
 ShopLevel: 6
 Rarity: 8
-Building: 223
+Building: 0
 Pic: 616
 Resourse: (1, 1, 3)
 Effects:
@@ -15537,7 +15589,7 @@ RangedDefence: 5
 Power: 4
 Area: 0
 
-Thorns: 210
+Thorns: 157
 Power: 2
 Area: 0;
 
@@ -15559,11 +15611,11 @@ Life: 1
 Power: 5
 Area: 0
 
-Bleeding: 208
+Bleeding: 155
 Power: 1
 Area: 0
 
-RangeBleeding: 209
+RangeBleeding: 156
 Power: 1
 Area: 0
 
@@ -15589,7 +15641,7 @@ Life: 1
 Power: 3
 Area: 0
 
-Curse: 43
+Curse: 96
 Power: 4
 Area: 0;
 
@@ -15679,7 +15731,7 @@ Pic: 630
 Resourse: (5)
 Effects:
 
-FearedShoot: 169
+FearedShoot: 51
 Power: 1
 Area: 0;
 
@@ -15758,11 +15810,11 @@ Power: 1
 Area: 1;
 
 /631
-Name: Гнолл;
+Name: Воин Стаи;
 Slot: 0
 Class: 0
 Durability: 1
-GoldCost: 38
+GoldCost: 30
 GemCost: 0
 ShopLevel: 3
 Rarity: 8
@@ -15776,17 +15828,17 @@ Power: 202
 Area: 0;
 
 /632
-Name: Гнолл-сержант;
+Name: Мучитель;
 Slot: 0
 Class: 0
 Durability: 1
-GoldCost: 120
+GoldCost: 75
 GemCost: 0
 ShopLevel: 4
 Rarity: 8
-Building: 265
+Building: 0
 Pic: 635
-Resourse: (1, 1)
+Resourse: (2, 3)
 Effects:
 
 Summon: 84
@@ -15794,17 +15846,17 @@ Power: 203
 Area: 0;
 
 /633
-Name: Гнолл-стрелок;
+Name: Тиран;
 Slot: 0
 Class: 0
 Durability: 1
-GoldCost: 460
-GemCost: 35
+GoldCost: 300
+GemCost: 0
 ShopLevel: 5
 Rarity: 8
-Building: 266
+Building: 0
 Pic: 636
-Resourse: (1, 2, 2)
+Resourse: (1, 4)
 Effects:
 
 Summon: 84
@@ -15812,474 +15864,332 @@ Power: 204
 Area: 0;
 
 /634
-Name: Осадная машина;
+Name: Пожиратель;
 Slot: 0
 Class: 0
 Durability: 1
-GoldCost: 800
+GoldCost: 750
 GemCost: 0
-ShopLevel: 5
-Rarity: 4
-Building: 267
-Pic: 637
-Resourse: (1, 2, 7)
-Effects:
-
-Summon: 84
-Power: 205
-Area: 0;
-
-/635
-Name: Гнолл-вожак;
-Slot: 0
-Class: 0
-Durability: 1
-GoldCost: 760
-GemCost: 35
 ShopLevel: 6
 Rarity: 8
-Building: 268
-Pic: 638
-Resourse: (1, 5, 7)
+Building: 0
+Pic: 637
+Resourse: (7, 5)
 Effects:
 
 Summon: 84
 Power: 206
 Area: 0;
 
+/635
+Name: Бушующее пламя;
+Slot: 1
+Class: 4
+Durability: 70
+GoldCost: 2100
+GemCost: 140
+ShopLevel: 6
+Rarity: 6
+Building: 0
+Pic: 669
+Resourse: (5, 8, 9)
+Effects:
+
+RangeAttack: 8
+Power: 12
+Area: 0
+
+Range: 9
+Power: 6
+Area: 0
+
+Ammo: 10
+Power: 5
+Area: 0
+
+Energy_control: 95
+Power: 3
+Area: 1
+
+Magic_shot: 28
+Power: 1
+Area: 0
+
+Blasting: 147
+Power: 1
+Area: 0;
+
 /636
-Name: "Душеловка";
+Name: Ослик;
 Slot: 0
-Class: 10
+Class: 0
 Durability: 1
-GoldCost: 35
-GemCost: 7
-ShopLevel: 1
+GoldCost: 55
+GemCost: 0
+ShopLevel: 3
 Rarity: 8
-Building: 22
-Pic: 75
+Building: 0
+Pic: 560
 Resourse: (0)
 Effects:
 
-Spell: 83
-Power: 283
+Summon: 84
+Power: 260
 Area: 0;
 
 /637
-Name: "Всплеск Хаоса";
-Slot: 0
-Class: 10
-Durability: 1
-GoldCost: 45
-GemCost: 9
-ShopLevel: 2
-Rarity: 8
-Building: 24
-Pic: 75
-Resourse: (0)
+Name: Ведьмино зеркало;
+Slot: 2
+Class: 4
+Durability: 30
+GoldCost: 100
+GemCost: 30
+ShopLevel: 4
+Rarity: 3
+Building: 0
+Pic: 670
+Resourse: (5, 5)
 Effects:
 
-Spell: 83
-Power: 238
+Resist: 6
+Power: 3
+Area: 0
+
+Curse: 96
+Power: 5
+Area: 0
+
+LayVulnerability: 179
+Power: 4
 Area: 0;
 
 /638
-Name: "Бесстрашие";
+Name: Воспрявший Светоч;
 Slot: 0
-Class: 10
+Class: 0
 Durability: 1
-GoldCost: 25
-GemCost: 5
-ShopLevel: 1
+GoldCost: 360
+GemCost: 37
+ShopLevel: 5
 Rarity: 8
-Building: 21
-Pic: 75
-Resourse: (0)
+Building: 0
+Pic: 671
+Resourse: (1, 5)
 Effects:
 
-Spell: 83
-Power: 244
+Summon: 84
+Power: 279
 Area: 0;
 
 /639
-Name: "Левитация";
+Name: Хранитель памяти;
 Slot: 0
-Class: 10
+Class: 0
 Durability: 1
-GoldCost: 35
-GemCost: 7
-ShopLevel: 2
+GoldCost: 270
+GemCost: 70
+ShopLevel: 5
 Rarity: 8
-Building: 19
-Pic: 75
-Resourse: (0)
+Building: 0
+Pic: 672
+Resourse: (5, 5)
 Effects:
 
-Spell: 83
-Power: 188
+Summon: 84
+Power: 280
 Area: 0;
 
 /640
-Name: "Кошачьи рефлексы";
+Name: Вечный ментор;
 Slot: 0
-Class: 10
+Class: 0
 Durability: 1
-GoldCost: 35
-GemCost: 7
-ShopLevel: 2
+GoldCost: 450
+GemCost: 115
+ShopLevel: 6
 Rarity: 8
-Building: 23
-Pic: 75
-Resourse: (0)
+Building: 0
+Pic: 673
+Resourse: (5, 8)
 Effects:
 
-Spell: 83
-Power: 225
+Summon: 84
+Power: 281
 Area: 0;
 
 /641
-Name: "Призвать мефита";
+Name: Травница;
 Slot: 0
-Class: 10
+Class: 0
 Durability: 1
-GoldCost: 35
+GoldCost: 40
 GemCost: 7
-ShopLevel: 1
+ShopLevel: 3
 Rarity: 8
-Building: 20
-Pic: 75
+Building: 0
+Pic: 668
 Resourse: (0)
 Effects:
 
-Spell: 83
-Power: 285
+Summon: 84
+Power: 259
 Area: 0;
 
 /642
-Name: "Обессиливание";
+Name: Алхимик;
 Slot: 0
-Class: 10
+Class: 0
 Durability: 1
-GoldCost: 65
-GemCost: 13
-ShopLevel: 1
+GoldCost: 150
+GemCost: 45
+ShopLevel: 4
 Rarity: 8
-Building: 82
-Pic: 76
-Resourse: (4)
+Building: 0
+Pic: 665
+Resourse: (1, 4)
 Effects:
 
-Spell: 83
-Power: 246
+Summon: 84
+Power: 255
 Area: 0;
 
 /643
-Name: "Кровь демонов";
+Name: Подгорный страж;
 Slot: 0
-Class: 10
+Class: 0
 Durability: 1
-GoldCost: 75
-GemCost: 15
-ShopLevel: 2
+GoldCost: 190
+GemCost: 0
+ShopLevel: 4
 Rarity: 8
-Building: 84
-Pic: 76
-Resourse: (4)
+Building: 0
+Pic: 666
+Resourse: (1, 2)
 Effects:
 
-Spell: 83
-Power: 232
+Summon: 84
+Power: 256
 Area: 0;
 
 /644
-Name: "Боевой клич";
+Name: Колосс;
 Slot: 0
-Class: 10
+Class: 0
 Durability: 1
-GoldCost: 65
-GemCost: 13
-ShopLevel: 1
+GoldCost: 375
+GemCost: 150
+ShopLevel: 6
 Rarity: 8
-Building: 85
-Pic: 76
-Resourse: (4)
+Building: 0
+Pic: 667
+Resourse: (7, 7, 6)
 Effects:
 
-Spell: 83
-Power: 247
+Summon: 84
+Power: 258
 Area: 0;
 
 /645
-Name: "Утяжеление";
-Slot: 0
-Class: 10
-Durability: 1
-GoldCost: 75
-GemCost: 15
-ShopLevel: 1
-Rarity: 8
-Building: 80
-Pic: 76
-Resourse: (4)
+Name: Серебряный кинжал;
+Slot: 2
+Class: 0
+Durability: 25
+GoldCost: 25
+GemCost: 5
+ShopLevel: 2
+Rarity: 1
+Building: 33
+Pic: 662
+Resourse: (1)
 Effects:
 
-Spell: 83
-Power: 249
+Parry: 53
+Power: 1
+Area: 0
+
+CounterAttack: 3
+Power: 1
+Area: 0
+
+Smite_Evil: 120
+Power: 1
+Area: 0
+
+AimedStrike: 76
+Power: 1
 Area: 0;
 
 /646
-Name: "Героизм";
-Slot: 0
-Class: 10
-Durability: 1
-GoldCost: 85
-GemCost: 17
-ShopLevel: 2
-Rarity: 8
-Building: 81
-Pic: 76
-Resourse: (4)
+Name: Волшебные стрелы;
+Slot: 2
+Class: 3
+Durability: 20
+GoldCost: 50
+GemCost: 40
+ShopLevel: 4
+Rarity: 3
+Building: 103
+Pic: 663
+Resourse: (5)
 Effects:
 
-Spell: 83
-Power: 220
+RangedAttack: 993
+Power: 2
+Area: 0
+
+Ammo: 10
+Power: 2
+Area: 0
+
+Magic_shot: 28
+Power: 1
 Area: 0;
 
 /647
-Name: "Каменная корка";
-Slot: 0
-Class: 10
-Durability: 1
-GoldCost: 75
-GemCost: 15
-ShopLevel: 2
-Rarity: 8
-Building: 83
-Pic: 76
-Resourse: (4)
+Name: Серебряный топорик;
+Slot: 1
+Class: 2
+Durability: 50
+GoldCost: 110
+GemCost: 10
+ShopLevel: 3
+Rarity: 1
+Building: 33
+Pic: 664
+Resourse: (1)
 Effects:
 
-Spell: 83
-Power: 263
+Attack: 2
+Power: 2
+Area: 0
+
+CounterAttack: 3
+Power: 1
+Area: 0
+
+Smite Evil: 120
+Power: 3
 Area: 0;
 
 /648
-Name: "Вечное рабство";
+Name: Ликан;
 Slot: 0
-Class: 10
+Class: 0
 Durability: 1
-GoldCost: 175
-GemCost: 35
+GoldCost: 225
+GemCost: 110
 ShopLevel: 3
 Rarity: 8
-Building: 137
-Pic: 74
-Resourse: (5)
+Building: 0
+Pic: 661
+Resourse: (5, 5, 9)
 Effects:
 
-Spell: 83
-Power: 213
+Summon: 84
+Power: 217
 Area: 0;
 
 /649
-Name: "Суицид";
-Slot: 0
-Class: 10
-Durability: 1
-GoldCost: 175
-GemCost: 35
-ShopLevel: 3
-Rarity: 8
-Building: 133
-Pic: 74
-Resourse: (5)
-Effects:
-
-Spell: 83
-Power: 88
-Area: 0;
-
-/650
-Name: "Ярость небес";
-Slot: 0
-Class: 10
-Durability: 1
-GoldCost: 165
-GemCost: 33
-ShopLevel: 3
-Rarity: 8
-Building: 135
-Pic: 74
-Resourse: (5)
-Effects:
-
-Spell: 83
-Power: 316
-Area: 0;
-
-/651
-Name: "Чудесное оружие";
-Slot: 0
-Class: 10
-Durability: 1
-GoldCost: 175
-GemCost: 35
-ShopLevel: 3
-Rarity: 8
-Building: 134
-Pic: 74
-Resourse: (5)
-Effects:
-
-Spell: 83
-Power: 202
-Area: 0;
-
-/652
-Name: "Безумие";
-Slot: 0
-Class: 10
-Durability: 1
-GoldCost: 175
-GemCost: 35
-ShopLevel: 3
-Rarity: 8
-Building: 136
-Pic: 74
-Resourse: (5)
-Effects:
-
-Spell: 83
-Power: 108
-Area: 0;
-
-/653
-Name: "Гейзер";
-Slot: 0
-Class: 10
-Durability: 1
-GoldCost: 175
-GemCost: 35
-ShopLevel: 3
-Rarity: 8
-Building: 132
-Pic: 74
-Resourse: (5)
-Effects:
-
-Spell: 83
-Power: 116
-Area: 0;
-
-/654
-Name: "Массовое осушение";
-Slot: 0
-Class: 10
-Durability: 1
-GoldCost: 455
-GemCost: 91
-ShopLevel: 4
-Rarity: 8
-Building: 174
-Pic: 77
-Resourse: (8)
-Effects:
-
-Spell: 83
-Power: 231
-Area: 0;
-
-/655
-Name: "Высшая сила";
-Slot: 0
-Class: 10
-Durability: 1
-GoldCost: 445
-GemCost: 89
-ShopLevel: 3
-Rarity: 8
-Building: 173
-Pic: 77
-Resourse: (8)
-Effects:
-
-Spell: 83
-Power: 219
-Area: 0;
-
-/656
-Name: "Вызов Владыки бездны";
-Slot: 0
-Class: 10
-Durability: 1
-GoldCost: 445
-GemCost: 89
-ShopLevel: 3
-Rarity: 8
-Building: 176
-Pic: 77
-Resourse: (8)
-Effects:
-
-Spell: 83
-Power: 172
-Area: 0;
-
-/657
-Name: "Стихийная неуязвимость";
-Slot: 0
-Class: 10
-Durability: 1
-GoldCost: 445
-GemCost: 89
-ShopLevel: 3
-Rarity: 8
-Building: 175
-Pic: 77
-Resourse: (8)
-Effects:
-
-Spell: 83
-Power: 266
-Area: 0;
-
-/658
-Name: "Сила титана";
-Slot: 0
-Class: 10
-Durability: 1
-GoldCost: 445
-GemCost: 89
-ShopLevel: 3
-Rarity: 8
-Building: 177
-Pic: 77
-Resourse: (8)
-Effects:
-
-Spell: 83
-Power: 209
-Area: 0;
-
-/659
-Name: "Помутнение разума";
-Slot: 0
-Class: 10
-Durability: 1
-GoldCost: 455
-GemCost: 91
-ShopLevel: 4
-Rarity: 8
-Building: 178
-Pic: 77
-Resourse: (8)
-Effects:
-
-Spell: 83
-Power: 267
-Area: 0;
-
-/660
 Name: Мастеровой;
 Slot: 0
 Class: 0
@@ -16297,7 +16207,7 @@ Summon: 84
 Power: 209
 Area: 0;
 
-/661
+/650
 Name: Дуэлянт;
 Slot: 0
 Class: 0
@@ -16315,7 +16225,7 @@ Summon: 84
 Power: 158
 Area: 0;
 
-/662
+/651
 Name: Икар;
 Slot: 0
 Class: 0
@@ -16333,7 +16243,7 @@ Summon: 84
 Power: 212
 Area: 0;
 
-/663
+/652
 Name: Светоч;
 Slot: 0
 Class: 0
@@ -16342,7 +16252,7 @@ GoldCost: 90
 GemCost: 18
 ShopLevel: 4
 Rarity: 8
-Building: 273
+Building: 0
 Pic: 642
 Resourse: (1)
 Effects:
@@ -16351,7 +16261,7 @@ Summon: 84
 Power: 213
 Area: 0;
 
-/664
+/653
 Name: Ловчий;
 Slot: 0
 Class: 0
@@ -16360,7 +16270,7 @@ GoldCost: 115
 GemCost: 15
 ShopLevel: 4
 Rarity: 8
-Building: 273
+Building: 0
 Pic: 643
 Resourse: (2)
 Effects:
@@ -16369,7 +16279,7 @@ Summon: 84
 Power: 214
 Area: 0;
 
-/665
+/654
 Name: Свидетель;
 Slot: 0
 Class: 0
@@ -16378,7 +16288,7 @@ GoldCost: 65
 GemCost: 19
 ShopLevel: 4
 Rarity: 8
-Building: 274
+Building: 0
 Pic: 644
 Resourse: (5)
 Effects:
@@ -16387,7 +16297,7 @@ Summon: 84
 Power: 215
 Area: 0;
 
-/666
+/655
 Name: Старый посох;
 Slot: 100
 Class: 4
@@ -16425,7 +16335,7 @@ SpellCost: 983
 Power: 15
 Area: 0;
 
-/667
+/656
 Name: Чёрный единорог;
 Slot: 0
 Class: 0
@@ -16443,7 +16353,7 @@ Summon: 84
 Power: 220
 Area: 0;
 
-/668
+/657
 Name: Крысолюд;
 Slot: 0
 Class: 0
@@ -16461,7 +16371,7 @@ Summon: 84
 Power: 221
 Area: 0;
 
-/669
+/658
 Name: Гигантская крыса;
 Slot: 0
 Class: 0
@@ -16479,7 +16389,7 @@ Summon: 84
 Power: 222
 Area: 0;
 
-/670
+/659
 Name: Воин Распада;
 Slot: 0
 Class: 0
@@ -16488,7 +16398,7 @@ GoldCost: 30
 GemCost: 10
 ShopLevel: 3
 Rarity: 8
-Building: 279
+Building: 0
 Pic: 649
 Resourse: (1, 4)
 Effects:
@@ -16497,7 +16407,7 @@ Summon: 84
 Power: 223
 Area: 0;
 
-/671
+/660
 Name: Буровик;
 Slot: 0
 Class: 0
@@ -16506,7 +16416,7 @@ GoldCost: 40
 GemCost: 5
 ShopLevel: 3
 Rarity: 8
-Building: 278
+Building: 0
 Pic: 650
 Resourse: (1, 2)
 Effects:
@@ -16515,7 +16425,7 @@ Summon: 84
 Power: 224
 Area: 0;
 
-/672
+/661
 Name: Коготь тени;
 Slot: 0
 Class: 0
@@ -16533,7 +16443,7 @@ Summon: 84
 Power: 225
 Area: 0;
 
-/673
+/662
 Name: Чумострел;
 Slot: 0
 Class: 0
@@ -16542,7 +16452,7 @@ GoldCost: 75
 GemCost: 30
 ShopLevel: 4
 Rarity: 8
-Building: 281
+Building: 0
 Pic: 652
 Resourse: (1, 4, 5)
 Effects:
@@ -16551,7 +16461,7 @@ Summon: 84
 Power: 226
 Area: 0;
 
-/674
+/663
 Name: Молниевая пушка;
 Slot: 0
 Class: 0
@@ -16560,7 +16470,7 @@ GoldCost: 125
 GemCost: 15
 ShopLevel: 4
 Rarity: 8
-Building: 280
+Building: 0
 Pic: 653
 Resourse: (1, 5, 7)
 Effects:
@@ -16569,7 +16479,7 @@ Summon: 84
 Power: 227
 Area: 0;
 
-/675
+/664
 Name: Штурм-крыс;
 Slot: 0
 Class: 0
@@ -16587,7 +16497,7 @@ Summon: 84
 Power: 228
 Area: 0;
 
-/676
+/665
 Name: Крысоед;
 Slot: 0
 Class: 0
@@ -16605,7 +16515,7 @@ Summon: 84
 Power: 229
 Area: 0;
 
-/677
+/666
 Name: Смертокрыс;
 Slot: 0
 Class: 0
@@ -16614,7 +16524,7 @@ GoldCost: 350
 GemCost: 25
 ShopLevel: 5
 Rarity: 8
-Building: 282
+Building: 0
 Pic: 656
 Resourse: (3, 9)
 Effects:
@@ -16623,7 +16533,7 @@ Summon: 84
 Power: 230
 Area: 0;
 
-/678
+/667
 Name: Свежеватель;
 Slot: 0
 Class: 0
@@ -16641,7 +16551,7 @@ Summon: 84
 Power: 231
 Area: 0;
 
-/679
+/668
 Name: Повелитель Распада;
 Slot: 0
 Class: 0
@@ -16659,7 +16569,7 @@ Summon: 84
 Power: 232
 Area: 0;
 
-/680
+/669
 Name: Крысиный король;
 Slot: 0
 Class: 0
@@ -16668,7 +16578,7 @@ GoldCost: 500
 GemCost: 50
 ShopLevel: 6
 Rarity: 8
-Building: 283
+Building: 0
 Pic: 659
 Resourse: (5, 9, 9)
 Effects:
@@ -16677,7 +16587,7 @@ Summon: 84
 Power: 233
 Area: 0;
 
-/681
+/670
 Name: Великий крысс;
 Slot: 0
 Class: 0
@@ -16693,522 +16603,4 @@ Effects:
 
 Summon: 84
 Power: 234
-Area: 0;
-
-/682
-Name: Ликан;
-Slot: 0
-Class: 0
-Durability: 1
-GoldCost: 225
-GemCost: 110
-ShopLevel: 3
-Rarity: 8
-Building: 0
-Pic: 661
-Resourse: (5, 5, 9)
-Effects:
-
-Summon: 84
-Power: 217
-Area: 0;
-
-/683
-Name: Серебряный кинжал;
-Slot: 2
-Class: 0
-Durability: 25
-GoldCost: 25
-GemCost: 5
-ShopLevel: 2
-Rarity: 1
-Building: 33
-Pic: 662
-Resourse: (1)
-Effects:
-
-Parry: 53
-Power: 1
-Area: 0
-
-CounterAttack: 3
-Power: 1
-Area: 0
-
-Smite_Evil: 61
-Power: 1
-Area: 0
-
-AimedStrike: 76
-Power: 1
-Area: 0;
-
-/684
-Name: Волшебные стрелы;
-Slot: 2
-Class: 3
-Durability: 20
-GoldCost: 50
-GemCost: 40
-ShopLevel: 4
-Rarity: 3
-Building: 103
-Pic: 663
-Resourse: (5)
-Effects:
-
-RangedAttack: 993
-Power: 2
-Area: 0
-
-Ammo: 10
-Power: 2
-Area: 0
-
-Magic_shot: 28
-Power: 1
-Area: 0;
-
-/685
-Name: Серебряный топорик;
-Slot: 1
-Class: 2
-Durability: 50
-GoldCost: 110
-GemCost: 10
-ShopLevel: 3
-Rarity: 1
-Building: 33
-Pic: 664
-Resourse: (1)
-Effects:
-
-Attack: 2
-Power: 2
-Area: 0
-
-CounterAttack: 3
-Power: 1
-Area: 0
-
-Smite Evil: 61
-Power: 3
-Area: 0;
-
-/686
-Name: Алхимик;
-Slot: 0
-Class: 0
-Durability: 1
-GoldCost: 150
-GemCost: 45
-ShopLevel: 4
-Rarity: 8
-Building: 216
-Pic: 665
-Resourse: (1, 4)
-Effects:
-
-Summon: 84
-Power: 255
-Area: 0;
-
-/687
-Name: Подгорный страж;
-Slot: 0
-Class: 0
-Durability: 1
-GoldCost: 190
-GemCost: 0
-ShopLevel: 4
-Rarity: 8
-Building: 216
-Pic: 666
-Resourse: (1, 2)
-Effects:
-
-Summon: 84
-Power: 256
-Area: 0;
-
-/688
-Name: Колосс;
-Slot: 0
-Class: 0
-Durability: 1
-GoldCost: 375
-GemCost: 150
-ShopLevel: 6
-Rarity: 8
-Building: 218
-Pic: 667
-Resourse: (7, 7, 6)
-Effects:
-
-Summon: 84
-Power: 258
-Area: 0;
-
-/689
-Name: Травница;
-Slot: 0
-Class: 0
-Durability: 1
-GoldCost: 40
-GemCost: 7
-ShopLevel: 3
-Rarity: 8
-Building: 203
-Pic: 668
-Resourse: (0)
-Effects:
-
-Summon: 84
-Power: 259
-Area: 0;
-
-/690
-Name: "Шок";
-Slot: 0
-Class: 10
-Durability: 1
-GoldCost: 25
-GemCost: 5
-ShopLevel: 1
-Rarity: 8
-Building: 33
-Pic: 75
-Resourse: (0)
-Effects:
-
-Spell: 83
-Power: 300
-Area: 0;
-
-/691
-Name: "Вечный свет";
-Slot: 0
-Class: 10
-Durability: 1
-GoldCost: 65
-GemCost: 13
-ShopLevel: 1
-Rarity: 8
-Building: 60
-Pic: 76
-Resourse: (4)
-Effects:
-
-Spell: 83
-Power: 315
-Area: 0;
-
-/692
-Name: Бушующий огонь;
-Slot: 1
-Class: 4
-Durability: 70
-GoldCost: 2100
-GemCost: 140
-ShopLevel: 6
-Rarity: 6
-Building: 0
-Pic: 669
-Resourse: (5, 8, 9)
-Effects:
-
-RangeAttack: 8
-Power: 15
-Area: 0
-
-Range: 9
-Power: 6
-Area: 0
-
-Ammo: 10
-Power: 7
-Area: 0
-
-Energy_control: 95
-Power: 3
-Area: 1
-
-FireArrows: 144
-Power: 3
-Area: 0
-
-Magic_shot: 28
-Power: 1
-Area: 0;
-
-/693
-Name: Ослик;
-Slot: 0
-Class: 0
-Durability: 1
-GoldCost: 55
-GemCost: 0
-ShopLevel: 3
-Rarity: 8
-Building: 204
-Pic: 670
-Resourse: (0)
-Effects:
-
-Summon: 84
-Power: 260
-Area: 0;
-
-/694
-Name: Ведьмино зеркало;
-Slot: 2
-Class: 4
-Durability: 30
-GoldCost: 100
-GemCost: 30
-ShopLevel: 4
-Rarity: 3
-Building: 0
-Pic: 671
-Resourse: (5, 5)
-Effects:
-
-Resist: 6
-Power: 3
-Area: 0
-
-Curse: 43
-Power: 5
-Area: 0
-
-LayVulnerability: 79
-Power: 4
-Area: 0;
-
-/695
-Name: Воспрявший Светоч;
-Slot: 0
-Class: 0
-Durability: 1
-GoldCost: 360
-GemCost: 37
-ShopLevel: 5
-Rarity: 8
-Building: 277
-Pic: 672
-Resourse: (1, 5)
-Effects:
-
-Summon: 84
-Power: 279
-Area: 0;
-
-/696
-Name: Хранитель памяти;
-Slot: 0
-Class: 0
-Durability: 1
-GoldCost: 270
-GemCost: 70
-ShopLevel: 5
-Rarity: 8
-Building: 276
-Pic: 673
-Resourse: (5, 5)
-Effects:
-
-Summon: 84
-Power: 280
-Area: 0;
-
-/697
-Name: Вечный ментор;
-Slot: 0
-Class: 0
-Durability: 1
-GoldCost: 450
-GemCost: 115
-ShopLevel: 6
-Rarity: 8
-Building: 275
-Pic: 674
-Resourse: (5, 8)
-Effects:
-
-Summon: 84
-Power: 281
-Area: 0;
-
-/698
-Name: Лента посла;
-Slot: 6
-Class: 0
-Durability: 10
-GoldCost: 150
-GemCost: 0
-ShopLevel: 3
-Rarity: 3
-Building: 0
-Pic: 675
-Resourse: (4)
-Effects:
-
-Ambassador: 979
-Power: 1
-Area: 0;
-
-/699
-Name: Пограничник;
-Slot: 0
-Class: 0
-Durability: 1
-GoldCost: 90
-GemCost: 0
-ShopLevel: 4
-Rarity: 8
-Building: 225
-Pic: 676
-Resourse: (0)
-Effects:
-
-Summon: 84
-Power: 261
-Area: 0;
-
-/700
-Name: Бард;
-Slot: 0
-Class: 0
-Durability: 1
-GoldCost: 55
-GemCost: 0
-ShopLevel: 3
-Rarity: 8
-Building: 204
-Pic: 677
-Resourse: (0)
-Effects:
-
-Summon: 84
-Power: 262
-Area: 0;
-
-/701
-Name: Гномья пушка;
-Slot: 0
-Class: 0
-Durability: 1
-GoldCost: 2775
-GemCost: 0
-ShopLevel: 6
-Rarity: 5
-Building: 0
-Pic: 678
-Resourse: (2, 7, 7)
-Effects:
-
-Summon: 84
-Power: 79
-Area: 0;
-
-/702
-Name: Верёвочная праща;
-Slot: 100
-Class: 3
-Durability: 40
-GoldCost: 40
-GemCost: 0
-ShopLevel: 1
-Rarity: 1
-Building: 1
-Pic: 679
-Resourse: (0)
-Effects:
-
-RangedAttack: 8
-Power: 5
-Area: 0
-
-ShootingRange: 9
-Power: 4
-Area: 0
-
-Ammo: 10
-Power: 6
-Area: 0
-
-Gather_ammo: 23
-Power: 4
-Area: 0
-
-Stunning_shot: 156
-Power: 2
-Area: 0;
-
-/703
-Name: Кожаная праща;
-Slot: 100
-Class: 3
-Durability: 40
-GoldCost: 130
-GemCost: 0
-ShopLevel: 3
-Rarity: 1
-Building: 142
-Pic: 680
-Resourse: (0)
-Effects:
-
-RangedAttack: 8
-Power: 7
-Area: 0
-
-ShootingRange: 9
-Power: 4
-Area: 0
-
-Ammo: 10
-Power: 7
-Area: 0
-
-Gather_ammo: 23
-Power: 4
-Area: 0
-
-Stunning_shot: 156
-Power: 3
-Area: 0;
-
-/704
-Name: Цепная праща;
-Slot: 100
-Class: 3
-Durability: 40
-GoldCost: 300
-GemCost: 0
-ShopLevel: 4
-Rarity: 2
-Building: 0
-Pic: 681
-Resourse: (1)
-Effects:
-
-RangedAttack: 8
-Power: 9
-Area: 0
-
-ShootingRange: 9
-Power: 4
-Area: 0
-
-Ammo: 10
-Power: 10
-Area: 0
-
-Armor_pierce: 17
-Power: 4
-Area: 0
-
-Stunning_shot: 156
-Power: 4
 Area: 0;

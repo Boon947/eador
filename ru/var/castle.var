@@ -1,4 +1,4 @@
-Quantity: 306
+Quantity: 308
 
 /0 Фон
 Layer: 0
@@ -2881,17 +2881,17 @@ Yplace: 760
 Buildings: (265)
 Antibuildings: (268)
 
-/288 Шатёр охотников
+/288 Палатка шамана
 Layer: 2
 Opacity: 0
-X: 348
+X: 347
 Y: 602
 Group: 0
 Yplace: 740
 Buildings: (266)
-Antibuildings: (0)
+Antibuildings: (284)
 
-/289 Рабский барак
+/289 Шатёр вожака
 Layer: 2
 Opacity: 0
 X: 417
@@ -3069,4 +3069,24 @@ Y: 346
 Group: 0
 Yplace: 435
 Buildings: (250)
+Antibuildings: (0)
+
+/307 Палатка колдуна
+Layer: 2
+Opacity: 0
+X: 347
+Y: 602
+Group: 0
+Yplace: 740
+Buildings: (284)
+Antibuildings: (285)
+
+/308 Палатка чародея
+Layer: 2
+Opacity: 0
+X: 347
+Y: 602
+Group: 0
+Yplace: 740
+Buildings: (285)
 Antibuildings: (0)

@@ -3489,7 +3489,7 @@ Hill: 1
 Swamp: 1
 Desert: 1
 Tundra: 1
-Resource: (1, 5, 7)
+Resource: (1, 1, 2)
 Units:
 Unit1: 18, 12, 4
 Unit2: 259, 10, 2
@@ -3643,7 +3643,7 @@ GoldPayment: 5
 GemPayment: 0
 Building: 265
 Initiative: 3
-Karma: -1
+Karma: -3
 LootPoss: 10
 LootNum: 1
 NoDismiss: 1
@@ -3685,7 +3685,7 @@ GoldPayment: 15
 GemPayment: 0
 Building: 268
 Initiative: 4
-Karma: -1
+Karma: -3
 LootPoss: 10
 LootNum: 1
 NoDismiss: 1

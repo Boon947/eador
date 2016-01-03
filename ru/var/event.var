@@ -12915,11 +12915,54 @@ Power: 4
 Param1: 2
 Param2: 0;
 
-/454 (Гиблые болота - люди из провинции) - не используется
-Type: 0
-Possibility: 0
+/454 Буки - рейд
+Type: -1
+Possibility: 5
 Dialog: 710
 DlgParam1: 1
+DlgParam2: 0
+Attacker: 162
+EventWin: 0
+EventLose: 455
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer2: 0;
+
+*Effects*:
+Index: 8
+Power: 27
+Param1: 0
+Param2: 0
+
+Index: 8
+Power: 11
+Param1: 0
+Param2: 0
+
+Index: 8
+Power: 3
+Param1: 200
+Param2: 0
+
+Index: 8
+Power: 13
+Param1: 1
+Param2: 0
+
+Index: 8
+Power: 11
+Param1: 0
+Param2: 0;
+
+/455 Буки - рейд (грабёж)
+Type: 0
+Possibility: 0
+Dialog: 1076
+DlgParam1: 2
 DlgParam2: 0
 Attacker: 0
 EventWin: 0
@@ -12930,66 +12973,28 @@ Karma: 0
 
 *Answers*:
 Answer1: 0
-Answer2: 833;
+Answer2: 834;
 
 *Effects*:
-Index: 3
-Power: -5
-Param1: 5
+Gold: 1
+Power: -200
+Param1: 100
 Param2: 0
 
-Index: 2
+Attitude: 2
 Power: -1
 Param1: 0
+Param2: 0
+
+Population: 3
+Power: -25
+Param1: 10
 Param2: 0
 
 Index: 4
 Power: 2
 Param1: 1
 Param2: 100;
-
-/455 (Гиблые болота - жители, удача) - не используется
-Type: 0
-Possibility: 0
-Dialog: 1076
-DlgParam1: 0
-DlgParam2: 0
-Attacker: 0
-EventWin: 0
-EventLose: 0
-EventDraw: 0
-ProvType: 0
-Karma: 0
-
-*Answers*:
-Answer1: 0
-Answer2: 833;
-
-*Effects*:
-Index: 4
-Power: 2
-Param1: 1
-Param2: 100
-
-Index: 1
-Power: 200
-Param1: 100
-Param2: 0
-
-Index: 14
-Power: 2
-Param1: 1
-Param2: 0
-
-Index: 14
-Power: 3
-Param1: 2
-Param2: 0
-
-Index: 14
-Power: 4
-Param1: 2
-Param2: 0;
 
 /456 (Гиблые болота - вознаграждение)
 Type: 0
@@ -23929,7 +23934,7 @@ Power: 1
 Param1: 0
 Param2: 0;
 
-/834 Гиблые болота, жители, вилка - не используется
+/834 Буки - рейд (грабёж, помощь)
 Type: 0
 Possibility: 0
 Dialog: 0
@@ -23940,26 +23945,21 @@ EventWin: 0
 EventLose: 0
 EventDraw: 0
 ProvType: 0
-Karma: -3
+Karma: 3
 
 *Answers*:
 Answer1: 0;
 
 *Effects*:
-Index: 3
-Power: -5
-Param1: 5
-Param2: 0
-
-Index: 2
-Power: -2
+Gold: 1
+Power: -100
 Param1: 0
 Param2: 0
 
-Index: 11
-Power: 454
-Param1: 455
-Param2: 70;
+Attitude: 2
+Power: 1
+Param1: 0
+Param2: 0;
 
 /835 Кораблекрушение, помощь, вилка
 Type: 0
@@ -38780,7 +38780,7 @@ Param2: 50;
 
 /1361 Рейд гномов против гноллов
 Type: 0
-Possibility: 10
+Possibility: 0
 Dialog: 1962
 DlgParam1: 1
 DlgParam2: 0
@@ -42906,7 +42906,7 @@ Answer2: 0;
 
 *Effects*:
 Item: 16
-Power: 676
+Power: 665
 Param1: 1
 Param2: 100
 
@@ -42934,12 +42934,12 @@ Answer2: 0;
 
 *Effects*:
 Item: 16
-Power: 672
+Power: 661
 Param1: 1
 Param2: 100
 
 Item: 16
-Power: 675
+Power: 664
 Param1: 1
 Param2: 100
 
@@ -42989,7 +42989,7 @@ Answer2: 0;
 
 *Effects*:
 Item: 16
-Power: 679
+Power: 668
 Param1: 1
 Param2: 100
 
@@ -43017,7 +43017,7 @@ Answer2: 0;
 
 *Effects*:
 Item: 16
-Power: 678
+Power: 667
 Param1: 1
 Param2: 100
 

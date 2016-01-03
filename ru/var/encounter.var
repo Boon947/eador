@@ -1,4 +1,4 @@
-Quantity: 1467
+Quantity: 1483
 
 /0
 Type: 0
@@ -5222,7 +5222,8 @@ Karma: 0
 *Answers*:
 Answer1: 4
 Answer2: 205
-Answer3: 206;
+Answer3: 206
+Answer4: 3;
 
 *Effects*:
 CalcParam1: 2
@@ -23836,10 +23837,10 @@ Power: 77
 Param1: 0
 Param2: 0;
 
-/1003 Крепость ведьмаков, диалог - не используется
+/1003 Игорный дом (герой перегружен)
 Type: 0
 Possibility: 0
-Dialog: 1703
+Dialog: 1757
 DlgParam1: 0
 DlgParam2: 0
 Attacker: 0
@@ -23849,9 +23850,8 @@ EncDraw: 0
 Karma: 0
 
 *Answers*:
-Answer1: 4
-Answer2: 3
-Answer3: 1004;
+Answer1: 0
+Answer2: 0;
 
 *Effects*:
 Index: 0
@@ -24212,7 +24212,7 @@ Answer1: 0;
 
 *Effects*:
 Index: 29
-Power: 283
+Power: 205
 Param1: 0
 Param2: 0
 
@@ -24800,7 +24800,7 @@ Power: 0
 Param1: 0
 Param2: 0;
 
-/1034 Цитадель инквизиции, найм
+/1034 Цитадель инквизиции, найм (замок)
 Type: 0
 Possibility: 0
 Dialog: 0
@@ -24816,6 +24816,11 @@ Karma: 0
 Answer1: 0;
 
 *Effects*:
+Flag: 15
+Power: 15
+Param1: 149
+Param2: 1481
+
 Index: 29
 Power: 139
 Param1: 0
@@ -25816,10 +25821,10 @@ Answer3: 1078
 Answer4: 0;
 
 *Effects*:
-Index: 0
-Power: 0
+Index: 15
+Power: 16
 Param1: 0
-Param2: 0;
+Param2: 1003;
 
 /1073 Игорный дом (большая ставка)
 Type: 0
@@ -26988,7 +26993,7 @@ Answer1: 0;
 
 *Effects*:
 Index: 31
-Power: 283
+Power: 205
 Param1: 1
 Param2: 2;
 
@@ -29841,7 +29846,7 @@ Power: 206
 Param1: 1
 Param2: 0;
 
-/1242 Диалог с гноллами (сильный отряд)
+/1242 Диалог с гноллами (тёмная карма, сильный отряд)
 Type: 0
 Possibility: 0
 Dialog: 1930
@@ -29865,26 +29870,21 @@ Param1: 0
 Param2: 1243
 
 Condition: 15
-Power: 7
-Param1: 0
+Power: 4
+Param1: 30
+Param2: 1243
+
+Condition: 15
+Power: 4
+Param1: -50
 Param2: 1247
-
-Condition: 15
-Power: 7
-Param1: 1
-Param2: 1248
-
-Condition: 15
-Power: 7
-Param1: 2
-Param2: 1249
 
 Condition: 15
 Power: 8
 Param1: 0
 Param2: 1264;
 
-/1243 Диалог с гноллами (слабый отряд)
+/1243 Диалог с гноллами (слабый отряд и/или слишком светлая карма)
 Type: 0
 Possibility: 0
 Dialog: 1931
@@ -29942,7 +29942,7 @@ EncDraw: 0
 Karma: 0
 
 *Answers*:
-Answer1: 1246
+Answer1: 1248
 Answer2: 4
 Answer3: 3;
 
@@ -29952,7 +29952,7 @@ Power: 8
 Param1: 1
 Param2: 1274;
 
-/1246 Диалог с гноллами (переход к получению задания)
+/1246 Диалог с гноллами (переход к получению задания) - не используется
 Type: 0
 Possibility: 0
 Dialog: 0
@@ -29973,31 +29973,10 @@ Power: 1
 Param1: 0
 Param2: 0;
 
-/1247 Диалог с гноллами (переход к ожиданию задания)
+/1247 Диалог с гноллами (сильная армия, но карма недостаточно тёмная)
 Type: 0
 Possibility: 0
-Dialog: 0
-DlgParam1: 0
-DlgParam2: 0
-Attacker: 0
-EncWin: 0
-EncLose: 0
-EncDraw: 0
-Karma: 0
-
-*Answers*:
-Answer1: 0;
-
-*Effects*:
-Quest: 17
-Power: 1
-Param1: 1
-Param2: 0;
-
-/1248 Квест гноллов (другой герой)
-Type: 0
-Possibility: 0
-Dialog: 1934
+Dialog: 1935
 DlgParam1: 0
 DlgParam2: 0
 Attacker: 0
@@ -30011,12 +29990,34 @@ Answer1: 4
 Answer2: 3;
 
 *Effects*:
-Index: 0
+Quest: 0
 Power: 0
 Param1: 0
 Param2: 0;
 
-/1249 Квест гноллов (другая провинция)
+/1248 Квест гноллов (сражение)
+Type: 0
+Possibility: 0
+Dialog: 1934
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 161
+EncWin: 1255
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer2: 0;
+
+*Effects*:
+Index: 37
+Power: 1
+Param1: 0
+Param2: 0;
+
+/1249 Квест гноллов (другая провинция) - не используется
 Type: 0
 Possibility: 0
 Dialog: 1935
@@ -30038,7 +30039,7 @@ Power: 0
 Param1: 0
 Param2: 0;
 
-/1250 Quest Гномьи бороды (предложение)
+/1250 Quest Гномьи бороды (предложение) - не используется
 Type: 0
 Possibility: 0
 Dialog: 1936
@@ -30061,7 +30062,7 @@ Power: 0
 Param1: 0
 Param2: 0;
 
-/1251 Quest Гномьи бороды (получение)
+/1251 Quest Гномьи бороды (получение) - не используется
 Type: 0
 Possibility: 0
 Dialog: 0
@@ -30087,7 +30088,7 @@ Power: 0
 Param1: 0
 Param2: 0;
 
-/1252 Quest Гномьи бороды (выполнение)
+/1252 Quest Гномьи бороды (выполнение) - не используется
 Type: 0
 Possibility: 0
 Dialog: 1938
@@ -30108,7 +30109,7 @@ Power: 7
 Param1: 4
 Param2: 1253;
 
-/1253 Quest Гномьи бороды (ожидание)
+/1253 Quest Гномьи бороды (ожидание) - не используется
 Type: 0
 Possibility: 0
 Dialog: 1937
@@ -30130,7 +30131,7 @@ Power: 0
 Param1: 0
 Param2: 0;
 
-/1254 Quest Гномьи бороды (сдача)
+/1254 Quest Гномьи бороды (сдача) - не используется
 Type: 0
 Possibility: 0
 Dialog: 0
@@ -30177,7 +30178,7 @@ Power: 8
 Param1: 1
 Param2: 1256;
 
-/1256 Квест гноллов (союз невозможен)
+/1256 Квест гноллов (союз невозможен, можно присоединить)
 Type: 0
 Possibility: 0
 Dialog: 1940
@@ -30190,9 +30191,8 @@ EncDraw: 0
 Karma: 0
 
 *Answers*:
-Answer1: 1258
-Answer2: 4
-Answer3: 3;
+Answer1: 4
+Answer2: 1258;
 
 *Effects*:
 Flag: 10
@@ -30226,10 +30226,10 @@ Power: 89
 Param1: 0
 Param2: 0;
 
-/1258 Квест гноллов (союз невозможен, награда)
+/1258 Гноллы (союз, присоединение)
 Type: 0
 Possibility: 0
-Dialog: 1941
+Dialog: 0
 DlgParam1: 0
 DlgParam2: 0
 Attacker: 0
@@ -30239,16 +30239,15 @@ EncDraw: 0
 Karma: 0
 
 *Answers*:
-Answer1: 1259
-Answer2: 1260;
+Answer1: 0;
 
 *Effects*:
-Flag: 0
-Power: 0
+Flag: 10
+Power: 89
 Param1: 0
 Param2: 0;
 
-/1259 Квест гноллов (награда - золото)
+/1259 Квест гноллов (награда - золото) - не используется
 Type: 0
 Possibility: 0
 Dialog: 1942
@@ -30275,7 +30274,7 @@ Power: 0
 Param1: 0
 Param2: 0;
 
-/1260 Квест гноллов (награда - свиток осадного орудия)
+/1260 Квест гноллов (награда - свиток осадного орудия) - не используется
 Type: 0
 Possibility: 0
 Dialog: 0
@@ -30301,7 +30300,7 @@ Power: 0
 Param1: 0
 Param2: 0;
 
-/1261 Quest Гномьи бороды (недостаточно бород)
+/1261 Quest Гномьи бороды (недостаточно бород) - не используется
 Type: 0
 Possibility: 0
 Dialog: 1943
@@ -30322,7 +30321,7 @@ Power: 0
 Param1: 0
 Param2: 0;
 
-/1262 Quest Гномьи бороды (условие выполнено)
+/1262 Quest Гномьи бороды (условие выполнено) - не используется
 Type: 0
 Possibility: 0
 Dialog: 1944
@@ -30343,7 +30342,7 @@ Power: 0
 Param1: 0
 Param2: 0;
 
-/1263 Quest Гномьи бороды (провинция захвачена)
+/1263 Quest Гномьи бороды (провинция захвачена) - не используется
 Type: 0
 Possibility: 0
 Dialog: 1945
@@ -30378,7 +30377,7 @@ EncDraw: 0
 Karma: 0
 
 *Answers*:
-Answer1: 1257;
+Answer1: 1258;
 
 *Effects*:
 Condition: 15
@@ -35094,7 +35093,7 @@ Answer1: 0;
 *Effects*:
 Flag: 15
 Power: 15
-Param1: 266
+Param1: 267
 Param2: 1466
 
 Index: 29
@@ -35161,5 +35160,403 @@ Answer1: 0;
 *Effects*:
 Index: 29
 Power: 202
+Param1: 1
+Param2: 0;
+
+/1468 Волчья чаща
+Type: 0
+Possibility: 0
+Dialog: 2384
+DlgParam1: 3
+DlgParam2: 1
+Attacker: 53
+EncWin: 1469
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer2: 13;
+
+*Effects*:
+Index: 30
+Power: 1
+Param1: 0
+Param2: 0;
+
+/1469 Волчья чаща, вилка
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 2
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1471
+Param1: 1470
+Param2: 30;
+
+/1470 Волчья чаща, жив, вилка
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1472
+Param1: 1474
+Param2: 70;
+
+/1471 Волчья чаща, мёртв, вилка
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1480
+Param1: 1479
+Param2: 40;
+
+/1472 Волчья чаща, жив, подарок
+Type: 0
+Possibility: 0
+Dialog: 2385
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1473
+Answer2: 0;
+
+*Effects*:
+Index: 6
+Power: 20
+Param1: 20
+Param2: 0;
+
+/1473 Волчья чаща, убили
+Type: 0
+Possibility: 0
+Dialog: 2386
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: -7
+
+*Answers*:
+Answer1: 13
+Answer2: 0;
+
+*Effects*:
+Index: 14
+Power: 3
+Param1: 1
+Param2: 0
+
+Index: 14
+Power: 2
+Param1: 2
+Param2: 0;
+
+/1474 Волчья чаща, жив, присоединение, вилка
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1474
+Param1: 1477
+Param2: 70;
+
+/1475 Волчья чаща, присоединился лекарь
+Type: 0
+Possibility: 0
+Dialog: 2387
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1476
+Answer2: 1476;
+
+*Effects*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/1476 Волчья чаща, лекарь, присоединение
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 31
+Power: 8
+Param1: 2
+Param2: 4;
+
+/1477 Волчья чаща, присоединился целитель
+Type: 0
+Possibility: 0
+Dialog: 2388
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1478
+Answer2: 1478;
+
+*Effects*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/1478 Волчья чаща, целитель, присоединение
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 31
+Power: 121
+Param1: 1
+Param2: 2;
+
+/1479 Волчья чаща, мёртв
+Type: 0
+Possibility: 0
+Dialog: 2389
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer2: 0;
+
+*Effects*:
+Index: 6
+Power: 10
+Param1: 10
+Param2: 0
+
+Index: 14
+Power: 3
+Param1: 1
+Param2: 0
+
+Index: 14
+Power: 2
+Param1: 2
+Param2: 0;
+
+/1480 Волчья чаща, пустой фургон
+Type: 0
+Possibility: 0
+Dialog: 2390
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer2: 0;
+
+*Effects*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/1481 Цитадель инквизиции, найм (цитадель)
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Flag: 15
+Power: 15
+Param1: 104
+Param2: 1482
+
+Index: 29
+Power: 139
+Param1: 0
+Param2: 0
+
+Index: 29
+Power: 140
+Param1: 0
+Param2: 0
+
+Index: 29
+Power: 146
+Param1: 0
+Param2: 0
+
+Index: 29
+Power: 142
+Param1: 0
+Param2: 0
+
+Index: 29
+Power: 141
+Param1: 1
+Param2: 0;
+
+/1482 Цитадель инквизиции, найм (форт)
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Flag: 15
+Power: 15
+Param1: 39
+Param2: 1483
+
+Index: 29
+Power: 139
+Param1: 0
+Param2: 0
+
+Index: 29
+Power: 140
+Param1: 0
+Param2: 0
+
+Index: 29
+Power: 146
+Param1: 1
+Param2: 0;
+
+/1483 Цитадель инквизиции, найм (нет укреплений)
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 29
+Power: 139
 Param1: 1
 Param2: 0;

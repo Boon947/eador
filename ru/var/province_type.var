@@ -319,7 +319,7 @@ Explored: 30
 LevelExplored: 10
 
 Terrain_Possibility
-Plains: 40
+Plains: 35
 Forest: 0
 Hills: 35
 Swamp: 0
@@ -1000,17 +1000,17 @@ Sites: 10
 Gold: 2
 Gem: 0
 Difficult: 1
-Population: 150
+Population: 200
 LevelPop: 50
 DiplUnrest: 0
-ConqUnrest: -1
+ConqUnrest: 1
 DiplKarma: -1
 ConqKarma: 0
 Explored: 20
 LevelExplored: 2
 
 Terrain_Possibility
-Plains: 40
+Plains: 45
 Forest: 0
 Hills: 0
 Swamp: 0

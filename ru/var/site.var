@@ -1,4 +1,4 @@
-Quantity: 141
+Quantity: 142
 
 /0
 Name: Пусто;
@@ -6,6 +6,7 @@ MinLevel: 0
 MaxLevel: 0
 Guarded: 0
 Place: 0
+Difficult: 0
 Event: 0
 Dialog: 0
 Dialog2: 0
@@ -40,6 +41,7 @@ MinLevel: 1
 MaxLevel: 3
 Guarded: 40
 Place: 0
+Difficult: 0
 Event: 2
 Dialog: 36
 Dialog2: 37
@@ -61,6 +63,12 @@ Tundra: 0
 
 Guards:
 Guard: 6
+Poss: 3
+
+Guard: 5
+Poss: 2
+
+Guard: 100
 Poss: 1;
 
 Ability:
@@ -78,6 +86,7 @@ MinLevel: 1
 MaxLevel: 3
 Guarded: 40
 Place: 0
+Difficult: 0
 Event: 2
 Dialog: 38
 Dialog2: 39
@@ -99,7 +108,13 @@ Tundra: 0
 
 Guards:
 Guard: 2
-Poss: 1;
+Poss: 2
+
+Guard: 53
+Poss: 1
+
+Guard: 15
+Poss: 3;
 
 Ability:
 Ability: 1
@@ -116,6 +131,7 @@ MinLevel: 1
 MaxLevel: 3
 Guarded: 50
 Place: 0
+Difficult: 0
 Event: 2
 Dialog: 40
 Dialog2: 41
@@ -154,6 +170,7 @@ MinLevel: 1
 MaxLevel: 3
 Guarded: 30
 Place: 0
+Difficult: 0
 Event: 2
 Dialog: 42
 Dialog2: 43
@@ -175,6 +192,9 @@ Tundra: 0
 
 Guards:
 Guard: 4
+Poss: 3
+
+Guard: 147
 Poss: 1;
 
 Ability:
@@ -192,6 +212,7 @@ MinLevel: 2
 MaxLevel: 4
 Guarded: 40
 Place: 0
+Difficult: 0
 Event: 2
 Dialog: 44
 Dialog2: 45
@@ -251,6 +272,7 @@ MinLevel: 2
 MaxLevel: 4
 Guarded: 40
 Place: 0
+Difficult: 0
 Event: 2
 Dialog: 46
 Dialog2: 47
@@ -307,6 +329,7 @@ MinLevel: 2
 MaxLevel: 4
 Guarded: 40
 Place: 0
+Difficult: 0
 Event: 2
 Dialog: 48
 Dialog2: 49
@@ -357,6 +380,7 @@ MinLevel: 4
 MaxLevel: 7
 Guarded: 70
 Place: 0
+Difficult: 0
 Event: 2
 Dialog: 50
 Dialog2: 51
@@ -407,6 +431,7 @@ MinLevel: 4
 MaxLevel: 8
 Guarded: 80
 Place: 0
+Difficult: 0
 Event: 2
 Dialog: 52
 Dialog2: 53
@@ -469,6 +494,7 @@ MinLevel: 1
 MaxLevel: 8
 Guarded: 100
 Place: 1
+Difficult: 0
 Event: 2
 Dialog: 18
 Dialog2: 0
@@ -490,43 +516,46 @@ Tundra: 65
 
 Guards:
 Guard: 5
-Poss: 10
+Poss: 15
 
 Guard: 57
-Poss: 3
+Poss: 6
 
 Guard: 11
-Poss: 3
+Poss: 6
 
 Guard: 58
-Poss: 3
+Poss: 6
 
 Guard: 25
-Poss: 4
+Poss: 8
 
 Guard: 125
-Poss: 3
+Poss: 6
 
 Guard: 27
-Poss: 3
+Poss: 6
 
 Guard: 60
-Poss: 3
+Poss: 6
 
 Guard: 43
-Poss: 3
+Poss: 6
 
 Guard: 134
-Poss: 1
-
-Guard: 77
-Poss: 4
-
-Guard: 81
 Poss: 2
 
+Guard: 77
+Poss: 8
+
+Guard: 81
+Poss: 4
+
 Guard: 102
-Poss: 2;
+Poss: 4
+
+Guard: 79
+Poss: 1;
 
 Ability:
 Ability: 3
@@ -543,6 +572,7 @@ MinLevel: 1
 MaxLevel: 8
 Guarded: 100
 Place: 1
+Difficult: 0
 Event: 2
 Dialog: 19
 Dialog2: 0
@@ -623,6 +653,7 @@ MinLevel: 1
 MaxLevel: 8
 Guarded: 100
 Place: 1
+Difficult: 0
 Event: 2
 Dialog: 20
 Dialog2: 0
@@ -659,7 +690,7 @@ Guard: 125
 Poss: 2
 
 Guard: 78
-Poss: 3
+Poss: 2
 
 Guard: 58
 Poss: 3
@@ -703,6 +734,7 @@ MinLevel: 1
 MaxLevel: 4
 Guarded: 100
 Place: 2
+Difficult: 0
 Event: 2
 Dialog: 23
 Dialog2: 0
@@ -760,7 +792,7 @@ Guard: 43
 Poss: 3
 
 Guard: 78
-Poss: 3
+Poss: 2
 
 Guard: 84
 Poss: 3
@@ -785,6 +817,7 @@ MinLevel: 2
 MaxLevel: 5
 Guarded: 100
 Place: 2
+Difficult: 0
 Event: 2
 Dialog: 24
 Dialog2: 0
@@ -830,7 +863,7 @@ Guard: 27
 Poss: 3
 
 Guard: 78
-Poss: 3
+Poss: 2
 
 Guard: 127
 Poss: 1
@@ -855,6 +888,7 @@ MinLevel: 1
 MaxLevel: 5
 Guarded: 100
 Place: 2
+Difficult: 0
 Event: 2
 Dialog: 54
 Dialog2: 0
@@ -900,7 +934,7 @@ Guard: 129
 Poss: 2
 
 Guard: 78
-Poss: 3
+Poss: 2
 
 Guard: 81
 Poss: 2
@@ -925,6 +959,7 @@ MinLevel: 2
 MaxLevel: 8
 Guarded: 100
 Place: 2
+Difficult: 0
 Event: 2
 Dialog: 55
 Dialog2: 0
@@ -967,7 +1002,7 @@ Guard: 129
 Poss: 2
 
 Guard: 78
-Poss: 3
+Poss: 2
 
 Guard: 81
 Poss: 2
@@ -992,6 +1027,7 @@ MinLevel: 3
 MaxLevel: 8
 Guarded: 100
 Place: 2
+Difficult: 0
 Event: 2
 Dialog: 56
 Dialog2: 0
@@ -1040,7 +1076,7 @@ Guard: 124
 Poss: 1
 
 Guard: 78
-Poss: 3
+Poss: 2
 
 Guard: 81
 Poss: 2
@@ -1068,6 +1104,7 @@ MinLevel: 1
 MaxLevel: 8
 Guarded: 100
 Place: 1
+Difficult: 0
 Event: 2
 Dialog: 57
 Dialog2: 0
@@ -1145,6 +1182,7 @@ MinLevel: 1
 MaxLevel: 8
 Guarded: 100
 Place: 1
+Difficult: 0
 Event: 2
 Dialog: 58
 Encounter: 363
@@ -1177,9 +1215,6 @@ Poss: 4
 Guard: 145
 Poss: 8
 
-Guard: 60
-Poss: 2
-
 Guard: 26
 Poss: 4
 
@@ -1189,7 +1224,7 @@ Poss: 5
 Guard: 33
 Poss: 3
 
-Guard: 58
+Guard: 62
 Poss: 2
 
 Guard: 39
@@ -1224,6 +1259,7 @@ MinLevel: 1
 MaxLevel: 8
 Guarded: 100
 Place: 1
+Difficult: 0
 Event: 2
 Dialog: 59
 Dialog2: 0
@@ -1299,6 +1335,7 @@ MinLevel: 1
 MaxLevel: 8
 Guarded: 100
 Place: 1
+Difficult: 0
 Event: 2
 Dialog: 60
 Dialog2: 0
@@ -1380,6 +1417,7 @@ MinLevel: 1
 MaxLevel: 8
 Guarded: 100
 Place: 2
+Difficult: 0
 Event: 2
 Dialog: 61
 Dialog2: 0
@@ -1459,6 +1497,7 @@ MinLevel: 0
 MaxLevel: 0
 Guarded: 100
 Place: 2
+Difficult: 1
 Event: 2
 Dialog: 81
 Dialog2: 0
@@ -1505,6 +1544,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 2
+Difficult: 1
 Event: 2
 Dialog: 97
 Dialog2: 0
@@ -1551,6 +1591,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 1
+Difficult: 2
 Event: 2
 Dialog: 102
 Dialog2: 0
@@ -1563,12 +1604,12 @@ CanEnter: 0
 SelfDestroy: 1
 
 Terrain:
-Plain: 5
-Forest: 8
-Hill: 18
-Swamp: 9
-Desert: 9
-Tundra: 9
+Plain: 7
+Forest: 10
+Hill: 20
+Swamp: 10
+Desert: 10
+Tundra: 10
 
 Guards:
 Guard: 157
@@ -1599,6 +1640,7 @@ MinLevel: 1
 MaxLevel: 12
 Guarded: 100
 Place: 2
+Difficult: 2
 Event: 2
 Dialog: 143
 Encounter: 1009
@@ -1669,6 +1711,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 1
+Difficult: 0
 Event: 2
 Dialog: 391
 Encounter: 237
@@ -1710,6 +1753,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 0
 Place: 2
+Difficult: 0
 Event: 2
 Dialog: 437
 Encounter: 0
@@ -1744,6 +1788,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 0
 Place: 2
+Difficult: 0
 Event: 2
 Dialog: 438
 Encounter: 0
@@ -1778,6 +1823,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 0
 Place: 2
+Difficult: 0
 Event: 2
 Dialog: 439
 Encounter: 0
@@ -1812,6 +1858,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 0
 Place: 2
+Difficult: 0
 Event: 2
 Dialog: 440
 Encounter: 0
@@ -1846,6 +1893,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 1
+Difficult: 0
 Event: 2
 Dialog: 441
 Encounter: 309
@@ -1897,6 +1945,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 1
+Difficult: 0
 Event: 2
 Dialog: 462
 Encounter: 347
@@ -1948,6 +1997,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 1
+Difficult: 0
 Event: 2
 Dialog: 465
 Encounter: 349
@@ -1996,6 +2046,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 1
+Difficult: 0
 Event: 2
 Dialog: 468
 Encounter: 351
@@ -2062,6 +2113,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 1
+Difficult: 0
 Event: 2
 Dialog: 471
 Encounter: 353
@@ -2113,6 +2165,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 1
+Difficult: 0
 Event: 2
 Dialog: 474
 Encounter: 355
@@ -2164,6 +2217,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 1
+Difficult: 0
 Event: 2
 Dialog: 477
 Encounter: 357
@@ -2212,6 +2266,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 1
+Difficult: 0
 Event: 2
 Dialog: 480
 Encounter: 359
@@ -2266,6 +2321,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 1
+Difficult: 0
 Event: 2
 Dialog: 483
 Encounter: 361
@@ -2329,6 +2385,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 0
 Place: 1
+Difficult: 2
 Event: 2
 Dialog: 440
 Encounter: 0
@@ -2363,6 +2420,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 0
 Place: 1
+Difficult: 1
 Event: 2
 Dialog: 381
 Encounter: 381
@@ -2397,6 +2455,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 1
+Difficult: 0
 Event: 2
 Dialog: 872
 Encounter: 401
@@ -2431,6 +2490,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 1
+Difficult: 0
 Event: 2
 Dialog: 874
 Encounter: 410
@@ -2473,6 +2533,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 1
+Difficult: 2
 Event: 2
 Dialog: 878
 Encounter: 416
@@ -2531,6 +2592,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 0
 Place: 2
+Difficult: 0
 Event: 2
 Dialog: 440
 Encounter: 420
@@ -2565,6 +2627,7 @@ MinLevel: 1
 MaxLevel: 12
 Guarded: 0
 Place: 2
+Difficult: 0
 Event: 2
 Dialog: 440
 Encounter: 432
@@ -2599,6 +2662,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 0
 Place: 1
+Difficult: 0
 Event: 2
 Dialog: 381
 Encounter: 438
@@ -2633,6 +2697,7 @@ MinLevel: 1
 MaxLevel: 12
 Guarded: 100
 Place: 2
+Difficult: 0
 Event: 2
 Dialog: 985
 Dialog2: 0
@@ -2690,7 +2755,7 @@ Guard: 57
 Poss: 3
 
 Guard: 78
-Poss: 3
+Poss: 2
 
 Guard: 129
 Poss: 2
@@ -2729,6 +2794,7 @@ MinLevel: 1
 MaxLevel: 10
 Guarded: 100
 Place: 1
+Difficult: 1
 Event: 2
 Dialog: 986
 Dialog2: 0
@@ -2779,6 +2845,7 @@ MinLevel: 1
 MaxLevel: 10
 Guarded: 0
 Place: 1
+Difficult: 1
 Event: 2
 Dialog: 0
 Encounter: 1266
@@ -2829,6 +2896,7 @@ MinLevel: 0
 MaxLevel: 12
 Guarded: 0
 Place: 2
+Difficult: 0
 Event: 2
 Dialog: 381
 Encounter: 462
@@ -2867,6 +2935,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 2
+Difficult: 0
 Event: 2
 Dialog: 994
 Encounter: 469
@@ -2901,6 +2970,7 @@ MinLevel: 0
 MaxLevel: 12
 Guarded: 0
 Place: 2
+Difficult: 0
 Event: 2
 Dialog: 381
 Encounter: 475
@@ -2935,6 +3005,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 2
+Difficult: 0
 Event: 2
 Dialog: 1028
 Encounter: 487
@@ -2972,6 +3043,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 2
+Difficult: 1
 Event: 2
 Dialog: 1056
 Encounter: 487
@@ -3006,6 +3078,7 @@ MinLevel: 1
 MaxLevel: 12
 Guarded: 0
 Place: 2
+Difficult: 0
 Event: 2
 Dialog: 440
 Encounter: 495
@@ -3040,6 +3113,7 @@ MinLevel: 1
 MaxLevel: 12
 Guarded: 0
 Place: 2
+Difficult: 0
 Event: 2
 Dialog: 0
 Encounter: 0
@@ -3074,6 +3148,7 @@ MinLevel: 1
 MaxLevel: 8
 Guarded: 100
 Place: 1
+Difficult: 1
 Event: 2
 Dialog: 1373
 Dialog2: 0
@@ -3144,6 +3219,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 2
+Difficult: 1
 Event: 2
 Dialog: 1443
 Encounter: 664
@@ -3182,6 +3258,7 @@ MinLevel: 0
 MaxLevel: 12
 Guarded: 0
 Place: 2
+Difficult: 0
 Event: 2
 Dialog: 0
 Encounter: 688
@@ -3216,6 +3293,7 @@ MinLevel: 0
 MaxLevel: 12
 Guarded: 0
 Place: 2
+Difficult: 0
 Event: 2
 Dialog: 0
 Encounter: 688
@@ -3250,6 +3328,7 @@ MinLevel: 0
 MaxLevel: 12
 Guarded: 0
 Place: 2
+Difficult: 0
 Event: 2
 Dialog: 0
 Encounter: 688
@@ -3288,6 +3367,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 2
+Difficult: 2
 Event: 2
 Dialog: 1484
 Dialog2: 0
@@ -3332,6 +3412,7 @@ MinLevel: 0
 MaxLevel: 12
 Guarded: 0
 Place: 2
+Difficult: 0
 Event: 2
 Dialog: 0
 Encounter: 692
@@ -3366,6 +3447,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 0
+Difficult: 0
 Event: 2
 Dialog: 1702
 Encounter: 1004
@@ -3412,6 +3494,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 0
+Difficult: 0
 Event: 2
 Dialog: 1707
 Encounter: 1013
@@ -3446,6 +3529,7 @@ MinLevel: 1
 MaxLevel: 8
 Guarded: 100
 Place: 0
+Difficult: 0
 Event: 2
 Dialog: 1711
 Encounter: 1015
@@ -3500,6 +3584,7 @@ MinLevel: 5
 MaxLevel: 8
 Guarded: 100
 Place: 0
+Difficult: 0
 Event: 2
 Dialog: 1712
 Encounter: 1019
@@ -3538,6 +3623,7 @@ MinLevel: 5
 MaxLevel: 8
 Guarded: 100
 Place: 0
+Difficult: 0
 Event: 2
 Dialog: 1714
 Encounter: 1021
@@ -3579,6 +3665,7 @@ MinLevel: 5
 MaxLevel: 8
 Guarded: 100
 Place: 0
+Difficult: 0
 Event: 2
 Dialog: 1716
 Encounter: 1023
@@ -3617,6 +3704,7 @@ MinLevel: 5
 MaxLevel: 8
 Guarded: 100
 Place: 0
+Difficult: 0
 Event: 2
 Dialog: 1718
 Encounter: 1025
@@ -3655,6 +3743,7 @@ MinLevel: 5
 MaxLevel: 8
 Guarded: 100
 Place: 0
+Difficult: 0
 Event: 2
 Dialog: 1720
 Encounter: 1027
@@ -3693,6 +3782,7 @@ MinLevel: 5
 MaxLevel: 8
 Guarded: 100
 Place: 0
+Difficult: 0
 Event: 2
 Dialog: 1722
 Encounter: 1029
@@ -3731,6 +3821,7 @@ MinLevel: 5
 MaxLevel: 8
 Guarded: 100
 Place: 0
+Difficult: 0
 Event: 2
 Dialog: 1724
 Encounter: 1031
@@ -3769,6 +3860,7 @@ MinLevel: 5
 MaxLevel: 8
 Guarded: 100
 Place: 0
+Difficult: 0
 Event: 2
 Dialog: 1726
 Encounter: 1444
@@ -3811,6 +3903,7 @@ MinLevel: 3
 MaxLevel: 8
 Guarded: 0
 Place: 0
+Difficult: 0
 Event: 2
 Dialog: 1728
 Encounter: 1035
@@ -3853,6 +3946,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 0
 Place: 0
+Difficult: 0
 Event: 2
 Dialog: 1743
 Encounter: 1066
@@ -3891,6 +3985,7 @@ MinLevel: 5
 MaxLevel: 8
 Guarded: 100
 Place: 0
+Difficult: 0
 Event: 2
 Dialog: 1754
 Encounter: 1082
@@ -3932,6 +4027,7 @@ MinLevel: 5
 MaxLevel: 8
 Guarded: 100
 Place: 0
+Difficult: 0
 Event: 2
 Dialog: 1756
 Encounter: 1084
@@ -3973,6 +4069,7 @@ MinLevel: 2
 MaxLevel: 4
 Guarded: 100
 Place: 1
+Difficult: 0
 Event: 2
 Dialog: 1758
 Dialog2: 0
@@ -3987,7 +4084,7 @@ SelfDestroy: 0
 Terrain:
 Plain: 0
 Forest: 0
-Hill: 15
+Hill: 12
 Swamp: 0
 Desert: 0
 Tundra: 0
@@ -4015,6 +4112,7 @@ MinLevel: 1
 MaxLevel: 4
 Guarded: 100
 Place: 1
+Difficult: 0
 Event: 2
 Dialog: 1806
 Dialog2: 0
@@ -4049,6 +4147,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 2
+Difficult: 3
 Event: 2
 Dialog: 1832
 Dialog2: 0
@@ -4061,10 +4160,10 @@ CanEnter: 0
 SelfDestroy: 1
 
 Terrain:
-Plain: 1
-Forest: 1
+Plain: 3
+Forest: 3
 Hill: 3
-Swamp: 2
+Swamp: 5
 Desert: 6
 Tundra: 4
 
@@ -4091,6 +4190,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 2
+Difficult: 3
 Event: 2
 Dialog: 1833
 Dialog2: 0
@@ -4103,9 +4203,9 @@ CanEnter: 0
 SelfDestroy: 1
 
 Terrain:
-Plain: 2
-Forest: 1
-Hill: 2
+Plain: 5
+Forest: 3
+Hill: 5
 Swamp: 1
 Desert: 2
 Tundra: 1
@@ -4129,6 +4229,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 2
+Difficult: 3
 Event: 2
 Dialog: 1834
 Dialog2: 0
@@ -4144,7 +4245,7 @@ Terrain:
 Plain: 2
 Forest: 2
 Hill: 1
-Swamp: 1
+Swamp: 3
 Desert: 2
 Tundra: 2
 
@@ -4167,6 +4268,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 2
+Difficult: 3
 Event: 2
 Dialog: 1835
 Dialog2: 0
@@ -4205,6 +4307,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 2
+Difficult: 3
 Event: 2
 Dialog: 1836
 Dialog2: 0
@@ -4243,6 +4346,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 2
+Difficult: 3
 Event: 2
 Dialog: 1838
 Dialog2: 0
@@ -4255,10 +4359,10 @@ CanEnter: 0
 SelfDestroy: 1
 
 Terrain:
-Plain: 1
-Forest: 1
-Hill: 2
-Swamp: 2
+Plain: 3
+Forest: 3
+Hill: 3
+Swamp: 3
 Desert: 1
 Tundra: 2
 
@@ -4285,6 +4389,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 2
+Difficult: 3
 Event: 2
 Dialog: 1839
 Dialog2: 0
@@ -4297,10 +4402,10 @@ CanEnter: 0
 SelfDestroy: 1
 
 Terrain:
-Plain: 2
-Forest: 1
-Hill: 2
-Swamp: 1
+Plain: 3
+Forest: 3
+Hill: 3
+Swamp: 3
 Desert: 3
 Tundra: 2
 
@@ -4327,6 +4432,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 2
+Difficult: 3
 Event: 2
 Dialog: 1903
 Dialog2: 0
@@ -4339,10 +4445,10 @@ CanEnter: 0
 SelfDestroy: 1
 
 Terrain:
-Plain: 1
-Forest: 1
-Hill: 1
-Swamp: 1
+Plain: 3
+Forest: 5
+Hill: 3
+Swamp: 3
 Desert: 1
 Tundra: 1
 
@@ -4361,6 +4467,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 2
+Difficult: 3
 Event: 2
 Dialog: 1905
 Dialog2: 0
@@ -4373,10 +4480,10 @@ CanEnter: 0
 SelfDestroy: 1
 
 Terrain:
-Plain: 1
-Forest: 1
-Hill: 1
-Swamp: 1
+Plain: 3
+Forest: 3
+Hill: 5
+Swamp: 3
 Desert: 1
 Tundra: 1
 
@@ -4395,6 +4502,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 2
+Difficult: 3
 Event: 2
 Dialog: 1907
 Dialog2: 0
@@ -4407,10 +4515,10 @@ CanEnter: 0
 SelfDestroy: 1
 
 Terrain:
-Plain: 1
-Forest: 1
-Hill: 1
-Swamp: 1
+Plain: 3
+Forest: 3
+Hill: 3
+Swamp: 5
 Desert: 1
 Tundra: 1
 
@@ -4429,6 +4537,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 2
+Difficult: 3
 Event: 2
 Dialog: 1909
 Dialog2: 0
@@ -4441,10 +4550,10 @@ CanEnter: 0
 SelfDestroy: 1
 
 Terrain:
-Plain: 1
-Forest: 1
-Hill: 1
-Swamp: 1
+Plain: 5
+Forest: 3
+Hill: 3
+Swamp: 3
 Desert: 1
 Tundra: 1
 
@@ -4463,6 +4572,7 @@ MinLevel: 5
 MaxLevel: 8
 Guarded: 100
 Place: 0
+Difficult: 0
 Event: 2
 Dialog: 1927
 Encounter: 1240
@@ -4501,6 +4611,7 @@ MinLevel: 4
 MaxLevel: 7
 Guarded: 100
 Place: 0
+Difficult: 0
 Event: 2
 Dialog: 19
 Dialog2: 0
@@ -4539,6 +4650,7 @@ MinLevel: 5
 MaxLevel: 8
 Guarded: 100
 Place: 0
+Difficult: 0
 Event: 2
 Dialog: 1988
 Encounter: 1275
@@ -4577,6 +4689,7 @@ MinLevel: 3
 MaxLevel: 10
 Guarded: 100
 Place: 1
+Difficult: 1
 Event: 2
 Dialog: 2013
 Dialog2: 0
@@ -4624,6 +4737,7 @@ MinLevel: 3
 MaxLevel: 8
 Guarded: 0
 Place: 2
+Difficult: 1
 Event: 2
 Dialog: 0
 Encounter: 1305
@@ -4662,6 +4776,7 @@ MinLevel: 1
 MaxLevel: 8
 Guarded: 100
 Place: 1
+Difficult: 1
 Event: 2
 Dialog: 2040
 Dialog2: 0
@@ -4700,6 +4815,7 @@ MinLevel: 1
 MaxLevel: 8
 Guarded: 100
 Place: 1
+Difficult: 0
 Event: 2
 Dialog: 2048
 Dialog2: 0
@@ -4748,7 +4864,7 @@ Guard: 44
 Poss: 5
 
 Guard: 78
-Poss: 5
+Poss: 4
 
 Guard: 130
 Poss: 2;
@@ -4768,6 +4884,7 @@ MinLevel: 1
 MaxLevel: 8
 Guarded: 100
 Place: 1
+Difficult: 0
 Event: 2
 Dialog: 2049
 Dialog2: 0
@@ -4842,6 +4959,7 @@ MinLevel: 1
 MaxLevel: 8
 Guarded: 100
 Place: 2
+Difficult: 0
 Event: 2
 Dialog: 2050
 Dialog2: 0
@@ -4903,6 +5021,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 2
+Difficult: 2
 Event: 2
 Dialog: 2051
 Dialog2: 0
@@ -4993,6 +5112,7 @@ MinLevel: 4
 MaxLevel: 10
 Guarded: 100
 Place: 1
+Difficult: 2
 Event: 2
 Dialog: 2052
 Dialog2: 0
@@ -5082,6 +5202,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 1
+Difficult: 1
 Event: 2
 Dialog: 2053
 Dialog2: 0
@@ -5103,12 +5224,15 @@ Tundra: 3
 
 Guards:
 Guard: 90
-Poss: 5
+Poss: 7
 
 Guard: 93
-Poss: 2
+Poss: 3
 
 Guard: 95
+Poss: 2
+
+Guard: 138
 Poss: 1;
 
 Ability:
@@ -5130,6 +5254,7 @@ MinLevel: 4
 MaxLevel: 7
 Guarded: 100
 Place: 1
+Difficult: 0
 Event: 2
 Dialog: 2081
 Dialog2: 0
@@ -5174,6 +5299,7 @@ MinLevel: 5
 MaxLevel: 10
 Guarded: 100
 Place: 1
+Difficult: 0
 Event: 2
 Dialog: 2082
 Dialog2: 0
@@ -5224,6 +5350,7 @@ MinLevel: 1
 MaxLevel: 8
 Guarded: 100
 Place: 1
+Difficult: 0
 Event: 2
 Dialog: 2083
 Dialog2: 0
@@ -5272,6 +5399,7 @@ MinLevel: 3
 MaxLevel: 8
 Guarded: 100
 Place: 1
+Difficult: 1
 Event: 2
 Dialog: 2084
 Encounter: 1348
@@ -5323,6 +5451,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 2
+Difficult: 3
 Event: 2
 Dialog: 2087
 Dialog2: 0
@@ -5336,9 +5465,9 @@ SelfDestroy: 1
 
 Terrain:
 Plain: 0
-Forest: 1
-Hill: 2
-Swamp: 1
+Forest: 3
+Hill: 3
+Swamp: 3
 Desert: 1
 Tundra: 0
 
@@ -5364,6 +5493,7 @@ MinLevel: 1
 MaxLevel: 8
 Guarded: 100
 Place: 1
+Difficult: 0
 Event: 2
 Dialog: 2088
 Dialog2: 0
@@ -5427,6 +5557,7 @@ MinLevel: 1
 MaxLevel: 8
 Guarded: 100
 Place: 1
+Difficult: 0
 Event: 2
 Dialog: 2089
 Dialog2: 0
@@ -5504,6 +5635,7 @@ MinLevel: 5
 MaxLevel: 8
 Guarded: 100
 Place: 0
+Difficult: 0
 Event: 2
 Dialog: 2100
 Encounter: 1352
@@ -5554,6 +5686,7 @@ MinLevel: 5
 MaxLevel: 8
 Guarded: 100
 Place: 0
+Difficult: 0
 Event: 2
 Dialog: 2102
 Encounter: 1354
@@ -5604,6 +5737,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 2
+Difficult: 3
 Event: 2
 Dialog: 2134
 Dialog2: 0
@@ -5616,10 +5750,10 @@ CanEnter: 0
 SelfDestroy: 1
 
 Terrain:
-Plain: 1
-Forest: 2
-Hill: 2
-Swamp: 2
+Plain: 0
+Forest: 3
+Hill: 3
+Swamp: 5
 Desert: 2
 Tundra: 0
 
@@ -5642,6 +5776,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 2
+Difficult: 3
 Event: 2
 Dialog: 2135
 Dialog2: 0
@@ -5655,9 +5790,9 @@ SelfDestroy: 1
 
 Terrain:
 Plain: 3
-Forest: 1
-Hill: 1
-Swamp: 1
+Forest: 3
+Hill: 5
+Swamp: 3
 Desert: 1
 Tundra: 1
 
@@ -5680,6 +5815,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 2
+Difficult: 3
 Event: 2
 Dialog: 2136
 Dialog2: 0
@@ -5692,9 +5828,9 @@ CanEnter: 0
 SelfDestroy: 1
 
 Terrain:
-Plain: 2
-Forest: 2
-Hill: 1
+Plain: 5
+Forest: 5
+Hill: 3
 Swamp: 0
 Desert: 0
 Tundra: 0
@@ -5718,6 +5854,7 @@ MinLevel: 1
 MaxLevel: 8
 Guarded: 100
 Place: 1
+Difficult: 1
 Event: 2
 Dialog: 2137
 Dialog2: 0
@@ -5732,7 +5869,7 @@ SelfDestroy: 1
 Terrain:
 Plain: 0
 Forest: 0
-Hill: 22
+Hill: 30
 Swamp: 0
 Desert: 0
 Tundra: 0
@@ -5766,7 +5903,7 @@ Guard: 30
 Poss: 4
 
 Guard: 78
-Poss: 4
+Poss: 3
 
 Guard: 147
 Poss: 1
@@ -5792,6 +5929,7 @@ MinLevel: 3
 MaxLevel: 10
 Guarded: 100
 Place: 0
+Difficult: 0
 Event: 2
 Dialog: 2162
 Dialog2: 0
@@ -5844,6 +5982,7 @@ MinLevel: 4
 MaxLevel: 10
 Guarded: 100
 Place: 1
+Difficult: 0
 Event: 2
 Dialog: 2191
 Dialog2: 0
@@ -5889,7 +6028,7 @@ Guard: 33
 Poss: 3
 
 Guard: 78
-Poss: 5
+Poss: 3
 
 Guard: 90
 Poss: 1
@@ -5921,6 +6060,7 @@ MinLevel: 1
 MaxLevel: 8
 Guarded: 100
 Place: 1
+Difficult: 0
 Event: 2
 Dialog: 2192
 Dialog2: 0
@@ -5963,7 +6103,7 @@ Guard: 58
 Poss: 4
 
 Guard: 78
-Poss: 7
+Poss: 4
 
 Guard: 84
 Poss: 7
@@ -5995,6 +6135,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 2
+Difficult: 3
 Event: 2
 Dialog: 2199
 Dialog2: 0
@@ -6007,10 +6148,10 @@ CanEnter: 0
 SelfDestroy: 1
 
 Terrain:
-Plain: 1
-Forest: 1
-Hill: 1
-Swamp: 2
+Plain: 3
+Forest: 3
+Hill: 3
+Swamp: 5
 Desert: 0
 Tundra: 0
 
@@ -6033,6 +6174,7 @@ MinLevel: 3
 MaxLevel: 8
 Guarded: 100
 Place: 2
+Difficult: 0
 Event: 2
 Dialog: 2200
 Dialog2: 0
@@ -6081,6 +6223,7 @@ MinLevel: 3
 MaxLevel: 10
 Guarded: 100
 Place: 2
+Difficult: 2
 Event: 2
 Dialog: 2201
 Dialog2: 0
@@ -6125,6 +6268,7 @@ MinLevel: 1
 MaxLevel: 8
 Guarded: 100
 Place: 1
+Difficult: 0
 Event: 2
 Dialog: 2202
 Dialog2: 0
@@ -6204,6 +6348,7 @@ MinLevel: 3
 MaxLevel: 8
 Guarded: 0
 Place: 2
+Difficult: 0
 Event: 2
 Dialog: 440
 Encounter: 1385
@@ -6238,6 +6383,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 2
+Difficult: 0
 Event: 2
 Dialog: 2234
 Dialog2: 0
@@ -6280,6 +6426,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 1
+Difficult: 0
 Event: 2
 Dialog: 2250
 Dialog2: 0
@@ -6318,6 +6465,7 @@ MinLevel: 4
 MaxLevel: 10
 Guarded: 100
 Place: 1
+Difficult: 1
 Event: 2
 Dialog: 2252
 Dialog2: 0
@@ -6365,6 +6513,7 @@ MinLevel: 1
 MaxLevel: 8
 Guarded: 100
 Place: 1
+Difficult: 0
 Event: 2
 Dialog: 2274
 Dialog2: 0
@@ -6397,7 +6546,7 @@ Poss: 4
 Guard: 145
 Poss: 8
 
-Guard: 60
+Guard: 62
 Poss: 2
 
 Guard: 26
@@ -6428,6 +6577,7 @@ MinLevel: 0
 MaxLevel: 0
 Guarded: 100
 Place: 2
+Difficult: 0
 Event: 2
 Dialog: 2276
 Dialog2: 0
@@ -6474,6 +6624,7 @@ MinLevel: 1
 MaxLevel: 4
 Guarded: 100
 Place: 1
+Difficult: 0
 Event: 2
 Dialog: 2287
 Dialog2: 0
@@ -6522,6 +6673,7 @@ MinLevel: 0
 MaxLevel: 12
 Guarded: 0
 Place: 2
+Difficult: 0
 Event: 2
 Dialog: 0
 Encounter: 1408
@@ -6556,6 +6708,7 @@ MinLevel: 1
 MaxLevel: 8
 Guarded: 100
 Place: 1
+Difficult: 0
 Event: 2
 Dialog: 2313
 Dialog2: 0
@@ -6594,6 +6747,7 @@ MinLevel: 1
 MaxLevel: 8
 Guarded: 100
 Place: 1
+Difficult: 0
 Event: 2
 Dialog: 2314
 Dialog2: 0
@@ -6632,6 +6786,7 @@ MinLevel: 4
 MaxLevel: 8
 Guarded: 100
 Place: 2
+Difficult: 0
 Event: 2
 Dialog: 2315
 Dialog2: 0
@@ -6674,6 +6829,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 1
+Difficult: 0
 Event: 2
 Dialog: 2336
 Dialog2: 0
@@ -6732,6 +6888,7 @@ MinLevel: 1
 MaxLevel: 8
 Guarded: 100
 Place: 1
+Difficult: 0
 Event: 2
 Dialog: 2337
 Dialog2: 0
@@ -6766,6 +6923,7 @@ MinLevel: 0
 MaxLevel: 12
 Guarded: 0
 Place: 2
+Difficult: 0
 Event: 2
 Dialog: 0
 Encounter: 1420
@@ -6800,6 +6958,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 1
+Difficult: 0
 Event: 2
 Dialog: 2348
 Dialog2: 0
@@ -6846,6 +7005,7 @@ MinLevel: 1
 MaxLevel: 8
 Guarded: 100
 Place: 1
+Difficult: 0
 Event: 2
 Dialog: 2367
 Dialog2: 0
@@ -6877,3 +7037,38 @@ Param2: 5
 Ability: 23
 Param1: 30
 Param2: -18;
+
+/142
+Name: Волчья чаща;
+MinLevel: 0
+MaxLevel: 8
+Guarded: 0
+Place: 2
+Difficult: 0
+Event: 2
+Dialog: 0
+Encounter: 1468
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 8
+Forest: 11
+Hill: 6
+Swamp: 4
+Desert: 3
+Tundra: 4
+
+Guards:
+Guard: 0
+Poss: 1;
+
+Ability:
+Ability: 5
+Param1: 12
+Param2: 0;

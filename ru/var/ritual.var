@@ -700,7 +700,7 @@ Param2: 0;
 /29
 Name: Мишень Братства;
 GoldCost: 0
-GemCost: 100
+GemCost: 75
 Sound: 65
 Karma: -4
 OnAlly: 0
@@ -729,7 +729,7 @@ Param2: 0;
 /30
 Name: Кровавая длань;
 GoldCost: 0
-GemCost: 50
+GemCost: 35
 Sound: 65
 Karma: -2
 OnAlly: 1

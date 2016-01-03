@@ -670,7 +670,7 @@ Upgrade: 0
 Building: 31
 GoldCost: 25
 GemCost: 0
-GoldAdd: 2
+GoldAdd: 3
 GemAdd: 0
 GoldPerc: 0
 GemPerc: 0
@@ -717,7 +717,7 @@ Upgrade: 14
 Building: 45
 GoldCost: 50
 GemCost: 0
-GoldAdd: 5
+GoldAdd: 6
 GemAdd: 0
 GoldPerc: 0
 GemPerc: 0
@@ -754,9 +754,17 @@ Ability: 3
 Param1: 1
 Param2: 44
 
+Ability: 3
+Param1: 1
+Param2: 47
+
 Ability: 10
 Param1: 2
-Param2: 0;
+Param2: 0
+
+Ability: 7
+Param1: 666
+Param2: -25;
 
 /16
 Name: Постоялый двор;
@@ -764,7 +772,7 @@ Upgrade: 15
 Building: 0
 GoldCost: 70
 GemCost: 0
-GoldAdd: 10
+GoldAdd: 12
 GemAdd: 0
 GoldPerc: 0
 GemPerc: 0
@@ -801,9 +809,21 @@ Ability: 3
 Param1: 1
 Param2: 44
 
+Ability: 3
+Param1: 1
+Param2: 47
+
+Ability: 6
+Param1: 2
+Param2: 250
+
 Ability: 10
-Param1: 3
-Param2: 0;
+Param1: 4
+Param2: 0
+
+Ability: 7
+Param1: 666
+Param2: -50;
 
 /17
 Name: Библиотека;
@@ -2371,10 +2391,10 @@ Param1: 3
 Param2: 3;
 
 /50
-Name: Форпост гноллов;
+Name: Орочий форпост;
 Upgrade: 0
 Building: 266
-GoldCost: 175
+GoldCost: 350
 GemCost: 0
 GoldAdd: 0
 GemAdd: 0
@@ -2402,16 +2422,20 @@ Swamp: 1
 Desert: 1
 Tundra: 1
 
-Resource: (1, 2, 2, 3)
+Resource: (1, 2, 2)
 
 ResourceBonus:
 Resource: 0
 Bonus: 0;
 
 Ability:
-Ability: 5
-Param1: 3
-Param2: 0
+Ability: 4
+Param1: 1
+Param2: 2
+
+Ability: 4
+Param1: 2
+Param2: 1
 
 Ability: 11
 Param1: 1

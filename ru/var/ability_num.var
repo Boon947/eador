@@ -1,4 +1,4 @@
-Quantity: 522
+Quantity: 509
 
 /0
 Name: Пусто;
@@ -121,7 +121,7 @@ Percent: 0
 
 /17
 Name: Бронебойный выстрел;
-Number: 17
+Number: 31
 Numeric: 0
 Effect: 0
 Percent: 0
@@ -212,14 +212,14 @@ Percent: 0
 
 /30
 Name: Иммунитет к заклинаниям;
-Number: 30
+Number: 110
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /31
 Name: Разрушение заклинаний;
-Number: 31
+Number: 213
 Numeric: 0
 Effect: 0
 Percent: 0
@@ -275,14 +275,14 @@ Percent: 0
 
 /39
 Name: Бронебойный удар;
-Number: 39
+Number: 30
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /40
 Name: Оглушающий удар;
-Number: 40
+Number: 39
 Numeric: 1
 Effect: 1
 Percent: 0
@@ -296,15 +296,15 @@ Percent: 0
 
 /42
 Name: Иммунитет к яду;
-Number: 42
+Number: 108
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /43
 Name: Сглаз;
-Number: 43
-Numeric: 0
+Number: 96
+Numeric: 1
 Effect: 0
 Percent: 0
 
@@ -359,7 +359,7 @@ Percent: 0
 
 /51
 Name: Калечащий удар;
-Number: 51
+Number: 127
 Numeric: 1
 Effect: 1
 Percent: 0
@@ -429,7 +429,7 @@ Percent: 0
 
 /61
 Name: Сокрушение зла;
-Number: 61
+Number: 120
 Numeric: 1
 Effect: 1
 Percent: 0
@@ -506,21 +506,21 @@ Percent: 0
 
 /72
 Name: Ядовитый выстрел;
-Number: 78
+Number: 42
 Numeric: 1
 Effect: 1
 Percent: 0
 
 /73
 Name: Насылает уязвимость;
-Number: 79
+Number: 179
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /74
 Name: Насылает болезнь;
-Number: 80
+Number: 178
 Numeric: 0
 Effect: 0
 Percent: 0
@@ -723,7 +723,7 @@ Percent: 0
 
 /103
 Name: Призван;
-Number: 103
+Number: 100
 Numeric: 0
 Effect: 0
 Percent: 0
@@ -933,7 +933,7 @@ Percent: 0
 
 /133
 Name: Ядовитая плоть;
-Number: 96
+Number: 43
 Numeric: 1
 Effect: 1
 Percent: 0
@@ -1135,7 +1135,7 @@ Effect: 0
 Percent: 0
 
 /162
-Name: Заклятье "Руна восстановления";
+Name: Заклятье "Руна обновления";
 Number: 2099
 Numeric: 1
 Effect: 0
@@ -1149,7 +1149,7 @@ Effect: 0
 Percent: 0
 
 /164
-Name: Заклятье "Руна обновления";
+Name: Заклятье "Руна восстановления";
 Number: 2101
 Numeric: 1
 Effect: 0
@@ -1177,14 +1177,14 @@ Effect: 0
 Percent: 0
 
 /168
-Name: Заклятье "Могучее оружие";
+Name: Заклятье "Щит земли";
 Number: 2105
 Numeric: 1
 Effect: 0
 Percent: 0
 
 /169
-Name: Заклятье "Звездопад";
+Name: Заклятье "Огненная ярость";
 Number: 2106
 Numeric: 1
 Effect: 0
@@ -1198,8 +1198,8 @@ Effect: 0
 Percent: 0
 
 /171
-Name: Заклятье "Безумие";
-Number: 2108
+Name: Заклятье "Усмирение духов";
+Number: 2367
 Numeric: 1
 Effect: 0
 Percent: 0
@@ -1212,7 +1212,7 @@ Effect: 0
 Percent: 0
 
 /173
-Name: Заклятье "Ярость орды";
+Name: Заклятье "Кровь орды";
 Number: 2110
 Numeric: 1
 Effect: 0
@@ -1591,21 +1591,21 @@ Percent: 0
 
 /227
 Name: Иммунитет к воздуху;
-Number: 105
+Number: 103
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /228
 Name: Бомбардировка;
-Number: 138
+Number: 139
 Numeric: 1
 Effect: 0
 Percent: 0
 
 /229
 Name: Иммунитет к внушениям;
-Number: 100
+Number: 104
 Numeric: 0
 Effect: 0
 Percent: 0
@@ -1808,56 +1808,56 @@ Percent: 0
 
 /258
 Name: Кошачья лапка;
-Number: 110
+Number: 260
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /259
 Name: Нога Вирта;
-Number: 111
+Number: 261
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /260
 Name: Хорадрический куб;
-Number: 112
+Number: 262
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /261
 Name: Кусок минералов;
-Number: 113
+Number: 263
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /262
 Name: Лазерный меч;
-Number: 114
+Number: 264
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /263
 Name: Пип-Бой;
-Number: 115
+Number: 265
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /264
 Name: Космические рейнджеры;
-Number: 185
+Number: 266
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /265
 Name: Кольцо Юрия;
-Number: 186
+Number: 267
 Numeric: 0
 Effect: 0
 Percent: 0
@@ -1941,14 +1941,14 @@ Percent: 0
 
 /277
 Name: Заклятье "Теневая форма";
-Number: 342
+Number: 314
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /278
 Name: Заклятье "Теневая форма";
-Number: 343
+Number: 315
 Numeric: 0
 Effect: 0
 Percent: 0
@@ -2185,10 +2185,10 @@ Effect: 0
 Percent: 0
 
 /312
-Name: Слуга Смерти;
-Number: 106
-Numeric: 0
-Effect: 0
+Name: Опытный лекарь;
+Number: 165
+Numeric: 1
+Effect: 1
 Percent: 0
 
 /313
@@ -2234,8 +2234,8 @@ Effect: 0
 Percent: 0
 
 /319
-Name: Животное;
-Number: 107
+Name: Оруженосец;
+Number: 166
 Numeric: 0
 Effect: 0
 Percent: 0
@@ -2276,99 +2276,99 @@ Effect: 0
 Percent: 0
 
 /325
-Name: Склизкая бомба;
+Name: Демонический вой;
 Number: 2261
 Numeric: 1
 Effect: 0
 Percent: 0
 
 /326
-Name: Великий воин стаи;
-Number: 122
-Numeric: 0
+Name: Инфернальный вой;
+Number: 2356
+Numeric: 1
 Effect: 0
 Percent: 0
 
 /327
-Name: Раздирающий-Плоть;
-Number: 123
+Name: Кровавое безумие;
+Number: 122
 Numeric: 0
-Effect: 0
+Effect: 1
 Percent: 0
 
 /328
-Name: Опаляющий-Плоть;
-Number: 124
-Numeric: 0
+Name: Безумная ярость;
+Number: 125
+Numeric: 1
 Effect: 0
 Percent: 0
 
 /329
-Name: Охотник за головами;
-Number: 125
-Numeric: 0
-Effect: 0
+Name: Холодная ярость;
+Number: 210
+Numeric: 1
+Effect: 1
 Percent: 0
 
 /330
-Name: Пронзающий-Плоть;
-Number: 126
-Numeric: 0
+Name: Заклятье "Целебный круг";
+Number: 2355
+Numeric: 1
 Effect: 0
 Percent: 0
 
 /331
-Name: Сжигающий-Плоть;
-Number: 127
+Name: Оплетающий выстрел;
+Number: 158
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /332
-Name: Руна Жизни;
-Number: 128
-Numeric: 1
-Effect: 1
-Percent: 0
-
-/333
-Name: Руна Хищника;
-Number: 129
+Name: Умелый взломщик;
+Number: 205
 Numeric: 0
 Effect: 0
 Percent: 0
 
-/334
-Name: Руна Ярости;
-Number: 130
+/333
+Name: Заклятье "Вызвать пересмешника";
+Number: 2354
 Numeric: 1
-Effect: 1
+Effect: 0
+Percent: 0
+
+/334
+Name: Заклятье "Шутка Бездны";
+Number: 2352
+Numeric: 1
+Effect: 0
 Percent: 0
 
 /335
-Name: Руна Неудержимости;
-Number: 131
+Name: Заклятье "Глоток Бездны";
+Number: 2353
 Numeric: 1
-Effect: 1
+Effect: 0
 Percent: 0
 
 /336
-Name: Руна Точности;
-Number: 132
-Numeric: 1
-Effect: 1
+Name: Клеймо тролля;
+Number: 226
+Numeric: 0
+Effect: 0
 Percent: 0
 
 /337
-Name: Руна Разрушения;
-Number: 133
-Numeric: 1
-Effect: 1
+Name: Клеймо волка;
+Number: 227
+Numeric: 0
+Effect: 0
 Percent: 0
 
 /338
-Name: Руна Проворства;
-Number: 134
+Name: Клеймо цербера;
+Number: 228
 Numeric: 0
 Effect: 0
 Percent: 0
@@ -2382,7 +2382,7 @@ Percent: 0
 
 /340
 Name: Дитя Света;
-Number: 135
+Number: 215
 Numeric: 0
 Effect: 0
 Percent: 0
@@ -2396,7 +2396,7 @@ Percent: 0
 
 /342
 Name: Трудоголик;
-Number: 258
+Number: 206
 Numeric: 1
 Effect: 1
 Percent: 1
@@ -2430,177 +2430,177 @@ Effect: 0
 Percent: 0
 
 /347
-Name: Феникс;
-Number: 309
+Name: Клеймо отродья;
+Number: 229
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /348
-Name: Древочеловек;
-Number: 310
+Name: Клеймо мстителя;
+Number: 230
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /349
-Name: Каменный голем;
-Number: 311
+Name: Клеймо суккуба;
+Number: 231
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /350
-Name: Драколич;
-Number: 312
+Name: Клеймо человека;
+Number: 232
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /351
-Name: Болотная стрекоза;
-Number: 313
+Name: Клеймо людоеда;
+Number: 233
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /352
-Name: Серафим;
-Number: 314
+Name: Клеймо алкари;
+Number: 234
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /353
-Name: Ахерон;
-Number: 315
+Name: Насылает недомогание;
+Number: 177
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /354
-Name: Дуэлянт;
-Number: 316
+Name: Гниющие раны;
+Number: 136
 Numeric: 0
-Effect: 0
+Effect: -1
 Percent: 0
 
 /355
-Name: Элементалистка;
-Number: 317
-Numeric: 0
+Name: Насылает гниение;
+Number: 137
+Numeric: 1
 Effect: 0
 Percent: 0
 
 /356
-Name: Волшебный дракон;
-Number: 318
-Numeric: 0
-Effect: 0
+Name: Пылающий клинок;
+Number: 143
+Numeric: 1
+Effect: 1
 Percent: 0
 
 /357
-Name: Псион;
-Number: 319
-Numeric: 0
-Effect: 0
+Name: Пылающие стрелы;
+Number: 144
+Numeric: 1
+Effect: 1
 Percent: 0
 
 /358
-Name: Медуза;
-Number: 320
-Numeric: 0
-Effect: 0
+Name: Раскалённый;
+Number: 146
+Numeric: 1
+Effect: 1
 Percent: 0
 
 /359
-Name: Птицелов;
-Number: 321
+Name: Иммунитет к кровотечению;
+Number: 109
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /360
-Name: Дракон;
-Number: 322
-Numeric: 0
+Name: Снайперский выстрел;
+Number: 78
+Numeric: 1
 Effect: 0
 Percent: 0
 
 /361
-Name: Тёмная жрица;
-Number: 323
-Numeric: 0
+Name: Мощный выстрел;
+Number: 79
+Numeric: 1
 Effect: 0
 Percent: 0
 
 /362
-Name: Штурмовое орудие;
-Number: 324
-Numeric: 0
+Name: Цепная молния;
+Number: 187
+Numeric: 1
 Effect: 0
 Percent: 0
 
 /363
-Name: Иллитид;
-Number: 325
+Name: Взрывное оружие;
+Number: 147
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /364
-Name: Виверна;
-Number: 326
+Name: Не колдует;
+Number: 150
 Numeric: 0
-Effect: 0
+Effect: -1
 Percent: 0
 
 /365
-Name: Демонолог;
-Number: 327
-Numeric: 0
+Name: Умелый заклинатель;
+Number: 161
+Numeric: 1
 Effect: 0
 Percent: 0
 
 /366
-Name: Эрикуба;
-Number: 328
-Numeric: 0
+Name: Заклятье "Прыжок";
+Number: 2158
+Numeric: 1
 Effect: 0
 Percent: 0
 
 /367
-Name: Школяр;
-Number: 329
+Name: Всплеск Тьмы;
+Number: 235
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /368
-Name: Адепт;
-Number: 330
+Name: Шторм Тьмы;
+Number: 236
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /369
-Name: Магистр;
-Number: 331
-Numeric: 0
+Name: Заклятье "Кокон Тьмы";
+Number: 2288
+Numeric: 1
 Effect: 0
 Percent: 0
 
 /370
-Name: Архимагистр;
-Number: 332
-Numeric: 0
-Effect: 0
+Name: Острые шипы;
+Number: 157
+Numeric: 1
+Effect: 1
 Percent: 0
 
 /371
-Name: Осадная машина;
-Number: 333
-Numeric: 0
+Name: Заклятье "Астральный раскол";
+Number: 2348
+Numeric: 1
 Effect: 0
 Percent: 0
 
@@ -2620,7 +2620,7 @@ Percent: 0
 
 /374
 Name: Ремонт;
-Number: 168
+Number: 124
 Numeric: 1
 Effect: 1
 Percent: 0
@@ -2633,9 +2633,9 @@ Effect: 0
 Percent: 0
 
 /376
-Name: Мастеровой;
-Number: 334
-Numeric: 0
+Name: Заклятье "Волшебный клык";
+Number: 2260
+Numeric: 1
 Effect: 0
 Percent: 0
 
@@ -2661,9 +2661,9 @@ Effect: 0
 Percent: 0
 
 /380
-Name: Лорд Хаоса;
-Number: 108
-Numeric: 0
+Name: Снабженец;
+Number: 167
+Numeric: 1
 Effect: 0
 Percent: 0
 
@@ -2717,10 +2717,10 @@ Effect: 0
 Percent: 0
 
 /388
-Name: Чёрный единорог;
-Number: 335
-Numeric: 0
-Effect: 0
+Name: Удар щитом;
+Number: 186
+Numeric: 1
+Effect: 1
 Percent: 0
 
 /389
@@ -2732,7 +2732,7 @@ Percent: 0
 
 /390
 Name: Газовый снаряд;
-Number: 352
+Number: 154
 Numeric: 1
 Effect: 0
 Percent: 0
@@ -2815,43 +2815,43 @@ Effect: 0
 Percent: 0
 
 /402
-Name: Великан;
-Number: 120
-Numeric: 0
-Effect: 0
+Name: Самоконтроль;
+Number: 184
+Numeric: 1
+Effect: 1
 Percent: 0
 
 /403
-Name: Коготь тени;
-Number: 336
-Numeric: 0
-Effect: 0
+Name: Тёмное восполнение;
+Number: 123
+Numeric: 1
+Effect: 1
 Percent: 0
 
 /404
-Name: Штурм-крыс;
-Number: 337
-Numeric: 0
-Effect: 0
+Name: Охотник на нежить;
+Number: 202
+Numeric: 1
+Effect: 1
 Percent: 0
 
 /405
-Name: Крысоед;
-Number: 338
-Numeric: 0
-Effect: 0
+Name: Охотник на демонов;
+Number: 203
+Numeric: 1
+Effect: 1
 Percent: 0
 
 /406
-Name: Свежеватель;
-Number: 339
+Name: Заклятье "Каменная корка";
+Number: 303
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /407
-Name: Повелитель Распада;
-Number: 340
+Name: Заклятье "Теневая форма";
+Number: 317
 Numeric: 0
 Effect: 0
 Percent: 0
@@ -2864,15 +2864,15 @@ Effect: 0
 Percent: 0
 
 /409
-Name: Стихийный дух;
-Number: 109
-Numeric: 0
-Effect: 0
-Percent: 0
+Name: Ищейка;
+Number: 204
+Numeric: 1
+Effect: 1
+Percent: 1
 
 /410
-Name: Ликан;
-Number: 341
+Name: Заклятье "Теневая форма";
+Number: 318
 Numeric: 0
 Effect: 0
 Percent: 0
@@ -2893,28 +2893,28 @@ Percent: 0
 
 /413
 Name: Тёмное превосходство;
-Number: 200
+Number: 121
 Numeric: 1
 Effect: 1
 Percent: 0
 
 /414
 Name: Иммунитет к паутине;
-Number: 201
+Number: 105
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /415
 Name: Иммунитет к окаменению;
-Number: 202
+Number: 106
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /416
 Name: Иммунитет к оплетению;
-Number: 203
+Number: 107
 Numeric: 0
 Effect: 0
 Percent: 0
@@ -2991,36 +2991,36 @@ Percent: 0
 
 /427
 Name: Заклятье "Чёрная кровь";
-Number: 355
+Number: 301
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /428
-Name: Скелет;
-Number: 187
-Numeric: 0
+Name: Заклятье "Целебный круг";
+Number: 2272
+Numeric: 1
 Effect: 0
 Percent: 0
 
 /429
 Name: Бестелесный;
-Number: 121
+Number: 80
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /430
 Name: Заклятье "Газовая форма";
-Number: 351
+Number: 312
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /431
-Name: Культист Хаоса;
-Number: 188
-Numeric: 0
+Name: Заклятье "Рывок";
+Number: 2299
+Numeric: 1
 Effect: 0
 Percent: 0
 
@@ -3095,8 +3095,8 @@ Effect: 1
 Percent: 0
 
 /442
-Name: Старший конструктор;
-Number: 354
+Name: Заклятье "Теневая форма";
+Number: 319
 Numeric: 0
 Effect: 0
 Percent: 0
@@ -3187,7 +3187,7 @@ Percent: 0
 
 /455
 Name: Калечащий выстрел;
-Number: 197
+Number: 128
 Numeric: 1
 Effect: 1
 Percent: 0
@@ -3201,84 +3201,84 @@ Percent: 0
 
 /457
 Name: Прилив сил;
-Number: 194
+Number: 195
 Numeric: 1
 Effect: 1
 Percent: 0
 
 /458
 Name: Глухая оборона;
-Number: 193
+Number: 185
 Numeric: 1
 Effect: 1
 Percent: 0
 
 /459
 Name: Жизнеотбор;
-Number: 104
+Number: 168
 Numeric: 1
 Effect: 1
 Percent: 0
 
 /460
 Name: Оглушающий выстрел;
-Number: 156
+Number: 40
 Numeric: 1
 Effect: 1
 Percent: 0
 
 /461
 Name: Устрашающий выстрел;
-Number: 169
+Number: 51
 Numeric: 1
 Effect: 1
 Percent: 0
 
 /462
 Name: Острое оружие;
-Number: 208
+Number: 155
 Numeric: 1
 Effect: 1
 Percent: 0
 
 /463
 Name: Острые стрелы;
-Number: 209
+Number: 156
 Numeric: 1
 Effect: 1
 Percent: 0
 
 /464
 Name: Зачарованный клинок;
-Number: 151
+Number: 61
 Numeric: 1
 Effect: 1
 Percent: 0
 
 /465
 Name: Жажда крови;
-Number: 211
+Number: 197
 Numeric: 1
 Effect: 1
 Percent: 0
 
 /466
 Name: Повреждение ауры;
-Number: 212
+Number: 134
 Numeric: 1
 Effect: 1
 Percent: 0
 
 /467
 Name: Астральные снаряды;
-Number: 213
+Number: 135
 Numeric: 1
 Effect: 1
 Percent: 0
 
 /468
 Name: Бдительность;
-Number: 214
+Number: 126
 Numeric: 0
 Effect: 0
 Percent: 0
@@ -3292,7 +3292,7 @@ Percent: 0
 
 /470
 Name: Заклятье "Каменная форма";
-Number: 350
+Number: 313
 Numeric: 0
 Effect: 0
 Percent: 0
@@ -3306,14 +3306,14 @@ Percent: 0
 
 /472
 Name: Сменить оружие;
-Number: 216
+Number: 131
 Numeric: 0
 Effect: 1
 Percent: 0
 
 /473
 Name: Сменить снаряды;
-Number: 217
+Number: 132
 Numeric: 0
 Effect: 1
 Percent: 0
@@ -3327,7 +3327,7 @@ Percent: 0
 
 /475
 Name: Армагеддон;
-Number: 219
+Number: 201
 Numeric: 0
 Effect: 0
 Percent: 0
@@ -3362,7 +3362,7 @@ Percent: 0
 
 /480
 Name: Заклятье "Теневая форма";
-Number: 344
+Number: 316
 Numeric: 0
 Effect: 0
 Percent: 0
@@ -3375,288 +3375,197 @@ Effect: 0
 Percent: 0
 
 /482
-Name: Заклятье "Теневая форма";
-Number: 345
-Numeric: 0
-Effect: 0
-Percent: 0
-
-/483
-Name: Заклятье "Теневая форма";
-Number: 346
-Numeric: 0
-Effect: 0
-Percent: 0
-
-/484
 Name: Заклятье "Танец теней";
 Number: 2346
 Numeric: 1
 Effect: 0
 Percent: 0
 
-/485
-Name: Заклятье "Теневая форма";
-Number: 347
+/483
+Name: Стена копий;
+Number: 17
 Numeric: 0
+Effect: 0
+Percent: 0
+
+/484
+Name: Перехват;
+Number: 217
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/485
+Name: Гнев духов;
+Number: 218
+Numeric: 1
 Effect: 0
 Percent: 0
 
 /486
-Name: Заклятье "Каменная корка";
-Number: 303
-Numeric: 0
+Name: Всеобщая жажда крови;
+Number: 320
+Numeric: 1
 Effect: 0
 Percent: 0
 
 /487
-Name: Созерцатель;
-Number: 301
-Numeric: 0
+Name: Всеобщая жажда крови;
+Number: 321
+Numeric: 1
 Effect: 0
 Percent: 0
 
 /488
-Name: Тёмное восполнение;
-Number: 215
+Name: Всеобщая жажда крови;
+Number: 322
 Numeric: 1
-Effect: 1
+Effect: 0
 Percent: 0
 
 /489
-Name: Охотник на нежить;
-Number: 220
+Name: Всеобщие ожоги;
+Number: 323
 Numeric: 1
-Effect: 1
+Effect: 0
 Percent: 0
 
 /490
-Name: Охотник на демонов;
-Number: 221
+Name: Всеобщие ожоги;
+Number: 324
 Numeric: 1
-Effect: 1
+Effect: 0
 Percent: 0
 
 /491
-Name: Заклятье "Астральный раскол";
-Number: 2348
+Name: Всеобщие ожоги;
+Number: 325
 Numeric: 1
 Effect: 0
 Percent: 0
 
 /492
-Name: Иммунитет к кровотечению;
-Number: 204
-Numeric: 0
+Name: Всеобщий вампиризм;
+Number: 326
+Numeric: 1
 Effect: 0
 Percent: 0
 
 /493
-Name: Взрывное оружие;
-Number: 137
-Numeric: 0
+Name: Всеобщий вампиризм;
+Number: 327
+Numeric: 1
 Effect: 0
 Percent: 0
 
 /494
-Name: Не колдует;
-Number: 150
-Numeric: 0
-Effect: -1
+Name: Всеобщий вампиризм;
+Number: 328
+Numeric: 1
+Effect: 0
 Percent: 0
 
 /495
-Name: Всплеск Тьмы;
-Number: 348
-Numeric: 0
+Name: Заклятье "Тотем Земли";
+Number: 2363
+Numeric: 1
 Effect: 0
 Percent: 0
 
 /496
-Name: Шторм Тьмы;
-Number: 349
-Numeric: 0
+Name: Заклятье "Тотем Ярости";
+Number: 2364
+Numeric: 1
 Effect: 0
 Percent: 0
 
 /497
-Name: Гниющие раны;
-Number: 136
-Numeric: 0
-Effect: -1
+Name: Заклятье "Тотем Огня";
+Number: 2365
+Numeric: 1
+Effect: 0
 Percent: 0
 
 /498
-Name: Острые шипы;
-Number: 210
+Name: Заклятье "Тотем Крови";
+Number: 2366
 Numeric: 1
-Effect: 1
+Effect: 0
 Percent: 0
 
 /499
-Name: Снайперский выстрел;
-Number: 152
+Name: Заклятье "Сила духов";
+Number: 2368
 Numeric: 1
 Effect: 0
 Percent: 0
 
 /500
-Name: Заклятье "Кокон Тьмы";
-Number: 2288
+Name: Дальность призыва;
+Number: 911
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/501
+Name: Заклятье "Призыв духа огня";
+Number: 2170
 Numeric: 1
 Effect: 0
 Percent: 0
 
-/501
-Name: Пылающий клинок;
-Number: 143
-Numeric: 1
-Effect: 1
-Percent: 0
-
 /502
-Name: Пылающие стрелы;
-Number: 144
+Name: Всеобщая жажда крови;
+Number: 335
 Numeric: 1
-Effect: 1
+Effect: 0
 Percent: 0
 
 /503
-Name: Раскалённый;
-Number: 154
+Name: Настороженность;
+Number: 169
 Numeric: 1
 Effect: 1
 Percent: 0
 
 /504
-Name: Цепная молния;
-Number: 155
-Numeric: 1
-Effect: 0
+Name: Командир орков;
+Number: 3030
+Numeric: 0
+Effect: 1
 Percent: 0
 
 /505
-Name: Мощный выстрел;
-Number: 157
+Name: Живучесть;
+Number: 214
 Numeric: 1
-Effect: 0
-Percent: 0
+Effect: 1
+Percent: 1
 
 /506
-Name: Заклятье "Прыжок";
-Number: 2158
+Name: Живительная сила;
+Number: 336
 Numeric: 1
 Effect: 0
 Percent: 0
 
 /507
-Name: Умелый заклинатель;
-Number: 161
+Name: Живительная сила;
+Number: 337
 Numeric: 1
 Effect: 0
 Percent: 0
 
 /508
-Name: Насылает гниение;
-Number: 164
+Name: Живительная сила;
+Number: 338
 Numeric: 1
 Effect: 0
 Percent: 0
 
 /509
-Name: Ищейка;
-Number: 256
-Numeric: 1
-Effect: 1
-Percent: 1
-
-/510
-Name: Оруженосец;
-Number: 166
-Numeric: 0
-Effect: 0
-Percent: 0
-
-/511
-Name: Заклятье "Целебный круг";
-Number: 2272
+Name: Живительная сила;
+Number: 339
 Numeric: 1
 Effect: 0
-Percent: 0
-
-/512
-Name: Заклятье "Рывок";
-Number: 2299
-Numeric: 1
-Effect: 0
-Percent: 0
-
-/513
-Name: Опытный лекарь;
-Number: 165
-Numeric: 1
-Effect: 1
-Percent: 0
-
-/514
-Name: Снабженец;
-Number: 167
-Numeric: 1
-Effect: 0
-Percent: 0
-
-/515
-Name: Самоконтроль;
-Number: 184
-Numeric: 1
-Effect: 1
-Percent: 0
-
-/516
-Name: Заклятье "Шутка Бездны";
-Number: 2352
-Numeric: 1
-Effect: 0
-Percent: 0
-
-/517
-Name: Заклятье "Глоток Бездны";
-Number: 2353
-Numeric: 1
-Effect: 0
-Percent: 0
-
-/518
-Name: Заклятье "Вызвать пересмешника";
-Number: 2354
-Numeric: 1
-Effect: 0
-Percent: 0
-
-/519
-Name: Умелый взломщик;
-Number: 257
-Numeric: 0
-Effect: 0
-Percent: 0
-
-/520
-Name: Оплетающий выстрел;
-Number: 158
-Numeric: 0
-Effect: 0
-Percent: 0
-
-/521
-Name: Заклятье "Целебный круг";
-Number: 2355
-Numeric: 1
-Effect: 0
-Percent: 0
-
-/522
-Name: Холодная ярость;
-Number: 225
-Numeric: 1
-Effect: 1
 Percent: 0
