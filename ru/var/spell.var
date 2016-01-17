@@ -1123,7 +1123,7 @@ DrainLife: 68
 Power: 50
 Duration: 3
 
-RangeDrain: 104
+RangeDrain: 168
 Power: 50
 Duration: 3;
 
@@ -5413,11 +5413,11 @@ Smite_Evil: 120
 Power: 1
 Duration: 6
 
-UndeadHunter: 220
+UndeadHunter: 202
 Power: 1
 Duration: 6
 
-DemonHunter: 221
+DemonHunter: 203
 Power: 2
 Duration: 6;
 
@@ -5512,7 +5512,7 @@ Power: 1
 Duration: 4;
 
 /146
-Name: Прочность камня;
+Name: Броня веры;
 Cost: 5
 LifeCost: 0
 StamCost: 1
@@ -5540,17 +5540,9 @@ UnitKind: (2, 3, 4, 22, 23)
 AntiEffect: (110)
 
 Effects:
-Defence: 4
-Power: 4
-Duration: 5
-
-RangedDefence: 5
-Power: 4
-Duration: 5
-
-Resist: 6
-Power: 4
-Duration: 5;
+HeavenlyArmor: 232
+Power: 25
+Duration: 4;
 
 /147
 Name: Истинное воскрешение;
@@ -5627,19 +5619,15 @@ Power: 2
 Duration: 4
 
 Defence: 4
-Power: 5
+Power: 2
 Duration: 4
 
 RangedDefence: 5
-Power: 5
+Power: 2
 Duration: 4
 
-Resist: 6
-Power: 5
-Duration: 4
-
-Magic_Immunity: 30
-Power: 1
+HeavenlyArmor: 232
+Power: 50
 Duration: 4;
 
 /149
@@ -8257,7 +8245,7 @@ Resistance: 6
 Power: 5
 Duration: 4
 
-Mind_Immunity: 100
+Mind_Immunity: 104
 Power: 1
 Duration: 4
 
@@ -11935,17 +11923,17 @@ Duration: 6;
 
 /316
 Name: Ярость небес;
-Cost: 12
+Cost: 16
 LifeCost: 0
-StamCost: 2
+StamCost: 3
 ItemLevel: 3
 Level: 3
-PowerMod: 0
-DurationMod: 100
-Target: 3
-Area: 1
-Radius: 2
-Karma: 2
+PowerMod: 50
+DurationMod: 0
+Target: 0
+Area: 2
+Radius: 0
+Karma: 3
 Building: -135
 Unloot: 1
 Negative: 1
@@ -11953,22 +11941,18 @@ OnEnemy: 1
 OnAlly: 1
 Sacrifice: 0
 ResistPower: 0
-ResistDuration: 50
+ResistDuration: 0
 DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 266
-UnitKind: (-2, 18)
+UnitKind: (0)
 AntiEffect: (110)
 
 Effects:
-Damage: 1
-Power: -5
-Duration: 5
-
-Damage: 1
-Power: 7
-Duration: -1;
+UndeadDamage: 230
+Power: 5
+Duration: 316;
 
 /317
 Name: Издёвка;
@@ -12802,7 +12786,7 @@ PierceResist: 196
 Power: 50
 Duration: 3
 
-AstralShoot: 213
+AstralShoot: 135
 Power: 3
 Duration: 3
 
@@ -13072,7 +13056,7 @@ Swamper: 34
 Power: 8
 Duration: 4
 
-MightyShoot: 157
+MightyShoot: 79
 Power: 3
 Duration: 4
 
@@ -13271,7 +13255,7 @@ ShootingRange: 9
 Power: 1
 Duration: 3
 
-AstralShoot: 213
+AstralShoot: 135
 Power: 3
 Duration: 3
 
@@ -13948,7 +13932,7 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 29
-UnitKind: (2, 4, 17, 22)
+UnitKind: (2, 4, 17, 22, 23)
 AntiEffect: (110)
 
 Effects:
@@ -14008,7 +13992,7 @@ Duration: -1;
 /364
 Name: Тотем Ярости;
 Cost: 5
-LifeCost: 0
+LifeCost: 2
 StamCost: 3
 ItemLevel: 8
 Level: 5

@@ -38104,17 +38104,17 @@ Param2: 1
 Index: 40
 Power: 3
 Param1: 6
-Param2: 5
+Param2: 4
 
 Index: 40
 Power: 6
 Param1: 6
-Param2: 5
+Param2: 4
 
 Index: 40
 Power: 3
 Param1: 4
-Param2: 4;
+Param2: 2;
 
 /1341 Гномья крепость, победа
 Type: 0
@@ -38190,22 +38190,22 @@ Param2: 1
 Index: 40
 Power: 1
 Param1: 5
-Param2: 5
+Param2: 4
 
 Index: 40
 Power: 9
 Param1: 5
-Param2: 4
+Param2: 3
 
 Index: 40
 Power: 8
 Param1: 6
-Param2: 5
+Param2: 4
 
 Index: 40
 Power: 9
 Param1: 6
-Param2: 5;
+Param2: 4;
 
 /1343 Конклав, победа
 Type: 0
@@ -38238,12 +38238,12 @@ Param2: 1
 Index: 40
 Power: 4
 Param1: 5
-Param2: 4
+Param2: 3
 
 Index: 40
 Power: -1
 Param1: 5
-Param2: 4
+Param2: 3
 
 Index: 40
 Power: 10
@@ -43804,7 +43804,7 @@ Answer2: 0;
 
 *Effects*:
 Index: 16
-Power: 682
+Power: 648
 Param1: 1
 Param2: 100;
 

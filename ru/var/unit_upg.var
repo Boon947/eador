@@ -1945,11 +1945,11 @@ Upg Type: 2145
 Quantity: 3;
 
 /267
-Name: Прочность камня;
+Name: Броня веры;
 Only Once: 1
 Need: (0)
 Upg Type: 2146
-Quantity: 3;
+Quantity: 2;
 
 /268
 Name: Истинное воскрешение;
@@ -6273,14 +6273,11 @@ Upg Type: 210
 Quantity: 4;
 
 /752
-Name: Безумие орков +1;
+Name: Броня веры;
 Only Once: 0
 Need: (0)
-Upg Type: 25
-Quantity: 1
-
-Upg Type: 210
-Quantity: 1;
+Upg Type: 232
+Quantity: 25;
 
 /753
 Name: Глухая оборона 5;

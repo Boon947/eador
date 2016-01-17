@@ -32148,7 +32148,7 @@ Answer1: 0;
 
 *Effects*:
 AddItem: 21
-Power: 676
+Power: 665
 Param1: 0
 Param2: 0;
 
@@ -32242,7 +32242,7 @@ Answer1: 0;
 
 *Effects*:
 AddItem: 21
-Power: 678
+Power: 667
 Param1: 0
 Param2: 0;
 
@@ -32349,7 +32349,7 @@ Answer1: 0;
 
 *Effects*:
 AddItem: 21
-Power: 679
+Power: 668
 Param1: 0
 Param2: 0;
 
@@ -35314,7 +35314,7 @@ Answer1: 0;
 
 *Effects*:
 Index: 11
-Power: 1474
+Power: 1475
 Param1: 1477
 Param2: 70;
 

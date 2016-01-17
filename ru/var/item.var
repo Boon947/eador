@@ -6990,7 +6990,7 @@ Power: 5
 Area: 0
 
 Swampwalk: 34
-Power: 4
+Power: 2
 Area: 0;
 
 
@@ -7017,7 +7017,7 @@ Power: 3
 Area: 0
 
 Hillwalk: 33
-Power: 4
+Power: 2
 Area: 0;
 
 
@@ -7048,7 +7048,7 @@ Power: 1
 Area: 0
 
 Forestwalk: 32
-Power: 4
+Power: 2
 Area: 0;
 
 
@@ -8829,7 +8829,7 @@ Power: 2
 Area: 0
 
 HillDweller: 33
-Power: 4
+Power: 2
 Area: 0;
 
 
@@ -11468,7 +11468,7 @@ Power: 1
 Area: 0
 
 Forester: 32
-Power: 4
+Power: 2
 Area: 0;
 
 /468
@@ -11502,7 +11502,7 @@ Power: 1
 Area: 0
 
 Hillwalk: 33
-Power: 4
+Power: 2
 Area: 0;
 
 /469
@@ -11622,7 +11622,7 @@ Power: 20
 Area: 0
 
 Swampwalk: 34
-Power: 4
+Power: 2
 Area: 0;
 
 /473
@@ -13545,7 +13545,7 @@ Burning: 143
 Power: 1
 Area: 0
 
-BurningArrows: 144
+BurningArrows: 107
 Power: 1
 Area: 0;
 
@@ -15003,7 +15003,7 @@ RangedDefence: 5
 Power: 3
 Area: 0
 
-AirImmunity: 105
+AirImmunity: 103
 Power: 1
 Area: 0;
 

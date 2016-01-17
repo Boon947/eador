@@ -389,8 +389,8 @@ Lvl 20 loot: (0, 0)
 Name: Мечник;
 Level: 1
 Life: 17
-Attack: 10
-CounterAttack: 6
+Attack: 8
+CounterAttack: 8
 Defence: 3
 RangedDefence: 5
 Resist: 1
@@ -420,22 +420,22 @@ Resource: (1)
 Abilityes:
 Parry: 590;
 		
-Lvl 01 upgrades: (1, 4; 4, 5; 34, 4; 13, 3; 59, 1)
+Lvl 01 upgrades: (1, 4; 4, 4; 34, 4; 13, 3; 59, 1)
 Lvl 02 upgrades: (30, 4; 7, 4; 85, 4)
 Lvl 03 upgrades: (2, 4; 10, 4; 726, 1)
 Lvl 04 upgrades: (30, 4; 4, 4; 16, 4)
 Lvl 05 upgrades: (2, 4; 34, 4; 85, 4)
 Lvl 06 upgrades: (30, 4; 7, 4; 13, 4)
-Lvl 07 upgrades: (2, 4; 4, 5; 630, 5)
+Lvl 07 upgrades: (2, 4; 4, 4; 630, 5)
 Lvl 08 upgrades: (31, 4; 10, 4; 16, 4)
 Lvl 09 upgrades: (3, 4; 35, 4; 85, 4)
 Lvl 10 upgrades: (31, 4; 7, 4; 165, 5)
 Lvl 11 upgrades: (36, 4; 13, 4; 727, 4)
-Lvl 12 upgrades: (31, 4; 5, 5; 10, 4; 633, 4)
+Lvl 12 upgrades: (31, 4; 5, 4; 10, 4; 633, 4)
 Lvl 13 upgrades: (25, 4; 35, 4; 85, 4)
 Lvl 14 upgrades: (31, 4; 38, 4; 40, 4; 165, 10)
 Lvl 15 upgrades: (25, 4; 42, 4; 40, 4; 14, 4)
-Lvl 16 upgrades: (32, 4; 5, 5; 8, 4; 85, 4)
+Lvl 16 upgrades: (32, 4; 8, 5; 85, 4)
 Lvl 17 upgrades: (37, 4; 42, 4; 165, 15)
 Lvl 18 upgrades: (32, 4; 5, 5; 14, 4; 633, 4)
 Lvl 19 upgrades: (37, 4; 35, 4; 11, 4)
@@ -1246,8 +1246,8 @@ Lvl 20 loot: (0, 0)
 Name: Гном;
 Level: 1
 Life: 21
-Attack: 7
-CounterAttack: 9
+Attack: 10
+CounterAttack: 6
 Defence: 4
 RangedDefence: 6
 Resist: 3
@@ -5384,7 +5384,8 @@ Abilityes:
 Poisonous_spit: 151
 Poisonous_flash: 147
 Poison_immunity: 72
-Swamp_dweller: 64;
+Swamp_dweller: 64
+Extra_Healing: 758;
 		
 Lvl 01 upgrades: (1, 4; 4, 4; 10, 4; 82, 2)
 Lvl 02 upgrades: (30, 4; 7, 4; 13, 4; 20, 4)
@@ -6391,8 +6392,8 @@ Lvl 20 loot: (0, 0)
 Name: Латник;
 Level: 1
 Life: 24
-Attack: 12
-CounterAttack: 8
+Attack: 10
+CounterAttack: 10
 Defence: 5
 RangedDefence: 7
 Resist: 2
@@ -8741,7 +8742,7 @@ Lvl 05 upgrades: (1, 4; 27, 4; 52, 4; 759, 4)
 Lvl 06 upgrades: (30, 4; 4, 4; 7, 4; 749, 7)
 Lvl 07 upgrades: (1, 4; 16, 4; 746, 6)
 Lvl 08 upgrades: (30, 4; 10, 4; 34, 4)
-Lvl 09 upgrades: (1, 4; 4, 4; 7, ; 13, 4)
+Lvl 09 upgrades: (1, 4; 4, 4; 7, 4; 13, 4)
 Lvl 10 upgrades: (31, 4; 27, 4; 16, 4)
 Lvl 11 upgrades: (2, 4; 4, 4; 749, 8)
 Lvl 12 upgrades: (31, 4; 7, 4; 42, 4)
@@ -9460,7 +9461,7 @@ Lvl 04 upgrades: (16, 1; 7, 5)
 Lvl 05 upgrades: (1, 4; 30, 4; 4, 3)
 Lvl 06 upgrades: (34, 4; 13, 3)
 Lvl 07 upgrades: (1, 4; 20, 3)
-Lvl 08 upgrades: (51, 4; 27, 5; 23, 3)
+Lvl 08 upgrades: (51, 4; 27, 5; 23, 2)
 Lvl 09 upgrades: (1, 4; 30, 4)
 Lvl 10 upgrades: (7, 4; 626, 1)
 Lvl 11 upgrades: (16, 1; 20, 3; 51, 4)
@@ -11049,7 +11050,7 @@ Lvl 01 upgrades: (1, 4; 7, 1; 13, 3; 16, 4)
 Lvl 02 upgrades: (7, 3; 21, 4; 30, 4; 127, 4)
 Lvl 03 upgrades: (1, 4; 10, 4; 34, 4; 682, 4)
 Lvl 04 upgrades: (4, 4; 16, 4; 30, 4)
-Lvl 05 upgrades: (2, 4; 27, 4)
+Lvl 05 upgrades: (2, 4; 21, 4; 27, 4)
 Lvl 06 upgrades: (7, 4; 13, 4; 30, 4; 680, 4)
 Lvl 07 upgrades: (2, 4; 10, 4; 34, 4; 626, 3)
 Lvl 08 upgrades: (4, 4; 17, 4; 31, 4; 56, 3)
@@ -11057,7 +11058,7 @@ Lvl 09 upgrades: (2, 4; 21, 4; 127, 4)
 Lvl 10 upgrades: (7, 4; 13, 4; 31, 4; 103, 4)
 Lvl 11 upgrades: (10, 4; 34, 4; 36, 4)
 Lvl 12 upgrades: (4, 4; 17, 4; 31, 4; 59, 3)
-Lvl 13 upgrades: (3, 4; 27, 4; 35, 4)
+Lvl 13 upgrades: (3, 4; 21, 4; 27, 4; 35, 4)
 Lvl 14 upgrades: (31, 4; 38, 4; 40, 4; 682, 4)
 Lvl 15 upgrades: (3, 4; 23, 4; 40, 4; 42, 4)
 Lvl 16 upgrades: (8, 4; 18, 4; 32, 4; 627, 4)
@@ -11123,7 +11124,8 @@ Abilityes:
 Magic_Shot: 58
 Healing: 94
 Meditation: 52
-Dispel: 263;
+Dispel: 263
+HeavenlyArmor: 752;
 		
 Lvl 01 upgrades: (1, 4; 16, 4; 34, 4; 26, 4; 7, 4)
 Lvl 02 upgrades: (30, 4; 20, 4; 65, 3; 548, 1)
@@ -11204,7 +11206,8 @@ Magic_shot: 58
 Meditation: 52
 Cast_DemonHunter: 264
 Energy_Control: 149
-Spell_Destruction: 521;
+Spell_Destruction: 521
+HeavenlyArmor: 752;
 		
 Lvl 01 upgrades: (1, 4; 34, 4; 150, 1; 16, 4)
 Lvl 02 upgrades: (30, 4; 20, 4; 13, 4; 270, 5)
@@ -11369,7 +11372,8 @@ Abilityes:
 First_Strike: 46
 Smite_evil_3: 279
 Undead_hunter: 680
-Demon_hunter: 682;
+Demon_hunter: 682
+HeavenlyArmor: 752;
 		
 Lvl 01 upgrades: (2, 4; 4, 4; 10, 4; 34, 4)
 Lvl 02 upgrades: (31, 4; 7, 4; 13, 4)
@@ -22607,7 +22611,8 @@ Lvl 04 upgrades: (1, 4; 13, 4)
 Lvl 05 upgrades: (735, 6; 548, 5)
 Lvl 06 upgrades: (1, 4; 1, 4)
 Lvl 07 upgrades: (1, 4; 16, 4)
-Lvl 08 upgrades: (1, 4; , 4)
+Lvl 08 upgrades: (1, 4; 2, 4)
+Lvl 08 upgrades: (1, 4; 2, 4)
 Lvl 09 upgrades: (1, 4; 13, 4)
 Lvl 10 upgrades: (736, 8; 210, 10)
 Lvl 11 upgrades: (1, 4; 1, 4)

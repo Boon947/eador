@@ -1,4 +1,4 @@
-Quantity: 509
+Quantity: 510
 
 /0
 Name: Пусто;
@@ -1492,7 +1492,7 @@ Effect: 0
 Percent: 0
 
 /213
-Name: Заклятье "Прочность камня";
+Name: Заклятье "Броня веры";
 Number: 2146
 Numeric: 1
 Effect: 0
@@ -3509,7 +3509,7 @@ Percent: 0
 
 /501
 Name: Заклятье "Призыв духа огня";
-Number: 2170
+Number: 2369
 Numeric: 1
 Effect: 0
 Percent: 0
@@ -3569,3 +3569,10 @@ Number: 339
 Numeric: 1
 Effect: 0
 Percent: 0
+
+/510
+Name: Броня веры;
+Number: 232
+Numeric: 1
+Effect: 1
+Percent: 1
