@@ -119,7 +119,7 @@ Grow: 90
 Terra: 0
 Unrest: 40
 Quests: (5)
-Plains: 30
+Plains: 25
 Forest: 0
 Hills: 25
 Swamp: 0
@@ -163,7 +163,7 @@ Desert: 0
 Tundra: 0
 
 /9
-Name: Alvar;
+Name: Drow;
 Prov_Type: 25
 Gold income: 100
 Gem income: 150
@@ -190,8 +190,8 @@ Corrupt: 10
 Grow: 130
 Terra: 1
 Unrest: 75
-Quests: (58)
-Plains: 30
+Quests: (0)
+Plains: 35
 Forest: 0
 Hills: 0
 Swamp: 0
@@ -199,7 +199,7 @@ Desert: 0
 Tundra: 0
 
 /11
-Name: Alkari;
+Name: Alkaryl;
 Prov_Type: 27
 Gold income: 90
 Gem income: 110

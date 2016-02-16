@@ -254,12 +254,16 @@ The locals are not too happy about such neighbors - there is not much difference
 Population mood -1.#
 
 77. Casino
-#In this gaming establishment you may win money or gems. However, you can blow up all your money acquired through the hard work. And there is a currency exchange - gems for money (and vice versa). Income +5. Gem income +1.#
+#In this gaming establishment you may win money or gems. However, you can blow up all your money acquired through the hard work. And there is a currency exchange - gems for money (and vice versa).
+Income +5.
+Gem income +1.#
 
 78. Gambling House
-#In this gaming establishment you can win valuable items, putting gold with crystals into game. Income +10. Gem income +2.#
+#In this gaming establishment you can win valuable items, putting gold with crystals into game.
+Income +10.
+Gem income +2.#
 
-79. Alvari Citadel
+79. Drow Citadel
 #You can hire an army of dark elves here.#
 
 80. Dark Elven Citadel
@@ -403,7 +407,7 @@ Reduce province gold income by 50~. Population mood -2.#
 123. Altar of Chaos
 #No description#
 
-124. Alvari Town
+124. Drow Town
 #No description#
 
 125. Idol
@@ -455,4 +459,7 @@ Reduce province gold income by 50~. Population mood -2.#
 #No description#
 
 141. Ancient Crypt
+#No description#
+
+142. Wolf Thicket
 #No description#

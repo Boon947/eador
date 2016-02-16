@@ -1,10 +1,10 @@
-Quantity: 43
+Quantity: 44
 
 0. Right-click
 #You can view unit and hero statistics along with other game details by right-clicking on their corresponding icon.#
 
 1. Experience
-#The more actively the unit participates in a battle, the more experience he gains. Summoned creatures don't get any experience at the end of a battle, regardless of their actions in it.#
+#The more actively the unit participates in a battle, the more experience he gains. Summoned creatures don't get any experience at the end of a battle, regardless of their actions in it. However, units do earn experience for killing summoned creatures.#
 
 2. Deterioration
 #Heroes' equipment deteriorates with use - weapons and ammunition during attacks, armor when taking damage.#
@@ -52,7 +52,7 @@ Quantity: 43
 #In order to build an Allies' Quarter, you have to form an alliance with one of the non-human races. You need to negotiate with the representatives of this race inhabiting a neutral province to accomplish that.#
 
 17. Corruption
-#The more provinces you have, the higher the corruption level is. Dwarves, Goblins, Ratmen and Alvar are the most corrupt races. Centaur and Alkari provinces have no impact on corruption.#
+#The more provinces you have, the higher the corruption level is. Dwarves, Goblins, Ratmen and Drow are the most corrupt races. Centaur and Alkari provinces have no impact on corruption.#
 
 18. Exploration
 #If the province population is not increasing due to the lack of explored lands, the level of province exploration is displayed in red.#
@@ -129,3 +129,6 @@ Website: www.eador.com#
 
 43. Hidden locations
 #If a gold-producing building in a province fails to increase its income by the amount stated in the building description, there is likely an income-decreasing location in the area. It may be located on unexplored territory.#
+
+44. Negotiations
+#Some neutral province guards will only accept to negotiate with a mighty hero or one with a powerful army. Diplomacy plays an important role - an experienced diplomat is more convincing than a small army. Note that other races may be more willing to negotiate, even with a weak hero, if you have signed an alliance with them.#

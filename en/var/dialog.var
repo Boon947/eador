@@ -1,4 +1,4 @@
-Quantity: 2383
+Quantity: 2390
 
 /0
 Window: 0;
@@ -1998,8 +1998,8 @@ Answer3: In that case, goodbye.;#####
 /248 Квест полуросликов - Проблемы с бандитами (предложение)
 Window: 2;
 Bitmap: 241;
-Text: #«These days, thieves are thick on the ground 'ere. They grab all they can lay their hands on, I tell ye. But that's only half the trouble. The worse thing's them brigands settin' upon our traders, cuttin' people up like a piece o' cake. If ye chill their hot blood down a bit, then we form an alliance with ye an' have a lavish feast too. Jus' go thru the lands around 'ere to drive them brigands out! As soon as ye've killed 10 men, ye can come back 'ere.»#
-Answer1: Kill 10 brigands? No problem!;
+Text: #"These days, thieves are thick on the ground 'ere. They grab all they can lay their hands on, I tell ye. But that's only half the trouble. The worse thing's them brigands settin' upon our traders, cuttin' people up like a piece o' cake. If ye chill their hot blood down a bit, then we form an alliance with ye an' have a lavish feast too. Jus' go thru the lands around 'ere to drive them brigands out! As soon as ye've killed 12 men, ye can come back 'ere."#
+Answer1: Kill 12 brigands? No problem!;
 Answer2: It would be easier to kill YOU. Attack!;
 Answer3: I'll think about it.;#####
 
@@ -2147,7 +2147,8 @@ Bitmap: 37;
 Text: #«Well, I can arrange everything. For gold, of course. You give me %d gold, and I make sure this province is handed over to your ruler, and my party remains in his service. Sounds good, right?»#
 Answer1: This insolent fool is demanding more money! Kill him!;
 Answer2: Sounds pretty good. Deal!;
-Answer3: I'll agree only to the half of that sum.;#####
+Answer3: I'll agree only to the half of that sum.;
+Answer4: Let me think about it...;#####
 
 /269 Переговоры с гоблинами (сильный отряд, гоблин просит золота, дипломатия)
 Window: 2;
@@ -2174,7 +2175,7 @@ Answer3: I'll think about it. Goodbye.;#####
 /272 Квест гоблинов - эльфийское ожерелье (предложение)
 Window: 2;
 Bitmap: 37;
-Text: #«Elven ears, of course, what else? Bring me five pairs of them, and I'll make an excellent Elven necklace!»#
+Text: #«Elven ears, of course, what else? "Bring me 8 pairs of them, and I'll make an excellent Elven necklace!"#
 Answer1: No problem. I'll be back soon.;
 Answer2: I guess I'm going to kill you. That will be easier.;
 Answer3: I'll think about it. Goodbye.;
@@ -3120,21 +3121,21 @@ Answer2: What rubbish is this! <leave>;#####
 /396 Древний храм, задание (изгнание демонов, получение)
 Window: 2;
 Bitmap: 74;
-Text: #«Then listen. In the name of Light and Good, you must help to banish the demons from this world. Go forth, find these spawns of darkness, and destroy them utterly. Come back when you have defeated at least four demons.»#
+Text: #"Then listen. In the name of Light and Good, you must help banish Demons from this world. Go forth, find these spawns of darkness, and destroy them utterly. Come back when you have defeated at least four Demons. Keep in mind that Avengers are even stronger than Demons."#
 Answer1: I shall do this in the name of Light!;
 Answer2: All right, I'll see what I can do...;#####
 
 /397 Древний храм, задание (изгнание бесов, получение)
 Window: 2;
 Bitmap: 74;
-Text: #«Then listen. Insidious and of many faces is the Darkness, and even the least of its creatures are dangerous for the weak of spirit. Destroy the loathsome imps, who corrupt the minds of mere mortals and spread discord and chaos in our lands. Come back when you have defeated at least fifteen imps.»#
+Text: #"Then listen. Insidious and of many faces is the Darkness, and even the least of its creatures are dangerous for the weak of spirit. Destroy the loathsome imps, who corrupt the minds of mere mortals and spread discord and chaos in our lands. Come back when you have defeated at least 15 Imps, or their brethren called Mockers."#
 Answer1: I shall do this in the name of Light!;
 Answer2: All right, I'll see what I can do...;#####
 
 /398 Древний храм, задание (уничтожить врата, получение)
 Window: 2;
 Bitmap: 74;
-Text: #«Then listen. The powers of Darkness and Chaos enter our world through the unholy portal called the Gates of Chaos. Go find this source of evil, and destroy it in the name of Light.»#
+Text: #"Then listen. The powers of Darkness and Chaos enter our world through the unholy portal called the Gates of Chaos. Go find this source of evil, and destroy it in the name of Light.»#
 Answer1: I shall do this in the name of Light!;
 Answer2: All right, I'll see what I can do...;#####
 
@@ -3222,7 +3223,7 @@ Answer1: Excellent!;#####
 /410 Древний храм, задание (изгнание чертей, получение)
 Window: 2;
 Bitmap: 74;
-Text: #«Then listen. Evil and filth spread all over the world, and their harbingers are dark creatures called the fiends. You must destroy at least seven fiends in the name of Light and Good.»#
+Text: #"Then listen. Evil and filth spread all over the world, and their harbingers are dark creatures called Fiends. Their leaders are called Fiend Lords. You must destroy at least 7 of these monsters, in the name of Light and Good."#
 Answer1: I shall do this in the name of Light!;
 Answer2: All right, I'll see what I can do...;#####
 
@@ -3243,7 +3244,7 @@ Answer1: Excellent!;#####
 /413 Древний храм, задание (изгнание гончих, получение)
 Window: 2;
 Bitmap: 74;
-Text: #«Then listen. There are creatures in the dark who hunt for human souls like a pack of hungry wolves. Hellhounds is their name. You must put and end to this unholy hunt. Go forth and destroy at least seven hellhounds.»#
+Text: #"Then listen. There are creatures in the dark who hunt for human souls like a pack of hungry wolves. They are called Hellhounds and Cerberus. You must put and end to this unholy hunt. Go forth and destroy at least 7 of them.#
 Answer1: I shall do this in the name of Light!;
 Answer2: All right, I'll see what I can do...;#####
 
@@ -3264,7 +3265,7 @@ Answer1: Excellent!;#####
 /416 Древний храм, задание (изгнание дьяволов, получение)
 Window: 2;
 Bitmap: 74;
-Text: #«Then listen. The brood of darkness most dangerous and bloodthirsty is the devils, those who rule over other spawns of Hell as if they were their slaves. Go forth and destroy two devils in the name of the Lord of Light, so this deed would glorify the Light and banish the Darkness.»#
+Text: #"Then listen. The brood of darkness most dangerous and bloodthirsty is the devils, those who rule over other spawns of Hell as if they were their slaves. Go forth and destroy two devils in the name of the Lord of Light, so this deed would glorify the Light and banish the Darkness.»#
 Answer1: I shall do this in the name of Light!;
 Answer2: All right, I'll see what I can do...;#####
 
@@ -3285,7 +3286,7 @@ Answer1: Excellent!;#####
 /419 Древний храм, задание (упокоение скелетов, получение)
 Window: 2;
 Bitmap: 74;
-Text: #«Then listen. Indeed, dark are the souls of those magicians called necromancers, for there is no evil greater than raising the human bones from their grave. The soul of a restless dead knows no peace, and only by obliterating this creation of dark sorcery can you deliver it salvation. Go forth, and destroy fifteen skeletons, so that which must turn to dust is put to eternal rest, and their souls are released from torment!»#
+Text: #"Then listen. Indeed, dark are the souls of those magicians called necromancers, for there is no evil greater than raising the human bones from their grave. The soul of a restless dead knows no peace, and only by obliterating this creation of dark sorcery can you deliver it salvation. Go forth, and destroy fifteen skeletons, so that which must turn to dust is put to eternal rest, and their souls are released from torment. Be aware that not all skeletons are alike, some wield spears, some even have four arms. There are also some shrouded in darkness."#
 Answer1: I shall do this in the name of Light!;
 Answer2: All right, I'll see what I can do...;#####
 
@@ -3306,7 +3307,7 @@ Answer1: Excellent!;#####
 /422 Древний храм, задание (упокоение зомби, получение)
 Window: 2;
 Bitmap: 74;
-Text: #«Then listen. The corpses that rise from their grave, their peace disturbed, are a disaster most terrible. And not merely because these corpses are creatures bloodthirsty and insatiable. Nay, worse still is that the souls of those whose bodies were raised from the grave cannot find peace. Go forth, and destroy fifteen zombies, so that which must turn to dust is put to eternal rest, and their souls are released from torment!»#
+Text: #"Then listen. The corpses that rise from their grave, their peace disturbed, are a disaster most terrible. And not merely because these corpses are creatures bloodthirsty and insatiable. Nay, worse still is that the souls of those whose bodies were raised from the grave cannot find peace. Go forth, and destroy fifteen zombies and mummies, so that which must turn to dust is put to eternal rest, and their souls are released from torment."#
 Answer1: I shall do this in the name of Light!;
 Answer2: All right, I'll see what I can do...;#####
 
@@ -3327,7 +3328,7 @@ Answer1: Excellent!;#####
 /425 Древний храм, задание (упокоение упырей, получение)
 Window: 2;
 Bitmap: 74;
-Text: #«Then listen. Those who were greedy for carnal pleasures in their lifetime often find no peace even after death, lusting after human flesh and blood. Ghouls these creatures are called, and your task is to destroy seven of these spawns of sin and decay.»#
+Text: #"Then listen. Those who were greedy for carnal pleasures in their lifetime often find no peace even after death, lusting after human flesh and blood. These creatures are called Ghouls and Cadavers, and your task is to destroy 7 of these spawns of sin and decay.»#
 Answer1: I shall do this in the name of Light!;
 Answer2: All right, I'll see what I can do...;#####
 
@@ -3348,7 +3349,7 @@ Answer1: Excellent!;#####
 /428 Древний храм, задание (упокоение призраков, получение)
 Window: 2;
 Bitmap: 74;
-Text: #«Then listen. The souls that cannot find peace and depart this world are called ghosts. Suffering is all they feel, and suffering is what they bring to the living. Go forth and put four ghosts to eternal rest, so that they may depart this transitory world and appear before the Lord of Light.»#
+Text: #"Then listen. The souls that cannot find peace and depart this world are called Ghosts, Banshees, Spectres. Suffering is all they feel, and suffering is what they bring to the living. Go forth and put four of them to eternal rest, so that they may depart this transitory world and appear before the Lord of Light."#
 Answer1: I shall do this in the name of Light!;
 Answer2: All right, I'll see what I can do...;#####
 
@@ -3369,7 +3370,7 @@ Answer1: Excellent!;#####
 /431 Древний храм, задание (упокоение вампиров, получение)
 Window: 2;
 Bitmap: 74;
-Text: #«Then listen. Even the walking dead, known as undead to some, have the leaders of their own. Vampires is their name, and these creatures are evil incarnates, for they are cunning, bloodthirsty, and unholy. Put two vampires to eternal rest and return to the temple.»#
+Text: #"Then listen. Even the walking dead, known as undead to some, have the leaders of their own. Vampires is their name, and these creatures are evil incarnates, for they are cunning, bloodthirsty, and unholy. Put two vampires to eternal rest and return to the temple.»#
 Answer1: I shall do this in the name of Light!;
 Answer2: All right, I'll see what I can do...;#####
 
@@ -3390,7 +3391,7 @@ Answer1: Excellent!;#####
 /434 Древний храм, задание (уничтожить алтарь, получение)
 Window: 2;
 Bitmap: 74;
-Text: #«Then listen. The unholy ones, whose name is necromancers, practice their dark rituals at the special altars - altars consecrated to Death itself. Evil, filth, and decay emanate from these abodes of Darkness. By the will of the Lord of Light, you must find such an altar and destroy it.»#
+Text: #"Then listen. The unholy ones, whose name is necromancers, practice their dark rituals at the special altars - altars consecrated to Death itself. Evil, filth, and decay emanate from these abodes of Darkness. By the will of the Lord of Light, you must find such an altar and destroy it.»#
 Answer1: I shall do this in the name of Light!;
 Answer2: All right, I'll see what I can do...;#####
 
@@ -3560,7 +3561,7 @@ Answer1: Excellent!;#####
 /457 Лавка скорняка, квест на сет единорога, получение
 Window: 2;
 Bitmap: 67;
-Text: #«I specialize in making the Unicorn Armor. However, besides money, I require unicorn horns as well. If you kill three of these creatures and bring me their horns, I'll be able to make the required piece of armor for you.»#
+Text: #"I specialize in making the Unicorn Armor. However, besides money, I require unicorn horns as well. If you kill three of these creatures and bring me their horns, I'll be able to make the required piece of armor for you. Both light and dark horns will do."#
 Answer1: Deal. I'll get the horns.;
 Answer2: I don't need that kind of armor.;#####
 
@@ -5514,12 +5515,12 @@ Text: #The volunteers from the province have coped with the task, recovering gol
 Answer1: Excellent. Deliver it to the treasury.;
 Answer2: Reward them for their good work. (-50 $ );#####
 
-/710 (Гиблые болота - люди из провинции)
+/710 Буки - рейд
 Window: 2;
-Bitmap: 182;
-Text: #Your soldiers drove many people of %s into the swamps to search for the treasures. Many of them drowned, while others were eaten by the hydra, who was woken by the commotion, a few managed to save themselves. Terrified, none of the survivors brought anything worthwhile back.#
-Answer1: Flog these losers!;
-Answer2: Help the families of the victims (-100 $ );#####
+Bitmap: 251;
+Text: #In the middle of the night, an army invaded the province of %s!#
+Answer1: What's happening?;
+Answer2: Big deal...;#####
 
 /711 (Заброшенные земли - главное)
 Window: 2;
@@ -8320,10 +8321,10 @@ Answer1: May the beast perish!;
 Answer2: What a pity.;
 Answer3: Help the families of the victims (-100 $ );#####
 
-/1076 Гиблые болота, жители, добыча
+/1076 Буки - рейд (грабёж)
 Window: 4;
-Bitmap: 59;
-Text: #Some of the people you sent to the swamps come back, bringing trophies and stories about the horrors lurking in the quagmires. Many never return, having drowned in the insidious bogs.#
+Bitmap: 251;
+Text: #The settlement was destroyed - some of the inhabitants were slaughtered, and their houses looted. The damage costs you %d gold.#
 Answer1: Excellent!;
 Answer2: Help the families of the victims (-100 $ );#####
 
@@ -9951,7 +9952,7 @@ Answer2: At last!;#####
 /1297 Лавка кольчуг, квест на сет дракона, получение
 Window: 2;
 Bitmap: 66;
-Text: #«I specialize in making Dragon Armor. Dragon scales themselves are used to make this excellent armor. If you can get some, I'll start making the armor immediately. But I must warn you: «It's not an easy task to defeat a dragon.»#
+Text: #«I specialize in making Dragon Armor. Dragon scales themselves are used to make this excellent armor. If you can get some, I'll start making the armor immediately. But I must warn you: Defeating a Dragon is no easy task. However, I will accept the scales of any kind of Dragon."#
 Answer1: I'll get the scales.;
 Answer2: No, I'm not interested.;#####
 
@@ -10018,7 +10019,7 @@ Answer2: No problem. We'll find it sooner or later.;#####
 /1306 Лавка лат, квест на сет паладина, получение
 Window: 2;
 Bitmap: 65;
-Text: #«I specialize in making the Paladin's Armor. However, I have an agreement with the priests who supply me with all of the necessary ingredients - I can only make the armor for those who fight for the glory of the Lord of Light. As the monks told me not so long ago, the Lord of Light is currently fighting the sorcerers. Defeat five of them, and the armor is yours.»#
+Text: #"I specialize in making the Paladin's Armor. However, I have an agreement with the priests who supply me with all of the necessary ingredients - I can only make the armor for those who fight for the glory of the Lord of Light. As the monks told me not so long ago, the Lord of Light is currently fighting Sorcerers, Necromancers, and Demonologists. Defeat 8 of them, and the armor is yours."#
 Answer1: Consider it done!;
 Answer2: I'll do fine without this armor.;#####
 
@@ -10055,7 +10056,7 @@ Answer2: This armor is so difficult to get.;#####
 /1311 Лавка лат, квест на сет доблести, получение
 Window: 2;
 Bitmap: 65;
-Text: #«I specialize in making the Armor of Valor, but I haven't accepted any orders recently, for I have no materials. I need a special metal for my work, namely, dark silver. The secret of making dark silver was lost in the days of the decline of the Dark Empire. But I know where the metal can be obtained. The executioners wear special tokens from their guild, forged from dark silver. Three of these tokens will be enough to make the alloy required for my work.»#
+Text: #"I specialize in making the Armor of Valor, but I haven't accepted any orders recently, for I have no materials. I need a special metal for my work, namely, dark silver. The secret of making dark silver was lost in the days of the decline of the Dark Empire. But I know where the metal can be obtained. Executioners and Punishers wear special tokens from their guild, forged from dark silver. Four of these tokens will be enough to make the alloy required for my work."#
 Answer1: Executioners are not a problem. I'll be back soon.;
 Answer2: I'll do fine without this armor.;#####
 
@@ -10324,7 +10325,7 @@ Answer2: What a pity.;#####
 /1346 Лавка стрелка, квест на грифоньи стрелы, получение
 Window: 2;
 Bitmap: 72;
-Text: #«I can make the Gryphon's Arrows for you, but I need gryphon feathers to work with. If you can obtain some, I'll get to work immediately. It's quite difficult to buy such feathers now, so the easiest way to obtain them is to hunt for wild gryphons. Only the strongest feathers from their wings will suffice, so each gryphon will give you only so much of the required material. I think three gryphons will provide enough.»#
+Text: #«I can make the Gryphon's Arrows for you, but I need gryphon feathers to work with. If you can obtain some, I'll get to work immediately. It's quite difficult to buy such feathers now, so the easiest way to obtain them is to hunt for wild gryphons. However, feathers from Battle Gryphons will do as well. Only the strongest feathers from their wings will suffice, so each gryphon will give you only so much of the required material. I think three gryphons will provide enough.»#
 Answer1: All right, let's go hunting for gryphons.;
 Answer2: No, I'm not interested.;#####
 
@@ -13405,7 +13406,7 @@ Answer2: Nope!;#####
 /1754 Цитадель альваров, вход
 Window: 2;
 Bitmap: 111;
-Text: #The hero %s approaches the underground citadel of the Dark Elves - the Alvari.
+Text: #The hero %s approaches the underground citadel of the Dark Elves - the Drow.
 They are ready to be hired, for a fee.
 Number of enemies: %d.
 The following units were spotted among the enemies: %s.
@@ -13417,7 +13418,7 @@ Answer3: Enter the citadel.;#####
 /1755 Цитадель альваров, найм
 Window: 2;
 Bitmap: 111;
-Text: #The Alvari welcome you as an ally and are willing to follow you.#
+Text: #The Drow welcome you as an ally and are willing to follow you.#
 Answer1: Die, dark scum! <attack>;
 Answer2: Not right now...;
 Answer3: Let's see who's there...;#####
@@ -13428,13 +13429,12 @@ Bitmap: 85;
 Text: #After performing the Chaos ritual, a succubus appears above the pentagram, ready to server its new master.#
 Answer1: Continue.;#####
 
-/1757 Цитадель дроу, найм (не используется)
+/1757 Игорный дом, героя перегружен
 Window: 2;
-Bitmap: 111;
-Text: #The dark elves welcome you as an ally and are willing to follow you.#
-Answer1: Die, dark scum! <attack>;
-Answer2: Not right now...;
-Answer3: Let's see who's there...;#####
+Bitmap: 109;
+Text: #Unfortunately, the hero cannot carry anything else.#
+Answer1: Wimp!;
+Answer2: I guess I shouldn't be playing.;#####
 
 /1758 Заброшенная шахта, вход
 Window: 2;
@@ -13449,7 +13449,7 @@ Answer2: Retreat.;#####
 /1759 Земли альваров
 Window: 2;
 Bitmap: 132;
-Text: #The hero %s crosses the border of the province of %s. Suddenly, he hears a sharp cry. He halts to look around, and spots a Dark Elven sentinel blending into the background. The figure then suddenly reappears, and the hero is surrounded by countless Alvari warriors appearing out of nowhere.
+Text: #The hero %s crosses the border of the province of %s. Suddenly, he hears a sharp cry. He halts to look around, and spots a Dark Elven sentinel blending into the background. The figure then suddenly reappears, and the hero is surrounded by countless Drow warriors appearing out of nowhere.
 Number of enemies: %d.
 The following units were spotted among the enemies: %s.
 What are your orders, Master?#
@@ -13460,7 +13460,7 @@ Answer3: Negotiate.;#####
 /1760 Переговоры с альварами (плохая карма)
 Window: 2;
 Bitmap: 132;
-Text: #The leader of the Alvari warriors speaks:
+Text: #The leader of the Drow warriors speaks:
 "What welcomed guests we have! Do you have business, here, or are you just passing through?"#
 Answer1: We have business, yes. I offer you an alliance.;
 Answer2: Just passing through. And I'm on my way now.;
@@ -13469,20 +13469,20 @@ Answer3: Yes, I need black skin on my drums. < attack >;#####
 /1761 Переговоры с альварами (нейтральная карма)
 Window: 2;
 Bitmap: 132;
-Text: #The leader of the Alvari warriors speaks: 
+Text: #The leader of the Drow warriors speaks: 
 "Who are you, that you so boldly breached the boundaries of our land? Do you not fear for your own flesh?"#
 Answer1: I made a wrong turn. <leave>;
 Answer2: Prepare to die, black scum! Attack!;
-Answer3: Can we talk? <Give 20 & to the Alvari>;#####
+Answer3: Can we talk? <Give 20 & to the Drow>;#####
 
 /1762 Переговоры с альварами (светлая карма)
 Window: 2;
 Bitmap: 132;
-Text: #The leader of the Alvari warriors speaks: 
+Text: #The leader of the Drow warriors speaks: 
 "What is your business here, surface-dweller? How dare you set your filthy boots on our soil? Answer me, human, or your flesh will be ripped from your body..."#
 Answer1: I... Er... Lost my way. Farewell, Elf.;
 Answer2: By your words, I will tear YOUR flesh! Attack!;
-Answer3: Can we talk? <Give 100 & to the Alvari>;#####
+Answer3: Can we talk? <Give 100 & to the Drow>;#####
 
 /1763 Переговоры с альварами (дипломатия)
 Window: 2;
@@ -13511,14 +13511,14 @@ Answer3: Farewell, elf.;#####
 /1766 Переговоры с альварами (Квест, другой герой)
 Window: 2;
 Bitmap: 132;
-Text: #The leader of the Alvari warriors speaks: "Who are you? Another unexpected visitor. You aren't the one we expected. That human has his task, so we can go on with our own businesses."#
+Text: #The leader of the Drow warriors speaks: "Who are you? Another unexpected visitor. You aren't the one we expected. That human has his task, so we can go on with our own businesses."#
 Answer1: Fine. I'll just kill you.;
 Answer2: Well, no means no, then. <leave>;#####
 
 /1767 Переговоры с альварами (Квест, другая провинция)
 Window: 2;
 Bitmap: 132;
-Text: #The leader of the Alvari warriors speaks, thoughtfully: "We seem to have frequent visitors. Maybe I should murder someone - a lesson to those who roam carelessly.
+Text: #The leader of the Drow warriors speaks, thoughtfully: "We seem to have frequent visitors. Maybe I should murder someone - a lesson to those who roam carelessly.
 Fortunately for you, I'm not in a murderous mood, today."#
 Answer1: I'd rather murder you!;
 Answer2: Well, no means no, then. <leave>;#####
@@ -13535,7 +13535,7 @@ Answer4: Can't you cope with these goblins yourselves?;#####
 /1769 Переговоры с альварами (альтернатива квесту)
 Window: 2;
 Bitmap: 132;
-Text: #"Don't you dare speak thus, human! It would be easy for the Alvari people to find and punish the arrogant thieves... but it may be that one of the young Beholders has already hatched and is under the influence of those green-skinned midgets. If the Night Warriors would happen to shed its blood, our relationship with their tribe would... well, the details of it do not concern one such as you. So there it is, bring us the eggs, if you wish an alliance with us."#
+Text: #"Don't you dare speak thus, human! It would be easy for the Drow people to find and punish the arrogant thieves... but it may be that one of the young Beholders has already hatched and is under the influence of those green-skinned midgets. If the Night Warriors would happen to shed its blood, our relationship with their tribe would... well, the details of it do not concern one such as you. So there it is, bring us the eggs, if you wish an alliance with us."#
 Answer1: Well, I will find it and will be back this... egg.;
 Answer2: Let me think about it...;
 Answer3: I don't wimp allies. Attack!;
@@ -13572,9 +13572,9 @@ Window: 2;
 Bitmap: 132;
 Text: #The dark elf offers a few items to choose from. "You may choose, yourself."#
 Answer1: Receive building plans for 3 Sacrificial Altars;
-Answer2: Receive 2 contracts to hire from the Alvari;
+Answer2: Receive 2 contracts to hire from the Drow;
 Answer3: Take a chest of gems.;
-Answer4: Receive a set of Alvari armor;#####
+Answer4: Receive a set of Drow armor;#####
 
 /1775 Переговоры с альварами (Взял кристаллы)
 Window: 2;
@@ -13594,7 +13594,7 @@ Answer2: But we can find something valuable, perhaps.;#####
 Window: 2;
 Bitmap: 115;
 Text: #After searching the hideout, the hero has found a hiding place. Inside it he found a strange gooey ball the size of a fist, from which smoke was oozing.
-It seems that this is precisely the egg that the Alvaro were looking for, which means you can now return to forge an alliance.#
+It seems that this is precisely the egg that the Drow were looking for, which means you can now return to forge an alliance.#
 Answer1: Well I'll be damned!;
 Answer2: At last!;#####
 
@@ -13611,26 +13611,26 @@ Window: 2;
 Bitmap: 132;
 Text: #The leader of the Dark Elven warriors speaks: "Our brothers are now in an alliance with your Master. "We are therefore at your service, my Lord."#
 Answer1: That's nice.;
-Answer2: You have the right idea, Alvar!;#####
+Answer2: You have the right idea, Drow!;#####
 
 /1780 Переговоры с альварами-союзниками (плохие отношения)
 Window: 2;
 Bitmap: 132;
-Text: #The leader of the Alvari warriors speaks: "Do you believe we'll serve you? I don't take orders from you, and I spit on your contract. Get out of here before I have you slaughtered."#
+Text: #The leader of the Drow warriors speaks: "Do you believe we'll serve you? I don't take orders from you, and I spit on your contract. Get out of here before I have you slaughtered."#
 Answer1: Fine, fine, I'm leaving.;
 Answer2: You seem to take your life for granted. <attack>;#####
 
 /1781 Переговоры с альварами (Квест вернуть икринку, в процессе)
 Window: 2;
 Bitmap: 132;
-Text: #The leader of the Alvari warriors speaks: "You've brought the egg? No? Then there is nothing more to discuss!"#
+Text: #The leader of the Drow warriors speaks: "You've brought the egg? No? Then there is nothing more to discuss!"#
 Answer1: I've changed my mind. Kill them!;
 Answer2: Fine. Farewell.;#####
 
 /1782 Переговоры с альварами (Взял доспехи альваров)
 Window: 4;
 Bitmap: 132;
-Text: #As a token of gratitude, a small patrol of Alvari present a hefty bundle to the hero %s. Inside is an amazingly beautiful ornate set of armor, said to be granted to only the finest, distinguished dark elven commanders.#
+Text: #As a token of gratitude, a small patrol of Drow present a hefty bundle to the hero %s. Inside is an amazingly beautiful ornate set of armor, said to be granted to only the finest, distinguished dark elven commanders.#
 Answer1: What rubbish!;
 Answer2: Not bad.;#####
 
@@ -13645,14 +13645,14 @@ Answer2: Let them do as they please.;#####
 /1784 Альвары (ссора), запретить резню, подчинились
 Window: 2;
 Bitmap: 110;
-Text: #Despite the ban, violent clashes have broken out in some places, and many Alvari have died. Although it didn't turn into a real massacre, discontent in the province has grown.#
+Text: #Despite the ban, violent clashes have broken out in some places, and many Drow have died. Although it didn't turn into a real massacre, discontent in the province has grown.#
 Answer1: Well, that's not too bad...;
 Answer2: Why are they not happy?;#####
 
 /1785 Альвары (ссора), запретить резню, не подчинились
 Window: 2;
 Bitmap: 133;
-Text: #Despite the ban, violent clashes have broken out in some places, and many Alvari have died. Then the massacre swept through the whole settlement of Dark Elves.#
+Text: #Despite the ban, violent clashes have broken out in some places, and many Drow have died. Then the massacre swept through the whole settlement of Dark Elves.#
 Answer1: Guards, stop this madness!;
 Answer2: Chaos them to hell!;#####
 
@@ -13666,7 +13666,7 @@ Answer2: So it's all my fault then, is it?;#####
 /1787 Альвары, ссора, стража победила
 Window: 2;
 Bitmap: 133;
-Text: #Your warriors defeated the strongest Alvari squad and could thus stop the slaughter in the province of %s before it began. Given the inability to resolve the issue by force, the warring factions were forced to negotiate peacefully.
+Text: #Your warriors defeated the strongest Drow squad and could thus stop the slaughter in the province of %s before it began. Given the inability to resolve the issue by force, the warring factions were forced to negotiate peacefully.
 And while most lives could be saved, the people are clearly dissatisfied with this interference in their affairs.#
 Answer1: Next time they can take care of it themselves!;
 Answer2: So it's all my fault then, is it?;#####
@@ -13768,7 +13768,7 @@ Answer2: I pity him, but life is cruel.;#####
 /1800 (Лавка волшебника - главное)
 Window: 2;
 Bitmap: 71;
-Text: #The deputy of the province of %s states that a wandering Alvari wizard has arrived, asking for permission to open his own shop. Your deputy is concerned, since the dark elf is an outcast of the Alvari. Granting permission may incur the wrath of the neighboring Alvari provinces.#
+Text: #The deputy of the province of %s states that a wandering Drow wizard has arrived, asking for permission to open his own shop. Your deputy is concerned, since the dark elf is an outcast of the Drow. Granting permission may incur the wrath of the neighboring Drow provinces.#
 Answer1: Banish him from the province!;
 Answer2: Grant him permission.;
 Answer3: Permit him to open shop for 200 $.;
@@ -14099,7 +14099,7 @@ Answer2: I'll destroy them!;#####
 /1841 Нападение на наместника (ограбили)
 Window: 2;
 Bitmap: 142;
-Text: #Bandits have robbed your govenor. His weak escorts could do nothing to stop this. The scoundrels took %d gold.#
+Text: #Bandits have robbed your governor. His weak escorts could do nothing to stop this. The scoundrels took %d gold.#
 Answer1: I hope they choke on it!;
 Answer2: Bastards...;#####
 
@@ -14159,7 +14159,7 @@ Answer2: Nothing to be excited about...;#####
 
 /1849 Иллитиды голодны
 Window: 2;
-Bitmap: 82;
+Bitmap: 145;
 Text: #Illithids have staged a hunt against the residents of %s. They manage to catch some villagers and devour their brains. Before this can get out of hand, your spies managed to get this information to you as soon as possible.
 What are your orders, Master?#
 Answer1: Feed them servants to appease them! (-500 $ );
@@ -14169,7 +14169,7 @@ Answer4: Stop bothering me with such nonsense!;#####
 
 /1850 Иллитиды голодны, не беспокоить
 Window: 2;
-Bitmap: 146;
+Bitmap: 145;
 Text: #Your soldiers looked rather impassive, regarding your order. From the perspective of these illithids, they'll stop once their hunger ends. This decision reaches the ears of the people, and they are very unhappy and curse your name.
 Once the monsters have eaten and cleared away, the province's population has decreased slightly.
 However, the property of the dead now fills your treasury. Total collected: %d gold.#
@@ -14179,7 +14179,7 @@ Answer3: I'm really sorry...;#####
 
 /1851 Иллитиды голодны, пусть едят
 Window: 2;
-Bitmap: 146;
+Bitmap: 145;
 Text: #Your goveneror and soldiers monitor the feast with malevolent grins. The illithids slaughter many in the process, taking some captives as they depart. Your decision leaves the population enraged.
 However, the property of those who were "lucky" to be taken by the mind-flayers have been seized by local authorities - the damned won't need their money. Total gold gathered: %d#
 Answer1: It is necessary to respect the needs of others.;
@@ -14188,7 +14188,7 @@ Answer3: I'm really sorry...;#####
 
 /1852 Иллитиды голодны, отдать рабов
 Window: 4;
-Bitmap: 146;
+Bitmap: 145;
 Text: #After giving your order, prisoners, captives, and slaves are delivered directly to the illithids. They were surprised by your generosity.
 In order to stay out of debt from you, the mind-flayers present you with a special, rare gift.
 However, residents of the province are not happy with your order - the majority of victims were friends or relatives.#
@@ -14198,7 +14198,7 @@ Answer3: That's it? Selfish squid-heads.;#####
 
 /1853 Иллитиды голодны, остановить (неудача)
 Window: 2;
-Bitmap: 146;
+Bitmap: 145;
 Text: #After the massacre of your soldiers, the illithids, now angry, have scattered throughout your province - the death toll is high, with some unfortunate souls being taken as captives. The population of the province of %s is in uproar over this catastrophe.
 Not only that - the mind-flayers destroy many homes. The damage costs you %d gold.#
 Answer1: To them, such food should be filling enough.;
@@ -14206,7 +14206,7 @@ Answer2: I'm really sorry...;#####
 
 /1854 Иллитиды голодны, остановить (удача)
 Window: 2;
-Bitmap: 146;
+Bitmap: 145;
 Text: #As the illithids attack the civilians, your soldiers manage to thwart and slaughter every single one of them! The residents of %s are grateful to you. Losses amount to only %d gold.#
 Answer1: Burn their tentacles!;
 Answer2: We must mourn the lost souls...;#####
@@ -14793,68 +14793,67 @@ Answer1: Attack!;
 Answer2: Retreat.;
 Answer3: Negotiate.;#####
 
-/1930 Переговоры с гноллами (сильный отряд)
+/1930 Переговоры с гноллами (тёмная карма, сильный отряд)
 Window: 2;
 Bitmap: 167;
-Text: #The Chieftain of the Gnoll squad barked sharply: "Fresh meat, grrr-aff-aff!"#
-Answer1: Yes, and I know where there's more meat.;
+Text: #The leader of the beasts stops his pack with a brief growl, and stares expectantly at the hero. It seems that, for once, a Gnoll is in the mood to talk, but do not test his patience.#
+Answer1: Whom do you serve, Gnoll?;
 Answer2: Attack!;
 Answer3: Fall back...;#####
 
-/1931 Переговоры с гноллами (слабый отряд)
+/1931 Переговоры с гноллами (слабый отряд и/или слишком светлая карма)
 Window: 2;
 Bitmap: 167;
-Text: #Pausing for a few moments, the gnoll chieftan glares and howls loudly. Suddenly all of the gnolls rush forward into attack formation.#
+Text: #Pausing for a few moments, the Gnoll leader glares and howls loudly. Suddenly all the Gnolls rush forward to attack.#
 Answer1: Death to them!;
 Answer2: Damn!;#####
 
 /1932 Переговоры с гноллами (предложение союза)
 Window: 2;
 Bitmap: 167;
-Text: #"More meat, mMm - good! What do you want? Grrr..."#
-Answer1: I want you to serve my master.;
-Answer2: Kill you, of course.;
-Answer3: Nothing.;#####
+Text: #In response, the Gnoll bursts into a vile barking laughter: "Not me. You serve Master. Gnoll rip your flesh for Master. Drink your blood for Master".#
+Answer1: Follow me, and you'll get plenty of flesh.;
+Answer2: Don't be so sure. Attack!;
+Answer3: I think I will go...;#####
 
 /1933 Переговоры с гноллами (предложение союза, задание)
 Window: 2;
 Bitmap: 167;
-Text: #"Prove your strength, first, ARRF! Then we serve your master, grrr."#
-Answer1: And how do we prove that?;
-Answer2: I'd sooner kill you all!;
-Answer3: I don't want to prove anything.;#####
+Text: #The same barking laughter: "Whelp! Only Unspeakable - Master of Gnolls. Only Him lead pack to fresh meat."#
+Answer1: My master is the Unspeakable!;
+Answer2: Whelp? Die, scum!;
+Answer3: Well, no means no...;#####
 
-/1934 Квест гноллов (другой герой)
+/1934 Квест гноллов (предложение союза, сражение)
 Window: 2;
 Bitmap: 167;
-Text: #The Chieftain of the Gnoll squad barked: "We have given you a job. Now - GO! ARRF!"#
-Answer1: Attack!;
-Answer2: All right, I'm leaving.;#####
+Text: #A frenzy takes hold of the pack. The barking, laughter and bone-rattling subside when the leader growls something, with a mean grin. The mob splits up to make way for a gigantic and truly demonic-looking Gnoll. "Devourer check if you speak to Master!"#
+Answer1: A fight at last!;
+Answer2: I had it coming!;#####
 
-/1935 Квест гноллов (другая провинция)
+/1935 Квест гноллов (недостаточно тёмная карма)
 Window: 2;
 Bitmap: 167;
-Text: #The Chieftain of the Gnoll squad barked: We know of your given task. Now - GO! ARRF!"#
-Answer1: I came here for nothing? Die, dogs!;
-Answer2: All right, I'm leaving.;#####
+Text: #The Gnoll Leader growls: You smell weird, grr! No blood! No torment, grr-arf-grr!"#
+Answer1: Don't worry, I'll take care of that now! Attack!;
+Answer2: Alright, I'll go find someone to kill.;#####
 
-/1936 Квест гноллов Гномьи бороды (предложение)
+/1936 (Завершение хода при отсутствии строительства)
+Window: 1;
+Bitmap: 0;
+Text: #You have not built anything in some provinces. Are you sure you want to end this turn?#
+Answer1: Yes, I'm saving up for later.;
+Answer2: No, everyone must work!;#####
+
+/1937 (Выбор стартового знания местности - вопрос)
 Window: 2;
-Bitmap: 167;
-Text: #"Ugly dwarves-of-the-mountains! Kill our kin, them, grrr...
-You - kill nasty half-men, grrr! Bring me their face-tails! Seven hairy tails that are not tails we need - you show us your strength!"#
-Answer1: Face-tails?! Ah, you mean dwarven beards? Sure!;
-Answer2: I'd sooner cut off your - ugh - never mind... Attack!;
-Answer3: That's a lot to consider. I'll think about it.;#####
+Bitmap: 64;
+Text: #Hero's preferred terrain?#
+Answer1: Forest Knowledge.;
+Answer2: Hills Knowledge.;
+Answer3: Swamp Knowledge.;#####
 
-/1937 Квест гноллов Гномьи бороды (ожидание)
-Window: 2;
-Bitmap: 167;
-Text: #The Chieftain of the Gnoll squad barked: "Bring me some tail-faced dwarfs from the mountains! Bring more!"#
-Answer1: All right, I'll be back soon.;
-Answer2: I'd rather kill you instead. Attack!;#####
-
-/1938 Квест гноллов Гномьи бороды (выполнение)
+/1938 Квест гноллов Гномьи бороды (выполнение) - не используется
 Window: 2;
 Bitmap: 167;
 Text: #The Chieftain of the Gnoll squad barked sharply: "You bring me half a dozen face-tails! ARRF! You are strong, grr-ARRF-rrr!"#
@@ -14863,26 +14862,24 @@ Answer1: What about an alliance?;#####
 /1939 Переговоры с гноллами (союз)
 Window: 2;
 Bitmap: 167;
-Text: #"Yes, we shall serve your powerful master! ARRF!"#
+Text: #Once the giant Devourer has been destroyed, along with his demonic essence, the Gnoll leader barks out at the hero: "You speak to Master! He make you crush Devourer! Lead my pack to fresh meat! We kill together for Master!"#
 Answer1: Excellent!;#####
 
 /1940 Переговоры с гноллами (союз невозможен)
 Window: 2;
 Bitmap: 167;
-Text: #"Your master offends the kin! The only union for gnolls is with gnolls! Not gnolls, grrr, not union!
-Grrr! Your proven strength shall not go unrewarded, though - ARRF!"#
-Answer1: And what will the reward be?;
-Answer2: Die, you traitor!;
-Answer3: Go to hell!;#####
+Text: #Once the giant Devourer has been destroyed, along with his demonic essence, the Gnoll leader barks out at the hero: "You speak to Master! You kill Devourer! You come here any time. I not eat your flesh. But Gnoll already speak to Master. You not lead pack!"#
+Answer1: Hell no, scoundrel! Die!;
+Answer3: Good enough...;#####
 
-/1941 Переговоры с гноллами (награда за квест)
+/1941 Переговоры с гноллами (награда за квест) - не используется
 Window: 2;
 Bitmap: 167;
 Text: #"Gold - everyone loves gold, grrr. Machines - powerful machines, men love machines! ARRF!"#
 Answer1: I'll take gold.;
 Answer2: Let's see these machines.;#####
 
-/1942 Переговоры с гноллами (взял золото)
+/1942 Переговоры с гноллами (взял золото) - не используется
 Window: 2;
 Bitmap: 167;
 Text: #The gnoll chieftan pulls out a bag and hands it to the hero. There is quite a bit of gold within.
@@ -14890,25 +14887,25 @@ After some calculations, you find out that your reward is %d gold.#
 Answer1: Foolish overgrown dogs...;
 Answer2: Excellent, most excellent.;#####
 
-/1943 Квест гноллов Гномьи бороды (условие не выполнено)
+/1943 Квест гноллов Гномьи бороды (условие не выполнено) - не используется
 Window: 2;
 Bitmap: 167;
 Text: #The hero %s slashes all of the dead dwarves' beards. This is still not enough to coerce the gnolls into forming an alliance.#
 Answer1: Why on earth did I agree to do this?;#####
 
-/1944 Квест гноллов Гномьи бороды (условие выполнено)
-Window: 2;
-Bitmap: 167;
-Text: #The hero %s slashes all of the dead dwarves' beards. You can now return to form an alliance.#
-Answer1: At last!;#####
+/1944 Все враги сбежали с поля боя
+Window: 1;
+Bitmap: 0;
+Text: #All surviving enemies have deserted the battlefield! This is Victory, my Lord!#
+Answer1: Victory?! These scoundrels are still alive!;
+Answer2: Very well then.;#####
 
-/1945 Квест гноллов, провинция захвачена
-Window: 2;
-Bitmap: 10;
-Text: #The hero %s has heard that the province of %s has been conquered. The dwarf who gave him the quest was killed, it is now impossible to receive the reward.
-The quest is cancelled.#
-Answer1: What terrible luck!;
-Answer2: Whatever.;#####
+/1945 (Ручное управление защитниками провинции - вопрос)
+Window: 1;
+Bitmap: 0;
+Text: #Do you want to control the army during the battle?#
+Answer1: Yes, most likely.;
+Answer2: No way!;#####
 
 /1946 Переговоры с гноллами-союзниками (присоединение)
 Window: 2;
@@ -14933,7 +14930,7 @@ Answer2: Damn!;#####
 /1949 Рейд гноллов (грабёж)
 Window: 2;
 Bitmap: 226;
-Text: #Gnolls have plundered the province of %s! Almost all the inhabitants are slain, only a few have survived and have been taken as slaves. Gold lost: %d.#
+Text: #Gnolls have plundered the province of %s! Nearly everyone was slaughtered, only a few survived. Gold lost: %d.#
 Answer1: We'll deal with the losses.;
 Answer2: Forgive me...;#####
 
@@ -15237,14 +15234,14 @@ Answer3: Let's see who's there...;#####
 /1990 Альвары, ссора, стража проиграла
 Window: 2;
 Bitmap: 133;
-Text: #Your soldiers were unable to stop the bloodshed. Clashes between the Alvari continued, only in the open, so in the end it was all for naught, and most of the inhabitants of the province were killed.#
+Text: #Your soldiers were unable to stop the bloodshed. Clashes between the Drow continued, only in the open, so in the end it was all for naught, and most of the inhabitants of the province were killed.#
 Answer1: Provide aid to the residents (-300 $ );
 Answer2: They have only themselves to blame!;#####
 
 /1991 Альвары, ссора, стража проиграла, бунт
 Window: 2;
 Bitmap: 133;
-Text: #Your soldiers were unable to stop the bloodshed. Clashes between the Alvari continued, only now in the open. Most of the inhabitants of the province were killed  in battle. Eventually a clique of dark elves came to power, retaining their combat capability, rebelling against your authority.#
+Text: #Your soldiers were unable to stop the bloodshed. Clashes between the Drow continued, only now in the open. Most of the inhabitants of the province were killed  in battle. Eventually a clique of dark elves came to power, retaining their combat capability, rebelling against your authority.#
 Answer1: How did that happen?!;
 Answer2: Those bastards!;#####
 
@@ -15770,7 +15767,7 @@ Answer2: Well, that's a pity.;#####
 Window: 2;
 Bitmap: 82;
 Text: #In one corner, behind a sarcophagus, the last missing spider is found - quite large with venomous fangs.
-These vicious creatures are often regarded with high value to the Alvari - they often kiss them.
+These vicious creatures are often regarded with high value to the Drow - they often kiss them.
 Disgusting!
 In any case, the deed is done, so you may return to the dark elves in order to form a union.#
 Answer1: Excellent!;
@@ -18126,14 +18123,14 @@ Answer4: You have too high an opinion of yourself. Attack!;#####
 /2366 Склеп, появление
 Window: 2;
 Bitmap: 2;
-Text: #In the province of %s your scouts found the crypt where the goblins who robbed the Alvari are hiding out.#
+Text: #In the province of %s your scouts found the crypt where the goblins who robbed the Drow are hiding out.#
 Answer1: Very good!;
 Answer2: Hopefully the egss are still there...;#####
 
 /2367 Древний склеп, вход
 Window: 2;
 Bitmap: 2;
-Text: #The hero %s approaches an ancient crypt. It looks like it was the tomb of an ancient ruler or a great warrior. It now harbors the greenskinned thieves that robbed the Alvari. Scouting results:
+Text: #The hero %s approaches an ancient crypt. It looks like it was the tomb of an ancient ruler or a great warrior. It now harbors the greenskinned thieves who robbed the Drow. Scouting results:
 Number of enemies: %d.
 The following units were spotted among the guards: %s.
 What are your orders, Master?#
@@ -18165,7 +18162,7 @@ Answer1: Continue.;#####
 /2371 Переговоры с альварами (альтернатива квесту)
 Window: 2;
 Bitmap: 132;
-Text: #"And you're not stupid, human! For gold and gems they will sell us their own mothers, not the eggs and young beholders. Our scouts could find the refuge of the greenskins themselves, but to pay these heathens our gold lowers the honor of the Alvari people."#
+Text: #"And you're not stupid, human! For gold and gems they will sell us their own mothers, not the eggs and young beholders. Our scouts could find the refuge of the greenskins themselves, but to pay these heathens our gold lowers the honor of the Drow people."#
 Answer1: I didn't mean to offend. I'll take the eggs from the goblins.;
 Answer2: I'll pay them with MY gold... (-1000 $ and -350 & );
 Answer3:  It will be simpler to force the issue. Attack!;
@@ -18258,3 +18255,52 @@ Window: 2;
 Bitmap: 167;
 Text: #As soon as you call, several gnolls come running to you.#
 Answer1: Heel!;#####
+
+/2384 Волчья чаща
+Window: 2;
+Bitmap: 248;
+Text: #While exploring the province of %s, the Hero %s has come across a small wagon decorated with a crudely drawn symbol of the Eagle God, and a strong smell of herbs and alchemical reagents. Apparently, the owner of the wagon is a wandering healer from some monastic order. And it is obvious that he is now in serious trouble - the wagon is surrounded by a pack of wolves, looking very sinister and hungry.#
+Answer1: We must help the poor chap. Attack!;
+Answer2: Let him deal with the problem.;#####
+
+/2385 Волчья чаща, подарок
+Window: 4;
+Bitmap: 0;
+Text: #After dispatching the wolves, your troops examine the wagon. They find the healer, terrified. He is extremely grateful for the rescue, and gives you a box of gems, which have been placed in the treasury.#
+Answer1: So little... Kill him!;
+Answer2: And thanks for that.;#####
+
+/2386 Волчья чаща, убийство
+Window: 4;
+Bitmap: 102;
+Text: #The healer is quickly dispatched. After killing him, your troops ransack the wagon.#
+Answer1: A tuft of hair from a mangy mare.;
+Answer2: Not bad!;#####
+
+/2387 Волчья чаща, присоединился лекарь
+Window: 2;
+Bitmap: 249;
+Text: #After dispatching the wolves, your troops examine the wagon. In it, they find a healer, obviously prepared to die, but not without a fight. Needless to say, he is delighted to meet his rescuers, and his gratitude is such that he vows to serve you.#
+Answer1: I needed that...;
+Answer2: Give him a chance.;#####
+
+/2388 Волчья чаща, присоединился целитель
+Window: 2;
+Bitmap: 249;
+Text: #After dispatching the wolves, your troops examine the wagon. In it, they find a grand healer, obviously prepared to die, but not without a fight. Needless to say, he is delighted to meet his rescuers, and his gratitude is such that he vows to serve you.#
+Answer1: I needed that...;
+Answer2: Give him a chance.;#####
+
+/2389 Волчья чаща, самоубился
+Window: 4;
+Bitmap: 102;
+Text: #After dispatching the wolves, your troops examine the wagon. Alas, it was too late - the owner chose to commit suicide in order not to be devoured alive. But, at least, you find some items of value in the wagon.#
+Answer1: Poor fellow.;
+Answer2: Coward!;#####
+
+/2390 Волчья чаща, никого
+Window: 2;
+Bitmap: 0;
+Text: #After dispatching the wolves, your troops examine the wagon. The result is disappointing - the wagon has been abandoned for a long time and contains nothing of value; apparently the wolves were just chasing a rabbit.#
+Answer1: Bad luck.;
+Answer2: That was a good work out.;#####

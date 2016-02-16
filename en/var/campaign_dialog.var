@@ -573,7 +573,7 @@ Answer2: What a nonsense! All right, enough «jokes» for today.;#####
 /85 Çàğğ, Ïî÷åìó ìèğ ñîñòîèò èç îñêîëêîâ? 4
 Window: 3;
 Bitmap: 20;
-Text: #Of course, boss. Whatever you wish. Here's the story orc shamans like to tell in order to gain respect in the eyes of their fellow tribesmen: «There was Urugu. Urugu was strong. Urugu beat anyone he wanted. No one beat Urugu. But Grokhh came and fought Urugu. Urugu saw he couldn't beat Grokhh. Then Urugu struck his drum, and the world shattered, and Urugu himself shattered. Parts of Urugu floated in the sky, looking for orcs to dwell in them. When a part of Urugu dwells in an orc, power he gains. Only the one who has a part of Urugu can become a Dream-Seer shaman.»#
+Text: #Of course, boss. Whatever you wish. Here's the story orc shamans like to tell in order to gain respect in the eyes of their fellow tribesmen: «There was Urugu. Urugu was strong. Urugu beat anyone he wanted. No one beat Urugu. But Grokhh came and fought Urugu. Urugu saw he couldn't beat Grokhh. Then Urugu struck his drum, and the world shattered, and Urugu himself shattered. Parts of Urugu floated in the sky, looking for orcs to dwell in them. When a part of Urugu dwells in an orc, power he gains. Only one who has a part of Urugu can become a Ghost Whisperer shaman.»#
 Answer1: Do you know any stories that aren't quite so dumb?;
 Answer2: I think I've heard enough..;#####
 
@@ -774,7 +774,7 @@ Answer1: In Eador, of course.;#####
 /116 Çàğğ, ×òî ñåé÷àñ ïğîèñõîäèò â ìèğå? 1
 Window: 3;
 Bitmap: 20;
-Text: #Ah, I thought you were asking about your world. There's no difference, though - in both places, chaos and anarchy reign. In Eador the Masters bite off shards, orcs and gnolls rob, shamans poison with poisonous mushrooms, necromancers ruin graves, giants, trolls, ogres and cyclops tear everything apart with abandon, alvari hunt magicians, lizardmen hunt the wetlands for anything that moves, inquisitors tie people to the stake: Chaos circulates throughout its creatures, the World is on the brink of destruction, in general, and as usual, boss...#
+Text: #Ah, I thought you were asking about your world. There's no difference, though - in both places, chaos and anarchy reign. In Eador the Masters bite off shards, orcs and gnolls rob, shamans poison with poisonous mushrooms, necromancers ruin graves, giants, trolls, ogres and cyclops tear everything apart with abandon, Drow hunt magicians, lizardmen hunt the wetlands for anything that moves, inquisitors tie people to the stake: Chaos circulates throughout its creatures, the World is on the brink of destruction, in general, and as usual, boss...#
 Answer1: What do you mean «the world is on the verge of destruction»?;
 Answer2: I understand. Thank you, Zarr.;#####
 
@@ -1509,7 +1509,7 @@ Answer1: ...Continue...;#####
 /219 Îèíîğ, î ñåáå (+20) 5
 Window: 3;
 Bitmap: 3;
-Text: #In my quest, I talked with the representatives of the different nations, spoke to the wise men of the Elves and Alkari Mentors, Dreamwalkers and Spirit Talkers. Then one day the Wanderer came to me - that's what he called himself, anyway. He looked like a human being, but his eyes revealed a power unimaginable to mortals. He offered to reveal the secret of the disincarnation ritual to me in exchange for a «small favor in the future». Of course, I swallowed his bait. The ritual was performed, and I became what you see today - an astral being, or a Master, as the mortals call us.#
+Text: #In my quest, I talked with the representatives of the different nations, spoke to the wise men of the Elves and Alkari Mentors, Elementals and Spirit Talkers. Then one day the Wanderer came to me - that's what he called himself, anyway. He looked like a human being, but his eyes revealed a power unimaginable to mortals. He offered to reveal the secret of the disincarnation ritual to me in exchange for a «small favor in the future». Of course, I swallowed his bait. The ritual was performed, and I became what you see today - an astral being, or a Master, as the mortals call us.#
 Answer1: But who was that Wanderer, and what kind of favor did he ask of you?;
 Answer2: I see. Thank you for the story, Oinor.;
 Answer3: This story is pretty boring.;#####
@@ -4509,7 +4509,7 @@ Answer2: All right, this argument will come in handy when negotiating with L'Ans
 /647 Óëü-Äàãàí, îá Îèíîğå
 Window: 3;
 Bitmap: 15;
-Text: #He is Pyelle's descendant, his grandson, to be precise. Pyelle was one of the few Iltans - or Ancients, if that suits you better - who managed to survive the Cataclysm. He used to be one of the Architects of the Ziggurat. Unfortunately, after the catastrophe, the poor guy lost it. He started mating with mortals in order to preserve our race. Oinor is one of the numerous results of his «efforts.» You can see it for yourself that nothing good came out of that. By mixing our blood with lesser races, soon Pyelle became more of a human than of an Iltan. This ruined him in the end. #
+Text: #He is Pyelle's descendant, his grandson, to be precise. Pyelle was one of the few Iltans - or Ancients, if that suits you better - who managed to survive the Cataclysm. Unfortunately, after the catastrophe, the poor guy lost it. He started mating with mortals in order to preserve our race. Oinor is one of the numerous results of his «efforts.» You can see it for yourself that nothing good came out of that. By mixing our blood with lesser races, soon Pyelle became more of a human than of an Iltan. This ruined him in the end. #
 Answer1: I see.;#####
 
 /648 Óëü-Äàãàí, î Áåëåçå 0
@@ -4554,7 +4554,7 @@ Answer1: I see.;#####
 /654 Óëü-Äàãàí, î Äàğèîëå
 Window: 3;
 Bitmap: 15;
-Text: #After the demise of my race, the elves have imagined themselves the most ancient race of Eador. They did manage to adopt some of our arts and crafts - they only wanted to pilfer our legacy, as did the humans, the Dwarves and gnolls - but they're nothing compared to what we once possessed. 
+Text: #After the demise of my race, the elves have imagined themselves the most ancient race of Eador. They did manage to adopt some of our arts and crafts - they only wanted to pilfer our legacy, as did Humans and Dwarves - but they're nothing compared to what we once possessed. 
 Like all elves, Dariol imagines himself to be one of the most ancient and wisest creatures. But in my opinion, he's just a miserable savage, like all of the lesser races.#
 Answer1: I see.;#####
 

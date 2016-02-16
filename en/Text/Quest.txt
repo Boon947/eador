@@ -16,32 +16,32 @@ Its location is unknown, but your scouts will find it eventually.#
 3. Bloody Gold 
 #Bloody Gold.
 An Orc from the province %s gave your hero the following quest:
-You need to collect 300 gold pieces by plundering your own provinces.# 
+You need to collect 300 gold pieces by plundering your own provinces.#
 
 4. Revenge on the Ogres
 #Revenge on the Ogres.
 A Centaur from %s province gave your hero the following quest:
-You need to kill 5 Ogres.#
+You need to kill 5 Ogres. To complete this quest, you can also kill Cyclops, Giants, and Orcish Chieftains.#
 
 5. Troubles with Robbers
 #Troubles with Robbers.
 A Halfling from %s province gave your hero the following quest:
-You need to kill 10 Brigands.#
+You need to kill 12 Brigands. To complete this quest, you can also kill Gang Leaders, and Renegades.#
 
 6. Elven Necklace
 #Elven Necklace.
 A Goblin from the province %s gave your hero the following quest:
-You need to kill 5 Elves and collect their ears.#
+You need to kill 8 Elves and collect their ears. To complete this quest, you can kill any Elven unit.#
 
 7. Banishing Demons
 #Banishing Demons.
 Priests from the Temple of Light located in %s province gave your hero the following quest:
-You need to kill 4 Demons.#
+You need to kill 4 Demons. To complete this quest, you can also kill Avengers.#
 
 8. Banishing Imps
 #Banishing Imps.
 Priests from the Temple of Light located in %s province gave your hero the following quest:
-You need to kill 15 Imps.#
+You need to kill 15 Imps. To complete this quest, you can also kill Mockers.#
 
 9. Destroying the Gates
 #Destroying the Gates.
@@ -51,12 +51,12 @@ You need to find and destroy the Gates of Chaos.#
 10. Banishing Fiends
 #Banishing Fiends.
 Priests from the Temple of Light located in %s province gave your hero the following quest:
-You need to kill 7 Fiends.#
+You need to kill 7 Fiends. To complete this quest, you can also kill Fiend Lords.#
 
 11. Banishing the Hounds
 #Banishing the Hounds.
 Priests from the Temple of Light located in %s province gave your hero the following quest:
-You need to kill 7 Hellhounds.#
+You need to kill 7 Hellhounds. To complete this quest, you can also kill Cerberus.#
 
 12. Banishing Devils
 #Banishing Devils.
@@ -66,22 +66,22 @@ You need to kill 2 Devils.#
 13. Laying Skeletons to Rest
 #Laying Skeletons to Rest
 Priests from the Temple of Light located in %s province gave your hero the following quest:
-You need to destroy 15 Skeletons.#
+You need to destroy 15 Skeletons. To complete this quest, you can also kill Bone Spearmen, Reapers, and Skeletons of Doom.#
 
 14. Laying Zombies to Rest
 #Laying Zombies to Rest
 Priests from the Temple of Light located in %s province gave your hero the following quest:
-You need to destroy 15 Zombies.#
+You need to destroy 15 Zombies. To complete this quest, you can also kill Mummies.#
 
 15. Laying Ghouls to Rest
 #Laying Ghouls to Rest.
 Priests from the Temple of Light located in %s province gave your hero the following quest:
-You need to destroy 7 Ghouls.#
+You need to destroy 7 Ghouls. To complete this quest, you can also kill Cadavers.#
 
 16. Laying Ghosts to Rest
 #Laying Ghosts to Rest.
 Priests from the Temple of Light located in %s province gave your hero the following quest:
-You need to destroy 4 Ghosts.#
+You need to destroy 4 Ghosts. To complete this quest, you can also kill Banshees, and Specters.#
 
 17. Laying Vampires to Rest
 #Laying Vampires to Rest.
@@ -106,7 +106,7 @@ You need to kill 3 Manticores and collect their wings.#
 21. Unicorn Hunt
 #Unicorn Hunt.
 The owner of a tanner store located in %s province gave your hero the following quest:
-You need to kill 3 Unicorns and collect their horns.#
+You need to kill 3 Unicorns and collect their horns. To complete this quest, you can also kill black Unicorns.#
 
 22. Obtaining the Scroll
 #Obtaining the Scroll.
@@ -116,17 +116,17 @@ You need to find and bring them a Scroll of %s.#
 23. Crystal, destruction
 #The Crystal's Quest
 Your hero received the following quest from the crystal located in your capital:
-You need to destroy these creatures: %s. The quest will be considered completed once the hero and his army destroy at least %d creatures.#
+You need to destroy these creatures: %s.#
 
 24. Crystal, destruction
 #The Crystal's Quest
 Your hero received the following quest from the crystal located in your capital:
-You need to destroy these creatures: %s. The quest will be considered completed once the hero and his army destroy at least %d creatures.#
+You need to destroy these creatures: %s.#
 
 25. Crystal, destruction
 #The Crystal's Quest
 Your hero received the following quest from the crystal located in your capital:
-You need to destroy these creatures: %s. The quest will be considered completed once the hero and his army destroy at least %d creatures.#
+You need to destroy these creatures: %s.#
 
 26. --
 #--#
@@ -190,7 +190,7 @@ You need to defeat 4 Minotaurs.#
 43. Dragon Hunt
 #Dragon Hunt.
 The owner of a chain mail armory located in %s province gave your hero the following quest:
-You need to kill a Dragon and bring back its scales.#
+You need to kill a Dragon, Faerie Dragon, or Dracolich, and bring back its scales.#
 
 44. Special Ore
 #Special Ore.
@@ -200,12 +200,12 @@ You need to find some special Ore in one of the Dark Caves.#
 45. Enemies of Light
 #Enemies of Light.
 The owner of a plate armory located in %s province gave your hero the following quest:
-You need to kill 5 Sorcerers.#
+You need to kill 8 Sorcerers. To complete this quest, you can also kill Necromancers, and Demonologists.#
 
 46. Dark Silver
 #Dark Silver
 The owner of a plate armory located in %s province gave your hero the following quest:
-You need to kill 3 Executioners and bring back their guild badges.#
+You need to kill 4 Executioners and collect their guild badges. To complete this quest, you can also kill Punishers.#
 
 47. Hydra's Heart
 #Hydra's Heart.
@@ -215,7 +215,7 @@ You need to kill a Hydra and bring back its heart.#
 48. Gryphon Hunt
 #Gryphon Hunt.
 The owner of an archery shop located in %s province gave your hero the following quest:
-You need to kill three gryphons and collect strong feathers from their wings.#
+You need to kill three Gryphons and collect strong feathers from their wings. To complete this quest, you can also kill Battle Gryphons.#
 
 49. Special Timber
 #Special Timber
@@ -245,7 +245,7 @@ You need to find the stolen tools in one of the Harpy Nests.#
 54. Stop the Thief!
 #Stop the Thief!
 The owner of a knowledge store located in %s province gave your hero the following quest:
-You need to seize the stolen signet from one of the thieves.#
+You need to recover a stolen ring from one of the thieves or bandits.#
 
 55. Moonstone
 #Moonstone.
@@ -260,8 +260,8 @@ You need to find and plunder a knowledge store.#
 57. Dark Egg
 #Dark Egg.
 Dark Elves from province %s gave your hero the following quest:
-You must find the lost Egg of the Beholders. The last known location was in one of the ancient tombs, but they lost it.
-Its location is unknown, but your scouts will find it eventually.#
+You must recover at least one Beholder egg snatched by Goblins.
+The location of their lair is unknown, but your scouts will find it eventually.#
 
 58. Dwarven Beards
 #Dwarven beards.

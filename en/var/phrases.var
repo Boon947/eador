@@ -1,4 +1,5 @@
-Quantity: 606
+Quantity: 621
+
 /0
 Name: Empty;
 
@@ -1302,7 +1303,7 @@ Name: Dismiss Guards;
 Name: Demolish Building;
 
 /434
-Name: Obstacle;
+Name: Construction;
 
 /435
 Name: Fortress;
@@ -1755,10 +1756,10 @@ Name: Gas Bomb;
 Name: Bombardment!;
 
 /585
-Name: Use area shot;
+Name: Use chain lightning;
 
 /586
-Name: Use regular shot;
+Name: Lightning!;
 
 /587
 Name: Items;
@@ -1803,10 +1804,10 @@ Name: Traveling Mode (Y);
 Name: Unit name;
 
 /601
-Name:  Type -;
+Name:   Type ;
 
 /602
-Name: Class -;
+Name:  Class ;
 
 /603
 Name: turn;
@@ -1819,3 +1820,48 @@ Name: turns;
 
 /606
 Name: Site Description;
+
+/607
+Name: Frenzy!;
+
+/608
+Name: Unit type;
+
+/609
+Name: Shield Bash;
+
+/610
+Name: Weapon Strike;
+
+/611
+Name: Shield Bash!;
+
+/612
+Name: Ignores Resistance;
+
+/613
+Name: Has fled the battlefield!;
+
+/614
+Name: Powerful Shot!;
+
+/615
+Name: Interception!;
+
+/616
+Name: Obstacle;
+
+/617
+Name: Allied troops (Q);
+
+/618
+Name: Castle troops (Q);
+
+/619
+Name: Secret treasure chest (W);
+
+/620
+Name: Main treasure chest (W);
+
+/621
+Name: Debris;

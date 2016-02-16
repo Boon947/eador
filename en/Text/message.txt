@@ -1,4 +1,4 @@
-Quantity: 122
+Quantity: 127
 0. Empty
 #No description#
 
@@ -232,8 +232,8 @@ A hero spends 4 Mobility Points to pass through a swamp province.#
 72. Hint Removing buildings
 #Show a message window upon an attempt to raze a building in a province.#
 
-73. Auto-level
-#Automatically increase the level of units of specified ranks.#
+73. Hint Construction in progress
+#Warn if turn ends with no building constructed.#
 
 74. Auto-combat
 #Always use quick combat in the specified situation.#
@@ -361,7 +361,7 @@ Your world is the main source of Energy income. Each Shard joined to your world 
 #Try powerful spells and rituals, train elite warriors and fight huge monsters. Obtain legendary artifacts and collect rare armor sets.#
 
 113. Hint Miscellaneous
-# New Horizons 15.0427.f03 - English translation v2.50d#
+# New Horizons 15.1231 - English translation v2.60a#
 
 114. No lottery
 #  
@@ -390,3 +390,21 @@ Your world is the main source of Energy income. Each Shard joined to your world 
 
 122. Switch Ammo - Magic shot
 #The unit can switch to different and enchanted ammunition. These missiles deal magic damage. Attacking costs extra stamina.#
+
+123. Line break 4
+#%s
+        %s#
+
+124. Quest Info 1
+#%s
+Also accepted: %s.#
+
+125. Quest Info 2
+#%s
+The quest will be considered completed once the hero and his army destroy at least %d creatures.#
+
+126. Auto-level
+#Automatically increase the level of units of specified ranks.#
+
+127. Debris
+#Remains of shattered fortifications. On the battlefield, crossing a tile covered in rubble costs 2 movement points and 1 stamina.#

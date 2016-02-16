@@ -62,7 +62,7 @@ Increases upkeep by +10 gold.#
 Increases upkeep by +10 gold.#
 
 /16 Scout's Ribbon
-#Grants all terrain knowledge 4.
+#Grants Terrain Knowledge 1.
 Increases upkeep by +5 gold.#
 
 /17 Medal of Mastery
@@ -90,5 +90,5 @@ Increases upkeep by +5 gold. Increases upkeep by 2 gem.#
 Increases upkeep by 1 gem.#
 
 /23 Order of the Mage
-#Increases the power and duration of spells by 1 and summoning power by 2.
+#Increases the power and duration of spells by 1 and summoning power by 4.
 Increases upkeep by 4 gem.#

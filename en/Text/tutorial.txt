@@ -1,4 +1,4 @@
-Quantity: 118
+Quantity: 119
 
 0. Empty
 #No description#
@@ -402,3 +402,34 @@ The only way to avoid losing is to make sure your world is large enough to attac
 118. Defending Your World
 #Your world was attacked by another Master. If you are defeated, you'll lose the campaign. So try your best to fight back! 
 Fighting in your own world gives you a number of advantages - you see the whole map and gain all the advantages you possess without spending any energy.#
+
+119. Type Description
+#Every creature belongs to a specific type or types. They all have their specificities. 
+
+Mortals - the most common type. Typically, they can be healed, resurrected, sacrificed, and can earn medals in combat.
+
+Animals - mortal creatures, which cannot earn medals, and are unaffected by some spells.
+
+Giants - creatures of huge proportions. They cannot be trampled, and are unaffected by some spells.
+
+Cultists - mortal creatures, willingly serving Chaos. Most of the rules for Mortals apply to them as well.
+
+The Undead - brisk with dark magic. They are immune to many harmful effects, but they are difficult to heal, do not earn medals, and cannot be resurrected or sacrificed.
+
+Skeletons - Undead, animated bones devoid of flesh.
+
+Servants of Death - Undead, completely immune to both the few healing spells for the Restless Dead and the majority of spells against the Undead.
+
+Demons - the spawn of Chaos in the material world. Can be healed, resurrected, or awarded medals, but cannot be sacrificed.
+
+Lord of Chaos - a very powerful creature, spawn of Chaos. Immune to many spells, mainly pertaining to Chaos magic.
+
+Mechanical units - artificial creatures, assembled from various materials. Can be repaired, but cannot be healed, resurrected, awarded medals, or sacrificed.
+
+Golem - Mechanical subtype with certain specificities.
+
+Artillery - Mechanical units designed for ranged destruction. Different from other Mechanical units in that they generally cannot fight in melee.
+
+Elemental Spirit - creature from a different plane of existence (usually from one of the four Elemental Planes - Fire, Air, Water and Earth). Cannot be healed, resurrected, awarded medals, or sacrificed. Moreover, generally they cannot remain permanently in the army, and must be summoned every time.
+
+Natural Weapon - a characteristic that prevents destroying or stealing a creature's ammo (not the typical bag of missiles, rather an innate ability).#

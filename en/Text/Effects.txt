@@ -62,7 +62,7 @@
 #The unit's defense and resistance are reduced by 3.#
 
 21. Fire Blade
-#All types of the unit's attack are increased by 4. His attacks are considered magical.#
+#Unit's Attack attributes are increased by 4, and deal magical damage.#
 
 22. Phantom Form
 #Reduces all of the unit's attack attributes by 10 and his armor is increased by 10.#
@@ -77,7 +77,7 @@
 #The unit replenishes his health as he deals damage in melee while under this spell.#
 
 26. Disease
-#The unit is infected with a disease. It loses hit points every turn, and its attack and speed are decreased.#
+#The unit is infected with a disease. It loses 3 HP and Stamina each turn, Attack attributes are reduced by 3, and Speed by 1.#
 
 27. Stone Skin
 #The unit's armor is increased by 5, his resistance by 3.#
@@ -134,7 +134,7 @@
 #The unit is turned into a dragon.#
 
 45. Polymorph
-#The unit is turned into a goblin.#
+#The unit is turned into a Mule.#
 
 46. Enslave
 #The unit is controlled by the enemy spell.#
@@ -167,22 +167,22 @@
 #Mechanical unit is under control of enemy spell.#
 
 56. Rune of Restoration
-#Mechanical unit is under rune restoration. Unit gains 6 hit points each turn.#
+#Mechanical unit is under rune restoration. Unit gains 8 hit points each turn.#
 
 57. Vampiric Touch
-#Unit gains health from melee combat - one third of the inflicted damage.#
+#Unit gains health from melee combat - one third of the inflicted damage. Unit's attacks rarely incur counterattacks.#
 
-58. Mighty Weapon
-#The unit's weapon is enchanted. This spell increases attack and counterattack by 3.#
+58. Earth Shield
+#Unit is protected by a stone shield. This spell increases Defense and Ranged Defense by 2. When resting the unit recovers 4 HP.#
 
 59. Rage
-#The soul of the unit is burning with rage. This spell increases attack and counterattack by 2 and grants bloodlust 3 and regeneration 2.#
+#The unit's soul is burning with rage. It receives Intrepid, Bloodlust 2, and each blow reduces target's morale by 1. The unit's Resistance is increased by 2.#
 
 60. Mass Rage
-#The soul of the unit is burning with rage. This spell increases attack and counterattack by 2 and grants bloodlust 3 and regeneration 2.#
+#The unit's soul is burning with rage. It receives Intrepid, Bloodlust 3, and each blow reduces target's morale by 2.#
 
-61. Horde's Rage
-#Unit is under effect of terrible rage, its every blow reduces morale by 1.#
+61. Elemental Rage
+#Unit is possessed by Spirits. Each turn it loses %d HP, but Spellpower and Spell Duration are each turn increased by 1, Summoning Power by 3.#
 
 62. Quagmire
 #Unit's speed is reduced by 2 and armor by 1 under the effect of the spell. Enchanted unit loses 1 point of stamina each turn.#
@@ -256,11 +256,11 @@
 85. Grace
 #A spell increased all types of the unit's attack, defense and resistance by 2. It regains 2 hit points each turn.#
 
-86. Hard as Stone
-#This spell increases all kinds of defense and resistance of the target unit by 4.#
+86. Armor of Faith
+#Reduces damage from Undead and Demons by 25~.#
 
 87. Sanctuary
-#This spell increases all types of units attack by 2, all kinds of defenses and resistance by 5 and granting spell immunity.#
+#This spell increases Attack and Defense attributes by 2, and reduces damage from Undead and Demons by 50~.#
 
 88. Divine Light
 #The unit is blinded. All types of attack are set to 0.#
@@ -373,8 +373,8 @@
 124. Word of Peace
 #The unit has become less vulnerable, but his fighting capabilities is worse. All types of defense and resistance is increased by 5, all types of attack are reduced by 10.#
 
-125. Fetters
-#The unit is entangled in a web and can't do anything.#
+125. Distress
+#The unit is infected with a disease. It loses 1 HP and Stamina each turn, Attack attributes are reduced by 1.#
 
 126. Heroism
 #Friendly unit becomes heroic and is immune to mind-affecting spells.#
@@ -389,7 +389,7 @@
 #The unit gains the ability to attack enemies without being counterattacked, even against agile counterattack opponents.#
 
 130. Yrden Sign
-#The unit feels a horrible pain. It loses stamina each turn and its attack is reduced.#
+#The unit feels a horrible pain. It loses Health and Stamina each turn, Attack attributes are reduced.#
 
 131. Ice Storm
 #The unit is frozen and its speed is decreased by 1.#
@@ -424,7 +424,7 @@ It loses 3 points of stamina and morale each turn.#
 #It's hard for the unit to move around. Its speed is reduced and it loses extra stamina each turn.#
 
 141. Dark Redemption
-#The hero's strength and duration of spells increase by 1, Summoning Power by 2.#
+#The unit's Spellpower and Spell Duration are increased by 1, Summoning Power by 2.#
 
 142. Ice Snake
 #Cold bounds movement of the unit, its speed is reduced by 2.#
@@ -435,14 +435,14 @@ It loses 3 points of stamina and morale each turn.#
 144. Scorching Ground
 #Earth is burning under the feet of the unit. It is taking damage with every move, its speed is decreased by 1.#
 
-145. Nature's Weapon
+145. Natural Weapon.
 #The unit wields weapons with natural enchantment. This spell increases all types of attack by 5.#
 
 146. Enchanted Fang
-#All types of the unit's attack are increased by 5. His attacks are considered magical.#
+#Unit's Attack attributes are increased by 1, and deal magical damage.#
 
-147. Slimy Bomb
-#The unit is covered by stinking slime. All types of attack are reduced by 3, speed is reduced by 1.#
+147. Stone Crust
+#Dense Stone Crust covering the entire body of the unit, increasing his armor by 4 and resistance by 2, but inflicting 4 points of damage each turn and target unit can't move.#
 
 148. Mass Cold Immunity
 #The unit is immune to cold spells. Defense of the unit is increased by 1. Each turn the unit restores 1 hit point.#
@@ -453,8 +453,8 @@ It loses 3 points of stamina and morale each turn.#
 150. Elemental Immunity
 #The unit is immune to lightning, fire and cold spells. Its resistance is increased by 3. The unit restores 1 hit point and 1 point of stamina each turn.#
 
-151. Stone Crust
-#Dense Stone Crust covering the entire body of the unit, increasing his armor by 4 and resistance by 2, but inflicting 4 points of damage each turn and target unit can't move.#
+151. Alertness
+#Unit's Defense is increased by %d due to special fighting abilities.#
 
 152. Cloud of Darkness
 #The unit has been blinded and is unable to attack.#
@@ -502,7 +502,7 @@ It loses 3 points of stamina and morale each turn.#
 #The unit has been poisoned and loses 1 hit points each turn.#
 
 167. Black Blood
-#The unit's melee and ranged attack is increased by poison of strength 2, while the unit itself loses 3 hit points each turn.#
+#The unit's melee and ranged attack is increased by poison of strength 3, while the unit itself loses 3 hit points each turn.#
 
 168. Gaseous Form
 #The vampire's attack is greatly reduced, but both defense attributes are significantly increased. Speed is increased by 1. The vampire is now incorporeal and restores 10 hit points each turn.#
@@ -535,7 +535,7 @@ It loses 3 points of stamina and morale each turn.#
 #The unit's resistance is reduced by half.#
 
 178. Word of the Lord
-#A spell cast by the Lord of Darkness increases a skeleton's strength by 2, armor by 3 and resistance by 4. #
+#Lord of Darkness' spell increases unit's Strength by 2, Armor and Resistance by 1.#
 
 179. Mental Support
 #The unit's summoning power is increased by 2.#
@@ -573,7 +573,7 @@ It loses 3 points of stamina and morale each turn.#
 190. Shadow Form Priestess
 #The unit is in shadow form. The unit's ranged attack is increased by 6, its range by 2, but its resistance protects only partially against spells. The unit is incorporeal and is able to reduce the enemy's resistance by 1 with each shot. It  possesses bloodlust 2. The unit's resistance is reduced by half and it loses 2 morale points each turn. Spell duration is reduced by 1, and it loses its healing power.#
 
-191. Alvari Rage
+191. Drow Rage
 #The unit's melee and ranged attack is increased by 2, speed by 1. The unit gets 2 additional morale points for killing the enemy in melee combat.#
 
 192. Dark Balance
@@ -627,8 +627,8 @@ The unit's resistance is reduced by half, it loses 2 morale points each turn and
 207. Festering Wounds
 #The unit's wounds cannot be healed.#
 
-208. Rune of Renewal
-#Mechanical unit is under rune renewal. Unit gains 8 hit points each turn.#
+208. Elemental Strength
+#Spellpower and Spell Duration increase by 1. Summoning Power by 3.#
 
 209. Mockery
 #The unit has been influenced by the bard's mockery. The enchanted unit loses 1 point of stamina each turn.#
@@ -641,3 +641,18 @@ The unit's resistance is reduced by half, it loses 2 morale points each turn and
 
 212. Cold Rage
 #Unit's counter-attack increased by %d due to Battle Frenzy.#
+
+213. Manic Rage
+#Unit loses %d HP each turn, due to uncontrollable Battle Frenzy.#
+
+214. Legacy of Chaos
+#Unit's Attack increases by 8, Speed by 1, Summoning Power by 5. Unit will die at the start of the next turn.#
+
+215. Primal Rage
+#The searing power of Chaos fills the unit. It receives an extra turn for killing an enemy in melee. Counterattack is set to 1.#
+
+216. Demonic Reward
+#The power of Chaos gives units the ability to heal their wounds by killing living creatures in melee.#
+
+217. Banner of Chaos
+#Inspired by the power of Chaos, the unit receives an extra turn for killing an enemy in melee. Attack is increased by 6, Counterattack is reduced by 6.#

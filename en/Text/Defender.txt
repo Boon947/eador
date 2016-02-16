@@ -366,20 +366,20 @@ Intrepid. Incorruptible.#
 77. Tribe of barbarians
 #This former tribe of barbarians now guard your province.#
 
-78. Alvari Patrol
+78. Drow Patrol
 #The dark elves continue to protect their province, but now under your strict rule.#
 
 79. Black Band
-#A large force of dark elves guarding the borders of your province. The locals however, knowing the nature of the Alvari, are not too happy about it. But, that's their problem...
+#A large force of dark elves guarding the borders of your province. The locals however, knowing the nature of the Drow, are not too happy about it. But, that's their problem...
 Population mood -1.
-Does not lower the mood in Alvari provinces.#
+Does not lower the mood in Drow provinces.#
 
 80. Army of Darkness
 #When the Dark Elves gather in large formations, few people can resist them - very few are able to overcome such a guard. But the residents of the province leave their house less often with such guardians around, which has an impact on the province's income.
 Population growth -1.
 Province income -10~.
 Population mood -1.
-Does not lower the mood in Alvari provinces.#
+Does not lower the mood in Drow provinces.#
 
 81. Elven Guards
 #A large force of elves protects your borders. For some reason, the locals like those guardians.
@@ -474,7 +474,7 @@ Improves population mood in the Alkari province by 1.#
 Province income -20~.#
 
 96. Drillers
-#A troop of Ratman Drillers with their mates - quite a strong protection for the province. In peacetime, they are looking for useful deposits, extracting valuable resources from the ground. The locals in the area however, are not too happy about this.
+#A troop of Ratman Drillers with their mates - quite a strong protection for the province. In peacetime, they look for useful deposits, extracting valuable resources from the ground. The locals in the area however, are not too happy about this.
 Can only be placed on plains and hills.
 Raises province income by 25~.
 Population mood -1.
@@ -520,7 +520,7 @@ Province gold and gem income -90~.#
 #Often recently trained dark elves are sent to maintain order in a submitted province, to practice their skills. Local inhabitants are not very happy with this, of course, but they keep their discontent to themselves.
 Unrest growth rate reduced by 3.
 Population mood -2.
-Does not lower the mood in Alvari provinces.#
+Does not lower the mood in Drow provinces.#
 
 105. Clan of Centaurs
 #Although they have agreed to grant passage through their lands, centaurs do not consider themselves part of your empire. They are ever on guard, vigilantly monitoring the borders of the province.

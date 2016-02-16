@@ -1,4 +1,4 @@
-Quantity: 160
+Quantity: 162
 
 /0
 Name: Empty;
@@ -550,7 +550,7 @@ Guard2: 194
 Guard3: 195
 
 /61
-Name: Alvari Warriors;
+Name: Drow Warriors;
 Power: 8
 Karma: -1
 Guard0: 196
@@ -559,7 +559,7 @@ Guard2: 196
 Guard3: 196
 
 /62
-Name: Alvari Mages;
+Name: Drow Mages;
 Power: 8
 Karma: -1
 Guard0: 197
@@ -705,7 +705,7 @@ Guard3: 233
 /78
 Name: Gnolls;
 Power: 3
-Karma: -1
+Karma: -3
 Guard0: 234
 Guard1: 235
 Guard2: 236
@@ -757,7 +757,7 @@ Guard2: 253
 Guard3: 254
 
 /84
-Name: Alkari;
+Name: Alkaryl;
 Power: 2
 Karma: 2
 Guard0: 255
@@ -839,7 +839,7 @@ Guard3: 281
 
 /93
 Name: Armada;
-Power: 3
+Power: 4
 Karma: 0
 Guard0: 282
 Guard1: 283
@@ -1037,15 +1037,15 @@ Guard3: 351
 
 /115
 Name: Gnolls;
-Power: 2
-Karma: -1
+Power: 3
+Karma: -3
 Guard0: 352
 Guard1: 353
 Guard2: 354
 Guard3: 355
 
 /116
-Name: Alkari;
+Name: Alkaryl;
 Power: 2
 Karma: 2
 Guard0: 356
@@ -1448,3 +1448,21 @@ Guard0: 478
 Guard1: 479
 Guard2: 480
 Guard3: 481
+
+/161
+Name: Gnoll Quest;
+Power: 5
+Karma: -3
+Guard0: 482
+Guard1: 482
+Guard2: 482
+Guard3: 482
+
+/162
+Name: Bugbears;
+Power: 2
+Karma: -1
+Guard0: 483
+Guard1: 484
+Guard2: 485
+Guard3: 486

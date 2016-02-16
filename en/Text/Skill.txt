@@ -44,7 +44,7 @@ Lvl 1: Ranged Attack +1
 Lvl 2: Ammo +1
 Lvl 3: Ranged Attack +1
 Lvl 4: Ammo +1
-Lvl 5: Range +1#
+Lvl 5: Ranged Attack +1, Ammo +1#
 
 /6 Maneuvering
 #The ability to maneuver not only increases the initiative of the army, but favorably affects the stamina of the troops and speeds up global map movement.
@@ -148,11 +148,11 @@ Lvl 5: Spell Duration +1, First Aid +2#
 /17 Summoning
 #Summoning increases power of the summoned creatures and the maximum range of summoning spells.
 
-Lvl 1: Summoning Strength +2, Range +1
-Lvl 2: Summoning Strength +2, Range +1
-Lvl 3: Summoning Strength +2, Range +1
-Lvl 4: Summoning Strength +2, Range +1
-Lvl 5: Summoning Strength +2, Range +1#
+Lvl 1: Summoning Strength +4, Range +1
+Lvl 2: Summoning Strength +4, Range +1
+Lvl 3: Summoning Strength +4, Range +1
+Lvl 4: Summoning Strength +4, Range +1
+Lvl 5: Summoning Strength +4, Range +1#
 
 /18 Thaumaturgy
 #Thaumaturgy increases the hero's magic resistance and his ability to overpower the resistance of the enemy.
@@ -232,8 +232,8 @@ Lvl 5: Precise Shot +1, Ammo +1#
 Lvl 1:  Forest Knowledge +1
 Lvl 2:   Hills Knowledge +1
 Lvl 3:   Swamp Knowledge +1, Mobility +1
-Lvl 4: Terrain Knowledge +3
-Lvl 5: Terrain Knowledge +4, Mobility +1#
+Lvl 4: Terrain Knowledge +1
+Lvl 5: Terrain Knowledge +1, Mobility +1#
 
 /27 Diplomacy
 #Diplomacy increases the rewards for completing quests and winning arena battles. Decreases prices in province stores and guard bribery costs. Provides more opportunities at negotiations.

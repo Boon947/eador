@@ -1,4 +1,4 @@
-Quantity: 212
+Quantity: 217
 
 /0
 Name: Empty;
@@ -20,7 +20,7 @@ Numeric: 1
 
 /3
 Name: Hex;
-Ability: 43
+Ability: 96
 Spell: 0
 Numeric: 0
 
@@ -44,7 +44,7 @@ Numeric: 0
 
 /7
 Name: Injured;
-Ability: 51
+Ability: 127
 Spell: 0
 Numeric: 0
 
@@ -68,7 +68,7 @@ Numeric: 0
 
 /11
 Name: Poison;
-Ability: 78
+Ability: 42
 Spell: 0
 Numeric: 1
 
@@ -339,7 +339,7 @@ Numeric: 0
 /56
 Name: Rune of Restoration;
 Ability: 0
-Spell: 99
+Spell: 101
 Numeric: 0
 
 /57
@@ -349,7 +349,7 @@ Spell: 104
 Numeric: 0
 
 /58
-Name: Mighty Weapon;
+Name: Earth Shield;
 Ability: 0
 Spell: 105
 Numeric: 0
@@ -367,10 +367,10 @@ Spell: 109
 Numeric: 0
 
 /61
-Name: Horde's Rage;
-Ability: 0
-Spell: 110
-Numeric: 0
+Name: Ghost Wrath;
+Ability: 218
+Spell: 0
+Numeric: 1
 
 /62
 Name: Quagmire;
@@ -517,7 +517,7 @@ Spell: 144
 Numeric: 0
 
 /86
-Name: Hard as Stone;
+Name: Armor of Faith;
 Ability: 0
 Spell: 146
 Numeric: 0
@@ -751,9 +751,9 @@ Spell: 216
 Numeric: 0
 
 /125
-Name: Web;
+Name: Distress;
 Ability: 0
-Spell: 217
+Spell: 362
 Numeric: 0
 
 /126
@@ -871,7 +871,7 @@ Spell: 256
 Numeric: 0
 
 /145
-Name: Nature's Weapon;
+Name: Natural Weapon;
 Ability: 0
 Spell: 259
 Numeric: 0
@@ -883,9 +883,9 @@ Spell: 260
 Numeric: 0
 
 /147
-Name: Slimy Bomb;
+Name: Stone Crust;
 Ability: 0
-Spell: 261
+Spell: 263
 Numeric: 0
 
 /148
@@ -907,10 +907,10 @@ Spell: 266
 Numeric: 0
 
 /151
-Name: Stone Crust;
-Ability: 0
-Spell: 263
-Numeric: 0
+Name: Alertness;
+Ability: 169
+Spell: 0
+Numeric: 1
 
 /152
 Name: Cloud of Darkness;
@@ -932,7 +932,7 @@ Numeric: 0
 
 /155
 Name: Shield Wall;
-Ability: 193
+Ability: 185
 Spell: 0
 Numeric: 0
 
@@ -1118,13 +1118,13 @@ Numeric: 0
 
 /186
 Name: Bleeding Wound;
-Ability: 208
+Ability: 155
 Spell: 0
 Numeric: 1
 
 /187
 Name: Damaged Aura;
-Ability: 212
+Ability: 134
 Spell: 0
 Numeric: 1
 
@@ -1147,7 +1147,7 @@ Spell: 336
 Numeric: 0
 
 /191
-Name: Alvari Rage;
+Name: Drow Rage;
 Ability: 0
 Spell: 337
 Numeric: 0
@@ -1226,7 +1226,7 @@ Numeric: 0
 
 /204
 Name: Mind Control Immunity;
-Ability: 100
+Ability: 104
 Spell: 183
 Numeric: 0
 
@@ -1249,9 +1249,9 @@ Spell: 0
 Numeric: 0
 
 /208
-Name: Rune of Renewal;
+Name: Elemental Strength;
 Ability: 0
-Spell: 101
+Spell: 368
 Numeric: 0
 
 /209
@@ -1274,6 +1274,36 @@ Numeric: 0
 
 /212
 Name: Cold Rage;
-Ability: 225
+Ability: 210
 Spell: 0
 Numeric: 1
+
+/213
+Name: Manic Rage;
+Ability: 125
+Spell: 0
+Numeric: 1
+
+/214
+Name: Legacy of Chaos;
+Ability: 0
+Spell: 358
+Numeric: 0
+
+/215
+Name: Primal Rage;
+Ability: 0
+Spell: 359
+Numeric: 0
+
+/216
+Name: Demonic Reward;
+Ability: 0
+Spell: 360
+Numeric: 0
+
+/217
+Name: Banner of Chaos;
+Ability: 0
+Spell: 361
+Numeric: 0

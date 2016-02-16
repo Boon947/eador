@@ -182,7 +182,7 @@ RangedDefence: 5
 Power: 2
 Area: 0
 
-PoisonImmunity: 42
+PoisonImmunity: 108
 Power: 1
 Area: 0;
 
@@ -198,7 +198,7 @@ PoisonAttack: 41
 Power: 3
 Area: 0
 
-PoisonShot: 78
+PoisonShot: 42
 Power: 3
 Area: 0;
 
@@ -309,7 +309,7 @@ Power: 2
 Area: 0;
 
 Items: 8
-MagicImmunity: 30
+MagicImmunity: 110
 Power: 1
 Area: 0;
 
@@ -325,7 +325,7 @@ Resist: 6
 Power: 3
 Area: 0
 
-SmiteEvil: 61
+SmiteEvil: 120
 Power: 2
 Area: 0;
 
@@ -692,7 +692,7 @@ Items: 540, 541, 542, 543, 544, 545
 Bonus: 3
 
 Items: 2
-BurningFlesh: 154
+BurningFlesh: 146
 Power: 2
 Area: 0;
 
@@ -719,7 +719,7 @@ Power: 5
 Area: 0;
 
 Items: 3
-PoisonImmunity: 42
+PoisonImmunity: 108
 Power: 1
 Area: 0;
 
@@ -729,7 +729,7 @@ Power: 10
 Area: 0;
 
 Items: 6
-CripplingArrows: 197
+CripplingArrows: 128
 Power: 2
 Area: 0
 
@@ -796,7 +796,7 @@ DrainLife: 68
 Power: 25
 Area: 0
 
-RangeDrain: 104
+RangeDrain: 168
 Power: 25
 Area: 0;
 
@@ -809,7 +809,7 @@ Fearless: 19
 Power: 1
 Area: 0
 
-PoisonImmunity: 42
+PoisonImmunity: 108
 Power: 1
 Area: 0
 
@@ -833,7 +833,7 @@ Resist: 6
 Power: 1
 Area: 1
 
-MindImmunity: 100
+MindImmunity: 104
 Power: 1
 Area: 1;
 
@@ -847,7 +847,7 @@ Power: 2
 Area: 1;
 
 Items: 7
-Smite_Evil: 61
+Smite_Evil: 120
 Power: 2
 Area: 1
 
@@ -899,11 +899,11 @@ Power: 30
 Area: 1;
 
 Items: 7
-LayDisease: 80
+LayDisease: 178
 Power: 3
 Area: 1
 
-PoisonImmunity: 42
+PoisonImmunity: 108
 Power: 1
 Area: 1
 
@@ -993,11 +993,11 @@ Items: 622, 620, 621, 627
 Bonus: 3
 
 Items: 2
-Bleeding: 208
+Bleeding: 155
 Power: 1
 Area: 0
 
-RangeBleeding: 209
+RangeBleeding: 156
 Power: 1
 Area: 0;
 
@@ -1031,7 +1031,7 @@ Berserk: 25
 Power: 4
 Area: 0
 
-BloodRage: 211
+BloodRage: 197
 Power: 3
 Area: 0;
 
@@ -1198,7 +1198,7 @@ CounterAttack: 3
 Power: 1
 Area: 0
 
-SmiteEvil: 61
+SmiteEvil: 120
 Power: 1
 Area: 0;
 
@@ -1389,7 +1389,7 @@ Energy_control: 95
 Power: 1
 Area: 0
 
-LayCurse: 43
+LayCurse: 96
 Power: 4
 Area: 0;
 
@@ -1489,7 +1489,7 @@ Items: 338, 402
 Bonus: 2
 
 Items: 2
-Poisonous_Flash: 96
+Poisonous_Flash: 43
 Power: 1
 Area: 0;
 
@@ -1498,7 +1498,7 @@ PoisonAttack: 41
 Power: 1
 Area: 0
 
-PoisonImmunity: 42
+PoisonImmunity: 108
 Power: 1
 Area: 0;
 
@@ -1554,7 +1554,7 @@ Items: 204, 235
 Bonus: 1
 
 Items: 2
-Poison_Shot: 78
+Poison_Shot: 42
 Power: 2
 Area: 0;
 
@@ -1562,15 +1562,15 @@ Area: 0;
 /60
 Name: Dark Reflections;
 ItemsNum: 2
-Items: 207, 694
+Items: 207, 637
 Bonus: 1
 
 Items: 2
-Feared_Shot: 169
+Feared_Shot: 51
 Power: 2
 Area: 0
 
-Astral_Shot: 213
+Astral_Shot: 135
 Power: 2
 Area: 0;
 
@@ -1582,12 +1582,8 @@ Items: 205, 215
 Bonus: 1
 
 Items: 2
-Burning: 144
-Power: 1
-Area: 0
-
-PierceResist: 196
-Power: 1
+RangeAttack: 8
+Power: 3
 Area: 0;
 
 
@@ -1602,12 +1598,12 @@ Attack: 2
 Power: 1
 Area: 0
 
-Thorns: 210
+Thorns: 157
 Power: 1
 Area: 0;
 
 Items: 3
-Thorns: 210
+Thorns: 157
 Power: 2
 Area: 0;
 

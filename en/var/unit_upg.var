@@ -1,4 +1,4 @@
-Quantity: 734
+Quantity: 763
 
 /0
 Name: Empty;
@@ -357,7 +357,7 @@ Quantity: 1;
 Name: Armor Piercing Shot;
 Only Once: 0
 Need: (0)
-Upg Type: 17
+Upg Type: 31
 Quantity: 1;
 
 /48
@@ -448,7 +448,7 @@ Quantity: 1;
 Name: Spell Immunity;
 Only Once: 0
 Need: (0)
-Upg Type: 30
+Upg Type: 110
 Quantity: 1;
 
 /61
@@ -464,32 +464,32 @@ Quantity: 1
 Upg Type: 18
 Quantity: 1
 
-Upg Type: 42
+Upg Type: 108
 Quantity: 1
 
 Upg Type: 102
 Quantity: 1;
 
 /62
-Name: Forest Knowledge +8;
+Name: Forest Knowledge +4;
 Only Once: 1
 Need: (0)
 Upg Type: 32
-Quantity: 8;
+Quantity: 4;
 
 /63
-Name: Hills Knowledge +8;
+Name: Hills Knowledge +4;
 Only Once: 1
 Need: (0)
 Upg Type: 33
-Quantity: 8;
+Quantity: 4;
 
 /64
-Name: Swamp Knowledge +8;
+Name: Swamp Knowledge +4;
 Only Once: 1
 Need: (0)
 Upg Type: 34
-Quantity: 8;
+Quantity: 4;
 
 /65
 Name: First Aid;
@@ -523,14 +523,14 @@ Quantity: 1;
 Name: Armorpiercing Strike;
 Only Once: 1
 Need: (0)
-Upg Type: 39
+Upg Type: 30
 Quantity: 1;
 
 /70
 Name: Stunning Blow;
 Only Once: 0
 Need: (0)
-Upg Type: 40
+Upg Type: 39
 Quantity: 1;
 
 /71
@@ -544,14 +544,14 @@ Quantity: 1;
 Name: Poison Immunity;
 Only Once: 1
 Need: (0)
-Upg Type: 42
+Upg Type: 108
 Quantity: 1;
 
 /73
 Name: Hex;
 Only Once: 1
 Need: (0)
-Upg Type: 43
+Upg Type: 96
 Quantity: 4;
 
 /74
@@ -559,7 +559,7 @@ Name: Steal Ammo;
 Only Once: 1
 Need: (0)
 Upg Type: 44
-Quantity: 3;
+Quantity: 2;
 
 /75
 Name: Damage Armor;
@@ -607,7 +607,7 @@ Quantity: 1;
 Name: Crippling Strike;
 Only Once: 1
 Need: (0)
-Upg Type: 51
+Upg Type: 127
 Quantity: 2;
 
 /82
@@ -761,7 +761,7 @@ Quantity: 5;
 Name: Smite Evil +1;
 Only Once: 0
 Need: (0)
-Upg Type: 61
+Upg Type: 120
 Quantity: 1;
 
 /104
@@ -782,7 +782,7 @@ Quantity: 15;
 Name: Cause Disease;
 Only Once: 0
 Need: (0)
-Upg Type: 80
+Upg Type: 178
 Quantity: 1;
 
 /107
@@ -853,6 +853,9 @@ Name: Vulnerability Spell;
 Only Once: 1
 Need: (0)
 Upg Type: 2021
+Quantity: 1
+
+Upg Type: 311
 Quantity: 1;
 
 /117
@@ -907,9 +910,15 @@ Quantity: 1;
 /124
 Name: Summon Imp;
 Only Once: 1
-Need: (0)
+Need: (311)
+Upg Type: 311
+Quantity: -1
+
+Upg Type: 310
+Quantity: 1
+
 Upg Type: 2019
-Quantity: 1;
+Quantity: 2;
 
 /125
 Name: Dispel;
@@ -964,7 +973,7 @@ Quantity: 1;
 Name: Poison Shot +1;
 Only Once: 0
 Need: (0)
-Upg Type: 78
+Upg Type: 42
 Quantity: 1;
 
 /133
@@ -982,11 +991,17 @@ Upg Type: 23
 Quantity: 1;
 
 /135
-Name: Astral Energy;
+Name: Fear;
 Only Once: 1
-Need: (0)
-Upg Type: 2017
-Quantity: 3;
+Need: (311)
+Upg Type: 311
+Quantity: -1
+
+Upg Type: 309
+Quantity: 1
+
+Upg Type: 2013
+Quantity: 1;
 
 /136
 Name: Raise Zombie;
@@ -1072,14 +1087,14 @@ Quantity: 1;
 Name: Poison Flesh;
 Only Once: 1
 Need: (0)
-Upg Type: 96
+Upg Type: 43
 Quantity: 2;
 
 /148
 Name: Poison Flesh +1;
 Only Once: 0
 Need: (0)
-Upg Type: 96
+Upg Type: 43
 Quantity: 1;
 
 /149
@@ -1100,7 +1115,7 @@ Quantity: 1;
 Name: Poison Shot;
 Only Once: 1
 Need: (0)
-Upg Type: 78
+Upg Type: 42
 Quantity: 2;
 
 /152
@@ -1145,17 +1160,20 @@ Upg Type: 2080
 Quantity: 1;
 
 /157
-Name: Cold Rage;
-Only Once: 1
+Name: Orcish Fury +1;
+Only Once: 0
 Need: (0)
-Upg Type: 225
+Upg Type: 25
+Quantity: 1
+
+Upg Type: 210
 Quantity: 1;
 
 /158
-Name: Quen Sign;
+Name: Blood Frenzy;
 Only Once: 1
 Need: (0)
-Upg Type: 2080
+Upg Type: 122
 Quantity: 1;
 
 /159
@@ -1166,18 +1184,24 @@ Upg Type: 2081
 Quantity: 1;
 
 /160
-Name: Battle Frenzy;
-Only Once: 0
+Name: Manic Rage 1;
+Only Once: 1
 Need: (0)
-Upg Type: 25
-Quantity: 5;
+Upg Type: 125
+Quantity: 1;
 
 /161
-Name: Stinking Cloud;
+Name: Death Touched;
 Only Once: 1
 Need: (0)
 Upg Type: 2082
-Quantity: 3;
+Quantity: 3
+
+Upg Type: 147
+Quantity: 1
+
+Upg Type: 51
+Quantity: 1;
 
 /162
 Name: Become Sentinel;
@@ -1260,7 +1284,7 @@ Quantity: 88;
 Name: Poison Shot;
 Only Once: 1
 Need: (0)
-Upg Type: 78
+Upg Type: 42
 Quantity: 3;
 
 /174
@@ -1446,11 +1470,11 @@ Upg Type: 141
 Quantity: 1;
 
 /200
-Name: Rune of Restoration;
+Name: Rune of Renewal;
 Only Once: 1
 Need: (0)
 Upg Type: 2099
-Quantity: 1;
+Quantity: 3;
 
 /201
 Name: Rune of Decay;
@@ -1460,11 +1484,11 @@ Upg Type: 2100
 Quantity: 1;
 
 /202
-Name: Rune of Renewal;
+Name: Rune of Restoration;
 Only Once: 1
 Need: (0)
 Upg Type: 2101
-Quantity: 3;
+Quantity: 2;
 
 /203
 Name: Rune of Power;
@@ -1478,7 +1502,7 @@ Name: Stone Spikes;
 Only Once: 1
 Need: (0)
 Upg Type: 2103
-Quantity: 2;
+Quantity: 1;
 
 /205
 Name: Vampiric Touch;
@@ -1488,46 +1512,46 @@ Upg Type: 2104
 Quantity: 1;
 
 /206
-Name: Mighty Weapon;
+Name: Earth Shield;
 Only Once: 1
 Need: (0)
 Upg Type: 2105
-Quantity: 2;
+Quantity: 1;
 
 /207
-Name: Starfall;
+Name: Fire Rage;
 Only Once: 1
 Need: (0)
 Upg Type: 2106
-Quantity: 3;
+Quantity: 1;
 
 /208
 Name: Rage;
 Only Once: 1
 Need: (0)
 Upg Type: 2107
-Quantity: 2;
+Quantity: 1;
 
 /209
-Name: Insanity;
+Name: Soothe Spirits;
 Only Once: 1
 Need: (0)
-Upg Type: 2108
-Quantity: 4;
+Upg Type: 2367
+Quantity: 1;
 
 /210
 Name: Mass Rage;
 Only Once: 1
 Need: (0)
 Upg Type: 2109
-Quantity: 4;
+Quantity: 1;
 
 /211
-Name: Horde's Rage;
+Name: Tribe's Blood;
 Only Once: 1
 Need: (0)
 Upg Type: 2110
-Quantity: 3;
+Quantity: 1;
 
 /212
 Name: Chieftain Order;
@@ -1845,8 +1869,8 @@ Upg Type: 62
 Quantity: 128;
 
 /257
-Name: Pathfinder;
-Only Once: 1
+Name: Pathfinder +1;
+Only Once: 0
 Need: (0)
 Upg Type: 32
 Quantity: 1
@@ -1921,18 +1945,21 @@ Upg Type: 2145
 Quantity: 3;
 
 /267
-Name: Hard as Stone;
+Name: Armor of Faith;
 Only Once: 1
 Need: (0)
 Upg Type: 2146
-Quantity: 3;
+Quantity: 2;
 
 /268
 Name: True Resurrection;
 Only Once: 1
 Need: (0)
 Upg Type: 2147
-Quantity: 4;
+Quantity: 4
+
+Upg Type: 215
+Quantity: 1;
 
 /269
 Name: Sanctuary;
@@ -2001,29 +2028,29 @@ Quantity: 138;
 Name: Smite Evil +2;
 Only Once: 0
 Need: (0)
-Upg Type: 61
+Upg Type: 120
 Quantity: 2;
 
 /279
 Name: Smite Evil +3;
 Only Once: 0
 Need: (0)
-Upg Type: 61
+Upg Type: 120
 Quantity: 3;
 
 /280
 Name: Become Necromancer;
 Only Once: 1
-Need: (0)
+Need: (309)
 Upg Type: 62
 Quantity: 144;
 
 /281
-Name: Summon Skeleton;
+Name: Become Demonologist;
 Only Once: 1
-Need: (0)
-Upg Type: 2153
-Quantity: 3;
+Need: (310)
+Upg Type: 62
+Quantity: 190;
 
 /282
 Name: Become Springald;
@@ -2073,7 +2100,7 @@ Quantity: 1
 Upg Type: 38
 Quantity: 1
 
-Upg Type: 42
+Upg Type: 108
 Quantity: 1;
 
 /288
@@ -2129,7 +2156,7 @@ Quantity: 1
 Upg Type: 22
 Quantity: 1
 
-Upg Type: 61
+Upg Type: 120
 Quantity: 1
 
 Upg Type: 2051
@@ -2194,31 +2221,22 @@ Quantity: 1;
 Name: Air Immunity;
 Only Once: 0
 Need: (0)
-Upg Type: 105
+Upg Type: 103
 Quantity: 1;
 
 /301
-Name: Great Demon;
+Name: Manic Rage 2;
 Only Once: 1
 Need: (0)
-Upg Type: 50
-Quantity: 3
-
-Upg Type: 57
-Quantity: 5
-
-Upg Type: 108
-Quantity: 1
-
-Upg Type: 120
-Quantity: 1;
+Upg Type: 125
+Quantity: 2;
 
 /302
 Name: Water Elemental;
 Only Once: 1
 Need: (0)
 Upg Type: 34
-Quantity: 4
+Quantity: 2
 
 Upg Type: 102
 Quantity: 1
@@ -2236,21 +2254,21 @@ Quantity: 3;
 Name: Bombardment;
 Only Once: 1
 Need: (0)
-Upg Type: 138
+Upg Type: 139
 Quantity: 2;
 
 /304
 Name: Mind Control Immunity;
 Only Once: 0
 Need: (0)
-Upg Type: 100
+Upg Type: 104
 Quantity: 1;
 
 /305
 Name: Elemental;
 Only Once: 0
 Need: (0)
-Upg Type: 100
+Upg Type: 104
 Quantity: 1
 
 Upg Type: 13
@@ -2259,10 +2277,7 @@ Quantity: 1
 Upg Type: 19
 Quantity: 1
 
-Upg Type: 42
-Quantity: 1
-
-Upg Type: 109
+Upg Type: 108
 Quantity: 1;
 
 /306
@@ -2293,7 +2308,7 @@ Need: (0)
 Upg Type: 21
 Quantity: 2
 
-Upg Type: 105
+Upg Type: 103
 Quantity: 1
 
 Upg Type: 2159
@@ -2339,8 +2354,8 @@ Quantity: 3
 Upg Type: 2164
 Quantity: 5
 
-Upg Type: 120
-Quantity: 1;
+Upg Type: 39
+Quantity: 2;
 
 /314
 Name: Fire Rain;
@@ -2376,7 +2391,7 @@ Quantity: 4
 Upg Type: 2167
 Quantity: 1
 
-Upg Type: 154
+Upg Type: 146
 Quantity: 1;
 
 /318
@@ -2397,11 +2412,11 @@ Upg Type: 10
 Quantity: 1;
 
 /320
-Name: Summon Fire Elemental;
+Name: Elemental Strength;
 Only Once: 1
 Need: (0)
-Upg Type: 2170
-Quantity: 4;
+Upg Type: 2368
+Quantity: 1;
 
 /321
 Name: Necromancer ablities;
@@ -2413,7 +2428,7 @@ Quantity: 1
 Upg Type: 28
 Quantity: 1
 
-Upg Type: 43
+Upg Type: 96
 Quantity: 5
 
 Upg Type: 2153
@@ -2467,7 +2482,7 @@ Quantity: 8
 Upg Type: 907
 Quantity: 2
 
-Upg Type: 200
+Upg Type: 121
 Quantity: 2;
 
 /328
@@ -2599,8 +2614,8 @@ Quantity: 3
 Upg Type: 59
 Quantity: 4
 
-Upg Type: 61
-Quantity: 1
+Upg Type: 120
+Quantity: 2
 
 Upg Type: 2301
 Quantity: 3;
@@ -2773,21 +2788,24 @@ Quantity: 1
 Upg Type: 19
 Quantity: 1
 
-Upg Type: 42
+Upg Type: 108
 Quantity: 1
 
 Upg Type: 13
 Quantity: 1
 
-Upg Type: 100
+Upg Type: 104
 Quantity: 1;
 
 /364
-Name: Summoning Power;
+Name: Summoning Power +4;
 Only Once: 0
 Need: (0)
 Upg Type: 907
-Quantity: 2;
+Quantity: 4
+
+Upg Type: 911
+Quantity: 1;
 
 /365
 Name: Paralyze;
@@ -2810,7 +2828,7 @@ Need: (0)
 Upg Type: 189
 Quantity: 194
 
-Upg Type: 342
+Upg Type: 314
 Quantity: 1;
 
 /368
@@ -2820,7 +2838,7 @@ Need: (0)
 Upg Type: 189
 Quantity: 336
 
-Upg Type: 343
+Upg Type: 315
 Quantity: 1;
 
 /369
@@ -2838,7 +2856,7 @@ Upg Type: 2197
 Quantity: 4;
 
 /371
-Name: Alvari Rage;
+Name: Drow Rage;
 Only Once: 1
 Need: (0)
 Upg Type: 2337
@@ -2852,11 +2870,14 @@ Upg Type: 2098
 Quantity: 2;
 
 /373
-Name: Summoning Power;
+Name: Summoning Power +8;
 Only Once: 0
 Need: (0)
 Upg Type: 907
-Quantity: 4;
+Quantity: 8
+
+Upg Type: 911
+Quantity: 2;
 
 /374
 Name: Kiss of Darkness;
@@ -2869,7 +2890,7 @@ Quantity: 3;
 Name: Astral Parasite;
 Only Once: 1
 Need: (0)
-Upg Type: 217
+Upg Type: 132
 Quantity: 199
 
 Upg Type: 300
@@ -2904,7 +2925,7 @@ Upg Type: 2201
 Quantity: 4;
 
 /380
-Name: Dark Revival;
+Name: Dark Resurrection;
 Only Once: 1
 Need: (0)
 Upg Type: 2207
@@ -3148,17 +3169,17 @@ Quantity: 1
 Upg Type: 19
 Quantity: 1
 
-Upg Type: 42
+Upg Type: 108
 Quantity: 1
 
-Upg Type: 202
+Upg Type: 106
 Quantity: 1;
 
 /412
 Name: Springald;
 Only Once: 1
 Need: (0)
-Upg Type: 17
+Upg Type: 31
 Quantity: 1
 
 Upg Type: 18
@@ -3168,11 +3189,11 @@ Upg Type: 69
 Quantity: 3;
 
 /413
-Name: Death Servant;
-Only Once: 0
+Name: Manic Rage 3;
+Only Once: 1
 Need: (0)
-Upg Type: 106
-Quantity: 1;
+Upg Type: 125
+Quantity: 3;
 
 /414
 Name: Become Fiend Lord;
@@ -3236,10 +3257,7 @@ Quantity: 1
 Upg Type: 28
 Quantity: 1
 
-Upg Type: 106
-Quantity: 1
-
-Upg Type: 215
+Upg Type: 123
 Quantity: 1;
 
 /422
@@ -3260,20 +3278,17 @@ Quantity: 2;
 Name: Tarrasque;
 Only Once: 0
 Need: (0)
-Upg Type: 39
+Upg Type: 30
 Quantity: 1
 
-Upg Type: 40
+Upg Type: 39
 Quantity: 1
 
 Upg Type: 45
 Quantity: 3
 
-Upg Type: 51
-Quantity: 4
-
-Upg Type: 120
-Quantity: 1;
+Upg Type: 127
+Quantity: 4;
 
 /425
 Name: Energy Control;
@@ -3311,39 +3326,27 @@ Upg Type: 2253
 Quantity: 3;
 
 /430
-Name: Animal;
+Name: Siege Mode;
 Only Once: 1
 Need: (0)
-Upg Type: 107
+Upg Type: 170
 Quantity: 1
 
-Upg Type: 199
-Quantity: 1
+Upg Type: 175
+Quantity: 20
 
-Upg Type: 195
-Quantity: 1
+Upg Type: 172
+Quantity: 1003
 
-Upg Type: 192
+Upg Type: 308
 Quantity: 1;
 
 /431
-Name: Ericuba;
-Only Once: 0
+Name: Change Ammo;
+Only Once: 1
 Need: (0)
-Upg Type: 107
-Quantity: 1
-
-Upg Type: 199
-Quantity: 1
-
-Upg Type: 195
-Quantity: 1
-
-Upg Type: 34
-Quantity: 8
-
-Upg Type: 120
-Quantity: 1;
+Upg Type: 132
+Quantity: 2028;
 
 /432
 Name: Meditation;
@@ -3413,233 +3416,284 @@ Quantity: 1
 Upg Type: 102
 Quantity: 1
 
-Upg Type: 105
+Upg Type: 103
 Quantity: 1;
 
 /440
-Name: Gnolls;
-Only Once: 0
+Name: Turn into Imp;
+Only Once: 1
 Need: (0)
-Upg Type: 56
-Quantity: 5
+Upg Type: 332
+Quantity: 1
 
-Upg Type: 58
-Quantity: 5;
+Upg Type: 191
+Quantity: 21
+
+Upg Type: 193
+Quantity: 1
+
+Upg Type: 194
+Quantity: 1;
 
 /441
-Name: Slimy Bomb;
-Only Once: 0
+Name: Sinister Howl;
+Only Once: 1
 Need: (0)
-Upg Type: 2261
-Quantity: 2
+Upg Type: 2083
+Quantity: 1
 
-Upg Type: 17
+Upg Type: 10
+Quantity: 1
+
+Upg Type: 123
 Quantity: 1;
 
 /442
-Name: Stunning Blow;
-Only Once: 0
-Need: (0)
-Upg Type: 40
-Quantity: 2;
-
-/443
-Name: Great Pack Warrior;
+Name: Fiend Transformation;
 Only Once: 1
 Need: (0)
-Upg Type: 122
+Upg Type: 333
 Quantity: 1
 
-Upg Type: 2
-Quantity: 2
+Upg Type: 191
+Quantity: 37
 
-Upg Type: 3
-Quantity: 2
-
-Upg Type: 4
+Upg Type: 193
 Quantity: 1
 
-Upg Type: 5
+Upg Type: 194
 Quantity: 1;
 
-/444
-Name: Flesh-tearer;
+/443
+Name: Mocker Inscription;
 Only Once: 1
-Need: (122)
-Upg Type: 123
+Need: (332)
+Upg Type: 191
+Quantity: 184
+
+Upg Type: 11
+Quantity: -4;
+
+/444
+Name: Demon Transformation;
+Only Once: 1
+Need: (0)
+Upg Type: 334
 Quantity: 1
 
-Upg Type: 39
+Upg Type: 191
+Quantity: 56
+
+Upg Type: 193
+Quantity: 1
+
+Upg Type: 194
 Quantity: 1;
 
 /445
-Name: Flesh-scorcher;
+Name: Avenger Inscription;
 Only Once: 1
-Need: (122)
-Upg Type: 124
-Quantity: 1
+Need: (334)
+Upg Type: 191
+Quantity: 201
 
-Upg Type: 27
-Quantity: 1;
+Upg Type: 1
+Quantity: -5;
 
 /446
-Name: Great Pack Headhunter;
+Name: Fiend Lord Inscription;
 Only Once: 1
-Need: (0)
-Upg Type: 125
-Quantity: 1
-
-Upg Type: 8
-Quantity: 3
-
-Upg Type: 9
-Quantity: 1;
+Need: (333)
+Upg Type: 191
+Quantity: 154;
 
 /447
-Name: Flesh-piercer;
+Name: Avenger Inscription;
 Only Once: 1
-Need: (125)
-Upg Type: 126
+Need: (329)
+Upg Type: 329
+Quantity: -1
+
+Upg Type: 330
 Quantity: 1
 
-Upg Type: 17
+Upg Type: 191
+Quantity: 159
+
+Upg Type: 1
+Quantity: -8
+
+Upg Type: 7
 Quantity: 1;
 
 /448
-Name: Flesh-incinerator;
+Name: Turn into Lord of Abyss;
 Only Once: 1
-Need: (125)
-Upg Type: 127
+Need: (0)
+Upg Type: 329
 Quantity: 1
 
-Upg Type: 28
+Upg Type: 191
+Quantity: 98
+
+Upg Type: 193
+Quantity: 1
+
+Upg Type: 194
 Quantity: 1;
 
 /449
-Name: Rune of Life;
-Only Once: 0
-Need: (0)
-Upg Type: 128
+Name: Devil Inscription;
+Only Once: 1
+Need: (329)
+Upg Type: 329
+Quantity: -1
+
+Upg Type: 331
 Quantity: 1
+
+Upg Type: 191
+Quantity: -33
 
 Upg Type: 1
-Quantity: 10
+Quantity: -5
 
-Upg Type: 2
-Quantity: -2
-
-Upg Type: 3
-Quantity: -2;
+Upg Type: 11
+Quantity: -5;
 
 /450
-Name: Rune of Predator;
+Name: Troll Brand;
 Only Once: 1
 Need: (0)
-Upg Type: 129
+Upg Type: 226
 Quantity: 1
 
-Upg Type: 58
-Quantity: 20
-
-Upg Type: 285
+Upg Type: 48
 Quantity: 1
 
-Upg Type: 286
-Quantity: 1;
+Upg Type: 7
+Quantity: -1;
 
 /451
-Name: Rune of Rage;
-Only Once: 0
-Need: (0)
-Upg Type: 130
-Quantity: 1
-
-Upg Type: 2
-Quantity: 3
-
-Upg Type: 25
-Quantity: 2
-
-Upg Type: 4
-Quantity: -2;
-
-/452
-Name: Rune of Thorns;
-Only Once: 0
-Need: (0)
-Upg Type: 131
-Quantity: 1
-
-Upg Type: 3
-Quantity: 4
-
-Upg Type: 53
-Quantity: 2
-
-Upg Type: 2
-Quantity: -4;
-
-/453
-Name: Rune of Accuracy;
-Only Once: 0
-Need: (0)
-Upg Type: 132
-Quantity: 1
-
-Upg Type: 8
-Quantity: 4
-
-Upg Type: 5
-Quantity: -2
-
-Upg Type: 10
-Quantity: -2;
-
-/454
-Name: Rune of Destruction;
-Only Once: 0
-Need: (0)
-Upg Type: 133
-Quantity: 1
-
-Upg Type: 55
-Quantity: 4
-
-Upg Type: 11
-Quantity: 5
-
-Upg Type: 12
-Quantity: -4;
-
-/455
-Name: Precise Shot +1;
-Only Once: 0
-Need: (126)
-Upg Type: 77
-Quantity: 1;
-
-/456
-Name: Energy Control +1;
-Only Once: 0
-Need: (127)
-Upg Type: 95
-Quantity: 1;
-
-/457
-Name: Rune of Swiftness;
+Name: Wolf Brand;
 Only Once: 1
 Need: (0)
-Upg Type: 134
+Upg Type: 227
 Quantity: 1
 
-Upg Type: 11
-Quantity: 7
+Upg Type: 155
+Quantity: 1
 
-Upg Type: 44
+Upg Type: 50
+Quantity: 1
+
+Upg Type: 4
+Quantity: -1;
+
+/452
+Name: Cerberus Brand;
+Only Once: 1
+Need: (0)
+Upg Type: 228
+Quantity: 1
+
+Upg Type: 127
+Quantity: 2
+
+Upg Type: 7
+Quantity: 1
+
+Upg Type: 4
+Quantity: -1
+
+Upg Type: 5
+Quantity: -1;
+
+/453
+Name: Spawn Brand;
+Only Once: 1
+Need: (0)
+Upg Type: 229
+Quantity: 1
+
+Upg Type: 25
 Quantity: 3
 
-Upg Type: 56
-Quantity: 15;
+Upg Type: 101
+Quantity: 1
+
+Upg Type: 6
+Quantity: -1;
+
+/454
+Name: Avenger Brand;
+Only Once: 1
+Need: (0)
+Upg Type: 230
+Quantity: 1
+
+Upg Type: 96
+Quantity: 4
+
+Upg Type: 907
+Quantity: 2
+
+Upg Type: 101
+Quantity: 1
+
+Upg Type: 6
+Quantity: -1;
+
+/455
+Name: Succubus Brand;
+Only Once: 1
+Need: (0)
+Upg Type: 231
+Quantity: 1
+
+Upg Type: 143
+Quantity: 1
+
+Upg Type: 101
+Quantity: 1
+
+Upg Type: 6
+Quantity: -1;
+
+/456
+Name: Human Brand;
+Only Once: 1
+Need: (0)
+Upg Type: 232
+Quantity: 1
+
+Upg Type: 120
+Quantity: 1
+
+Upg Type: 121
+Quantity: 1
+
+Upg Type: 2
+Quantity: -1
+
+Upg Type: 3
+Quantity: -1;
+
+/457
+Name: Ogre Brand;
+Only Once: 1
+Need: (0)
+Upg Type: 233
+Quantity: 1
+
+Upg Type: 59
+Quantity: 4
+
+Upg Type: 2
+Quantity: -1
+
+Upg Type: 3
+Quantity: -1;
 
 /458
 Name: Mass Slow;
@@ -3649,11 +3703,20 @@ Upg Type: 2042
 Quantity: 5;
 
 /459
-Name: Avatar of Light;
+Name: Alkaryl Brand;
 Only Once: 1
 Need: (0)
-Upg Type: 135
-Quantity: 1;
+Upg Type: 234
+Quantity: 1
+
+Upg Type: 26
+Quantity: 1
+
+Upg Type: 56
+Quantity: -5
+
+Upg Type: 1
+Quantity: -8;
 
 /460
 Name: Armageddon;
@@ -3701,7 +3764,7 @@ Quantity: 2;
 Name: Fix;
 Only Once: 1
 Need: (0)
-Upg Type: 168
+Upg Type: 124
 Quantity: 5;
 
 /467
@@ -3715,7 +3778,7 @@ Quantity: 2;
 Name: Fix;
 Only Once: 1
 Need: (0)
-Upg Type: 168
+Upg Type: 124
 Quantity: 5
 
 Upg Type: 9
@@ -3727,8 +3790,8 @@ Quantity: 1;
 /469
 Name: Fix +1;
 Only Once: 0
-Need: (168)
-Upg Type: 168
+Need: (124)
+Upg Type: 124
 Quantity: 1;
 
 /470
@@ -3760,11 +3823,11 @@ Upg Type: 2276
 Quantity: 3;
 
 /474
-Name: Lord of Chaos;
-Only Once: 1
-Need: (0)
-Upg Type: 108
-Quantity: 1;
+Name: Manic Rage -1;
+Only Once: 0
+Need: (125)
+Upg Type: 125
+Quantity: -1;
 
 /475
 Name: Regeneration;
@@ -3856,25 +3919,25 @@ Upg Type: 10
 Quantity: 1;
 
 /486
-Name: Forest Knowledge +4;
+Name: Forest Knowledge +2;
 Only Once: 0
 Need: (0)
 Upg Type: 32
-Quantity: 4;
+Quantity: 2;
 
 /487
-Name: Hills Knowledge +4;
+Name: Hills Knowledge +2;
 Only Once: 0
 Need: (0)
 Upg Type: 33
-Quantity: 4;
+Quantity: 2;
 
 /488
-Name: Swamp Knowledge +4;
+Name: Swamp Knowledge +2;
 Only Once: 0
 Need: (0)
 Upg Type: 34
-Quantity: 4;
+Quantity: 2;
 
 /489
 Name: Ratman;
@@ -3884,10 +3947,10 @@ Upg Type: 49
 Quantity: 5
 
 Upg Type: 33
-Quantity: 4
+Quantity: 1
 
 Upg Type: 34
-Quantity: 4;
+Quantity: 1;
 
 /490
 Name: Concoction;
@@ -3903,7 +3966,7 @@ Need: (0)
 Upg Type: 153
 Quantity: 1
 
-Upg Type: 352
+Upg Type: 154
 Quantity: 2;
 
 /492
@@ -4059,7 +4122,7 @@ Quantity: 1
 Upg Type: 37
 Quantity: 2
 
-Upg Type: 42
+Upg Type: 108
 Quantity: 1;
 
 /510
@@ -4098,23 +4161,23 @@ Upg Type: 49
 Quantity: 20
 
 Upg Type: 32
-Quantity: 16
+Quantity: 5
 
 Upg Type: 33
-Quantity: 16
+Quantity: 5
 
 Upg Type: 34
-Quantity: 16
+Quantity: 4
 
-Upg Type: 42
+Upg Type: 108
 Quantity: 1;
 
 /515
-Name: Giant;
+Name: Frenzy;
 Only Once: 1
 Need: (0)
-Upg Type: 120
-Quantity: 1;
+Upg Type: 198
+Quantity: 10;
 
 /516
 Name: Destroyer;
@@ -4123,39 +4186,36 @@ Need: (0)
 Upg Type: 55
 Quantity: 10
 
+Upg Type: 30
+Quantity: 1
+
 Upg Type: 39
 Quantity: 1
 
-Upg Type: 40
-Quantity: 1
-
-Upg Type: 120
-Quantity: 1
-
-Upg Type: 201
+Upg Type: 105
 Quantity: 1;
 
 /517
-Name: Lord of Abyss;
+Name: Demonic Howl;
 Only Once: 1
 Need: (0)
-Upg Type: 108
-Quantity: 1
+Upg Type: 2261
+Quantity: 2
 
-Upg Type: 120
+Upg Type: 10
 Quantity: 1;
 
 /518
-Name: Acheron;
+Name: Infernal Howl;
 Only Once: 1
 Need: (0)
-Upg Type: 39
+Upg Type: 2356
 Quantity: 1
 
-Upg Type: 108
+Upg Type: 10
 Quantity: 1
 
-Upg Type: 120
+Upg Type: 123
 Quantity: 1;
 
 /519
@@ -4168,90 +4228,51 @@ Quantity: 2
 Upg Type: 2024
 Quantity: 1
 
-Upg Type: 120
+Upg Type: 105
 Quantity: 1
 
-Upg Type: 201
-Quantity: 1
-
-Upg Type: 203
+Upg Type: 107
 Quantity: 1;
 
 /520
 Name: Phoenix;
 Only Once: 1
 Need: (0)
+Upg Type: 104
+Quantity: 1
+
 Upg Type: 101
 Quantity: 1
 
-Upg Type: 120
+Upg Type: 105
 Quantity: 1
 
-Upg Type: 199
-Quantity: 1
-
-Upg Type: 201
-Quantity: 1
-
-Upg Type: 203
+Upg Type: 107
 Quantity: 1;
 
 /521
-Name: Behemoth;
-Only Once: 1
+Name: Break spell;
+Only Once: 0
 Need: (0)
-Upg Type: 107
-Quantity: 1
-
-Upg Type: 120
-Quantity: 1
-
-Upg Type: 199
-Quantity: 1
-
-Upg Type: 195
-Quantity: 1
-
-Upg Type: 201
+Upg Type: 213
 Quantity: 1;
 
 /522
-Name: Hydra;
+Name: Halfling Rogue;
 Only Once: 1
 Need: (0)
-Upg Type: 107
-Quantity: 1
+Upg Type: 204
+Quantity: 10
 
-Upg Type: 199
-Quantity: 1
-
-Upg Type: 195
-Quantity: 1
-
-Upg Type: 201
-Quantity: 1
-
-Upg Type: 203
+Upg Type: 205
 Quantity: 1;
 
 /523
-Name: Swallower;
+Name: Bombardment;
 Only Once: 1
 Need: (0)
-Upg Type: 63
-Quantity: 5
-
-Upg Type: 107
-Quantity: 1
-
-Upg Type: 120
-Quantity: 1
-
-Upg Type: 199
-Quantity: 1
-
-Upg Type: 195
-Quantity: 1;
+Upg Type: 139
+Quantity: 3;
 
 /524
 Name: Huorn;
@@ -4264,10 +4285,7 @@ Upg Type: 67
 Quantity: 3
 
 Upg Type: 35
-Quantity: 5
-
-Upg Type: 120
-Quantity: 1;
+Quantity: 5;
 
 /525
 Name: Become Daokon's Guardian;
@@ -4302,7 +4320,10 @@ Name: Healing;
 Only Once: 1
 Need: (0)
 Upg Type: 24
-Quantity: 12;
+Quantity: 12
+
+Upg Type: 215
+Quantity: 1;
 
 /530
 Name: Maleficar;
@@ -4350,30 +4371,18 @@ Upg Type: 2062
 Quantity: 5;
 
 /533
-Name: Daokon's Guardian;
-Only Once: 1
+Name: Self-control +1;
+Only Once: 0
 Need: (0)
-Upg Type: 107
-Quantity: 1
-
-Upg Type: 120
-Quantity: 1
-
-Upg Type: 199
-Quantity: 1
-
-Upg Type: 195
-Quantity: 1
-
-Upg Type: 201
+Upg Type: 184
 Quantity: 1;
 
 /534
-Name: Elemental Spirit;
-Only Once: 1
+Name: Entangling Shot 2;
+Only Once: 0
 Need: (0)
-Upg Type: 109
-Quantity: 1;
+Upg Type: 158
+Quantity: 2;
 
 /535
 Name: Necrophagy;
@@ -4383,16 +4392,10 @@ Upg Type: 49
 Quantity: 5;
 
 /536
-Name: Grand Ratt 2;
-Only Once: 1
+Name: Cause Distress;
+Only Once: 0
 Need: (0)
-Upg Type: 39
-Quantity: 1
-
-Upg Type: 100
-Quantity: 1
-
-Upg Type: 120
+Upg Type: 177
 Quantity: 1;
 
 /537
@@ -4411,7 +4414,7 @@ Quantity: 2
 Upg Type: 42
 Quantity: 1
 
-Upg Type: 78
+Upg Type: 3217
 Quantity: 1;
 
 /538
@@ -4428,7 +4431,7 @@ Need: (0)
 Upg Type: 41
 Quantity: 2
 
-Upg Type: 100
+Upg Type: 104
 Quantity: 1
 
 Upg Type: 98
@@ -4441,7 +4444,7 @@ Need: (0)
 Upg Type: 28
 Quantity: 1
 
-Upg Type: 39
+Upg Type: 30
 Quantity: 1
 
 Upg Type: 45
@@ -4484,21 +4487,21 @@ Quantity: 5;
 Name: Web Immunity;
 Only Once: 0
 Need: (0)
-Upg Type: 201
+Upg Type: 105
 Quantity: 1;
 
 /545
 Name: Petrification Immunity;
 Only Once: 0
 Need: (0)
-Upg Type: 202
+Upg Type: 106
 Quantity: 1;
 
 /546
 Name: Entanglement Immunity;
 Only Once: 0
 Need: (0)
-Upg Type: 203
+Upg Type: 107
 Quantity: 1;
 
 /547
@@ -4546,80 +4549,56 @@ Quantity: -2;
 Name: Incorporeality;
 Only Once: 0
 Need: (0)
-Upg Type: 121
+Upg Type: 80
 Quantity: 1
 
-Upg Type: 201
+Upg Type: 105
 Quantity: 1
 
-Upg Type: 202
+Upg Type: 106
 Quantity: 1
 
-Upg Type: 203
+Upg Type: 107
 Quantity: 1;
 
 /553
-Name: Dragon;
-Only Once: 0
+Name: Abysmal Joke;
+Only Once: 1
 Need: (0)
-Upg Type: 120
-Quantity: 1
-
-Upg Type: 195
-Quantity: 1
-
-Upg Type: 192
-Quantity: 1
-
-Upg Type: 201
-Quantity: 1
-
-Upg Type: 203
-Quantity: 1;
+Upg Type: 2352
+Quantity: 2;
 
 /554
-Name: Treant;
-Only Once: 0
+Name: Abysmal Swallow;
+Only Once: 1
 Need: (0)
-Upg Type: 32
-Quantity: 8
-
-Upg Type: 120
-Quantity: 1
-
-Upg Type: 203
-Quantity: 1;
+Upg Type: 2353
+Quantity: 4;
 
 /555
-Name: Dracolich;
-Only Once: 0
+Name: Summon Mocker;
+Only Once: 1
 Need: (0)
-Upg Type: 120
-Quantity: 1
-
-Upg Type: 201
-Quantity: 1
-
-Upg Type: 203
-Quantity: 1;
+Upg Type: 2354
+Quantity: 3;
 
 /556
 Name: Mighty Tarrasque;
 Only Once: 0
 Need: (0)
-Upg Type: 42
+Upg Type: 108
 Quantity: 1
 
 Upg Type: 63
 Quantity: 10
 
-Upg Type: 100
+Upg Type: 104
 Quantity: 1
 
-Upg Type: 201
+Upg Type: 105
 Quantity: 1
 
-Upg Type: 203
+Upg Type: 107
 Quantity: 1;
 
 /557
@@ -4638,7 +4617,7 @@ Quantity: 1
 Upg Type: 22
 Quantity: 1
 
-Upg Type: 42
+Upg Type: 108
 Quantity: 1;
 
 /558
@@ -4651,7 +4630,7 @@ Quantity: 1
 Upg Type: 88
 Quantity: 1
 
-Upg Type: 100
+Upg Type: 104
 Quantity: 1;
 
 /559
@@ -4731,28 +4710,28 @@ Need: (0)
 Upg Type: 189
 Quantity: 313
 
-Upg Type: 355
+Upg Type: 301
 Quantity: 1;
 
 /570
 Name: Dark Dominion 1;
 Only Once: 0
 Need: (0)
-Upg Type: 200
+Upg Type: 121
 Quantity: 1;
 
 /571
 Name: Dark Dominion 2;
 Only Once: 0
 Need: (0)
-Upg Type: 200
+Upg Type: 121
 Quantity: 2;
 
 /572
 Name: Dark Dominion 3;
 Only Once: 0
 Need: (0)
-Upg Type: 200
+Upg Type: 121
 Quantity: 3;
 
 /573
@@ -4777,11 +4756,11 @@ Upg Type: 909
 Quantity: 4;
 
 /576
-Name: Skeleton;
+Name: Healing Circle;
 Only Once: 1
 Need: (0)
-Upg Type: 187
-Quantity: 1;
+Upg Type: 2272
+Quantity: 2;
 
 /577
 Name: Lord of Darkness;
@@ -4790,14 +4769,11 @@ Need: (0)
 Upg Type: 16
 Quantity: 1
 
-Upg Type: 43
+Upg Type: 96
 Quantity: 6
 
 Upg Type: 50
-Quantity: 3
-
-Upg Type: 187
-Quantity: 1;
+Quantity: 3;
 
 /578
 Name: Summon Hnara;
@@ -4813,15 +4789,18 @@ Need: (0)
 Upg Type: 189
 Quantity: 314
 
-Upg Type: 351
+Upg Type: 312
 Quantity: 1;
 
 /580
-Name: Chaos Cultist;
+Name: Healing Circle;
 Only Once: 1
-Need: (0)
-Upg Type: 188
-Quantity: 1;
+Need: (2272)
+Upg Type: 2272
+Quantity: -2
+
+Upg Type: 2355
+Quantity: 2;
 
 /581
 Name: Become Avenger;
@@ -4875,7 +4854,7 @@ Quantity: 1;
 Name: Caustic Mixture;
 Only Once: 1
 Need: (0)
-Upg Type: 217
+Upg Type: 132
 Quantity: 322
 
 Upg Type: 304
@@ -4886,7 +4865,10 @@ Name: Raise Demon;
 Only Once: 1
 Need: (0)
 Upg Type: 191
-Quantity: 56;
+Quantity: 56
+
+Upg Type: 192
+Quantity: 1;
 
 /589
 Name: Chilling Touch;
@@ -4895,7 +4877,7 @@ Need: (0)
 Upg Type: 180
 Quantity: 1
 
-Upg Type: 206
+Upg Type: 129
 Quantity: 323;
 
 /590
@@ -4906,25 +4888,25 @@ Upg Type: 53
 Quantity: 3;
 
 /591
-Name: Forest Knowledge +2;
+Name: Forest Knowledge +1;
 Only Once: 0
 Need: (0)
 Upg Type: 32
-Quantity: 2;
+Quantity: 1;
 
 /592
 Name: Change Weapon;
 Only Once: 0
 Need: (0)
-Upg Type: 216
+Upg Type: 131
 Quantity: 2027;
 
 /593
-Name: Hills Knowledge +2;
+Name: Hills Knowledge +1;
 Only Once: 0
 Need: (0)
 Upg Type: 33
-Quantity: 2;
+Quantity: 1;
 
 /594
 Name: Dash;
@@ -4934,11 +4916,11 @@ Upg Type: 2299
 Quantity: 4;
 
 /595
-Name: Swamp Knowledge +2;
+Name: Swamp Knowledge +1;
 Only Once: 0
 Need: (0)
 Upg Type: 34
-Quantity: 2;
+Quantity: 1;
 
 /596
 Name: Supplier;
@@ -4977,15 +4959,15 @@ Need: (0)
 Upg Type: 2325
 Quantity: 1
 
-Upg Type: 215
+Upg Type: 123
 Quantity: 1;
 
 /600
-Name: Susceptibility;
+Name: Become Mocker;
 Only Once: 1
 Need: (0)
-Upg Type: 205
-Quantity: 325;
+Upg Type: 62
+Quantity: 205;
 
 /601
 Name: Double Shot;
@@ -5012,7 +4994,7 @@ Upg Type: 60
 Quantity: 2;
 
 /604
-Name: Alkari;
+Name: Alkaryl;
 Only Once: 1
 Need: (0)
 Upg Type: 14
@@ -5021,11 +5003,8 @@ Quantity: 1
 Upg Type: 26
 Quantity: 1
 
-Upg Type: 61
-Quantity: 1
-
-Upg Type: 205
-Quantity: 330;
+Upg Type: 120
+Quantity: 1;
 
 /605
 Name: Enchanted Arrows 6;
@@ -5048,7 +5027,7 @@ Quantity: 1;
 Name: Hunter's Net;
 Only Once: 1
 Need: (0)
-Upg Type: 217
+Upg Type: 132
 Quantity: 334
 
 Upg Type: 302
@@ -5096,7 +5075,7 @@ Quantity: 2
 Upg Type: 2157
 Quantity: 4
 
-Upg Type: 100
+Upg Type: 104
 Quantity: 1;
 
 /611
@@ -5212,11 +5191,11 @@ Upg Type: 198
 Quantity: 5;
 
 /624
-Name: Parry 1;
-Only Once: 1
-Need: (0)
-Upg Type: 53
-Quantity: 1;
+Name: Hex +2;
+Only Once: 0
+Need: (96)
+Upg Type: 96
+Quantity: 2;
 
 /625
 Name: Parry +1;
@@ -5229,14 +5208,14 @@ Quantity: 1;
 Name: Crippling Shot;
 Only Once: 1
 Need: (0)
-Upg Type: 197
+Upg Type: 128
 Quantity: 2;
 
 /627
 Name: Crippling Shot +1;
 Only Once: 0
-Need: (197)
-Upg Type: 197
+Need: (128)
+Upg Type: 128
 Quantity: 1;
 
 /628
@@ -5250,14 +5229,14 @@ Quantity: 1;
 Name: Surge of Strength;
 Only Once: 0
 Need: (0)
-Upg Type: 194
+Upg Type: 195
 Quantity: 1;
 
 /630
 Name: Shield Wall 3;
 Only Once: 1
 Need: (0)
-Upg Type: 193
+Upg Type: 185
 Quantity: 3;
 
 /631
@@ -5277,8 +5256,8 @@ Quantity: 1;
 /633
 Name: Shield Wall +1;
 Only Once: 0
-Need: (193)
-Upg Type: 193
+Need: (185)
+Upg Type: 185
 Quantity: 1;
 
 /634
@@ -5308,41 +5287,38 @@ Upg Type: 2062
 Quantity: 5;
 
 /636
-Name: Natural Ammo;
-Only Once: 1
+Name: Burning;
+Only Once: 0
 Need: (0)
-Upg Type: 195
-Quantity: 1
-
-Upg Type: 192
+Upg Type: 143
 Quantity: 1;
 
 /637
 Name: Life Leech 25;
 Only Once: 1
 Need: (0)
-Upg Type: 104
+Upg Type: 168
 Quantity: 25;
 
 /638
 Name: Life Leech 50;
 Only Once: 1
 Need: (0)
-Upg Type: 104
+Upg Type: 168
 Quantity: 50;
 
 /639
 Name: Life Leech +25;
 Only Once: 0
-Need: (104)
-Upg Type: 104
+Need: (168)
+Upg Type: 168
 Quantity: 25;
 
 /640
 Name: Armor Piercing Shot;
 Only Once: 1
 Need: (23)
-Upg Type: 17
+Upg Type: 31
 Quantity: 1
 
 Upg Type: 23
@@ -5352,126 +5328,126 @@ Quantity: -3;
 Name: Stunning Shot;
 Only Once: 0
 Need: (0)
-Upg Type: 156
+Upg Type: 40
 Quantity: 1;
 
 /642
 Name: Stunning Shot;
 Only Once: 0
 Need: (0)
-Upg Type: 156
+Upg Type: 40
 Quantity: 2;
 
 /643
 Name: Intimidating Shot;
 Only Once: 0
 Need: (0)
-Upg Type: 169
+Upg Type: 51
 Quantity: 1;
 
 /644
 Name: Wounding Strike 1;
 Only Once: 1
 Need: (0)
-Upg Type: 208
+Upg Type: 155
 Quantity: 1;
 
 /645
 Name: Wounding Strike 2;
 Only Once: 1
 Need: (0)
-Upg Type: 208
+Upg Type: 155
 Quantity: 2;
 
 /646
 Name: Wounding Strike +1;
 Only Once: 0
-Need: (208)
-Upg Type: 208
+Need: (155)
+Upg Type: 155
 Quantity: 1;
 
 /647
 Name: Wounding Shot 1;
 Only Once: 1
 Need: (0)
-Upg Type: 209
+Upg Type: 156
 Quantity: 1;
 
 /648
 Name: Wounding Shot 2;
 Only Once: 1
 Need: (0)
-Upg Type: 209
+Upg Type: 156
 Quantity: 2;
 
 /649
 Name: Wounding Shot +1;
 Only Once: 0
-Need: (209)
-Upg Type: 209
+Need: (156)
+Upg Type: 156
 Quantity: 1;
 
 /650
 Name: Enchanted Blade 4;
 Only Once: 1
 Need: (0)
-Upg Type: 151
+Upg Type: 61
 Quantity: 4;
 
 /651
 Name: Enchanted Blade +2;
 Only Once: 0
-Need: (151)
-Upg Type: 151
+Need: (61)
+Upg Type: 61
 Quantity: 2;
 
 /652
 Name: Bloodlust;
 Only Once: 0
 Need: (0)
-Upg Type: 211
+Upg Type: 197
 Quantity: 1;
 
 /653
 Name: Bloodlust;
 Only Once: 0
 Need: (0)
-Upg Type: 211
+Upg Type: 197
 Quantity: 2;
 
 /654
 Name: Damaged Aura;
 Only Once: 1
 Need: (0)
-Upg Type: 212
+Upg Type: 134
 Quantity: 3;
 
 /655
 Name: Damaged Aura +1;
 Only Once: 0
-Need: (212)
-Upg Type: 212
+Need: (134)
+Upg Type: 134
 Quantity: 1;
 
 /656
 Name: Astral Ammo;
 Only Once: 1
 Need: (0)
-Upg Type: 213
+Upg Type: 135
 Quantity: 3;
 
 /657
 Name: Astral Ammo +1;
 Only Once: 0
-Need: (213)
-Upg Type: 213
+Need: (135)
+Upg Type: 135
 Quantity: 1;
 
 /658
 Name: Vigilance;
 Only Once: 0
 Need: (0)
-Upg Type: 214
+Upg Type: 126
 Quantity: 1;
 
 /659
@@ -5502,7 +5478,7 @@ Need: (0)
 Upg Type: 189
 Quantity: 335
 
-Upg Type: 350
+Upg Type: 313
 Quantity: 1;
 
 /663
@@ -5518,7 +5494,7 @@ Quantity: 1
 Upg Type: 909
 Quantity: 2
 
-Upg Type: 215
+Upg Type: 123
 Quantity: 1;
 
 /664
@@ -5553,7 +5529,7 @@ Quantity: 2;
 Name: Vulnerability to a spell;
 Only Once: 1
 Need: (0)
-Upg Type: 205
+Upg Type: 115
 Quantity: 341;
 
 /669
@@ -5570,7 +5546,7 @@ Need: (0)
 Upg Type: 189
 Quantity: 342
 
-Upg Type: 344
+Upg Type: 316
 Quantity: 1;
 
 /671
@@ -5591,17 +5567,17 @@ Upg Type: 23
 Quantity: 3;
 
 /673
-Name: Pathfinder +3;
+Name: Pathfinder +2;
 Only Once: 1
 Need: (0)
 Upg Type: 32
-Quantity: 3
+Quantity: 2
 
 Upg Type: 33
-Quantity: 3
+Quantity: 2
 
 Upg Type: 34
-Quantity: 3;
+Quantity: 2;
 
 /674
 Name: Shadow Form;
@@ -5610,7 +5586,7 @@ Need: (0)
 Upg Type: 189
 Quantity: 344
 
-Upg Type: 345
+Upg Type: 317
 Quantity: 1;
 
 /675
@@ -5620,7 +5596,7 @@ Need: (0)
 Upg Type: 189
 Quantity: 345
 
-Upg Type: 346
+Upg Type: 318
 Quantity: 1
 
 Upg Type: 22
@@ -5640,7 +5616,7 @@ Need: (0)
 Upg Type: 189
 Quantity: 347
 
-Upg Type: 347
+Upg Type: 319
 Quantity: 1
 
 Upg Type: 22
@@ -5650,7 +5626,7 @@ Quantity: 1;
 Name: Stone Crust;
 Only Once: 1
 Need: (0)
-Upg Type: 217
+Upg Type: 132
 Quantity: 263
 
 Upg Type: 303
@@ -5660,7 +5636,7 @@ Quantity: 1;
 Name: Thaumaturgy;
 Only Once: 0
 Need: (0)
-Upg Type: 215
+Upg Type: 123
 Quantity: 1
 
 Upg Type: 908
@@ -5670,28 +5646,28 @@ Quantity: 1;
 Name: Hunter of Undead;
 Only Once: 0
 Need: (0)
-Upg Type: 220
+Upg Type: 202
 Quantity: 1;
 
 /681
 Name: Hunter of Undead;
 Only Once: 0
 Need: (0)
-Upg Type: 220
+Upg Type: 202
 Quantity: 2;
 
 /682
 Name: Hunter of Demons;
 Only Once: 0
 Need: (0)
-Upg Type: 221
+Upg Type: 203
 Quantity: 1;
 
 /683
 Name: Hunter of Demons;
 Only Once: 0
 Need: (0)
-Upg Type: 221
+Upg Type: 203
 Quantity: 2;
 
 /684
@@ -5705,14 +5681,14 @@ Quantity: 2;
 Name: Immunity to Bleeding;
 Only Once: 1
 Need: (0)
-Upg Type: 204
+Upg Type: 109
 Quantity: 1;
 
 /686
 Name: Crippling Strike +1;
 Only Once: 0
-Need: (51)
-Upg Type: 51
+Need: (127)
+Upg Type: 127
 Quantity: 1;
 
 /687
@@ -5726,44 +5702,44 @@ Quantity: 1;
 Name: Explosive Weapon;
 Only Once: 1
 Need: (0)
-Upg Type: 137
+Upg Type: 147
 Quantity: 1;
 
 /689
 Name: Darkness Surge;
 Only Once: 1
 Need: (0)
-Upg Type: 218
+Upg Type: 133
 Quantity: 349
 
-Upg Type: 348
+Upg Type: 235
 Quantity: 1;
 
 /690
 Name: Storm Shadow;
 Only Once: 1
-Need: (348)
-Upg Type: 218
+Need: (235)
+Upg Type: 133
 Quantity: 1
 
-Upg Type: 348
+Upg Type: 235
 Quantity: -1
 
-Upg Type: 349
+Upg Type: 236
 Quantity: 1;
 
 /691
 Name: Sniper Shot;
 Only Once: 1
 Need: (0)
-Upg Type: 152
+Upg Type: 78
 Quantity: 3;
 
 /692
 Name: Gas Bomb +1;
 Only Once: 0
-Need: (352)
-Upg Type: 352
+Need: (154)
+Upg Type: 154
 Quantity: 1;
 
 /693
@@ -5784,14 +5760,14 @@ Quantity: 3;
 Name: Scorching;
 Only Once: 1
 Need: (0)
-Upg Type: 154
+Upg Type: 146
 Quantity: 2;
 
 /696
 Name: Scorching;
 Only Once: 0
-Need: (154)
-Upg Type: 154
+Need: (146)
+Upg Type: 146
 Quantity: 1;
 
 /697
@@ -5802,7 +5778,7 @@ Upg Type: 170
 Quantity: 1
 
 Upg Type: 174
-Quantity: 2
+Quantity: 1
 
 Upg Type: 305
 Quantity: 1;
@@ -5811,7 +5787,7 @@ Quantity: 1;
 Name: Powerful Shot;
 Only Once: 1
 Need: (0)
-Upg Type: 157
+Upg Type: 79
 Quantity: 3;
 
 /699
@@ -5838,7 +5814,7 @@ Quantity: 1;
 Name: Dark Replenishment;
 Only Once: 0
 Need: (0)
-Upg Type: 215
+Upg Type: 123
 Quantity: 1;
 
 /702
@@ -5852,21 +5828,21 @@ Quantity: 1;
 Name: Vulnerability;
 Only Once: 1
 Need: (0)
-Upg Type: 79
+Upg Type: 179
 Quantity: 1;
 
 /704
 Name: Wounding Spikes;
 Only Once: 0
 Need: (0)
-Upg Type: 210
+Upg Type: 157
 Quantity: 1;
 
 /705
 Name: Wounding Spikes;
 Only Once: 0
 Need: (0)
-Upg Type: 210
+Upg Type: 157
 Quantity: 2;
 
 /706
@@ -5901,35 +5877,35 @@ Quantity: 1;
 Name: Cause Putrefaction;
 Only Once: 1
 Need: (0)
-Upg Type: 164
+Upg Type: 137
 Quantity: 4;
 
 /711
 Name: Cause Putrefaction +2;
 Only Once: 0
-Need: (164)
-Upg Type: 164
+Need: (137)
+Upg Type: 137
 Quantity: 2;
 
 /712
 Name: Tracker +10;
 Only Once: 0
 Need: (0)
-Upg Type: 256
+Upg Type: 204
 Quantity: 10;
 
 /713
 Name: Workaholic +10;
 Only Once: 0
 Need: (0)
-Upg Type: 258
+Upg Type: 206
 Quantity: 10;
 
 /714
 Name: Workaholic +20;
 Only Once: 0
 Need: (0)
-Upg Type: 258
+Upg Type: 206
 Quantity: 20;
 
 /715
@@ -5989,121 +5965,429 @@ Upg Type: 167
 Quantity: 1;
 
 /720
-Name: Become Mocker;
-Only Once: 1
-Need: (0)
-Upg Type: 62
-Quantity: 283;
+Name: Steal Ammo +2;
+Only Once: 0
+Need: (44)
+Upg Type: 44
+Quantity: 2;
 
 /721
-Name: Self-control +1;
-Only Once: 0
-Need: (0)
-Upg Type: 184
-Quantity: 1;
-
-/722
-Name: Abysmal Joke;
+Name: Steal Ammo;
 Only Once: 1
 Need: (0)
-Upg Type: 2352
+Upg Type: 44
+Quantity: 4;
+
+/722
+Name: Raise Skeleton;
+Only Once: 1
+Need: (309)
+Upg Type: 2014
 Quantity: 2;
 
 /723
-Name: Abysmal Swallow;
-Only Once: 1
-Need: (0)
-Upg Type: 2353
-Quantity: 4;
+Name: Summoning Power;
+Only Once: 0
+Need: (2019)
+Upg Type: 907
+Quantity: 2;
 
 /724
-Name: Summon Mocker;
+Name: Effect of Chain Lightning;
 Only Once: 1
 Need: (0)
-Upg Type: 2354
-Quantity: 3;
+Upg Type: 188
+Quantity: 1;
 
 /725
-Name: Break spell;
-Only Once: 0
+Name: Enchanted Fang;
+Only Once: 1
 Need: (0)
-Upg Type: 31
+Upg Type: 2260
 Quantity: 1;
 
 /726
-Name: Halfling Rogue;
+Name: Shield Bash;
 Only Once: 1
 Need: (0)
-Upg Type: 256
-Quantity: 10
-
-Upg Type: 257
-Quantity: 1;
+Upg Type: 186
+Quantity: 2;
 
 /727
-Name: Bombardment;
-Only Once: 1
-Need: (0)
-Upg Type: 138
-Quantity: 3;
+Name: Shield Bash +1;
+Only Once: 0
+Need: (186)
+Upg Type: 186
+Quantity: 1;
 
 /728
-Name: Change Ammo;
+Name: Shield Bash;
+Only Once: 1
+Need: (0)
+Upg Type: 186
+Quantity: 3;
+
+/729
+Name: Hunter Skill;
+Only Once: 1
+Need: (0)
+Upg Type: 981
+Quantity: 1
+
+Upg Type: 996
+Quantity: 10;
+
+/730
+Name: Ranger Skill;
+Only Once: 1
+Need: (0)
+Upg Type: 981
+Quantity: 2
+
+Upg Type: 996
+Quantity: 20;
+
+/731
+Name: Pike Wall;
+Only Once: 1
+Need: (0)
+Upg Type: 17
+Quantity: 1;
+
+/732
+Name: Interception;
 Only Once: 1
 Need: (0)
 Upg Type: 217
-Quantity: 2028;
-
-/729
-Name: Siege Mode;
-Only Once: 0
-Need: (0)
-Upg Type: 170
-Quantity: 1
-
-Upg Type: 175
-Quantity: 20
-
-Upg Type: 172
-Quantity: 1003
-
-Upg Type: 308
 Quantity: 1;
 
-/730
-Name: Entangling Shot 2;
-Only Once: 0
-Need: (0)
-Upg Type: 158
-Quantity: 2;
-
-/731
-Name: Entangling Shot 4;
-Only Once: 0
-Need: (0)
-Upg Type: 158
-Quantity: 4;
-
-/732
-Name: Healing Circle;
-Only Once: 1
-Need: (0)
-Upg Type: 2272
-Quantity: 2;
-
 /733
-Name: Healing Circle;
+Name: Ghost Wrath;
 Only Once: 1
-Need: (2272)
-Upg Type: 2272
-Quantity: -2
-
-Upg Type: 2355
-Quantity: 2;
+Need: (0)
+Upg Type: 218
+Quantity: 3;
 
 /734
-Name: Frenzy;
+Name: Mass Bloodlust;
 Only Once: 1
 Need: (0)
-Upg Type: 198
-Quantity: 10;
+Upg Type: 320
+Quantity: 1
+
+Upg Type: 3197
+Quantity: 2
+
+Upg Type: 3050
+Quantity: 1;
+
+/735
+Name: Mass Bloodlust;
+Only Once: 1
+Need: (320)
+Upg Type: 320
+Quantity: -1
+
+Upg Type: 321
+Quantity: 2
+
+Upg Type: 3051
+Quantity: 1;
+
+/736
+Name: Mass Bloodlust;
+Only Once: 1
+Need: (321)
+Upg Type: 321
+Quantity: -2
+
+Upg Type: 322
+Quantity: 3
+
+Upg Type: 3197
+Quantity: 2
+
+Upg Type: 3050
+Quantity: 1;
+
+/737
+Name: Mass Burning;
+Only Once: 1
+Need: (0)
+Upg Type: 323
+Quantity: 1
+
+Upg Type: 3101
+Quantity: 1
+
+Upg Type: 3143
+Quantity: 1
+
+Upg Type: 3144
+Quantity: 1;
+
+/738
+Name: Mass Burning;
+Only Once: 1
+Need: (323)
+Upg Type: 323
+Quantity: -1
+
+Upg Type: 324
+Quantity: 2
+
+Upg Type: 3143
+Quantity: 1
+
+Upg Type: 3144
+Quantity: 1;
+
+/739
+Name: Mass Burning;
+Only Once: 1
+Need: (324)
+Upg Type: 324
+Quantity: -2
+
+Upg Type: 325
+Quantity: 3
+
+Upg Type: 3143
+Quantity: 1
+
+Upg Type: 3144
+Quantity: 1;
+
+/740
+Name: Summon Fire Elemental;
+Only Once: 1
+Need: (0)
+Upg Type: 2369
+Quantity: 1;
+
+/741
+Name: Mass Vampirism;
+Only Once: 1
+Need: (0)
+Upg Type: 326
+Quantity: 1
+
+Upg Type: 3068
+Quantity: 35;
+
+/742
+Name: Mass Vampirism;
+Only Once: 1
+Need: (326)
+Upg Type: 326
+Quantity: -1
+
+Upg Type: 327
+Quantity: 2
+
+Upg Type: 3068
+Quantity: 30;
+
+/743
+Name: Mass Vampirism;
+Only Once: 1
+Need: (327)
+Upg Type: 327
+Quantity: -2
+
+Upg Type: 328
+Quantity: 3
+
+Upg Type: 3068
+Quantity: 35;
+
+/744
+Name: Earth Totem;
+Only Once: 1
+Need: (0)
+Upg Type: 2363
+Quantity: 2;
+
+/745
+Name: Rage Totem;
+Only Once: 1
+Need: (0)
+Upg Type: 2364
+Quantity: 2;
+
+/746
+Name: Fire Totem;
+Only Once: 1
+Need: (0)
+Upg Type: 2365
+Quantity: 3;
+
+/747
+Name: Blood Totem;
+Only Once: 1
+Need: (0)
+Upg Type: 2366
+Quantity: 3;
+
+/748
+Name: Orcish Fury;
+Only Once: 0
+Need: (0)
+Upg Type: 25
+Quantity: 1
+
+Upg Type: 210
+Quantity: 2;
+
+/749
+Name: Summoning Power +4;
+Only Once: 0
+Need: (0)
+Upg Type: 907
+Quantity: 4;
+
+/750
+Name: Totem;
+Only Once: 0
+Need: (0)
+Upg Type: 104
+Quantity: 1
+
+Upg Type: 105
+Quantity: 1
+
+Upg Type: 106
+Quantity: 1
+
+Upg Type: 107
+Quantity: 1;
+
+/751
+Name: Orcish Fury;
+Only Once: 1
+Need: (0)
+Upg Type: 25
+Quantity: 2
+
+Upg Type: 210
+Quantity: 4;
+
+/752
+Name: Armor of Faith;
+Only Once: 0
+Need: (0)
+Upg Type: 232
+Quantity: 25;
+
+/753
+Name: Shield Wall 5;
+Only Once: 1
+Need: (0)
+Upg Type: 185
+Quantity: 5;
+
+/754
+Name: Mass Bloodlust;
+Only Once: 1
+Need: (322)
+Upg Type: 322
+Quantity: -3
+
+Upg Type: 335
+Quantity: 4
+
+Upg Type: 3051
+Quantity: 1;
+
+/755
+Name: Alertness;
+Only Once: 1
+Need: (0)
+Upg Type: 169
+Quantity: 2;
+
+/756
+Name: Alertness +1;
+Only Once: 0
+Need: (169)
+Upg Type: 169
+Quantity: 1;
+
+/757
+Name: Orc Commander;
+Only Once: 1
+Need: (0)
+Upg Type: 3030
+Quantity: 1;
+
+/758
+Name: Vitality 30;
+Only Once: 0
+Need: (0)
+Upg Type: 214
+Quantity: 30;
+
+/759
+Name: Vitality +20;
+Only Once: 0
+Need: (214)
+Upg Type: 214
+Quantity: 20;
+
+/760
+Name: Lifeblood;
+Only Once: 1
+Need: (0)
+Upg Type: 336
+Quantity: 1
+
+Upg Type: 3035
+Quantity: 2;
+
+/761
+Name: Lifeblood;
+Only Once: 1
+Need: (336)
+Upg Type: 336
+Quantity: -1
+
+Upg Type: 337
+Quantity: 2
+
+Upg Type: 3035
+Quantity: 1
+
+Upg Type: 3195
+Quantity: 1;
+
+/762
+Name: Lifeblood;
+Only Once: 1
+Need: (337)
+Upg Type: 337
+Quantity: -2
+
+Upg Type: 338
+Quantity: 3
+
+Upg Type: 3035
+Quantity: 1
+
+Upg Type: 3195
+Quantity: 1;
+
+/763
+Name: Lifeblood;
+Only Once: 1
+Need: (338)
+Upg Type: 338
+Quantity: -3
+
+Upg Type: 339
+Quantity: 4
+
+Upg Type: 3035
+Quantity: 1
+
+Upg Type: 3195
+Quantity: 1;

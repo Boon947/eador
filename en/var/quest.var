@@ -170,7 +170,7 @@ Exp: 200
 *Objectives*:
 Index: 11
 Param: 0
-Quantity: 10
+Quantity: 12
 Target: 0
 Place: 0;
 
@@ -200,7 +200,7 @@ Exp: 200
 *Objectives*:
 Index: 15
 Param: 0
-Quantity: 5
+Quantity: 8
 Target: 0
 Place: 0;
 
@@ -1370,7 +1370,7 @@ Exp: 200
 *Objectives*:
 Index: 211
 Param: 0
-Quantity: 5
+Quantity: 8
 Target: 0
 Place: 0;
 
@@ -1400,7 +1400,7 @@ Exp: 220
 *Objectives*:
 Index: 49
 Param: 0
-Quantity: 3
+Quantity: 4
 Target: 0
 Place: 0;
 
@@ -1744,14 +1744,14 @@ Param2: 0;
 Name: Dwarven Beards;
 Giver: 0
 Type: 2
-Possibility: 10
-EncInit: 1250
-EncWait: 1252
-EncFound: 1261
+Possibility: 0
+EncInit: 0
+EncWait: 0
+EncFound: 0
 EncNotFound: 0
-EncDone: 1262
+EncDone: 0
 EncSuccess: 0
-EncFailGiver: 1263
+EncFailGiver: 0
 EncFailTarget: 0
 EncFailTime: 0
 Time: 0

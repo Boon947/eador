@@ -1,4 +1,4 @@
-Quantity: 355
+Quantity: 369
 
 /0
 Name: Empty;
@@ -14,6 +14,7 @@ Area: 0
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -26,8 +27,8 @@ Cumulative: 0
 Sound: 0
 UnitKind: (0)
 AntiEffect: (0)
-Effects:
 
+Effects:
 Effect: 0
 Power: 0
 Duration: 0;
@@ -46,6 +47,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 3
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -57,7 +59,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 1
 UnitKind: (0)
-AntiEffect: (30, 105)
+AntiEffect: (110, 103)
 
 Effects:
 Damage: 1
@@ -78,6 +80,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 3
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -88,8 +91,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 1
 Sound: 2
-UnitKind: (2, 4)
-AntiEffect: (18, 30)
+UnitKind: (22, 23)
+AntiEffect: (18, 110)
 
 Effects:
 Stamina: 11
@@ -110,6 +113,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 3
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -120,8 +124,8 @@ DefencePower: 0
 RestoreOnly: 1
 Cumulative: 1
 Sound: 3
-UnitKind: (2, 4)
-AntiEffect: (30, 107)
+UnitKind: (2, 4, 19, 23)
+AntiEffect: (110)
 
 Effects:
 Morale: 12
@@ -146,6 +150,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 19
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -157,7 +162,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 4
 UnitKind: (0)
-AntiEffect: (30)
+AntiEffect: (110)
 
 Effects:
 Damage: 1
@@ -178,6 +183,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 19
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -188,8 +194,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 5
-UnitKind: (0)
-AntiEffect: (30, 121, 187)
+UnitKind: (22)
+AntiEffect: (110, 80)
 
 Effects:
 Defence: 4
@@ -214,6 +220,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 19
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -224,8 +231,8 @@ DefencePower: 0
 RestoreOnly: 1
 Cumulative: 0
 Sound: 6
-UnitKind: (0)
-AntiEffect: (30, 107, 192)
+UnitKind: (19)
+AntiEffect: (110)
 
 Effects:
 Attack: 2
@@ -258,6 +265,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 20
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -269,7 +277,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 7
 UnitKind: (0)
-AntiEffect: (30)
+AntiEffect: (110)
 
 Effects:
 Speed: 7
@@ -294,6 +302,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 20
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -305,7 +314,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 8
 UnitKind: (0)
-AntiEffect: (30)
+AntiEffect: (110)
 
 Effects:
 Speed: 7
@@ -330,6 +339,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 20
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -341,7 +351,7 @@ RestoreOnly: 0
 Cumulative: 1
 Sound: 9
 UnitKind: (0)
-AntiEffect: (30)
+AntiEffect: (110)
 
 Effects:
 RangedDefence: 5
@@ -366,6 +376,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 21
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -376,8 +387,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 10
-UnitKind: (4)
-AntiEffect: (30)
+UnitKind: (4, 23)
+AntiEffect: (110)
 
 Effects:
 Attack: 2
@@ -419,6 +430,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 21
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -430,7 +442,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 11
 UnitKind: (2, 3)
-AntiEffect: (30)
+AntiEffect: (110)
 
 Effects:
 Attack: 2
@@ -475,6 +487,7 @@ Area: 1
 Radius: 0
 Karma: 1
 Building: 21
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -485,8 +498,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 1
 Sound: 100
-UnitKind: (2, 4)
-AntiEffect: (30)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110)
 
 Effects:
 Heal: 1
@@ -507,6 +520,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 22
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -517,8 +531,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 13
-UnitKind: (2, 4)
-AntiEffect: (19, 30, 100)
+UnitKind: (0)
+AntiEffect: (19, 110, 104)
 
 Effects:
 Morale: 12
@@ -539,6 +553,7 @@ Area: 1
 Radius: 0
 Karma: -1
 Building: 22
+Unloot: 0
 Negative: 0
 OnEnemy: 1
 OnAlly: 1
@@ -571,6 +586,7 @@ Area: 1
 Radius: 0
 Karma: -1
 Building: 22
+Unloot: 0
 Negative: 0
 OnEnemy: 1
 OnAlly: 1
@@ -603,6 +619,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 23
+Unloot: 0
 Negative: 0
 OnEnemy: 1
 OnAlly: 1
@@ -617,7 +634,7 @@ UnitKind: (0)
 AntiEffect: (0)
 
 Effects:
-Dispel: 31
+Dispel: 213
 Power: 3
 Duration: -1;
 
@@ -635,6 +652,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 23
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -646,7 +664,7 @@ RestoreOnly: 1
 Cumulative: 0
 Sound: 17
 UnitKind: (0)
-AntiEffect: (30)
+AntiEffect: (110)
 
 Effects:
 Resist: 6
@@ -671,6 +689,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 23
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -682,7 +701,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 18
 UnitKind: (0)
-AntiEffect: (30, 201)
+AntiEffect: (110, 105)
 
 Effects:
 Web: 47
@@ -703,6 +722,7 @@ Area: 1
 Radius: 0
 Karma: -1
 Building: 24
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -735,6 +755,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 24
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -745,8 +766,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 20
-UnitKind: (0)
-AntiEffect: (30, 107, 192)
+UnitKind: (19)
+AntiEffect: (110)
 
 Effects:
 Ammo: 10
@@ -767,6 +788,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 24
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -778,7 +800,7 @@ RestoreOnly: 0
 Cumulative: 1
 Sound: 21
 UnitKind: (0)
-AntiEffect: (30)
+AntiEffect: (110)
 
 Effects:
 Defence: 4
@@ -807,6 +829,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 80
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -818,7 +841,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 22
 UnitKind: (0)
-AntiEffect: (30, 105)
+AntiEffect: (110, 103)
 
 Effects:
 Damage: 1
@@ -839,6 +862,7 @@ Area: 1
 Radius: 1
 Karma: 0
 Building: 80
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -850,7 +874,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 23
 UnitKind: (0)
-AntiEffect: (30, 101)
+AntiEffect: (110, 101)
 
 Effects:
 Damage: 1
@@ -871,6 +895,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 80
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -881,8 +906,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 24
-UnitKind: (0)
-AntiEffect: (30, 107)
+UnitKind: (19)
+AntiEffect: (110)
 
 Effects:
 Attack: 2
@@ -919,6 +944,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 81
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -930,7 +956,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 25
 UnitKind: (0)
-AntiEffect: (30, 121)
+AntiEffect: (110, 80)
 
 Effects:
 Attack: 2
@@ -953,7 +979,7 @@ RangedDefence: 5
 Power: 10
 Duration: 5
 
-Bodyless: 121
+Bodyless: 80
 Power: 1
 Duration: 5;
 
@@ -971,6 +997,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 81
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -981,8 +1008,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 26
-UnitKind: (2, 4)
-AntiEffect: (30, 100)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110, 104)
 
 Effects:
 Sleep: 70
@@ -1011,6 +1038,7 @@ Area: 2
 Radius: 0
 Karma: 0
 Building: 81
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -1021,8 +1049,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 27
-UnitKind: (2, 4)
-AntiEffect: (30, 100)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110, 104)
 
 Effects:
 RangedAttack: 8
@@ -1043,6 +1071,7 @@ Area: 1
 Radius: 0
 Karma: -1
 Building: 82
+Unloot: 0
 Negative: 0
 OnEnemy: 1
 OnAlly: 1
@@ -1075,6 +1104,7 @@ Area: 1
 Radius: 0
 Karma: -1
 Building: 82
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -1085,15 +1115,15 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 28
-UnitKind: (4)
-AntiEffect: (30, 135)
+UnitKind: (4, 22, 23)
+AntiEffect: (110, 215)
 
 Effects:
 DrainLife: 68
 Power: 50
 Duration: 3
 
-RangeDrain: 104
+RangeDrain: 168
 Power: 50
 Duration: 3;
 
@@ -1111,6 +1141,7 @@ Area: 1
 Radius: 0
 Karma: -1
 Building: 82
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -1121,8 +1152,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 29
-UnitKind: (2, 4)
-AntiEffect: (30)
+UnitKind: (2, 4, 17, 22, 23)
+AntiEffect: (110)
 
 Effects:
 Poison: 1
@@ -1151,7 +1182,7 @@ Duration: 6;
 
 /31
 Name: Create Gargoyle;
-Cost: 25
+Cost: 15
 LifeCost: 0
 StamCost: 3
 ItemLevel: 3
@@ -1163,6 +1194,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 83
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -1195,6 +1227,7 @@ Area: 1
 Radius: 2
 Karma: 0
 Building: 83
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -1231,6 +1264,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 83
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -1241,8 +1275,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 31
-UnitKind: (4)
-AntiEffect: (30, 121, 187)
+UnitKind: (22, 23, 27)
+AntiEffect: (110, 80)
 
 Effects:
 Defence: 4
@@ -1271,6 +1305,7 @@ Area: 1
 Radius: 0
 Karma: -2
 Building: 84
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -1303,6 +1338,7 @@ Area: 1
 Radius: 0
 Karma: -2
 Building: 84
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -1335,6 +1371,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 84
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -1345,8 +1382,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 43
-UnitKind: (2, 4)
-AntiEffect: (30, 108)
+UnitKind: (2, 4, 21, 22, 23)
+AntiEffect: (110)
 
 Effects:
 Attack: 2
@@ -1357,7 +1394,7 @@ CounterAttack: 3
 Power: -100
 Duration: 4
 
-NoRangedAttack: 146
+NoRangedAttack: 151
 Power: 1
 Duration: 4;
 
@@ -1375,6 +1412,7 @@ Area: 1
 Radius: 0
 Karma: 1
 Building: 85
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -1385,16 +1423,12 @@ DefencePower: 0
 RestoreOnly: 1
 Cumulative: 0
 Sound: 44
-UnitKind: (2, 4)
-AntiEffect: (30)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110)
 
 Effects:
 Heal: 1
 Power: 12
-Duration: -1
-
-Dispel: 31
-Power: 2
 Duration: -1
 
 Antidote: 93
@@ -1415,6 +1449,7 @@ Area: 1
 Radius: 0
 Karma: 2
 Building: 85
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -1425,8 +1460,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 45
-UnitKind: (1, 4, 5)
-AntiEffect: (30, 106)
+UnitKind: (1, 4, 5, 18, 22)
+AntiEffect: (110)
 
 Effects:
 Damage: 1
@@ -1447,6 +1482,7 @@ Area: 1
 Radius: 0
 Karma: 1
 Building: 85
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -1457,8 +1493,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 46
-UnitKind: (2, 4)
-AntiEffect: (30)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110)
 
 Effects:
 Regen: 1
@@ -1495,6 +1531,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 132
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -1506,7 +1543,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 48
 UnitKind: (0)
-AntiEffect: (30, 102)
+AntiEffect: (110, 102)
 
 Effects:
 Immobile: 36
@@ -1543,6 +1580,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 132
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -1583,6 +1621,7 @@ Area: 2
 Radius: 0
 Karma: 0
 Building: 132
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -1594,7 +1633,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 50
 UnitKind: (0)
-AntiEffect: (30)
+AntiEffect: (110)
 
 Effects:
 Speed: 7
@@ -1615,6 +1654,7 @@ Area: 1
 Radius: 0
 Karma: -5
 Building: 133
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -1625,8 +1665,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 52
-UnitKind: (2, 3, 4, 5)
-AntiEffect: (30, 103, 135)
+UnitKind: (-1)
+AntiEffect: (110, 103, 215)
 
 Effects:
 DarkPact: 91
@@ -1647,6 +1687,7 @@ Area: 1
 Radius: 0
 Karma: -1
 Building: 133
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -1658,7 +1699,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 53
 UnitKind: (3)
-AntiEffect: (30)
+AntiEffect: (110)
 
 Effects:
 Damage: 1
@@ -1679,6 +1720,7 @@ Area: 1
 Radius: 0
 Karma: -3
 Building: 133
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -1690,7 +1732,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 19
 UnitKind: (0)
-AntiEffect: (135)
+AntiEffect: (0)
 
 Effects:
 Summon: 1056
@@ -1711,6 +1753,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 134
+Unloot: 0
 Negative: 0
 OnEnemy: 1
 OnAlly: 1
@@ -1722,7 +1765,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 55
 UnitKind: (0)
-AntiEffect: (30)
+AntiEffect: (110)
 
 Effects:
 Replacement: 89
@@ -1743,6 +1786,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 134
+Unloot: 0
 Negative: 0
 OnEnemy: 1
 OnAlly: 1
@@ -1754,10 +1798,10 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 56
 UnitKind: (0)
-AntiEffect: (30)
+AntiEffect: (110)
 
 Effects:
-SpellImmunity: 30
+SpellImmunity: 110
 Power: 1
 Duration: 5
 
@@ -1779,6 +1823,7 @@ Area: 2
 Radius: 0
 Karma: 0
 Building: 134
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -1790,10 +1835,10 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 57
 UnitKind: (0)
-AntiEffect: (30)
+AntiEffect: (0)
 
 Effects:
-Dispel: 31
+Dispel: 213
 Power: 5
 Duration: -1;
 
@@ -1811,6 +1856,7 @@ Area: 1
 Radius: 0
 Karma: 3
 Building: 135
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -1821,7 +1867,7 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 58
-UnitKind: (2, 4)
+UnitKind: (2, 4, 22, 23)
 AntiEffect: (0)
 
 Effects:
@@ -1843,6 +1889,7 @@ Area: 2
 Radius: 0
 Karma: 0
 Building: 135
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -1854,7 +1901,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 59
 UnitKind: (2)
-AntiEffect: (30)
+AntiEffect: (110)
 
 Effects:
 Defence: 4
@@ -1883,6 +1930,7 @@ Area: 2
 Radius: 0
 Karma: 2
 Building: 135
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -1893,8 +1941,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 60
-UnitKind: (2, 4)
-AntiEffect: (30)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110)
 
 Effects:
 Heal: 1
@@ -1915,6 +1963,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 136
+Unloot: 0
 Negative: 0
 OnEnemy: 1
 OnAlly: 0
@@ -1925,8 +1974,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 62
-UnitKind: (2, 4, 5)
-AntiEffect: (30, 73, 100)
+UnitKind: (2, 4, 5, 22, 23)
+AntiEffect: (110, 73, 104)
 
 Effects:
 MindControl: 73
@@ -1947,6 +1996,7 @@ Area: 2
 Radius: 0
 Karma: 0
 Building: 136
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -1958,7 +2008,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 63
 UnitKind: (0)
-AntiEffect: (30)
+AntiEffect: (110)
 
 Effects:
 Speed: 7
@@ -1979,6 +2029,7 @@ Area: 2
 Radius: 0
 Karma: 0
 Building: 136
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -1990,7 +2041,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 64
 UnitKind: (0)
-AntiEffect: (30)
+AntiEffect: (110)
 
 Effects:
 Attack: 2
@@ -2019,6 +2070,7 @@ Area: 1
 Radius: 0
 Karma: -2
 Building: 137
+Unloot: 0
 Negative: 0
 OnEnemy: 1
 OnAlly: 1
@@ -2051,6 +2103,7 @@ Area: 2
 Radius: 0
 Karma: 0
 Building: 137
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -2061,8 +2114,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 67
-UnitKind: (4)
-AntiEffect: (30)
+UnitKind: (4, 23)
+AntiEffect: (110)
 
 Effects:
 Attack: 2
@@ -2103,6 +2156,7 @@ Area: 1
 Radius: 1
 Karma: -1
 Building: 137
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -2113,8 +2167,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 68
-UnitKind: (2, 4)
-AntiEffect: (30, 135)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110, 215)
 
 Effects:
 Drain: 71
@@ -2139,6 +2193,7 @@ Area: 2
 Radius: 0
 Karma: 1
 Building: 173
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -2150,7 +2205,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 70
 UnitKind: (0)
-AntiEffect: (30)
+AntiEffect: (110)
 
 Effects:
 HealAlly: 72
@@ -2175,6 +2230,7 @@ Area: 1
 Radius: 0
 Karma: 1
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -2185,8 +2241,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 71
-UnitKind: (2, 4)
-AntiEffect: (30)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110)
 
 Effects:
 Reincarnation: 74
@@ -2207,6 +2263,7 @@ Area: 1
 Radius: 0
 Karma: 1
 Building: 173
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -2218,7 +2275,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 72
 UnitKind: (2, 3)
-AntiEffect: (30)
+AntiEffect: (110)
 
 Effects:
 Defence: 4
@@ -2247,6 +2304,7 @@ Area: 1
 Radius: 0
 Karma: -3
 Building: 174
+Unloot: 0
 Negative: 0
 OnEnemy: 1
 OnAlly: 1
@@ -2279,6 +2337,7 @@ Area: 2
 Radius: 0
 Karma: -1
 Building: 174
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -2289,8 +2348,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 74
-UnitKind: (2, 4)
-AntiEffect: (30)
+UnitKind: (2, 4, 17, 22, 23)
+AntiEffect: (110)
 
 Effects:
 Poison: 1
@@ -2331,6 +2390,7 @@ Area: 1
 Radius: 2
 Karma: 0
 Building: 174
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -2342,7 +2402,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 75
 UnitKind: (2, 4)
-AntiEffect: (30, 100)
+AntiEffect: (110, 104)
 
 Effects:
 Morale: 12
@@ -2363,6 +2423,7 @@ Area: 2
 Radius: 0
 Karma: 0
 Building: 175
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -2374,7 +2435,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 76
 UnitKind: (0)
-AntiEffect: (30, 101)
+AntiEffect: (110, 101)
 
 Effects:
 Damage: 1
@@ -2395,6 +2456,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 175
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -2406,7 +2468,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 77
 UnitKind: (0)
-AntiEffect: (30, 101)
+AntiEffect: (110, 101)
 
 Effects:
 Damage: 1
@@ -2427,6 +2489,7 @@ Area: 1
 Radius: 2
 Karma: 0
 Building: 175
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -2438,7 +2501,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 78
 UnitKind: (0)
-AntiEffect: (30, 101)
+AntiEffect: (110, 101)
 
 Effects:
 Damage: 1
@@ -2459,6 +2522,7 @@ Area: 1
 Radius: 0
 Karma: -7
 Building: 176
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -2470,7 +2534,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 19
 UnitKind: (0)
-AntiEffect: (135)
+AntiEffect: (0)
 
 Effects:
 Summon: 1065
@@ -2491,6 +2555,7 @@ Area: 2
 Radius: 0
 Karma: -6
 Building: 176
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -2501,8 +2566,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 80
-UnitKind: (2)
-AntiEffect: (30, 108, 135)
+UnitKind: (2, 21)
+AntiEffect: (110, 215)
 
 Effects:
 Damage: 1
@@ -2523,6 +2588,7 @@ Area: 1
 Radius: 2
 Karma: -1
 Building: 176
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -2534,7 +2600,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 81
 UnitKind: (3)
-AntiEffect: (135)
+AntiEffect: (215)
 
 Effects:
 Attack: 2
@@ -2583,6 +2649,7 @@ Area: 2
 Radius: 0
 Karma: 0
 Building: 177
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -2594,7 +2661,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 83
 UnitKind: (5)
-AntiEffect: (120, 299)
+AntiEffect: (0)
 
 Effects:
 AddTurn: 75
@@ -2615,6 +2682,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 177
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -2626,7 +2694,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 85
 UnitKind: (0)
-AntiEffect: (30)
+AntiEffect: (110)
 
 Effects:
 Morph: 1060
@@ -2647,6 +2715,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 177
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -2658,7 +2727,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 294
 UnitKind: (5)
-AntiEffect: (30)
+AntiEffect: (110)
 
 Effects:
 Morph: 1260
@@ -2679,6 +2748,7 @@ Area: 2
 Radius: 0
 Karma: -1
 Building: 178
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -2689,8 +2759,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 87
-UnitKind: (2, 4)
-AntiEffect: (30, 100, 135)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110, 104, 215)
 
 Effects:
 Damage: 92
@@ -2711,6 +2781,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 178
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -2721,8 +2792,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 88
-UnitKind: (2, 4, 5)
-AntiEffect: (30, 73, 100)
+UnitKind: (2, 4, 5, 22, 23)
+AntiEffect: (110, 73, 104)
 
 Effects:
 MindControl: 73
@@ -2743,6 +2814,7 @@ Area: 1
 Radius: 2
 Karma: 0
 Building: 178
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -2753,8 +2825,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 89
-UnitKind: (2, 4)
-AntiEffect: (30, 100)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110, 104)
 
 Effects:
 Sleep: 70
@@ -2783,6 +2855,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -2815,6 +2888,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -2835,7 +2909,7 @@ Duration: -1
 
 NoCastOnSelf: 149
 Power: 1
-Duration: 6;
+Duration: 4;
 
 /78
 Name: Aard Sign;
@@ -2851,6 +2925,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -2861,8 +2936,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 92
-UnitKind: (2, 4)
-AntiEffect: (0)
+UnitKind: (22)
+AntiEffect: (18)
 
 Effects:
 Speed: 7
@@ -2887,6 +2962,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -2898,7 +2974,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 93
 UnitKind: (0)
-AntiEffect: (30, 101)
+AntiEffect: (110, 101)
 
 Effects:
 Damage: 1
@@ -2919,6 +2995,7 @@ Area: 0
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -2959,6 +3036,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -2969,8 +3047,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 1
 Sound: 212
-UnitKind: (1, 3, 4, 5)
-AntiEffect: (30, 106)
+UnitKind: (-2, 18)
+AntiEffect: (110)
 
 Effects:
 Regen: 1
@@ -2995,6 +3073,7 @@ Area: 1
 Radius: 1
 Karma: -1
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -3005,8 +3084,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 95
-UnitKind: (2, 4)
-AntiEffect: (42)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (0)
 
 Effects:
 Poison: 1
@@ -3051,6 +3130,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -3061,8 +3141,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 91
-UnitKind: (2, 4)
-AntiEffect: (19, 100)
+UnitKind: (0)
+AntiEffect: (19, 104)
 
 Effects:
 Morale: 12
@@ -3083,6 +3163,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 1
 OnAlly: 0
@@ -3093,8 +3174,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 62
-UnitKind: (2, 4, 5)
-AntiEffect: (30, 73, 100)
+UnitKind: (2, 4, 5, 22, 23)
+AntiEffect: (110, 73, 104)
 
 Effects:
 MindControl: 73
@@ -3115,6 +3196,7 @@ Area: 1
 Radius: 0
 Karma: -1
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -3125,8 +3207,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 1
 Sound: 96
-UnitKind: (2, 4)
-AntiEffect: (30, 135, 188)
+UnitKind: (2, 4, 22, 23, 26)
+AntiEffect: (110, 215)
 
 Effects:
 Heal: 1
@@ -3147,6 +3229,7 @@ Area: 1
 Radius: 2
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -3158,7 +3241,7 @@ RestoreOnly: 0
 Cumulative: 1
 Sound: 23
 UnitKind: (0)
-AntiEffect: (30, 101)
+AntiEffect: (110, 101)
 
 Effects:
 Damage: 1
@@ -3183,6 +3266,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -3193,8 +3277,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 99
-UnitKind: (1, 2, 4, 5)
-AntiEffect: (30)
+UnitKind: (-3)
+AntiEffect: (110)
 
 Effects:
 Replacement: 89
@@ -3206,7 +3290,7 @@ Name: Suicide;
 Cost: 35
 LifeCost: 0
 StamCost: 3
-ItemLevel: 8
+ItemLevel: 4
 Level: 3
 PowerMod: 100
 DurationMod: 0
@@ -3214,7 +3298,8 @@ Target: 1
 Area: 0
 Radius: 0
 Karma: -1
-Building: 0
+Building: -133
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -3225,8 +3310,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 97
-UnitKind: (2, 4)
-AntiEffect: (30, 100, 108)
+UnitKind: (2, 4, 21, 22, 23)
+AntiEffect: (110, 104)
 
 Effects:
 Damage: 92
@@ -3247,6 +3332,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -3257,8 +3343,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 88
-UnitKind: (2, 4, 5)
-AntiEffect: (30, 73, 100)
+UnitKind: (2, 4, 5, 22, 23)
+AntiEffect: (110, 73, 104)
 
 Effects:
 MindControl: 73
@@ -3279,6 +3365,7 @@ Area: 2
 Radius: 0
 Karma: -3
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -3289,8 +3376,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 98
-UnitKind: (2, 3, 4, 5)
-AntiEffect: (135)
+UnitKind: (-1, 26)
+AntiEffect: (215)
 
 Effects:
 Damage: 1
@@ -3311,6 +3398,7 @@ Area: 1
 Radius: 0
 Karma: 1
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -3321,15 +3409,15 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 1
 Sound: 12
-UnitKind: (2, 4)
-AntiEffect: (30)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110)
 
 Effects:
 Heal: 1
 Power: 4
 Duration: -1
 
-Dispel: 31
+Dispel: 213
 Power: 1
 Duration: -1
 
@@ -3351,6 +3439,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -3383,6 +3472,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -3394,7 +3484,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 103
 UnitKind: (2)
-AntiEffect: (30)
+AntiEffect: (110)
 
 Effects:
 Defence: 4
@@ -3415,6 +3505,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -3425,11 +3516,11 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 101
-UnitKind: (2, 4)
+UnitKind: (2, 4, 22, 23)
 AntiEffect: (0)
 
 Effects:
-NoRangedAttack: 146
+NoRangedAttack: 151
 Power: 1
 Duration: 2
 
@@ -3455,6 +3546,7 @@ Area: 2
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -3465,11 +3557,11 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 102
-UnitKind: (2, 4)
+UnitKind: (2, 4, 22, 23)
 AntiEffect: (0)
 
 Effects:
-NoRangedAttack: 146
+NoRangedAttack: 151
 Power: 1
 Duration: 2
 
@@ -3495,6 +3587,7 @@ Area: 1
 Radius: 0
 Karma: 1
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -3505,8 +3598,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 1
 Sound: 104
-UnitKind: (2, 4)
-AntiEffect: (30)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110)
 
 Effects:
 Heal: 1
@@ -3531,6 +3624,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -3541,8 +3635,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 105
-UnitKind: (0)
-AntiEffect: (30, 107, 192)
+UnitKind: (19)
+AntiEffect: (110)
 
 Effects:
 Ammo: 148
@@ -3563,6 +3657,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -3585,12 +3680,12 @@ CounterAttack: 3
 Power: -100
 Duration: 4
 
-NoRangedAttack: 146
+NoRangedAttack: 151
 Power: 1
 Duration: 4;
 
 /99
-Name: Rune of Restoration;
+Name: Rune of Renewal;
 Cost: 2
 LifeCost: 0
 StamCost: 1
@@ -3603,6 +3698,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -3610,22 +3706,14 @@ Sacrifice: 0
 ResistPower: 0
 ResistDuration: 0
 DefencePower: 0
-RestoreOnly: 1
-Cumulative: 1
+RestoreOnly: 0
+Cumulative: 0
 Sound: 107
-UnitKind: (1, 2, 3, 5)
-AntiEffect: (109)
+UnitKind: (-4)
+AntiEffect: (0)
 
 Effects:
-Heal: 1
-Power: 6
-Duration: 2
-
-Heal: 1
-Power: 6
-Duration: -1
-
-Ammo: 10
+AddTurn: 75
 Power: 1
 Duration: -1;
 
@@ -3643,6 +3731,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -3653,8 +3742,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 108
-UnitKind: (1, 2, 3, 5)
-AntiEffect: (109)
+UnitKind: (-4)
+AntiEffect: (0)
 
 Effects:
 Damage: 1
@@ -3666,7 +3755,7 @@ Power: 4
 Duration: -1;
 
 /101
-Name: Rune of Renewal;
+Name: Rune of Restoration;
 Cost: 12
 LifeCost: 0
 StamCost: 3
@@ -3679,6 +3768,7 @@ Area: 2
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -3689,8 +3779,8 @@ DefencePower: 0
 RestoreOnly: 1
 Cumulative: 1
 Sound: 107
-UnitKind: (1, 2, 3, 5)
-AntiEffect: (109)
+UnitKind: (-4)
+AntiEffect: (0)
 
 Effects:
 Heal: 1
@@ -3719,6 +3809,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -3729,8 +3820,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 109
-UnitKind: (1, 2, 3, 5)
-AntiEffect: (73, 100, 109)
+UnitKind: (-4)
+AntiEffect: (73, 104)
 
 Effects:
 MindControl: 73
@@ -3740,17 +3831,18 @@ Duration: 2;
 /103
 Name: Stone Spikes;
 Cost: 10
-LifeCost: 3
+LifeCost: 50
 StamCost: 2
 ItemLevel: 8
 Level: 5
-PowerMod: 100
+PowerMod: 200
 DurationMod: 0
 Target: 3
 Area: 1
 Radius: 1
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -3762,49 +3854,17 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 110
 UnitKind: (0)
-AntiEffect: (14, 15, 30)
+AntiEffect: (14, 15, 110)
 
 Effects:
 Damage: 1
-Power: 4
+Power: 3
 Duration: -1;
 
 /104
 Name: Vampiric Touch;
 Cost: 4
-LifeCost: 0
-StamCost: 1
-ItemLevel: 8
-Level: 5
-PowerMod: 0
-DurationMod: 50
-Target: 1
-Area: 1
-Radius: 0
-Karma: 0
-Building: 0
-Negative: 0
-OnEnemy: 0
-OnAlly: 1
-Sacrifice: 0
-ResistPower: 0
-ResistDuration: 0
-DefencePower: 0
-RestoreOnly: 0
-Cumulative: 0
-Sound: 111
-UnitKind: (4)
-AntiEffect: (30, 135)
-
-Effects:
-DrainLife: 68
-Power: 35
-Duration: 4;
-
-/105
-Name: Mighty Weapon;
-Cost: 1
-LifeCost: 0
+LifeCost: 50
 StamCost: 1
 ItemLevel: 8
 Level: 5
@@ -3815,6 +3875,44 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 111
+UnitKind: (4, 22, 23)
+AntiEffect: (110, 215)
+
+Effects:
+Agility: 26
+Power: 1
+Duration: 2
+
+DrainLife: 68
+Power: 35
+Duration: 2;
+
+/105
+Name: Earth Shield;
+Cost: 1
+LifeCost: 50
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 0
+Area: 0
+Radius: 1
+Karma: 0
+Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -3825,22 +3923,26 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 112
-UnitKind: (2)
-AntiEffect: (30)
+UnitKind: (4, 22, 23, 27)
+AntiEffect: (110)
 
 Effects:
-Attack: 2
-Power: 3
-Duration: 4
+Defence: 4
+Power: 2
+Duration: 2
 
-CounterAttack: 3
-Power: 3
-Duration: 4;
+RangedDefence: 5
+Power: 2
+Duration: 2
+
+FirstAid: 35
+Power: 4
+Duration: 2;
 
 /106
-Name: Starfall;
+Name: Fire Rage;
 Cost: 18
-LifeCost: 6
+LifeCost: 50
 StamCost: 3
 ItemLevel: 8
 Level: 5
@@ -3851,6 +3953,7 @@ Area: 1
 Radius: 1
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -3862,17 +3965,21 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 113
 UnitKind: (0)
-AntiEffect: (30)
+AntiEffect: (110, 101)
 
 Effects:
 Damage: 1
-Power: 10
-Duration: -1;
+Power: 6
+Duration: -1
+
+Damage: 145
+Power: 1
+Duration: 3;
 
 /107
 Name: Rage;
 Cost: 2
-LifeCost: 0
+LifeCost: 50
 StamCost: 1
 ItemLevel: 8
 Level: 5
@@ -3883,6 +3990,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -3893,32 +4001,32 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 114
-UnitKind: (2, 4)
-AntiEffect: (30)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110)
 
 Effects:
-Attack: 2
+Resist: 6
 Power: 2
-Duration: 5
+Duration: 2
 
-CounterAttack: 3
+Fearless: 19
+Power: 1
+Duration: 2
+
+Fear: 50
+Power: 1
+Duration: 2
+
+Bloodlust: 197
 Power: 2
-Duration: 5
-
-Regen: 48
-Power: 2
-Duration: 5
-
-Bloodlust: 211
-Power: 3
-Duration: 5;
+Duration: 2;
 
 /108
 Name: Insanity;
 Cost: 20
 LifeCost: 0
 StamCost: 3
-ItemLevel: 8
+ItemLevel: 3
 Level: 3
 PowerMod: 100
 DurationMod: 0
@@ -3926,7 +4034,8 @@ Target: 1
 Area: 1
 Radius: 0
 Karma: 0
-Building: 0
+Building: -136
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -3937,8 +4046,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 115
-UnitKind: (2, 4)
-AntiEffect: (30)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110)
 
 Effects:
 Drain: 71
@@ -3960,7 +4069,7 @@ Duration: -1;
 /109
 Name: Mass Rage;
 Cost: 6
-LifeCost: 0
+LifeCost: 50
 StamCost: 3
 ItemLevel: 8
 Level: 5
@@ -3971,6 +4080,7 @@ Area: 2
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -3981,40 +4091,37 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 116
-UnitKind: (2, 4)
-AntiEffect: (30)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110)
 
 Effects:
-Attack: 2
-Power: 2
-Duration: 5
+Fearless: 19
+Power: 1
+Duration: 2
 
-CounterAttack: 3
+Fear: 50
 Power: 2
-Duration: 5
+Duration: 2
 
-Regen: 48
-Power: 2
-Duration: 5
-
-Bloodlust: 211
+Bloodlust: 197
 Power: 3
-Duration: 5;
+Duration: 2;
 
 /110
-Name: Horde's Rage;
+Name: Tribe's Blood;
 Cost: 12
-LifeCost: 0
+LifeCost: 50
 StamCost: 3
 ItemLevel: 8
 Level: 5
-PowerMod: 0
-DurationMod: 100
+PowerMod: 200
+DurationMod: 0
 Target: 0
-Area: 2
-Radius: 0
+Area: 0
+Radius: 1
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -4025,13 +4132,17 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 117
-UnitKind: (2, 4)
-AntiEffect: (30)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110)
 
 Effects:
-FearStrike: 50
-Power: 2
-Duration: 4;
+Heal: 1
+Power: 4
+Duration: -1
+
+Antidote: 93
+Power: 1
+Duration: -1;
 
 /111
 Name: Chieftain Order;
@@ -4047,6 +4158,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 0
 OnAlly: 1
@@ -4057,8 +4169,8 @@ DefencePower: 0
 RestoreOnly: 1
 Cumulative: 0
 Sound: 118
-UnitKind: (2, 4, 5)
-AntiEffect: (30, 108, 120, 299)
+UnitKind: (2, 4, 5, 21, 22, 23)
+AntiEffect: (0)
 
 Effects:
 AddTurn: 75
@@ -4087,6 +4199,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -4098,7 +4211,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 119
 UnitKind: (0)
-AntiEffect: (14, 15, 30)
+AntiEffect: (14, 15, 110)
 
 Effects:
 Speed: 7
@@ -4131,6 +4244,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -4141,8 +4255,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 120
-UnitKind: (2, 4)
-AntiEffect: (30)
+UnitKind: (2)
+AntiEffect: (110)
 
 Effects:
 Attack: 2
@@ -4171,6 +4285,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -4181,8 +4296,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 121
-UnitKind: (0)
-AntiEffect: (30, 109)
+UnitKind: (19, 22, 27)
+AntiEffect: (110, 80)
 
 Effects:
 Defence: 4
@@ -4207,6 +4322,7 @@ Area: 1
 Radius: 1
 Karma: -1
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -4217,8 +4333,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 122
-UnitKind: (2, 4)
-AntiEffect: (30)
+UnitKind: (2, 4, 17, 22, 23)
+AntiEffect: (110)
 
 Effects:
 Poison: 1
@@ -4250,7 +4366,7 @@ Name: Geyser;
 Cost: 19
 LifeCost: 0
 StamCost: 4
-ItemLevel: 8
+ItemLevel: 3
 Level: 3
 PowerMod: 100
 DurationMod: 0
@@ -4258,7 +4374,8 @@ Target: 3
 Area: 1
 Radius: 1
 Karma: 0
-Building: 0
+Building: -132
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -4270,7 +4387,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 123
 UnitKind: (0)
-AntiEffect: (30, 102)
+AntiEffect: (110, 102)
 
 Effects:
 Damage: 1
@@ -4291,6 +4408,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -4301,8 +4419,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 124
-UnitKind: (4)
-AntiEffect: (30)
+UnitKind: (4, 23)
+AntiEffect: (110)
 
 Effects:
 Attack: 2
@@ -4313,7 +4431,7 @@ CounterAttack: 3
 Power: -100
 Duration: 6
 
-NoRangedAttack: 146
+NoRangedAttack: 151
 Power: 1
 Duration: 6;
 
@@ -4331,6 +4449,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -4342,7 +4461,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 125
 UnitKind: (0)
-AntiEffect: (30)
+AntiEffect: (110)
 
 Effects:
 Immobile: 36
@@ -4367,6 +4486,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -4377,8 +4497,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 126
-UnitKind: (2, 4)
-AntiEffect: (30)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110)
 
 Effects:
 Poison: 1
@@ -4419,6 +4539,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -4451,6 +4572,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -4461,15 +4583,15 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 127
-UnitKind: (2, 4)
-AntiEffect: (30)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110)
 
 Effects:
 No_fear: 19
 Power: 1
 Duration: 4
 
-Poison_immun: 42
+Poison_immun: 108
 Power: 1
 Duration: 4
 
@@ -4491,6 +4613,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -4502,7 +4625,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 128
 UnitKind: (0)
-AntiEffect: (30, 102)
+AntiEffect: (110, 102)
 
 Effects:
 Immobile: 36
@@ -4539,6 +4662,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -4550,7 +4674,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 129
 UnitKind: (0)
-AntiEffect: (30)
+AntiEffect: (0)
 
 Effects:
 Damage: 1
@@ -4563,7 +4687,7 @@ Cost: 3
 LifeCost: 0
 StamCost: 1
 ItemLevel: 8
-Level: 1
+Level: 5
 PowerMod: 0
 DurationMod: 100
 Target: 1
@@ -4571,6 +4695,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -4582,10 +4707,10 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 130
 UnitKind: (0)
-AntiEffect: (30, 17, 28)
+AntiEffect: (110, 17, 28)
 
 Effects:
-Armor_Pierce_Shoot: 17
+Armor_Pierce_Shoot: 31
 Power: 1
 Duration: 3;
 
@@ -4603,6 +4728,7 @@ Area: 2
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -4635,6 +4761,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -4645,8 +4772,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 132
-UnitKind: (0)
-AntiEffect: (20, 30, 107)
+UnitKind: (19)
+AntiEffect: (20, 110)
 
 Effects:
 Double_Shot: 20
@@ -4667,6 +4794,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -4678,7 +4806,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 133
 UnitKind: (0)
-AntiEffect: (30)
+AntiEffect: (110)
 
 Effects:
 Damage: 1
@@ -4699,6 +4827,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -4710,7 +4839,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 134
 UnitKind: (0)
-AntiEffect: (30)
+AntiEffect: (110)
 
 Effects:
 Attack: 2
@@ -4739,6 +4868,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -4750,7 +4880,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 135
 UnitKind: (2)
-AntiEffect: (30)
+AntiEffect: (110)
 
 Effects:
 Defence: 4
@@ -4779,6 +4909,7 @@ Area: 1
 Radius: 2
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -4790,7 +4921,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 136
 UnitKind: (0)
-AntiEffect: (30, 105)
+AntiEffect: (110, 103)
 
 Effects:
 Damage: 1
@@ -4811,6 +4942,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -4822,7 +4954,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 137
 UnitKind: (0)
-AntiEffect: (30, 105)
+AntiEffect: (110, 103)
 
 Effects:
 Damage: 1
@@ -4843,6 +4975,7 @@ Area: 1
 Radius: 1
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -4854,7 +4987,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 138
 UnitKind: (0)
-AntiEffect: (30, 105)
+AntiEffect: (110, 103)
 
 Effects:
 Damage: 1
@@ -4875,6 +5008,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -4885,8 +5019,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 139
-UnitKind: (2, 4)
-AntiEffect: (30)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110)
 
 Effects:
 Attack: 2
@@ -4911,6 +5045,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -4921,8 +5056,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 140
-UnitKind: (2, 4)
-AntiEffect: (30, 135)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110, 215)
 
 Effects:
 Attack: 2
@@ -4955,6 +5090,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -4965,8 +5101,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 141
-UnitKind: (4)
-AntiEffect: (14, 15)
+UnitKind: (27)
+AntiEffect: (14, 15, 80)
 
 Effects:
 Speed: 7
@@ -4991,6 +5127,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -5001,8 +5138,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 142
-UnitKind: (4)
-AntiEffect: (14, 15)
+UnitKind: (27)
+AntiEffect: (14, 15, 80)
 
 Effects:
 Speed: 7
@@ -5035,6 +5172,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -5045,8 +5183,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 143
-UnitKind: (2, 4)
-AntiEffect: (30, 42)
+UnitKind: (0)
+AntiEffect: (110, 108)
 
 Effects:
 Speed: 7
@@ -5071,6 +5209,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -5081,8 +5220,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 144
-UnitKind: (2, 4)
-AntiEffect: (30)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110)
 
 Effects:
 Regen: 1
@@ -5097,7 +5236,7 @@ Resist: 6
 Power: 1
 Duration: 4
 
-Poison_Immun: 42
+Poison_Immun: 108
 Power: 1
 Duration: 4;
 
@@ -5115,6 +5254,7 @@ Area: 1
 Radius: 0
 Karma: -1
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -5126,7 +5266,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 145
 UnitKind: (0)
-AntiEffect: (30)
+AntiEffect: (110)
 
 Effects:
 Poison_Strike: 41
@@ -5147,6 +5287,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 0
 OnAlly: 1
@@ -5157,7 +5298,7 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 146
-UnitKind: (2, 4)
+UnitKind: (2, 4, 22, 23)
 AntiEffect: (0)
 
 Effects:
@@ -5183,6 +5324,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -5194,7 +5336,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 8
 UnitKind: (2, 3)
-AntiEffect: (30)
+AntiEffect: (110)
 
 Effects:
 Speed: 7
@@ -5212,16 +5354,17 @@ LifeCost: 0
 StamCost: 1
 ItemLevel: 2
 Level: 1
-PowerMod: 0
+PowerMod: 100
 DurationMod: 0
 Target: 1
 Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 1
-OnAlly: 1
+OnAlly: 0
 Sacrifice: 0
 ResistPower: 50
 ResistDuration: 0
@@ -5233,8 +5376,8 @@ UnitKind: (0)
 AntiEffect: (0)
 
 Effects:
-Dispel: 31
-Power: 4
+Banish: 164
+Power: 15
 Duration: -1;
 
 /143
@@ -5251,6 +5394,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -5265,15 +5409,15 @@ UnitKind: (2, 3)
 AntiEffect: (0)
 
 Effects:
-Smite_Evil: 61
+Smite_Evil: 120
 Power: 1
 Duration: 6
 
-UndeadHunter: 220
+UndeadHunter: 202
 Power: 1
 Duration: 6
 
-DemonHunter: 221
+DemonHunter: 203
 Power: 2
 Duration: 6;
 
@@ -5291,6 +5435,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -5302,7 +5447,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 11
 UnitKind: (2, 3)
-AntiEffect: (30)
+AntiEffect: (110)
 
 Effects:
 Attack: 2
@@ -5347,6 +5492,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -5366,7 +5512,7 @@ Power: 1
 Duration: 4;
 
 /146
-Name: Hard as Stone;
+Name: Armor of Faith;
 Cost: 5
 LifeCost: 0
 StamCost: 1
@@ -5379,6 +5525,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -5389,21 +5536,13 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 31
-UnitKind: (2, 3, 4)
-AntiEffect: (30, 109)
+UnitKind: (2, 3, 4, 22, 23)
+AntiEffect: (110)
 
 Effects:
-Defence: 4
-Power: 4
-Duration: 5
-
-RangedDefence: 5
-Power: 4
-Duration: 5
-
-Resist: 6
-Power: 4
-Duration: 5;
+HeavenlyArmor: 232
+Power: 25
+Duration: 4;
 
 /147
 Name: True Resurrection;
@@ -5419,6 +5558,7 @@ Area: 1
 Radius: 0
 Karma: 3
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -5429,7 +5569,7 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 58
-UnitKind: (2, 3, 4)
+UnitKind: (2, 3, 4, 22, 23)
 AntiEffect: (0)
 
 Effects:
@@ -5451,6 +5591,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -5462,7 +5603,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 149
 UnitKind: (2, 3)
-AntiEffect: (30)
+AntiEffect: (110)
 
 Effects:
 Attack: 2
@@ -5478,19 +5619,15 @@ Power: 2
 Duration: 4
 
 Defence: 4
-Power: 5
+Power: 2
 Duration: 4
 
 RangedDefence: 5
-Power: 5
+Power: 2
 Duration: 4
 
-Resist: 6
-Power: 5
-Duration: 4
-
-Magic_Immunity: 30
-Power: 1
+HeavenlyArmor: 232
+Power: 50
 Duration: 4;
 
 /149
@@ -5507,6 +5644,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -5518,7 +5656,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 55
 UnitKind: (2, 3, 4)
-AntiEffect: (0)
+AntiEffect: (110)
 
 Effects:
 Replacement: 89
@@ -5539,6 +5677,7 @@ Area: 1
 Radius: 2
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -5549,8 +5688,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 150
-UnitKind: (4)
-AntiEffect: (30, 135)
+UnitKind: (4, 22, 23)
+AntiEffect: (110, 215)
 
 Effects:
 Attack: 2
@@ -5561,7 +5700,7 @@ CounterAttack: 3
 Power: -100
 Duration: 4
 
-NoRangedAttack: 146
+NoRangedAttack: 151
 Power: 1
 Duration: 4;
 
@@ -5579,6 +5718,7 @@ Area: 2
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -5590,7 +5730,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 151
 UnitKind: (0)
-AntiEffect: (30, 135)
+AntiEffect: (110, 215)
 
 Effects:
 Damage: 1
@@ -5611,6 +5751,7 @@ Area: 1
 Radius: 2
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -5621,8 +5762,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 152
-UnitKind: (1, 4, 5)
-AntiEffect: (30)
+UnitKind: (1, 4, 5, 22)
+AntiEffect: (110)
 
 Effects:
 Damage: 1
@@ -5643,6 +5784,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -5675,6 +5817,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 1
 OnAlly: 1
@@ -5707,6 +5850,7 @@ Area: 1
 Radius: 2
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -5718,7 +5862,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 78
 UnitKind: (0)
-AntiEffect: (30, 101)
+AntiEffect: (110, 101)
 
 Effects:
 Damage: 1
@@ -5743,6 +5887,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -5754,7 +5899,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 110
 UnitKind: (0)
-AntiEffect: (30)
+AntiEffect: (110)
 
 Effects:
 Damage: 1
@@ -5775,6 +5920,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -5785,8 +5931,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 88
-UnitKind: (2, 4, 5)
-AntiEffect: (30, 73, 100)
+UnitKind: (2, 4, 5, 22, 23)
+AntiEffect: (110, 73, 104)
 
 Effects:
 MindControl: 73
@@ -5807,6 +5953,7 @@ Area: 0
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -5839,6 +5986,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -5850,7 +5998,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 154
 UnitKind: (0)
-AntiEffect: (30, 105)
+AntiEffect: (110, 103)
 
 Effects:
 Damage: 1
@@ -5871,6 +6019,7 @@ Area: 1
 Radius: 2
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -5882,7 +6031,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 155
 UnitKind: (0)
-AntiEffect: (30, 105)
+AntiEffect: (110, 103)
 
 Effects:
 Damage: 1
@@ -5903,6 +6052,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -5914,7 +6064,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 156
 UnitKind: (0)
-AntiEffect: (30, 105, 121)
+AntiEffect: (110, 103, 80)
 
 Effects:
 ShootingAttack: 8
@@ -5943,6 +6093,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -5954,7 +6105,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 157
 UnitKind: (0)
-AntiEffect: (30)
+AntiEffect: (110)
 
 Effects:
 Speed: 7
@@ -5979,6 +6130,7 @@ Area: 1
 Radius: 1
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -6015,6 +6167,7 @@ Area: 2
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -6047,6 +6200,7 @@ Area: 1
 Radius: 1
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -6058,7 +6212,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 160
 UnitKind: (0)
-AntiEffect: (30, 101)
+AntiEffect: (110, 101)
 
 Effects:
 Damage: 1
@@ -6083,6 +6237,7 @@ Area: 2
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -6094,7 +6249,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 161
 UnitKind: (0)
-AntiEffect: (30, 101)
+AntiEffect: (110, 101)
 
 Effects:
 Fire_Immunity: 101
@@ -6119,6 +6274,7 @@ Area: 2
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -6130,7 +6286,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 162
 UnitKind: (0)
-AntiEffect: (30, 101)
+AntiEffect: (110, 101)
 
 Effects:
 Damage: 1
@@ -6155,6 +6311,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -6187,6 +6344,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -6219,6 +6377,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -6251,6 +6410,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -6272,9 +6432,9 @@ Duration: -1;
 /172
 Name: Summon Lord of Abyss;
 Cost: 50
-LifeCost: 20
+LifeCost: 15
 StamCost: 4
-ItemLevel: 5
+ItemLevel: 4
 Level: 4
 PowerMod: 100
 DurationMod: 0
@@ -6282,7 +6442,8 @@ Target: 5
 Area: 1
 Radius: 0
 Karma: -3
-Building: 0
+Building: -176
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -6294,11 +6455,11 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 19
 UnitKind: (0)
-AntiEffect: (135)
+AntiEffect: (0)
 
 Effects:
 Summon: 1098
-Power: 4
+Power: 0
 Duration: -1;
 
 /173
@@ -6315,6 +6476,7 @@ Area: 2
 Radius: 0
 Karma: -4
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -6325,8 +6487,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 163
-UnitKind: (2, 3, 4, 5)
-AntiEffect: (135)
+UnitKind: (-1)
+AntiEffect: (215)
 
 Effects:
 Damage: 1
@@ -6347,6 +6509,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -6358,7 +6521,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 84
 UnitKind: (2, 5)
-AntiEffect: (30, 90)
+AntiEffect: (110, 90)
 
 Effects:
 Morph: 1019
@@ -6379,6 +6542,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -6390,7 +6554,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 84
 UnitKind: (3, 5)
-AntiEffect: (30, 90)
+AntiEffect: (110, 90)
 
 Effects:
 Morph: 1037
@@ -6411,6 +6575,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -6443,6 +6608,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -6475,6 +6641,7 @@ Area: 1
 Radius: 0
 Karma: 1
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -6485,8 +6652,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 164
-UnitKind: (2, 4)
-AntiEffect: (30)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110)
 
 Effects:
 Reincarnation: 74
@@ -6511,6 +6678,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -6521,8 +6689,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 13
-UnitKind: (2, 4)
-AntiEffect: (19, 30, 100)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (19, 110, 104)
 
 Effects:
 Morale: 12
@@ -6543,6 +6711,7 @@ Area: 1
 Radius: 1
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -6553,8 +6722,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 75
-UnitKind: (2, 4)
-AntiEffect: (19, 30, 100)
+UnitKind: (0)
+AntiEffect: (19, 110, 104)
 
 Effects:
 Morale: 12
@@ -6575,6 +6744,7 @@ Area: 0
 Radius: 0
 Karma: -1
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -6585,8 +6755,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 165
-UnitKind: (2, 4)
-AntiEffect: (30, 100)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110, 104)
 
 Effects:
 Damage: 92
@@ -6607,6 +6777,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -6617,8 +6788,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 88
-UnitKind: (2, 4, 5)
-AntiEffect: (30, 73, 100)
+UnitKind: (2, 4, 5, 22, 23)
+AntiEffect: (110, 73, 104)
 
 Effects:
 MindControl: 73
@@ -6639,6 +6810,7 @@ Area: 2
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -6650,10 +6822,10 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 161
 UnitKind: (0)
-AntiEffect: (30, 100)
+AntiEffect: (110, 104)
 
 Effects:
-Mind_Immunity: 100
+Mind_Immunity: 104
 Power: 1
 Duration: 10;
 
@@ -6671,6 +6843,7 @@ Area: 2
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -6681,8 +6854,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 132
-UnitKind: (2, 4, 5)
-AntiEffect: (30, 28, 107)
+UnitKind: (-7)
+AntiEffect: (110, 28)
 
 Effects:
 Flag_DoubleShot3: 183
@@ -6715,6 +6888,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -6725,8 +6899,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 200
-UnitKind: (1, 3, 4, 5)
-AntiEffect: (30, 73, 100)
+UnitKind: (-2)
+AntiEffect: (110, 73, 104)
 
 Effects:
 MindControl: 73
@@ -6747,6 +6921,7 @@ Area: 1
 Radius: 1
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -6783,6 +6958,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -6793,8 +6969,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 216
-UnitKind: (2, 4)
-AntiEffect: (107)
+UnitKind: (2, 4, 19, 22)
+AntiEffect: (0)
 
 Effects:
 Stamina: 11
@@ -6810,7 +6986,7 @@ Name: Levitation;
 Cost: 8
 LifeCost: 0
 StamCost: 2
-ItemLevel: 8
+ItemLevel: 2
 Level: 1
 PowerMod: 0
 DurationMod: 100
@@ -6818,7 +6994,8 @@ Target: 1
 Area: 1
 Radius: 0
 Karma: 0
-Building: 0
+Building: -19
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -6830,7 +7007,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 168
 UnitKind: (0)
-AntiEffect: (14, 15, 30)
+AntiEffect: (14, 15, 110)
 
 Effects:
 Float: 15
@@ -6859,6 +7036,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -6869,8 +7047,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 166
-UnitKind: (2, 4)
-AntiEffect: (30, 135)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110, 215)
 
 Effects:
 DrainLife: 68
@@ -6889,7 +7067,7 @@ Fearless: 19
 Power: 1
 Duration: 4
 
-Poison_Immunity: 42
+Poison_Immunity: 108
 Power: 1
 Duration: 4
 
@@ -6897,7 +7075,7 @@ Cold_Immunity: 102
 Power: 1
 Duration: 4
 
-Bleeding_Immunity: 204
+Bleeding_Immunity: 109
 Power: 1
 Duration: 4
 
@@ -6919,6 +7097,7 @@ Area: 1
 Radius: 0
 Karma: -5
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -6929,7 +7108,7 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 167
-UnitKind: (2, 4, 5)
+UnitKind: (2, 4, 5, 22, 23)
 AntiEffect: (0)
 
 Effects:
@@ -6951,6 +7130,7 @@ Area: 1
 Radius: 2
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -6961,8 +7141,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 169
-UnitKind: (2, 4)
-AntiEffect: (19, 100)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (19, 104)
 
 Effects:
 Speed: 7
@@ -6991,6 +7171,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -7001,8 +7182,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 172
-UnitKind: (2, 4)
-AntiEffect: (30, 100)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110, 104)
 
 Effects:
 Immobile: 36
@@ -7027,6 +7208,7 @@ Area: 2
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -7037,8 +7219,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 89
-UnitKind: (2, 4)
-AntiEffect: (30, 100)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110, 104)
 
 Effects:
 Sleep: 70
@@ -7067,6 +7249,7 @@ Area: 0
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -7101,11 +7284,11 @@ Stamina: 11
 Power: 2
 Duration: 3
 
-Bodyless: 121
+Bodyless: 80
 Power: 1
 Duration: 3
 
-Bloodlust: 211
+Bloodlust: 197
 Power: 2
 Duration: 3
 
@@ -7113,19 +7296,19 @@ Counterattack: 3
 Power: -5
 Duration: 3
 
-Preparation: 214
+Preparation: 126
 Power: -1
 Duration: 3
 
-Resist: 223
+Resist: 212
 Power: -50
 Duration: 3
 
-MoraleChange: 222
+MoraleChange: 211
 Power: -3
 Duration: 3
 
-SpellVulnerable: 205
+SpellSent: 115
 Power: 198
 Duration: 3;
 
@@ -7143,6 +7326,7 @@ Area: 1
 Radius: 1
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -7154,7 +7338,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 171
 UnitKind: (2, 3)
-AntiEffect: (30)
+AntiEffect: (110)
 
 Effects:
 Attack: 2
@@ -7195,6 +7379,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -7227,6 +7412,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -7259,6 +7445,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -7269,8 +7456,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 177
-UnitKind: (1, 2, 3, 4, 5)
-AntiEffect: (299)
+UnitKind: (-14, 14)
+AntiEffect: (0)
 
 Effects:
 No_fear: 19
@@ -7303,6 +7490,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -7313,8 +7501,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 1
 Sound: 173
-UnitKind: (2, 4)
-AntiEffect: (30)
+UnitKind: (2, 4, 23)
+AntiEffect: (110)
 
 Effects:
 Resist: 6
@@ -7339,6 +7527,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -7350,7 +7539,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 174
 UnitKind: (0)
-AntiEffect: (30, 66, 120)
+AntiEffect: (110, 66)
 
 Effects:
 Multiattack: 66
@@ -7371,6 +7560,7 @@ Area: 1
 Radius: 2
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -7381,8 +7571,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 175
-UnitKind: (0)
-AntiEffect: (30, 107, 192)
+UnitKind: (19)
+AntiEffect: (110)
 
 Effects:
 Ammo: 10
@@ -7394,7 +7584,7 @@ Name: Enchanted Weapon;
 Cost: 20
 LifeCost: 0
 StamCost: 3
-ItemLevel: 8
+ItemLevel: 4
 Level: 3
 PowerMod: 0
 DurationMod: 100
@@ -7402,7 +7592,8 @@ Target: 0
 Area: 2
 Radius: 0
 Karma: 0
-Building: 0
+Building: -134
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -7413,8 +7604,8 @@ DefencePower: 0
 RestoreOnly: 1
 Cumulative: 1
 Sound: 176
-UnitKind: (0)
-AntiEffect: (30, 107, 192)
+UnitKind: (19)
+AntiEffect: (110)
 
 Effects:
 Attack: 2
@@ -7447,6 +7638,7 @@ Area: 1
 Radius: 0
 Karma: -1
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 1
 OnAlly: 1
@@ -7479,6 +7671,7 @@ Area: 1
 Radius: 0
 Karma: -1
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 1
 OnAlly: 1
@@ -7511,6 +7704,7 @@ Area: 1
 Radius: 0
 Karma: -2
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 1
 OnAlly: 1
@@ -7543,6 +7737,7 @@ Area: 1
 Radius: 0
 Karma: -3
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 1
 OnAlly: 1
@@ -7562,9 +7757,9 @@ Power: 0
 Duration: -1;
 
 /207
-Name: Dark Revival;
+Name: Dark Resurrection;
 Cost: 20
-LifeCost: 7
+LifeCost: 0
 StamCost: 3
 ItemLevel: 4
 Level: 2
@@ -7575,6 +7770,7 @@ Area: 1
 Radius: 0
 Karma: -3
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -7585,7 +7781,7 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 178
-UnitKind: (2, 4)
+UnitKind: (2, 4, 22, 23)
 AntiEffect: (0)
 
 Effects:
@@ -7607,6 +7803,7 @@ Area: 1
 Radius: 2
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -7617,8 +7814,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 179
-UnitKind: (2, 4)
-AntiEffect: (30, 108)
+UnitKind: (2, 4, 21, 22, 23)
+AntiEffect: (110)
 
 Effects:
 Attack: 2
@@ -7629,7 +7826,7 @@ CounterAttack: 3
 Power: -100
 Duration: 4
 
-NoRangedAttack: 146
+NoRangedAttack: 151
 Power: 1
 Duration: 4;
 
@@ -7638,7 +7835,7 @@ Name: Titan's Strength;
 Cost: 30
 LifeCost: 0
 StamCost: 3
-ItemLevel: 8
+ItemLevel: 4
 Level: 4
 PowerMod: 0
 DurationMod: 100
@@ -7646,7 +7843,8 @@ Target: 1
 Area: 1
 Radius: 0
 Karma: 0
-Building: 0
+Building: -177
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -7657,8 +7855,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 180
-UnitKind: (2, 4)
-AntiEffect: (30, 120)
+UnitKind: (2, 4, 22, 23, 24)
+AntiEffect: (110)
 
 Effects:
 Attack: 2
@@ -7683,6 +7881,7 @@ Area: 1
 Radius: 1
 Karma: -1
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 1
 OnAlly: 1
@@ -7693,8 +7892,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 1
 Sound: 181
-UnitKind: (1, 3, 4, 5)
-AntiEffect: (30, 106, 121)
+UnitKind: (-2, 18)
+AntiEffect: (110, 80)
 
 Effects:
 Heal: 1
@@ -7715,6 +7914,7 @@ Area: 2
 Radius: 0
 Karma: -1
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -7725,8 +7925,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 1
 Sound: 182
-UnitKind: (1, 3, 4, 5)
-AntiEffect: (30, 106)
+UnitKind: (-2, 18)
+AntiEffect: (110)
 
 Effects:
 Regen: 1
@@ -7751,6 +7951,7 @@ Area: 1
 Radius: 0
 Karma: -1
 Building: 0
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -7761,8 +7962,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 183
-UnitKind: (0)
-AntiEffect: (108)
+UnitKind: (21)
+AntiEffect: (0)
 
 Effects:
 Damage: 1
@@ -7774,7 +7975,7 @@ Name: Unrest;
 Cost: 30
 LifeCost: 0
 StamCost: 3
-ItemLevel: 8
+ItemLevel: 3
 Level: 3
 PowerMod: 0
 DurationMod: 200
@@ -7782,7 +7983,8 @@ Target: 1
 Area: 1
 Radius: 0
 Karma: 0
-Building: 0
+Building: -137
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -7793,8 +7995,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 184
-UnitKind: (1, 3, 4, 5)
-AntiEffect: (30, 106)
+UnitKind: (-2, 18)
+AntiEffect: (110)
 
 Effects:
 Reincarnation: 74
@@ -7815,6 +8017,7 @@ Area: 2
 Radius: 0
 Karma: -1
 Building: 0
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -7825,7 +8028,7 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 185
-UnitKind: (2, 4, 5)
+UnitKind: (5, 22)
 AntiEffect: (18)
 
 Effects:
@@ -7847,6 +8050,7 @@ Area: 2
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -7858,7 +8062,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 186
 UnitKind: (0)
-AntiEffect: (14, 15, 30)
+AntiEffect: (14, 15, 110)
 
 Effects:
 Forest_Walk: 32
@@ -7887,6 +8091,7 @@ Area: 2
 Radius: 0
 Karma: 1
 Building: 173
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -7898,7 +8103,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 187
 UnitKind: (0)
-AntiEffect: (30)
+AntiEffect: (110)
 
 Effects:
 Defence: 4
@@ -7935,6 +8140,7 @@ Area: 1
 Radius: 1
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -7946,7 +8152,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 188
 UnitKind: (0)
-AntiEffect: (30, 201)
+AntiEffect: (110, 105)
 
 Effects:
 Web: 47
@@ -7967,6 +8173,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -7990,7 +8197,7 @@ Name: Higher Power;
 Cost: 45
 LifeCost: 0
 StamCost: 6
-ItemLevel: 8
+ItemLevel: 4
 Level: 4
 PowerMod: 0
 DurationMod: 1
@@ -7998,7 +8205,8 @@ Target: 3
 Area: 1
 Radius: 2
 Karma: 2
-Building: 0
+Building: -173
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -8010,7 +8218,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 190
 UnitKind: (2, 3, 5)
-AntiEffect: (30)
+AntiEffect: (110)
 
 Effects:
 Attack: 2
@@ -8037,11 +8245,11 @@ Resistance: 6
 Power: 5
 Duration: 4
 
-Mind_Immunity: 100
+Mind_Immunity: 104
 Power: 1
 Duration: 4
 
-Dispel: 31
+Dispel: 213
 Power: 10
 Duration: -1;
 
@@ -8050,7 +8258,7 @@ Name: Heroism;
 Cost: 16
 LifeCost: 0
 StamCost: 3
-ItemLevel: 8
+ItemLevel: 3
 Level: 2
 PowerMod: 0
 DurationMod: 100
@@ -8058,7 +8266,8 @@ Target: 1
 Area: 1
 Radius: 0
 Karma: 0
-Building: 0
+Building: -81
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -8069,15 +8278,15 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 191
-UnitKind: (2, 4)
-AntiEffect: (30, 107, 120, 299)
+UnitKind: (2, 4, 19, 22, 23)
+AntiEffect: (110, 104)
 
 Effects:
 Attack: 2
 Power: 1
 Duration: 4
 
-Mind_Immunity: 100
+Mind_Immunity: 104
 Power: 1
 Duration: 4
 
@@ -8107,6 +8316,7 @@ Area: 1
 Radius: 0
 Karma: 2
 Building: 0
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -8117,7 +8327,7 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 192
-UnitKind: (1, 3, 4, 5)
+UnitKind: (-2)
 AntiEffect: (0)
 
 Effects:
@@ -8139,6 +8349,7 @@ Area: 1
 Radius: 1
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -8150,7 +8361,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 193
 UnitKind: (2, 3)
-AntiEffect: (30)
+AntiEffect: (110)
 
 Effects:
 RangedDefence: 5
@@ -8175,6 +8386,7 @@ Area: 1
 Radius: 0
 Karma: -1
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -8185,8 +8397,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 194
-UnitKind: (2)
-AntiEffect: (30, 107, 135)
+UnitKind: (2, 19, 22)
+AntiEffect: (110, 215)
 
 Effects:
 Attack: 2
@@ -8197,11 +8409,11 @@ CounterAttack: 3
 Power: 2
 Duration: 4
 
-ArmorPierce: 39
+ArmorPierce: 30
 Power: 1
 Duration: 4
 
-Curse: 43
+Curse: 96
 Power: 4
 Duration: 4
 
@@ -8223,6 +8435,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -8233,8 +8446,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 1
 Sound: 21
-UnitKind: (0)
-AntiEffect: (30, 108, 121)
+UnitKind: (21)
+AntiEffect: (110, 80)
 
 Effects:
 Defence: 4
@@ -8250,7 +8463,7 @@ Name: Cat's Reflexes;
 Cost: 8
 LifeCost: 0
 StamCost: 1
-ItemLevel: 8
+ItemLevel: 2
 Level: 1
 PowerMod: 0
 DurationMod: 100
@@ -8258,7 +8471,8 @@ Target: 1
 Area: 1
 Radius: 0
 Karma: 0
-Building: 0
+Building: -23
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -8269,15 +8483,15 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 195
-UnitKind: (2, 4)
-AntiEffect: (30, 120)
+UnitKind: (2, 4, 22, 23, 24)
+AntiEffect: (110)
 
 Effects:
 Agility: 26
 Power: 1
 Duration: 4
 
-Preparation: 214
+Preparation: 126
 Power: 1
 Duration: 4;
 
@@ -8295,6 +8509,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -8305,8 +8520,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 196
-UnitKind: (2, 4)
-AntiEffect: (19, 100)
+UnitKind: (0)
+AntiEffect: (19, 104)
 
 Effects:
 Morale: 12
@@ -8327,6 +8542,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -8337,7 +8553,7 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 197
-UnitKind: (2, 4)
+UnitKind: (2, 4, 22, 23)
 AntiEffect: (13)
 
 Effects:
@@ -8375,6 +8591,7 @@ Area: 1
 Radius: 2
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -8386,7 +8603,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 198
 UnitKind: (0)
-AntiEffect: (30, 102)
+AntiEffect: (110, 102)
 
 Effects:
 Speed: 7
@@ -8411,6 +8628,7 @@ Area: 1
 Radius: 0
 Karma: -5
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -8443,6 +8661,7 @@ Area: 1
 Radius: 2
 Karma: -2
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -8453,7 +8672,7 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 202
-UnitKind: (2, 4)
+UnitKind: (2, 4, 22, 23)
 AntiEffect: (0)
 
 Effects:
@@ -8494,7 +8713,7 @@ Name: Mass Life Drain;
 Cost: 60
 LifeCost: 0
 StamCost: 4
-ItemLevel: 8
+ItemLevel: 5
 Level: 4
 PowerMod: 100
 DurationMod: 0
@@ -8502,7 +8721,8 @@ Target: 0
 Area: 2
 Radius: 0
 Karma: -2
-Building: 0
+Building: -174
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -8513,8 +8733,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 203
-UnitKind: (2, 4)
-AntiEffect: (30, 135)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110, 215)
 
 Effects:
 Drain: 71
@@ -8530,7 +8750,7 @@ Name: Demon Blood;
 Cost: 15
 LifeCost: 0
 StamCost: 3
-ItemLevel: 8
+ItemLevel: 3
 Level: 2
 PowerMod: 50
 DurationMod: 0
@@ -8538,7 +8758,8 @@ Target: 1
 Area: 1
 Radius: 0
 Karma: 0
-Building: 0
+Building: -84
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -8549,8 +8770,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 204
-UnitKind: (1, 2, 4, 5)
-AntiEffect: (30, 108)
+UnitKind: (-3, 21)
+AntiEffect: (110)
 
 Effects:
 Drain: 71
@@ -8575,6 +8796,7 @@ Area: 2
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -8586,7 +8808,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 205
 UnitKind: (2, 3)
-AntiEffect: (30)
+AntiEffect: (110)
 
 Effects:
 Attack: 2
@@ -8631,6 +8853,7 @@ Area: 1
 Radius: 1
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 1
 OnAlly: 1
@@ -8641,8 +8864,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 206
-UnitKind: (2, 4)
-AntiEffect: (30, 100)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110, 104)
 
 Effects:
 Sleep: 70
@@ -8679,6 +8902,7 @@ Area: 1
 Radius: 0
 Karma: -1
 Building: 0
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -8689,8 +8913,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 207
-UnitKind: (2, 4)
-AntiEffect: (30, 100, 135)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110, 104, 215)
 
 Effects:
 Sleep: 70
@@ -8709,7 +8933,7 @@ Stamina: 11
 Power: -3
 Duration: 4
 
-MoraleChange: 222
+MoraleChange: 211
 Power: -3
 Duration: 4;
 
@@ -8727,6 +8951,7 @@ Area: 1
 Radius: 0
 Karma: -2
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -8759,6 +8984,7 @@ Area: 2
 Radius: 0
 Karma: -1
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -8769,8 +8995,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 208
-UnitKind: (1, 2, 4, 5)
-AntiEffect: (30, 108, 299)
+UnitKind: (-3, 21)
+AntiEffect: (110)
 
 Effects:
 Heal: 1
@@ -8790,7 +9016,7 @@ Name: Chaos Surge;
 Cost: 5
 LifeCost: 3
 StamCost: 1
-ItemLevel: 8
+ItemLevel: 2
 Level: 1
 PowerMod: 1
 DurationMod: 0
@@ -8798,7 +9024,8 @@ Target: 1
 Area: 1
 Radius: 0
 Karma: 0
-Building: 0
+Building: -24
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -8809,8 +9036,8 @@ DefencePower: 0
 RestoreOnly: 1
 Cumulative: 0
 Sound: 209
-UnitKind: (1, 2, 4, 5)
-AntiEffect: (30, 108, 299)
+UnitKind: (-3, 21)
+AntiEffect: (110)
 
 Effects:
 Stamina: 11
@@ -8835,6 +9062,7 @@ Area: 1
 Radius: 1
 Karma: -1
 Building: 0
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -8845,8 +9073,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 210
-UnitKind: (0)
-AntiEffect: (30, 108)
+UnitKind: (21)
+AntiEffect: (110)
 
 Effects:
 Damage: 1
@@ -8871,6 +9099,7 @@ Area: 1
 Radius: 2
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -8903,6 +9132,7 @@ Area: 1
 Radius: 0
 Karma: -6
 Building: 0
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -8913,8 +9143,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 213
-UnitKind: (2, 4, 5)
-AntiEffect: (135, 108)
+UnitKind: (2, 4, 5, 21, 22, 23)
+AntiEffect: (215)
 
 Effects:
 Damage: 1
@@ -8933,10 +9163,11 @@ DurationMod: 0
 Target: 4
 Area: 1
 Radius: 0
-Karma: -2
+Karma: -3
 Building: 0
+Unloot: 0
 Negative: 0
-OnEnemy: 1
+OnEnemy: 0
 OnAlly: 1
 Sacrifice: 0
 ResistPower: 0
@@ -8967,6 +9198,7 @@ Area: 1
 Radius: 0
 Karma: -3
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 1
 OnAlly: 1
@@ -8990,7 +9222,7 @@ Name: Fearlessness;
 Cost: 2
 LifeCost: 0
 StamCost: 1
-ItemLevel: 8
+ItemLevel: 1
 Level: 1
 PowerMod: 0
 DurationMod: 1
@@ -8998,7 +9230,8 @@ Target: 1
 Area: 1
 Radius: 0
 Karma: 0
-Building: 0
+Building: -21
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -9009,8 +9242,8 @@ DefencePower: 0
 RestoreOnly: 1
 Cumulative: 1
 Sound: 214
-UnitKind: (2, 4)
-AntiEffect: (30)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110)
 
 Effects:
 Attack: 2
@@ -9039,6 +9272,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -9049,8 +9283,8 @@ DefencePower: 0
 RestoreOnly: 1
 Cumulative: 0
 Sound: 215
-UnitKind: (1, 2, 3, 5)
-AntiEffect: (30, 109)
+UnitKind: (-27)
+AntiEffect: (110)
 
 Effects:
 RangedAttack: 8
@@ -9070,7 +9304,7 @@ Name: Feebleness;
 Cost: 8
 LifeCost: 0
 StamCost: 2
-ItemLevel: 8
+ItemLevel: 2
 Level: 2
 PowerMod: 100
 DurationMod: 0
@@ -9078,7 +9312,8 @@ Target: 3
 Area: 1
 Radius: 1
 Karma: 0
-Building: 0
+Building: -82
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -9089,8 +9324,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 1
 Sound: 217
-UnitKind: (2, 4)
-AntiEffect: (18, 30)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110)
 
 Effects:
 Stamina: 11
@@ -9102,7 +9337,7 @@ Name: Battle Cry;
 Cost: 10
 LifeCost: 0
 StamCost: 2
-ItemLevel: 8
+ItemLevel: 2
 Level: 2
 PowerMod: 50
 DurationMod: 0
@@ -9110,7 +9345,8 @@ Target: 0
 Area: 2
 Radius: 0
 Karma: 0
-Building: 0
+Building: -85
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -9121,8 +9357,8 @@ DefencePower: 0
 RestoreOnly: 1
 Cumulative: 1
 Sound: 218
-UnitKind: (2, 4)
-AntiEffect: (30)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110)
 
 Effects:
 Morale: 12
@@ -9147,6 +9383,7 @@ Area: 2
 Radius: 0
 Karma: -5
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -9157,8 +9394,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 219
-UnitKind: (2, 3, 4, 5)
-AntiEffect: (30, 120, 135, 299)
+UnitKind: (-1, 24)
+AntiEffect: (110, 215, 299)
 
 Effects:
 AddTurn: 75
@@ -9170,7 +9407,7 @@ Name: Burden;
 Cost: 12
 LifeCost: 0
 StamCost: 3
-ItemLevel: 8
+ItemLevel: 2
 Level: 2
 PowerMod: 0
 DurationMod: 50
@@ -9178,7 +9415,8 @@ Target: 3
 Area: 1
 Radius: 1
 Karma: 0
-Building: 0
+Building: -80
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -9190,7 +9428,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 220
 UnitKind: (0)
-AntiEffect: (30)
+AntiEffect: (110)
 
 Effects:
 Stamina: 11
@@ -9215,6 +9453,7 @@ Area: 1
 Radius: 1
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -9225,8 +9464,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 221
-UnitKind: (2, 4)
-AntiEffect: (19, 30, 100)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (19, 110, 104)
 
 Effects:
 Morale: 12
@@ -9247,6 +9486,7 @@ Area: 1
 Radius: 2
 Karma: -2
 Building: 0
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -9257,8 +9497,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 222
-UnitKind: (2, 4)
-AntiEffect: (135)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (215)
 
 Effects:
 Damage: 1
@@ -9279,6 +9519,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -9315,6 +9556,7 @@ Area: 2
 Radius: 0
 Karma: -1
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -9326,7 +9568,7 @@ RestoreOnly: 1
 Cumulative: 1
 Sound: 225
 UnitKind: (5)
-AntiEffect: (30)
+AntiEffect: (110)
 
 Effects:
 SpellPower: 905
@@ -9359,6 +9601,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -9370,7 +9613,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 226
 UnitKind: (0)
-AntiEffect: (30, 102)
+AntiEffect: (110, 102)
 
 Effects:
 Speed: 7
@@ -9395,6 +9638,7 @@ Area: 1
 Radius: 1
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -9406,7 +9650,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 227
 UnitKind: (0)
-AntiEffect: (30, 105)
+AntiEffect: (110, 103)
 
 Effects:
 Defence: 4
@@ -9435,6 +9679,7 @@ Area: 2
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -9475,6 +9720,7 @@ Area: 2
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -9507,6 +9753,7 @@ Area: 2
 Radius: 0
 Karma: -1
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -9517,8 +9764,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 230
-UnitKind: (1, 3, 4, 5)
-AntiEffect: (30, 106, 299)
+UnitKind: (-2, 18)
+AntiEffect: (110, 299)
 
 Effects:
 AddTurn: 75
@@ -9526,7 +9773,7 @@ Power: 1
 Duration: -1;
 
 /259
-Name: Nature's Weapon;
+Name: Natural Weapon;
 Cost: 8
 LifeCost: 0
 StamCost: 2
@@ -9539,6 +9786,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -9549,8 +9797,8 @@ DefencePower: 0
 RestoreOnly: 1
 Cumulative: 0
 Sound: 231
-UnitKind: (5)
-AntiEffect: (30)
+UnitKind: (-19)
+AntiEffect: (110)
 
 Effects:
 Attack: 2
@@ -9565,17 +9813,21 @@ RangedAttack: 8
 Power: 5
 Duration: 5
 
+AmmoResting: 200
+FlagEffect: 1
+FlagEffect: 1
+
 Ammo: 10
 Power: 2
 Duration: -1;
 
 /260
 Name: Enchanted Fang;
-Cost: 8
+Cost: 5
 LifeCost: 0
 StamCost: 2
 ItemLevel: 2
-Level: 2
+Level: 1
 PowerMod: 0
 DurationMod: 100
 Target: 1
@@ -9583,6 +9835,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -9593,20 +9846,20 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 232
-UnitKind: (5)
-AntiEffect: (30)
+UnitKind: (-19)
+AntiEffect: (110)
 
 Effects:
 Attack: 2
-Power: 5
+Power: 1
 Duration: 4
 
 CounterAttack: 3
-Power: 5
+Power: 1
 Duration: 4
 
 RangedAttack: 8
-Power: 5
+Power: 1
 Duration: 4
 
 MagicStrike: 27
@@ -9618,19 +9871,20 @@ Power: 1
 Duration: 4;
 
 /261
-Name: Slimy Bomb;
-Cost: 12
-LifeCost: 0
+Name: Demonic Howl;
+Cost: 2
+LifeCost: 5
 StamCost: 1
 ItemLevel: 8
 Level: 5
 PowerMod: 0
-DurationMod: 1
+DurationMod: 0
 Target: 3
 Area: 1
 Radius: 1
-Karma: -1
+Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -9641,32 +9895,12 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 233
-UnitKind: (2, 4)
-AntiEffect: (19, 120)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (19, 104)
 
 Effects:
-Attack: 2
-Power: -3
-Duration: 3
-
-CounterAttack: 3
-Power: -3
-Duration: 3
-
-RangedAttack: 8
-Power: -3
-Duration: 3
-
-Speed: 7
-Power: -1
-Duration: 3
-
-Stamina: 11
-Power: 5
-Duration: -1
-
 Morale: 12
-Power: 5
+Power: 4
 Duration: -1;
 
 /262
@@ -9681,10 +9915,11 @@ DurationMod: 0
 Target: 4
 Area: 1
 Radius: 0
-Karma: -2
+Karma: -4
 Building: 0
+Unloot: 0
 Negative: 0
-OnEnemy: 1
+OnEnemy: 0
 OnAlly: 1
 Sacrifice: 0
 ResistPower: 0
@@ -9706,7 +9941,7 @@ Name: Stone Crust;
 Cost: 11
 LifeCost: 0
 StamCost: 2
-ItemLevel: 8
+ItemLevel: 2
 Level: 2
 PowerMod: 0
 DurationMod: 50
@@ -9714,7 +9949,8 @@ Target: 1
 Area: 1
 Radius: 0
 Karma: 0
-Building: 0
+Building: -83
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -9725,8 +9961,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 234
-UnitKind: (0)
-AntiEffect: (13, 18, 30)
+UnitKind: (-1)
+AntiEffect: (110)
 
 Effects:
 Immobile: 36
@@ -9767,6 +10003,7 @@ Area: 2
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -9777,8 +10014,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 235
-UnitKind: (0)
-AntiEffect: (30)
+UnitKind: (4, 22, 23)
+AntiEffect: (110)
 
 Effects:
 Cold_Immunity: 102
@@ -9807,6 +10044,7 @@ Area: 2
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -9818,10 +10056,10 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 236
 UnitKind: (0)
-AntiEffect: (30, 105)
+AntiEffect: (110)
 
 Effects:
-Air_Immunity: 105
+Air_Immunity: 103
 Power: 1
 Duration: 2
 
@@ -9838,7 +10076,7 @@ Name: Elemental Immunity;
 Cost: 45
 LifeCost: 0
 StamCost: 5
-ItemLevel: 8
+ItemLevel: 4
 Level: 4
 PowerMod: 0
 DurationMod: 100
@@ -9846,7 +10084,8 @@ Target: 0
 Area: 2
 Radius: 0
 Karma: 0
-Building: 0
+Building: -175
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -9857,8 +10096,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 56
-UnitKind: (2, 3)
-AntiEffect: (30)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110)
 
 Effects:
 Resist: 6
@@ -9873,7 +10112,7 @@ Cold_Immunity: 102
 Power: 1
 Duration: 5
 
-Air_Immunity: 105
+Air_Immunity: 103
 Power: 1
 Duration: 5
 
@@ -9890,7 +10129,7 @@ Name: Confusion;
 Cost: 75
 LifeCost: 0
 StamCost: 5
-ItemLevel: 8
+ItemLevel: 4
 Level: 4
 PowerMod: 0
 DurationMod: 100
@@ -9898,7 +10137,8 @@ Target: 3
 Area: 1
 Radius: 1
 Karma: 0
-Building: 0
+Building: -178
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -9909,8 +10149,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 237
-UnitKind: (2, 4)
-AntiEffect: (30, 100)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110, 104)
 
 Effects:
 RangedAttack: 8
@@ -9939,6 +10179,7 @@ Area: 1
 Radius: 1
 Karma: 3
 Building: 0
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -9949,8 +10190,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 238
-UnitKind: (1, 4, 5)
-AntiEffect: (30, 106)
+UnitKind: (1, 4, 5, 18, 19)
+AntiEffect: (110)
 
 Effects:
 Damage: 1
@@ -9971,6 +10212,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -10003,6 +10245,7 @@ Area: 1
 Radius: 1
 Karma: 1
 Building: 0
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -10013,8 +10256,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 239
-UnitKind: (2, 4)
-AntiEffect: (30)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110)
 
 Effects:
 HealAlly: 72
@@ -10027,7 +10270,7 @@ Duration: -1;
 
 /271
 Name: Magic Stream;
-Cost: 16
+Cost: 10
 LifeCost: 0
 StamCost: 3
 ItemLevel: 3
@@ -10039,6 +10282,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -10049,8 +10293,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 240
-UnitKind: (2, 4)
-AntiEffect: (30)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110)
 
 Effects:
 HealAlly: 72
@@ -10075,6 +10319,7 @@ Area: 0
 Radius: 1
 Karma: 1
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -10085,12 +10330,16 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 1
 Sound: 295
-UnitKind: (2, 4)
-AntiEffect: (30)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110)
 
 Effects:
 Heal: 1
 Power: 3
+Duration: -1
+
+Antidote: 93
+Power: 1
 Duration: -1;
 
 /273
@@ -10107,6 +10356,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -10117,8 +10367,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 242
-UnitKind: (1, 2, 3, 5)
-AntiEffect: (14, 30, 100)
+UnitKind: (-27)
+AntiEffect: (0)
 
 Effects:
 Speed: 7
@@ -10139,6 +10389,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -10149,8 +10400,8 @@ DefencePower: 0
 RestoreOnly: 1
 Cumulative: 0
 Sound: 243
-UnitKind: (1, 2, 3, 5)
-AntiEffect: (14, 30, 100)
+UnitKind: (-27)
+AntiEffect: (0)
 
 Effects:
 Ammo: 10
@@ -10171,6 +10422,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -10203,6 +10455,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -10235,6 +10488,7 @@ Area: 2
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -10246,7 +10500,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 162
 UnitKind: (0)
-AntiEffect: (30, 101)
+AntiEffect: (110, 101)
 
 Effects:
 Damage: 1
@@ -10271,6 +10525,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -10281,8 +10536,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 245
-UnitKind: (2, 4)
-AntiEffect: (13, 30)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (13, 110)
 
 Effects:
 Poison: 1
@@ -10311,6 +10566,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -10321,8 +10577,8 @@ DefencePower: 0
 RestoreOnly: 1
 Cumulative: 1
 Sound: 246
-UnitKind: (2, 3, 4)
-AntiEffect: (30, 107, 192)
+UnitKind: (-16)
+AntiEffect: (110)
 
 Effects:
 Regen: 1
@@ -10333,7 +10589,7 @@ Stamina: 11
 Power: 2
 Duration: 3
 
-Smite_Evil: 61
+Smite_Evil: 120
 Power: 1
 Duration: 3
 
@@ -10355,6 +10611,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -10387,6 +10644,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -10419,6 +10677,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -10442,7 +10701,7 @@ Name: Soul Trap;
 Cost: 5
 LifeCost: 0
 StamCost: 1
-ItemLevel: 8
+ItemLevel: 1
 Level: 1
 PowerMod: 100
 DurationMod: 0
@@ -10450,7 +10709,8 @@ Target: 4
 Area: 1
 Radius: 0
 Karma: -1
-Building: 0
+Building: -22
+Unloot: 1
 Negative: 0
 OnEnemy: 1
 OnAlly: 1
@@ -10483,6 +10743,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -10493,8 +10754,8 @@ DefencePower: 0
 RestoreOnly: 1
 Cumulative: 1
 Sound: 249
-UnitKind: (2, 4)
-AntiEffect: (30)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110)
 
 Effects:
 Heal: 1
@@ -10514,7 +10775,7 @@ Name: Summon Mephit;
 Cost: 5
 LifeCost: 0
 StamCost: 1
-ItemLevel: 8
+ItemLevel: 1
 Level: 1
 PowerMod: 100
 DurationMod: 0
@@ -10522,7 +10783,8 @@ Target: 5
 Area: 1
 Radius: 0
 Karma: 0
-Building: 0
+Building: -20
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -10555,6 +10817,7 @@ Area: 1
 Radius: 0
 Karma: 4
 Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -10565,7 +10828,7 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 58
-UnitKind: (2, 4)
+UnitKind: (2, 4, 22, 23)
 AntiEffect: (0)
 
 Effects:
@@ -10587,6 +10850,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -10597,7 +10861,7 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 251
-UnitKind: (2, 4, 5)
+UnitKind: (-17)
 AntiEffect: (0)
 
 Effects:
@@ -10631,6 +10895,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -10642,7 +10907,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 252
 UnitKind: (0)
-AntiEffect: (30, 121)
+AntiEffect: (110, 80)
 
 Effects:
 Defence: 4
@@ -10653,7 +10918,7 @@ RangedDefence: 5
 Power: 10
 Duration: 4
 
-NoRangedAttack: 146
+NoRangedAttack: 151
 Power: 1
 Duration: 4
 
@@ -10661,11 +10926,11 @@ NoCast: 150
 Power: 1
 Duration: 4
 
-Resist: 223
+Resist: 212
 Power: -50
 Duration: 3
 
-Bodyless: 121
+Bodyless: 80
 Power: 1
 Duration: 4;
 
@@ -10683,6 +10948,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -10693,8 +10959,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 253
-UnitKind: (2, 4)
-AntiEffect: (19, 100)
+UnitKind: (0)
+AntiEffect: (19)
 
 Effects:
 Morale: 12
@@ -10715,6 +10981,7 @@ Area: 1
 Radius: 0
 Karma: -2
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -10725,8 +10992,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 254
-UnitKind: (2, 4)
-AntiEffect: (30)
+UnitKind: (2, 4, 17, 22, 23)
+AntiEffect: (110)
 
 Effects:
 Poison: 1
@@ -10751,6 +11018,7 @@ Area: 1
 Radius: 0
 Karma: -3
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -10761,8 +11029,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 255
-UnitKind: (2, 4)
-AntiEffect: (42)
+UnitKind: (2, 4, 17, 22, 23)
+AntiEffect: (108)
 
 Effects:
 Poison: 1
@@ -10787,6 +11055,7 @@ Area: 1
 Radius: 1
 Karma: -3
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -10797,7 +11066,7 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 256
-UnitKind: (2, 4)
+UnitKind: (2, 4, 17, 22, 23)
 AntiEffect: (0)
 
 Effects:
@@ -10823,6 +11092,7 @@ Area: 1
 Radius: 2
 Karma: -5
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -10833,7 +11103,7 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 257
-UnitKind: (2, 4)
+UnitKind: (2, 4, 17, 22, 23)
 AntiEffect: (0)
 
 Effects:
@@ -10859,6 +11129,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -10895,6 +11166,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -10927,6 +11199,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -10959,6 +11232,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -10991,6 +11265,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -11023,6 +11298,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 1
 OnEnemy: 0
 OnAlly: 1
@@ -11033,8 +11309,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 258
-UnitKind: (2, 4, 5)
-AntiEffect: (30, 107, 120, 299)
+UnitKind: (-1, -6)
+AntiEffect: (110)
 
 Effects:
 AddTurn: 75
@@ -11054,7 +11330,7 @@ Name: Shock;
 Cost: 2
 LifeCost: 0
 StamCost: 1
-ItemLevel: 8
+ItemLevel: 1
 Level: 1
 PowerMod: 150
 DurationMod: 0
@@ -11062,7 +11338,8 @@ Target: 1
 Area: 1
 Radius: 0
 Karma: 1
-Building: 0
+Building: -33
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -11073,8 +11350,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 260
-UnitKind: (1, 3, 4, 5)
-AntiEffect: (30, 106)
+UnitKind: (-2, 18)
+AntiEffect: (110)
 
 Effects:
 Damage: 1
@@ -11095,6 +11372,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -11105,8 +11383,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 261
-UnitKind: (2, 3, 4)
-AntiEffect: (30, 107)
+UnitKind: (-1, 19)
+AntiEffect: (110)
 
 Effects:
 Attack: 2
@@ -11117,11 +11395,11 @@ CounterAttack: 3
 Power: -100
 Duration: 4
 
-NoRangedAttack: 146
+NoRangedAttack: 151
 Power: 1
 Duration: 4
 
-Smite_Evil: 61
+Smite_Evil: 120
 Power: 10
 Duration: 4;
 
@@ -11139,6 +11417,7 @@ Area: 1
 Radius: 2
 Karma: -3
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -11149,8 +11428,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 262
-UnitKind: (2, 4)
-AntiEffect: (42)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (108)
 
 Effects:
 Poison: 1
@@ -11171,6 +11450,7 @@ Area: 1
 Radius: 0
 Karma: -1
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -11203,6 +11483,7 @@ Area: 1
 Radius: 0
 Karma: -1
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -11235,6 +11516,7 @@ Area: 1
 Radius: 0
 Karma: -2
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -11267,6 +11549,7 @@ Area: 1
 Radius: 0
 Karma: -2
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -11299,6 +11582,7 @@ Area: 1
 Radius: 0
 Karma: -2
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -11331,6 +11615,7 @@ Area: 1
 Radius: 0
 Karma: -2
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -11363,6 +11648,7 @@ Area: 1
 Radius: 0
 Karma: -2
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -11395,6 +11681,7 @@ Area: 1
 Radius: 0
 Karma: -3
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -11406,7 +11693,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 19
 UnitKind: (0)
-AntiEffect: (135)
+AntiEffect: (0)
 
 Effects:
 Summon: 1056
@@ -11427,6 +11714,7 @@ Area: 1
 Radius: 0
 Karma: -2
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -11459,6 +11747,7 @@ Area: 1
 Radius: 0
 Karma: -7
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -11470,7 +11759,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 19
 UnitKind: (0)
-AntiEffect: (135)
+AntiEffect: (0)
 
 Effects:
 Summon: 1065
@@ -11491,6 +11780,7 @@ Area: 0
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -11509,7 +11799,7 @@ Poison_Strike: 41
 Power: 3
 Duration: 3
 
-Poison_Shot: 78
+Poison_Shot: 42
 Power: 3
 Duration: 3
 
@@ -11531,6 +11821,7 @@ Area: 0
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -11541,8 +11832,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 264
-UnitKind: (1, 3, 4, 5)
-AntiEffect: (121)
+UnitKind: (-2)
+AntiEffect: (80)
 
 Effects:
 Attack: 2
@@ -11565,7 +11856,7 @@ Speed: 7
 Power: 1
 Duration: 4
 
-Bodyless: 121
+Bodyless: 80
 Power: 1
 Duration: 4
 
@@ -11578,7 +11869,7 @@ Name: Eternal Light;
 Cost: 9
 LifeCost: 0
 StamCost: 2
-ItemLevel: 8
+ItemLevel: 2
 Level: 2
 PowerMod: 0
 DurationMod: 100
@@ -11586,7 +11877,8 @@ Target: 0
 Area: 2
 Radius: 0
 Karma: 1
-Building: 0
+Building: -60
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -11597,8 +11889,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 265
-UnitKind: (1, 3, 4, 5)
-AntiEffect: (30)
+UnitKind: (-2)
+AntiEffect: (110)
 
 Effects:
 Attack: 2
@@ -11631,39 +11923,36 @@ Duration: 6;
 
 /316
 Name: Heaven's Rage;
-Cost: 12
+Cost: 16
 LifeCost: 0
-StamCost: 2
-ItemLevel: 8
+StamCost: 3
+ItemLevel: 3
 Level: 3
-PowerMod: 0
-DurationMod: 100
-Target: 3
-Area: 1
-Radius: 2
-Karma: 2
-Building: 0
+PowerMod: 50
+DurationMod: 0
+Target: 0
+Area: 2
+Radius: 0
+Karma: 3
+Building: -135
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
 Sacrifice: 0
 ResistPower: 0
-ResistDuration: 50
+ResistDuration: 0
 DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 266
-UnitKind: (1, 3, 4, 5)
-AntiEffect: (30, 106)
+UnitKind: (0)
+AntiEffect: (110)
 
 Effects:
-Damage: 1
-Power: -5
-Duration: 5
-
-Damage: 1
-Power: 7
-Duration: -1;
+UndeadDamage: 230
+Power: 5
+Duration: 316;
 
 /317
 Name: Scorn;
@@ -11679,6 +11968,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -11689,8 +11979,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 267
-UnitKind: (2, 4)
-AntiEffect: (107)
+UnitKind: (2, 4, 19, 22, 23)
+AntiEffect: (0)
 
 Effects:
 Attack: 2
@@ -11723,6 +12013,7 @@ Area: 2
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -11733,8 +12024,8 @@ DefencePower: 0
 RestoreOnly: 1
 Cumulative: 0
 Sound: 268
-UnitKind: (2, 4)
-AntiEffect: (107)
+UnitKind: (2, 3, 4, 19, 22)
+AntiEffect: (0)
 
 Effects:
 Stamina: 11
@@ -11759,6 +12050,7 @@ Area: 0
 Radius: 1
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -11769,8 +12061,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 269
-UnitKind: (2)
-AntiEffect: (30, 107, 121)
+UnitKind: (19, 22, 27)
+AntiEffect: (110, 80)
 
 Effects:
 Defence: 4
@@ -11799,6 +12091,7 @@ Area: 0
 Radius: 1
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -11809,8 +12102,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 270
-UnitKind: (2)
-AntiEffect: (30, 107, 121)
+UnitKind: (19, 22)
+AntiEffect: (110, 80)
 
 Effects:
 Attack: 2
@@ -11839,6 +12132,7 @@ Area: 0
 Radius: 1
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -11849,8 +12143,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 271
-UnitKind: (2)
-AntiEffect: (30, 107, 121)
+UnitKind: (19, 22)
+AntiEffect: (110, 80)
 
 Effects:
 Resist: 6
@@ -11871,6 +12165,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -11882,7 +12177,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 49
 UnitKind: (0)
-AntiEffect: (121)
+AntiEffect: (80)
 
 Effects:
 Poison: 1
@@ -11911,17 +12206,18 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
 Sacrifice: 0
 ResistPower: 0
-ResistDuration: 20
+ResistDuration: 25
 DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 273
-UnitKind: (2, 4)
+UnitKind: (2, 4, 22, 23)
 AntiEffect: (0)
 
 Effects:
@@ -11947,6 +12243,7 @@ Area: 1
 Radius: 1
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 1
 OnAlly: 1
@@ -11957,8 +12254,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 212
-UnitKind: (1, 3, 4, 5)
-AntiEffect: (30, 106)
+UnitKind: (-2, 18)
+AntiEffect: (110)
 
 Effects:
 Heal: 1
@@ -11979,6 +12276,7 @@ Area: 2
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -11989,8 +12287,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 274
-UnitKind: (1, 2, 3, 4, 5)
-AntiEffect: (30)
+UnitKind: (-2)
+AntiEffect: (110)
 
 Effects:
 Attack: 2
@@ -12002,15 +12300,15 @@ Power: 2
 Duration: 4
 
 Defence: 4
-Power: 3
+Power: 1
 Duration: 4
 
 RangedDefence: 5
-Power: 3
+Power: 1
 Duration: 4
 
 Resist: 6
-Power: 4
+Power: 1
 Duration: 4;
 
 /326
@@ -12027,6 +12325,7 @@ Area: 2
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -12037,7 +12336,7 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 1
 Sound: 275
-UnitKind: (2, 3, 4)
+UnitKind: (-16)
 AntiEffect: (0)
 
 Effects:
@@ -12059,6 +12358,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -12069,8 +12369,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 276
-UnitKind: (2, 4)
-AntiEffect: (30, 100, 107, 192)
+UnitKind: (2, 4, 5, 19, 22)
+AntiEffect: (110, 104)
 
 Effects:
 Stamina: 11
@@ -12115,6 +12415,7 @@ Area: 2
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -12125,8 +12426,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 1
 Sound: 277
-UnitKind: (2, 3, 4)
-AntiEffect: (30)
+UnitKind: (-16)
+AntiEffect: (110)
 
 Effects:
 Regen: 1
@@ -12137,7 +12438,7 @@ Stamina: 11
 Power: 2
 Duration: 3
 
-Smite_Evil: 61
+Smite_Evil: 120
 Power: 1
 Duration: 3;
 
@@ -12155,6 +12456,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -12165,8 +12467,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 278
-UnitKind: (2, 3, 4, 5)
-AntiEffect: (30, 299)
+UnitKind: (-16)
+AntiEffect: (110)
 
 Effects:
 Stamina: 11
@@ -12207,6 +12509,7 @@ Area: 2
 Radius: 0
 Karma: 1
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -12217,7 +12520,7 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 279
-UnitKind: (1, 2, 3, 4, 5)
+UnitKind: (-16)
 AntiEffect: (0)
 
 Effects:
@@ -12229,7 +12532,7 @@ Painless: 13
 Power: 1
 Duration: 2
 
-Smite_Evil: 61
+Smite_Evil: 120
 Power: 4
 Duration: 2;
 
@@ -12247,6 +12550,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -12279,6 +12583,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -12311,6 +12616,7 @@ Area: 2
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -12321,8 +12627,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 280
-UnitKind: (2, 4)
-AntiEffect: (30, 100, 107, 192)
+UnitKind: (2, 4, 19, 22)
+AntiEffect: (110, 104)
 
 Effects:
 Stamina: 11
@@ -12367,6 +12673,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -12378,7 +12685,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 281
 UnitKind: (0)
-AntiEffect: (30, 201)
+AntiEffect: (110, 105)
 
 Effects:
 Web: 47
@@ -12399,6 +12706,7 @@ Area: 0
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -12451,6 +12759,7 @@ Area: 0
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -12477,27 +12786,27 @@ PierceResist: 196
 Power: 50
 Duration: 3
 
-AstralShoot: 213
+AstralShoot: 135
 Power: 3
 Duration: 3
 
-Bodyless: 121
+Bodyless: 80
 Power: 1
 Duration: 3
 
-Bloodlust: 211
+Bloodlust: 197
 Power: 2
 Duration: 3
 
-Resist: 223
+Resist: 212
 Power: -50
 Duration: 3
 
-MoraleChange: 222
+MoraleChange: 211
 Power: -2
 Duration: 3
 
-NoHeal: 147
+NoHeal: 152
 Power: 1
 Duration: 3
 
@@ -12505,12 +12814,12 @@ SpellDuration: 906
 Power: -1
 Duration: 3
 
-SpellVulnerable: 205
+SpellSent: 115
 Power: 198
 Duration: 3;
 
 /337
-Name: Alvari Rage;
+Name: Drow Rage;
 Cost: 6
 LifeCost: 0
 StamCost: 2
@@ -12523,6 +12832,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -12533,8 +12843,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 284
-UnitKind: (0)
-AntiEffect: (30)
+UnitKind: (-14)
+AntiEffect: (110)
 
 Effects:
 Attack: 2
@@ -12549,7 +12859,7 @@ RangedAttack: 8
 Power: 2
 Duration: 3
 
-BloodLust: 211
+BloodLust: 197
 Power: 2
 Duration: 3;
 
@@ -12567,6 +12877,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -12578,14 +12889,14 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 285
 UnitKind: (0)
-AntiEffect: (30)
+AntiEffect: (110)
 
 Effects:
-Resist: 223
+Resist: 212
 Power: 50
 Duration: 3
 
-MoraleChange: 222
+MoraleChange: 211
 Power: 2
 Duration: 3;
 
@@ -12603,6 +12914,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -12613,8 +12925,8 @@ DefencePower: 0
 RestoreOnly: 1
 Cumulative: 1
 Sound: 286
-UnitKind: (0)
-AntiEffect: (30, 107, 192)
+UnitKind: (19)
+AntiEffect: (110)
 
 Effects:
 SpellPower: 905
@@ -12643,6 +12955,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -12675,6 +12988,7 @@ Area: 1
 Radius: 1
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -12685,8 +12999,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 287
-UnitKind: (1, 2, 3, 4, 5)
-AntiEffect: (30, 299)
+UnitKind: (-5, 5)
+AntiEffect: (110)
 
 Effects:
 Speed: 7
@@ -12715,6 +13029,7 @@ Area: 0
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -12741,7 +13056,7 @@ Swamper: 34
 Power: 8
 Duration: 4
 
-MightyShoot: 157
+MightyShoot: 79
 Power: 3
 Duration: 4
 
@@ -12753,15 +13068,15 @@ Stamina: 11
 Power: 2
 Duration: 4
 
-InjureShot: 197
+InjureShot: 128
 Power: 3
 Duration: 4
 
-Bodyless: 121
+Bodyless: 80
 Power: 1
 Duration: 4
 
-Bloodlust: 211
+Bloodlust: 197
 Power: 2
 Duration: 4
 
@@ -12769,17 +13084,17 @@ ShootingRange: 9
 Power: -2
 Duration: 4
 
-Resist: 223
+Resist: 212
 Power: -50
 Duration: 4
 
-MoraleChange: 222
+MoraleChange: 211
 Power: -2
 Duration: 4
 
-SpellVulnerable: 205
+SpellSent: 115
 Power: 198
-Duration: 4;
+Duration: 3;
 
 /343
 Name: Trembling Shadow;
@@ -12795,6 +13110,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -12806,7 +13122,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 288
 UnitKind: (2)
-AntiEffect: (30)
+AntiEffect: (110)
 
 Effects:
 ShootingAttack: 8
@@ -12831,6 +13147,7 @@ Area: 0
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -12861,15 +13178,15 @@ PierceResist: 196
 Power: 1
 Duration: 3
 
-Bodyless: 121
+Bodyless: 80
 Power: 1
 Duration: 3
 
-Bloodlust: 211
+Bloodlust: 197
 Power: 2
 Duration: 3
 
-Preparation: 214
+Preparation: 126
 Power: -1
 Duration: 3
 
@@ -12877,19 +13194,19 @@ First_strike: 16
 Power: -1
 Duration: 3
 
-Resist: 223
+Resist: 212
 Power: -50
 Duration: 3
 
-MoraleChange: 222
+MoraleChange: 211
 Power: -3
 Duration: 3
 
-NoRangedAttack: 146
+NoRangedAttack: 151
 Power: 1
 Duration: 3
 
-SpellVulnerable: 205
+SpellSent: 115
 Power: 198
 Duration: 3;
 
@@ -12907,6 +13224,7 @@ Area: 0
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -12937,15 +13255,15 @@ ShootingRange: 9
 Power: 1
 Duration: 3
 
-AstralShoot: 213
+AstralShoot: 135
 Power: 3
 Duration: 3
 
-Bodyless: 121
+Bodyless: 80
 Power: 1
 Duration: 3
 
-Bloodlust: 211
+Bloodlust: 197
 Power: 2
 Duration: 3
 
@@ -12953,15 +13271,15 @@ NoCast: 150
 Power: 1
 Duration: 3
 
-Resist: 223
+Resist: 212
 Power: -50
 Duration: 3
 
-MoraleChange: 222
+MoraleChange: 211
 Power: -2
 Duration: 3
 
-SpellVulnerable: 205
+SpellSent: 115
 Power: 198
 Duration: 3;
 
@@ -12979,6 +13297,7 @@ Area: 2
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -12989,8 +13308,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 289
-UnitKind: (2, 4)
-AntiEffect: (30)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110)
 
 Effects:
 ShootingAttack: 8
@@ -13015,6 +13334,7 @@ Area: 0
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -13045,19 +13365,19 @@ RestoreAmmo: 184
 Power: 1
 Duration: 3
 
-Bodyless: 121
+Bodyless: 80
 Power: 1
 Duration: 3
 
-NoRangedAttack: 146
+NoRangedAttack: 151
 Power: 1
 Duration: 3
 
-Resist: 223
+Resist: 212
 Power: -50
 Duration: 3
 
-SpellVulnerable: 205
+SpellSent: 115
 Power: 198
 Duration: 3;
 
@@ -13075,6 +13395,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -13085,11 +13406,11 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 290
-UnitKind: (0)
-AntiEffect: (30)
+UnitKind: (4, 23)
+AntiEffect: (110)
 
 Effects:
-Resist: 223
+Resist: 212
 Power: -50
 Duration: 4;
 
@@ -13107,6 +13428,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -13117,8 +13439,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 1
 Sound: 291
-UnitKind: (2, 4)
-AntiEffect: (30)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110)
 
 Effects:
 Life: 1
@@ -13129,7 +13451,7 @@ Stamina: 11
 Power: -2
 Duration: 3
 
-Morale: 222
+Morale: 211
 Power: -2
 Duration: 3;
 
@@ -13147,6 +13469,7 @@ Area: 1
 Radius: 1
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -13157,8 +13480,8 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 1
 Sound: 292
-UnitKind: (2, 4)
-AntiEffect: (30)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110)
 
 Effects:
 Life: 1
@@ -13169,7 +13492,7 @@ Stamina: 11
 Power: -2
 Duration: 3
 
-Morale: 222
+Morale: 211
 Power: -2
 Duration: 3;
 
@@ -13187,6 +13510,7 @@ Area: 1
 Radius: 2
 Karma: 0
 Building: 0
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -13223,6 +13547,7 @@ Area: 0
 Radius: 1
 Karma: -1
 Building: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -13234,7 +13559,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 272
 UnitKind: (3)
-AntiEffect: (30)
+AntiEffect: (110)
 
 Effects:
 Damage: 1
@@ -13259,6 +13584,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -13269,8 +13595,8 @@ DefencePower: 0
 RestoreOnly: 1
 Cumulative: 0
 Sound: 282
-UnitKind: (0)
-AntiEffect: (30, 107, 192)
+UnitKind: (19)
+AntiEffect: (110)
 
 Effects:
 Ammo: 10
@@ -13291,6 +13617,360 @@ Area: 1
 Radius: 0
 Karma: -1
 Building: 0
+Unloot: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1205
+Power: 0
+Duration: -1;
+
+/355
+Name: Healing Circle;
+Cost: 6
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 0
+Area: 0
+Radius: 1
+Karma: 2
+Building: 0
+Unloot: 1
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 1
+Sound: 295
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110)
+
+Effects:
+Heal: 1
+Power: 6
+Duration: -1
+
+Antidote: 93
+Power: 2
+Duration: -1;
+
+/356
+Name: Infernal Howl;
+Cost: 2
+LifeCost: 10
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 0
+Target: 0
+Area: 2
+Radius: 0
+Karma: 0
+Building: 0
+Unloot: 1
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 296
+UnitKind: (0)
+AntiEffect: (19, 104)
+
+Effects:
+Morale: 12
+Power: 4
+Duration: -1;
+
+/357
+Name: Scourge of Chaos;
+Cost: 3
+LifeCost: 0
+StamCost: 2
+ItemLevel: 2
+Level: 1
+PowerMod: 0
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: -266
+Unloot: 1
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 209
+UnitKind: (2, 4, 5, 19, 21, 22, 23)
+AntiEffect: (110)
+
+Effects:
+Damage: 1
+Power: 8
+Duration: -1
+
+AddTurn: 75
+Power: 1
+Duration: -1;
+
+/358
+Name: Legacy of Chaos;
+Cost: 5
+LifeCost: 0
+StamCost: 1
+ItemLevel: 1
+Level: 1
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: -266
+Unloot: 1
+Negative: 1
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 1
+Cumulative: 0
+Sound: 297
+UnitKind: (2, 4, 5, 19, 22, 23)
+AntiEffect: (110)
+
+Effects:
+Damage: 1
+Power: -999
+Duration: 2
+
+Attack: 2
+Power: 8
+Duration: 2
+
+Speed: 7
+Power: 1
+Duration: 2
+
+SummonPower: 907
+Power: 5
+Duration: 2
+
+Damage: 1
+Power: 4
+Duration: -1;
+
+/359
+Name: Primal Rage;
+Cost: 4
+LifeCost: 0
+StamCost: 2
+ItemLevel: 2
+Level: 2
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: -284
+Unloot: 1
+Negative: 0
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 100
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 298
+UnitKind: (2, 4, 22)
+AntiEffect: (110)
+
+Effects:
+BloodyRage: 122
+Power: 1
+Duration: 4
+
+CounterAttack: 3
+Power: -100
+Duration: 4;
+
+/360
+Name: Temptation of Chaos;
+Cost: 4
+LifeCost: 4
+StamCost: 4
+ItemLevel: 3
+Level: 2
+PowerMod: 50
+DurationMod: 0
+Target: 3
+Area: 1
+Radius: 1
+Karma: -1
+Building: -284
+Unloot: 1
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 50
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 299
+UnitKind: (2, 4, 22)
+AntiEffect: (110)
+
+Effects:
+StealSoul: 57
+Power: 5
+Duration: 4
+
+Damage: 1
+Power: 5
+Duration: -1;
+
+/361
+Name: Banner of Chaos;
+Cost: 12
+LifeCost: 0
+StamCost: 2
+ItemLevel: 3
+Level: 3
+PowerMod: 0
+DurationMod: 50
+Target: 0
+Area: 2
+Radius: 0
+Karma: -3
+Building: -285
+Unloot: 1
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 1
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 300
+UnitKind: (2, 4, 22)
+AntiEffect: (110)
+
+Effects:
+Attack: 2
+Power: 6
+Duration: 2
+
+CounterAttack: 3
+Power: -6
+Duration: 2
+
+BloodyRage: 122
+Power: 1
+Duration: 2;
+
+/362
+Name: Distress;
+Cost: 3
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: -1
+Building: 0
+Unloot: 1
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 100
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 29
+UnitKind: (2, 4, 17, 22, 23)
+AntiEffect: (110)
+
+Effects:
+Poison: 1
+Power: -1
+Duration: 6
+
+Stamina: 11
+Power: -1
+Duration: 6
+
+Attack: 2
+Power: -1
+Duration: 6
+
+CounterAttack: 3
+Power: -1
+Duration: 6
+
+RangedAttack: 8
+Power: -1
+Duration: 6;
+
+/363
+Name: Earth Totem;
+Cost: 5
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -13309,20 +13989,120 @@ Summon: 1283
 Power: 0
 Duration: -1;
 
-/355
-Name: Healing Circle;
-Cost: 6
-LifeCost: 0
-StamCost: 2
+/364
+Name: Rage Totem;
+Cost: 5
+LifeCost: 2
+StamCost: 3
 ItemLevel: 8
 Level: 5
 PowerMod: 100
 DurationMod: 0
-Target: 0
-Area: 0
-Radius: 1
-Karma: 2
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
 Building: 0
+Unloot: 1
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1284
+Power: 0
+Duration: -1;
+
+/365
+Name: Fire Totem;
+Cost: 5
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Unloot: 1
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1285
+Power: 0
+Duration: -1;
+
+/366
+Name: Blood Totem;
+Cost: 5
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Unloot: 1
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1286
+Power: 0
+Duration: -1;
+
+/367
+Name: Soothe Spirits;
+Cost: 2
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 1
+Building: 0
+Unloot: 1
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -13332,15 +14112,89 @@ ResistDuration: 0
 DefencePower: 0
 RestoreOnly: 0
 Cumulative: 1
-Sound: 295
-UnitKind: (2, 4)
-AntiEffect: (30)
+Sound: 301
+UnitKind: (-22)
+AntiEffect: (110)
 
 Effects:
 Heal: 1
 Power: 6
-Duration: -1
+Duration: -1;
 
-Antidote: 93
+/368
+Name: Elemental Strength;
+Cost: 2
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 1
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 1
+Building: 0
+Unloot: 1
+Negative: 1
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 1
+Sound: 302
+UnitKind: (-22)
+AntiEffect: (110)
+
+Effects:
+SummonPower: 907
+Power: 3
+Duration: 6
+
+SpellPower: 905
 Power: 1
+Duration: 6
+
+SpellDuration: 906
+Power: 1
+Duration: 6
+
+Damage: 1
+Power: 3
+Duration: -1;
+
+/369
+Name: Summon Fire Elemental;
+Cost: 35
+LifeCost: 50
+StamCost: 4
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Unloot: 1
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1155
+Power: 0
 Duration: -1;

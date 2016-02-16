@@ -101,8 +101,8 @@ ShootingRange: 0
 
 /11
 Name: Debris;
-MoveCost: 1
-StamCost: 0
+MoveCost: 2
+StamCost: 1
 CounterAttack: 0
 Defence: 0
 RangedDefence: 0

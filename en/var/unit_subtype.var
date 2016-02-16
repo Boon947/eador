@@ -1,0 +1,88 @@
+Quantity: 28
+
+/0
+Name: Empty;
+
+/1
+Name: Mortal;
+
+/2
+Name: Undead;
+
+/3
+Name: Demon;
+
+/4
+Name: Mechanical;
+
+/5
+Name: Hero;
+
+/6
+Name: Human;
+
+/7
+Name: Elf;
+
+/8
+Name: Dwarf;
+
+/9
+Name: Goblin;
+
+/10
+Name: Orc;
+
+/11
+Name: Halfling;
+
+/12
+Name: Centaur;
+
+/13
+Name: Lizardman;
+
+/14
+Name: Drow;
+
+/15
+Name: Gnoll;
+
+/16
+Name: Alkaryl;
+
+/17
+Name: Ratman;
+
+/18
+Name: Servant of Death;
+
+/19
+Name: Animal;
+
+/20
+Name: Unused;
+
+/21
+Name: Lord of Chaos;
+
+/22
+Name: Elemental Spirit;
+
+/23
+Name: Golem;
+
+/24
+Name: Giant;
+
+/25
+Name: Skeleton;
+
+/26
+Name: Cultist;
+
+/27
+Name: Artillery;
+
+/28
+Name: Natural Weapon;

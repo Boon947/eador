@@ -35,7 +35,7 @@
 #A Scout who has mastered the secrets of conjuring becomes a Ranger, able to explore provinces faster and sabotage enemies more efficiently. A Ranger can enchant his arrows to deliver additional damage.#
 
 /13 Warlord
-#A Commander who has mastered the art of fighting becomes a Warlord, able to efficiently increase the defense of his units. A Commander's troops slowly regenerate their health during battles.#
+#A Commander who has mastered the art of fighting becomes a Warlord, able to efficiently increase the defense of his units. A Commander's troops slowly recover health in battle.#
 
 /14 Tactician
 #A Commander who has mastered scouting skills becomes a Tactician, able to increase the ranged attack of his units.#
@@ -56,7 +56,7 @@
 #A Wizard who has mastered the basics of command becomes a Necromancer able to raise more powerful undead. The undead that stay with the Necromancer's army are stronger than the skill usually allows.#
 
 /20 Mage
-#Having completed the path of the Wizard, the hero becomes a Mage, gaining an increase to the power of his spells. The mage is able two cast two simple spells or one complex spell each turn.#
+#Having completed the path of the Wizard, the hero becomes a Mage, able to cast two simple spells each turn.#
 
 /21 Paladin
 #After perfecting his mastery of the path of the Holy Knight, the hero becomes a Paladin, the terror of dark forces and a master of healing wounds. A Paladin's combat prowess allows him to always strike first.#
@@ -101,7 +101,7 @@
 #Having reached the highest skills on the path of the Druid, the hero becomes an Archdruid, whose spells are not easily dispelled and his strikes or shots entangle the enemy. The Archdruid gets an additional slot for a Circle III spell.#
 
 /35 Master Necromancer
-#Having mastered the art of the Necromancer, the hero becomes a Master Necromancer, who can raise really powerful undead.#
+#Having mastered the art of the Necromancer, the hero becomes a Master Necromancer, commander of truly powerful undead.#
 
 /36 Archmage
-#Having perfected the art of the Mage, the hero becomes an Archmage, able to cast two complex spells each turn. The Archmage's spells are extremely powerful.#
+#Having perfected the art of the Mage, the hero becomes an Archmage, able to cast two complex spells each turn.#

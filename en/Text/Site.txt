@@ -239,12 +239,16 @@ The locals are not too happy about such neighbors - there is not much difference
 Population mood -1.#
 
 77. Casino
-#In this gaming establishment you may win money or gems. However, you can blow up all your money acquired through the hard work. And there is a currency exchange - gems for money (and vice versa). Income +5. Gem income +1.#
+#In this gaming establishment you may win money or gems. However, you can blow up all your money acquired through the hard work. And there is a currency exchange - gems for money (and vice versa).
+Income +5.
+Gem income +1.#
 
 78. Gambling House
-#In this gaming establishment you can win valuable items, putting gold with crystals into game. Income +10. Gem income +2.#
+#In this gaming establishment you can win valuable items, putting gold with crystals into game.
+Income +10.
+Gem income +2.#
 
-79. Alvari Citadel
+79. Drow Citadel
 #You can hire an army of dark elves here.#
 
 80. Dark Elven Citadel
@@ -387,8 +391,8 @@ Decreases population growth.#
 #A place where once upon a time sacrifices were made, the Altar of Chaos is now heavily guarded, for there are valuable things to be found.
 Population growth -1.#
 
-124. Alvari Town
-#This is the place the  dark elves call home. The Alvari will not allow anyone to plunder their home and they're ever vigilant and ready to defend it.#
+124. Drow Town
+#This is the place the  dark elves call home. The Drow will not allow anyone to plunder their home and they're ever vigilant and ready to defend it.#
 
 125. Idol
 #Some deity is worshiped here, and not the benevolent kind - regular sacrifices can be observed, from a safe distance of course.
@@ -444,4 +448,7 @@ Decreases population growth.#
 Population mood -1.#
 
 141. Ancient Crypt
-#Goblins that were robbed by the Alvari are hiding in this crypt. Beholder eggs are likely to be found here.#
+#The goblins who robbed the Drow are hiding here. Beholder eggs are likely to be found here.#
+
+142. Wolf Thicket
+#No description#

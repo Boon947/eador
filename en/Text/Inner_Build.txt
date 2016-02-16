@@ -179,7 +179,8 @@ Reduces the upkeep of garrison units by 10~.#
 
 43. Sages Guild
 #Allows building a Library in provinces.
-Allows the recruitment of Adepts, if you have the proper scroll.#
+Allows the recruitment of Adepts, if you have the proper scroll.
+Allows turning first circle spellbook spells back into scrolls.#
 
 44. Theater
 #Improves population mood in the capital by 1. Improves population mood in provinces with a Pub, a Tavern, or an Inn by 1.#
@@ -193,7 +194,7 @@ Provides 2 contracts with the Adventurers guard.#
 #Reduces the cost of new units by 10~. Allows the recruitment of Assault-Rats, if you have the proper scroll.#
 
 47. Brewery
-#Income +10. Improves population mood in the capital by 1. Increases morale of the stronghold's garrison by 2.#
+#Income +10. Improves population mood in the capital by 1. Increases morale of the stronghold's garrison by 2. Improves population mood in provinces with a Tavern or an Inn by 1.#
 
 48. Practice Halls
 #Increases recruits' experience by 30. Allows hiring the Recruits guard. Allows the recruitment of Shadow Claws, if you have the proper scroll.#
@@ -246,10 +247,10 @@ Allows the hero to purchase the spell scrolls Eternal Light.#
 #Allows hiring the Hunters guard. Reduces the fee of garrison units by 10~.#
 
 64. Bandit Lair
-#Income +5. Lowers the population mood in the capital by 1. Allows hiring the Cutthroats guard.#
+#Income +10. Lowers the population mood in the capital by 1. Allows hiring the Cutthroats guard.#
 
 65. Thieves Guild
-#Opponents' income -5. Lowers the population mood in the capital by 1. Allows hiring the Gang of Thieves guard.#
+#Opponents' income -10. Allows hiring the Gang of Thieves guard.#
 
 66. Lookout Tower
 #Increases the attack of the stronghold's towers by 2. Allows hiring the Guards guard.#
@@ -411,14 +412,14 @@ The castle cannot have more than 4 buildings of this type.#
 98. Chamber of Commerce
 #Income +20.  Reduces the cost of buying resources by 10~. Allows upgrading a Tavern in provinces to an Inn.#
 
-99. Treasury
-#Income +2~ of gold already available. Reduces gold losses when under plunder by 30~.#
+99. Finance House
+#Income +3~ of gold already available.#
 
 100. War School
 #Increases recruits' experience by 40. Allows hiring the Men of War guard.#
 
 101. Craftsmen Guild
-#Reduces the cost of new units by 10~. Reduces the cost of construction in the castle by 10~. Allows the recruitment of Gnoll siege engines and Ratman Rippers through contract scrolls.#
+#Reduces the cost of new units by 10~. Reduces the cost of construction in the castle by 10~. Allows recruiting Ratmen Rippers from contract scrolls.#
 
 102. Crystal of Power
 #Reduces the cost of new heroes by 15~.  Allows heroes to receive medium quests.  Yields 2 gems per turn.#
@@ -438,13 +439,14 @@ Allows heroes to purchase Magical Arrows.#
 
 107. Secret Library
 #Yields 2 gems per turn.
-Allows the recruitment of Magisters and Masters of Decay, if you have the proper scroll. Allows the growth of Beholders from their eggs.#
+Allows the recruitment of Magisters and Masters of Decay, if you have the proper scroll. Allows the growth of Beholders from their eggs.
+Allows turning second circle spellbook spells back into scrolls.#
 
 108. Architects Guild
 #Reduces the cost of construction in the castle by 10~. Allows upgrading a Fort in provinces to a Citadel.#
 
-109. Moneylender
-#Income +2~ of gold already available.#
+109. Treasury
+#Reduces gold losses when under plunder by 30~. Increases storage capacity.#
 
 110. Merchants Guild
 #Income +30.  Reduces the cost of buying resources by 10~. Allows upgrading a Mall in provinces to a Market.#
@@ -472,13 +474,13 @@ Converts 2 gems into 50 gold every turn.
 The castle can only have one building of this type.#
 
 117. Shadow Guild
-#Opponents' income -10. Lowers the population mood in the capital by 1. Allows hiring the Secret Agents guard.#
+#Opponents' income -15. Lowers the population mood in the capital by 1. Allows hiring the Secret Agents guard.#
 
 118. Bandit Clan
-#Income +10. Lowers the population mood in the capital by 1. Allows hiring the Mob guard.#
+#Income +20. Lowers the population mood in the capital by 1. Allows hiring the Mob guard.#
 
 119. Dark Brotherhood
-#Opponents' income -10. Income +10. Lowers the population mood in the capital by 1.#
+#Opponents' income -20. Income +20.#
 
 120. Officer Academy
 #Increases recruits' experience by 30. Allows hiring the Guardsmen guard.#
@@ -629,7 +631,7 @@ The castle cannot have more than 3 buildings of this type.#
 Reduces the gem upkeep of garrison units by 10~.#
 
 151. Bank
-#Income +3~ of gold already available.#
+#Income +5~ of gold already available.#
 
 152. Oracle
 #Yields 3 gems per turn. Increases the chance of good events and reduces the chance of bad events. Reduces the delay between rituals by 1.#
@@ -656,7 +658,8 @@ Reduces the gem upkeep of garrison units by 15~.#
 
 159. Tower of Knowledge
 #Yields 5 gems per turn. Allows upgrading a Library in provinces to a Magic Tower. Shoots at enemies during the defense of the capital.
-Allows the recruitment of White Mages, Illithids and Archmagisters, if you have the proper scroll.#
+Allows recruiting Illithids, White Mages and Archmagisters, if you have the proper scroll.
+Allows turning third circle spellbook spells back into scrolls.#
 
 160. Colosseum
 #Improves population mood in all provinces by 1.#
@@ -690,7 +693,7 @@ Allows the recruitment of Dwarven Cannons, if you have the proper scroll.#
 #Income +10. Yields 5 gems per turn. Allows hiring the Winged Guards guard.#
 
 168. Tower of Night
-#Yields 10 gems per turn. Lowers population mood in the capital by 1. Shoots at enemies during the defense of the capital. Provides 1 building schematics of the Tower of Lightning. Allows hiring the Battlemages guard.#
+#Yields 10 gems per turn. Shoots at enemies during the defense of the capital. Provides 1 building schematics of the Tower of Lightning. Allows hiring the Battlemages guard.#
 
 169. Great Eagle Chapel
 #Yields 5 gems per turn. Improves population mood in the capital by 1. Allows hiring the War Priests guard.#
@@ -812,7 +815,8 @@ Reduces the gem upkeep of garrison units by 20~.#
 #Allows the recruitment of Elves.#
 
 192. Elven Grove
-#Allows hiring the Elven squad guard. Income from forest provinces +2. Gem income +2. Allows the recruitment of Blade Dancer from the contract scrolls.#
+#Allows recruiting Blade Dancers.
+Allows hiring the Elven squad guard. Income from forest provinces +2. Gem income +2.#
 
 193. Elven Theater
 #Improves population mood in all provinces by 1.#
@@ -830,27 +834,30 @@ Reduces the gem upkeep of garrison units by 20~.#
 #Allows the recruitment of Goblins. Lowers the population mood in the capital by 1.#
 
 198. Mud
-#Increases income from swamp provinces by 3. Allows the recruitment of Goblin-archers from the contract scrolls.#
+#Allows recruiting Goblin Archers.
+Increases income from swamp provinces by 3.#
 
 199. Goblin Workshop
 #Income +2. Occasionally produces artifacts for sale.#
 
 200. Orcish Quarter
-#Allows the recruitment of Orcs. Allows the recruitment of Bugbears from the contract scrolls. Lowers the population mood in the capital by 1.#
+#Allows recruiting Orcs and Bugbears. Lowers the population mood in the capital by 1.#
 
 201. Stone Idol
-#Increases gem income by 1. Allows the recruitment of Dreamseers from the contract scrolls. Income from provinces inhabited by Orcs +2.#
+#Allows recruiting Dreamseers.
+Increases gem income by 1. Income from provinces inhabited by Orcs +2.#
 
 202. Banner of the Horde
 #Allows hiring the Horde guard. Generates orc raids on the neighbors, with a portion of the loot going to the ruler.#
 
 203. Halfling Quarter
-#Allows the recruitment of Halflings. Allows hiring Herbalist scrolls (appear in the store.)
+#Allows recruiting Halflings and Herbalists.
 Allows to perform the ritual of Pacification.#
 
 204. Halfling Market
-#Significantly increases population growth in the capital.
-Allows hiring Mule and Bard scrolls (appears in the store). Income from plains provinces +1.#
+#Allows recruiting Mules and Bards.
+Significantly increases population growth in the capital.
+Income from plains provinces +1.#
 
 205. Fair
 #Income +15. Improves population mood in the capital by 1.
@@ -866,7 +873,7 @@ Allows to perform the ritual of Trade Fair.#
 #Income from provinces inhabited by Centaurs +5. Allows hiring the Centaurs guard.#
 
 209. Lizardmen Quarter
-#Allows the recruitment of Lizardmen. Allows the recruitment of Lizardmen-archers from the contract scrolls.#
+#Allows recruiting Lizardmen and Lizardman Archers.#
 
 210. Bone Totem
 #Increases gem income by 2. Speeds up restoration of unit hit points in the capital by 10~ per turn.#
@@ -881,71 +888,71 @@ Provides 2 schematics of the Monument of Darkness.
 Provides 3 contract with the Lord of the Undead guard.#
 
 213. Elven Garrison 
-#Allows hiring of Elven Swordsman and Elven Riders scrolls (appears in the store.)#
+#Allows recruiting Elven Swordsmen and Elven Riders.#
 
 214. Elven Grove 
-#Allows the recruitment of Elf Druid scrolls (appears in the store).#
+#Allows recruiting Elf Druids.#
 
 215. Great Tree 
-#Allows hiring of the Elven Mistress scrolls (appears in the store). Allows you to hire Elven army guards. Recruitable in home provinces of elves, where their troops are available for hire at normal prices.#
+#Allows recruiting Elven Mistresses. Allows you to hire Elven army guards.#
 
 216. Rune Workshop
-#Allows hiring Rune Blacksmiths, Alchemists and Dwarven Guards scrolls (appear in the store).#
+#Allows recruiting Rune Blacksmiths, Alchemists and Dwarven Guards.#
 
 217. Master Halls
-#Allows hiring Runemaster and Dwarven Scorpion contract scrolls (appear in the store).#
+#Allows recruiting Runemasters and Dwarven Scorpions.#
 
 218. Great Hall
-#Allows hiring Earthshaker and Colossus contract scrolls (appear in the store). Allows the recruitment of Dwarven Cannons, if you have the proper scroll. Allows you to hire a Dwarven army guards. Recruitable in home provinces of dwarfs, where their troops are available for hire at normal prices.#
+#Allows recruiting Earthshakers and Colossus. Allows the recruitment of Dwarven Cannons, if you have the proper scroll. Allows you to hire a Dwarven army guards.#
 
 219. Goblin Hut 
-#Allows hiring Goblin Shaman and Goblin Hunter scrolls (appears in the store.)#
+#Allows recruiting Goblin Shamans and Goblin Hunters.#
 
 220. Swampland 
-#Allows hiring Ericubas scrolls (appears in the store) and use the eggs (if found). Allows you to hire Gang of goblins guards. Opens a goblin stronghold in the province, where troops may be recruited at normal prices.#
+#Allows hiring Ericubas and use eggs (if found). Allows you to hire Gang of goblins guards.#
 
 221. Sorcerer's Chambers 
-#Allows hiring Goblin Sorcerers scrolls (appear in the store.) Allows you to build a Battlemage Garden in swamp provinces.#
+#Allows recruiting Goblin Sorcerers. Allows you to build a Battlemage Garden in swamp provinces.#
 
 222. Orcish Barracks 
-#Allows hiring of Brutes and Wolfriders scrolls (appears in the store.)#
+#Allows recruiting Slayers.
+Allows building Orcish Outpost in provinces.#
 
 223. Stone Idol 
-#Allows hiring of Dreamwalkers and Warmongers scrolls (appears in the store).#
+#Allows recruiting Spirit Conjurer and Brutes.#
 
-224. Warcamp 
-#Allows hiring of Chieftains scrolls (appears in the store). Allows you to hire Great Horde guards. Opens an orcish stronghold in the province, where troops may be recruited at normal prices.#
+224. Warcamp
+#Allows recruiting Chieftains. Allows you to hire Great Horde guards.#
 
 225. Halfling's Suburb 
-#Allows the recruitment of Border Guard scrolls (appears in the store). Allows you to hire Border guard.
+#Allows recruiting Border Guards. Allows recruiting Border Guard defender.
 Allows building a Bakery in plains provinces.#
 
 226. Halfling Post
-#Allows the recruitment of Rogue scrolls (appears in the store).
-Allows to perform the ritual of Harvest Festival.
-Recruitable in home provinces of halflings, where their troops are available for hire at normal prices.#
+#Allows recruiting Rogues.
+Allows to perform the ritual of Harvest Festival.#
 
 227. Great Forge
 #Income +10. Allows hiring the Mechanicals guard.
 Allows upgrading a Mine in provinces to a Dwarven Mine. Allows upgrading a Mine in provinces with crystal to a Crystal Mine.#
 
-228. Centaur Camp 
-#Allows hiring Centaurs and Centaur Warriors scrolls (appears in the store.)#
+228. Centaur Camp
+#Allows recruiting Centaurs and Centaur Warriors.#
 
 229. Sacred Flame 
-#Allows hiring Spirit Talkers scrolls (appears in the store).#
+#Allows recruiting Spirit Talkers.#
 
-230. Centaur Stables 
-#Allows hiring Centaur Chieftains from the contract scrolls (appear in the store). Allows you to hire Tribe of Centaurs guards. Recruitable in home provinces of centaurs, where their troops are available for hire at normal prices.#
+230. Centaur Stables
+#Allows recruiting Centaur Chiefs. Allows you to hire Tribe of Centaurs guards.#
 
 231. Eternal Spring 
-#Allows hiring Lizardman Champions scrolls (appear in the store.)#
+#Allows recruiting Lizardman Champions.#
 
 232. Bone Idol
-#Allows you to hire Lizardman Sentinels and Lizardman Shamans scrolls (appear in the store.)#
+#Allows recruiting Lizardman Sentinels and Lizardman Shamans.#
 
 233. Temple of Strength 
-#Allows hiring Lizardman-Warlocks from the contract scrolls (appear in the store). Allows you to hire Lizardmen army guards. Recruitable in home provinces of lizardmen, where their troops are available for hire at normal prices.#
+#Allows recruiting Lizardman Warlocks. Allows you to hire Lizardmen army guards.#
 
 234. Shining Palace
 #Increases gem income by 5.
@@ -1004,7 +1011,7 @@ The castle can only have one building of this type.#
 
 245. Epic Tanner
 #Type: Sells enchanted items
-Allows heroes to purchase the following items (only one of each): Boots of Speed, Offender's Mask, Alvari Jacket.
+Allows heroes to purchase the following items (only one of each): Boots of Speed, Offender's Mask, Drow Jacket.
 The castle can only have one building of this type.#
 
 246. Epic Mailmaker
@@ -1028,17 +1035,17 @@ Allows heroes to purchase the following items (only one of each): Sword of the I
 The castle can only have one building of this type.#
 
 250. Gambling House
-#Increases gold income by 2~. Increases gem income by 1. Opens in a tribal province of the gaming house.#
+#Increases gold income by 2~. Increases gem income by 1. Opens a Gambling House in the capital. Increases income from provinces with an Inn by 2.#
 
 251. Kobold Cages
 #Allows you to hire Kobold Slaves from contract scrolls (appear in the store).#
 
 252. Slaveholders Guild
-#Allows you to hire Slavedrivers from contract scrolls (appear in the store).
+#Allows recruiting Slavedrivers.
 Lowers the population mood in the capital by 1.#
 
-253. Alvari War School
-#Allows you to hire Blood Butterflies from contract scrolls (appear in the store).
+253. Drow War School
+#Allows recruiting Blood Butterflies.
 Allows recruitment of the Black Band guard.#
 
 254. Scout Camp
@@ -1051,24 +1058,24 @@ Allows to perform the ritual of Summon Kobolds.#
 
 256. Hunter Stronghold
 #Income +5.
-Allows you to hire Nocturnal Hunters from contract scrolls (appear in the store).#
+Allows recruiting Nocturnal Hunters.#
 
 257. Temple of Shadows
-#Allows you to hire Dark Priestesses from contract scrolls (appear in the store).
+#Allows recruiting Dark Priestesses.
 Allows hiring the Twilight Initiates guard.#
 
 258. Tower of Shadows
 #Yields 5 gems per turn.
-Allows you to hire Darkness Cravers from contract scrolls (appear in the store).
+Allows recruiting Darkness Cravers.
 Reduces the population growth in the capital by 1.#
 
 259. Citadel of Shadows
-#Allows you to hire Darkness Chosen from contract scrolls (appear in the store).
-Allows you to hire an Army of Darkness guard. Recruitable in home provinces of the Alvari, where their troops are available for hire at normal prices.#
+#Allows recruiting the Darkness Chosen.
+Allows you to hire an Army of Darkness guard.#
 
 260. Academy of Darkness
-#Lowers the population mood in the capital by 1. Slows unrest growth in the capital.
-Allows you to hire Darkness Guards from contract scrolls (appear in the store).#
+#Allows recruiting Darkness Guards.
+Lowers the population mood in the capital by 1. Slows unrest growth in the capital.#
 
 261. Heart of the Night
 #Places a single Beholder egg in the store. Allows the recruitment of Illithids, if you have the proper scroll.#
@@ -1082,26 +1089,22 @@ Adds Altar of Death to capital.#
 #Allows you to hire Manticores if you have their eggs in the treasury. Allows the recruitment of Rat Reapers and Lycans, if you have the proper scroll. Increases income from swamp provinces by 1. Reduces the upkeep of garrison units by 5~.#
 
 264. Gnoll's Quarters
-#Allows you to hire Gnoll. Lowers the population mood in the capital by 1. Reduces the population growth in the capital by 1. Allows to perform the ritual of Gathering of the Pack.#
+#Allows recruiting Pack Warriors. Lowers the population mood in the capital by 1. Reduces the population growth in the capital by 1. Allows performing the Gathering the Pack ritual.#
 
 265. Gnoll's Pyramid 
-#Allows you to hire Gnoll Sergeants with contract scrolls (appear in the store) and by Gathering the Pack.
+#Allows recruiting Tormenters in the Garrison or by Gathering the Pack.
 Allows you to hire Gnoll gang guards.
 Slows unrest growth in the capital.#
 
-266. Hunter's Tent
-#Allows you to hire Gnoll Archers with contract scrolls (appear in the store) and by Gathering the Pack.
-Allows you to build Gnoll Outpost in the provinces.#
+266. Shaman Tent
+#Stores will sell "Scourge of Chaos" and "Legacy of Chaos" scrolls.#
 
-267. Slaver's Pen
-#Income +5.
-Allows you to hire Gnoll siege machine from the contract scrolls (appear in the store).
-Lowers the population mood in the capital by 1.#
+267. Chieftain Pavilion
+#Allows recruiting Tyrants in the Garrison or by Gathering the Pack.#
 
 268. Great Pyramid
-#Allows you to hire Gnoll Chieftain with contract scrolls (appear in the store) and by Gathering the Pack.
-Allows you to hire Gnoll Horde guards.
-Recruitable in home provinces of gnolls, where their troops are available for hire at normal prices.#
+#Allows recruiting Devourers in the Garrison or by Gathering the Pack.
+Allows you to hire Gnoll Horde guards.#
 
 269. Dark Brotherhood
 #Lowers the population mood in the capital by 1.
@@ -1118,47 +1121,52 @@ Detachment of Templar soldiers periodically conducts raids on monsters and witch
 #Allows the recruitment of Icari - Alkari warriors. Allows to perform the ritual of Summon Icarus.#
 
 273. White Tower
-#Allows you to hire Luminaries and Stalkers from contract scrolls (appear in the store). Allows hiring the Combat Wing guard.#
+#Allows recruiting Luminaries and Stalkers. Allows hiring the Combat Wing guard.#
 
 274. Celestial Eye
-#Allows you to hire Witnesses from contract scrolls (appear in the store). Improves population mood in the capital by 1. Reduces corruption by 5~.#
+#Allows recruiting Witnesses. Improves population mood in the capital by 1. Reduces corruption by 5~.#
 
 275. Crystal Pillars
-#Allows the recruitment of Eternal Mentors from contract scrolls (appear in the store). Allows hiring the Celestial Squadron guard. Income from provinces inhabited by Alkari +2.
-Recruitable in home provinces of Alkari, where their troops are available for hire at normal prices.#
+#Allows recruiting Eternal Mentors. Allows hiring the Celestial Squadron guard. Income from provinces inhabited by Alkari +2.#
 
 276. Mentorium
-#Allows you to hire Memory Keepers from contract scrolls (appear in the store). Speeds up restoration of unit hit points in the capital by 10~ per turn.#
+#Allows recruiting Memory Keepers. Speeds up restoration of unit hit points in the capital by 10~ per turn.#
 
 277. Shining Spire
-#Allows the recruitment of Arisen Luminaries from contract scrolls (appear in the store). Reduces the cost of hero resurrection and the performing of rituals by 10~.#
+#Allows recruiting Arisen Luminaries. Reduces the cost of hero resurrection and the performing of rituals by 10~.#
 
 278. Driller Guild
 #Type: Basic Ratman buildings.
-Allows the recruitment of Ratmen. Allows you to hire Drillers from contract scrolls (appear in the store).
+Allows recruiting Ratmen and Drillers.
 Gold and gem income from provinces inhabited by Ratmen +1.
 The castle can only have one building of this type.#
 
 279. Seekers Clan Temple
 #Type: Basic Ratman buildings.
 Yields 1 gem per turn.
-Allows the recruitment of Ratmen. Allows you to recruit Warriors of Decay from contract scrolls (appear in the store).
+Allows recruiting Ratmen and Warriors of Decay.
 The castle can only have one building of this type.#
 
 280. Skirr Clan Factory
 #Type: Advanced Ratman buildings.
-Allows you to hire Lightning Cannons from contract scrolls (appear in the store). Allows hiring the Drillers guard.
+Allows recruiting Lightning Cannons. Allows hiring the Drillers guard.
 Allows the recruitment of Shadow Claws, if you have the proper scroll.#
 
 281. Plague Factory
 #Type: Advanced Ratman buildings.
-Allows you to hire Plague Shooters from contract scrolls (appear in the store). Allows hiring the Ratman Pack guard.
+Allows recruiting Plague Shooters. Allows hiring the Ratman Pack guard.
 Allows the recruitment of Shadow Claws, if you have the proper scroll.#
 
 282. Seeker Laboratory
-#Allows you to hire Ratclaws from contract scrolls (appear in the store).
+#Allows recruiting Ratclaws.
 Allows the recruitment of Rat Reapers, Rippers and Masters of Decay, if you have the proper scroll.#
 
 283. Grand Ratt Altar
-#Allows you to hire Rat Kings from contract scrolls (appear in the store). Allows hiring the Rat King guard.
+#Allows recruiting Rat Kings. Allows hiring the Rat King guard.
 Yields 5 gems per turn. Lowers the population mood in the capital by 1.#
+
+284. Warlock Tent
+#Stores will sell "Primal Rage" and "Temptation of Chaos" scrolls.#
+
+285. Wizard Tent
+#Stores will sell "Banner of Chaos" scrolls.#

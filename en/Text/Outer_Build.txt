@@ -71,21 +71,22 @@ Allows a hero to cross two neighboring sea provinces.#
 Improves population mood by 1 and increases Income by 3 if there is a Traveling Circus built in the stronghold.#
 
 14. Pub
-#Income +2.
+#Income +3.
 Improves population mood by 1 if there is a Theater built in the stronghold.
 Increases the morale of province defenders by 1.#
 
 15. Tavern
 #Pub Upgrade.
-Income +5.
-Improves population mood by 1 if there is a Theater built in the stronghold.
+Income +6.
+If there is a Theater or a Brewery in the stronghold, population mood increases by 1.
 Increases the morale of province defenders by 2.#
 
 16. Inn
 #Tavern Upgrade.
-Income +10.
-Improves population mood by 1 if there is a Theater built in the stronghold.
-Increases the morale of province defenders by 3.#
+Income +12.
+If there is a Theater or a Brewery in the stronghold, population mood increases by 1.
+If there is a Gambling House in the stronghold, income increases by 2.
+Increases the morale of province defenders by 4.#
 
 17. Library
 #Access to the stronghold's library from this province.#
@@ -294,9 +295,10 @@ Increases the morale of province defenders by 2.#
 Yields 15 gems per turn.
 Population mood -2.#
 
-50. Gnoll's Outpost
-#Increases spotting range.
-Slows down unrest growth rate.#
+50. Orcish Outpost
+#Small first and second rank garrison.
+Increases spotting range.
+May be built in a province alongside a regular Outpost.#
 
 51. Dwarven Mine
 #Mine Upgrade.

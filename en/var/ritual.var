@@ -700,7 +700,7 @@ Param2: 0;
 /29
 Name: Target of Brotherhood;
 GoldCost: 0
-GemCost: 100
+GemCost: 75
 Sound: 65
 Karma: -4
 OnAlly: 0
@@ -729,7 +729,7 @@ Param2: 0;
 /30
 Name: Bloody Hand;
 GoldCost: 0
-GemCost: 50
+GemCost: 35
 Sound: 65
 Karma: -2
 OnAlly: 1
@@ -915,7 +915,7 @@ Param1: 1805
 Param2: 0;
 
 /38
-Name: Gathering of the Pack;
+Name: Gathering the Pack;
 GoldCost: 0
 GemCost: 18
 Sound: 241

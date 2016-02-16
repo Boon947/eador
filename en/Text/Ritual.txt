@@ -132,6 +132,6 @@ Can only be performed in a populated province.#
 #Improves province population mood by 1.
 The province's income in gold and gems increases by 10.#
 
-38. Gathering of the Pack
-#Enables the hero to hire Gnolls in his army.
-Available recruits depend on specific buildings in the castle.#
+38. Gathering the Pack
+#Allows recruiting Gnolls in the hero's army.
+Which units are available depends on specific gnoll buildings in the stronghold.#
