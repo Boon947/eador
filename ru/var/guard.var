@@ -6935,7 +6935,7 @@ Item3: 63, 1;
 /482 √ноллы квест
 Quantity: 1/0
 Initiative: 1/1
-Unit2: 206, 10, 1, 0;
+Unit1: 206, 10, 1, 0;
 LootPoss: 5
 MaxLoot: 1
 Power: 6
