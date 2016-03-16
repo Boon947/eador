@@ -100,7 +100,7 @@ RangedDefence: 0
 ShootingRange: 0
 
 /11
-Name: Debris;
+Name: Rubble;
 MoveCost: 2
 StamCost: 1
 CounterAttack: 0

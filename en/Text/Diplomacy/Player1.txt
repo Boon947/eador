@@ -5,7 +5,7 @@ Min: 0;
 Max: 0;
 Name: 1;
 Param: 0;
-Text: #Greetings, %s! I hope you won't get in my way, or you'll feel for yourself what is Chaos like.#
+Text: #Greetings, %s! I hope you won't get in my way, or you'll feel for yourself what Chaos is like.#
 
 /1 Не первая встреча (Плохие отношения)
 Index: 2;
@@ -245,7 +245,7 @@ Min: 0;
 Max: 0;
 Name: 1;
 Param: 0;
-Text: #Greetings, %s! I hope you won't get in my way, or you'll feel for yourself what is Chaos like.#
+Text: #Greetings, %s! I hope you won't get in my way, or you'll feel for yourself what Chaos is like.#
 
 /31 Ответ на объявление войны
 Index: 27;

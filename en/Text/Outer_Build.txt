@@ -243,7 +243,7 @@ Can only be built in a swamp.#
 #Income +1.
 Yields 3 gems per turn.
 Increase income of gems by 10~.
-Can not be built in a swamp.#
+Cannot be built in a swamp.#
 
 42. Berry Farm
 #Income +8.
@@ -331,4 +331,4 @@ Reduces the risk of famine in this province.#
 Income +5.
 Yields 5 gems per turn.
 Increase income of gems by 25~.
-Can not be built in a swamp.#
+Cannot be built in a swamp.#

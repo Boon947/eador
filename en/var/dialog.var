@@ -15484,7 +15484,7 @@ Bitmap: 205;
 Text: #Pathfinders from the province of %s report that some monster has started to appear in the village at night. It rips apart the villagers and drags the remains off to some place. All that is found in the morning is a large pool of blood.#
 Answer1: Got it.;
 Answer2: Don't bother me with such trifles from now on!;
-Answer3: Hire a witch hunt for the Lycan (-400 $ );#####
+Answer3: Hire a Witcher to hunt the Lycan down (-400 $ );#####
 
 /2024 Выживший авантюрист, монах
 Window: 2;
@@ -18007,7 +18007,7 @@ Bitmap: 80;
 Text: #The hero kills the undead and knocks on the door, wanting to understand what is happening. But the inhabitants of the house do not respond. In the morning %s asks the other peasants, but they all keep their mouths shut. Having failed to get to the bottom of things, he is forced to leave.#
 Answer1: It's always the same - no gratitude.;
 Answer2: It was necessary to break down the door!;
-Answer3: I better inform the Inquisition - you never know... (-150 $ );
+Answer3: Inform the Inquisition - just in case... (-150 $ );
 Answer4: I must find out what is happening!;#####
 
 /2351 Мрачная деревня, ночное приключение, помощь
@@ -18020,7 +18020,7 @@ Answer2: And do such strange rabbits often wander from forest?;#####
 /2352 Мрачная деревня, засада
 Window: 2;
 Bitmap: 64;
-Text: #The hero laeves the village and prepares an ambush. After some time a lonely guy with a fishing rod appears on the road - and is immediately arrested. %s tells him:#
+Text: #The hero leaves the village and prepares an ambush. After some time a lonely guy with a fishing rod appears on the road - and is immediately arrested. %s tells him:#
 Answer1: ...Continue...;#####
 
 /2353 Мрачная деревня, расспрос
@@ -18125,7 +18125,7 @@ Window: 2;
 Bitmap: 2;
 Text: #In the province of %s your scouts found the crypt where the goblins who robbed the Drow are hiding out.#
 Answer1: Very good!;
-Answer2: Hopefully the egss are still there...;#####
+Answer2: Hopefully the eggs are still there...;#####
 
 /2367 Древний склеп, вход
 Window: 2;

@@ -394,7 +394,7 @@ Improves population mood in the Elven province by 1.
 Can only be placed in forests.#
 
 83. Dwarven Army
-#When dwarves fortify themselves in the hills, kicking them out is almost impossible. Dwarves usually place powerful cannons at key points, reducing enemy numbers considerably. The dwarves' eagerness to delve and did is so great that in peacetime, the dwarves work in the mines and increase the province's mining output.
+#When dwarves fortify themselves in the hills, kicking them out is almost impossible. Dwarves usually place powerful cannons at key points, reducing enemy numbers considerably. The dwarves' eagerness to dig and drill is so great that, in peacetime, the dwarves work in the mines and increase the province's mining output.
 Province income +10 if iron is present.
 Province income +15 if marble is present.
 Province income +20 if mithril is present.
@@ -453,7 +453,7 @@ Population mood -2.
 Does not lower the mood in Gnoll provinces.#
 
 92. Winged Watch
-#Winged watches usually consist of a small group of Icari, lead by a Luminary, vigilantly patrolling the area around the Alkari settlement and ready at any time to raise the alarm and if necessary call in reinforcements. In large populations however, the Watches usually consist of more members, and may be lead by Memory Keepers and even Eternal Mentors. All the warriors of the Children of Heaven are faithful to their people and unable to deliberately betray them.
+#Winged Watches usually consist of a small group of Icari, led by a Luminary, vigilantly patrolling the area around the Alkari settlement and ready at any time to raise the alarm and if necessary call in reinforcements. In large populations however, the Watches usually consist of more members, and may be led by Memory Keepers and even Eternal Mentors. All the warriors of the Children of Heaven are faithful to their people and unable to deliberately betray them.
 The province spotting range is increased.
 Incorruptible.#
 

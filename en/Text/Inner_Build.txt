@@ -544,14 +544,14 @@ The castle cannot have more than 2 buildings of this type.#
 
 134. School of High Magic
 #Type: Teaches circle III spells
-Allows heroes to learn the spells of Teleport, Antimagic, Mass Dispel and buy Enchated Weapon Spell scrolls.
+Allows heroes to learn the spells of Teleport, Antimagic, Mass Dispel and buy Enchanted Weapon Spell scrolls.
 Allows to perform the ritual of Magic Barrier. Allows the summoning of Faerie Dragons if you have their eggs.
 The castle cannot have more than 2 buildings of this type.#
 
 135. Tower of Restoration
 #Type: Teaches circle III spells
 Allows heroes to learn the spells of Resurrection, Mass Defense, Mass Healing and buy Heaven's Rage spell scrolls.
-Allows to perform the ritual of Heavenly Guard. Allows the summoning of Seraphims if you have sacred relics.
+Allows to perform the ritual of Heavenly Guard. Allows the summoning of Seraphim if you have sacred relics.
 The castle cannot have more than 2 buildings of this type.#
 
 136. Tower of Hypnosis
@@ -644,7 +644,7 @@ Provides 2 contracts with the Vassal guard.#
 #Reduces the cost of hero resurrection and the performing of rituals by 30~. Increases the morale of the capital defenders by 4.#
 
 155. Monstrologists Guild
-#Allows the recruitment of Manticores, Hydras, Phoenixes and Ericubes, if their eggs are present in the treasury. Opens a Witcher Citadel in the capital. Increases income from swamp provinces by 1. Allows hiring the Monsters guard.#
+#Allows the recruitment of Manticores, Hydras, Phoenixes and Ericubas, if their eggs are present in the treasury. Opens a Witcher Citadel in the capital. Increases income from swamp provinces by 1. Allows hiring the Monsters guard.#
 
 156. Traveling Circus
 #Improves population mood in the capital by 2. Increases income from provinces with Arenas by 3. Improves population mood in these provinces by 1.#
@@ -700,7 +700,7 @@ Allows the recruitment of Dwarven Cannons, if you have the proper scroll.#
 
 170. Sacred Order
 #Type: Produces units of the fourth rank.
-Allows thew recruitment of Paladin. Provides 1 contract with the Warriors of Light guard.
+Allows recruiting Paladins. Provides 1 contract with the Warriors of Light guard.
 The castle can only have one building of this type.#
 
 171. Elephant Pen
@@ -844,7 +844,7 @@ Increases income from swamp provinces by 3.#
 #Allows recruiting Orcs and Bugbears. Lowers the population mood in the capital by 1.#
 
 201. Stone Idol
-#Allows recruiting Dreamseers.
+#Allows recruiting Ghost Whisperers.
 Increases gem income by 1. Income from provinces inhabited by Orcs +2.#
 
 202. Banner of the Horde
@@ -894,7 +894,7 @@ Provides 3 contract with the Lord of the Undead guard.#
 #Allows recruiting Elf Druids.#
 
 215. Great Tree 
-#Allows recruiting Elven Mistresses. Allows you to hire Elven army guards.#
+#Allows recruiting Elven Mistresses. Allows recruiting the Elven Army guards.#
 
 216. Rune Workshop
 #Allows recruiting Rune Blacksmiths, Alchemists and Dwarven Guards.#
@@ -903,7 +903,7 @@ Provides 3 contract with the Lord of the Undead guard.#
 #Allows recruiting Runemasters and Dwarven Scorpions.#
 
 218. Great Hall
-#Allows recruiting Earthshakers and Colossus. Allows the recruitment of Dwarven Cannons, if you have the proper scroll. Allows you to hire a Dwarven army guards.#
+#Allows recruiting Earthshakers and Colossus. Allows the recruitment of Dwarven Cannons, if you have the proper scroll. Allows recruiting the Dwarven Army guards.#
 
 219. Goblin Hut 
 #Allows recruiting Goblin Shamans and Goblin Hunters.#
@@ -915,7 +915,7 @@ Provides 3 contract with the Lord of the Undead guard.#
 #Allows recruiting Goblin Sorcerers. Allows you to build a Battlemage Garden in swamp provinces.#
 
 222. Orcish Barracks 
-#Allows recruiting Slayers.
+#Allows recruiting Cleavers.
 Allows building Orcish Outpost in provinces.#
 
 223. Stone Idol 
@@ -1006,7 +1006,7 @@ The castle can only have one building of this type.#
 
 244. Epic Jeweler
 #Type: Sells enchanted items
-Allows heroes to purchase the following items (only one of each): Messengers's Bracelet, Poison ring, Ardent Heart.
+Allows heroes to purchase the following items (only one of each): Messenger's Bracelet, Poison ring, Ardent Heart.
 The castle can only have one building of this type.#
 
 245. Epic Tanner
@@ -1115,7 +1115,7 @@ Allows you to perform rituals Target of Brotherhood and Bloody Hand.#
 Detachment of Templar soldiers periodically conducts raids on monsters and witches.#
 
 271. Fighter's Guild
-#Allows you to hire Duellists from the contract scrolls (appear in the store). Speeds up the arrival of new Mercenaries. Provides gold whenever units are disbanded while in castle garrisons.#
+#Allows hiring Duellists from contract scrolls (appear in the store). Speeds up the arrival of new Mercenaries. Provides gold whenever units are disbanded while in castle garrisons.#
 
 272. Alkari Quarter
 #Allows the recruitment of Icari - Alkari warriors. Allows to perform the ritual of Summon Icarus.#

@@ -294,11 +294,11 @@ Click to continue...#
 86. Unit Ranks
 #All units are divided into 4 ranks. The first rank comprises the weakest units. Fourth rank units know no equal in battle. First rank units can be placed into any slot in your hero's party. Second rank units can only be placed into second tier slots or higher. Third - in the third or fourth tier, fourth - only in the fourth tier.#
 
-87. Invading a Shard 1
+87. Shard Invasion 1
 #You are now in the invasion screen, which allows you to choose the advantages to use in your upcoming battle for the shard. The resources whose reserves or income you may increase are displayed in the top row. You can change these amounts by clicking on buttons. Or click on the black box to enter a number using the keyboard.
 Click this scroll to continue...#
 
-88. Invading a Shard 2
+88. Shard Invasion 2
 #Many advantages are not available to you yet. In the future, after conquering new shards, you will be able to unlock new advantages. The maximum amount of gold and crystals that you can receive depends on the shards you've conquered, as well. Keep in mind that you have to pay a certain amount of energy to use an advantage. If you don't have enough energy, you should discard some advantages or decrease them.#
 
 89. Energy

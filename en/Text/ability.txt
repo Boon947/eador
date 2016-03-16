@@ -624,7 +624,7 @@ Ammo units consumed by casting: %d.#
 Ammo units consumed by casting: %d.#
 
 /172 Mass Rage
-#The unit can cast the "Mass Rage" spell, whichs gives all friendly units Fearless, Intimidation 2, and Bloodlust 3. The caster loses 50 hit points.
+#The unit can cast the "Mass Rage" spell, which gives all friendly units Fearless, Intimidation 2, and Bloodlust 3. The caster loses 50 hit points.
 Ammo units consumed by casting: %d.#
 
 /173 Tribe's Blood

@@ -467,7 +467,7 @@ All friendly units get an additional turn in battle. The spell only affects thos
 School: Wizardry.
 Turns a friendly unit into a Dragon.
 Lasts 3 turns.
-Duration is slightly increases with the caster's Concentration.#
+Duration slightly increases with the caster's Concentration.#
 
 72. Polymorph
 #Circle 4.
@@ -670,7 +670,7 @@ Affects only mechanical units. Has no effect on Golems.#
 #Circle 4.
 School: Rune Magic.
 Allows the possession of an enemy unit for 2 turns. Magic Resistance and Magic Immunity offer no protection from this spell.
-Duration is slightly increases with the caster's Concentration.
+Duration slightly increases with the caster's Concentration.
 Affects only mechanical units. Has no effect on Golems.#
 
 103. Stone Spikes
@@ -787,7 +787,7 @@ Does not affect mechanical units.#
 118. Power Word - Hold
 #Circle 3.
 School: Natural Magic.
-The target unit can not move or attack. Lasts 6 turns. Resistance protects only partially against this spell.
+The target unit cannot move or attack. Lasts 6 turns. Resistance protects only partially against this spell.
 Duration increases with the caster's Concentration.#
 
 119. Power Word - Pain
@@ -1093,8 +1093,7 @@ Damage increases slightly with the caster's Spellpower.#
 165. Fire Rain
 #Circle 3.
 School: Elemental Magic.
-Deals 10 points of magic damage to every unit in a 1-tile radius, then 1 more point of damage for 3 turns.<segment 14901>
-
+Deals 10 points of magic damage to every unit in a 1-tile radius, then 1 more point of damage for 3 turns.
 Damage and burning damage increases slightly with the caster's Spellpower.#
 
 166. Mass Fire Immunity
@@ -1273,8 +1272,8 @@ Drains 4 hit points and 2 points of morale, reduces the speed by 1 for two turns
 192. Paralyze
 #Circle 3.
 School: Sorcery.
-The target unit can not move and fight. Lasts 4 turns. The target's resistance only partially protects it from the spell.
-Duration is slightly increases with the caster's Concentration.
+The target unit cannot move and fight. Lasts 4 turns. The target's resistance only partially protects it from the spell.
+Duration slightly increases with the caster's Concentration.
 Has no effect on the Undead, Mechanical units, and Elementals.#
 
 193. Mass Sleep
@@ -1446,7 +1445,7 @@ Does not affect flying and hovering creatures.#
 #Circle 4.
 School: Sacred Magic.
 Reduces attack and ranged attack of all units on the battlefield by 10 and increases resistance and armor by 5. Lasts 5 turns. Magic Resistance and Magic Immunity offer no protection from this spell.
-Duration is slightly increases with the caster's Concentration.#
+Duration slightly increases with the caster's Concentration.#
 
 217. Fetters
 #Circle 2.
@@ -1573,7 +1572,7 @@ The spell has no effect on undead and demons.#
 School: Sorcery.
 Puts all units within 1 tile to sleep. Sleeping units cannot fight until they are attacked. Each turn dormant restore 10 hit points and 5 points of stamina.
 Lasts 3 turns. Spell Resistance hardly reduces the duration of the spell.
-Duration is slightly increases with the caster's Concentration.
+Duration slightly increases with the caster's Concentration.
 Has no effect on the Undead, Mechanical units, and Elementals.#
 
 235. Nightmare
@@ -1682,7 +1681,7 @@ Only works on Mortals. Does not affect Giant creatures.#
 School: Wizardry.
 Reduces the speed of all enemy units within 1 tile by 1 and causes them to lose 3 points of stamina. Lasts 3 turns.
 Resistance protects only partially against this spell.
-Duration is slightly increases with the caster's Concentration.#
+Duration slightly increases with the caster's Concentration.#
 
 250. Horror
 #Circle 3.
@@ -1947,8 +1946,8 @@ Only works on Ratmen.#
 288. Cocoon of Darkness
 #Circle 3.
 School: Shadow Magic.
-Increases a friendly or enemy unit's defense by 5, ranged defense by 10 and makes it incorporeal. The target unit can not shoot or cast spells. Lasts 4 turns. Resistance has almost no protection against this spell.
-Duration is slightly increases with the caster's Concentration.
+Increases a friendly or enemy unit's defense by 5, ranged defense by 10 and makes it incorporeal. The target unit cannot shoot or cast spells. Lasts 4 turns. Resistance has almost no protection against this spell.
+Duration slightly increases with the caster's Concentration.
 No effect on incorporeal creatures.#
 
 289. Fierce Roar
@@ -2118,7 +2117,7 @@ School: Necromancy.
 A vampire can take on a gaseous form. In this state, his attack is reduced by 20 and his counterattack by 15, but his defense is increased by 15, his ranged defense by 20 and his speed by 1. The vampire becomes incorporeal and can regenerate 10 hit points per turn. Lasts 4 turns.
 The ammo spent for casting the spell is replenished.
 Duration increases with the caster's Concentration.
-Spell can not be used if the vampire is already in gaseous form.#
+Spell cannot be used if the vampire is already in gaseous form.#
 
 315. Eternal Light
 #Circle 2.
@@ -2178,7 +2177,7 @@ No effect on incorporeal creatures.#
 323. Chilling Touch
 #Circle 3.
 School: Necromancy.
-The target unit can not move or attack. Lasts 3 turns. Resistance has almost no protection against this spell. Magic immunity does not apply.
+The target unit cannot move or attack. Lasts 3 turns. Resistance has almost no protection against this spell. Magic immunity does not apply.
 Duration increases with the caster's Concentration.
 Has no effect on the Undead, Mechanical units, and Elementals.#
 
@@ -2234,7 +2233,7 @@ Only affects Alkari.#
 School: Sorcery.
 The caster loses 70 hit points.
 Grants all friendly Alkari units Reincarnation, Immunity to Pain and Smite Evil (4). Lasts 2 turns.
-Duration is slightly increases with the caster's Concentration.
+Duration slightly increases with the caster's Concentration.
 Only affects Alkari.#
 
 331. Summon Arisen
@@ -2357,7 +2356,7 @@ Lasts 3 turns. Duration increases with the caster's Concentration.#
 #Circle 2.
 School: Shadow Magic.
 Reduces the target's resistance by half. Lasts 4 turns. Resistance has almost no protection against this spell.
-Duration is slightly increases with the caster's Concentration.
+Duration slightly increases with the caster's Concentration.
 Does not affect mechanical units.#
 
 349. Darkness Surge
@@ -2380,7 +2379,7 @@ Has no effect on the Undead, Mechanical units, and Elementals.#
 #Circle 3.
 School: Elemental Magic.
 Prevents all units in a radius of 2 tiles from flying and floating. Lasts 5 turns. Resistance has almost no protection against this spell. Magic immunity does not apply.
-Duration is slightly increases with the caster's Concentration.#
+Duration slightly increases with the caster's Concentration.#
 
 352. Abysmal Joke
 #Circle 2.
@@ -2448,7 +2447,7 @@ Magic Resistance and Magic Immunity offer no protection from this spell.#
 School: Chaos Magic.
 A friendly unit needs to be sacrificed for this incantation.
 Increases every ally's Attack by 6, and gives them Blood Frenzy (unit gets an extra turn for killing an enemy in melee), but reduces Counterattack by 6. Lasts 2 turns.
-Duration is slightly increases with the caster's Concentration.
+Duration slightly increases with the caster's Concentration.
 Magic Resistance and Magic Immunity offer no protection from this spell.#
 
 362. Distress

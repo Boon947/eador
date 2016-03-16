@@ -201,7 +201,7 @@ Gem income +2. Population mood -1.#
 #No description#
 
 66. Witcher Citadel
-#Well guarded Witcher abode, where you can hire Witchers. Locals are afraid of the witchers - not without reason, because to recruit Witcher they need their children.
+#Well-guarded Witcher abode, where you can hire Witchers. Locals are afraid of the witchers - not without reason, because to recruit Witcher they need their children.
 Population growth -1. Population mood -1.#
 
 67. War School
@@ -234,7 +234,7 @@ Yields 5 gems per turn. Population growth -1.#
 #You can hire an halfling army here.#
 
 76. Inquisition Cloister
-#Stronghold and temple of the Inquisition. Certainly well guarded.
+#Stronghold and temple of the Inquisition. Certainly well-guarded.
 The locals are not too happy about such neighbors - there is not much difference between a witch and a simple peasant for the inquisitors.
 Population mood -1.#
 
@@ -264,7 +264,7 @@ Gem income +2.#
 #The great evil lives here - a great danger to all living things.#
 
 84. Temple of Light
-#A beatiful building protected by the Messenger of Light, there is likely good artifacts somewhere inside.#
+#A beautiful building protected by the Messenger of Light, there is likely good artifacts somewhere inside.#
 
 85. Elemental Junction
 #The ruins of old buildings, nobody has ever searched it so all valuables are likely untouched.#
@@ -282,16 +282,16 @@ Gem income +2.#
 #The mighty stronghold of demons, to destroy that will not be easy.#
 
 90. Behemoth's Lair
-#Monsters that live here are not happy with your invasion. The battle will be hard. The contents of the treasury would be quite usefull for your scout heroes.#
+#Monsters that live here are not happy with your invasion. The battle will be hard. The contents of the treasury would be quite useful to a Scout.#
 
 91. Dwarven Stronghold
-#Powerful dwarven artillery certainly protects the large treasure. The contents of the treasury would be quite handy for your commander heroes.#
+#Powerful dwarven artillery certainly protects the large treasure. The contents of the treasury would be quite useful to a Commander.#
 
 92. Beast Lair
 #One of the most powerful creatures dwells here, and it will take great effort and a large army to defeat it. The lair's hoard might prove quite useful to your hero.#
 
 93. Conclave
-#Wizards have chosen this place as the home and the study place. They won't surrender without fight. The contents of the treasury would be quite usefull for a wizard heroes.#
+#Wizards have decided to live and study here, and would never give it up without a fight. The contents of the treasury would be quite useful to a Wizard.#
 
 94. Gnoll Citadel
 #You can hire an army of gnolls here.#
@@ -373,7 +373,7 @@ Reduce province gold income by 50~. Population mood -2.#
 #Something glitters in the darkness of the cave. It could be gemstones. Or, more likely, some creatures' hungry eyes.#
 
 119. Slave Market
-#By agreement, the inhabitants of the province are sold into slavery, for which you regularly pay a specified sum.
+#By contract, local inhabitants are sold as slaves to wealthy residents of the province, which generates a steady income.
 Income +8.
 Population mood -2.
 Decreases population growth.#

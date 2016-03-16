@@ -65,7 +65,7 @@
 #Having mastered the path of the Assassin, the hero becomes a Master Assassin, a superior maker of poisons and a peerless master of the blade able to dodge an opponent's counterattack.#
 
 /23 Great Chieftain
-#Reaching the maximum skill on the path of the Chieftain, the hero becomes a Great Chieftain, with a military power and fury that does not have its equal, and a skilled commander to his soldiers.#
+#Reaching the maximum skill on the path of the Chieftain, the hero becomes a Great Chieftain, with unrivaled might and fury on the battlefield, and a skilled commander to his soldiers.#
 
 /24 Death Knight
 #Having mastered the path of the Dark Knight, the hero becomes a Death Knight, able to completely consume the souls of slain creatures and inflict devastating damage to good creatures. A Death Knight gets additional slots for a Circle II and III spell.#

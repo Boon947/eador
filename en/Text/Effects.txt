@@ -200,7 +200,7 @@
 #Unit forgotten how to fight. All types of attack are set to 0.#
 
 67. Power Word - Hold
-#The unit is paralyzed. It can not act.#
+#The unit is paralyzed. It cannot act.#
 
 68. Power Word - Pain
 #The unit is in great pain. It loses hit points and stamina each turn and its attack and speed are reduced.#
@@ -520,7 +520,7 @@ It loses 3 points of stamina and morale each turn.#
 #Reduces the unit's defense attributes by 3. The unit suffers 3 points of damage each turn.#
 
 173. Chilling Touch
-#The unit is paralyzed. It can not act.#
+#The unit is paralyzed. It cannot act.#
 
 174. Eternal Light
 #All types of attacks, defense and resistance of the unit increased by 1. The unit suffers 2 points of damage each turn.#

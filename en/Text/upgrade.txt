@@ -436,19 +436,19 @@
 /145 Petrification
 #This special ranged attack allows the unit to turn the enemy into a statue for 6 turns. The petrified enemy cannot do anything, but its defense is increased. An enemy's resistance can reduce the duration of the petrification.#
 
-/146 Petrification +1
+/146 Petrification 1
 #Increases the duration of petrification by 1.#
 
 /147 Poison Flesh
 #The flesh of this creature is so venomous that anyone attacking it in melee will be intoxicated with a poison of 2-point strength.#
 
-/148 Poison Flesh +1
+/148 Poison Flesh 1
 #The creature's flesh is made even more poisonous, affecting the strength of the poison affecting anyone who attacks it in melee.#
 
 /149 Energy Control
 #The ability to control magic energy allows the unit to ignore 2 points of target's resistance while using a magical ranged attack.#
 
-/150 Energy Control +1
+/150 Energy Control 1
 #The ability to control magic energy is increased, allowing the unit to ignore an additional point of enemy resistance while using a magical ranged attack.#
 
 /151 Poison Shot 
@@ -535,7 +535,7 @@ Teach a unit to cast the "Quen" sign that increases armor and resistance.#
 #A special ability allowing the unit to partially heal his wounds while resting.#
 
 /178 Become Bone Spearman
-#Skeleton is equiped with throwing javelins becoming Bone Spearman and is able to attack remotely.#
+#Skeleton is equipped with throwing javelins becoming Bone Spearman and is able to attack remotely.#
 
 /179 Become Mummy
 #Gives a zombie armor and a weapon, creating a much more dangerous and powerful undead creature - a Mummy.#
@@ -589,7 +589,7 @@ Teach a unit to cast the "Quen" sign that increases armor and resistance.#
 #The unit is taught to cast "Wasp Swarm" spell, summoning a swarm of stinging insects on target unit which can't act and receives minor damage. Has no effect on the Undead and Mechanical units.#
 
 /196 Summon Wasp Cloud Spell
-#The unit is taught to cast "Wasp Cloud" spell, summoning a cloud of stinging insects on target area. Units strucked by spell can't act and receive minor damage. Has no effect on the Undead and Mechanical units.#
+#The unit is taught to cast "Wasp Cloud" spell, summoning a cloud of stinging insects on target area. Units struck by spell can't act and receive minor damage. Has no effect on the Undead and Mechanical units.#
 
 /197 Life Breath Spell
 #The unit is taught to cast "Life Breath" spell, restoring health to friendly units and cure the poison.#
@@ -631,7 +631,7 @@ Teach a unit to cast the "Quen" sign that increases armor and resistance.#
 #The unit can cast the "Soothe Spirits" spell, which restores 6 HP to friendly elementals.#
 
 /210 Mass Rage
-#The unit can cast the "Mass Rage" spell, whichs gives all friendly units Fearless, Intimidation 2, and Bloodlust 3.#
+#The unit can cast the "Mass Rage" spell, which gives all friendly units Fearless, Intimidation 2, and Bloodlust 3.#
 
 /211 Tribe's Blood
 #The unit can cast the "Tribe's Blood" spell, which heals all nearby friendly units for 4 HP, cures poisoning and bleeding, and reduces the effects of Rotting Wounds.#
@@ -643,7 +643,7 @@ Teach a unit to cast the "Quen" sign that increases armor and resistance.#
 #When a thief becomes experienced enough, he is able to join the Dark Brotherhood, where he will receive new equipment and will be able to join the ranks of troops known as Bandits.#
 
 /214 Quagmire
-#The unit is taught to cast "Quagmire" spell, slowing the enemy and reduces it's defense and ranged defense.#
+#The unit is taught to cast "Quagmire" spell, slowing the enemy and reduces its defense and ranged defense.#
 
 /215 Weakness
 #The unit is taught to cast "Weakness" spell, reducing attack of the target unit.#
@@ -823,7 +823,7 @@ Teach a unit to cast the "Quen" sign that increases armor and resistance.#
 #The unit is taught to cast the "Divine Vengeance" spell, inflicting damage to all demons and undead within 2 tiles.#
 
 /274 Become Battle Gryphon
-#Equip the griphon with armor so it will able to join the ranks of Battle Griphons.#
+#Equip the Gryphon with armor so it will able to join the ranks of Battle Gryphons.#
 
 /275 Become Punisher
 #When soldier received better equipment he is able to join the ranks of Punishers.#
@@ -834,10 +834,10 @@ Teach a unit to cast the "Quen" sign that increases armor and resistance.#
 /277 Become Keshik
 #When soldier received better equipment he is able to join the ranks of Keshiks.#
 
-/278 Smite Evil +2
+/278 Smite Evil 2
 #The unit inflicts additional damage on enemies whose souls are tainted by evil.#
 
-/279 Smite Evil +3
+/279 Smite Evil 3
 #The unit inflicts additional damage on enemies whose souls are tainted by evil.#
 
 /280 Become Necromancer
@@ -867,8 +867,8 @@ Teach a unit to cast the "Quen" sign that increases armor and resistance.#
 /288 Archmage Tome
 ##
 
-/289 Magic Fight
-#Unit deals magical damage instead of physical damage. Resistance is used to reduce damage form those kinds of attacks.#
+/289 Magic Damage
+#Unit deals magic damage instead of physical damage. Resistance is used to reduce damage form those kinds of attacks.#
 
 /290 Enslave Mind Spell
 #The unit is taught to cast "Enslave Mind" spell, gaining control of target enemy unit.#
@@ -994,7 +994,7 @@ Teach a unit to cast the "Quen" sign that increases armor and resistance.#
 #The unit is taught to cast "Fiend Transformation" spell, transforming a friendly or enemy unit into fiend. Resistance protects only partially against this spell.#
 
 /331 Cleric Transformation Spell
-#The unit is taught to cast "Clerik Transformation" spell, transforming a friendly or enemy unit into clerik. Resistance has almost no protection against this spell. Magic immunity does not apply.#
+#The unit is taught to cast "Cleric Transformation" spell, transforming a friendly or enemy unit into cleric. Resistance has almost no protection against this spell. Magic immunity does not apply.#
 
 /332 Fire Blade Spell
 #The unit is taught to cast "Fire Blade" spell, increasing all kinds of attacks of friendly unit by 4 and changing damage to magical.#
@@ -1262,10 +1262,10 @@ Does not affect the undead, mechanical units and heroes.#
 #When soldier received better equipment he is able to join the ranks of Preachers.#
 
 /419 Fearless Spell
-#The unit is taught to cast "Fearless" spell, restoring the morale of friendly unit and increasing it's attack for a while.#
+#The unit is taught to cast "Fearless" spell, restoring the morale of friendly unit and increasing its attack for a while.#
 
 /420 Immobilization
-#Immobilizing an enemy unit with the melee attack, preventing to move during it's turn.#
+#Immobilizing an enemy unit with the melee attack, preventing to move during its turn.#
 
 /421 Spectre
 ##
@@ -1499,7 +1499,7 @@ Unit HP -8.#
 ##
 
 /486 Forest Knowledge +2
-#Unit spends only 1 movement point to cross a forest tile. And standing on a forest tiile increases Ranged Defense by 2 x (Lvl-1).#
+#Unit spends only 1 movement point to cross a forest tile. And standing on a forest tile increases Ranged Defense by 2 x (Lvl-1).#
 
 /487 Hills Knowledge +2
 #Unit spends only 1 movement point to cross a hills tile, without wasting any stamina. And standing on a hills tile increases its Defense and CounterAttack by Lvl-1.#
@@ -1594,7 +1594,7 @@ Bloodsucker +10.#
 ##
 
 /515 Frenzy
-#The unit may spend two 2 extra stamina points to recover 10 hit poins when dealing melee damage.#
+#The unit may spend two 2 extra stamina points to recover 10 HP when dealing melee damage.#
 
 /516 Destroyer
 ##
@@ -1645,7 +1645,7 @@ Bloodsucker +10.#
 ##
 
 /532 Mass Disease Spell
-#The unit is taught to cast the "Mass Disease" spell, which infects all living enemy creaturs with a disease.#
+#The unit is taught to cast the "Mass Disease" spell, which infects all living enemy creatures with a disease.#
 
 /533 Self-control +1
 #Every turn the unit will restore 1 more ammo.#
@@ -1689,7 +1689,7 @@ Bloodsucker +10.#
 /546 Entanglement Immunity
 #It's impossible to entangle the unit in roots.#
 
-/547 Spellpower +1
+/547 Spellpower 1
 #Increase the unit's Spellpower by 1.#
 
 /548 Spell Duration 1
@@ -1822,7 +1822,7 @@ Bloodsucker +10.#
 #When the unit is attacked in melee for the first time in a given turn, his defense is increased by 3.#
 
 /591  Forest Knowledge +1
-#Unit spends only 1 movement point to cross a forest tile. And standing on a forest tiile increases Ranged Defense by 2 x (Lvl-1).#
+#Unit spends only 1 movement point to cross a forest tile. And standing on a forest tile increases Ranged Defense by 2 x (Lvl-1).#
 
 /592 Change Weapon - Magic Strike
 #The unit changes to its second weapon, dealing magical damage.#
@@ -1915,7 +1915,7 @@ Bloodsucker +10.#
 #Increase the strength of the summoned undead unit by 1.#
 
 /622 Frenzy
-#The unit may spend two 2 extra stamina points to recover 5 hit poins when dealing melee damage.#
+#The unit may spend two 2 extra stamina points to recover 5 HP when dealing melee damage.#
 
 /623 Frenzy
 #Increase hit point recovery from melee damage by 5.#
@@ -1957,7 +1957,7 @@ Bloodsucker +10.#
 ##
 
 /636 Burning
-#Unir is burning and loses health every turn!#
+#Unit is burning and loses health every turn!#
 
 /637 Life Leech
 #When using Magic Shot on the enemy, the unit restores hit points equal to 25~ of the damage dealt.#

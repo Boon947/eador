@@ -361,7 +361,7 @@ Your world is the main source of Energy income. Each Shard joined to your world 
 #Try powerful spells and rituals, train elite warriors and fight huge monsters. Obtain legendary artifacts and collect rare armor sets.#
 
 113. Hint Miscellaneous
-# New Horizons 15.1231 - English translation v2.60a#
+# New Horizons 15.1231.f01 - English translation v2.60b#
 
 114. No lottery
 #  
@@ -395,16 +395,16 @@ Your world is the main source of Energy income. Each Shard joined to your world 
 #%s
         %s#
 
-124. Quest Info 1
+124. Making quest labels 1
 #%s
 Also accepted: %s.#
 
-125. Quest Info 2
+125. Making quest labels 2
 #%s
 The quest will be considered completed once the hero and his army destroy at least %d creatures.#
 
 126. Auto-level
 #Automatically increase the level of units of specified ranks.#
 
-127. Debris
+127. Rubble
 #Remains of shattered fortifications. On the battlefield, crossing a tile covered in rubble costs 2 movement points and 1 stamina.#

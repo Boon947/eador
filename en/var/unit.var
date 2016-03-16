@@ -10213,7 +10213,7 @@ Lvl 19 loot: (0, 0)
 Lvl 20 loot: (0, 0)
 
 /129
-Name: Goblin-hunter;
+Name: Goblin Hunter;
 Level: 2
 Life: 18
 Attack: 9
@@ -13109,7 +13109,7 @@ Lvl 19 loot: (0, 0)
 Lvl 20 loot: (0, 0)
 
 /165
-Name: Mother Keeper;
+Name: Matriarch;
 Level: 4
 Life: 30
 Attack: 12
@@ -22611,7 +22611,6 @@ Lvl 04 upgrades: (1, 4; 13, 4)
 Lvl 05 upgrades: (735, 6; 548, 5)
 Lvl 06 upgrades: (1, 4; 1, 4)
 Lvl 07 upgrades: (1, 4; 16, 4)
-Lvl 08 upgrades: (1, 4; 2, 4)
 Lvl 08 upgrades: (1, 4; 2, 4)
 Lvl 09 upgrades: (1, 4; 13, 4)
 Lvl 10 upgrades: (736, 8; 210, 10)
