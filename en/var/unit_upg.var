@@ -1267,7 +1267,7 @@ Upg Type: 62
 Quantity: 86;
 
 /171
-Name: Become Battle Shaman;
+Name: Become Witch Doctor;
 Only Once: 1
 Need: (0)
 Upg Type: 62
@@ -4107,7 +4107,7 @@ Upg Type: 2289
 Quantity: 1;
 
 /509
-Name: Ripper;
+Name: Shredder;
 Only Once: 1
 Need: (0)
 Upg Type: 18

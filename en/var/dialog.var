@@ -16152,7 +16152,7 @@ Bitmap: 193;
 Text: #The Master of Decay listened impassively to the refusal and departed.#
 Answer1: Let him go!;
 Answer2: Catch up and kill him!;
-Answer3: Agitate the ratman inhabitants (-150 $ );#####
+Answer3: Rouse the population against Ratmen (-150 $ );#####
 
 /2108 Эксперименты с чумой, убить Повелителя Распада
 Window: 2;

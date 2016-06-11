@@ -513,8 +513,8 @@ Teach a unit to cast the "Quen" sign that increases armor and resistance.#
 /170 Become Veteran Spearman
 #When spearman received better equipment he is able to join the ranks of Veteran Spearmen.#
 
-/171 Become Battle Shaman
-#When a shaman receives better equipment he is able to join the ranks of Battle Shamans.#
+/171 Become Witch Doctor
+#When a shaman receives better equipment he is able to join the ranks of Witch Doctors.#
 
 /172 Become Cutthroat
 #When an assassin receives better equipment he is able to join the ranks of cutthroats.#
@@ -1575,7 +1575,7 @@ Bloodsucker +10.#
 /508 Rat Reaper
 ##
 
-/509 Ripper
+/509 Shredder
 ##
 
 /510 Battle Cry Spell

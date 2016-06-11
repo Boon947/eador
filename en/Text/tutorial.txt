@@ -422,7 +422,7 @@ Servants of Death - Undead, completely immune to both the few healing spells for
 
 Demons - the spawn of Chaos in the material world. Can be healed, resurrected, or awarded medals, but cannot be sacrificed.
 
-Lord of Chaos - a very powerful creature, spawn of Chaos. Immune to many spells, mainly pertaining to Chaos magic.
+Chaos Lord - a very powerful creature, spawn of Chaos. Immune to many spells, mainly pertaining to Chaos magic.
 
 Mechanical units - artificial creatures, assembled from various materials. Can be repaired, but cannot be healed, resurrected, awarded medals, or sacrificed.
 

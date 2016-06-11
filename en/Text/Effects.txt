@@ -86,7 +86,7 @@
 #The unit has been blinded and is unable to attack.#
 
 29. Word of Life
-#A spell makes the unit restore 5 hit points and 2 stamina points per turn. Its attack and speed are increased by 1. #
+#A spell makes the unit recover 5 hit points and 2 stamina points per turn. Its attack and speed are increased by 1. #
 
 30. Word of Ice
 #The unit has been turned into an ice statue. It is unable to do anything, but its armor is increased.#

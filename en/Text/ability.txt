@@ -752,7 +752,7 @@ Ammo units consumed by casting: %d.#
 Ammo units consumed by casting: %d.#
 
 /204 Word of Life Spell
-#This unit can cast the Word of Life spell, increasing its attack, counterattack and speed by 1 each turn, and also restoring some hit points and stamina points to the target.
+#This unit can cast the "Word of Life" Spell, which increases the target's Attack, Counterattack, and Speed by 1, and restores some Health and Stamina every turn.
 Ammo units consumed by casting: %d.#
 
 /205 Mass Heal Spell

@@ -235,7 +235,7 @@ The summoning range and the hellhound's attributes depend on the caster's Summon
 School: Chaos Magic.
 Reduces the attack attributes of the target to zero. Lasts 4 turns.
 Duration increases with the caster's Concentration.
-Has no effect on the Undead, Mechanical units, Elementals, and Lords of Chaos.#
+Has no effect on the Undead, Mechanical units, Elementals, and Chaos Lords.#
 
 37. Restoration
 #Circle 2.
@@ -253,7 +253,7 @@ Damage increases significantly with the caster's Spellpower. Resistance protects
 39. Word of Life
 #Circle 2.
 School: Sacred Magic.
-Restores 5 hit points and 2 stamina points to the target, while its attack and speed increase by 1 every turn. Lasts 4 turns.
+The target recovers 5 HP and 2 Stamina each turn, while Attack and Speed are increased by 1. Lasts 4 turns.
 Duration increases with the caster's Concentration.
 Has no effect on the Undead, Mechanical units, and Elementals.#
 
@@ -447,7 +447,7 @@ The caster loses 10 hit points.
 A friendly unit needs to be sacrificed for this incantation.
 Inflicts 13 points of magic damage on all enemies.
 Damage increases greatly with the caster's Spellpower.
-Does not affect the undead and the Lord of Chaos.#
+Has no effect on the Undead and Chaos Lords.#
 
 69. Corrupt
 #Circle 4.
@@ -574,7 +574,7 @@ Moves friendly demon into a free tile.#
 #Circle 3.
 School: Chaos Magic.
 Target with the resistance of 4 or less inflict double damage on itself.
-Does not affect the undead, mechanical units and the Lord of Chaos.#
+Has no effect on the Undead, Mechanical units, and Chaos Lords.#
 
 89. Submission
 #Circle 4.
@@ -737,7 +737,7 @@ Has no effect on the Undead, Mechanical units, and Elementals.#
 111. Word of Chieftain
 #Combat abilities.
 Deals friendly creature 5 points of damage, but restores 2 Stamina and gives it an extra turn.
-Has no effect on the Undead, Mechanical units, Heroes, Elementals, and Lords of Chaos.#
+Has no effect on the Undead, Mechanical units, Heroes, Elementals, and Chaos Lords.#
 
 112. Quagmire
 #Circle 2.
@@ -1388,7 +1388,7 @@ Has no effect on the Undead, Mechanical units, and Elementals.#
 School: Shadow Magic.
 A friendly unit needs to be sacrificed for this incantation.
 Reduces all types of attacks of all enemies within 2 tiles to zero. Lasts 4 turns. Resistance protects only partially against this spell.
-Has no effect on the Undead, Mechanical units, Lords of Chaos, and Elementals.#
+Has no effect on the Undead, Mechanical units, Chaos Lords, and Elementals.#
 
 209. Titan's Strength
 #Circle 4.
@@ -1418,7 +1418,7 @@ School: Chaos Magic.
 Inflicts 50 points of magic damage to the target.
 Damage increases greatly with the caster's Spellpower.
 Ignores magic immunity.
-Does not affect the Lord of Chaos.#
+Has no effect on Chaos Lords.#
 
 213. Unrest
 #Circle 3.
@@ -1505,7 +1505,7 @@ School: Chaos Magic.
 The effect of this spell is cumulative.
 Decreases target's defense attributes by 3. Lasts 4 turns. Ignores magic resistance.
 Duration increases with the caster's Concentration.
-Has no effect on Lords of Chaos and incorporeal creatures.#
+Has no effect on Chaos Lords and incorporeal creatures.#
 
 225. Cat's Reflexes
 #Circle 1.
@@ -1557,7 +1557,7 @@ Has no effect on the Undead, Mechanical units, and Elementals.#
 School: Chaos Magic.
 Deals 10 points of damage to a friendly or enemy unit. The caster regains as many hit points as damage dealt.
 Damage increases slightly with the caster's Spellpower.
-Only works on Demons. Does not affect the Lord of Chaos.#
+Only works on Demons. Has no effect on Chaos Lords.#
 
 233. Mass Bless
 #Circle 3.
@@ -1596,14 +1596,14 @@ The summoning range and the Destroyer's attributes depend on the caster's Summon
 School: Chaos Magic.
 The caster loses 18 hit points.
 All friendly creatures on the battlefield restore 3 hit points, 1 point of stamina and get an extra turn. Only those units that have already made a turn, will get another one.
-Only works on Demons. Does not affect the Lord of Chaos.#
+Only works on Demons. Has no effect on Chaos Lords.#
 
 238. Chaos Surge
 #Circle 1.
 School: Chaos Magic.
 The caster loses 3 hit points.
 Friendly unit restores 1 point of stamina and gets an extra turn. Only those units that have already made a turn, will get another one.
-Only works on Demons. Does not affect the Lord of Chaos.#
+Only works on Demons. Has no effect on Chaos Lords.#
 
 239. Hellfire
 #Circle 3.
@@ -1626,7 +1626,7 @@ School: Chaos Magic.
 The caster loses 35 hit points.
 A friendly unit needs to be sacrificed for this incantation.
 Instantly kills one enemy unit. Magic Resistance and Magic Immunity offer no protection from this spell.
-Has no effect on the Undead, Mechanical units, Heroes, Elementals, and Lords of Chaos.#
+Has no effect on the Undead, Mechanical units, Heroes, Elementals, and Chaos Lords.#
 
 242. Raise Skeleton of Doom
 #Circle 2.
@@ -2419,7 +2419,7 @@ Has no effect on intrepid creatures.#
 #Circle 1.
 School: Chaos Magic.
 Inflicts 8 HP damage to either an ally or an enemy, and gives them an extra turn. Only allies who have already moved get an extra turn. Magic Resistance and Magic Immunity offer no protection from this spell.
-Has no effect on the Undead, Mechanical units, Heroes, Animals, Elementals, and Lords of Chaos.#
+Has no effect on the Undead, Mechanical units, Heroes, Animals, Elementals, and Chaos Lords.#
 
 358. Legacy of Chaos
 #Circle 1.
