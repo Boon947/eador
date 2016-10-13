@@ -12979,7 +12979,7 @@ Answer3: I've changed my mind. Farewell.;#####
 Window: 2;
 Bitmap: 43;
 Text: #The followers of the death cult are defeated. The altar before you holds an evil spirit. Its presence is a great danger for the whole province. However, you could contact powerful undead - perhaps they would follow you. What are your orders, Master?#
-Answer1: For the sake of all of us, destroy the altar! Consecrate the soil!;
+Answer1: Alright, destroy the altar and consecrate the soil!;
 Answer2: Let's see who's there...;
 Answer3: I don't care...;#####
 
@@ -13426,7 +13426,7 @@ Answer3: Let's see who's there...;#####
 /1756 Ритуал Тварь Хаоса, пересмешник
 Window: 2;
 Bitmap: 85;
-Text: #After performing the Chaos ritual, a succubus appears above the pentagram, ready to server its new master.#
+Text: #After performing the Chaos ritual, a Mocker appears inside the pentagram, ready to serve its new master.#
 Answer1: Continue.;#####
 
 /1757 Игорный дом, героя перегружен
@@ -13841,19 +13841,19 @@ Answer1: Continue.;#####
 /1810 Ритуал Тварь Хаоса, отродье
 Window: 2;
 Bitmap: 85;
-Text: #After performing the Chaos ritual, a spawn appears above the pentagram, ready to serve its new master.#
+Text: #After performing the Chaos ritual, a Spawn appears inside the pentagram, ready to serve its new master.#
 Answer1: Continue.;#####
 
 /1811 Ритуал Тварь Хаоса, суккуб
 Window: 2;
 Bitmap: 85;
-Text: #After performing the Chaos ritual, a succubus appears above the pentagram, ready to server its new master.#
+Text: #After performing the Chaos ritual, a Succubus appears inside the pentagram, ready to serve its new master.#
 Answer1: Continue.;#####
 
 /1812 Ритуал Тварь Хаоса, цербер
 Window: 2;
 Bitmap: 85;
-Text: #After performing the Chaos ritual, a cerberus appears above the pentagram, ready to server its new master.#
+Text: #After performing the Chaos ritual, a Cerberus appears inside the pentagram, ready to serve its new master.#
 Answer1: Continue.;#####
 
 /1813 Цитадель инквизиции (переговоры 1)
@@ -16126,7 +16126,7 @@ Answer3: Let's see who's there...;#####
 /2104 Эксперименты с чумой, начало
 Window: 2;
 Bitmap: 193;
-Text: #Your governor of the province of %s reports that a certain ratman, who calls himself a Master of Decay, asks for permission to perform some magical experiments. He is willing to pay 90 gems for your permission."#
+Text: #Your governor of the province of %s reports that a certain ratman, who calls himself a Master of Decay, asks for permission to perform some magical experiments. He is willing to pay 90 gems for your permission.#
 Answer1: Sure, let him experiment.;
 Answer2: Let him experiment. But let no one know about it!;
 Answer3: No experiments!;#####
@@ -16783,7 +16783,7 @@ Answer2: Retreat.;#####
 /2193 Эксперименты с чумой (хорошее), начало
 Window: 2;
 Bitmap: 193;
-Text: #Your governor of the province of %s reports that a certain ratman, who calls himself a Master of Decay, asks for permission to perform some magical experiments. He is willing to pay 90 gems for your permission."#
+Text: #Your governor of the province of %s reports that a certain ratman, who calls himself a Master of Decay, asks for permission to perform some magical experiments. He is willing to pay 90 gems for your permission.#
 Answer1: Sure, let him experiment.;
 Answer2: Let him experiment. But let no one know about it!;
 Answer3: No experiments!;#####

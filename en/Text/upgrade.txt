@@ -702,8 +702,8 @@ Teach a unit to cast the "Quen" sign that increases armor and resistance.#
 /233 Become Pikeman
 #When a militiaman survives many battles, he can get new equipment for his deeds and can be promoted to a Pikeman.#
 
-/234 Become Bandit
-#When militiaman steps on a slippery path of robbery, he could become Bandit.#
+/234 Become Brigand
+#If you let this unit walk the slippery slope of Brigands, he will soon become one.#
 
 /235 Become Shaman
 #When a militiaman is taught techniques and rituals of wild magic, he can be promoted to a Shaman.#
@@ -715,7 +715,7 @@ Teach a unit to cast the "Quen" sign that increases armor and resistance.#
 #When militiaman survives many battles he could get new equipment for his deeds and could be promoted to Swordsman.#
 
 /238 Become Thief
-#When militiaman steps on a slippery path of thievery, he could become Bandit.#
+#If you let this unit walk the slippery slope of Thieves, he will soon become one.#
 
 /239 Armor Piercing Shot
 #The unit is taught to cast "Armor Piercing Shot" spell, adding armor-piercing effect to friendly unit shots. #
@@ -2184,7 +2184,7 @@ Bloodsucker +10.#
 /711 Cause Putrefaction +2
 #Increases the duration of the opponent's putrefying wounds.#
 
-/712 Tracker
+/712 Scavenger
 #After combat this unit can search enemies, increasing the income of trophies by 10~.#
 
 /713 Workaholic

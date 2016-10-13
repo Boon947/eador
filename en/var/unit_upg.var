@@ -1708,7 +1708,7 @@ Upg Type: 62
 Quantity: 6;
 
 /234
-Name: Become Bandit;
+Name: Become Brigand;
 Only Once: 1
 Need: (0)
 Upg Type: 62
@@ -5888,7 +5888,7 @@ Upg Type: 137
 Quantity: 2;
 
 /712
-Name: Tracker +10;
+Name: Scavenger +10;
 Only Once: 0
 Need: (0)
 Upg Type: 204

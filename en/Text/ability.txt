@@ -1252,8 +1252,8 @@ Ammo units consumed by casting: %d.#
 /331 Entangling Shot
 #This unit can entangle an enemy in roots from a distance, preventing it from moving for several turns. No effect on incorporeal enemies.#
 
-/332 Skillful Tracker
-#This unit has the Tracker ability, making it easier to search locations for loot. The increase is half of its level of ability.#
+/332 Skillful Looter
+#Improves a Scavenger's chances to find loot in province sites. Bonus is equal to half of the Scavenger bonus.#
 
 /333 Summon Mocker Spell
 #This unit can cast the "Summon Mocker" spell, summoning a mocker to a tile adjacent to the summoner. Caster loses 5 hit points.
@@ -1550,7 +1550,7 @@ Its resistance is reduced by half and it loses 3 morale points each turn. The un
 #This unit can cast the Mass Disease spell, infecting all enemy creatures with a disease.
 Ammo units consumed by casting: %d.#
 
-/409 Tracker
+/409 Scavenger
 #After combat this unit can search enemies, increasing the income of trophies by %d~.#
 
 /410 Shadow Form Craver Spell

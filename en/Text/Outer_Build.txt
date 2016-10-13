@@ -298,7 +298,7 @@ Population mood -2.#
 50. Orcish Outpost
 #Small first and second rank garrison.
 Increases spotting range.
-May be built in a province alongside a regular Outpost.#
+Cannot be built alongside a regular Outpost.#
 
 51. Dwarven Mine
 #Mine Upgrade.

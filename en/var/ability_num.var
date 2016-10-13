@@ -2325,7 +2325,7 @@ Effect: 0
 Percent: 0
 
 /332
-Name: Skillful Tracker;
+Name: Skillful Looter;
 Number: 205
 Numeric: 0
 Effect: 0
@@ -2864,7 +2864,7 @@ Effect: 0
 Percent: 0
 
 /409
-Name: Tracker;
+Name: Scavenger;
 Number: 204
 Numeric: 1
 Effect: 1
