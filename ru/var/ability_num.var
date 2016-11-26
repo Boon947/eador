@@ -1,4 +1,4 @@
-Quantity: 524
+Quantity: 526
 
 /0
 Name: Пусто;
@@ -3673,4 +3673,18 @@ Name: Восполнение снарядов;
 Number: 227
 Numeric: 0
 Effect: 0
+Percent: 0
+
+/525
+Name: Тяжёлая броня;
+Number: 221
+Numeric: 1
+Effect: -1
+Percent: 0
+
+/526
+Name: Уклонение;
+Number: 222
+Numeric: 1
+Effect: 1
 Percent: 0

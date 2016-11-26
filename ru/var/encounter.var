@@ -25946,7 +25946,12 @@ Param2: 2000
 Index: 4
 Power: 1
 Param1: 2
-Param2: 250;
+Param2: 250
+
+Index: 15
+Power: 16
+Param1: 0
+Param2: 1003;
 
 /1079 Игорный дом (списываем максимальную ставку)
 Type: 0

@@ -1,4 +1,4 @@
-Quantity: 220
+Quantity: 221
 
 /0
 Name: Пусто;
@@ -1325,3 +1325,9 @@ Name: Экзорцизм;
 Ability: 0
 Spell: 38
 Numeric: 0
+
+/221
+Name: Уклонение;
+Ability: 222
+Spell: 0
+Numeric: 1

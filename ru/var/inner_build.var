@@ -3411,7 +3411,7 @@ Upgrade: 86
 Hidden: 0
 Level: 2
 
-Buildings: (42, 86)
+Buildings: (42, 86, 103)
 Resource: (3, 5, 7)
 
 *Ability*:
@@ -3455,7 +3455,7 @@ Upgrade: 88
 Hidden: 0
 Level: 2
 
-Buildings: (42, 88)
+Buildings: (42, 48, 88)
 Resource: (3, 1, 7, 7)
 
 *Ability*:
@@ -7087,7 +7087,7 @@ GoldCost: 1300
 GemCost: 120
 Group: 0
 Slot: 62
-Upgrade: 
+Upgrade: 0
 Hidden: 0
 Level: 0
 
@@ -7161,7 +7161,7 @@ Upgrade: 0
 Hidden: 0
 Level: -1
 
-Buildings: (3, 40)
+Buildings: (3)
 Resource: (4, 2)
 
 Ability:
@@ -7187,7 +7187,7 @@ Upgrade: 285
 Hidden: 0
 Level: 2
 
-Buildings: (43, 285)
+Buildings: (43, 285, 40)
 Resource: (2, 4, 4, 5)
 
 Ability:

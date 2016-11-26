@@ -281,7 +281,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 7
 UnitKind: (0)
-AntiEffect: (110)
+AntiEffect: (110, 80)
 
 Effects:
 Speed: 7
@@ -409,17 +409,21 @@ Duration: 6
 
 Resist: 6
 Power: -1
+Duration: 6
+
+Resist: 136
+Power: 1
 Duration: 6;
 
 
 /11
 Name: Благословение;
-Cost: 1
+Cost: 2
 LifeCost: 0
 StamCost: 1
 ItemLevel: 1
 Level: 1
-PowerMod: 100
+PowerMod: 35
 DurationMod: 0
 Target: 1
 Area: 1
@@ -463,11 +467,7 @@ Duration: 6
 
 Resist: 6
 Power: 1
-Duration: 6
-
-Stamina: 11
-Power: 1
-Duration: -1;
+Duration: 6;
 
 /12
 Name: Лечение;
@@ -679,7 +679,7 @@ StamCost: 1
 ItemLevel: 1
 Level: 1
 PowerMod: 0
-DurationMod: 25
+DurationMod: 35
 Target: 1
 Area: 1
 Radius: 0
@@ -702,7 +702,7 @@ AntiEffect: (110, 105)
 Effects:
 Web: 47
 Power: 0
-Duration: 3;
+Duration: 2;
 
 /19
 Name: Вызов беса;
@@ -3947,7 +3947,7 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 112
-UnitKind: (4, 22, 23, 27)
+UnitKind: (-10)
 AntiEffect: (110)
 
 Effects:
@@ -3959,8 +3959,8 @@ RangedDefence: 5
 Power: 2
 Duration: 2
 
-FirstAid: 35
-Power: 4
+Regen: 48
+Power: 2
 Duration: 2;
 
 /106
@@ -4035,6 +4035,10 @@ AntiEffect: (110)
 Effects:
 Resist: 6
 Power: 2
+Duration: 2
+
+Speed: 7
+Power: 1
 Duration: 2
 
 Fearless: 19
@@ -8821,8 +8825,8 @@ LifeCost: 0
 StamCost: 2
 ItemLevel: 3
 Level: 3
-PowerMod: 0
-DurationMod: 100
+PowerMod: 100
+DurationMod: 0
 Target: 0
 Area: 2
 Radius: 0
@@ -8844,11 +8848,11 @@ AntiEffect: (110)
 
 Effects:
 Attack: 2
-Power: 2
+Power: 1
 Duration: 5
 
 CounterAttack: 3
-Power: 2
+Power: 1
 Duration: 5
 
 RangedAttack: 8
@@ -8865,11 +8869,7 @@ Duration: 5
 
 Resist: 6
 Power: 1
-Duration: 5
-
-Stamina: 11
-Power: 2
-Duration: -1;
+Duration: 5;
 
 /234
 Name: Целебный сон;
@@ -14474,7 +14474,7 @@ Cost: 25
 LifeCost: 0
 StamCost: 4
 ItemLevel: 3
-Level: 2
+Level: 4
 PowerMod: 50
 DurationMod: 0
 Target: 0
@@ -14530,7 +14530,7 @@ UnitKind: (0)
 AntiEffect: (0)
 
 Effects:
-Summon: 1019
+Summon: 1216
 Power: 0
 Duration: -1;
 

@@ -1,4 +1,4 @@
-Quantity: 780
+Quantity: 784
 
 /0
 Name: Пусто;
@@ -1837,7 +1837,7 @@ Quantity: 1;
 Name: Установить улей;
 Only Once: 1
 Need: (0)
-Upg Type: 2371
+Upg Type: 2372
 Quantity: 1;
 
 /253
@@ -3973,13 +3973,13 @@ Quantity: 2;
 Name: Серый повелитель;
 Only Once: 1
 Need: (0)
+Upg Type: 16
+Quantity: 1
+
 Upg Type: 26
 Quantity: 1
 
 Upg Type: 108
-Quantity: 1
-
-Upg Type: 229
 Quantity: 1
 
 Upg Type: 2293
@@ -4387,7 +4387,7 @@ Quantity: 2
 Upg Type: 42
 Quantity: 2
 
-Upg Type: 229
+Upg Type: 108
 Quantity: 1
 
 Upg Type: 3217
@@ -6335,8 +6335,8 @@ Need: (0)
 Upg Type: 336
 Quantity: 1
 
-Upg Type: 3035
-Quantity: 2;
+Upg Type: 3048
+Quantity: 1;
 
 /761
 Name: Живительная сила;
@@ -6347,9 +6347,6 @@ Quantity: -1
 
 Upg Type: 337
 Quantity: 2
-
-Upg Type: 3035
-Quantity: 1
 
 Upg Type: 3195
 Quantity: 1;
@@ -6364,10 +6361,7 @@ Quantity: -2
 Upg Type: 338
 Quantity: 3
 
-Upg Type: 3035
-Quantity: 1
-
-Upg Type: 3195
+Upg Type: 3048
 Quantity: 1;
 
 /763
@@ -6380,7 +6374,7 @@ Quantity: -3
 Upg Type: 339
 Quantity: 4
 
-Upg Type: 3035
+Upg Type: 3048
 Quantity: 1
 
 Upg Type: 3195
@@ -6540,3 +6534,31 @@ Quantity: 1
 
 Upg Type: 355
 Quantity: 1;
+
+/781
+Name: Уклонение +2;
+Only Once: 1
+Need: (0)
+Upg Type: 222
+Quantity: 2;
+
+/782
+Name: Уклонение +1;
+Only Once: 0
+Need: (0)
+Upg Type: 222
+Quantity: 1;
+
+/783
+Name: Тяжёлая броня 1;
+Only Once: 1
+Need: (0)
+Upg Type: 221
+Quantity: 1;
+
+/784
+Name: Тяжёлая броня 2;
+Only Once: 1
+Need: (0)
+Upg Type: 221
+Quantity: 2;
