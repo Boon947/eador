@@ -1,4 +1,4 @@
-Quantity: 38
+Quantity: 42
 
 /0
 Name: Пусто;
@@ -937,4 +937,92 @@ Param2: 0
 
 Effect: 5
 Param1: 1463
+Param2: 0;
+
+/39
+Name: Святое воинство;
+GoldCost: 250
+GemCost: 50
+Sound: 73
+Karma: 0
+OnAlly: 0
+OnEnemy: 1
+Time: 0
+Cooldown: 10
+Event: 1848
+ItemLevel: 4
+ItemRarity: 3
+
+Resource: (8)
+
+Effects:
+Effect: 0
+Param1: 0
+Param2: 0;
+
+/40
+Name: Чудо природы;
+GoldCost: 0
+GemCost: 10
+Sound: 11
+Karma: 1
+OnAlly: 1
+OnEnemy: 0
+Time: 10
+Cooldown: 10
+Event: 0
+ItemLevel: 2
+ItemRarity: 2
+
+Resource: (0)
+
+Effects:
+Effect: 2
+Param1: 8
+Param2: 0;
+
+/41
+Name: Зов природы;
+GoldCost: 0
+GemCost: 25
+Sound: 244
+Karma: 0
+OnAlly: 1
+OnEnemy: 0
+Time: 0
+Cooldown: 7
+Event: 0
+ItemLevel: 2
+ItemRarity: 2
+
+Resource: (4)
+
+Effects:
+Effect: 20
+Param1: 1
+Param2: 0
+
+Effect: 5
+Param1: 1485
+Param2: 0;
+
+/42
+Name: Священная земля;
+GoldCost: 0
+GemCost: 45
+Sound: 11
+Karma: 0
+OnAlly: 1
+OnEnemy: 0
+Time: 0
+Cooldown: 12
+Event: 0
+ItemLevel: 4
+ItemRarity: 4
+
+Resource: (5)
+
+Effects:
+Effect: 3
+Param1: 1844
 Param2: 0;

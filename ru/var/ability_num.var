@@ -1,4 +1,4 @@
-Quantity: 510
+Quantity: 524
 
 /0
 Name: Пусто;
@@ -332,7 +332,7 @@ Percent: 0
 /47
 Name: Паутина;
 Number: 47
-Numeric: 0
+Numeric: 1
 Effect: 0
 Percent: 0
 
@@ -345,7 +345,7 @@ Percent: 0
 
 /49
 Name: Трупоед;
-Number: 49
+Number: 226
 Numeric: 1
 Effect: 1
 Percent: 0
@@ -519,7 +519,7 @@ Effect: 0
 Percent: 0
 
 /74
-Name: Насылает болезнь;
+Name: Насылает чахотку;
 Number: 178
 Numeric: 0
 Effect: 0
@@ -729,7 +729,7 @@ Effect: 0
 Percent: 0
 
 /104
-Name: Заклятье "Проклятие";
+Name: Заклятье "Сглаз";
 Number: 2010
 Numeric: 1
 Effect: 0
@@ -743,7 +743,7 @@ Effect: 0
 Percent: 0
 
 /106
-Name: Заклятье "Огненный шар";
+Name: Заклятье "Взрыв";
 Number: 2023
 Numeric: 1
 Effect: 0
@@ -876,7 +876,7 @@ Effect: 0
 Percent: 0
 
 /125
-Name: Заклятье "Замедление";
+Name: Заклятье "Встречный ветер";
 Number: 2007
 Numeric: 1
 Effect: 0
@@ -1373,50 +1373,50 @@ Effect: 0
 Percent: 0
 
 /196
-Name: Заклятье "Исступление";
-Number: 2133
-Numeric: 1
-Effect: 0
-Percent: 0
-
-/197
-Name: Заклятье "Кровавая ярость";
-Number: 2134
-Numeric: 1
-Effect: 0
-Percent: 0
-
-/198
-Name: Заклятье "Силок";
-Number: 2135
-Numeric: 1
-Effect: 0
-Percent: 0
-
-/199
-Name: Заклятье "Капкан";
-Number: 2136
-Numeric: 1
-Effect: 0
-Percent: 0
-
-/200
-Name: Заклятье "Яд болот";
+Name: Заклятье "Рой шершней";
 Number: 2137
 Numeric: 1
 Effect: 0
 Percent: 0
 
+/197
+Name: Заклятье "Ядовитый коготь";
+Number: 2133
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/198
+Name: Заклятье "Установить капкан";
+Number: 2370
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/199
+Name: Заклятье "Установить силок";
+Number: 2371
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/200
+Name: Заклятье "Установить улей";
+Number: 2372
+Numeric: 1
+Effect: 0
+Percent: 0
+
 /201
-Name: Заклятье "Регенерация";
-Number: 2138
+Name: Заклятье "Кровь болот";
+Number: 2134
 Numeric: 1
 Effect: 0
 Percent: 0
 
 /202
-Name: Заклятье "Отравить оружие";
-Number: 2139
+Name: Заклятье "Прожорливость";
+Number: 2138
 Numeric: 1
 Effect: 0
 Percent: 0
@@ -1961,7 +1961,7 @@ Effect: 0
 Percent: 0
 
 /280
-Name: Заклятье "Волшебный кристалл";
+Name: Заклятье "Кристалл Тьмы";
 Number: 2197
 Numeric: 1
 Effect: 0
@@ -2003,7 +2003,7 @@ Effect: 0
 Percent: 0
 
 /286
-Name: Заклятье "Теневой вор";
+Name: Заклятье "Астральный вор";
 Number: 2097
 Numeric: 1
 Effect: 0
@@ -2354,21 +2354,21 @@ Percent: 0
 
 /336
 Name: Клеймо тролля;
-Number: 226
+Number: 346
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /337
 Name: Клеймо волка;
-Number: 227
+Number: 347
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /338
 Name: Клеймо цербера;
-Number: 228
+Number: 348
 Numeric: 0
 Effect: 0
 Percent: 0
@@ -2431,48 +2431,48 @@ Percent: 0
 
 /347
 Name: Клеймо отродья;
-Number: 229
+Number: 349
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /348
 Name: Клеймо мстителя;
-Number: 230
+Number: 350
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /349
 Name: Клеймо суккуба;
-Number: 231
+Number: 351
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /350
 Name: Клеймо человека;
-Number: 225
+Number: 352
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /351
 Name: Клеймо людоеда;
-Number: 233
+Number: 353
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /352
 Name: Клеймо алкари;
-Number: 234
+Number: 354
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /353
-Name: Насылает недомогание;
+Name: Насылает лихорадку;
 Number: 177
 Numeric: 0
 Effect: 0
@@ -2738,35 +2738,35 @@ Effect: 0
 Percent: 0
 
 /391
-Name: Заклятье "Яростный рёв";
-Number: 2289
-Numeric: 1
+Name: Насылает проказу;
+Number: 176
+Numeric: 0
 Effect: 0
 Percent: 0
 
 /392
-Name: Заклятье "Лихорадка";
-Number: 2290
-Numeric: 1
+Name: "Магическая искра";
+Number: 355
+Numeric: 0
 Effect: 0
 Percent: 0
 
 /393
-Name: Заклятье "Истощение";
+Name: "Переносчик лихорадки";
 Number: 2291
 Numeric: 1
 Effect: 0
 Percent: 0
 
 /394
-Name: Заклятье "Чёрная чума";
+Name: "Переносчик чахотки";
 Number: 2292
 Numeric: 1
 Effect: 0
 Percent: 0
 
 /395
-Name: Заклятье "Мор";
+Name: "Переносчик проказы";
 Number: 2293
 Numeric: 1
 Effect: 0
@@ -2780,7 +2780,7 @@ Effect: 0
 Percent: 0
 
 /397
-Name: Заклятье "Призвать крысолюда";
+Name: "Рассадник лихорадки";
 Number: 2295
 Numeric: 1
 Effect: 0
@@ -2794,21 +2794,21 @@ Effect: 0
 Percent: 0
 
 /399
-Name: Заклятье "Призыв Когтя тени";
+Name: "Рассадник чахотки";
 Number: 2296
 Numeric: 1
 Effect: 0
 Percent: 0
 
 /400
-Name: Заклятье "Призвать короля";
+Name: "Рассадник проказы";
 Number: 2297
 Numeric: 1
 Effect: 0
 Percent: 0
 
 /401
-Name: Заклятье "Призвать крысоеда";
+Name: Заклятье "Проклятие";
 Number: 2298
 Numeric: 1
 Effect: 0
@@ -2857,7 +2857,7 @@ Effect: 0
 Percent: 0
 
 /408
-Name: Заклятье "Общая болезнь";
+Name: Заклятье "Мор";
 Number: 2062
 Numeric: 1
 Effect: 0
@@ -3576,3 +3576,101 @@ Number: 232
 Numeric: 1
 Effect: 1
 Percent: 1
+
+/511
+Name: Паника;
+Number: 216
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/512
+Name: Капкан;
+Number: 340
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/513
+Name: Силок;
+Number: 341
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/514
+Name: Улей шершней;
+Number: 342
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/515
+Name: Зуд;
+Number: 249
+Numeric: 0
+Effect: -1
+Percent: 0
+
+/516
+Name: Заклятье "Стрекало";
+Number: 2139
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/517
+Name: Заклятье "Подчинить зверя";
+Number: 2373
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/518
+Name: Удар и возврат;
+Number: 240
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/519
+Name: Удар в спину;
+Number: 228
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/520
+Name: Заклятье "Стая крыс";
+Number: 2378
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/521
+Name: Знаменосец;
+Number: 343
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/522
+Name: Насылает лихорадку;
+Number: 344
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/523
+Name: Насылает чахотку;
+Number: 345
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/524
+Name: Восполнение снарядов;
+Number: 227
+Numeric: 0
+Effect: 0
+Percent: 0

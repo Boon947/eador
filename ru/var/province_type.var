@@ -165,9 +165,9 @@ LevelExplored: 5
 
 Terrain_Possibility
 Plains: 0
-Forest: 10
+Forest: 15
 Hills: 0
-Swamp: 45
+Swamp: 50
 Desert: 0
 Tundra: 30
 
@@ -244,9 +244,9 @@ Explored: 25
 LevelExplored: 5
 
 Terrain_Possibility
-Plains: 30
+Plains: 25
 Forest: 0
-Hills: 45
+Hills: 40
 Swamp: 0
 Desert: 40
 Tundra: 30

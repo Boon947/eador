@@ -1,4 +1,4 @@
-Quantity: 566
+Quantity: 650
 
 /0
 Name: Пусто;
@@ -3967,4 +3967,592 @@ Name: Кеттари;
 Rarity: 2
 Coastal: 0
 Terrain: (3)
+Type: (0)
+
+/567
+Name: Долина Похорон;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/568
+Name: Земли Безводья;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/569
+Name: Земля Солнца;
+Rarity: 2
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/570
+Name: Золотые поля;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/571
+Name: Край ураганов;
+Rarity: 2
+Coastal: 1
+Terrain: (1)
+Type: (0)
+
+/572
+Name: Озёрный край;
+Rarity: 2
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/573
+Name: Пепельные пустоши;
+Rarity: 3
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/574
+Name: Песчаный край;
+Rarity: 2
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/575
+Name: Плодородные земли;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/576
+Name: Пропавшая долина;
+Rarity: 3
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/577
+Name: Пшеничные поля;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/578
+Name: Равнина Копий;
+Rarity: 2
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/579
+Name: Равнина Страха;
+Rarity: 3
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/580
+Name: Радужная долина;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/581
+Name: Рассветный край;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/582
+Name: Спорные пастбища;
+Rarity: 2
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/583
+Name: Утраченные земли;
+Rarity: 2
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/584
+Name: Белодревье;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/585
+Name: Дождливый лес;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/586
+Name: Древний лес;
+Rarity: 2
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/587
+Name: Живительная чаща;
+Rarity: 2
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/588
+Name: Заплетённая пуща;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/589
+Name: Зелёное сердце;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/590
+Name: Золотолесье;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/591
+Name: Карликовый лес;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/592
+Name: Кедровые леса;
+Rarity: 2
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/593
+Name: Королевский лес;
+Rarity: 3
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/594
+Name: Лес Благородных;
+Rarity: 2
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/595
+Name: Омрачённые дебри;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/596
+Name: Роща Чар;
+Rarity: 2
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/597
+Name: Стерегущий лес;
+Rarity: 2
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/598
+Name: Чернолесье;
+Rarity: 2
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/599
+Name: Козьи кручи;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/600
+Name: Дальние копи;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/601
+Name: Пламенное плато;
+Rarity: 2
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/602
+Name: Запустелое плато;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/603
+Name: Закатные отроги;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/604
+Name: Красное ущелье;
+Rarity: 2
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/605
+Name: Сторожевые холмы;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/606
+Name: Холодные холмы;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/607
+Name: Острия Грома;
+Rarity: 2
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/608
+Name: Слепой кряж;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/609
+Name: Самшитовые холмы;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/610
+Name: Звонкий каньон;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/611
+Name: Отпорные кручи;
+Rarity: 2
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/612
+Name: Драконьи Клыки;
+Rarity: 3
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/613
+Name: Рудный кряж;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/614
+Name: Белые увалы;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/615
+Name: Перегорки;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/616
+Name: Холмы Старейших;
+Rarity: 2
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/617
+Name: Гряда Покоя;
+Rarity: 2
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/618
+Name: Ступени Исполинов;
+Rarity: 2
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/619
+Name: Ущелье петли;
+Rarity: 2
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/620
+Name: Гряда Гигантов;
+Rarity: 2
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/621
+Name: Выжженные скалы;
+Rarity: 2
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/622
+Name: Мрачные холмы;
+Rarity: 2
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/623
+Name: Змеиные холмы;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/624
+Name: Урочище забытых душ;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/625
+Name: Кипящие ключи;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/626
+Name: Оставленные топи;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/627
+Name: Отравленные зыбуны;
+Rarity: 2
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/628
+Name: Сонная низина;
+Rarity: 2
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/629
+Name: Омуты Падающих Звёзд;
+Rarity: 2
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/630
+Name: Темноводье;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/631
+Name: Болота Спокойствия;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/632
+Name: Змеиные ямы;
+Rarity: 2
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/633
+Name: Мглистая низина;
+Rarity: 2
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/634
+Name: Матерь Вод;
+Rarity: 3
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/635
+Name: Королевский Брод;
+Rarity: 2
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/636
+Name: Высокое Троеводье;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/637
+Name: Нижние Мхи;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/638
+Name: Грачиные колодцы;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/639
+Name: Солёная Топь;
+Rarity: 2
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/640
+Name: Погребальная Трясина;
+Rarity: 2
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/641
+Name: Остров раковины;
+Rarity: 1
+Coastal: 2
+Terrain: (0)
+Type: (0)
+
+/642
+Name: Остров головорезов;
+Rarity: 1
+Coastal: 2
+Terrain: (0)
+Type: (0)
+
+/643
+Name: Белый Остров;
+Rarity: 1
+Coastal: 2
+Terrain: (0)
+Type: (0)
+
+/644
+Name: Остров Печали;
+Rarity: 2
+Coastal: 2
+Terrain: (0)
+Type: (0)
+
+/645
+Name: Пиратский остров;
+Rarity: 1
+Coastal: 2
+Terrain: (0)
+Type: (0)
+
+/646
+Name: Сторожевой остров;
+Rarity: 1
+Coastal: 2
+Terrain: (0)
+Type: (0)
+
+/647
+Name: Скорбная Земля;
+Rarity: 2
+Coastal: 2
+Terrain: (0)
+Type: (0)
+
+/648
+Name: Остров молчания;
+Rarity: 2
+Coastal: 2
+Terrain: (0)
+Type: (0)
+
+/649
+Name: Заслонный остров;
+Rarity: 2
+Coastal: 2
+Terrain: (0)
+Type: (0)
+
+/650
+Name: Большое Ухо;
+Rarity: 3
+Coastal: 2
+Terrain: (0)
 Type: (0)

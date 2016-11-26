@@ -1,4 +1,4 @@
-Quantity: 217
+Quantity: 220
 
 /0
 Name: Пусто;
@@ -40,7 +40,7 @@ Numeric: 0
 Name: Запутан в паутине;
 Ability: 47
 Spell: 18
-Numeric: 0
+Numeric: 1
 
 /7
 Name: Травмирован;
@@ -85,7 +85,7 @@ Spell: 6
 Numeric: 0
 
 /14
-Name: Замедление;
+Name: Встречный ветер;
 Ability: 0
 Spell: 7
 Numeric: 0
@@ -103,7 +103,7 @@ Spell: 9
 Numeric: 0
 
 /17
-Name: Проклятие;
+Name: Сглаз;
 Ability: 0
 Spell: 10
 Numeric: 0
@@ -157,7 +157,7 @@ Spell: 29
 Numeric: 0
 
 /26
-Name: Болезнь;
+Name: Чахотка;
 Ability: 0
 Spell: 30
 Numeric: 0
@@ -229,7 +229,7 @@ Spell: 53
 Numeric: 0
 
 /38
-Name: Магическая атака;
+Name: Животный натиск;
 Ability: 0
 Spell: 54
 Numeric: 0
@@ -253,7 +253,7 @@ Spell: 60
 Numeric: 0
 
 /42
-Name: Чума;
+Name: Мор;
 Ability: 0
 Spell: 62
 Numeric: 0
@@ -457,45 +457,45 @@ Spell: 129
 Numeric: 0
 
 /76
-Name: Исступление;
+Name: Ядовитый коготь;
 Ability: 0
 Spell: 133
 Numeric: 0
 
 /77
-Name: Кровавая ярость;
+Name: Кровь болот;
 Ability: 0
 Spell: 134
 Numeric: 0
 
 /78
-Name: Силок;
+Name: Наследие Хаоса;
 Ability: 0
-Spell: 135
+Spell: 358
 Numeric: 0
 
 /79
-Name: Капкан;
+Name: Первобытный гнев;
 Ability: 0
-Spell: 136
+Spell: 359
 Numeric: 0
 
 /80
-Name: Яд болот;
+Name: Рой шершней;
 Ability: 0
 Spell: 137
 Numeric: 0
 
 /81
-Name: Регенерация;
+Name: Прожорливость;
 Ability: 0
 Spell: 138
 Numeric: 0
 
 /82
-Name: Отравить оружие;
+Name: Демоническое возмездие;
 Ability: 0
-Spell: 139
+Spell: 360
 Numeric: 0
 
 /83
@@ -751,7 +751,7 @@ Spell: 216
 Numeric: 0
 
 /125
-Name: Недомогание;
+Name: Лихорадка;
 Ability: 0
 Spell: 362
 Numeric: 0
@@ -955,7 +955,7 @@ Spell: 279
 Numeric: 0
 
 /159
-Name: Мор;
+Name: Переносчик проказы;
 Ability: 0
 Spell: 293
 Numeric: 0
@@ -973,19 +973,19 @@ Spell: 0
 Numeric: 0
 
 /162
-Name: Лихорадка;
+Name: Проказа;
 Ability: 0
 Spell: 290
 Numeric: 0
 
 /163
-Name: Истощение;
+Name: Переносчик лихорадки;
 Ability: 0
 Spell: 291
 Numeric: 0
 
 /164
-Name: Чёрная чума;
+Name: Переносчик чахотки;
 Ability: 0
 Spell: 292
 Numeric: 0
@@ -1285,25 +1285,43 @@ Spell: 0
 Numeric: 1
 
 /214
-Name: Наследие Хаоса;
-Ability: 0
-Spell: 358
-Numeric: 0
-
-/215
-Name: Первобытный гнев;
-Ability: 0
-Spell: 359
-Numeric: 0
-
-/216
-Name: Демоническое возмездие;
-Ability: 0
-Spell: 360
-Numeric: 0
-
-/217
 Name: Знамя Хаоса;
 Ability: 0
 Spell: 361
+Numeric: 0
+
+/215
+Name: Подчинить зверя;
+Ability: 0
+Spell: 373
+Numeric: 0
+
+/216
+Name: Рассадник лихорадки;
+Ability: 0
+Spell: 295
+Numeric: 0
+
+/217
+Name: Рассадник чахотки;
+Ability: 0
+Spell: 296
+Numeric: 0
+
+/218
+Name: Рассадник проказы;
+Ability: 0
+Spell: 297
+Numeric: 0
+
+/219
+Name: Проклятие;
+Ability: 0
+Spell: 298
+Numeric: 0
+
+/220
+Name: Экзорцизм;
+Ability: 0
+Spell: 38
 Numeric: 0

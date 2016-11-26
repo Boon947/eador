@@ -1,4 +1,4 @@
-Quantity: 162
+Quantity: 163
 
 /0
 Name: ѕусто;
@@ -1466,3 +1466,12 @@ Guard0: 483
 Guard1: 484
 Guard2: 485
 Guard3: 486
+
+/163
+Name: Ёкспедици€ альваров;
+Power: 2
+Karma: -1
+Guard0: 487
+Guard1: 487
+Guard2: 487
+Guard3: 487

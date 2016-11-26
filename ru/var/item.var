@@ -1,4 +1,4 @@
-Quantity: 670
+Quantity: 656
 
 /0
 Name: Пусто;
@@ -3397,7 +3397,7 @@ Name: Защитник;
 Slot: 2
 Class: 1
 Durability: 70
-GoldCost: 400
+GoldCost: 250
 GemCost: 0
 ShopLevel: 3
 Rarity: 3
@@ -7577,7 +7577,7 @@ Life: 1
 Power: 6
 Area: 0
 
-Cannibalize: 49
+Cannibalize: 226
 Power: 10
 Area: 0;
 
@@ -12997,6 +12997,10 @@ Area: 0
 
 Poison: 41
 Power: 2
+Area: 0
+
+Backstab: 228
+Power: 4
 Area: 0;
 
 /522
@@ -13545,7 +13549,7 @@ Burning: 143
 Power: 1
 Area: 0
 
-BurningArrows: 107
+BurningArrows: 144
 Power: 1
 Area: 0;
 
@@ -13639,7 +13643,7 @@ RangedDefence: 5
 Power: 1
 Area: 0
 
-EntangleImmunity: 203
+EntangleImmunity: 107
 Power: 1
 Area: 0;
 
@@ -14664,7 +14668,7 @@ GoldCost: 450
 GemCost: 10
 ShopLevel: 5
 Rarity: 4
-Building: 0
+Building: 220
 Pic: 589
 Resourse: (0)
 Effects:
@@ -15891,7 +15895,7 @@ GemCost: 140
 ShopLevel: 6
 Rarity: 6
 Building: 0
-Pic: 669
+Pic: 654
 Resourse: (5, 8, 9)
 Effects:
 
@@ -15947,7 +15951,7 @@ GemCost: 30
 ShopLevel: 4
 Rarity: 3
 Building: 0
-Pic: 670
+Pic: 655
 Resourse: (5, 5)
 Effects:
 
@@ -15973,7 +15977,7 @@ GemCost: 37
 ShopLevel: 5
 Rarity: 8
 Building: 0
-Pic: 671
+Pic: 651
 Resourse: (1, 5)
 Effects:
 
@@ -15991,7 +15995,7 @@ GemCost: 70
 ShopLevel: 5
 Rarity: 8
 Building: 0
-Pic: 672
+Pic: 652
 Resourse: (5, 5)
 Effects:
 
@@ -16009,7 +16013,7 @@ GemCost: 115
 ShopLevel: 6
 Rarity: 8
 Building: 0
-Pic: 673
+Pic: 653
 Resourse: (5, 8)
 Effects:
 
@@ -16027,7 +16031,7 @@ GemCost: 7
 ShopLevel: 3
 Rarity: 8
 Building: 0
-Pic: 668
+Pic: 656
 Resourse: (0)
 Effects:
 
@@ -16045,7 +16049,7 @@ GemCost: 45
 ShopLevel: 4
 Rarity: 8
 Building: 0
-Pic: 665
+Pic: 657
 Resourse: (1, 4)
 Effects:
 
@@ -16063,7 +16067,7 @@ GemCost: 0
 ShopLevel: 4
 Rarity: 8
 Building: 0
-Pic: 666
+Pic: 658
 Resourse: (1, 2)
 Effects:
 
@@ -16081,7 +16085,7 @@ GemCost: 150
 ShopLevel: 6
 Rarity: 8
 Building: 0
-Pic: 667
+Pic: 659
 Resourse: (7, 7, 6)
 Effects:
 
@@ -16099,7 +16103,7 @@ GemCost: 5
 ShopLevel: 2
 Rarity: 1
 Building: 33
-Pic: 662
+Pic: 648
 Resourse: (1)
 Effects:
 
@@ -16129,7 +16133,7 @@ GemCost: 40
 ShopLevel: 4
 Rarity: 3
 Building: 103
-Pic: 663
+Pic: 649
 Resourse: (5)
 Effects:
 
@@ -16155,7 +16159,7 @@ GemCost: 10
 ShopLevel: 3
 Rarity: 1
 Building: 33
-Pic: 664
+Pic: 650
 Resourse: (1)
 Effects:
 
@@ -16351,256 +16355,4 @@ Effects:
 
 Summon: 84
 Power: 220
-Area: 0;
-
-/657
-Name: Крысолюд;
-Slot: 0
-Class: 0
-Durability: 1
-GoldCost: 15
-GemCost: 0
-ShopLevel: 3
-Rarity: 8
-Building: 0
-Pic: 647
-Resourse: (0)
-Effects:
-
-Summon: 84
-Power: 221
-Area: 0;
-
-/658
-Name: Гигантская крыса;
-Slot: 0
-Class: 0
-Durability: 1
-GoldCost: 7
-GemCost: 0
-ShopLevel: 3
-Rarity: 8
-Building: 0
-Pic: 648
-Resourse: (0)
-Effects:
-
-Summon: 84
-Power: 222
-Area: 0;
-
-/659
-Name: Воин Распада;
-Slot: 0
-Class: 0
-Durability: 1
-GoldCost: 30
-GemCost: 10
-ShopLevel: 3
-Rarity: 8
-Building: 0
-Pic: 649
-Resourse: (1, 4)
-Effects:
-
-Summon: 84
-Power: 223
-Area: 0;
-
-/660
-Name: Буровик;
-Slot: 0
-Class: 0
-Durability: 1
-GoldCost: 40
-GemCost: 5
-ShopLevel: 3
-Rarity: 8
-Building: 0
-Pic: 650
-Resourse: (1, 2)
-Effects:
-
-Summon: 84
-Power: 224
-Area: 0;
-
-/661
-Name: Коготь тени;
-Slot: 0
-Class: 0
-Durability: 1
-GoldCost: 120
-GemCost: 23
-ShopLevel: 4
-Rarity: 3
-Building: 0
-Pic: 651
-Resourse: (1, 5)
-Effects:
-
-Summon: 84
-Power: 225
-Area: 0;
-
-/662
-Name: Чумострел;
-Slot: 0
-Class: 0
-Durability: 1
-GoldCost: 75
-GemCost: 30
-ShopLevel: 4
-Rarity: 8
-Building: 0
-Pic: 652
-Resourse: (1, 4, 5)
-Effects:
-
-Summon: 84
-Power: 226
-Area: 0;
-
-/663
-Name: Молниевая пушка;
-Slot: 0
-Class: 0
-Durability: 1
-GoldCost: 125
-GemCost: 15
-ShopLevel: 4
-Rarity: 8
-Building: 0
-Pic: 653
-Resourse: (1, 5, 7)
-Effects:
-
-Summon: 84
-Power: 227
-Area: 0;
-
-/664
-Name: Штурм-крыс;
-Slot: 0
-Class: 0
-Durability: 1
-GoldCost: 225
-GemCost: 30
-ShopLevel: 4
-Rarity: 4
-Building: 0
-Pic: 654
-Resourse: (1, 7, 7)
-Effects:
-
-Summon: 84
-Power: 228
-Area: 0;
-
-/665
-Name: Крысоед;
-Slot: 0
-Class: 0
-Durability: 1
-GoldCost: 600
-GemCost: 35
-ShopLevel: 5
-Rarity: 5
-Building: 0
-Pic: 655
-Resourse: (3, 9)
-Effects:
-
-Summon: 84
-Power: 229
-Area: 0;
-
-/666
-Name: Смертокрыс;
-Slot: 0
-Class: 0
-Durability: 1
-GoldCost: 350
-GemCost: 25
-ShopLevel: 5
-Rarity: 8
-Building: 0
-Pic: 656
-Resourse: (3, 9)
-Effects:
-
-Summon: 84
-Power: 230
-Area: 0;
-
-/667
-Name: Свежеватель;
-Slot: 0
-Class: 0
-Durability: 1
-GoldCost: 375
-GemCost: 45
-ShopLevel: 5
-Rarity: 4
-Building: 0
-Pic: 657
-Resourse: (2, 7, 9)
-Effects:
-
-Summon: 84
-Power: 231
-Area: 0;
-
-/668
-Name: Повелитель Распада;
-Slot: 0
-Class: 0
-Durability: 1
-GoldCost: 475
-GemCost: 120
-ShopLevel: 5
-Rarity: 4
-Building: 0
-Pic: 658
-Resourse: (5, 9, 9)
-Effects:
-
-Summon: 84
-Power: 232
-Area: 0;
-
-/669
-Name: Крысиный король;
-Slot: 0
-Class: 0
-Durability: 1
-GoldCost: 500
-GemCost: 50
-ShopLevel: 6
-Rarity: 8
-Building: 0
-Pic: 659
-Resourse: (5, 9, 9)
-Effects:
-
-Summon: 84
-Power: 233
-Area: 0;
-
-/670
-Name: Великий крысс;
-Slot: 0
-Class: 0
-Durability: 1
-GoldCost: 1075
-GemCost: 150
-ShopLevel: 6
-Rarity: 8
-Building: 0
-Pic: 660
-Resourse: (9, 9, 9)
-Effects:
-
-Summon: 84
-Power: 234
 Area: 0;

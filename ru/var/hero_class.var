@@ -91,7 +91,7 @@ Name: Егерь;
 Talent1: 1032, 1
 Talent2: 1033, 1
 Talent3: 1034, 1
-Talent4: 60, 4
+Talent4: 999, 2
 Talent5: 960, 245
 
 /13
@@ -118,39 +118,39 @@ Talent3: 960, 246
 Talent4: 0, 0
 Talent5: 0, 0
 
-/16!
+/16
 Name: Жрец;
 Talent1: 1006, 1
 Talent2: 1012, 2
-Talent3: 960, 249
-Talent4: 0, 0
+Talent3: 1098, 1
+Talent4: 960, 249
 Talent5: 0, 0
 
 /17
 Name: Чародей;
 Talent1: 6, 3
-Talent2: 994, 4
+Talent2: 905, 2
 Talent3: 908, 2
 Talent4: 960, 251
 Talent5: 0, 0
 
 /18
 Name: Друид;
-Talent1: 67, 3
-Talent2: 906, 2
-Talent3: 983, 25
-Talent4: 1108, 1
+Talent1: 907, 5
+Talent2: 983, 25
+Talent3: 994, 4
+Talent4: 95, 2
 Talent5: 960, 252
 
 /19
 Name: Некромант;
 Talent1: 909, 5
 Talent2: 910, 1
-Talent3: 960, 253
-Talent4: 0, 0
+Talent3: 906, 2
+Talent4: 960, 253
 Talent5: 0, 0
 
-/20!
+/20
 Name: Маг;
 Talent1: 984, 4
 Talent2: 960, 250
@@ -219,7 +219,7 @@ Name: Следопыт;
 Talent1: 1032, 2
 Talent2: 1033, 2
 Talent3: 1034, 2
-Talent4: 60, 4
+Talent4: 999, 1
 Talent5: 960, 270
 
 /29
@@ -250,31 +250,31 @@ Talent5: 0, 0
 Name: Верховный жрец;
 Talent1: 1006, 1
 Talent2: 1012, 2
-Talent3: 903, 1
-Talent4: 960, 274
+Talent3: 960, 274
+Talent4: 0, 0
 Talent5: 0, 0
 
 /33
 Name: Боевой чародей;
 Talent1: 6, 2
-Talent2: 196, 1
+Talent2: 905, 1
 Talent3: 908, 3
-Talent4: 994, 4
-Talent5: 960, 276
+Talent4: 960, 276
+Talent5: 0, 0
 
 /34
 Name: Верховный друид;
-Talent1: 158, 4
-Talent2: 67, 3
-Talent3: 903, 1
-Talent4: 906, 2
+Talent1: 907, 5
+Talent2: 983, 25
+Talent3: 994, 4
+Talent4: 95, 2
 Talent5: 960, 277
 
 /35
 Name: Мастер-некромант;
 Talent1: 909, 5
 Talent2: 910, 1
-Talent3: 903, 1
+Talent3: 906, 2
 Talent4: 960, 278
 Talent5: 0, 0
 

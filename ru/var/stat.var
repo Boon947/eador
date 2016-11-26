@@ -3,13 +3,13 @@ Health (Life, Stamina, Morale)
 Lvl1: 3, 1, 1
 Lvl2: 3, 1, 1
 Lvl3: 4, 1, 1
-Lvl4: 4, 2, 1
+Lvl4: 4, 1, 1
 Lvl5: 5, 2, 1
 Lvl6: 5, 2, 2
-Lvl7: 6, 3, 2
-Lvl8: 6, 3, 2
+Lvl7: 6, 2, 2
+Lvl8: 6, 2, 2
 Lvl9: 7, 3, 2
-Lvl10: 7, 4, 2
+Lvl10: 7, 3, 2
 
 
 Magic (Slot1, Slot2)
