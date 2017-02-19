@@ -28,10 +28,11 @@ You need to kill 5 Ogres. To complete this quest, you can also kill Cyclops, Gia
 A Halfling from %s province gave your hero the following quest:
 You need to kill 12 Brigands. To complete this quest, you can also kill Gang Leaders, and Renegades.#
 
-6. Elven Necklace
-#Elven Necklace.
+6. Drow Jewelry Box
+#Drow Jewelry Box.
 A Goblin from the province %s gave your hero the following quest:
-You need to kill 8 Elves and collect their ears. To complete this quest, you can kill any Elven unit.#
+You need to retrieve a gem-adorned jewelry box from the Drow.
+The location of the Drow party is still unknown, but the Goblins will let you know shortly.#
 
 7. Banishing Demons
 #Banishing Demons.
@@ -56,7 +57,7 @@ You need to kill 7 Fiends. To complete this quest, you can also kill Fiend Lords
 11. Banishing the Hounds
 #Banishing the Hounds.
 Priests from the Temple of Light located in %s province gave your hero the following quest:
-You need to kill 7 Hellhounds. To complete this quest, you can also kill Cerberus.#
+You need to kill 7 Hellhounds. To complete this quest, you can also kill Cerberuses.#
 
 12. Banishing Devils
 #Banishing Devils.

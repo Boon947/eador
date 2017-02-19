@@ -3930,10 +3930,6 @@ Item1: 2, 2
 Item2: 126, 1
 Item3: 84, 1;
 Ability:
-Ability: 10
-Param1: 3
-Param2: 3
-
 Ability: 1
 Param1: 25
 Param2: 0
@@ -4003,11 +3999,10 @@ Resource: (7, 5, 9)
 Units:
 Unit1: 221, 17, 3
 Unit2: 225, 13, 2
-Unit3: 227, 9, 2
-Unit4: 231, 8, 1
-Unit5: 232, 14, 2
-Unit6: 229, 10, 1
-Unit7: 233, 20, 1;
+Unit3: 226, 12, 4
+Unit4: 232, 14, 2
+Unit5: 232, 24, 1
+Unit6: 233, 20, 1;
 Loot:
 Item1: 2, 2
 Item2: 126, 1

@@ -1,4 +1,4 @@
-Quantity: 16
+Quantity: 14
 
 /0
 Max: 0
@@ -59,11 +59,3 @@ Name: Sells exceptional items;
 /14 Items4
 Max: 1
 Name: Sells enchanted items;
-
-/15 ScavensT1
-Max: 1
-Name: Basic Ratman buildings;
-
-/16 ScavensT2
-Max: 1
-Name: Advanced Ratman buildings;

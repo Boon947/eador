@@ -428,8 +428,12 @@ Mechanical units - artificial creatures, assembled from various materials. Can b
 
 Golem - Mechanical subtype with certain specificities.
 
+Traps - special Mechanical type. Usually, a trap cannot be the target of an attack or a spell. A trap cannot be selected like a conventional unit. A trap doesn't preclude crossing, but the effect is typically unpleasant. If your only remaining units on the battlefield are traps, the battle is lost.
+
 Artillery - Mechanical units designed for ranged destruction. Different from other Mechanical units in that they generally cannot fight in melee.
 
 Elemental Spirit - creature from a different plane of existence (usually from one of the four Elemental Planes - Fire, Air, Water and Earth). Cannot be healed, resurrected, awarded medals, or sacrificed. Moreover, generally they cannot remain permanently in the army, and must be summoned every time.
 
-Natural Weapon - a characteristic that prevents destroying or stealing a creature's ammo (not the typical bag of missiles, rather an innate ability).#
+Natural Weapon - a characteristic that prevents destroying or stealing a creature's ammo (not the typical bag of missiles, rather an innate ability).
+
+Obstacle - typically not a creature, but an artificial object on the battlefield. If your only remaining units on the battlefield are obstacles, the battle is lost.#

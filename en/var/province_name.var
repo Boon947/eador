@@ -1,4 +1,4 @@
-Quantity: 566
+Quantity: 650
 
 /0
 Name: Empty;
@@ -3967,4 +3967,592 @@ Name: Kettari;
 Rarity: 2
 Coastal: 0
 Terrain: (3)
+Type: (0)
+
+/567
+Name: Funeral Valley;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/568
+Name: Arid Lands;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/569
+Name: Solar Lands;
+Rarity: 2
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/570
+Name: Golden Fields;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/571
+Name: Storm Country;
+Rarity: 2
+Coastal: 1
+Terrain: (1)
+Type: (0)
+
+/572
+Name: Lake Country;
+Rarity: 2
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/573
+Name: Ash Wasteland;
+Rarity: 3
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/574
+Name: Sand Country;
+Rarity: 2
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/575
+Name: Fertile Lands;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/576
+Name: Lost Valley;
+Rarity: 3
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/577
+Name: Wheat Fields;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/578
+Name: Spear Plains;
+Rarity: 2
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/579
+Name: Dread Plains;
+Rarity: 3
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/580
+Name: Rainbow Valley;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/581
+Name: Sunrise Country;
+Rarity: 1
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/582
+Name: Discord Grasslands;
+Rarity: 2
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/583
+Name: Lost Lands;
+Rarity: 2
+Coastal: 0
+Terrain: (1)
+Type: (0)
+
+/584
+Name: Belodreve;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/585
+Name: Rainy Forest;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/586
+Name: Ancient Woods;
+Rarity: 2
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/587
+Name: Rejuvenating Thicket;
+Rarity: 2
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/588
+Name: Wicker Forest;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/589
+Name: Verdant Heart;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/590
+Name: Golden Woods;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/591
+Name: Dwarven Forest;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/592
+Name: Pine Woods;
+Rarity: 2
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/593
+Name: King's Forest;
+Rarity: 3
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/594
+Name: Noble Woods;
+Rarity: 2
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/595
+Name: Shadow Wilds;
+Rarity: 1
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/596
+Name: Enchanted Grove;
+Rarity: 2
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/597
+Name: Prying Woods;
+Rarity: 2
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/598
+Name: Dark Forest;
+Rarity: 2
+Coastal: 0
+Terrain: (2)
+Type: (0)
+
+/599
+Name: Goat Cliffs;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/600
+Name: Distant Mine;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/601
+Name: Fiery Plateau;
+Rarity: 2
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/602
+Name: Forlorn Plateau;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/603
+Name: Sunset Hills;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/604
+Name: Red Canyon;
+Rarity: 2
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/605
+Name: Sentinel Hills;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/606
+Name: Icy Hills;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/607
+Name: Thunder Island;
+Rarity: 2
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/608
+Name: Blurred Range;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/609
+Name: Boxen Hills;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/610
+Name: Echo Canyon;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/611
+Name: Hook Banks;
+Rarity: 2
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/612
+Name: Dragon Fangs;
+Rarity: 3
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/613
+Name: Ore Range;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/614
+Name: White Ridges;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/615
+Name: Feather Knoll;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/616
+Name: Elder Hills;
+Rarity: 2
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/617
+Name: Quiet Ridge;
+Rarity: 2
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/618
+Name: Giants Stairway;
+Rarity: 2
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/619
+Name: Noose Gulch;
+Rarity: 2
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/620
+Name: Giants Ridge;
+Rarity: 2
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/621
+Name: Scorched Cliff;
+Rarity: 2
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/622
+Name: Gloomy Hills;
+Rarity: 2
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/623
+Name: Serpent Hills;
+Rarity: 1
+Coastal: 0
+Terrain: (3)
+Type: (0)
+
+/624
+Name: Forgotten Souls Tract;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/625
+Name: Seething Springs;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/626
+Name: Abandoned Marsh;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/627
+Name: Toxic Quagmire;
+Rarity: 2
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/628
+Name: Sleepy Lowland;
+Rarity: 2
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/629
+Name: Falling Stars Whirlpool;
+Rarity: 2
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/630
+Name: Blackwater;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/631
+Name: Swamps of Serenity;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/632
+Name: Snake Pit;
+Rarity: 2
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/633
+Name: Misty Lowland;
+Rarity: 2
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/634
+Name: Maternal Waters;
+Rarity: 3
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/635
+Name: King's Ford;
+Rarity: 2
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/636
+Name: Roaring Delta;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/637
+Name: Lower Mosses;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/638
+Name: Gloomy Wells;
+Rarity: 1
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/639
+Name: Salty Bog;
+Rarity: 2
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/640
+Name: Funeral Quagmire;
+Rarity: 2
+Coastal: 0
+Terrain: (4)
+Type: (0)
+
+/641
+Name: Seashell Island;
+Rarity: 1
+Coastal: 2
+Terrain: (0)
+Type: (0)
+
+/642
+Name: Cutthroat Island;
+Rarity: 1
+Coastal: 2
+Terrain: (0)
+Type: (0)
+
+/643
+Name: White Island;
+Rarity: 1
+Coastal: 2
+Terrain: (0)
+Type: (0)
+
+/644
+Name: Island of Sorrow;
+Rarity: 2
+Coastal: 2
+Terrain: (0)
+Type: (0)
+
+/645
+Name: Pirate Island;
+Rarity: 1
+Coastal: 2
+Terrain: (0)
+Type: (0)
+
+/646
+Name: Sentinel Island;
+Rarity: 1
+Coastal: 2
+Terrain: (0)
+Type: (0)
+
+/647
+Name: Grieving Lands;
+Rarity: 2
+Coastal: 2
+Terrain: (0)
+Type: (0)
+
+/648
+Name: Island of Silence;
+Rarity: 2
+Coastal: 2
+Terrain: (0)
+Type: (0)
+
+/649
+Name: Sentinel Island;
+Rarity: 2
+Coastal: 2
+Terrain: (0)
+Type: (0)
+
+/650
+Name: Big Ear;
+Rarity: 3
+Coastal: 2
+Terrain: (0)
 Type: (0)

@@ -1,4 +1,4 @@
-Quantity: 1483
+Quantity: 1504
 
 /0
 Type: 0
@@ -5379,7 +5379,7 @@ Power: 0
 Param1: 0
 Param2: 0;
 
-/210 Quest Эльфийское ожерелье (предложение)
+/210 Quest Альварская шкатулка (предложение)
 Type: 0
 Possibility: 0
 Dialog: 271
@@ -5402,10 +5402,10 @@ Power: 0
 Param1: 0
 Param2: 0;
 
-/211 Quest Эльфийское ожерелье (предложение)
+/211 Quest Альварская шкатулка (предложение)
 Type: 0
 Possibility: 0
-Dialog: 272
+Dialog: 277
 DlgParam1: 0
 DlgParam2: 0
 Attacker: 0
@@ -5417,16 +5417,15 @@ Karma: 0
 *Answers*:
 Answer1: 212
 Answer2: 203
-Answer3: 3
-Answer4: 213;
+Answer3: 3;
 
 *Effects*:
-Condition: 4
-Power: 4
-Param1: 7
-Param2: 1;
+Condition: 0
+Power: 0
+Param1: 0
+Param2: 0;
 
-/212 Quest Эльфийское ожерелье (Получение)
+/212 Quest Альварская шкатулка (Получение)
 Type: 0
 Possibility: 0
 Dialog: 0
@@ -5450,61 +5449,17 @@ Param2: 0
 Flag: 10
 Power: 0
 Param1: 0
-Param2: 0;
+Param2: 0
 
-/213 Quest Эльфийское ожерелье (дипломатия)
-Type: 0
-Possibility: 0
-Dialog: 273
-DlgParam1: 0
-DlgParam2: 0
-Attacker: 0
-EncWin: 0
-EncLose: 0
-EncDraw: 0
-Karma: 0
-
-*Answers*:
-Answer1: 214
-Answer2: 212
-Answer3: 215
-Answer4: 216;
-
-*Effects*:
-Condition: 4
-Power: 1
-Param1: 1
-Param2: 2000
-
-Condition: 4
-Power: 3
-Param1: 1
-Param2: 1500
-
-Condition: 4
-Power: 3
-Param1: 7
-Param2: 2
-
-Condition: 4
-Power: 4
-Param1: 1
-Param2: 1000
-
-Condition: 4
-Power: 4
-Param1: 7
-Param2: 3
-
-CalcParam1: 2
-Power: 2000
+GetEvent: 8
+Power: 1837
 Param1: 0
 Param2: 0;
 
-/214 Quest Гоблинов (покупка союза)
+/213 Quest Альварская шкатулка (берём золото - 500)
 Type: 0
 Possibility: 0
-Dialog: 291
+Dialog: 0
 DlgParam1: 0
 DlgParam2: 0
 Attacker: 0
@@ -5518,143 +5473,19 @@ Answer1: 0;
 
 *Effects*:
 Gold: 1
-Power: 0
-Param1: 0
-Param2: 6
-
-Union: 19
-Power: 0
+Power: 500
 Param1: 0
 Param2: 0
 
-Flag: 10
-Power: 43
-Param1: 0
-Param2: 0
-
-Index: 25
-Power: 50
+Condition: 11
+Power: 221
 Param1: 0
 Param2: 0;
 
-/215 Quest Эльфийское ожерелье (дипломатия)
+/214 Quest Альварская шкатулка (не прокатило)
 Type: 0
 Possibility: 0
-Dialog: 274
-DlgParam1: 0
-DlgParam2: 0
-Attacker: 0
-EncWin: 0
-EncLose: 0
-EncDraw: 0
-Karma: 0
-
-*Answers*:
-Answer1: 214
-Answer2: 3;
-
-*Effects*:
-CalcParam1: 2
-Power: 1500
-Param1: 0
-Param2: 0;
-
-/216 Quest Эльфийское ожерелье (дипломатия)
-Type: 0
-Possibility: 0
-Dialog: 274
-DlgParam1: 0
-DlgParam2: 0
-Attacker: 0
-EncWin: 0
-EncLose: 0
-EncDraw: 0
-Karma: 0
-
-*Answers*:
-Answer1: 214
-Answer2: 3;
-
-*Effects*:
-CalcParam1: 2
-Power: 1000
-Param1: 0
-Param2: 0;
-
-/217 Quest Эльфийское ожерелье (выполнение)
-Type: 0
-Possibility: 0
-Dialog: 275
-DlgParam1: 0
-DlgParam2: 0
-Attacker: 0
-EncWin: 0
-EncLose: 0
-EncDraw: 0
-Karma: -3
-
-*Answers*:
-Answer1: 218
-Answer2: 219;
-
-*Effects*:
-Condition: 15
-Power: 7
-Param1: 4
-Param2: 224
-
-Condition: 4
-Power: 1
-Param1: 1
-Param2: 100;
-
-/218 Quest Эльфийское ожерелье (оплата)
-Type: 0
-Possibility: 0
-Dialog: 278
-DlgParam1: 0
-DlgParam2: 0
-Attacker: 0
-EncWin: 0
-EncLose: 0
-EncDraw: 0
-Karma: 0
-
-*Answers*:
-Answer1: 221;
-
-*Effects*:
-Gold: 1
-Power: -100
-Param1: 0
-Param2: 0;
-
-/219 Quest Эльфийское ожерелье (угроза)
-Type: 0
-Possibility: 0
-Dialog: 276
-DlgParam1: 0
-DlgParam2: 0
-Attacker: 0
-EncWin: 0
-EncLose: 0
-EncDraw: 0
-Karma: -1
-
-*Answers*:
-Answer1: 218
-Answer2: 220;
-
-*Effects*:
-Condition: 4
-Power: 1
-Param1: 1
-Param2: 100;
-
-/220 Quest Эльфийское ожерелье (угроза)
-Type: 0
-Possibility: 0
-Dialog: 277
+Dialog: 291
 DlgParam1: 0
 DlgParam2: 0
 Attacker: 0
@@ -5671,6 +5502,146 @@ Condition: 0
 Power: 0
 Param1: 0
 Param2: 0;
+
+/215 Quest Альварская шкатулка (прокатило)
+Type: 0
+Possibility: 0
+Dialog: 274
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 216
+Answer2: 213;
+
+*Effects*:
+Condition: 4
+Power: 2
+Param1: 7
+Param2: 4;
+
+/216 Quest Альварская шкатулка (берём золото - 300)
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Gold: 1
+Power: 300
+Param1: 0
+Param2: 0
+
+Condition: 11
+Power: 221
+Param1: 0
+Param2: 0;
+
+/217 Quest Альварская шкатулка (выполнение)
+Type: 0
+Possibility: 0
+Dialog: 275
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: -3
+
+*Answers*:
+Answer1: 221
+Answer2: 218;
+
+*Effects*:
+Condition: 15
+Power: 7
+Param1: 4
+Param2: 224
+
+Condition: 4
+Power: 2
+Param1: 7
+Param2: 3;
+
+/218 Quest Альварская шкатулка (выполнение)
+Type: 0
+Possibility: 0
+Dialog: 278
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 221
+Answer2: 219;
+
+*Effects*:
+Condition: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/219 Quest Альварская шкатулка (выполнение)
+Type: 0
+Possibility: 0
+Dialog: 276
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: -1
+
+*Answers*:
+Answer1: 220
+Answer2: 221;
+
+*Effects*:
+Condition: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/220 Quest Альварская шкатулка (угроза)
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Condition: 11
+Power: 214
+Param1: 215
+Param2: 70;
 
 /221 Quest Эльфийское ожерелье (сдача)
 Type: 0
@@ -5752,7 +5723,7 @@ Power: 0
 Param1: 0
 Param2: 0;
 
-/224 Quest Эльфийское ожерелье (ожидание)
+/224 Quest Альварская шкатулка (ожидание)
 Type: 0
 Possibility: 0
 Dialog: 281
@@ -25975,7 +25946,12 @@ Param2: 2000
 Index: 4
 Power: 1
 Param1: 2
-Param2: 250;
+Param2: 250
+
+Index: 15
+Power: 16
+Param1: 0
+Param2: 1003;
 
 /1079 Игорный дом (списываем максимальную ставку)
 Type: 0
@@ -32131,7 +32107,7 @@ Power: 0
 Param1: 0
 Param2: 0;
 
-/1335 Квест крысолюдов - награда Крысоогр
+/1335 Квест крысолюдов - награда Крысоогр (не используется)
 Type: 0
 Possibility: 0
 Dialog: 0
@@ -32215,9 +32191,9 @@ EncDraw: 0
 Karma: 0
 
 *Answers*:
-Answer1: 1335
-Answer2: 1339
-Answer3: 1344;
+Answer1: 4
+Answer2: 3
+Answer3: 1345;
 
 *Effects*:
 Condition: 0
@@ -32225,7 +32201,7 @@ Power: 0
 Param1: 0
 Param2: 0;
 
-/1339 Квест крысолюдов - награда Аннигилятор
+/1339 Квест крысолюдов - награда Аннигилятор (не используется)
 Type: 0
 Possibility: 0
 Dialog: 0
@@ -32332,7 +32308,7 @@ Power: 0
 Param1: 0
 Param2: 0;
 
-/1344 Квест крысолюдов - награда Повелитель Распада
+/1344 Квест крысолюдов - награда Повелитель Распада (не используется)
 Type: 0
 Possibility: 0
 Dialog: 0
@@ -32505,7 +32481,7 @@ Power: 0
 Param1: 0
 Param2: 0;
 
-/1352 Цех туннелепроходчиков, вход
+/1352 Бараки крысолюдов, вход
 Type: 0
 Possibility: 0
 Dialog: 2101
@@ -32528,7 +32504,7 @@ Power: 0
 Param1: 0
 Param2: 0;
 
-/1353 Цех туннелепроходчиков, найм
+/1353 Бараки крысолюдов, найм
 Type: 0
 Possibility: 0
 Dialog: 0
@@ -32545,11 +32521,11 @@ Answer1: 0;
 
 *Effects*:
 Index: 29
-Power: 224
+Power: 225
 Param1: 1
 Param2: 0;
 
-/1354 Храм клана Чумы, вход
+/1354 Храм Чумы, вход
 Type: 0
 Possibility: 0
 Dialog: 2103
@@ -32572,7 +32548,7 @@ Power: 0
 Param1: 0
 Param2: 0;
 
-/1355 Храм клана Чумы, найм
+/1355 Храм Чумы, найм
 Type: 0
 Possibility: 0
 Dialog: 0
@@ -35560,3 +35536,444 @@ Index: 29
 Power: 139
 Param1: 1
 Param2: 0;
+
+/1484 Quest Альварская шкатулка (отмена исчезновения сайта)
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+GetEvent: 8
+Power: 1840
+Param1: 0
+Param2: 0;
+
+/1485 Ритуал Зов природы
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1486
+Param1: 1489
+Param2: 50;
+
+/1486 Ритуал Зов природы, 1
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1487
+Param1: 1488
+Param2: 50;
+
+/1487 Ритуал Зов природы, 2
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1491
+Param1: 1492
+Param2: 50;
+
+/1488 Ритуал Зов природы, 3
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1493
+Param1: 1494
+Param2: 50;
+
+/1489 Ритуал Зов природы, 4
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1490
+Param1: 1497
+Param2: 80;
+
+/1490 Ритуал Зов природы, 5
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1495
+Param1: 1496
+Param2: 50;
+
+/1491 Ритуал Зов природы, стрекоза
+Type: 0
+Possibility: 0
+Dialog: 2400
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1498;
+
+*Effects*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/1492 Ритуал Зов природы, орёл
+Type: 0
+Possibility: 0
+Dialog: 2400
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1499;
+
+*Effects*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/1493 Ритуал Зов природы, василиск
+Type: 0
+Possibility: 0
+Dialog: 2400
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1500;
+
+*Effects*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/1494 Ритуал Зов природы, птицелов
+Type: 0
+Possibility: 0
+Dialog: 2400
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1501;
+
+*Effects*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/1495 Ритуал Зов природы, слизень
+Type: 0
+Possibility: 0
+Dialog: 2400
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1502;
+
+*Effects*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/1496 Ритуал Зов природы, паук
+Type: 0
+Possibility: 0
+Dialog: 2400
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1503;
+
+*Effects*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/1497 Ритуал Зов природы, медведь
+Type: 0
+Possibility: 0
+Dialog: 2400
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1504;
+
+*Effects*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/1498 Ритуал Зов природы, стрекоза, получение
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 31
+Power: 151
+Param1: 2
+Param2: 4;
+
+/1499 Ритуал Зов природы, орёл, получение
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 31
+Power: 82
+Param1: 3
+Param2: 6;
+
+/1500 Ритуал Зов природы, василиск, получение
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 31
+Power: 32
+Param1: 3
+Param2: 4;
+
+/1501 Ритуал Зов природы, птицелов, получение
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 31
+Power: 166
+Param1: 4
+Param2: 2;
+
+/1502 Ритуал Зов природы, слизень, получение
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 31
+Power: 68
+Param1: 2
+Param2: 3;
+
+/1503 Ритуал Зов природы, паук, получение
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 31
+Power: 33
+Param1: 1
+Param2: 2;
+
+/1504 Ритуал Зов природы, медведь, получение
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 31
+Power: 210
+Param1: 0
+Param2: 1;

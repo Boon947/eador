@@ -1,4 +1,4 @@
-Quantity: 28
+Quantity: 29
 
 /0
 Name: Empty;
@@ -61,7 +61,7 @@ Name: Servant of Death;
 Name: Animal;
 
 /20
-Name: Unused;
+Name: Trap;
 
 /21
 Name: Chaos Lord;
@@ -86,3 +86,6 @@ Name: Artillery;
 
 /28
 Name: Natural Weapon;
+
+/29
+Name: Obstacle;

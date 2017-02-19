@@ -135,3 +135,16 @@ The province's income in gold and gems increases by 10.#
 38. Gathering the Pack
 #Allows recruiting Gnolls in the hero's army.
 Which units are available depends on specific gnoll buildings in the stronghold.#
+
+39. Holy Army
+#Inquisition troops attack an enemy province. If the Inquisition defeats the guard, province becomes neutral Holy Lands.#
+
+40. Miracle of Nature
+#Population growth in the province significantly improves for 10 turns.#
+
+41. Summon Nature
+#Summons an animal which joins the hero's army.
+There must be enough space in the hero's army.#
+
+42. Blessed Land
+#Creates a province site which increases gold or gem income, or improves population mood. Can only be created in a friendly province.#

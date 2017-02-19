@@ -16,32 +16,33 @@ Loss increases slightly with the caster's Spellpower. Has no effect on tireless 
 The target restores 4 morale points and 2 stamina points.
 Effect increases with the caster's Spellpower. Does not affect the undead, mechanical units and animals.#
 
-4. Magic Arrow
+4. Triple Blade
 #Circle 1.
-School: Wizardry.
-Inflicts 8 points of magic damage to the target.
-Damage increases with the caster's Spellpower.#
+School: Metamorphoses.
+Inflicts 9 points of physical damage. Magic immunity does not apply.
+Damage increases slightly with the caster's Spellpower.#
 
 5. Magic Armor
 #Circle 1.
-School: Wizardry.
+School: Metamorphoses.
 Increases the melee and ranged defense of the target by 3 points. Lasts 4 turns.
 Duration increases with the caster's Concentration.
 Has no effect on Elementals and incorporeal creatures.#
 
 6. Magic Weapon
 #Circle 1.
-School: Wizardry.
+School: Metamorphoses.
 Increases all attack attributes of the target by 2 points. Lasts 5 turns.
 Replenishes ammo by 2.
 Duration increases with the caster's Concentration.
 Has no effect on Animals.#
 
-7. Slow
+7. Head Wind
 #Circle 1.
 School: Elemental Magic.
-Reduces the target's speed by 2. Enchanted unit loses one Stamina each turn. Lasts 6 turns. If the spell reduces the target's speed below 1, it still can move but will lose some stamina every step.
-Duration increases with the caster's Concentration.#
+Reduces the target's Speed by 2, and Ranged Attack by 1. Unit loses one Stamina each turn. Lasts 6 turns. If the unit's Speed falls below 1, it can still move, but will lose stamina with every step.
+Duration increases with the caster's Concentration.
+No effect on incorporeal creatures.#
 
 8. Haste
 #Circle 1.
@@ -56,33 +57,33 @@ The effect of this spell is cumulative.
 Increases the ranged defense of the target by 4 and its magic resistance by 1. Lasts 5 turns.
 Duration increases with the caster's Concentration.#
 
-10. Curse
+10. Hex
 #Circle 1.
-School: Sacred Magic.
-Reduces all attack attributes of the target by 2. Reduces all defense attributes and resistance by 1. Lasts 6 turns.
-Duration increases with the caster's Concentration.
+School: Necromancy.
+The caster loses 1 hit point.
+Reduces the target's Defense attributes and Resistance by 1, and prevents healing the target. Lasts 6 turns.
+Effect increases with the caster's Spellpower.
 Does not affect mechanical units.#
 
 11. Bless
 #Circle 1.
 School: Sacred Magic.
-Increases all attack and defense attributes of the target by 1. Lasts 5 turns.
-Restores 2 stamina points.
-Duration increases with the caster's Concentration.
+Increases all attack and defense attributes of the target by 1. Lasts 6 turns.
+The effect slightly increases with the caster's Spellpower.
 The spell has no effect on undead and demons.#
 
 12. Cure Wounds
 #Circle 1.
 School: Sacred Magic.
-Heals target for 7 hit points.
+Heals target for 8 hit points.
 Healing effect increases with the caster's Spellpower.
 Has no effect on the Undead, Mechanical units, and Elementals.#
 
 13. Fear
 #Circle 1.
 School: Necromancy.
-Reduces target's morale by 8.
-Effect increases with the caster's Spellpower.
+Reduces target's morale by 6.
+Effect increases slightly with the caster's Spellpower.
 Has no effect on intrepid creatures.#
 
 14. Raise Skeleton
@@ -99,23 +100,23 @@ The zombie's attributes depend on the caster's Summoning and Necromancy skills.#
 
 16. Dispel
 #Circle 1.
-School: Sorcery.
+School: Astral Magic.
 Reduces the duration of negative effects on a friendly unit and positive effects on a hostile unit for 3 turns. Inflicts 9 points of damage if the target is a hostile summoned creature.
 Effect duration reduction and damage increase with the caster's Resistance negation skill.#
 
 17. Astral Energy
 #Circle 1.
-School: Sorcery.
+School: Astral Magic.
 Increases the resistance of the target by 3. Lasts 3 turns.
 Restores 8 stamina points.
 Duration increases with the caster's Concentration.#
 
 18. Web
 #Circle 1.
-School: Sorcery.
-Immobilizes the target while increasing its defense attributes by 1. An entangled target cannot fight. Lasts 2 turns (3 turns for targets with weak melee attack).
-Does not affect enemies with resistance above 3.
-High Concentration of the caster increases the chance the target will be entangled for 3 turns.#
+School: Metamorphoses.
+Immobilizes the target, but increases its defense attributes. An entangled target cannot fight. Lasts 2 turns.
+For every 10 points of the target's Attack, Counterattack, or magical Ranged Attack, duration is reduced by 1.
+Duration slightly increases with the caster's Concentration.#
 
 19. Summon Imp
 #Circle 1.
@@ -127,8 +128,8 @@ The summoning range and the imp's attributes depend on the caster's Summoning sk
 20. Burn Ammo
 #Circle 1.
 School: Chaos Magic.
-Destroys 6 missiles from the target's ammo stock. The target receives damage equal to the total ammo burned.
-The amount of ammo burned increases with the caster's Spellpower. Magic Resistance only partially protects from this spell.
+Destroys 6 missiles from the target's ammo stock. Target takes damage based on the amount of destroyed ammo.
+The amount of ammo burned increases with the caster's Spellpower.
 Has no effect on Animals, and creatures with natural weapons.#
 
 21. Vulnerability
@@ -139,40 +140,40 @@ Reduces the defense attributes and the resistance of the target by 3. Lasts 6 tu
 Duration increases with the caster's Concentration.#
 
 22. Lightning
-#Circle 2.
-School: Wizardry.
-Inflicts 12 points of magic damage to the target.
-Damage increases significantly with the caster's Spellpower.#
+#Circle 1.
+School: Elemental Magic.
+Inflicts 9 points of magic damage to the target.
+Damage increases with the caster's Spellpower.#
 
-23. Fireball
+23. Blast
 #Circle 2.
-School: Wizardry.
+School: Metamorphoses.
 Deals 7 points of magic damage to all units within 1 tiles.
 Damage increases with the caster's Spellpower.#
 
 24. Fire Blade
 #Circle 2.
-School: Wizardry.
+School: Metamorphoses.
 Increases all attack attributes of the target by 4 and makes its attack deal magic damage. Lasts 3 turns.
 Duration increases with the caster's Concentration.
 Has no effect on Animals and creatures with natural weapons.#
 
 25. Phantom Form
 #Circle 2.
-School: Sorcery.
+School: Astral Magic.
 Reduces all attack attributes of the target by 10, increases its armor by 10 and grants Incorporeality. Lasts 5 turns.
 Duration increases with the caster's Concentration.#
 
 26. Sleep
 #Circle 2.
-School: Sorcery.
+School: Astral Magic.
 Puts the target to sleep. This spell will be broken once the target takes damage. Lasts 4 turns.
 Duration increases with the caster's Concentration.
 Has no effect on the Undead, Mechanical units, and Elementals.#
 
 27. Hallucination
 #Circle 2.
-School: Sorcery.
+School: Astral Magic.
 Reduces the missile attack of all ranged enemy units by 3. Lasts 5 turns.
 Duration increases with the caster's Concentration.
 Has no effect on the Undead, Mechanical units, and Elementals.#
@@ -190,10 +191,10 @@ The target recovers health whenever it deals melee damage. Lasts 3 turns.
 Duration increases with the caster's Concentration.
 Has no effect on Mechanical units and Elementals.#
 
-30. Disease
+30. Atrophy
 #Circle 2.
 School: Necromancy.
-Infects the target with a disease. The infected unit loses 3 hit points and 1 stamina point each turn. All attack attributes are reduced by 3 and speed is reduced by 1. Lasts 6 turns.
+Infects the target with a disease. The infected unit loses 2 Stamina each turn. All attack attributes are reduced by 3 and speed is reduced by 1. Active for 6 turns.
 Duration increases with the caster's Concentration.
 Has no effect on the Undead, Mechanical units, Elementals, and Ratmen.#
 
@@ -247,7 +248,7 @@ Has no effect on the Undead, Mechanical units, and Elementals.#
 38. Exorcism
 #Circle 2.
 School: Sacred Magic.
-Inflicts 15 points of magic damage to the target. Affects only the undead and demons. Does not affect the servants of Death.
+Inflicts 16 points of magic damage, and immobilizes the target for one turn. Affects only the undead and demons. Does not affect the servants of Death.
 Damage increases significantly with the caster's Spellpower. Resistance protects only partially against this spell.#
 
 39. Word of Life
@@ -266,7 +267,7 @@ Duration increases with the caster's Concentration.#
 41. Acid
 #Circle 3.
 School: Elemental Magic.
-Inflicts 15 points of magic damage on the target. The armor of the target is reduced by 2. Lasts 3 turns. Resistance is halved for the duration of this spell. Magic immunity does not apply.
+Inflicts 15 points of physical damage. The armor of the target is reduced by 2. Lasts 3 turns. Armor only partially protects against the effects of Acid. Magic immunity does not apply.
 Damage increases with the caster's Spellpower.#
 
 42. Mass Slow
@@ -299,18 +300,18 @@ The summoning range and the demon's attributes depend on the caster's Summoning 
 
 46. Teleport
 #Circle 3.
-School: Wizardry.
+School: Metamorphoses.
 Instantly transports the target to a specified vacant tile. If the target is an enemy unit, its resistance must to be overpowered for a successful teleportation.#
 
 47. Antimagic
 #Circle 3.
-School: Wizardry.
+School: Metamorphoses.
 Increases the resistance of the target by 10. The target receives spell immunity. Lasts 5 turns.
 Duration increases with the caster's Concentration.#
 
 48. Mass Dispel
 #Circle 3.
-School: Wizardry.
+School: Metamorphoses.
 Reduces the duration of negative effects on the friendly units and positive effects on the hostile units by 5 turns. Inflicts 15 damage points on the hostile summoned creatures.
 Effect duration reduction and damage increase with the caster's Resistance negation skill.#
 
@@ -337,23 +338,23 @@ Has no effect on the Undead, Mechanical units, and Elementals.#
 
 52. Word of Power
 #Circle 3.
-School: Sorcery.
-Allows the possession of an enemy unit for 1 turn, if its resistance is 3 or less.
+School: Astral Magic.
+For 1 turn, take control of an enemy whose Resistance is not above 3.
 At the end of the spell the target loses half of its stamina and morale.
 The caster's magic power can overcome the higher resistance of an enemy.
 Does not affect the undead, mechanical units and heroes.#
 
 53. Mass Haste
 #Circle 3.
-School: Sorcery.
+School: Astral Magic.
 Increases the speed of all friendly units by 2. Lasts 3 turns.
 Duration increases with the caster's Concentration.#
 
-54. Mass Attack
-#Circle 3.
-School: Sorcery.
-Increases the melee attack of all friendly units by 4 and their ranged attack by 3. Lasts 3 turns.
-Duration increases with the caster's Concentration.#
+54. Animal Assault
+#Circle 4.
+School: Natural Magic.
+Increases Speed of all friendly units by 2, grants Charge 3 ability and Terrain Knowledge. Lasts 1 turns.
+Duration is barely affected by the caster's Concentration.#
 
 55. Raise Ghost
 #Circle 3.
@@ -402,10 +403,10 @@ School: Necromancy.
 Creates a Vampire from the remains of a fallen.
 The vampire's attributes depend on the caster's Summoning and Necromancy skills.#
 
-62. Mass Disease
+62. Pestilence
 #Circle 4.
 School: Necromancy.
-Infects all enemy units with a disease causing them to lose 3 hit points and 1 stamina point each turn. The speed of the infected units is reduced by 1, all types of attack are reduced by 3.
+Infects all enemy units with a disease causing them to lose 2 Stamina points each turn. The speed of the infected units is reduced by 1, all types of attack are reduced by 3.
 Lasts 6 turns. Duration increases with the caster's Concentration.
 Has no effect on the Undead, Mechanical units, and Ratmen.#
 
@@ -452,39 +453,39 @@ Has no effect on the Undead and Chaos Lords.#
 69. Corrupt
 #Circle 4.
 School: Chaos Magic.
-All attributes of all units within a range of 2 tiles are reduced by 4. The units lose 4 morale and stamina points. Magic Resistance and Magic Immunity cannot protect from Corruption.
+All attributes of all units within a range of 2 tiles are reduced by 6. Magic Resistance and Magic Immunity cannot protect from Corruption.
 Lasts for 5 turns.
 Duration increases with the caster's Concentration.
 Does not affect demons.#
 
 70. Time Stop
 #Circle 4.
-School: Wizardry.
+School: Metamorphoses.
 All friendly units get an additional turn in battle. The spell only affects those units who have already taken a turn.#
 
 71. Dragon Form
 #Circle 4.
-School: Wizardry.
+School: Metamorphoses.
 Turns a friendly unit into a Dragon.
 Lasts 3 turns.
 Duration slightly increases with the caster's Concentration.#
 
 72. Polymorph
 #Circle 4.
-School: Wizardry.
+School: Metamorphoses.
 Turns an enemy unit into a mule.
 Lasts 4 turns.
 Duration increases with the caster's Concentration. Does not affect heroes.#
 
 73. Mass Suicide
 #Circle 4.
-School: Sorcery.
+School: Astral Magic.
 All enemy units with the resistance of 4 or less inflict double damage on themselves.
 Has no effect on the Undead and Mechanical units.#
 
 74. Enslave
 #Circle 4.
-School: Sorcery.
+School: Astral Magic.
 Allows the possession of an enemy unit for 3 turns.
 Duration increases with the caster's Concentration.
 At the end of the spell the target loses half of its stamina and morale.
@@ -492,16 +493,17 @@ Does not affect the undead, mechanical units and heroes.#
 
 75. Mass Sleep
 #Circle 4.
-School: Sorcery.
+School: Astral Magic.
 Puts all units within a range of 2 tiles to sleep. After their little nap, they awake.
 Lasts 3 turns. Duration increases with the caster's Concentration. Resistance protects only partially against this spell.
-Has no effect on the Undead and Mechanical units.#
+No effect on the undead and mechanical units.#
 
 76. Create Golem
 #Circle 3.
 School: Elemental Magic.
 A Golem is created in a tile next to the caster.
-The summoning range and the golem's attributes depend on the caster's Summoning skill.#
+The summoning range and the golem's attributes depend on the caster's Summoning skill.
+Afterwards the summoner will not be able to cast spells for 2 turns.#
 
 77. Summon Phoenix
 #Circle 4.
@@ -546,7 +548,7 @@ Has no effect on intrepid creatures.#
 
 84. Mind Control
 #Circle 3.
-School: Sorcery.
+School: Astral Magic.
 For one turn takes control of an enemy unit, whose resistance is 4 or lower.
 At the end of the spell, the target loses half its Stamina and Morale.
 The caster's magic power can overcome the higher resistance of an enemy.
@@ -595,7 +597,7 @@ Has no effect on Cultists.#
 #Circle 1.
 School: Natural Magic.
 Heals target for 4 hit points. Reduces the strength of harmful magical effects. Cures poisoning. Stops bleeding. Reduces the putrefaction of wounds by 1.
-Effect significantly increases with the caster's Spellpower.
+Healing effect increases with the caster's Spellpower.
 Has no effect on the Undead, Mechanical units, and Elementals.#
 
 92. Summon Huorn
@@ -614,14 +616,14 @@ Does not affect the undead.#
 94. Summon Wasp Swarm
 #Circle 1.
 School: Natural Magic.
-Reduces ranged attack of the enemy to zero. Stinging insects cause 2 points of damage per turn. Lasts 2 turns. Magic Resistance and Magic Immunity offer no protection from this spell.
+Reduces ranged attack of the enemy to zero. Lasts 3 turns. Magic Resistance and Magic Immunity offer no protection from this spell.
 Duration increases with the caster's Concentration.
 Has no effect on the Undead, Mechanical units, and Elementals.#
 
 95. Summon Wasp Cloud
 #Circle 3.
 School: Natural Magic.
-Reduces ranged attack of all enemies to zero. Stinging insects cause 2 points of damage per turn. Lasts 2 turns. Magic Resistance and Magic Immunity offer no protection from this spell.
+Disables the Ranged Attack of all enemies within 1 tile. Lasts 4 turns. Magic Resistance and Magic Immunity offer no protection from this spell.
 Duration increases with the caster's Concentration.
 Has no effect on the Undead, Mechanical units, and Elementals.#
 
@@ -632,11 +634,10 @@ Heals target for 5 hit points. Cures poisoning. Stops bleeding. Reduces the putr
 Effect significantly increases with the caster's Spellpower.
 Has no effect on the Undead, Mechanical units, and Elementals.#
 
-97. Shadow Thief
+97. Astral Thief
 #Circle 1.
-School: Shadow Magic.
-Destroys 8 missiles from the target's ammo stock. The target receives damage equal to the total ammo burned. The caster receives one third of the burned ammo.
-The amount of ammo burned slightly increases with the caster's Spellpower. Resistance has almost no protection against this spell.
+School: Astral Magic.
+Steals 3 ammo from the target for the caster. The amount of ammo stolen slightly increases with the caster's Spellpower. Resistance has almost no protection against this spell.
 Has no effect on Animals.#
 
 98. Blinding Darkness
@@ -693,9 +694,9 @@ Has no effect on Mechanical units and Elementals.#
 #Circle 3.
 School: Elemental Magic.
 The caster loses 50 hit points.
-Increase the Defenses of all nearby friendly units by 2, and gives them First Aid 4. Lasts 2 turns.
+Increases the Defenses of all nearby friendly units by 2, and grants them Regeneration 2. Lasts 2 turns.
 Duration increases with the caster's Concentration.
-Has no effect on Mechanical units, Elementals, Golems, and Artillery.#
+Only works on Orcs.#
 
 106. Fire Rage
 #Circle 2.
@@ -708,13 +709,13 @@ Damage increases with the caster's Spellpower.#
 #Circle 2.
 School: Chaos Magic.
 The caster loses 50 hit points.
-Unit receives Fearless, Intimidation 1, and Bloodlust 2. Increases Resistance by 2. Lasts 2 turns.
+Gives allies or enemy units Fearless, Intimidation 1, and Bloodlust 2. Increases Resistance by 2, and Speed by 1. Disables ranged attack. Lasts 2 turns. Ignores magic resistance.
 Duration increases with the caster's Concentration.
 Has no effect on the Undead, Mechanical units, and Elementals.#
 
 108. Insanity
 #Circle 3.
-School: Sorcery.
+School: Astral Magic.
 Inflicts 10 magic damage, reduces stamina by 5 and morale by 2. Caster gains health, stamina and morale equal to damage dealt.
 Damage increases with the caster's Spellpower.
 Has no effect on the Undead, Mechanical units, and Elementals.#
@@ -764,10 +765,10 @@ Duration increases with the caster's Concentration.
 Has no effect on Animals, Elementals, incorporeal creatures, and Artillery.#
 
 115. Plague
-#Circle 3.
+#Circle 4.
 School: Necromancy.
-It infects all living creatures within 1 tile with disease. The infected unit loses 3 hit points and 1 stamina point each turn. All attack attributes are reduced by 3 and speed by 1.
-Resistance protects only partially against this spell. Lasts 4 turns.
+It infects all living creatures within 1 tile with disease. The infected unit loses 5 hit points and 3 Stamina points each turn. All attack attributes are reduced by 5 and speed by 1.
+Resistance protects only partially against this spell. Lasts 6 turns.
 Duration increases with the caster's Concentration.
 Has no effect on the Undead, Mechanical units, Elementals, and Ratmen.#
 
@@ -831,11 +832,10 @@ Duration increases with the caster's Concentration.
 Does not affect creatures with magic shot.#
 
 125. Thick Fog
-#Circle 3.
-School: Elemental Magic.
-Reduces ranged attack of all enemy shooters on the battlefield by 5. Lasts 3 turns. Magic Resistance and Magic Immunity offer no protection from this spell.
-Duration increases with the caster's Concentration.
-Does not affect creatures with magic shot.#
+#Circle 4.
+School: Natural Magic.
+Disables ranged attack for all creatures on the batlefield. Lasts 4 turns. Magic Resistance and Magic Immunity offer no protection from this spell.
+Duration slightly increases with the caster's Concentration.#
 
 126. Double Shot
 #Circle 4.
@@ -881,51 +881,50 @@ School: Elemental Magic.
 Deals 16 magic damage to all units within a range of 1 tile. Resistance protects only partially against this spell.
 Damage increases significantly with the caster's Spellpower.#
 
-133. Frenzy.
+133. Poison Claw
 #Circle 2.
 School: Natural Magic.
-Increases attack and counterattack of the target by 3 points. Lasts 4 turns.
+Enchants melee attack of a friendly unit with Poison 5. Lasts 4 turns.
 Duration increases with the caster's Concentration.
-Has no effect on the Undead, Mechanical units, and Elementals.#
+Only works on Animals.#
 
-134. Bloodlust
-#Circle 3.
-School: Natural Magic.
-Increases attack and counterattack of the target by 3, speed by 1 and gives the ability to restore health by dealing melee damage(one quarter is restored). Lasts 4 turns.
-Duration increases with the caster's Concentration.
-Has no effect on the Undead, Mechanical units, and Elementals.#
-
-135. Snare
-#Combat abilities.
-Inflicts 2 points of physical damage. Reduces the enemy's speed by 1 for 2 turns.
-Magic Resistance and Magic Immunity offer no protection from this spell.
-Has no effect on flying, floating, and incorporeal creatures, or on Artillery.#
-
-136. Trap
-#Combat abilities.
-Inflicts 5 points of physical damage. For 2 turns reduces the target's speed by 1 and drains 2 hit points and 2 stamina points.
-Magic Resistance and Magic Immunity offer no protection from this spell.
-Has no effect on flying, floating, and incorporeal creatures, or on Artillery.#
-
-137. Swamp Poison
-#Circle 2.
-School: Natural Magic.
-Unit loses 5 stamina points each turn. Reduces speed by 1. Lasts 3 turns. Ignores spell resistance.
-Duration increases with the caster's Concentration.
-Has no effect on creatures immune to poison.#
-
-138. Regeneration
-#Circle 2.
-School: Natural Magic.
-The target restores 4 hit points and 1 stamina point each turn. Increases target resistance by 1, and makes it immune to poison.  Lasts 4 turns.
-Duration increases with the caster's Concentration.
-Has no effect on the Undead, Mechanical units, and Elementals.#
-
-139. Poison Weapon
+134. Swamp Blood
 #Circle 1.
 School: Natural Magic.
-Enchants melee attack of a friendly unit with poison 3. Lasts 3 turns.
-Duration increases with the caster's Concentration.#
+Friendly unit loses 3 morale points, but becomes immune to poison. Lasts 4 turns.
+Duration increases with the caster's Concentration.
+Has no effect on the Undead, Mechanical units, and Elementals.#
+
+135. Trap
+#Combat abilities.
+Inflicts 4 points of physical damage. Damage increases significantly with the caster's Spellpower.
+Magic Resistance and Magic Immunity offer no protection from this spell.
+Does not affect flying, floating, and incorporeal creatures.#
+
+136. Snare
+#Combat abilities.
+Consumes 5 stamina points. Effect increases with the caster's Spellpower.
+Magic Resistance and Magic Immunity offer no protection from this spell.
+Does not affect flying, floating, tireless, and incorporeal creatures.#
+
+137. Hornet swarm
+#Combat abilities.
+The effect of this spell is cumulative.
+Poisons an enemy unit, causing them to lose 2 HP and 1 Stamina point each turn. Unit is afflicted with negative effect Itch. Lasts 3 turns. Magic Resistance and Magic Immunity offer no protection from this spell.
+Duration increases with the caster's Concentration.
+Has no effect on the Undead, Mechanical units, Elementals, Golems, and Artillery.#
+
+138. Voracity
+#Circle 1.
+School: Natural Magic.
+Enchanted creature receives Necrophage 10. Lasts 4 turns.
+Duration increases with the caster's Concentration.
+Only works on Animals.#
+
+139. Prod
+#Combat abilities.
+Gives a friendly unit a second turn.
+Only works on Animals.#
 
 140. Devour
 #Combat abilities.
@@ -944,12 +943,12 @@ School: Prayers.
 Deals 15 HP damage to an enemy summoned unit. Damage increases with the caster's Spellpower.
 Resistance protects only partially against this spell. Magic immunity does not apply.#
 
-143. Demon Slayer
-#Circle 1.
-School: Prayers.
-Gives the target the abilities Smite Evil (1) Hunter of Demons (2) and Hunter of Undead (1).
-Lasts 6 turns.
-Duration increases slightly with the caster's Concentration.
+143. Wicked's Bane
+#Circle 2.
+School: Sacred Magic.
+Grants the target the abilities Smite Evil 2, Hunter of Demons 2, and Hunter of Undead 2.
+Lasts 3 turns.
+The effect slightly increases with the caster's Spellpower.
 The spell has no effect on undead and demons.#
 
 144. Grace
@@ -968,7 +967,7 @@ Duration increases with the caster's Concentration. Resistance has almost no pro
 146. Armor of Faith
 #Circle 2.
 School: Prayers.
-Reduces damage from Undead and Demons by 25~. Lasts 5 turns.
+Reduces damage from Undead and Demons by 50~. Lasts 5 turns.
 Duration increases with the caster's Concentration.
 Has no effect on the Undead, Demons, Mechanical units, and Elementals.#
 
@@ -994,7 +993,7 @@ Does not affect demons, undead and mechanical units.#
 
 150. Divine Light
 #Circle 4.
-School: Prayers.
+School: Sacred Magic.
 Reduces all types of attacks of all enemies within 2 tiles to zero.
 Resistance protects only partially against this spell.
 Lasts 4 turns. Duration increases with the caster's Concentration.
@@ -1020,11 +1019,10 @@ Summons a skeleton in a tile next to the caster.
 The summoning range and the skeleton's attributes depend on the caster's Summoning ability.#
 
 154. Summon Wyvern
-#Circle 3.
+#Circle 4.
 School: Natural Magic.
-Summons wyvern - slow but powerful swamp creature.
-Requires a fresh corpse.
-The wyvern's attributes depend on the caster's Summoning ability.#
+Summons a Wyvern, slow but powerful swamp creature, to a tile adjacent to the caster.
+The summoning range and the Wyvern's attributes depend on the caster's Summoning ability.#
 
 155. Fire Storm
 #Circle 4.
@@ -1035,12 +1033,12 @@ Damage increases slightly with the caster's Spellpower.#
 156. Chilling Lightning
 #Circle 3.
 School: Elemental Magic.
-Inflicts 20 points of physical damage. Armor protects against the damage, but only partially.
+Inflicts 20 points of magic damage to the target.
 Damage increases with the caster's Spellpower.#
 
 157. Order
 #Circle 4.
-School: Sorcery.
+School: Astral Magic.
 Allows the possession of an enemy unit for 1 turn.
 At the end of the spell the target loses half of its stamina and morale.
 Ignores magic resistance.
@@ -1048,7 +1046,7 @@ Has no effect on the Undead, Mechanical units, Heroes, and Elementals.#
 
 158. Warp
 #Circle 1.
-School: Wizardry.
+School: Metamorphoses.
 Instantly transports the unit to a specified vacant tile. Only affects the caster.
 The hero using this spell will be immobilized until the end of the next turn.#
 
@@ -1067,7 +1065,8 @@ Damage increases with the caster's Spellpower.#
 161. Head Wind
 #Circle 1.
 School: Elemental Magic.
-Reduces the range, ranged attack and speed of an enemy unit by 1. Ignores magic resistance. Lasts 5 turns.
+Reduces the target's Speed by 2, and Ranged Attack by 1. Enchanted unit loses one Stamina each turn. Lasts 6 turns. If the spell reduces the target's speed below 1, it still can move but will lose some stamina every step.
+Duration increases with the caster's Concentration.
 No effect on incorporeal creatures.#
 
 162. Sluggishness
@@ -1132,7 +1131,7 @@ The summoning range and the Fire Elemental's attributes depend on the caster's S
 
 171. Summon Living Armor
 #Circle 3.
-School: Wizardry.
+School: Metamorphoses.
 Summons a Living Armor in a tile next to the caster.
 The summoning range and the Living Armor's attributes depend on the caster's Summoning ability.#
 
@@ -1151,7 +1150,7 @@ Damage increases with the caster's Spellpower.#
 
 174. Skeleton Transformation
 #Circle 4.
-School: Wizardry.
+School: Metamorphoses.
 Transforms friendly or enemy unit (with the resistance of 3 or less) in to the Skeleton.
 Lasts 4 turns.
 Duration increases with the caster's Concentration.
@@ -1159,7 +1158,7 @@ Does not affect the undead and heroes.#
 
 175. Fiend Transformation
 #Circle 4.
-School: Wizardry.
+School: Metamorphoses.
 Transforms friendly or enemy unit (with the resistance of 7 or less) in to the Fiend.
 Lasts 4 turns.
 Duration increases with the caster's Concentration.
@@ -1167,7 +1166,7 @@ Does not affect the demons and heroes.#
 
 176. Cleric Transformation
 #Circle 4.
-School: Wizardry.
+School: Metamorphoses.
 Transforms friendly or enemy unit (with the resistance of 11 or less) in to the Cleric. Magic immunity does not apply.
 Lasts 3 turns.
 Duration increases with the caster's Concentration.
@@ -1175,38 +1174,38 @@ Does not affect heroes.#
 
 177. Summon Phantom
 #Circle 3.
-School: Sorcery.
+School: Astral Magic.
 A Phantom is summoned in a tile next to the caster.
 The Phantom's attributes depend on the caster's Summoning ability.#
 
 178. Fanaticism
 #Circle 4.
-School: Sorcery.
+School: Astral Magic.
 When the target dies while under this spell, it is resurrected. While the spell is active the target becomes intrepid.
 Lasts 10 turns. Duration increases significantly with the caster's Concentration.
 Has no effect on the Undead, Mechanical units, and Elementals.#
 
 179. Deadly Terror
 #Circle 4.
-School: Sorcery.
+School: Astral Magic.
 Reduces target's morale by 20.
 Has no effect on the Undead, Mechanical units, and Elementals.#
 
 180. Panic
 #Circle 2.
-School: Sorcery.
+School: Astral Magic.
 Reduces the morale of all enemies within 1 tile by 8.
 Has no effect on intrepid creatures.#
 
 181. Imaginary Assassin
 #Circle 3.
-School: Sorcery.
+School: Astral Magic.
 The target of this spell with magic resistance 5 or less inflicts double damage to itself.
 Has no effect on the Undead, Mechanical units, and Elementals.#
 
 182. Bind Will
 #Circle 4.
-School: Sorcery.
+School: Astral Magic.
 Allows the possession of an enemy unit for 2 turns. Ignores magic resistance.
 Duration increases with the caster's Concentration.
 At the end of the spell the target loses half of its stamina and morale.
@@ -1214,7 +1213,7 @@ Has no effect on the Undead, Mechanical units, Heroes, and Elementals.#
 
 183. Strong Mind
 #Circle 2.
-School: Sorcery.
+School: Astral Magic.
 Grants all friendly units immunity to all mind affecting spells. Lasts 10 turns.
 Duration increases slightly with the caster's Concentration.#
 
@@ -1245,7 +1244,7 @@ Has no effect on the Undead, Mechanical units, Animals, and Elementals.#
 
 188. Levitation
 #Circle 1.
-School: Wizardry.
+School: Metamorphoses.
 Slightly increases the speed of a friendly unit by granting it the ability to float above the terrain. Enchanted unit restores one stamina point each turn.
 Lasts 4 turns. Duration increases with the caster's Concentration.
 Does not affect flying and hovering creatures.#
@@ -1267,18 +1266,20 @@ Has no effect on the Undead, Mechanical units, Heroes, and Elementals.#
 191. Banshee's Howl
 #Circle 3.
 School: Necromancy.
-Drains 4 hit points and 2 points of morale, reduces the speed by 1 for two turns. Affects all living creatures within 2 tiles. Magic Resistance and Magic Immunity offer no protection from this spell. Has no effect on the Undead, Mechanical units, and Elementals.#
+Drains 4 hit points and 2 points of morale, reduces the speed by 1 for two turns.
+Affects all living creatures within 2 tiles. Magic Resistance and Magic Immunity offer no protection from this spell.
+Has no effect on the Undead, Mechanical units, and Elementals.#
 
 192. Paralyze
 #Circle 3.
-School: Sorcery.
+School: Astral Magic.
 The target unit cannot move and fight. Lasts 4 turns. The target's resistance only partially protects it from the spell.
 Duration slightly increases with the caster's Concentration.
 Has no effect on the Undead, Mechanical units, and Elementals.#
 
 193. Mass Sleep
 #Circle 4.
-School: Sorcery.
+School: Astral Magic.
 Puts all enemy units to sleep. Sleeping units cannot fight until they are attacked.
 Lasts 3 turns. Ignores magic resistance.
 Duration increases with the caster's Concentration.
@@ -1292,7 +1293,7 @@ Lasts 3 turns. Duration increases with the caster's Concentration.#
 
 195. Holy Circle
 #Circle 2.
-School: Sorcery.
+School: Astral Magic.
 Increases all attack and defense attributes and resistance of all friendly creatures within 1 tile by 1. Lasts 5 turns.
 Duration increases with the caster's Concentration.
 The spell has no effect on undead and demons.#
@@ -1304,7 +1305,7 @@ A friendly unit needs to be sacrificed for this incantation.
 A Beholder is summoned in a tile next to the caster.
 The summoning range and the Beholder's attributes depend on the caster's Summoning skill.#
 
-197. Magic Crystal
+197. Dark Crystal
 #Circle 3.
 School: Shadow Magic.
 A Dark Crystal is summoned in a tile next to the caster.
@@ -1338,13 +1339,13 @@ Has no effect on creatures that already have Round Attack.#
 201. Dark Depletion
 #Circle 3.
 School: Shadow Magic.
-Destroys 8 missiles from all units within 2 tiles. The target receives damage equal to the total ammo destroyed.
+Destroys 8 missiles from all units within 2 tiles. Targets take damage based on the amount of destroyed ammo.
 The amount of ammo destroyed increases with the caster's Spellpower.
 Has no effect on Animals, and creatures with natural weapons.#
 
 202. Enchanted Weapon.
 #Circle 3.
-School: Wizardry.
+School: Metamorphoses.
 The effect of this spell is cumulative.
 Increases all types of attacks to all friendly units by 1. Lasts 4 turns.
 Replenishes ammo by 4.
@@ -1392,7 +1393,7 @@ Has no effect on the Undead, Mechanical units, Chaos Lords, and Elementals.#
 
 209. Titan's Strength
 #Circle 4.
-School: Wizardry.
+School: Metamorphoses.
 Increases the attack and counterattack of a friendly unit by 25. Lasts 3 turns.
 Duration increases with the caster's Concentration.
 Has no effect on the Undead, Elementals, Mechanical units, and large creatures.#
@@ -1447,17 +1448,16 @@ School: Sacred Magic.
 Reduces attack and ranged attack of all units on the battlefield by 10 and increases resistance and armor by 5. Lasts 5 turns. Magic Resistance and Magic Immunity offer no protection from this spell.
 Duration slightly increases with the caster's Concentration.#
 
-217. Fetters
+217. Hunter's Vine
 #Circle 2.
-School: Necromancy.
-Immobilizes all creatures within 1 tile, while improving their armor by 1. An entangled target cannot fight. Lasts 2 turns (3 turns for targets with weak melee attack).
-Does not affect enemies with resistance above 3.
-High Concentration of the caster increases the chance the target will be entangled for 3 turns.#
+School: Natural Magic.
+Immobilizes all creatures within 1 tile. Entangled target cannot move, but can attack, shoot and cast spells. Lasts 4 turns.
+Duration slightly increases with the caster's Concentration.#
 
 218. Spectral Blade
 #Circle 2.
-School: Chaos Magic.
-Inflicts 11 points of physical damage.
+School: Metamorphoses.
+Inflicts 12 points of physical damage.
 Damage increases significantly with the caster's Spellpower.
 Armor protects against the damage, but only partially.
 Ignores magic immunity.#
@@ -1472,7 +1472,7 @@ Does not affect the undead, demons and heroes.#
 
 220. Heroism
 #Circle 2.
-School: Sorcery.
+School: Astral Magic.
 Increases attack of the target by 1 and grants it Mind Control immunity. Increases stamina and morale by 5 points. If a unit has already made its turn, it gets an additional turn.
 Lasts 4 turns. Duration increases with the caster's Concentration.
 Has no effect on the Undead, Mechanical units, Elementals, and Animals.#
@@ -1509,7 +1509,7 @@ Has no effect on Chaos Lords and incorporeal creatures.#
 
 225. Cat's Reflexes
 #Circle 1.
-School: Sorcery.
+School: Astral Magic.
 The target unit gains Vigilance and can attack enemies without incurring a counterattack.
 Lasts 4 turns.
 Duration increases with the caster's Concentration.
@@ -1562,14 +1562,13 @@ Only works on Demons. Has no effect on Chaos Lords.#
 233. Mass Bless
 #Circle 3.
 School: Sacred Magic.
-Increases melee attack of all friendly creatures by 2, ranged attack, all types of defence and resistance by 1. Lasts 5 turns.
-Restores 2 stamina points.
-Duration increases with the caster's Concentration.
+Increases Attacks, Defenses, and Resistance of all friendly units by 1. Lasts 5 turns.
+Effect increases with the caster's Spellpower.
 The spell has no effect on undead and demons.#
 
 234. Healing Sleep
 #Circle 4.
-School: Sorcery.
+School: Astral Magic.
 Puts all units within 1 tile to sleep. Sleeping units cannot fight until they are attacked. Each turn dormant restore 10 hit points and 5 points of stamina.
 Lasts 3 turns. Spell Resistance hardly reduces the duration of the spell.
 Duration slightly increases with the caster's Concentration.
@@ -1602,13 +1601,13 @@ Only works on Demons. Has no effect on Chaos Lords.#
 #Circle 1.
 School: Chaos Magic.
 The caster loses 3 hit points.
-Friendly unit restores 1 point of stamina and gets an extra turn. Only those units that have already made a turn, will get another one.
-Only works on Demons. Has no effect on Chaos Lords.#
+An ally receives an extra turn, but loses all its ammo. Only those units that have already made a turn, will get another one.
+Only works on Demons.#
 
 239. Hellfire
 #Circle 3.
 School: Chaos Magic.
-The caster loses 15 hit points.
+The caster loses 10 hit points.
 Inflicts 15 points of damage to all units within a range of 1 tiles, ignites the targets, inflicting 3 point of damage for 3 turns.
 Magic Resistance only partially protects from this spell.
 The caster's Concentration and Spellpower do not affect the strength or duration of this spell.#
@@ -1678,7 +1677,7 @@ Only works on Mortals. Does not affect Giant creatures.#
 
 249. Burden
 #Circle 2.
-School: Wizardry.
+School: Metamorphoses.
 Reduces the speed of all enemy units within 1 tile by 1 and causes them to lose 3 points of stamina. Lasts 3 turns.
 Resistance protects only partially against this spell.
 Duration slightly increases with the caster's Concentration.#
@@ -1699,7 +1698,7 @@ Has no effect on the Undead, Mechanical units, and Elementals.#
 
 252. Containment
 #Circle 3.
-School: Wizardry.
+School: Metamorphoses.
 The effect of this spell is cumulative.
 Reduces the target's speed by 1. Enchanted unit loses 2 points of stamina each turn. Lasts 3 turns. If the spell reduces the target's speed below 1, it still can move but will lose some stamina every step.
 Duration increases with the caster's Concentration. Magic Resistance and Magic Immunity offer no protection from this spell.#
@@ -1757,8 +1756,8 @@ Only works on Animals.#
 260. Enchanted Fang
 #Circle 1.
 School: Natural Magic.
-Increase the target's Attacks by 1, and makes them magical. Lasts 4 turns.
-Duration increases with the caster's Concentration.
+Increase the target's Attacks by 1, and makes them magical. Lasts 6 turns.
+Spell effect increases slightly with the caster's Spellpower.
 Only works on Animals.#
 
 261. Demonic Howl
@@ -1776,13 +1775,14 @@ The Lord of Darkness attributes depend on the caster's Summoning and Necromancy 
 263. Stone Crust
 #Circle 2.
 School: Elemental Magic.
-Immobilizes a mortal enemy or ally, and inflicts 4 points of damage each turn. The target's Armor increases by 4, Resistance by 2. Lasts 4 turns.
+Immobilizes an enemy or friendly Mortal unit. The target's Armor increases by 4, Resistance by 2. Lasts 4 turns.
+An ally recovers 4 HP each turn, an enemy loses them.
 Duration increases slightly with the caster's Concentration. Enemy resistance significantly reduces the duration of the spell.#
 
 264. Mass Cold Immunity
 #Circle 2.
 School: Elemental Magic.
-Grants all friendly units immunity to cold and increases defense by 1. Each turn the unit restores 1 hit point. Lasts 2 turns.
+Grants all friendly units immunity to cold and increases defense by 1. Each turn the unit restores 1 hit point. Lasts 3 turns.
 Duration increases significantly with the caster's Concentration.
 Has no effect on Mechanical units and Elementals.#
 
@@ -1802,7 +1802,7 @@ Has no effect on the Undead, Mechanical units, and Elementals.#
 
 267. Confusion
 #Circle 4.
-School: Sorcery.
+School: Astral Magic.
 All enemy units within 1 tile forget to attack in close combat. Ranged attack of each target is reduced to zero. The unit is unable to use spells. Lasts 3 turns.
 Resistance protects only partially against this spell.
 Duration increases with the caster's Concentration.
@@ -1829,10 +1829,10 @@ Damage and healing power increases with the caster's Spellpower.
 Has no effect on the Undead, Mechanical units, and Elementals.#
 
 271. Magic Stream
-#Circle 2.
-School: Wizardry.
-Inflicts 10 points of magic damage to an enemy unit or heals a friendly living creature for 10 hit points.
-Damage and healing power increases with the caster's Spellpower.
+#Circle 3.
+School: Elemental Magic.
+Inflicts 15 points of magic damage to an enemy unit or heals a friendly living creature for 15 hit points.
+Damage and healing increase significantly with the caster's Spellpower.
 Has no effect on the Undead, Mechanical units, and Elementals.#
 
 272. Healing Circle
@@ -1860,7 +1860,7 @@ Summons a Wolf in a tile next to the caster.
 The summoning range and the wolf's attributes depend on the caster's Summoning ability.#
 
 276. Summon Dire Bear
-#Circle 2.
+#Circle 3.
 School: Natural Magic.
 Summons a Dire Bear in a tile next to the caster.
 The summoning range and the Dire Bear's attributes depend on the caster's Summoning ability.#
@@ -1883,7 +1883,7 @@ Has no effect on the Undead, Mechanical units, Elementals, and creatures immune 
 
 279. Test of Faith
 #Circle 1.
-School: Sorcery.
+School: Astral Magic.
 The effect of this spell is cumulative.
 The target unit restores 4 hit points and 2 stamina points each turn, and also receives Smite Evil (1). Lasts 3 turns.
 Restores 1 ammo.
@@ -1892,26 +1892,26 @@ Only affects Alkari.#
 
 280. Summon Icarus
 #Circle 1.
-School: Sorcery.
+School: Astral Magic.
 Summons an Icarus, a common Alkari warrior, on a tile adjacent to the summoner.
 The Icarus' attributes depend on the caster's Summoning ability.#
 
 281. Summon Stalker
 #Circle 2.
-School: Sorcery.
+School: Astral Magic.
 Summons a Stalker, an Alkari hunter, on a tile adjacent to the summoner.
 The Stalker's attributes depend on the caster's Summoning ability.#
 
 282. Summon Luminary
 #Circle 2.
-School: Sorcery.
+School: Astral Magic.
 A Luminary is summoned in a tile next to the caster.
 The Luminary's attributes depend on the caster's Summoning ability.#
 
 283. Soul Trap
 #Circle 1.
 School: Necromancy.
-A creature's soul can be trapped as it leaves its corpse. The trapped soul can be used to damage an enemy or friendly unit.
+A creature's soul can be trapped as it leaves its corpse. The trapped soul can be used either to curse an enemy, or to buff an ally.
 The trapped soul's attributes depend on the caster's Summoning and Necromancy skills. The unit does not remain after the battle.#
 
 284. Death Bell
@@ -1927,7 +1927,7 @@ Has no effect on the Undead, Mechanical units, and Elementals.#
 #Circle 1.
 School: Elemental Magic.
 Summons a Mephit, a weak spirit of air, to a tile adjacent to the summoner.
-The summoning range and the Mephit's attributes depend on the caster's Summoning ability.#
+Summoning range and the Mephit's attributes depend heavily on the caster's Summoning ability.#
 
 286. Self-Sacrifice
 #Circle 2.
@@ -1939,7 +1939,7 @@ Has no effect on the Undead, Mechanical units, and Elementals.#
 
 287. Concoction
 #Combat abilities.
-Increases the target's attack by 4 and its defense and ranged defense by 2. Unit loses 2 hit points each turn. Lasts 3 turns.
+Increases target's Attack, Defense, and Ranged Defense by 2. Grants the ability Necrophage 5. Unit loses 2 hit points each turn. Lasts 3 turns.
 Caster's Concentration doesn't increase the duration of this spell.
 Only works on Ratmen.#
 
@@ -1950,44 +1950,39 @@ Increases a friendly or enemy unit's defense by 5, ranged defense by 10 and make
 Duration slightly increases with the caster's Concentration.
 No effect on incorporeal creatures.#
 
-289. Fierce Roar
-#Combat abilities.
-The fierce roar of evil creatures frightens an enemy. Consumes 6 morale points. Magic Resistance and Magic Immunity offer no protection from this spell.
-Has no effect on intrepid creatures.#
+289. Magic Crystal
+#Circle 2.
+School: Metamorphoses.
+Invokes a magic crystal in a tile adjacent to the caster.
+The summoning range and the Magic Crystal's attributes depend on the caster's Summoning ability.#
 
-290. Fever
+290. Leprosy
 #Circle 2.
 School: Necromancy.
-Infects an enemy creature with a disease. The diseased unit immediately loses 5 hit points, and another 5 hit points each turn. Lasts 4 turns.
-Duration increases slightly with the caster's Concentration.
-Resistance protects only partially against this spell.
+Infects an enemy creature with a disease. Infected unit loses 2 Morale each turn, all Attacks and Resistance are reduced by 2. Lasts 6 turns.
+Duration increases with the caster's Concentration.
 Has no effect on the Undead, Mechanical units, Elementals, and Ratmen.#
 
-291. Exhaustion
+291. Fever Carrier
 #Circle 3.
 School: Necromancy.
-Infects an enemy creature with a disease. The diseased unit immediately loses 10 hit points, and another 10 hit points each turn. Lasts 4 turns.
-Duration increases slightly with the caster's Concentration.
-Magic Resistance only partially protects from this spell. Magic immunity does not apply.
-Has no effect on Ratmen, the Undead, Elementals, Mechanical units, and creatures immune to poison.#
+Grants an ally Interception, and the ability to transmit Fever in melee attacks. Unit loses one HP each turn. Lasts 4 turns.
+Duration increases with the caster's Concentration.
+Has no effect on the Undead, Mechanical units, and Elementals.#
 
-292. Black Plague
-#Circle 4.
+292. Atrophy Carrier
+#Circle 3.
 School: Necromancy.
-Infects all living creatures within 1 tile with a disease. The diseased unit immediately loses 10 hit points, and another 10 hit points each turn.
-Lasts 4 turns. Duration increases with the caster's Concentration.
-Magic Resistance only partially protects from this spell. 
-Immunity against Magic or Pain offer no protection from this spell.
-Has no effect on the Undead, Mechanical units, Elementals, and Ratmen.#
+Grants an ally First Strike, and the ability to transmit Atrophy in melee attacks. Unit loses one Stamina each turn. Lasts 4 turns.
+Duration increases with the caster's Concentration.
+Has no effect on the Undead, Mechanical units, and Elementals.#
 
-293. Pestilence
-#Circle 4.
+293. Leprosy Carrier
+#Circle 3.
 School: Necromancy.
-Infects all living creatures within 2 tiles with a disease. The diseased unit immediately loses 15 hit points, and another 15 hit points each turn.
-Lasts 4 turns. Duration increases with the caster's Concentration.
-Magic Resistance only partially protects from this spell.
-Immunity against Magic or Pain offer no protection from this spell.
-Has no effect on the Undead, Mechanical units, Elementals, and Ratmen.#
+Grants an ally Agility, and the ability to transmit Leprosy in melee attacks. Unit loses one Morale point each turn. Lasts 4 turns.
+Duration increases with the caster's Concentration.
+Has no effect on the Undead, Mechanical units, and Elementals.#
 
 294. Summon Rat
 #Circle 1.
@@ -1995,41 +1990,48 @@ School: Natural Magic.
 Summons a Giant Rat in a tile next to the caster.
 The summoning range and the Giant Rat's attributes depend on the caster's Summoning ability.#
 
-295. Summon Ratman
-#Circle 1.
-School: Natural Magic.
-Summons a Ratman in a tile next to the caster.
-The summoning range and the Ratman's attributes depend on the caster's Summoning ability.#
-
-296. Summon Shadow Claw
-#Circle 2.
-School: Natural Magic.
-Summons a Shadow Claw in a tile next to the caster.
-The summoning range and the Shadow Claw's attributes depend on the caster's Summoning ability.#
-
-297. Summon Rat King
+295. Fever Hotbed
 #Circle 4.
-School: Natural Magic.
-Summons a Rat King in a tile next to the caster.
-The summoning range and the Rat King's attributes depend on the caster's Summoning ability.#
+School: Necromancy.
+Grants every ally within 1 tile Interception, and the ability to transmit Fever in melee attacks. Units lose one HP each turn, and transmit Fever to all adjacent units upon death.
+Lasts 4 turns. Duration increases with the caster's Concentration.
+Has no effect on the Undead, Mechanical units, and Elementals.
+Units may receive only one spell of this type.#
 
-298. Summon Rat Reaper
-#Circle 3.
-School: Natural Magic.
-Summons a Rat Reaper in a tile next to the caster.
-The summoning range and the Rat Reaper's attributes depend on the caster's Summoning ability.#
+296. Atrophy Hotbed
+#Circle 4.
+School: Necromancy.
+Grants every ally within 1 tile First Strike, and the ability to transmit Atrophy in melee attacks. Units lose one Stamina each turn, and transmit Atrophy to all adjacent units upon death.
+Lasts 4 turns. Duration increases with the caster's Concentration.
+Has no effect on the Undead, Mechanical units, and Elementals.
+Units may receive only one spell of this type.#
+
+297. Leprosy Hotbed
+#Circle 4.
+School: Necromancy.
+Grants every ally within 1 tile Agility, and the ability to transmit Leprosy in melee attacks. Units lose one Morale each turn, and transmit Leprosy to all adjacent units upon death.
+Lasts 4 turns. Duration increases with the caster's Concentration.
+Has no effect on the Undead, Mechanical units, and Elementals.
+Units may receive only one spell of this type.#
+
+298. Curse
+#Circle 1.
+School: Necromancy.
+Reduces all attack attributes of the target by 2. Lasts 6 turns.
+The effect slightly increases with the caster's Spellpower.
+Does not affect mechanical units.#
 
 299. Dash
 #Circle 1.
 School: Sacred Magic.
-The target unit loses 2 stamina and morale points, but gets another turn.
+Enchanted unit loses 4 Morale points, but gets an extra turn. Loss decreases slightly with the caster's Spellpower.
 Only works on mortal Humans.#
 
 300. Shock
 #Circle 1.
 School: Sacred Magic.
-Inflicts 8 points of magic damage to the target. Only works on the Undead. Does not affect the servants of Death.
-Damage increases significantly with the caster's Spellpower. Resistance protects only partially against this spell.#
+Inflicts 3 points of magic damage to the target. Only affects evil creatures, damage increases significantly for lower karma.
+Damage increases slightly with the caster's Spellpower. Resistance protects only partially against this spell. Magic immunity does not apply.#
 
 301. Blind Faith
 #Circle 2.
@@ -2197,7 +2199,7 @@ Duration increases with the caster's Concentration.#
 
 326. Mental Support
 #Circle 2.
-School: Sorcery.
+School: Astral Magic.
 The effect of this spell is cumulative.
 Increases the Summoning Power of all friendly creatures by 2. Lasts 5 turns.
 Duration increases with the caster's Concentration.
@@ -2205,7 +2207,7 @@ Only affects Alkari.#
 
 327. Mental Duel
 #Circle 2.
-School: Sorcery.
+School: Astral Magic.
 All the target's magical abilities - the power and duration of spells, summoning power, undead summoning power and resistance - are reduced by 2. The spell's target loses 2 Stamina each turn. Lasts 4 turns. Spell Resistance hardly reduces the duration of the spell.
 Destroys 1 missile from the target's ammo stock.
 Duration increases with the caster's Concentration.
@@ -2213,7 +2215,7 @@ Only works on Mortals and Demons.#
 
 328. Mental Sermon
 #Circle 2.
-School: Sorcery.
+School: Astral Magic.
 The effect of this spell is cumulative.
 All friendly units restore 4 hit points and 2 stamina points each turn, and also receive Smite Evil (1). Lasts 3 turns.
 Duration increases with the caster's Concentration.
@@ -2221,7 +2223,7 @@ Only affects Alkari.#
 
 329. Mental Resonance
 #Circle 3.
-School: Sorcery.
+School: Astral Magic.
 The caster loses 7 hit points.
 Increases a unit's Spellpower and Spell Duration by 1 and its Summoning Power by 4. The enchanted unit restores 2 stamina points each turn. Lasts 3 turns.
 The unit can have another turn, if it has already acted.
@@ -2230,7 +2232,7 @@ Only affects Alkari.#
 
 330. Act of Faith
 #Circle 4.
-School: Sorcery.
+School: Astral Magic.
 The caster loses 70 hit points.
 Grants all friendly Alkari units Reincarnation, Immunity to Pain and Smite Evil (4). Lasts 2 turns.
 Duration slightly increases with the caster's Concentration.
@@ -2238,19 +2240,19 @@ Only affects Alkari.#
 
 331. Summon Arisen
 #Circle 3.
-School: Sorcery.
+School: Astral Magic.
 Summons an Arisen Luminary, a mighty Alkari warrior, on a tile adjacent to the summoner.
 The Arisen Luminary's attributes depend on the caster's Summoning ability.#
 
 332. Summon Keeper
 #Circle 3.
-School: Sorcery.
+School: Astral Magic.
 Summons a Memory Keeper, a powerful Alkari spellcaster, on a tile adjacent to the summoner.
 The Memory Keeper's attributes depend on the caster's Summoning ability.#
 
 333. Mental Shadow
 #Circle 4.
-School: Sorcery.
+School: Astral Magic.
 All the enemy unit's magical abilities - the power and duration of spells, summoning power, undead summoning power and resistance - are reduced by 2. The spell's target loses 2 Stamina each turn. Lasts 4 turns. Resistance protects only partially against this spell.
 Instantly reduces all enemy unit's ammo by 2.
 Duration increases with the caster's Concentration.
@@ -2258,9 +2260,9 @@ Only works on Mortals, Demons, and Heroes. Has no effect on Animals.#
 
 334. Hunter's Net
 #Combat abilities.
-Immobilizes the target while increasing its defense attributes by 1. An entangled target cannot fight. Lasts 2 turns (3 turns for targets with weak melee attack).
-Does not affect enemies with resistance above 3.
-High Concentration of the caster increases the chance the target will be entangled for 3 turns.#
+Immobilizes the target, but increases its defense attributes. An entangled target cannot fight. Lasts 3 turns.
+For every 10 points of the target's Attack, Counterattack, or magical Ranged Attack, duration is reduced by 1.
+Duration slightly increases with the caster's Concentration.#
 
 335. Stone Statue
 #Combat abilities.
@@ -2313,7 +2315,7 @@ Only affects Kobold-slaves.#
 342. Shadow Form Hunter
 #Circle 2.
 School: Shadow Magic.
-The unit is in shadow form. In this state Terrain Knowledge is increased by 8 and Speed by 1. The unit may make an enhanced shot and wounds left by this crippling shot take 3 turns longer to heal. The unit becomes incorporeal, gets Bloodlust 2 and restores 2 stamina points each turn. 
+The unit is in shadow form. In this state, terrain knowledge is increased by 4 and speed by 1. The unit may make an enhanced shot and wounds left by this crippling shot take 3 turns longer to heal. The unit becomes incorporeal, receives Bloodlust 2, and recovers 2 stamina points each turn. 
 Its resistance is reduced by half and it loses 2 morale points each turn. The unit's shooting range is reduced by 2.
 Lasts 4 turns. Duration increases with the caster's Concentration.#
 
@@ -2439,8 +2441,8 @@ Has no effect on the Undead, Mechanical units, and Elementals.#
 School: Chaos Magic.
 The caster loses 4 hit points.
 Gives everyone in a 1-tile radius Soul Stealing 5, while also inflicting 5 HP damage. Lasts 4 turns.
-Effect increases slightly with the caster's Spellpower. Resistance protects only partially against this spell.
-Magic Resistance and Magic Immunity offer no protection from this spell.#
+Effect increases slightly with the caster's Spellpower. Resistance protects only partially against this spell. Magic Resistance and Magic Immunity offer no protection from this spell.
+Has no effect on the Undead, Mechanical units, and Elementals.#
 
 361. Banner of Chaos
 #Circle 3.
@@ -2450,10 +2452,10 @@ Increases every ally's Attack by 6, and gives them Blood Frenzy (unit gets an ex
 Duration slightly increases with the caster's Concentration.
 Magic Resistance and Magic Immunity offer no protection from this spell.#
 
-362. Distress
+362. Fever
 #Circle 1.
 School: Necromancy.
-Infects the target with a disease. The infected unit loses 1 HP and 1 Stamina each turn. All types of attacks are reduced by 1. Lasts 6 turns.
+Infects the target with a disease. The infected unit loses 1 stamina each turn. All the unit's attributes are decreased by 1. Lasts 6 turns.
 Duration increases with the caster's Concentration.
 Has no effect on the Undead, Mechanical units, Elementals, and Ratmen.#
 
@@ -2503,3 +2505,62 @@ The caster loses 50 hit points.
 Fire Elemental is summoned in a tile next to the caster.
 Summoned creature knows "Fire Rain", "Mass Fire Immunity" and "Cleansing Flame" spells.
 The summoning range and the Fire Elemental's attributes depend on the caster's Summoning ability.#
+
+370. Set Trap
+#Combat abilities.
+Installs a trap in an adjacent tile.
+The summoning range and the trap's attributes depend on the caster's Summoning skill.#
+
+371. Set Snare
+#Combat abilities.
+Installs a snare in an adjacent tile.
+The summoning range and the snare's attributes depend on the caster's Summoning skill.#
+
+372. Set Hive
+#Combat abilities.
+Installs a hornet's nest in an adjacent tile.
+The summoning range and the hive's attributes depend on the caster's Summoning skill.#
+
+373. Subdue Beast
+#Circle 2.
+School: Natural Magic.
+Allows the possession of an enemy unit for 2 turns. Magic Resistance only partially protects from this spell.
+Duration slightly increases with the caster's Concentration.
+At the end of the spell the target loses half of its stamina and morale.
+Only works on Animals.#
+
+374. Improved Charm
+#Circle 2.
+School: Astral Magic.
+Increases the duration of positive spells on an ally, or negative spells on an enemy by 2.
+The effect slightly increases with the caster's Spellpower.#
+
+375. Mass Improved Charm
+#Circle 4.
+School: Astral Magic.
+Increases the duration of positive spells on all allies, and negative spells on all enemies by 3.
+The effect slightly increases with the caster's Spellpower.#
+
+376. Gates of Death
+#Circle 4.
+School: Necromancy.
+Creates a Trapped Soul from every corpse on the battlefield.
+The Souls' attributes depend on the caster's Summoning and Necromancy skills.#
+
+377. Enchanted Grove
+#Circle 4.
+School: Natural Magic.
+Summons three Huorns in an adjacent tile.
+Summoning range and the Huorns' attributes depend on the caster's Summoning skill.#
+
+378. Summon Rat Swarm
+#Circle 3.
+School: Natural Magic.
+Summons six Giant Rats to an adjacent tile.
+Summoning range and the Rats' attributes depend on the caster's Summoning ability.#
+
+379. Summon Eagle
+#Circle 2.
+School: Natural Magic.
+Summons a Giant Eagle to an adjacent tile.
+Summoning range and the Eagle's attributes depend on the caster's Summoning skill.#

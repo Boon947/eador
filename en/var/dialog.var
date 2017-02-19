@@ -1,4 +1,4 @@
-Quantity: 2390
+Quantity: 2409
 
 /0
 Window: 0;
@@ -2164,24 +2164,24 @@ Text: #«Our King will never agree to an alliance with your ruler.»#
 Answer1: All right, then I'm going to kill you.;
 Answer2: Fine. Farewell.;#####
 
-/271 Квест гоблинов - эльфийское ожерелье (предложение)
+/271 Квест гоблинов - Альварская шкатулка (предложение)
 Window: 2;
 Bitmap: 37;
-Text: #«Oh, it must be something unusual and beautiful. An Elven necklace, for example. I can make it myself, but I need materials.»#
-Answer1: What materials?;
+Text: #"Oh, it must be something unusual and beautiful. For example, a Drow jewelry box. Well, you know, some kind of casket, in which one's valuables are stored."#
+Answer1: What kind of valuables?;
 Answer2: I guess I'm going to kill you. That will be easier.;
 Answer3: I'll think about it. Goodbye.;#####
 
-/272 Квест гоблинов - эльфийское ожерелье (предложение)
+/272 Квест гоблинов - Альварская шкатулка (предложение) - не используется
 Window: 2;
 Bitmap: 37;
-Text: #«Elven ears, of course, what else? "Bring me 8 pairs of them, and I'll make an excellent Elven necklace!"#
+Text: #"Valuable ones! That's why they are called valuables - because they are valuable, got it?"#
 Answer1: No problem. I'll be back soon.;
 Answer2: I guess I'm going to kill you. That will be easier.;
 Answer3: I'll think about it. Goodbye.;
-Answer4: Might there be an easier way? <reach for purse>;#####
+Answer4: Perhaps there is an easier way? <reach for purse>;#####
 
-/273 Квест гоблинов - эльфийское ожерелье (золото вместо квеста)
+/273 Квест гоблинов - эльфийское ожерелье (золото вместо квеста) - не используется
 Window: 2;
 Bitmap: 37;
 Text: #At the sight of the purse, the goblin's small eyes begin to sparkle with greed. «Oh, of course, of course. I can do it all myself. I'll get the ears and make the necklace. It'll cost only... Umm... Two thousand gold.»#
@@ -2190,43 +2190,46 @@ Answer2: What?! Two thousands?! Alright, I'll get the ears...;
 Answer3: Perhaps 1500 will be enough...;
 Answer4: 1000, and not a coin more!;#####
 
-/274 Квест гоблинов - эльфийское ожерелье (золото вместо квеста)
+/274 Квест Альварская шкатулка (прокатило)
 Window: 2;
 Bitmap: 37;
-Text: #"Umm... All right, all right. I'll arrange everything for that sum. What a rip-off!"#
-Answer1: Deal. Here's your gold.;
-Answer2: I've changed my mind. Goodbye.;#####
+Text: #The goblin seems to suddenly turn pale, becoming pale green, and stammers: "Umm... All right, all right... Let's not complicate each other's lives... How about: You give me the jewelry box, I give you 300 gold, and we part?"#
+Answer1: Deal. I'll take gold.;
+Answer2: At least 500!;#####
 
-/275 Квест гоблинов - эльфийское ожерелье (выполнение)
+/275 Квест гоблинов - альварская шкатулка (выполнение)
 Window: 2;
 Bitmap: 37;
-Text: #The leader of the goblin warriors speaks: «Did you bring the ears? Excellent! Now give me 200 gold coins for my work, and you can consider the alliance complete!»#
-Answer1: Deal. Here's your gold.;
-Answer2: Make your damned beads before I cut your head off!;#####
+Text: #The leader of the goblin warriors speaks: "He brought the jewelry box?! Excellent! Hand it over, and you got yourself an alliance!"#
+Answer1: Take it!;
+Answer2: Not so fast! What's inside?;#####
 
-/276 Квест гоблинов - эльфийское ожерелье (угроза)
+/276 Квест гоблинов - альварская шкатулка
 Window: 2;
 Bitmap: 37;
-Text: #«If you kill me, who will make the necklace? Only the goblins know the secret of its making.»#
-Answer1: All right, take your gold.;
-Answer2: I'll find another goblin, someone wiser.;#####
+Text: #"And what makes you think I'm more interested than you are? Wasn't it you who visited the Red-eyes' cave?"#
+Answer1: What if the Drow were to somehow find out where their box is now?;
+Answer2: Well, the Drow don't really need to know.;#####
 
-/277 Квест гоблинов - эльфийское ожерелье (угроза)
+/277 Квест гоблинов - Альварская шкатулка (предложение)
 Window: 2;
 Bitmap: 37;
-Text: #The goblin's spirit noticeably droops, but he doesn't dare to argue: «All right, you're good at persuasion... I'm going to make the necklace right now.»#
-Answer1: What about an alliance?;#####
+Text: #"Valuable ones! That's why they are called valuables - because they are valuable, got it?"#
+Answer1: No problem. I'll be back soon.;
+Answer2: I guess I'm going to kill you. That will be easier.;
+Answer3: I'll think about it. Goodbye.;#####
 
-/278 Квест гоблинов - эльфийское ожерелье (оплата)
+/278 Квест гоблинов - альварская шкатулка
 Window: 2;
 Bitmap: 37;
-Text: #«Magnificent! Look at this beautiful decoration! The King will be delighted!»#
-Answer1: What about an alliance?;#####
+Text: #The Goblin frowns noticeably: "What does it matter to you now? You found the box and got an alliance, isn't that what you wanted?"#
+Answer1: Well, yes, you are right. I do not care.;
+Answer2: Perhaps this alliance is more important to you than to me?;#####
 
 /279 Квест гоблинов (союз)
 Window: 2;
 Bitmap: 37;
-Text: #"Consider it formed. After such a luxurious gift, the King would form an alliance not only with the humans but even with the elves!"#
+Text: #"Consider the alliance signed. After such a luxurious gift, the King would form an alliance not only with the humans but even with the elves!"#
 Answer1: Excellent.;#####
 
 /280 Квест гоблинов (союз невозможен)
@@ -2237,10 +2240,10 @@ Answer1: So you were pulling my leg? Die, you fiend!;
 Answer2: Such bad luck. Fine. Farewell.;
 Answer3: I'd love to slaughter you all, but I won't bother...;#####
 
-/281 Квест гоблинов - эльфийское ожерелье (ожидание)
+/281 Квест гоблинов - альварская шкатулка (ожидание)
 Window: 2;
 Bitmap: 37;
-Text: #The leader of the goblin warriors speaks: «I'm still waiting for the material to make the necklace. Try not to take too long. Elven ears are a tricky thing. They can spoil if they're not used soon enough.»#
+Text: #The leader of the goblin warriors speaks: "I'm still waiting for my jewelry box. You'd better hurry - the king's patience is not unlimited."#
 Answer1: Fine. Farewell.;
 Answer2: I've changed my mind. Fight the goblins!;#####
 
@@ -2258,11 +2261,11 @@ Text: #«I heard that one of your kind already set out to get a gift for the King
 Answer1: I see. Farewell.;
 Answer2: Fight the goblins!;#####
 
-/284 Квест гоблинов - эльфийское ожерелье (условие выполнено)
+/284 Квест гоблинов - Альварская шкатулка (условие выполнено)
 Window: 2;
 Bitmap: 37;
-Text: #After battle, the hero %s collects the bloody trophies. There are enough Elven ears to make the necklace. They must be delivered to the goblins before they spoil.#
-Answer1: Excellent.;#####
+Text: #After the battle, the hero %s searched the entire cave, and found hidden in a cache a rather large jewelry box - the size of a chest - adorned with intricate patterns and rare gems.#
+Answer1: Excellent!;#####
 
 /285 Квест гоблинов, провинция захвачена
 Window: 2;
@@ -2311,11 +2314,11 @@ Text: #«Not a bad deal. I agree.»#
 Answer1: Deal. Here's your gold.;
 Answer2: I've changed my mind. Attack!;#####
 
-/291 Квест гоблинов (покупка союза)
+/291 Квест Альварская шкатулка (не прокатило)
 Window: 2;
 Bitmap: 37;
-Text: #The goblin, with a satisfied look on his face, stuffs the gold into his dirty bag. «Consider the alliance formed. With this gold, I'll be able to arrange everything in fine fashion.»#
-Answer1: Excellent.;#####
+Text: #The Golbin grins contentedly: "Oh well. While you're at it, let them know exactly who brought it. And more importantly, how this "someone" got ahold of it!"#
+Answer1: Alright, I'll settle for an alliance.;#####
 
 /292 (Торговцы хотят пройти через Вашу провинцию - основной диалог)
 Window: 2;
@@ -5517,7 +5520,7 @@ Answer2: Reward them for their good work. (-50 $ );#####
 
 /710 Буки - рейд
 Window: 2;
-Bitmap: 251;
+Bitmap: 250;
 Text: #In the middle of the night, an army invaded the province of %s!#
 Answer1: What's happening?;
 Answer2: Big deal...;#####
@@ -8322,10 +8325,10 @@ Answer2: What a pity.;
 Answer3: Help the families of the victims (-100 $ );#####
 
 /1076 Буки - рейд (грабёж)
-Window: 4;
-Bitmap: 251;
+Window: 2;
+Bitmap: 250;
 Text: #The settlement was destroyed - some of the inhabitants were slaughtered, and their houses looted. The damage costs you %d gold.#
-Answer1: Excellent!;
+Answer1: Losses again!;
 Answer2: Help the families of the victims (-100 $ );#####
 
 /1077 Достигнут максимум героев
@@ -13687,7 +13690,7 @@ Bitmap: 72;
 Text: #The deputy of the province of %s states that a wandering elven carpenter has arrived, asking for permission to open his own shop. Your deputy is concerned, since the elf is an exile of his race. Granting permission may incur the wrath of the neighboring elven provinces.#
 Answer1: Banish him from the province!;
 Answer2: Grant him permission.;
-Answer3: Grant him permission, as long as he pays 300 $.;
+Answer3: Allow him to open shop for 300 $;
 Answer4: Execute the filth!;#####
 
 /1790 (Лавка плотника - открыть)
@@ -13740,7 +13743,7 @@ Bitmap: 68;
 Text: #The deputy of the province of %s states that a wandering halfling tailor has arrived, asking for permission to open his own shop. Your deputy is concerned, since the halfling is an exile of his race. Granting permission may incur the wrath of the neighboring halfling provinces.#
 Answer1: Banish him from the province!;
 Answer2: Grant him permission.;
-Answer3: Grant him permission, as long as he pays 300 $.;
+Answer3: Allow him to open shop for 300 $;
 Answer4: Execute the filth!;#####
 
 /1797 (Лавка портного - открыть)
@@ -13967,7 +13970,7 @@ Answer2: The Gods will have plans for these lost souls.;#####
 /1826 Ошибка алхимиков
 Window: 2;
 Bitmap: 89;
-Text: #While concocting a new potion, the local alchemists made an error in the formula, causing an unexpected result: Its vapors can turn living creatures into magical statues. Unfortunately, they are now petrified in their lab, with no one left to record the potions's formula. This also means we unfortunately have no means to reverse the formula to save them. The sample potion's substance has also already evaporated.
+Text: #The local alchemists have concocted a potion which turns living creatures into beautiful statues radiating magic. Unfortunately, they are now petrified in their lab, with no one left to record the potions's formula. All the potion has evaporated by now.
 The sages believe that the magic emanates from crystals deep within the statues. The vicar wishes to decorate the village with these statues.
 What are your orders, Master?#
 Answer1: Let him adorn the city.;
@@ -15869,10 +15872,10 @@ Answer4: Humans have much to give to the Grand Ratt!;#####
 /2073 Переговоры с крысолюдами (просим золото)
 Window: 2;
 Bitmap: 191;
-Text: #The ratman ran back into the line of soldiers, and much squeaking and squealing was heard. As the ratman returned, he said: "Grand-d-d Rat-t-t tell me reward you, s-s-sir! Man-man can take our soldiers. Choose, man-man!"#
-Answer1: Rat Reaper? We should try!;
-Answer2: Hmm... Ripper... Let's take a look!;
-Answer3: Take a Master of Decay!;#####
+Text: #"No, man-man, go away!"#
+Answer1: Not a chance! Kill them all!;
+Answer2: Well, we shall meet again...;
+Answer3: Humans have much to give to the Grand Ratt!;#####
 
 /2074 Квест крысолюдов - Горькая пища (условие выполнено)
 Window: 2;
@@ -16174,7 +16177,7 @@ Answer2: I feel sorry for them, but it was worth it.;#####
 Window: 2;
 Bitmap: 195;
 Text: #The deputy of the province of %s reports that an extremely smelly ratman was brought to him. He claims that he lost his way and is looking for the secret ratman city.
-If you can help him in his quest, he promises that the warriors of his clan will join your army.#
+If you can help in his quest, he promises to reward you with valuable gifts on behalf of his clan.#
 Answer1: Get rid of this this skunk!;
 Answer2: Send my warriors in search of the city.;
 Answer3: Hire adventurers (-200 $ );#####
@@ -16197,7 +16200,7 @@ Answer3: Well, that's the way it is then.;#####
 /2113 Потерявшийся крысолюд, отправить стражу, нашли
 Window: 2;
 Bitmap: 195;
-Text: #Your scouts returned from a tiring journey. They managed to find the very city the lost ratman had spoken of. Upon hearing the news, he immediately departed to go there, promising to send you a warrior as soon as he reaches the city.#
+Text: #Your scouts returned from a tiring journey. They managed to find the very city the lost ratman had spoken of. Upon hearing the news, he leaves immediately, promising to send you a gift as soon as he reaches the city.#
 Answer1: Well, that's good.;
 Answer2: Get a move on!;#####
 
@@ -16216,38 +16219,38 @@ Answer1: Send my warriors in search of the city.;
 Answer2: Keep searching (-100 $ );
 Answer3: Well, that's the way it is then.;#####
 
-/2116 Потерявшийся крысолюд, отправить стражу, нашли
+/2116 Потерявшийся крысолюд, отправить авантюристов, нашли
 Window: 2;
 Bitmap: 195;
-Text: #The adventurers returned from a tiring journey. They managed to find the very city the lost ratman had spoken of. Upon hearing the news, he immediately departed to go there, promising to send you a warrior as soon as he reaches the city.#
+Text: #The adventurers returned from a tiring journey. They managed to find the very city the lost ratman had spoken of. Upon hearing the news, he leaves immediately, promising to send you a gift as soon as he reaches the city.#
 Answer1: Well, that's good.;
 Answer2: Get a move on!;#####
 
 /2117 Потерявшийся крысолюд, награда
 Window: 4;
 Bitmap: 195;
-Text: #In fulfillment of his promise to you, the ratman, who at last found his home, sends you the employment contract for a mighty warrior.#
+Text: #To honor his promise, the Ratman, who at last found his home, sends you a hiring contract for a mighty guard.#
 Answer1: What a piece of rubbish!;
 Answer2: Not bad.;#####
 
 /2118 Потерявшийся крысолюд, награда
 Window: 4;
 Bitmap: 195;
-Text: #In fulfillment of his promise to you, the ratman, who at last found his home, sends you the employment contracts for two mighty clan warriors.#
+Text: #To honor his promise, the Ratman, who at last found his home, sends you this banner.#
 Answer1: What a piece of rubbish!;
 Answer2: Not bad.;#####
 
 /2119 Потерявшийся крысолюд, награда
 Window: 4;
 Bitmap: 195;
-Text: #In fulfillment of his promise to you, the ratman, who at last found his home, sends you the employment contract for a mighty clan wizard.#
+Text: #To honor his promise, the Ratman, who at last found his home, sends you this magical trifle.#
 Answer1: What a piece of rubbish!;
 Answer2: Not bad.;#####
 
 /2120 Потерявшийся крысолюд, награда
 Window: 4;
 Bitmap: 195;
-Text: #In fulfillment of his promise to you, the ratman, who at last found his home, sends you the schematics for a mighty clan machine.#
+Text: #To honor his promise, the Ratman, who at last found his home, sends you this armor.#
 Answer1: What a piece of rubbish!;
 Answer2: Not bad.;#####
 
@@ -18304,3 +18307,147 @@ Bitmap: 0;
 Text: #After dispatching the wolves, your troops examine the wagon. The result is disappointing - the wagon has been abandoned for a long time and contains nothing of value; apparently the wolves were just chasing a rabbit.#
 Answer1: Bad luck.;
 Answer2: That was a good work out.;#####
+
+/2391 Яйцо твари, предложение
+Window: 2;
+Bitmap: 37;
+Text: #Trappers returning from a successful hunt offer to sell you a creature's egg for only 100 gold. Per an ancient Goblin tradition, they categorically refuse to say what kind of creature.#
+Answer1: Buy the item from the goblins (-100 $ );
+Answer2: Take the item by force.;
+Answer3: I don't need Creature eggs.;#####
+
+/2392 Яйцо твари, отнять, удача
+Window: 2;
+Bitmap: 37;
+Text: #The Goblins hid their loot, so your soldiers turned everything upside down. Eventually, they find the egg.
+After the mayhem caused by the search, long repairs are required, so it is uncertain when the next hunt will occur.#
+Answer1: The green rascals!;
+Answer2: Oh well. Let them repair.;#####
+
+/2393 Яйцо твари, отнять, неудача
+Window: 2;
+Bitmap: 37;
+Text: #The Goblins hid their loot, so your soldiers turned everything upside down. Unfortunately, nothing is found even after the most thorough search. The only goblin who knew where the egg was hidden managed to escape.
+After the mayhem caused by the search, long repairs are required, so it is uncertain when the next hunt will occur.#
+Answer1: Damn!;
+Answer2: I didn't really need it.;#####
+
+/2394 Получаем яйцо твари
+Window: 4;
+Bitmap: 37;
+Text: #The egg is delivered to the treasury.#
+Answer1: Now what should I do with it?;
+Answer2: Not bad at all for goblins...;#####
+
+/2395 Яйцо твари, предложение
+Window: 2;
+Bitmap: 37;
+Text: #One of the Beast Masters offers to sell you a creature's egg for only 300 gold. Per an ancient Goblin tradition, he categorically refuses to say what kind of creature.#
+Answer1: Buy the item from the Goblin (-300 $ );
+Answer2: Take the item by force.;
+Answer3: I don't need Creature eggs.;#####
+
+/2396 Яйцо твари, отнять, удача
+Window: 2;
+Bitmap: 37;
+Text: #The Beast Master hid the egg, so your soldiers turned everything upside down. Eventually, they find the egg.
+After the mayhem caused by the search, long repairs are required, so it is uncertain when the Goblins might have another interesting item for sale. Goblins throughout your empire are disheartened.#
+Answer1: The green rascals!;
+Answer2: Oh well. Let them repair.;#####
+
+/2397 Яйцо твари, отнять, неудача
+Window: 2;
+Bitmap: 37;
+Text: #The Beast Master hid the egg, so your soldiers turned everything upside down. Unfortunately, nothing is found even after the most thorough search. The Beast Master who knew where the egg was hidden managed to escape.
+After the mayhem caused by the search, long repairs are required, so it is uncertain when the Goblins might have another interesting item for sale. Goblins throughout your empire are disheartened.#
+Answer1: Damn!;
+Answer2: I didn't really need it.;#####
+
+/2398 Пещера, появление
+Window: 2;
+Bitmap: 4;
+Text: #A Goblin-Messenger darts in to report that the Drow have been spotted in a cave in the %s province.#
+Answer1: Very good!;
+Answer2: I wonder, how long will they stay there?;#####
+
+/2399 Пещера, исчезновение
+Window: 2;
+Bitmap: 4;
+Text: #Your scouts report that the Drow detachment has left the cave in the %s province!#
+Answer1: Damn it!;
+Answer2: And where did they go?!;#####
+
+/2400 Ритуал Зов природы
+Window: 2;
+Bitmap: 0;
+Text: #Drawn by the ritual's enchantment, the creature joins the hero's party.#
+Answer1: Continue.;#####
+
+/2401 Ритуал Священная земля
+Window: 2;
+Bitmap: 0;
+Text: #The ritual enchants a plot of land where plants with magic properties may grow. Or the land may become more fertile, which would certainly affect income. Or you can turn the plot into a sanctuary, where people can find peace.
+How would you like to bless this land?#
+Answer1: Gold is good.;
+Answer2: Gems are what I need!;
+Answer3: I want the people to be happy.;#####
+
+/2402 (Подарок от князя - сжечь, отравленные)
+Window: 2;
+Bitmap: 80;
+Text: #Servants piled the gifts in a great bonfire and lit them up. The people were unhappy, but they did not show it. Imagine the surprise of the attendance, when a suffocating smoke with a pungent smell comes out of the provisions. Alchemists claim it is the smell of a certain kind of poison.#
+Answer1: I knew it!;
+Answer2: Well, Prince, you'll pay for that!;
+Answer3: I'm glad that my subjects are safe!;#####
+
+/2403 (Подарок от князя - праздник, отравленные)
+Window: 2;
+Bitmap: 19;
+Text: #The morning after the feast, a plague erupted in the province of %s. Half the population came down with an intense fever, their bodies covered in hideous purulent sores.#
+Answer1: It's not that bad, they'll get better.;
+Answer2: Perform a Cleansing ritual (-50 & );
+Answer3: Pay healers and priests (-150 $ );#####
+
+/2404 (Подарок от князя - праздник, отравленные, помощь)
+Window: 2;
+Bitmap: 19;
+Text: #Thanks to your help, the disease was nipped in the bud. The locals are grateful for your kindness.#
+Answer1: Kindness? I need healthy slaves!;
+Answer2: I was glad to help.;
+Answer3: The prince will pay!;#####
+
+/2405 (Подарок от князя - ответные дары, начало вторжения)
+Window: 2;
+Bitmap: 80;
+Text: #The gift-bearers you sent never came back.#
+Answer1: Maybe they found a better life.;
+Answer2: I don't like this...;#####
+
+/2406 (Подарок от князя - ответные дары, нападение)
+Window: 2;
+Bitmap: 103;
+Text: #In the morning, your soldiers and the locals felt a slight discomfort, which turned into an actual disease after a while. And right after, enemy troops invaded the province!#
+Answer1: They will regret it!;
+Answer2: I'll destroy them!;#####
+
+/2407 (Провинция потеряна)
+Window: 2;
+Bitmap: 103;
+Text: #The prince's soldiers have captured the %s province.#
+Answer1: Bastard!;
+Answer2: He won't rule long...;#####
+
+/2408 (Хорошие предзнаменования - праздник, бомба)
+Window: 2;
+Bitmap: 80;
+Text: #During the celebration, a powerful explosion rips the main square apart! Many people are dead, even more are injured and maimed. The main square now resembles more a crater than a town square.#
+Answer1: Provide aid to the victims (-300 $ );
+Answer2: I knew no good would come out of these diversions!;
+Answer3: As per tradition, execute the governor.;#####
+
+/2409 Поймали колдунов (пытки)
+Window: 2;
+Bitmap: 24;
+Text: #Broken by torture, the dark mages reveal the secret of the Demon Transformation spell. The spell scroll is placed in the treasury.#
+Answer1: Good. They have earned the right to a quick death.;
+Answer2: Burn the sorcerers.;#####

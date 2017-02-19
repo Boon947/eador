@@ -53,7 +53,7 @@ Can learn scout and commander skills up to Mastery Level 3.#
 
 /12 Ranger
 #Can use the following type of items: Common, Melee Weapon, Ranged Weapon, Wand, Light Armor.
-Province exploration speed +10. Sabotage efficiency +1. Can perform one act of sabotage more than the skill allows. Possesses the skill %s (2) and Enchanted Arrow (4).
+Initiative +2. Province exploration speed +10. Sabotage efficiency +1. Can perform one act of sabotage more than the skill allows. Possesses the skill %s (2) and Enchanted Arrow (4).
 Ranger grants Terrain Knowledge +1 to allied units.
 Can learn scout and sorcerer skills up to Mastery Level 3.#
 
@@ -74,23 +74,22 @@ Can learn commander skills up to Mastery Level 5.#
 
 /16 Priest
 #Can use the following type of items: Common, Melee Weapon, Wand, Banner, Light Armor, Medium Armor, Shield.
-Increases the units' resistance by 1 and morale by 2.
+Increases the units' resistance by 1 and morale by 2. Grants army units Tolerance.
 Can learn commander and sorcerer skills up to Mastery Level 3.#
 
 /17 Battlemage
 #Can use the following type of items: Common, Melee Weapon, Heavy Weapon, Wand, Light Armor, Medium Armor, Heavy Armor, Shield.
-Resistance is increased by +3. Resistance Negation is increased by +2. Wand Mastery (increases shooting range) +4. Energy Control +2.
+Health is increased by +5. Resistance is increased by +3. Resistance Negation is increased by +2. Spellpower is increased by +2.
 Can learn sorcerer and warrior skills up to Mastery Level 3.#
 
 /18 Druid
 #Can use the following type of items: Common, Melee Weapon, Ranged Weapon, Wand, Light Armor.
-Possesses the skills Roots (3), Entangling Shot (2) and Forest Knowledge (2). Spells consume 25~ fewer gems. Spell duration is increased by +2. Grants all friendly units Poison Immunity.
+Summoning Power is increased by +5. Has the skills Forest Knowledge (2), Entanglement Immunity. Spells consume 25~ fewer gems. When using a wand, Ranged Attack +4, Energy Control +2.
 Can learn Sorcerer and Scout skills up to Mastery Level 3.#
 
 /19 Necromancer
 #Can use the following type of items: Common, Melee Weapon, Wand, Banner, Light Armor, Medium Armor, Shield.
-Undead Summoning Power +5. Raising the undead consumes 25~ fewer gems.
-Summoned undead receive bonuses from the Necromancer's Commander skills. Can make undead 1 rank stronger than the skill normally allows to remain in his party.
+Undead Summoning Power +5. Concentration is increased by +2. Raising Undead consumes 25~ fewer gems. Can make undead 1 rank stronger than the skill normally allows to remain in his party.
 The Hero's undead units do not slow him down.
 Can learn sorcerer and commander skills up to Mastery Level 3.#
 
@@ -137,7 +136,7 @@ Can learn scout and commander skills up to Mastery Level 3.#
 
 /28 Pathfinder
 #Can use the following type of items: Common, Melee Weapon, Ranged Weapon, Wand, Light Armor.
-Province exploration speed +20. Sabotage efficiency +2. Can perform two acts of sabotage more than the skill allows. Possesses the skill %s (2) and Enchanted Arrow (8).
+Initiative +3. Province exploration speed +20. Sabotage efficiency +2. Can perform two acts of sabotage more than the skill allows. Possesses the skill %s (2) and Enchanted Arrow (8).
 Pathfinder grants Terrain Knowledge +3 to allied units.
 Can learn scout and sorcerer skills up to Mastery Level 3.#
 
@@ -158,23 +157,22 @@ Can learn commander skills up to Mastery Level 5.#
 
 /32 High Priest
 #Can use the following type of items: Common, Melee Weapon, Wand, Banner, Light Armor, Medium Armor, Shield.
-Increases the units' resistance by 2 and morale by 4. A High Priest receives an additional slot for a Circle III spell.
+Increases the units' resistance by 2 and morale by 4.
 Can learn commander and sorcerer skills up to Mastery Level 3.#
 
 /33 Warwizard
 #Can use the following type of items: Common, Melee Weapon, Heavy Weapon, Wand, Light Armor, Medium Armor, Heavy Armor, Shield.
-Possesses the skill Overwhelming Force. Resistance is increased by +5. Resistance Negation is increased by +5. Wand Mastery (increases shooting range) +8.
+Health is increased by +10. Resistance is increased by +5. Resistance Negation is increased by +5. Magic power is increased by +3.
 Can learn sorcerer and warrior skills up to Mastery Level 3.#
 
 /34 Archdruid
 #Can use the following type of items: Common, Melee Weapon, Ranged Weapon, Wand, Light Armor.
-Possesses the skills Roots (6), Entangling Shot (4) and Forest Knowledge (4). Spells consume 25~ fewer gems. Spell duration is increased by +4. Grants all friendly units Poison Immunity. The Archdruid gets an additional slot for a Circle III spell.
+Summoning Power is increased by +10. Has the skills Forest Knowledge (4), Entanglement Immunity, Web Immunity. Spells consume 50~ fewer gems. When using a wand, Ranged Attack +8, Energy Control +4.
 Can learn Sorcerer and Scout skills up to Mastery Level 3.#
 
 /35 Master Necromancer
 #Can use the following type of items: Common, Melee Weapon, Wand, Banner, Light Armor, Medium Armor, Shield.
-Undead Summoning Power +10. Raising the undead consumes 50~ fewer gems.
-Summoned undead receive bonuses from the Necromancer's Commander skills. Can make undead 2 levels stronger than the skill normally allows remain in his party. Undead in the Necromancer's army receive double bonuses from Commander skills. Master Necromancer receives an extra circle III spell slot.
+Undead Summoning Power +10. Concentration is increased by +4. Raising Undead consumes 50~ fewer gems. Can make undead 2 levels stronger than the skill normally allows remain in his party.
 The Hero's undead units do not slow him down.
 Can learn sorcerer and commander skills up to Mastery Level 3.#
 

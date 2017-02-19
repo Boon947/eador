@@ -1,4 +1,4 @@
-Quantity: 285
+Quantity: 288
 
 /0
 Name: Empty;
@@ -399,7 +399,7 @@ Param1: -1
 Param2: 0;
 
 /19
-Name: School of Wizardry;
+Name: Metamorphosis School;
 GoldCost: 100
 GemCost: 15
 Group: 2
@@ -409,7 +409,7 @@ Hidden: 0
 Level: -1
 
 Buildings: (3)
-Resource: (4, 6)
+Resource: (4, 5)
 
 Ability:
 Ability: 60
@@ -426,8 +426,8 @@ Param2: 0;
 
 /20
 Name: Sphere of Winds;
-GoldCost: 50
-GemCost: 15
+GoldCost: 90
+GemCost: 20
 Group: 2
 Slot: 32
 Upgrade: 0
@@ -511,7 +511,7 @@ Param1: -2
 Param2: 0;
 
 /23
-Name: School of Sorcery;
+Name: School of Astral Magic;
 GoldCost: 80
 GemCost: 20
 Group: 2
@@ -803,8 +803,8 @@ Name: Sorcerer's Workshop;
 GoldCost: 70
 GemCost: 15
 Group: 0
-Slot: 29
-Upgrade: 0
+Slot: 0
+Upgrade: 3
 Hidden: 0
 Level: 0
 
@@ -996,7 +996,7 @@ GoldCost: 220
 GemCost: 40
 Group: 0
 Slot: 0
-Upgrade: 3
+Upgrade: 35
 Hidden: 0
 Level: 1
 
@@ -1092,11 +1092,7 @@ Resource: (1, 1, 1, 2, 2, 2)
 Ability:
 Ability: 18
 Param1: 10
-Param2: 0
-
-Ability: 31
-Param1: 664
-Param2: 1;
+Param2: 0;
 
 /47
 Name: Brewery;
@@ -1144,11 +1140,7 @@ Param2: 0
 
 Ability: 15
 Param1: 65
-Param2: 0
-
-Ability: 31
-Param1: 661
-Param2: 1;
+Param2: 0;
 
 /49
 Name: Infirmary;
@@ -1903,7 +1895,7 @@ Param2: 0;
 
 /80
 Name: Mages Guild;
-GoldCost: 400
+GoldCost: 300
 GemCost: 50
 Group: 4
 Slot: 0
@@ -1912,7 +1904,7 @@ Hidden: 0
 Level: 2
 
 Buildings: (43, 19)
-Resource: (6, 6, 4, 5, 5)
+Resource: (6, 4, 5, 5)
 
 Ability:
 Ability: 60
@@ -2447,11 +2439,7 @@ Param2: 0
 
 Ability: 18
 Param1: 10
-Param2: 0
-
-Ability: 31
-Param1: 667
-Param2: 1;
+Param2: 0;
 
 /102
 Name: Crystal of Power;
@@ -2619,10 +2607,6 @@ Param2: 1
 
 Ability: 31
 Param1: 625
-Param2: 1
-
-Ability: 31
-Param1: 668
 Param2: 1
 
 Ability: 58
@@ -3317,7 +3301,7 @@ Param2: 1;
 
 /135
 Name: Tower of Restoration;
-GoldCost: 1500
+GoldCost: 1300
 GemCost: 100
 Group: 8
 Slot: 0
@@ -3338,7 +3322,7 @@ Param1: 0
 Param2: 0
 
 Ability: 27
-Param1: 13
+Param1: 39
 Param2: 0
 
 Ability: 46
@@ -3351,7 +3335,7 @@ Param2: 1;
 
 /136
 Name: Tower of Hypnosis;
-GoldCost: 1000
+GoldCost: 1100
 GemCost: 110
 Group: 8
 Slot: 0
@@ -3385,7 +3369,7 @@ Param2: 1;
 
 /137
 Name: Tower of Necromancy;
-GoldCost: 950
+GoldCost: 1150
 GemCost: 170
 Group: 8
 Slot: 0
@@ -3427,7 +3411,7 @@ Upgrade: 86
 Hidden: 0
 Level: 2
 
-Buildings: (42, 86)
+Buildings: (42, 86, 103)
 Resource: (3, 5, 7)
 
 *Ability*:
@@ -3471,7 +3455,7 @@ Upgrade: 88
 Hidden: 0
 Level: 2
 
-Buildings: (42, 88)
+Buildings: (42, 48, 88)
 Resource: (3, 1, 7, 7)
 
 *Ability*:
@@ -3699,7 +3683,7 @@ GoldCost: 1000
 GemCost: 90
 Group: 0
 Slot: 0
-Upgrade: 35
+Upgrade: 107
 Hidden: 0
 Level: 5
 
@@ -3895,11 +3879,11 @@ GoldCost: 2500
 GemCost: 150
 Group: 0
 Slot: 0
-Upgrade: 150
+Upgrade: 159
 Hidden: 0
 Level: 7
 
-Buildings: (101, 150, 1009)
+Buildings: (101, 159, 1009)
 Resource: (5, 5, 7, 7, 8, 9)
 
 *Ability*:
@@ -3925,7 +3909,7 @@ GoldCost: 2500
 GemCost: 350
 Group: 0
 Slot: 0
-Upgrade: 107
+Upgrade: 150
 Hidden: 0
 Level: 7
 
@@ -4345,7 +4329,7 @@ Param2: 1;
 
 /173
 Name: Cathedral of Light;
-GoldCost: 3000
+GoldCost: 2500
 GemCost: 250
 Group: 12
 Slot: 0
@@ -4375,7 +4359,7 @@ Param2: 0;
 
 /174
 Name: Necropolis;
-GoldCost: 1800
+GoldCost: 2100
 GemCost: 350
 Group: 12
 Slot: 0
@@ -4431,7 +4415,7 @@ Param2: 0;
 
 /176
 Name: Gates of Chaos;
-GoldCost: 2500
+GoldCost: 2700
 GemCost: 350
 Group: 12
 Slot: 0
@@ -4465,7 +4449,7 @@ Param2: 2;
 
 /177
 Name: Secret Guild;
-GoldCost: 3000
+GoldCost: 2800
 GemCost: 300
 Group: 12
 Slot: 0
@@ -4491,8 +4475,8 @@ Param2: 0;
 
 /178
 Name: Psy-Monolith;
-GoldCost: 2000
-GemCost: 250
+GoldCost: 2150
+GemCost: 280
 Group: 12
 Slot: 0
 Upgrade: 136
@@ -5020,7 +5004,7 @@ Param1: 77
 Param2: 0;
 
 /199
-Name: Goblin Workshop;
+Name: Creature Pens;
 GoldCost: 150
 GemCost: 15
 Group: 0
@@ -5029,13 +5013,21 @@ Upgrade: 0
 Hidden: 0
 Level: 0
 
-Buildings: (197, 1)
+Buildings: (219)
 Resource: (2, 4)
 
 Ability:
+Ability: 5
+Param1: 2
+Param2: 0
+
+Ability: 59
+Param1: 96
+Param2: 0
+
 Ability: 48
-Param1: 590
-Param2: 2
+Param1: 1818
+Param2: 3
 
 Ability: 46
 Param1: -1
@@ -5544,35 +5536,35 @@ Upgrade: 197
 Hidden: 0
 Level: 0
 
-Buildings: (197, 198, 39)
+Buildings: (198, 97, 39)
 Resource: (1, 2)
 
 Ability:
-Ability: 59
-Param1: 96
-Param2: 0
-
 Ability: 59
 Param1: 129
 Param2: 0;
 
 /220
 Name: Swampland;
-GoldCost: 1200
-GemCost: 120
+GoldCost: 450
+GemCost: 60
 Group: 0
 Slot: 61
 Upgrade: 198
 Hidden: 0
 Level: 0
 
-Buildings: (221, 149)
+Buildings: (221)
 Resource: (4, 4, 5, 9, 9)
 
 Ability:
-Ability: 59
-Param1: 131
-Param2: 0
+Ability: 1
+Param1: 1
+Param2: 1
+
+Ability: 5
+Param1: 0
+Param2: 2
 
 Ability: 15
 Param1: 84
@@ -5583,7 +5575,7 @@ Param1: 586
 Param2: 1;
 
 /221
-Name: Sorcerer's Chambers;
+Name: Goblin Ward;
 GoldCost: 700
 GemCost: 100
 Group: 0
@@ -5592,7 +5584,7 @@ Upgrade: 219
 Hidden: 0
 Level: 0
 
-Buildings: (219, 104, 103)
+Buildings: (199, 104, 103)
 Resource: (1, 4, 5, 9)
 
 Ability:
@@ -5602,7 +5594,11 @@ Param2: 0
 
 Ability: 11
 Param1: 53
-Param2: 0;
+Param2: 0
+
+Ability: 48
+Param1: 1829
+Param2: 5;
 
 /222
 Name: Orcish Barracks;
@@ -6042,7 +6038,7 @@ GemCost: 300
 Group: 0
 Slot: 0
 Upgrade: 188
-Hidden: 1
+Hidden: 0
 Level: 8
 
 Buildings: (188, 1012)
@@ -6598,10 +6594,6 @@ Param1: 4
 Param2: 1
 
 Ability: 31
-Param1: 665
-Param2: 1
-
-Ability: 31
 Param1: 648
 Param2: 1;
 
@@ -6990,16 +6982,16 @@ Param1: 10
 Param2: 0;
 
 /278
-Name: Driller Guild;
+Name: Ratman Lair;
 GoldCost: 200
 GemCost: 0
-Group: 15
+Group: 0
 Slot: 60
 Upgrade: 0
 Hidden: 0
 Level: 0
 
-Buildings: (29)
+Buildings: (1, 4)
 Resource: (1, 2)
 
 Ability:
@@ -7008,7 +7000,7 @@ Param1: 221
 Param2: 0
 
 Ability: 59
-Param1: 224
+Param1: 226
 Param2: 0
 
 Ability: 47
@@ -7017,149 +7009,95 @@ Param2: 0
 
 Ability: 49
 Param1: 12
+Param2: 1;
+
+/279
+Name: Ratman Barracks;
+GoldCost: 440
+GemCost: 35
+Group: 0
+Slot: 0
+Upgrade: 278
+Hidden: 0
+Level: 0
+
+Buildings: (278, 39)
+Resource: (4, 4)
+
+Ability:
+Ability: 59
+Param1: 223
+Param2: 0
+
+Ability: 5
+Param1: 0
 Param2: 1
 
 Ability: 55
 Param1: 12
 Param2: 1;
 
-/279
-Name: Seekers Clan Temple;
-GoldCost: 140
-GemCost: 30
-Group: 15
-Slot: 61
-Upgrade: 0
-Hidden: 0
-Level: 0
-
-Buildings: (34, 35)
-Resource: (4, 4)
-
-Ability:
-Ability: 59
-Param1: 221
-Param2: 0
-
-Ability: 59
-Param1: 223
-Param2: 0
-
-Ability: 47
-Param1: 12
-Param2: 0
-
-Ability: 5
-Param1: 0
-Param2: 1;
-
 /280
-Name: Skirr Clan Factory;
-GoldCost: 450
-GemCost: 15
-Group: 16
-Slot: 0
-Upgrade: 278
-Hidden: 0
-Level: 0
-
-Buildings: (278, 39, 46)
-Resource: (1, 1, 4)
-
-Ability:
-Ability: 59
-Param1: 227
-Param2: 0
-
-Ability: 31
-Param1: 661
-Param2: 1
-
-Ability: 15
-Param1: 96
-Param2: 0;
-
-/281
-Name: Plague Factory;
+Name: Toxic Tent;
 GoldCost: 400
-GemCost: 35
-Group: 16
+GemCost: 15
+Group: 0
 Slot: 0
 Upgrade: 279
 Hidden: 0
 Level: 0
 
-Buildings: (279, 39, 46)
-Resource: (1, 4, 5)
+Buildings: (279, 37)
+Resource: (1, 1, 4)
 
 Ability:
 Ability: 59
-Param1: 226
+Param1: 225
 Param2: 0
-
-Ability: 31
-Param1: 661
-Param2: 1
 
 Ability: 15
 Param1: 95
 Param2: 0;
 
+/281
+Name: Plague Temple;
+GoldCost: 850
+GemCost: 120
+Group: 0
+Slot: 61
+Upgrade: 0
+Hidden: 0
+Level: 0
+
+Buildings: (279, 104)
+Resource: (1, 4, 5)
+
+Ability:
+Ability: 59
+Param1: 232
+Param2: 0
+
+Ability: 5
+Param1: 0
+Param2: 5;
+
 /282
-Name: Seeker Laboratory;
-GoldCost: 700
-GemCost: 100
+Name: Grand Altar;
+GoldCost: 1300
+GemCost: 120
 Group: 0
 Slot: 62
 Upgrade: 0
 Hidden: 0
 Level: 0
 
-Buildings: (104, 103, 1016)
-Resource: (3, 3, 4, 5)
-
-Ability:
-Ability: 59
-Param1: 230
-Param2: 0
-
-Ability: 47
-Param1: 12
-Param2: 0
-
-Ability: 31
-Param1: 665
-Param2: 1
-
-Ability: 31
-Param1: 667
-Param2: 1
-
-Ability: 31
-Param1: 668
-Param2: 1;
-
-/283
-Name: Grand Ratt Altar;
-GoldCost: 1200
-GemCost: 120
-Group: 0
-Slot: 0
-Upgrade: 282
-Hidden: 0
-Level: 0
-
-Buildings: (149, 282)
+Buildings: (149, 281)
 Resource: (1, 7, 4, 5, 9)
 
 Ability:
 Ability: 59
 Param1: 233
 Param2: 0
-
-Ability: 5
-Param1: 0
-Param2: 5
 
 Ability: 12
 Param1: -1
@@ -7169,7 +7107,7 @@ Ability: 15
 Param1: 98
 Param2: 0;
 
-/284
+/283
 Name: Warlock Tent;
 GoldCost: 300
 GemCost: 50
@@ -7191,17 +7129,17 @@ Ability: 60
 Param1: 0
 Param2: 0;
 
-/285
+/284
 Name: Wizard Tent;
 GoldCost: 650
 GemCost: 120
 Group: 0
 Slot: 0
-Upgrade: 284
+Upgrade: 283
 Hidden: 0
 Level: 0
 
-Buildings: (284, 103)
+Buildings: (283, 103)
 Resource: (5, 5, 9)
 
 Ability:
@@ -7211,4 +7149,108 @@ Param2: 0
 
 Ability: 60
 Param1: 0
+Param2: 0;
+
+/285
+Name: Nature's Cloister;
+GoldCost: 100
+GemCost: 20
+Group: 2
+Slot: 29
+Upgrade: 0
+Hidden: 0
+Level: -1
+
+Buildings: (3)
+Resource: (4, 2)
+
+Ability:
+Ability: 60
+Param1: 0
+Param2: 0
+
+Ability: 2
+Param1: 0
+Param2: 0
+
+Ability: 27
+Param1: 40
+Param2: 0;
+
+/286
+Name: Leafy Tower;
+GoldCost: 280
+GemCost: 35
+Group: 4
+Slot: 0
+Upgrade: 285
+Hidden: 0
+Level: 2
+
+Buildings: (43, 285, 40)
+Resource: (2, 4, 4, 5)
+
+Ability:
+Ability: 60
+Param1: 0
+Param2: 0
+
+Ability: 2
+Param1: 0
+Param2: 0
+
+Ability: 27
+Param1: 41
+Param2: 0;
+
+/287
+Name: Blooming Lane;
+GoldCost: 1100
+GemCost: 110
+Group: 8
+Slot: 0
+Upgrade: 286
+Hidden: 0
+Level: 5
+
+Buildings: (107, 286)
+Resource: (4, 5, 5, 9)
+
+*Ability*:
+Ability: 60
+Param1: 0
+Param2: 0
+
+Ability: 2
+Param1: 0
+Param2: 0
+
+Ability: 27
+Param1: 13
+Param2: 0;
+
+/288
+Name: Tree of Miracles;
+GoldCost: 2400
+GemCost: 220
+Group: 12
+Slot: 0
+Upgrade: 287
+Hidden: 0
+Level: 8
+
+Buildings: (159, 287)
+Resource: (5, 5, 6, 8, 9, 9)
+
+*Ability*:
+Ability: 60
+Param1: 0
+Param2: 0
+
+Ability: 2
+Param1: 0
+Param2: 0
+
+Ability: 27
+Param1: 42
 Param2: 0;

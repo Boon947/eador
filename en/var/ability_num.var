@@ -1,4 +1,4 @@
-Quantity: 510
+Quantity: 526
 
 /0
 Name: Empty;
@@ -332,7 +332,7 @@ Percent: 0
 /47
 Name: Web;
 Number: 47
-Numeric: 0
+Numeric: 1
 Effect: 0
 Percent: 0
 
@@ -345,7 +345,7 @@ Percent: 0
 
 /49
 Name: Necrophage;
-Number: 49
+Number: 226
 Numeric: 1
 Effect: 1
 Percent: 0
@@ -519,7 +519,7 @@ Effect: 0
 Percent: 0
 
 /74
-Name: Cause Disease;
+Name: Cause Atrophy;
 Number: 178
 Numeric: 0
 Effect: 0
@@ -729,7 +729,7 @@ Effect: 0
 Percent: 0
 
 /104
-Name: Curse Spell;
+Name: Hex Spell;
 Number: 2010
 Numeric: 1
 Effect: 0
@@ -743,7 +743,7 @@ Effect: 0
 Percent: 0
 
 /106
-Name: Fireball Spell;
+Name: Blast Spell;
 Number: 2023
 Numeric: 1
 Effect: 0
@@ -876,7 +876,7 @@ Effect: 0
 Percent: 0
 
 /125
-Name: Slow Spell;
+Name: Head Wind Spell;
 Number: 2007
 Numeric: 1
 Effect: 0
@@ -1373,50 +1373,50 @@ Effect: 0
 Percent: 0
 
 /196
-Name: Frenzy Spell;
-Number: 2133
-Numeric: 1
-Effect: 0
-Percent: 0
-
-/197
-Name: Bloodlust Spell;
-Number: 2134
-Numeric: 1
-Effect: 0
-Percent: 0
-
-/198
-Name: Snare Spell;
-Number: 2135
-Numeric: 1
-Effect: 0
-Percent: 0
-
-/199
-Name: Trap Spell;
-Number: 2136
-Numeric: 1
-Effect: 0
-Percent: 0
-
-/200
-Name: Swamp Poison Spell;
+Name: Hornet Swarm Spell;
 Number: 2137
 Numeric: 1
 Effect: 0
 Percent: 0
 
+/197
+Name: Poison Claw Spell;
+Number: 2133
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/198
+Name: Set Trap Spell;
+Number: 2370
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/199
+Name: Set Snare Spell;
+Number: 2371
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/200
+Name: Set Hive Spell;
+Number: 2372
+Numeric: 1
+Effect: 0
+Percent: 0
+
 /201
-Name: Regeneration Spell;
-Number: 2138
+Name: Swamp Blood Spell;
+Number: 2134
 Numeric: 1
 Effect: 0
 Percent: 0
 
 /202
-Name: Poison Weapon Spell;
-Number: 2139
+Name: Voracity Spell;
+Number: 2138
 Numeric: 1
 Effect: 0
 Percent: 0
@@ -1961,7 +1961,7 @@ Effect: 0
 Percent: 0
 
 /280
-Name: Magic Crystal Spell;
+Name: Dark Crystal Spell;
 Number: 2197
 Numeric: 1
 Effect: 0
@@ -2003,7 +2003,7 @@ Effect: 0
 Percent: 0
 
 /286
-Name: Shadow Thief Spell;
+Name: Astral Thief Spell;
 Number: 2097
 Numeric: 1
 Effect: 0
@@ -2354,21 +2354,21 @@ Percent: 0
 
 /336
 Name: Troll Brand;
-Number: 226
+Number: 346
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /337
 Name: Wolf Brand;
-Number: 227
+Number: 347
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /338
 Name: Cerberus Brand;
-Number: 228
+Number: 348
 Numeric: 0
 Effect: 0
 Percent: 0
@@ -2431,48 +2431,48 @@ Percent: 0
 
 /347
 Name: Spawn Brand;
-Number: 229
+Number: 349
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /348
 Name: Avenger Brand;
-Number: 230
+Number: 350
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /349
 Name: Succubus Brand;
-Number: 231
+Number: 351
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /350
 Name: Human Brand;
-Number: 225
+Number: 352
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /351
 Name: Ogre Brand;
-Number: 233
+Number: 353
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /352
 Name: Alkaryl Brand;
-Number: 234
+Number: 354
 Numeric: 0
 Effect: 0
 Percent: 0
 
 /353
-Name: Cause Distress;
+Name: Cause Fever;
 Number: 177
 Numeric: 0
 Effect: 0
@@ -2738,35 +2738,35 @@ Effect: 0
 Percent: 0
 
 /391
-Name: Fierce Roar Spell;
-Number: 2289
-Numeric: 1
+Name: Cause Leprosy;
+Number: 176
+Numeric: 0
 Effect: 0
 Percent: 0
 
 /392
-Name: Fever Spell;
-Number: 2290
-Numeric: 1
+Name: Magic Spark;
+Number: 355
+Numeric: 0
 Effect: 0
 Percent: 0
 
 /393
-Name: Exhaustion Spell;
+Name: Fever Carrier;
 Number: 2291
 Numeric: 1
 Effect: 0
 Percent: 0
 
 /394
-Name: Black Plague Spell;
+Name: Atrophy Carrier;
 Number: 2292
 Numeric: 1
 Effect: 0
 Percent: 0
 
 /395
-Name: Pestilence Spell;
+Name: Leprosy Carrier;
 Number: 2293
 Numeric: 1
 Effect: 0
@@ -2780,7 +2780,7 @@ Effect: 0
 Percent: 0
 
 /397
-Name: Summon Ratman Spell;
+Name: Fever Hotbed;
 Number: 2295
 Numeric: 1
 Effect: 0
@@ -2794,21 +2794,21 @@ Effect: 0
 Percent: 0
 
 /399
-Name: Summon Shadow Claw Spell;
+Name: Atrophy Hotbed;
 Number: 2296
 Numeric: 1
 Effect: 0
 Percent: 0
 
 /400
-Name: Summon Rat King Spell;
+Name: Leprosy Hotbed;
 Number: 2297
 Numeric: 1
 Effect: 0
 Percent: 0
 
 /401
-Name: Summon Rat Reaper Spell;
+Name: Curse Spell;
 Number: 2298
 Numeric: 1
 Effect: 0
@@ -2857,7 +2857,7 @@ Effect: 0
 Percent: 0
 
 /408
-Name: Mass Disease Spell;
+Name: Pestilence Spell;
 Number: 2062
 Numeric: 1
 Effect: 0
@@ -3576,3 +3576,115 @@ Number: 232
 Numeric: 1
 Effect: 1
 Percent: 1
+
+/511
+Name: Panic;
+Number: 216
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/512
+Name: Trap;
+Number: 340
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/513
+Name: Snare;
+Number: 341
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/514
+Name: Hornet's Nest;
+Number: 342
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/515
+Name: Itch;
+Number: 249
+Numeric: 0
+Effect: -1
+Percent: 0
+
+/516
+Name: Prod Spell;
+Number: 2139
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/517
+Name: Subdue Beast Spell;
+Number: 2373
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/518
+Name: Hit and Run;
+Number: 240
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/519
+Name: Backstab;
+Number: 228
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/520
+Name: Rat Swarm Spell;
+Number: 2378
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/521
+Name: Vexillary;
+Number: 343
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/522
+Name: Cause Fever;
+Number: 344
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/523
+Name: Cause Atrophy;
+Number: 345
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/524
+Name: Restore Ammo;
+Number: 227
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/525
+Name: Heavy Armor;
+Number: 221
+Numeric: 1
+Effect: -1
+Percent: 0
+
+/526
+Name: Dodge;
+Number: 222
+Numeric: 1
+Effect: 1
+Percent: 0

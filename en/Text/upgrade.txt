@@ -218,7 +218,7 @@
 #The unit becomes immune to poison.#
 
 /73 Hex
-#When a unit is hit, a curse is unleashed, reducing strength, armor and resistance by 1 for several turns. Resistance reduces the duration of the curse.#
+#An enemy damaged by this unit is hexed; Armor and Resistance are decreased by 1 for several turns, and wounds cannot be healed. The curse remains active for several turns. An enemy's resistance reduces its duration.#
 
 /74 Steal Ammo 2
 #An ability allowing the unit to reduce the enemy's ammo in a melee attack by 2.#
@@ -230,7 +230,7 @@
 #This special type of ranged attack allows the unit to turn the enemy into a statue for 3 turns. The petrified enemy cannot do anything, but its defense is increased. An enemy's resistance can reduce the duration of the petrification.#
 
 /77 Web
-#This special ranged attack allows the unit to entangle an enemy in a web for 2 turns. An entangled enemy cannot do anything. The higher the enemy's attack is, the quicker it will free itself.#
+#This special ranged attack allows the unit to entangle an enemy in a web for 3 turns. An entangled enemy cannot do anything. The higher the enemy's Attack, Counterattack, or magical Ranged Attack, the faster he will get rid of the net.#
 
 /78 Poison Attack
 #The unit's melee attack will poison the enemy. The higher this ability is, the more damage the poison inflicts.#
@@ -263,7 +263,7 @@
 #After the battle, the unit plunders some trophies, reducing the loot income by 15~.#
 
 /88 Plunderer
-#The unit spends his free time plundering, reducing the income from a province he is stationed in by 10~.#
+#The unit spends his free time plundering, reducing the income of the province he is stationed in by 10~.#
 
 /89 Crushing Blow
 #A special skill allowing the unit to perform a second melee attack per turn at the expense of some stamina. This attack inflicts half as much damage.#
@@ -316,7 +316,7 @@
 /105 Stomp
 #When attacking an enemy in melee, the unit can trample it down if enemy has 15 or fewer hit points left after the attack. Having made the kill, the unit moves to the tile previously occupied by its opponent.#
 
-/106 Cause Disease
+/106 Cause Atrophy
 #Whenever the unit inflicts melee damage to an enemy, it infects the target with a disease.#
 
 /107 Mass Attack
@@ -343,20 +343,20 @@
 /114 Heavy Ammo
 #The unit receives special missiles able to damage the target's armor, reducing its ranged defense by 1.#
 
-/115 Curse Spell
-#The unit is taught to cast Curse, which reduces the target's attack and defense.#
+/115 Hex Spell
+#The unit learns the Hex spell, which reduces the target's Defense and Resistance.#
 
 /116 Vulnerability Spell
 #The unit is taught to cast Vulnerability, reducing the target's defense and resistance.#
 
-/117 Fireball Spell
-#The unit is taught to cast Fireball, striking several enemies at once with magic fire.#
+/117 Blast Spell
+#The unit learns the Blast spell, which inflicts magic damage to several enemies.#
 
 /118 Bless Spell
-#The unit is taught to cast Bless, increasing the target's defense and attack, and restoring 2 stamina points.#
+#The unit learns the Bless spell, which improves all types of Attacks and Defenses, and Resistance.#
 
 /119 Exorcism Spell
-#The unit is taught to cast Exorcism, inflicting damage on demons and the undead.#
+#The unit learns the Exorcism spell, which damages Demons and Undead, and briefly immobilizes them.#
 
 /120 Air Shield Spell
 #The unit is taught to cast Air Shield, increasing the target's ranged defense and resistance.#
@@ -586,10 +586,10 @@ Teach a unit to cast the "Quen" sign that increases armor and resistance.#
 #The unit is taught to cast "Magic Shield" spell, increasing the defense of an ally unit.#
 
 /195 Summon Wasp Swarm Spell
-#The unit is taught to cast "Wasp Swarm" spell, summoning a swarm of stinging insects on target unit which can't act and receives minor damage. Has no effect on the Undead and Mechanical units.#
+#The unit learns the Summon Wasp Swarm spell, summoning a swarm of stinging insects, which disable Ranged Attack for a single enemy. Has no effect on the Undead and Mechanical units.#
 
 /196 Summon Wasp Cloud Spell
-#The unit is taught to cast "Wasp Cloud" spell, summoning a cloud of stinging insects on target area. Units struck by spell can't act and receive minor damage. Has no effect on the Undead and Mechanical units.#
+#The unit learns the Summon Wasp Cloud spell, summoning several swarms of stinging insects, which disable Ranged Attack for multiple enemies. Has no effect on the Undead and Mechanical units.#
 
 /197 Life Breath Spell
 #The unit is taught to cast "Life Breath" spell, restoring health to friendly units and cure the poison.#
@@ -619,13 +619,13 @@ Teach a unit to cast the "Quen" sign that increases armor and resistance.#
 #The unit can cast the "Vampiric Touch" spell, which allows a friendly unit to drain life with melee damage, without incurring counterattacks.#
 
 /206 Earth Shield
-#The unit can cast the "Earth Shield" spell, which increases the defenses of all nearby friendly units by 2, and gives them First Aid 4.#
+#The unit learns the Earth Shield spell, which increases the defenses of all nearby friendly units by 2, and confers Regeneration 2.#
 
 /207 Fire Rage
 #The unit can cast the "Fire Rage" spell, which deals 6 HP damage to all units in a 1-tile radius, and sets the target on fire.#
 
 /208 Rage
-#The unit can cast the spell "Rage", which gives a friendly unit Fearless, Intimidation 1, Bloodlust 2, and increases Resistance by 2.#
+#The unit learns the Rage spell, which confers friend or foe Fearless, Intimidation 1, Bloodlust 2, increases Resistance by 1 and Speed by 2. The unit's Ranged Attack is disabled.#
 
 /209 Soothe Spirits
 #The unit can cast the "Soothe Spirits" spell, which restores 6 HP to friendly elementals.#
@@ -721,7 +721,7 @@ Teach a unit to cast the "Quen" sign that increases armor and resistance.#
 #The unit is taught to cast "Armor Piercing Shot" spell, adding armor-piercing effect to friendly unit shots. #
 
 /240 Thick Fog Spell
-#The unit is taught to cast "Thick Gog" spell, reducing ranged attack of all non-magic enemy shooters on the battlefield by 5. Magic Resistance and Magic Immunity offer no protection from this spell.#
+#This unit learns the Thick Fog spell, which disables Ranged Attack for all ranged units on the battlefield. Magic Resistance and Magic Immunity offer no protection from this spell.#
 
 /241 Double Shot Spell
 #The unit is taught to cast the "Double Shot" spell, giving a friendly unit the ability Double Shot at the cost of some stamina.#
@@ -744,26 +744,26 @@ Teach a unit to cast the "Quen" sign that increases armor and resistance.#
 /247 Storm Spell
 #The unit is taught to cast "Storm" spell, inflicting 16 magic damage to multiple enemies.#
 
-/248 Frenzy Spell
-#The unit is taught to cast "Frenzy" spell, increasing attack and counterattack of target friendly unit by 3.#
+/248 Hornet Swarm Spell
+#This unit learns the Hornet Swarm spell, which poisons an enemy and causes them to itch.#
 
-/249 Bloodlust Spell
-#The unit is taught to cast the "Bloodlust" spell, increasing attack and counterattack by 3, speed by 1 and gives the ability to drain health from the enemy with the attack.#
+/249 Poison Claw Spell
+#This unit learns the Poison Claw spell, which makes an allied animal's melee attack poisonous.#
 
-/250 Snare Spell
-#The unit is taught to cast the "Snare" spell, damaging and reducing the speed of a non-flying enemy by 1, regardless of the immunity and resistance to magic spells.#
+/250 Set Trap Spell
+#This unit learns the Set Trap spell, which places a trap in an adjacent tile.#
 
-/251 Trap Spell
-#The unit is taught to cast the "Trap" spell, badly damaging and reducing the speed of a non-flying enemy by 1, regardless of the immunity and resistance to magic spells.#
+/251 Set Snare Spell
+#This unit learns the Set Snare spell, which places a snare in an adjacent tile.#
 
-/252 Swamp Poison Spell
-#The unit is taught to cast "Swamp Poison" spell, reducing the speed of target unit by 1 and draining stamina each turn. Ignores magic resistance.#
+/252 Set Hive Spell
+#This unit learns the Set Hive spell, which places a hornet's nest in an adjacent tile.#
 
-/253 Regeneration Spell
-#The unit is taught to cast the "Regeneration" spell, restoring health in a few turns, slightly increasing target's resistance and granting immunity to poison.#
+/253 Swamp Blood Spell
+#This unit learns the Swamp Blood spell, which grants an ally poison immunity.#
 
-/254 Poison Weapon Spell
-#The unit is taught to cast the "Poison Weapon" spell, making melee attacks of the target unit poisonous for several turns.#
+/254 Voracity Spell
+#This unit learns the Voracity spell, which grants an animal ally the Necrophage ability.#
 
 /255 Devour Spell
 #The unit is taught to cast "Devour" spell, consuming health from friendly units and healing the caster.#
@@ -883,7 +883,7 @@ Teach a unit to cast the "Quen" sign that increases armor and resistance.#
 #Increase the unit's shooting strength and accuracy.#
 
 /294 Summon Wyvern Spell
-#The unit is taught to cast "Summon Wyvern" spell, summoning the wyvern on summoner's adjacent tile. Requires a fresh corpse.#
+#The unit is taught to cast "Summon Wyvern" spell, summoning the wyvern on summoner's adjacent tile.#
 
 /295 Become Bodyguard
 #When soldier received better equipment he is able to join the ranks of Bodyguards.#
@@ -892,7 +892,7 @@ Teach a unit to cast the "Quen" sign that increases armor and resistance.#
 #The unit is taught to cast the "Fire Storm" spell, inflicting damage to all units within 2 tiles and igniting them.#
 
 /297 Chilling Lightning Spell
-#The unit is taught to cast "Chilling Lightning" spell, inflicting heavy physical damage to a single target.#
+#This unit learns the Chilling Lightning Spell, which deals magic damage to a single target.#
 
 /298 Order Spell
 #The unit is taught to cast "Order" spell, returning the control of target unit to owner.#
@@ -1112,8 +1112,8 @@ Does not affect the undead, mechanical units and heroes.#
 /369 Summon Beholder Spell
 #The unit is taught to cast the "Summon Beholder" spell, summoning a Beholder to a tile adjacent to the summoner.#
 
-/370 Magic Crystal Spell
-#The unit is taught to cast the "Magic Crystal" spell, creating a dark crystal on a tile adjacent to the caster.#
+/370 Dark Crystal Spell
+#This unit learns the Dark Crystal spell, which creates a Dark Crystal in an adjacent tile.#
 
 /371 Drow Rage Spell
 #The unit is taught to cast the "Drow Rage" spell, increasing attack and ranged attack of a friendly unit by 2, speed by 1 and grants bloodlust.#
@@ -1136,8 +1136,8 @@ Does not affect the undead, mechanical units and heroes.#
 /377 Warp Spell
 #The unit is taught to cast the "Warp" spell, moving the target unit to a free tile.#
 
-/378 Shadow Thief Spell
-#The unit is taught to cast the "Shadow Thief" spell, destroying 8 ammo of the target unit and inflicting an equal amount of damage to it. Part of the destroyed ammo is given to the caster.#
+/378 Astral Thief Spell
+#This unit learns the Astral Thief spell, which steals 3 ammo from the target, and transfers them to the caster.#
 
 /379 Dark Depletion Spell
 #The unit is taught to cast the "Dark Decimation" spell, destroying 8 ammo to each target within 2 tiles and causing an equal amount of damage to it.#
@@ -1221,7 +1221,7 @@ Does not affect the undead, mechanical units and heroes.#
 #The unit is taught to cast the "Demon Blood" spell, inflicting damage to an enemy or a friendly demon and healing the injuries of the caster.#
 
 /406 Mass Bless Spell
-#The unit is taught to cast the "Mass Bless" spell, increasing all abilities of all friendly units and restoring 2 stamina points.#
+#This unit learns the Mass Bless spell, which increases the attributes of all its allies, except Undead and Demons.#
 
 /407 Healing Sleep
 #The unit is taught to cast "Healing Sleep", putting to sleep all units within 1 tile and restoring health and stamina during sleep.#
@@ -1295,7 +1295,7 @@ Does not affect the undead, mechanical units and heroes.#
 #The unit is taught to cast the "Dark Redemption" spell, which increases the magical abilities of all friendly creatures, and gives a small boost to morale.#
 
 /430 Siege Mode
-#The unit can switch to siege mode, increasing its ranged attack by 10. The range cannot be further than 3.#
+#The unit can switch to siege mode, increasing its ranged attack by 10. In that case, shooting Range cannot exceed 3.#
 
 /431 Change Ammo - Magic Shot
 #The unit changes to its second missile, dealing magical damage.#
@@ -1338,17 +1338,17 @@ Does not affect the undead, mechanical units and heroes.#
 The Gnoll's sacrifice opens a portal for a Mocker.
 Unit Stamina -4.#
 
-/444 Turn into Fiend Lord
-#When the unit dies, a Fiend Lord rises.#
+/444 Demon Transformation
+#When the unit dies, a Demon rises.#
 
 /445 Demon Inscription
 #Spill the blood of a Tyrant to unleash stronger Chaos.
 The Gnoll's sacrifice opens a portal for a Demon.
 Unit HP -5.#
 
-/446 Fiend Inscription
+/446 Fiend Lord Inscription
 #Spill the blood of a Tormenter to unleash stronger Chaos.
-The Gnoll's sacrifice opens a portal for a Fiend.#
+The Gnoll's sacrifice opens a portal for a Fiend Lord.#
 
 /447 Avenger Inscription
 #Spill the blood of a Devourer to unleash stronger Chaos.
@@ -1412,7 +1412,7 @@ Crushing Blow (4).
 Unit Strength -1.#
 
 /458 Mass Slow Spell
-#The unit is taught to cast "Mass Slow" spell, slowing all enemies and causing them to gradually lose stamina.#
+#This unit learns the Mass Slow spell, slowing all enemies.#
 
 /459 Alkaryl Brand
 #Stigmatizing the Gnoll with another creature's blood.
@@ -1511,7 +1511,7 @@ Unit HP -8.#
 ##
 
 /490 Concoction Spell
-#The unit is taught to cast the "Concoction" spell, which increases a friendly unit's attack, defense and ranged defense for a short time , but also causes it to lose health.#
+#This unit learns the Concoction spell, temporarily increasing a friendly creature's Attack, Defense and Ranged Defense, and granting the Necrophage ability, but also causing health loss.#
 
 /491 Gas Bomb
 #The unit is taught to use special bombs that poison all living creatures within 1 tile of the target.#
@@ -1519,23 +1519,23 @@ Unit HP -8.#
 /492 Fierce Roar
 #The unit is taught to use Fierce Roar, frightening its enemies.#
 
-/493 Fever Spell
-#The unit is taught to cast the "Fever" spell, infecting an enemy creature with a magical disease, causing substantial damage while inflicted.#
+/493 Evasion Strategy
+#The unit learns to use predominantly defensive tactics.#
 
-/494 Exhaustion Spell
-#The unit is taught to cast the "Exhaustion" spell, poisoning an enemy creature, causing substantial damage while active.#
+/494 Fever Carrier Spell
+#This unit learns the Fever Carrier spell, which grants an ally Interception and the ability to transmit Fever in melee, at the cost of some health each turn.#
 
-/495 Black Plague Spell
-#The unit is taught to cast the "Black Plague" spell, poisoning all living creatures within 1 tile, causing substantial damage while active.#
+/495 Atrophy Carrier Spell
+#This unit learns the Atrophy Carrier spell, which grants an ally First Strike and the ability to transmit Atrophy in melee, at the cost of some stamina each turn.#
 
-/496 Pestilence Spell
-#The unit is taught to cast the "Pestilence" spell, poisoning all living creatures within 2 tiles, causing enormous damage while active.#
+/496 Leprosy Carrier Spell
+#This unit learns the Leprosy Carrier spell, which grants an ally Agility and the ability to transmit Leprosy in melee, at the cost of some morale each turn.#
 
 /497 Summon Rat Spell
 #The unit is taught to cast the "Summon Rat" spell, summoning a Giant Rat to a tile adjacent to the summoner.#
 
-/498 Summon Ratman Spell
-#The unit is taught to cast the "Summon Ratman" spell, summoning a Ratman to a tile adjacent to the summoner.#
+/498 Fever Hotbed Spell
+#This unit learns the Fever Hotbed spell, which grants every ally within 1 tile Interception and the ability to transmit Fever in melee, at the cost of some health each turn. When the unit dies, all adjacent enemy units are infected.#
 
 /499 Summon Rat Spell
 #The unit is taught to cast the "Summon Rat" spell, summoning a Giant Rat to a tile adjacent to the summoner.#
@@ -1572,26 +1572,26 @@ Bloodsucker +10.#
 /507 Heavy Ammo
 #The unit's ammo is capable of lowering the ranged defense by 1 turn longer.#
 
-/508 Rat Reaper
-##
+/508 Backstab +1
+#The unit learns to deal 1 additional damage when backstabbing.#
 
-/509 Shredder
-##
+/509 Backstab +2
+#The unit learns to deal 2 additional damage when backstabbing.#
 
 /510 Battle Cry Spell
 #The unit is taught to cast the "Battle Cry" spell, restoring a friendly unit's morale and stamina.#
 
-/511 Summon Shadow Claw Spell
-#The unit is taught to cast the "Summon Shadow Claw" spell, summoning a Shadow Claw to a tile adjacent to the summoner.#
+/511 Atrophy Hotbed Spell
+#This unit learns the Atrophy Hotbed spell, which grants every ally within 1 tile First Strike and the ability to transmit Atrophy in melee, at the cost of some stamina each turn. When the unit dies, all adjacent enemy units are infected.#
 
-/512 Summon Rat King Spell
-#The unit is taught to cast the "Summon Rat King" spell, summoning a Rat King to a tile adjacent to the summoner.#
+/512 Leprosy Hotbed Spell
+#This unit learns the Leprosy Hotbed spell, which grants every ally within 1 tile Agility and the ability to transmit Leprosy in melee, at the cost of some morale each turn. When the unit dies, all adjacent enemy units are infected.#
 
-/513 Summon Rat Reaper Spell
-#The unit is taught to cast the "Summon Rat Reaper" spell, summoning a Rat Reaper to a tile adjacent to the summoner.#
+/513 Backstab +4
+#The unit learns to deal 4 additional damage when backstabbing.#
 
-/514 Grand Ratt 1
-##
+/514 Curse Spell
+#This unit learns the Curse spell, reducing the target's Attacks.#
 
 /515 Frenzy
 #The unit may spend two 2 extra stamina points to recover 10 HP when dealing melee damage.#
@@ -1644,8 +1644,8 @@ Bloodsucker +10.#
 /531 Paragon of Light
 ##
 
-/532 Mass Disease Spell
-#The unit is taught to cast the "Mass Disease" spell, which infects all living enemy creatures with a disease.#
+/532 Pestilence Spell
+#This unit learns the Pestilence spell, infecting all enemy creatures with a disease.#
 
 /533 Self-control +1
 #Every turn the unit will restore 1 more ammo.#
@@ -1656,10 +1656,10 @@ Bloodsucker +10.#
 /535 Necrophage
 #A special ability allowing the unit to devour corpses, thereby restoring 5 hit points.#
 
-/536 Cause Distress
+/536 Cause Fever
 #Whenever the unit inflicts melee damage to an enemy, it infects the target with a mild disease.#
 
-/537 Master of Decay
+/537 Plague Master
 ##
 
 /538 Tolerance
@@ -1798,7 +1798,7 @@ Bloodsucker +10.#
 #The unit is taught to cast the "Scorn" spell, reducing the counterattack, defense and ranged defense of friendly or enemy creatures, but increasing their attack.#
 
 /583 Hero's Ballad Spell
-#The unit is taught to cast the "Hero's Ballad" spell, restoring stamina and morale to all friendly units.#
+#The unit learns the "Hero's Ballad" spell, which restores stamina and morale to all friendly units.#
 
 /584 Rune Armor Spell
 #The unit is taught to cast the "Rune Armor" spell, increasing the armor of friendly units within 1 tile around the caster.#
@@ -1870,7 +1870,7 @@ Bloodsucker +10.#
 #Increases ranged attack by 1 and inflicts damage from enchanted arrows.#
 
 /607 Hunter's Net
-#Provides the unit with a hunter's net, allowing a shot to entangle the enemy for 2 turns. An entangled enemy cannot do anything. The higher the enemy's attack is, the quicker it will free itself.#
+#Provides the unit with a hunter's net, allowing a shot to entangle the enemy for 2 turns. An entangled enemy cannot do anything. The stronger the enemy, the faster he will get rid of the net.#
 
 /608 Arisen Luminary
 ##
@@ -1951,7 +1951,7 @@ Bloodsucker +10.#
 #Increases the unit's defense by 1.#
 
 /634 Parry
-#When the unit is attacked in melee for the first time in a given turn, his defense is increased by 8.#
+#When the unit is attacked in melee for the first time in a given turn, its defense is increased by 6.#
 
 /635 Maleficar Tome
 ##
@@ -2197,7 +2197,7 @@ Bloodsucker +10.#
 #The unit can switch to siege mode, increasing its ranged attack by 3 and range by 1.#
 
 /716 Siege Mode
-#The unit can switch to siege mode, increasing its ranged attack by 6 and range by 2. In this attack the unit will inflict permanent damage to the area.#
+#The unit can switch to siege mode, increasing its ranged attack by 8 and range by 2. In this attack the unit will inflict permanent damage to the area.#
 
 /717 Skillful Healer
 #The unit is taught to reduce the duration of poisoning and bleeding by 1 turn.#
@@ -2224,7 +2224,7 @@ Bloodsucker +10.#
 #Unit has been struck by Chain Lightning.#
 
 /725 Enchanted Fang Spell
-#The unit can cast the "Enchanted Fang" spell, which increases an allied animal's Attack attributes by 1, with magic damage.#
+#The unit learns the Enchanted Fang spell, which increases an allied animal's Attack attributes, and deak magic damage.#
 
 /726 Shield Bash
 #The unit can strike the enemy with his shield. The unit does not deal damage, but the blow reduces the target's Stamina by 2. The enemy does not counterattack.#
@@ -2305,7 +2305,7 @@ Bloodsucker +10.#
 #When the unit falls into a Battle Frenzy, Attack increases by 2, and Counterattack increase by 4.#
 
 /752 Armor of Faith
-#Reduces damage from Undead and Demons by 25~.#
+#Reduces damage from Undead and Demons by 50~.#
 
 /753 Shield Wall
 #Unit may skip its turn and reduce its Attack in order to increase Defenses by 5 until the next turn. When activated the unit gets Vigilance.#
@@ -2329,13 +2329,76 @@ Bloodsucker +10.#
 #Outside battle, unit heals 20~ faster.#
 
 /760 Lifeblood 1
-#Nearby allies receive First Aid 2, as long as they remain close.#
+#Nearby allies receive Regeneration 1, as long as they remain close.#
 
 /761 Lifeblood 2
-#Nearby allies receive First Aid 3 and Surge of Strength 1, as long as they remain close.#
+#Nearby allies receive Regeneration 1 and Surge of Strength 1, as long as they remain close.#
 
 /762 Lifeblood 3
-#Nearby allies receive First Aid 4 and Surge of Strength 2, as long as they remain close.#
+#Nearby allies receive Regeneration 2 and Surge of Strength 1, as long as they remain close.#
 
 /763 Lifeblood 4
-#Nearby allies receive First Aid 5 and Surge of Strength 3, as long as they remain close.#
+#Nearby allies receive Regeneration 3 and Surge of Strength 2, as long as they remain close.#
+
+/764 Web +1
+#Increase the duration of Web entanglement by 1.#
+
+/765 Panic
+#Increase the duration of Web entanglement by 1.#
+
+/766 Trap
+##
+
+/767 Snare
+##
+
+/768 Hornet's Nest
+##
+
+/769 Summoning Power
+#Increase the level of summoned creatures by 1.#
+
+/770 Hit and Run
+#The unit learns to return to the tile it started from before the attack.#
+
+/771 Prod Spell
+#This unit learns the Prod spell, which grants an allied animal another turn.#
+
+/772 Subdue Beast Spell
+#This unit learns the Subdue Beast spell, to take control of an enemy animal temporarily.#
+
+/773 Summoning Range
+#Increase the range of summoned creatures by 1.#
+
+/774 Cause Fever
+#When dealing ranged damage, this unit infects the enemy with a mild disease.#
+
+/775 Cause Atrophy
+#Switch to ammo that infect enemies with Atrophy.#
+
+/776 Cause Leprosy
+#Whenever the unit inflicts melee damage to an enemy, it infects the target with a disease.#
+
+/777 Necrophage
+#A special ability allowing the unit to devour corpses, thereby restoring 5 hit points. Additionally, the unit recovers up to 3 ammo.#
+
+/778 Recover Ammo
+#A special ability allowing the unit to devour corpses to recover up to 3 ammo.#
+
+/779 Recover Ammo
+#When eating a corpse, the unit recovers an additional ammo.#
+
+/780 Sparks on Contact
+##
+
+/781 Dodge +2
+#The unit learns to improve his Ranged Defense for each shot fired at him.#
+
+/782 Dodge +1
+#Improves unit's ability to defend against multiple shots.#
+
+/783 Heavy Armor 1
+#The unit's armor is so heavy that just moving costs 1 stamina.#
+
+/784 Heavy Armor 2
+#The unit's armor is so heavy that just moving costs 2 stamina.#

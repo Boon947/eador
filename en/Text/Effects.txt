@@ -8,7 +8,7 @@
 #The unit has been poisoned. It loses %d hit points per turn.#
 
 3. Hex
-#The unit has been hexed and all its attack, defense and resistance are decreased by 1.#
+#The unit has been hexed and all its attack, defense and resistance are decreased by 1. The unit's wounds cannot be healed.#
 
 4. Damaged Armor
 #The unit's armor has been damaged. His defense is decreased by 1.#
@@ -17,7 +17,7 @@
 #The unit has been turned to stone. He is unable to do anything, but his armor value is increased.#
 
 6. Web
-#The unit is entangled in a web and can't do anything.#
+#The unit is entangled in a web and can't do anything. Its armor is increased by %d.#
 
 7. Injured
 #The unit's speed is decreased by 1 due to a heavy injury.#
@@ -40,8 +40,8 @@
 13. Magic Weapon
 #The unit's weapon is enchanted. This spell increases all types of attack by 2.#
 
-14. Slow
-#A spell decreased the unit's speed by 2. Unit loses one Stamina each turn.#
+14. Head Wind
+#A strong head wind impedes shooting and movement. The unit's Range and Ranged Attack are reduced by 1, Speed by 2.#
 
 15. Haste
 #A spell increased the unit's speed by 2.  The enchanted unit recovers 1 stamina point each turn.#
@@ -49,11 +49,11 @@
 16. Air Shield
 #A spell increased the unit's ranged defense by 4 and resistance by 1.#
 
-17. Curse
-#This spell decreases all types of attack by 2. The spell decreases all types of defense and resistance by 1.#
+17. Hex
+#A spell decreased all types of Defense and Resistance at least by 1. The unit's wounds cannot be healed.#
 
 18. Bless
-#A spell increased all types of the unit's attack, defense and resistance by 1.#
+#A spell increased all types of Attack, Defense and Resistance at least by 1.#
 
 19. Astral Energy
 #Increases the unit's resistance by 3.#
@@ -74,10 +74,10 @@
 #The unit's ranged attack is decreased by 3.#
 
 25. Vampirism
-#The unit replenishes his health as he deals damage in melee while under this spell.#
+#Under the influence of this spell, the unit recovers health for any damage dealt.#
 
-26. Disease
-#The unit is infected with a disease. It loses 3 HP and Stamina each turn, Attack attributes are reduced by 3, and Speed by 1.#
+26. Atrophy
+#The unit is infected with a disease. It loses 2 stamina each turn, Attack attributes are decreased by 3, Speed by 1.#
 
 27. Stone Skin
 #The unit's armor is increased by 5, his resistance by 3.#
@@ -112,8 +112,8 @@
 37. Mass Haste
 #The unit's speed is increased by 2.#
 
-38. Mass Attack
-#The unit's melee attack is increased by 4, ranged attack by 3.#
+38. Animal Assault
+#The unit's speed is increased by 2, it can deal extra damage by charging, and it can freely cross any terrain.#
 
 39. Mass Curse
 #The unit's attack is decreased by 2, defense and resistance by 1.#
@@ -124,8 +124,8 @@
 41. Invulnerability
 #The unit's armor and resistance are increased by 20.#
 
-42. Mass Disease
-#The unit is infected with a plague and gradually loses hit points. The unit's speed is decreased by 1, and all types of attack are decreased by 3.#
+42. Pestilence
+#The unit is infected with a disease, and gradually loses stamina. The unit's speed is decreased by 1, and all types of attack are decreased by 3.#
 
 43. Corrupt
 #All of the unit's parameters are decreased by 4.#
@@ -158,10 +158,10 @@
 #Immaterial but touchable shield hovers in front of the unit. This spell increases its defense by 4.#
 
 53. Wasp Swarm
-#Unit is continually stung by insects, the force of its shot is minimal. Unit loses 2 hit points each turn.#
+#Unit is continually stung by insects, the force of its shot is minimal.#
 
 54. Wasp Cloud
-#Unit is continually stung by insects, the force of its shot is minimal. Unit loses 2 hit points each turn.#
+#Unit is continually stung by insects, the force of its shot is minimal.#
 
 55. Rune of Power
 #Mechanical unit is under control of enemy spell.#
@@ -173,10 +173,10 @@
 #Unit gains health from melee combat - one third of the inflicted damage. Unit's attacks rarely incur counterattacks.#
 
 58. Earth Shield
-#Unit is protected by a stone shield. This spell increases Defense and Ranged Defense by 2. When resting the unit recovers 4 HP.#
+#Unit is protected by a stone shield. This spell increases Defense and Ranged Defense by 2. Each turn the unit recovers 2 HP.#
 
 59. Rage
-#The unit's soul is burning with rage. It receives Intrepid, Bloodlust 2, and each blow reduces target's morale by 1. The unit's Resistance is increased by 2.#
+#The unit's soul is burning with rage. It receives Intrepid, Bloodlust 2, and each blow reduces target's morale by 1. The unit's resistance is increased by 2, Speed by 1. Ranged attacks are disabled.#
 
 60. Mass Rage
 #The unit's soul is burning with rage. It receives Intrepid, Bloodlust 3, and each blow reduces target's morale by 2.#
@@ -194,7 +194,7 @@
 #This spell decreases defense by 6.#
 
 65. Plague
-#The unit is infected with a disease. It loses hit points every turn, and its attack and speed are decreased.#
+#The unit is infected with a disease. It loses hit points and stamina each turn and its attack and speed are reduced.#
 
 66. Power Word - Curse
 #Unit forgotten how to fight. All types of attack are set to 0.#
@@ -215,7 +215,7 @@
 #The unit's arrows are capable of penetrating armor.#
 
 72. Thick Fog
-#Shooting in thick fog is difficult, ranged attack is reduced by 5.#
+#Shooting in thick fog is impossible.#
 
 73. Double Shot
 #The unit is able to shoot twice, spending extra stamina.#
@@ -226,26 +226,26 @@
 75. Ancestral Shield
 #Ancestral spirits are protecting the unit. Defense and ranged defense are increased by 3, resistance is increased by 1.#
 
-76. Frenzy
-#The unit thirsts for battle. Its attack and counterattack are increased by 3.#
+76. Poison Claw
+#The unit's weapon is poisoned with a strength of 5.#
 
-77. Bloodlust
-#The unit is mad with bloodlust. Attack and counterattack are increased by 3, speed is increased by 1. The unit is able to recover a fraction of the melee damage dealt.#
+77. Swamp Blood
+#The unit is not affected by poison.#
 
-78. Snare
-#The unit is trapped. The unit's speed is decreased by 1.#
+78. Legacy of Chaos
+#Unit's Attack increases by 8, Speed by 1, Summoning Power by 5. Unit will die at the start of the next turn.#
 
-79. Trap
-#The unit fell into a trap. The unit's speed is reduced by 1 and he loses health and stamina each turn.#
+79. Primal Rage
+#The searing power of Chaos fills the unit. It receives an extra turn for killing an enemy in melee. Counterattack is set to 1.#
 
-80. Swamp Poison
-#The unit is infected with swamp poison. Its speed is decreased by 1 and it loses 5 points of stamina each turn.#
+80. Hornet swarm
+#The unit has been stung by large poisonous  Each turn, it loses 2 HP and 1 stamina. When resting, unit is unable to recover health, stamina, and ammo.#
 
-81. Regeneration
-#The unit regenerates health and stamina every turn under the effect of this spell. Its resistance is increased by 1 and it's immune to poison.#
+81. Voracity
+#The unit's metabolism is significantly increased. While the spell operates, the unit has the ability Necrophage 10.#
 
-82. Poison Weapon
-#The unit's weapon is poisoned with a strength of 3.#
+82. Demonic Reward
+#The power of Chaos allows the unit to heal its wounds by killing living creatures in melee.#
 
 83. Swiftness
 #A spell increased the unit's speed by 1. Each turn the unit restores 2 points of stamina.#
@@ -257,7 +257,7 @@
 #A spell increased all types of the unit's attack, defense and resistance by 2. It regains 2 hit points each turn.#
 
 86. Armor of Faith
-#Reduces damage from Undead and Demons by 25~.#
+#Reduces damage from Undead and Demons by 50~.#
 
 87. Sanctuary
 #This spell increases Attack and Defense attributes by 2, and reduces damage from Undead and Demons by 50~.#
@@ -353,13 +353,13 @@
 #Undead unit is under control of enemy spell.#
 
 118. Enchanted Weapon
-#The unit's weapon is enchanted. This spell increases all types of attack by 2.#
+#The unit's weapon is enchanted. This spell increases all types of attack by 1.#
 
 119. Quen Sign
 #Invisible but touchable barrier protects the Witcher. His defense, ranged defense and resistance is increased by 2.#
 
 120. Titan's Strength
-#The strength of the unit is significantly increased. This spell increases attack and counterattack by 20.#
+#The strength of the unit is significantly increased. This spell increases attack and counterattack by 25.#
 
 121. Mass Undead Restoration
 #Under the influence of this spell an undead unit recovers more hit points each turn.#
@@ -373,8 +373,8 @@
 124. Word of Peace
 #The unit has become less vulnerable, but his fighting capabilities is worse. All types of defense and resistance is increased by 5, all types of attack are reduced by 10.#
 
-125. Distress
-#The unit is infected with a disease. It loses 1 HP and Stamina each turn, Attack attributes are reduced by 1.#
+125. Fever
+#The unit is infected with a disease. It loses 1 stamina each turn, and all its attributes are reduced by 1.#
 
 126. Heroism
 #Friendly unit becomes heroic and is immune to mind-affecting spells.#
@@ -398,7 +398,7 @@
 #The unit inhaled poisonous fumes. It loses hit points, stamina and morale every turn, its attack and speed attributes are reduced.#
 
 133. Mass Bless
-#This spell increases melee attack by 2, counterattack by 1 and all kinds of defenses and resistance by 1 to all friendly units.#
+#This spell increases every ally's Attacks, Defenses, and Resistance at least by 1.#
 
 134. Healing Sleep
 #The unit has been put into a magical sleep. It will be unable to do anything until it wakes up. The spell is interrupted if the unit receives damage.
@@ -439,10 +439,10 @@ It loses 3 points of stamina and morale each turn.#
 #The unit wields weapons with natural enchantment. This spell increases all types of attack by 5.#
 
 146. Enchanted Fang
-#Unit's Attack attributes are increased by 1, and deal magical damage.#
+#The unit's Attacks are increased at least by 1, and it deals magic damage.#
 
 147. Stone Crust
-#Dense Stone Crust covering the entire body of the unit, increasing his armor by 4 and resistance by 2, but inflicting 4 points of damage each turn and target unit can't move.#
+#A thick Stone Crust covers the unit's entire body, increasing Armor by 4 and Resistance by 2, and prevents movement. If the caster is an ally, the unit recovers 4 HP each turn, if an enemy, it loses 4 HP.#
 
 148. Mass Cold Immunity
 #The unit is immune to cold spells. Defense of the unit is increased by 1. Each turn the unit restores 1 hit point.#
@@ -477,23 +477,23 @@ It loses 3 points of stamina and morale each turn.#
 158. Test of Faith
 #The unit restores 4 hit points and 2 stamina points each turn. Smite Evil is increased by 1.#
 
-159. Pestilence
-#The unit has been poisoned. It loses 15 hit points per turn.#
+159. Leprosy Carrier
+#This unit received Agility and the ability to transmit Leprosy in melee, at the cost of some morale each turn.#
 
 160. Concoction
-#A concoction temporarily strengthens a Ratman unit. Increases the target's attack by 4, defense and ranged defense by 2. Unit loses 2 hit points each turn.#
+#A concoction strengthens a Ratman unit. Attack, Defense, and Ranged Defense are increased by 2. The unit has the ability Necrophage 5. Unit loses 2 hit points each turn.#
 
 161. Cannot Move
 #The unit is unable to move.#
 
-162. Fever
-#The unit has been poisoned. It loses 5 hit points per turn.#
+162. Leprosy
+#The unit is infected with a disease. It loses 2 morale and stamina each turn, Attack and Resistance attributes are reduced by 2.#
 
-163. Exhaustion
-#The unit has been poisoned. It loses 10 hit points per turn.#
+163. Fever Carrier
+#This unit received Interception and the ability to transmit Fever in melee, at the cost of some health each turn.#
 
-164. Black Plague
-#The unit has been poisoned. It loses 10 hit points per turn.#
+164. Atrophy Carrier
+#This unit received First Strike and the ability to transmit Atrophy in melee, at the cost of some stamina each turn.#
 
 165. Blind Faith
 #The unit is unable to harm good creatures.#
@@ -514,7 +514,7 @@ It loses 3 points of stamina and morale each turn.#
 #The unit's weapon is enchanted. This spell increases all its attacks at least by 2.#
 
 171. Rune Amulet
-#The unit's armor is enchanted. This spell increases its resistance at least by 4.#
+#The unit's armor is enchanted. This spell increases its Resistance at least by 3.#
 
 172. Caustic Mixture
 #Reduces the unit's defense attributes by 3. The unit suffers 3 points of damage each turn.#
@@ -586,7 +586,7 @@ It loses 3 points of stamina and morale each turn.#
 #The kobold's speed is increased by 1.#
 
 195. Shadow Form Hunter
-#The unit is in shadow form. Terrain knowledge is increases by 8 and speed by 1. The unit may make an enhanced shot and wounds left by this crippling shot take 3 turns longer to heal. The unit is incorporeal, possesses bloodlust 2 and restores 2 stamina points each turn. 
+#The unit is in shadow form. Terrain knowledge is increased by 4, Speed by 1. The unit may make an enhanced shot and wounds left by this crippling shot take 3 turns longer to heal. The unit is incorporeal, possesses bloodlust 2 and restores 2 stamina points each turn. 
 The unit's resistance is reduced by half and it loses 2 morale points each turn. The unit's shooting range is reduced by 2.#
 
 196. Trembling Shadow
@@ -645,14 +645,26 @@ The unit's resistance is reduced by half, it loses 2 morale points each turn and
 213. Manic Rage
 #Unit loses %d HP each turn, due to uncontrollable Battle Frenzy.#
 
-214. Legacy of Chaos
-#Unit's Attack increases by 8, Speed by 1, Summoning Power by 5. Unit will die at the start of the next turn.#
-
-215. Primal Rage
-#The searing power of Chaos fills the unit. It receives an extra turn for killing an enemy in melee. Counterattack is set to 1.#
-
-216. Demonic Reward
-#The power of Chaos gives units the ability to heal their wounds by killing living creatures in melee.#
-
-217. Banner of Chaos
+214. Banner of Chaos
 #Inspired by the power of Chaos, the unit receives an extra turn for killing an enemy in melee. Attack is increased by 6, Counterattack is reduced by 6.#
+
+215. Subdue Beast
+#Animal controlled by an enemy spell.#
+
+216. Fever Hotbed
+#This unit received Interception and the ability to transmit Fever in melee, at the cost of some health each turn. When the unit dies, all adjacent enemies are infected with Fever.#
+
+217. Atrophy Hotbed
+#This unit received First Strike and the ability to transmit Atrophy in melee, at the cost of some stamina each turn. When the unit dies, all adjacent enemies are infected with Atrophy.#
+
+218. Leprosy Hotbed
+#This unit received Agility and the ability to transmit Leprosy in melee, at the cost of some morale each turn. When the unit dies, all adjacent enemies are infected with Leprosy.#
+
+219. Curse
+#This spell decreases all Attacks at least by 2.#
+
+220. Exorcism
+#The unit is immobilized, but can still attack, shoot, and cast spells.#
+
+221. Dodge
+#The unit's Ranged Defense is increased by %d due to special combat abilities.#

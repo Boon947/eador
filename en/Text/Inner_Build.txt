@@ -84,39 +84,39 @@ The castle cannot have more than 4 buildings of this type.#
 Allows the recruitment of Shamans.
 The castle cannot have more than 4 buildings of this type.#
 
-19. School of Wizardry
+19. Metamorphosis School
 #Type: Teaches spells of the first circle.
-Allows heroes to learn the spells of Magic Arrow, Magic Armor, Magic Weapon and buy scrolls with Levitation spell.
+Allows heroes to learn the spells Triple Blade, Magic Armor, Magic Weapon, and Web.
 Allows to perform the ritual of Enchanted Coffer.
 The castle cannot have more than 4 buildings of this type.#
 
 20. Sphere of Winds
 #Type: Teaches spells of the first circle.
-Allows heroes to learn the spells of Slow, Haste, Air Shield and buy scrolls with the Summon Mephit spell.
+Allows heroes to learn the spells Head Wind, Haste, Air Shield, and Lightning.
 Allows to perform the ritual of Fair Wind.
 The castle cannot have more than 4 buildings of this type.#
 
 21. Sanctuary
 #Type: Teaches spells of the first circle.
-Allows heroes to learn the spells of Curse, Bless, Cure Wounds and buy scrolls with the Fearlessness spell.
+Allows heroes to learn the spells Bless, Cure Wounds, Dash, and Shock.
 Allows to perform the ritual of Chalice of Life.
 The castle cannot have more than 4 buildings of this type.#
 
 22. School of Necromancy
 #Type: Teaches spells of the first circle.
-Allows heroes to learn the spells of Fear, Raise Skeleton, Raise Zombie and buy scrolls with the Soul Trap spell.
+Allows heroes to learn the spells Fear, Raise Skeleton, Raise Zombie, and Soul Trap.
 Allows to perform the ritual of Walking Dead.
 The castle cannot have more than 4 buildings of this type.#
 
 23. School of Sorcery
 #Type: Teaches spells of the first circle.
-Allows heroes to learn the spells of Dispel, Astral Energy, Web and buy scrolls with Cat Reflexes spell.
+Allows heroes to learn the spells Dispel, Astral Energy, Astral Thief, and Cat Reflexes.
 Allows to perform the ritual of Extravaganza.
 The castle cannot have more than 4 buildings of this type.#
 
 24. Altar of Chaos
 #Type: Teaches spells of the first circle.
-Allows heroes to learn the spells of Summon Imp, Burn Ammo, Vulnerability and buy scrolls with Chaos Surge spell.
+Allows heroes to learn the spells Summon Imp, Burn Ammo, Vulnerability, and Chaos Surge.
 Allows to perform the ritual of Dark Ritual.
 The castle cannot have more than 4 buildings of this type.#
 
@@ -146,7 +146,7 @@ The castle cannot have more than 4 buildings of this type.#
 
 33. Church
 #Reduces the cost of hero resurrection and the performing of rituals by 10~. Increases the morale of the capital defenders by 2.
-Allows heroes to purchase the following items: Silver Dagger, Silver Axe and the spell scroll Shock.#
+Allows heroes to purchase the following items: Silver Dagger, Silver Axe.#
 
 34. Crystal of Power
 #Reduces the cost of new heroes by 10~. Allows heroes to receive easy quests. Yields 1 gem per turn.#
@@ -191,13 +191,13 @@ Allows you to hire Duelists through contracts, if you found any (one contract wi
 Provides 2 contracts with the Adventurers guard.#
 
 46. Craft Shop
-#Reduces the cost of new units by 10~. Allows the recruitment of Assault-Rats, if you have the proper scroll.#
+#Reduces the cost of new units by 10~.#
 
 47. Brewery
 #Income +10. Improves population mood in the capital by 1. Increases morale of the stronghold's garrison by 2. Improves population mood in provinces with a Tavern or an Inn by 1.#
 
 48. Practice Halls
-#Increases recruits' experience by 30. Allows hiring the Recruits guard. Allows the recruitment of Shadow Claws, if you have the proper scroll.#
+#Increases recruits' experience by 30. Allows hiring the Recruits guard.#
 
 49. Infirmary
 #Increases population growth in the capital. Speeds up restoration of unit hit points in the capital by 10~ per turn. Reduces the risk of an epidemic in the capital.#
@@ -315,37 +315,37 @@ The castle cannot have more than 3 buildings of this type.#
 
 80. Mages Guild
 #Type: Teaches spells of the second circle.
-Allows heroes to learn the spells of Lightning, Fireball, Flame Blade and buy Burden scrolls.
+Allows heroes to learn the spells Blast, Fire Blade, Magic Crystal, and Phantom Blade.
 Allows to perform the ritual of Creation.
 The castle cannot have more than 3 buildings of this type.#
 
 81. Illusionists Guild
 #Type: Teaches spells of the second circle.
-Allows heroes to learn the spells of Phantom Form, Sleep, Hallucinations and buy Heroism spell scrolls.
+Allows heroes to learn the spells Phantom Form, Sleep, Heroism, and Improved Charm.
 Allows to perform the ritual of Illusionary Battle.
 The castle cannot have more than 3 buildings of this type.#
 
 82. Necromancers Guild
 #Type: Teaches spells of the second circle.
-Allows heroes to learn the spells of Raise Ghoul, Vampirism, Disease and buy Feebleness Spell scrolls.
+Allows heroes to learn the spells Raise Ghoul, Vampirism, Atrophy, and Fatigue.
 Allows to perform the ritual of Deadly Terror.
 The castle cannot have more than 3 buildings of this type.#
 
 83. Sphere of Stone
 #Type: Teaches spells of the second circle.
-Allows heroes to learn the spells of Create Gargoyle, Rain of Stones, Stone Skin and buy Stone Crust Spell scrolls.
+Allows heroes to learn the spells Create Gargoyle, Rain of Stones, Stone Skin, and Stone Crust.
 Allows to perform the ritual of Gifts of Earth.
 The castle cannot have more than 3 buildings of this type.#
 
 84. Temple of Chaos
 #Type: Teaches spells of the second circle.
-Allows heroes to learn the spells of Summon Fiend, Summon Hellhound, Blindness and buy Demon Blood Spell scrolls.
+Allows heroes to learn the spells Summon Fiend, Summon Hellhound, Blindness, and Demon Blood.
 Allows to perform the ritual of Chaos Spawn. Allows the recruitment of Demonologists from the contract scrolls.
 The castle cannot have more than 3 buildings of this type.#
 
 85. Temple of Life
 #Type: Teaches spells of the second circle.
-Allows heroes to learn the spells of Restoration, Exorcism, Word of Life and buy Battle Cry Spell scrolls.
+Allows heroes to learn the spells Restoration, Exorcism, Word of Life and Wicked's Bane.
 Allows to perform the ritual of Heavenly Light.
 The castle cannot have more than 3 buildings of this type.#
 
@@ -419,7 +419,7 @@ The castle cannot have more than 4 buildings of this type.#
 #Increases recruits' experience by 40. Allows hiring the Men of War guard.#
 
 101. Craftsmen Guild
-#Reduces the cost of new units by 10~. Reduces the cost of construction in the castle by 10~. Allows recruiting Ratmen Rippers from contract scrolls.#
+#Reduces the cost of new units by 10~. Reduces the cost of construction in the castle by 10~.#
 
 102. Crystal of Power
 #Reduces the cost of new heroes by 15~.  Allows heroes to receive medium quests.  Yields 2 gems per turn.#
@@ -439,7 +439,7 @@ Allows heroes to purchase Magical Arrows.#
 
 107. Secret Library
 #Yields 2 gems per turn.
-Allows the recruitment of Magisters and Masters of Decay, if you have the proper scroll. Allows the growth of Beholders from their eggs.
+Allows recruiting Magisters, if you have the proper scroll. Allows the growth of Beholders from their eggs.
 Allows turning second circle spellbook spells back into scrolls.#
 
 108. Architects Guild
@@ -532,37 +532,37 @@ The castle cannot have more than 2 buildings of this type.#
 
 132. Sphere of Ice
 #Type: Teaches circle III spells
-Allows heroes to learn the spells of Word of Ice, Acid, Mass Slow and buy Geyser Spell scrolls.
+Allows heroes to learn the spells Word of Ice, Mass Slow, Chilling Lightning, and Magic Stream.
 Allows to perform the ritual of Blizzard. Allows the recruitment of Elemental Mistresses from the contract scrolls.
 The castle cannot have more than 2 buildings of this type.#
 
 133. Tower of Chaos
 #Type: Teaches circle III spells
-Allows heroes to learn the spells of Dark Pact, Inferno, Summon Demon and buy Suicide Spell scrolls.
+Allows heroes to learn the spells Dark Pact, Summon Demon, Chaos Distortion, and Hellfire.
 Allows to perform the ritual of Rain of Brimstone. Allows the summoning of Acherons if you have cursed relics.
 The castle cannot have more than 2 buildings of this type.#
 
 134. School of High Magic
 #Type: Teaches circle III spells
-Allows heroes to learn the spells of Teleport, Antimagic, Mass Dispel and buy Enchanted Weapon Spell scrolls.
+Allows heroes to learn the spells Acid, Teleport, Create Golem, and Enchanted Weapon.
 Allows to perform the ritual of Magic Barrier. Allows the summoning of Faerie Dragons if you have their eggs.
 The castle cannot have more than 2 buildings of this type.#
 
 135. Tower of Restoration
 #Type: Teaches circle III spells
-Allows heroes to learn the spells of Resurrection, Mass Defense, Mass Healing and buy Heaven's Rage spell scrolls.
-Allows to perform the ritual of Heavenly Guard. Allows the summoning of Seraphim if you have sacred relics.
+Allows heroes to learn the spells Resurrection, Mass Defense, Mass Healing, and Heaven's Rage.
+Allows to perform the ritual of Holy Army. Allows the summoning of Seraphim if you have sacred relics.
 The castle cannot have more than 2 buildings of this type.#
 
 136. Tower of Hypnosis
 #Type: Teaches circle III spells
-Allows heroes to learn the spells of Word of Power, Mass Haste, Mass Attack and buy Insanity Spell scrolls.
+Allows heroes to learn the spells Antimagic, Mass Dispel, Word of Power, and Suicide.
 Allows to perform the ritual of Mass Insanity. Allows the recruitment of Psions from the contract scrolls.
 The castle cannot have more than 2 buildings of this type.#
 
 137. Tower of Necromancy
 #Type: Teaches circle III spells
-Allows heroes to learn the spells of Raise Ghost, Mass Curse, Life Drain and buy Unrest Spell scrolls.
+Allows heroes to learn the spells Raise Ghost, Life Drain, Mass Undead Restoration, and Eternal Slave.
 Allows to perform the ritual of Undead Uprising. Allows the creation of Dracoliches from the phylacteries.
 The castle cannot have more than 2 buildings of this type.#
 
@@ -715,37 +715,37 @@ The castle can only have one building of this type.#
 
 173. Cathedral of Light
 #Type: Teaches spells of the fourth circle.
-Allows heroes to learn the spells of White Magic, Invulnerability, Word of Peace and buy Higher Power spell scrolls.
+Allows to learn the spells White Magic, Invulnerability, Divine Light, and Supreme Power.
 Allows to perform the ritual of Gifts of Heaven.
 The castle can only have one building of this type.#
 
 174. Necropolis
 #Type: Teaches spells of the fourth circle.
-Allows heroes to learn the spells of Raise Vampire, Mass Disease, Cloud of Terror and buy Mass Life Drain Spell scrolls.
+Allows to learn the spells Raise Vampire, Pestilence, Cloud of Terror, and Gates of Death.
 Allows to perform the ritual of Pestilence.
 The castle can only have one building of this type.#
 
 175. Sphere of Flame
 #Type: Teaches spells of the fourth circle.
-Allows heroes to learn the spells of Armageddon, Incineration, Firestorm and buy Elemental Immunity Spell scrolls.
+Allow to learn the spells Armageddon, Incineration, Firestorm, and Summon Phoenix.
 Allows to perform the ritual of Conflagration.
 The castle can only have one building of this type.#
 
 176. Gates of Chaos
 #Type: Teaches spells of the fourth circle.
-Allows heroes to learn the spells of Summon Devil, Black Magic, Corruption and buy Summon Lord of Abyss Spell scrolls.
+Allows to learn the spells Summon Devil, Black Magic, Corruption, and Summon Lord of Abyss.
 Allows to perform the ritual of Demon Invasion. Adds Gates of Abyss to the capital.
 The castle can only have one building of this type.#
 
 177. Secret Guild
 #Type: Teaches spells of the fourth circle.
-Allows heroes to learn the spells of Time Stop, Dragon Form, Polymorph and buy Titan's Strength Spell scrolls.
+Allows to learn the spells Time Stop, Dragon Form, Polymorph and Titan's Strength.
 Allows to perform the ritual of Tower of Lightning.
 The castle can only have one building of this type.#
 
 178. Psy-Monolith
 #Type: Teaches spells of the fourth circle.
-Allows heroes to learn the spells of Mass Suicide, Enslave Mind, Mass Sleep and buy Confusion Spell scrolls.
+Allows to learn the spells Mass Suicide, Enslave Mind, Confusion, and Mass Improved Charm.
 Allows to perform the ritual of Astral Gates.
 The castle can only have one building of this type.#
 
@@ -834,11 +834,11 @@ Allows hiring the Elven squad guard. Income from forest provinces +2. Gem income
 #Allows the recruitment of Goblins. Lowers the population mood in the capital by 1.#
 
 198. Mud
-#Allows recruiting Goblin Archers.
+#Allows recruiting Hunters.
 Increases income from swamp provinces by 3.#
 
-199. Goblin Workshop
-#Income +2. Occasionally produces artifacts for sale.#
+199. Creature Pens
+#Income +2. Allows recruiting Wolfriders. Occasionally sells second rank creature eggs.#
 
 200. Orcish Quarter
 #Allows recruiting Orcs and Bugbears. Lowers the population mood in the capital by 1.#
@@ -905,20 +905,21 @@ Provides 3 contract with the Lord of the Undead guard.#
 218. Great Hall
 #Allows recruiting Earthshakers and Colossus. Allows the recruitment of Dwarven Cannons, if you have the proper scroll. Allows recruiting the Dwarven Army guards.#
 
-219. Goblin Hut 
-#Allows recruiting Goblin Shamans and Goblin Hunters.#
+219. Goblin Hut
+#Allows recruiting Trappers.#
 
-220. Swampland 
-#Allows hiring Ericubas and use eggs (if found). Allows you to hire Gang of goblins guards.#
+220. Swampland
+#Yields 2 gems per turn.
+Sells Ericuba eggs (which will appear in the store). Allows you to hire Gang of goblins guards.#
 
-221. Sorcerer's Chambers 
-#Allows recruiting Goblin Sorcerers. Allows you to build a Battlemage Garden in swamp provinces.#
+221. Goblin Ward
+#Allows recruiting Creature Masters. Allows you to build a Battlemage Garden in swamp provinces. Occasionally sells third rank creature eggs.#
 
-222. Orcish Barracks 
+222. Orcish Barracks
 #Allows recruiting Cleavers.
 Allows building Orcish Outpost in provinces.#
 
-223. Stone Idol 
+223. Stone Idol
 #Allows recruiting Spirit Conjurer and Brutes.#
 
 224. Warcamp
@@ -1086,7 +1087,7 @@ Allows to perform the ritual of Call of Darkness.
 Adds Altar of Death to capital.#
 
 263. Handler's Guild
-#Allows you to hire Manticores if you have their eggs in the treasury. Allows the recruitment of Rat Reapers and Lycans, if you have the proper scroll. Increases income from swamp provinces by 1. Reduces the upkeep of garrison units by 5~.#
+#Allows you to hire Manticores if you have their eggs in the treasury. Allows recruiting Lycans, if you have the proper scroll. Increases income from swamp provinces by 1. Reduces the upkeep of garrison units by 5~.#
 
 264. Gnoll's Quarters
 #Allows recruiting Pack Warriors. Lowers the population mood in the capital by 1. Reduces the population growth in the capital by 1. Allows performing the Gathering the Pack ritual.#
@@ -1135,38 +1136,53 @@ Detachment of Templar soldiers periodically conducts raids on monsters and witch
 277. Shining Spire
 #Allows recruiting Arisen Luminaries. Reduces the cost of hero resurrection and the performing of rituals by 10~.#
 
-278. Driller Guild
-#Type: Basic Ratman buildings.
-Allows recruiting Ratmen and Drillers.
-Gold and gem income from provinces inhabited by Ratmen +1.
-The castle can only have one building of this type.#
+278. Ratman Lair
+#Allows recruiting Ratmen and Plague Shooters.
+Gold income from Ratman provinces +1.#
 
-279. Seekers Clan Temple
-#Type: Basic Ratman buildings.
-Yields 1 gem per turn.
-Allows recruiting Ratmen and Warriors of Decay.
-The castle can only have one building of this type.#
+279. Ratman Barracks
+#Yields 1 gem per turn.
+Allows recruiting Plague Warriors.
+Gem income from Ratman provinces +1.#
 
-280. Skirr Clan Factory
-#Type: Advanced Ratman buildings.
-Allows recruiting Lightning Cannons. Allows hiring the Drillers guard.
-Allows the recruitment of Shadow Claws, if you have the proper scroll.#
+280. Toxic Tent
+#Allows recruiting Shadow Claws.
+Allows hiring the Ratman Pack guard.#
 
-281. Plague Factory
-#Type: Advanced Ratman buildings.
-Allows recruiting Plague Shooters. Allows hiring the Ratman Pack guard.
-Allows the recruitment of Shadow Claws, if you have the proper scroll.#
+281. Plague Temple
+#Allows recruiting Plague Masters.
+Yields 5 gems per turn.#
 
-282. Seeker Laboratory
-#Allows recruiting Ratclaws.
-Allows the recruitment of Rat Reapers, Rippers and Masters of Decay, if you have the proper scroll.#
+282. Grand Altar
+#Allows recruiting Grey Overlords. Allows hiring the Rat King guard.
+Lowers the population mood in the capital by 1.#
 
-283. Grand Ratt Altar
-#Allows recruiting Rat Kings. Allows hiring the Rat King guard.
-Yields 5 gems per turn. Lowers the population mood in the capital by 1.#
-
-284. Warlock Tent
+283. Warlock Tent
 #Stores will sell "Primal Rage" and "Temptation of Chaos" scrolls.#
 
-285. Wizard Tent
+284. Wizard Tent
 #Stores will sell "Banner of Chaos" scrolls.#
+
+285. Nature's Cloister
+#Type: Teaches spells of the first circle.
+Allows heroes to learn the spells Recovery, Summon Wasp Swarm, Enchanted Fang, and Summon Wolf.
+Allows to perform the ritual of Miracle of Nature.
+The castle cannot have more than 4 buildings of this type.#
+
+286. Leafy Tower
+#Type: Teaches spells of the second circle.
+Allows heroes to learn the spells Poison Claw, Hunter's Vine, Natural Weapon, and Summon Eagle.
+Allows to perform the ritual of Summon Nature.
+The castle cannot have more than 3 buildings of this type.#
+
+287. Blooming Lane
+#Type: Teaches circle III spells
+Allows heroes to learn the spells Summon Wasp Cloud, Pathfinding, Summon Dire Bear, and Summon Rat Swarm.
+Allows to perform the ritual of Heavenly Guard.
+The castle cannot have more than 2 buildings of this type.#
+
+288. Tree of Miracles
+#Type: Teaches spells of the fourth circle.
+Allows heroes to learn the spells Animal Assault, Thick Fog, Summon Wyvern, and Enchanted Grove.
+Allows to perform the ritual of Blessed Land.
+The castle can only have one building of this type.#

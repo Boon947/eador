@@ -32,7 +32,7 @@
 #A Scout who has mastered command skills becomes a Ringleader, able to loot more trophies after battles and to receive more riches while plundering. The troops under the Ringleader possess increased Mobility.#
 
 /12 Ranger
-#A Scout who has mastered the secrets of conjuring becomes a Ranger, able to explore provinces faster and sabotage enemies more efficiently. A Ranger can enchant his arrows to deliver additional damage.#
+#A Scout who has mastered the secrets of conjuring becomes a Ranger, able to explore provinces faster and sabotage enemies more efficiently. A Ranger can enchant his arrows, and moves before his enemies.#
 
 /13 Warlord
 #A Commander who has mastered the art of fighting becomes a Warlord, able to efficiently increase the defense of his units. A Commander's troops slowly recover health in battle.#
@@ -44,16 +44,16 @@
 #Once the path of the Commander is completed, the hero becomes a General, able to increase the attack of his units.#
 
 /16 Priest
-#A Commander who has mastered the secrets of magic becomes a Priest, able to increase the morale and resistance of his units.#
+#A Commander who has mastered the secrets of magic becomes a Priest, able to increase the morale and resistance of his units. Units in a Priest's army tolerate units of the opposite alignment.#
 
 /17 Battlemage
-#A Wizard who has mastered the art of fighting becomes a Battlemage, gaining higher resistance to hostile magic and the ability to better overcome enemy resistance. A Battlemage can use magic wands more effectively.#
+#A Wizard who has mastered the art of fighting becomes a Battlemage, gaining higher resistance to hostile magic and the ability to better overcome enemy resistance. A Battlemage casts spells with more power.#
 
 /18 Druid
-#A Wizard learning the secrets of scouting becomes a Druid, able to prolong his spells, while saving gems and protecting his army from poison. An enemy attacked by a Druid in melee combat will become entangled.#
+#A Wizard who masters the secrets of Scouting becomes a Druid, able to summon powerful creatures and to use wands efficiently. Druid spells consume less gems.#
 
 /19 Necromancer
-#A Wizard who has mastered the basics of command becomes a Necromancer able to raise more powerful Undead. The undead that stay with the Necromancer's army are stronger than the skill usually allows.#
+#A Wizard who has mastered the basics of command becomes a Necromancer able to raise more powerful Undead. A Necromancer can keep in his army Undead more powerful than his skill usually allows, and his spells last longer than usual.#
 
 /20 Mage
 #Having completed the path of the Wizard, the hero becomes a Mage, able to cast two simple spells each turn.#
@@ -80,7 +80,7 @@
 #Once the hero achieves perfection as a Ringleader, he becomes a Gang Leader, able to reap enormous rewards from trophies and plunder. A Gang Leader moves with incredible speed on the map. Units under his command can move faster even in battles.#
 
 /28 Pathfinder
-#Having mastered the path of the Ranger, the hero becomes a Pathfinder, a master of scouting and sabotage. A Pathfinder can enchant his arrows, so they inflict maximum additional damage.#
+#Having mastered the path of the Ranger, the hero becomes a Pathfinder, a master of scouting and sabotage. A Pathfinder is able to enchant his arrows, so they inflict maximum damage, and always remains one step ahead of his enemies.#
 
 /29 Battlemaster
 #After achieving perfection on the path of the Warlord, the hero becomes a Battlemaster, whose soldiers are believed to be invulnerable.#
@@ -92,16 +92,16 @@
 #Having mastered the path of the General, the hero becomes a Marshall, whose soldiers can crush any enemy.#
 
 /32 High Priest
-#Having reached the apex of the Priest mastery, the hero becomes a High Priest, whose soldiers are best protected from hostile magic, and know no fear. A High Priest receives an additional slot for a Circle III spell.#
+#Having reached the apex of the Priest mastery, the hero becomes a High Priest, whose soldiers are best protected from hostile magic, and know no fear.#
 
 /33 Warwizard
 #Having mastered the art of the Battlemage, the hero becomes a Warwizard, unmatched in magic duels.#
 
 /34 Archdruid
-#Having reached the highest skills on the path of the Druid, the hero becomes an Archdruid, whose spells are not easily dispelled and his strikes or shots entangle the enemy. The Archdruid gets an additional slot for a Circle III spell.#
+#Having reached the highest skills on the path of the Druid, the hero becomes an Archdruid, able to summon incredibly powerful creatures and to use magic wands with maximum efficiency.#
 
 /35 Master Necromancer
-#Having mastered the art of the Necromancer, the hero becomes a Master Necromancer, commander of truly powerful undead.#
+#Having mastered the art of the Necromancer, the hero becomes a Master Necromancer, able to summon truly powerful Undead.#
 
 /36 Archmage
 #Having perfected the art of the Mage, the hero becomes an Archmage, able to cast two complex spells each turn.#

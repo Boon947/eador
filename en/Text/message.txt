@@ -1,4 +1,5 @@
-Quantity: 127
+Quantity: 129
+
 0. Empty
 #No description#
 
@@ -361,7 +362,7 @@ Your world is the main source of Energy income. Each Shard joined to your world 
 #Try powerful spells and rituals, train elite warriors and fight huge monsters. Obtain legendary artifacts and collect rare armor sets.#
 
 113. Hint Miscellaneous
-# New Horizons 15.1231.f01 - English translation v2.60e#
+# New Horizons 16.0901.f01 - English translation v2.70a#
 
 114. No lottery
 #  
@@ -408,3 +409,9 @@ The quest will be considered completed once the hero and his army destroy at lea
 
 127. Rubble
 #Remains of shattered fortifications. On the battlefield, crossing a tile covered in rubble costs 2 movement points and 1 stamina.#
+
+128. Hint Scroll creation
+#ALT + Click - to create scroll.#
+
+129. Hint Scroll creation - Cost
+#   %d,    %d.#

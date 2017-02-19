@@ -88,16 +88,16 @@ Magic: 4
 Leader: 0
 
 /18 Druid
-Health: 1
-Magic: 4
-Leader: 5
-
-/19 Necromancer
-Health: 1
-Magic: 3
-Leader: 6
-
-/20 Mage
 Health: 2
 Magic: 4
 Leader: 4
+
+/19 Necromancer
+Health: 0
+Magic: 3
+Leader: 7
+
+/20 Mage
+Health: 3
+Magic: 4
+Leader: 3

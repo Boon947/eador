@@ -484,7 +484,7 @@ Does not lower the mood in Ratman provinces.#
 #A troop of Ratmen guards your province, and continues to serve you.#
 
 98. Rat King
-#Hordes of Ratmen, led by their king - excellent protection of the province. Protecting their king, the Ratmen are imperceptibly darting along the borders, giving advance warning of any possible attacks. Wanting to curry favor with him, they drag him to the best food - and in large quantities, extracting it from the locals, who obviously do not like that much.
+#Hordes of Ratmen, led by their ruler - excellent protection for the province. To protect the master, Ratmen discreetly dart along the borders, giving advance warning of any possible attacks. Wanting to curry favor with him, they drag him to the best food - and in large quantities, extracting it from the locals, who obviously do not like that much.
 The province spotting range is increased.
 Province income -10~.
 Population mood -1.

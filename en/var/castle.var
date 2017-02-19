@@ -1,4 +1,4 @@
-Quantity: 308
+Quantity: 311
 
 /0 Фон
 Layer: 0
@@ -2191,7 +2191,7 @@ Yplace: 720
 Buildings: (198)
 Antibuildings: (220)
 
-/219 Мастерские гоблинов
+/219 Загоны тварей
 Layer: 2
 Opacity: 0
 X: 395
@@ -2411,7 +2411,7 @@ Yplace: 720
 Buildings: (220)
 Antibuildings: (0)
 
-/241 Палаты чародеев
+/241 Палаты гоблинов
 Layer: 2
 Opacity: 0
 X: 398
@@ -3001,7 +3001,7 @@ Yplace: 710
 Buildings: (277)
 Antibuildings: (0)
 
-/300 Цех туннелепроходчиков
+/300 Логово крысолюдов
 Layer: 2
 Opacity: 0
 X: 359
@@ -3009,59 +3009,49 @@ Y: 623
 Group: 0
 Yplace: 720
 Buildings: (278)
-Antibuildings: (0)
+Antibuildings: (279)
 
-/301 Храм клана Искателей
+/301 Бараки крысолюдов
 Layer: 2
 Opacity: 0
-X: 366
-Y: 604
+X: 359
+Y: 623
 Group: 0
 Yplace: 720
 Buildings: (279)
 Antibuildings: (0)
 
-/302 Фабрика клана Скрежет
-Layer: 2
-Opacity: 0
-X: 438
-Y: 606
-Group: 0
-Yplace: 710
-Buildings: (280)
-Antibuildings: (0)
-
-/303 Фабрика чумы
-Layer: 2
-Opacity: 0
-X: 443
-Y: 599
-Group: 0
-Yplace: 710
-Buildings: (281)
-Antibuildings: (0)
-
-/304 Лаборатория Искателей
+/302 Палатка отравителей
 Layer: 2
 Opacity: 0
 X: 383
 Y: 690
 Group: 0
 Yplace: 760
-Buildings: (282)
+Buildings: (280)
 Antibuildings: (0)
 
-/305 Алтарь Великого Крысса
+/303 Храм Чумы
+Layer: 2
+Opacity: 0
+X: 441
+Y: 598
+Group: 0
+Yplace: 760
+Buildings: (281)
+Antibuildings: (0)
+
+/304 Алтарь Великого Крысса
 Layer: 2
 Opacity: 0
 X: 431
 Y: 690
 Group: 0
 Yplace: 740
-Buildings: (283)
+Buildings: (282)
 Antibuildings: (0)
 
-/306 Игорный дом - огонь
+/305 Игорный дом - огонь
 Layer: 2
 Opacity: 50
 X: 166
@@ -3071,7 +3061,17 @@ Yplace: 435
 Buildings: (250)
 Antibuildings: (0)
 
-/307 Палатка колдуна
+/306 Палатка колдуна
+Layer: 2
+Opacity: 0
+X: 347
+Y: 602
+Group: 0
+Yplace: 740
+Buildings: (283)
+Antibuildings: (284)
+
+/307 Палатка чародея
 Layer: 2
 Opacity: 0
 X: 347
@@ -3079,14 +3079,44 @@ Y: 602
 Group: 0
 Yplace: 740
 Buildings: (284)
-Antibuildings: (285)
+Antibuildings: (0)
 
-/308 Палатка чародея
+/308 Обитель Природы
 Layer: 2
 Opacity: 0
-X: 347
-Y: 602
-Group: 0
-Yplace: 740
+X: 42
+Y: 60
+Group: 5
+Yplace: 0
 Buildings: (285)
+Antibuildings: (286)
+
+/309 Башня Листьев
+Layer: 2
+Opacity: 0
+X: 42
+Y: 60
+Group: 5
+Yplace: 0
+Buildings: (286)
+Antibuildings: (287)
+
+/310 Цветущая аллея
+Layer: 2
+Opacity: 0
+X: 47
+Y: 64
+Group: 5
+Yplace: 0
+Buildings: (287)
+Antibuildings: (288)
+
+/311 Древо Чудес
+Layer: 2
+Opacity: 0
+X: 46
+Y: 62
+Group: 5
+Yplace: 0
+Buildings: (288)
 Antibuildings: (0)

@@ -1,4 +1,4 @@
-Quantity: 621
+Quantity: 625
 
 /0
 Name: Empty;
@@ -1865,3 +1865,15 @@ Name: Main treasure chest (W);
 
 /621
 Name: Rubble;
+
+/622
+Name: Run!;
+
+/623
+Name: Revert to after the attack;
+
+/624
+Name: Do not revert to after the attack;
+
+/625
+Name: Recurring cost;

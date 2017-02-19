@@ -181,9 +181,9 @@ Param1: 0
 Param2: 0;
 
 /6
-Name: Elven Necklace;
+Name: Drow Jewelry Box;
 Giver: 0
-Type: 2
+Type: 1
 Possibility: 10
 EncInit: 210
 EncWait: 217
@@ -195,12 +195,12 @@ EncFailGiver: 227
 EncFailTarget: 0
 EncFailTime: 0
 Time: 0
-Exp: 200
+Exp: 250
 
 *Objectives*:
-Index: 15
-Param: 0
-Quantity: 8
+Index: 143
+Param: 100
+Quantity: 1
 Target: 0
 Place: 0;
 
@@ -273,7 +273,7 @@ Param2: 0;
 /9
 Name: Destroying the Gates;
 Giver: 27
-Type: 1
+Type: 3
 Possibility: 10
 EncInit: 249
 EncWait: 245
@@ -288,8 +288,8 @@ Time: 0
 Exp: 250
 
 *Objectives*:
-Index: 24
-Param: 100
+Index: 254
+Param: 0
 Quantity: 1
 Target: 0
 Place: 0;

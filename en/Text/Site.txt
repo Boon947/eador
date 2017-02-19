@@ -350,13 +350,13 @@ Gem income +2.#
 112. Catacombs
 #In these twisting tunnels certainly there are treasures from ancient times to be found.#
 
-113. Driller Workshop
-#Ratman building, erected with your permission. Here you can recruit Ratman-drillers.
+113. Ratman Barracks
+#Ratman building, erected with your permission. You can hire Shadow Claws here.
 Unfortunately the Ratmen go way beyond the budget you permitted, and all the necessary materials and supplies are stolen from the locals.
 Reduce province gold income by 50~. Population mood -2.#
 
-114. Temple of the Seekers
-#Ratman building, erected with your permission. Here you can recruit Warriors of Decay.
+114. Plague Temple
+#Ratman building, erected with your permission. You can hire Plague Warriors here.
 Unfortunately the Ratmen go way beyond the budget you permitted, and all the necessary materials and supplies are stolen from the locals.
 Reduce province gold income by 50~. Population mood -2.#
 
@@ -452,3 +452,6 @@ Population mood -1.#
 
 142. Wolf Thicket
 #No description#
+
+143. Dark Cave
+#The Drow who decided to rob the Goblins have yet to come out of the cave. Perhaps you want to go inside?#

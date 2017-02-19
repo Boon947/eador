@@ -1,4 +1,4 @@
-Quantity: 369
+Quantity: 379
 
 /0
 Name: Empty;
@@ -64,6 +64,10 @@ AntiEffect: (110, 103)
 Effects:
 Damage: 1
 Power: 4
+Duration: -1
+
+LightningSmall: 248
+Power: 1
 Duration: -1;
 
 /2
@@ -137,13 +141,13 @@ Power: 2
 Duration: -1;
 
 /4
-Name: Magic Arrow;
+Name: Triple Blade;
 Cost: 4
 LifeCost: 0
 StamCost: 1
 ItemLevel: 2
 Level: 1
-PowerMod: 100
+PowerMod: 70
 DurationMod: 0
 Target: 1
 Area: 1
@@ -155,18 +159,18 @@ Negative: 1
 OnEnemy: 1
 OnAlly: 0
 Sacrifice: 0
-ResistPower: 100
+ResistPower: 0
 ResistDuration: 0
-DefencePower: 0
+DefencePower: 100
 RestoreOnly: 0
 Cumulative: 0
 Sound: 4
 UnitKind: (0)
-AntiEffect: (110)
+AntiEffect: (0)
 
 Effects:
 Damage: 1
-Power: 8
+Power: 9
 Duration: -1;
 
 /5
@@ -252,8 +256,8 @@ Power: 2
 Duration: -1;
 
 /7
-Name: Slow;
-Cost: 2
+Name: Head Wind;
+Cost: 3
 LifeCost: 0
 StamCost: 1
 ItemLevel: 1
@@ -277,11 +281,15 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 7
 UnitKind: (0)
-AntiEffect: (110)
+AntiEffect: (110, 80)
 
 Effects:
 Speed: 7
 Power: -2
+Duration: 6
+
+ShootingRange: 9
+Power: -1
 Duration: 6
 
 Stamina: 11
@@ -363,19 +371,19 @@ Power: 1
 Duration: 5;
 
 /10
-Name: Curse;
-Cost: 1
-LifeCost: 0
+Name: Hex;
+Cost: 2
+LifeCost: 1
 StamCost: 1
 ItemLevel: 1
 Level: 1
-PowerMod: 0
-DurationMod: 100
+PowerMod: 100
+DurationMod: 0
 Target: 1
 Area: 1
 Radius: 0
 Karma: 0
-Building: 21
+Building: 0
 Unloot: 0
 Negative: 1
 OnEnemy: 1
@@ -391,14 +399,6 @@ UnitKind: (4, 23)
 AntiEffect: (110)
 
 Effects:
-Attack: 2
-Power: -2
-Duration: 6
-
-CounterAttack: 3
-Power: -2
-Duration: 6
-
 Defense: 4
 Power: -1
 Duration: 6
@@ -407,24 +407,24 @@ RangedDefense: 5
 Power: -1
 Duration: 6
 
-RangedAttack: 8
-Power: -2
-Duration: 6
-
 Resist: 6
 Power: -1
+Duration: 6
+
+Resist: 136
+Power: 1
 Duration: 6;
 
 
 /11
 Name: Bless;
-Cost: 1
+Cost: 2
 LifeCost: 0
 StamCost: 1
 ItemLevel: 1
 Level: 1
-PowerMod: 0
-DurationMod: 100
+PowerMod: 35
+DurationMod: 0
 Target: 1
 Area: 1
 Radius: 0
@@ -447,31 +447,27 @@ AntiEffect: (110)
 Effects:
 Attack: 2
 Power: 1
-Duration: 5
+Duration: 6
 
 CounterAttack: 3
 Power: 1
-Duration: 5
+Duration: 6
 
 RangedAttack: 8
 Power: 1
-Duration: 5
+Duration: 6
 
 Defense: 4
 Power: 1
-Duration: 5
+Duration: 6
 
 RangedDefense: 5
 Power: 1
-Duration: 5
+Duration: 6
 
 Resist: 6
 Power: 1
-Duration: 5
-
-Stamina: 11
-Power: 2
-Duration: -1;
+Duration: 6;
 
 /12
 Name: Cure Wounds;
@@ -503,7 +499,7 @@ AntiEffect: (110)
 
 Effects:
 Heal: 1
-Power: 7
+Power: 8
 Duration: -1;
 
 /13
@@ -525,7 +521,7 @@ Negative: 1
 OnEnemy: 1
 OnAlly: 0
 Sacrifice: 0
-ResistPower: 200
+ResistPower: 100
 ResistDuration: 0
 DefencePower: 0
 RestoreOnly: 0
@@ -536,7 +532,7 @@ AntiEffect: (19, 110, 104)
 
 Effects:
 Morale: 12
-Power: 8
+Power: 6
 Duration: -1;
 
 /14
@@ -683,12 +679,12 @@ StamCost: 1
 ItemLevel: 1
 Level: 1
 PowerMod: 0
-DurationMod: 200
+DurationMod: 35
 Target: 1
 Area: 1
 Radius: 0
 Karma: 0
-Building: 23
+Building: 19
 Unloot: 0
 Negative: 1
 OnEnemy: 1
@@ -706,7 +702,7 @@ AntiEffect: (110, 105)
 Effects:
 Web: 47
 Power: 0
-Duration: 8;
+Duration: 2;
 
 /19
 Name: Summon Imp;
@@ -760,7 +756,7 @@ Negative: 1
 OnEnemy: 1
 OnAlly: 0
 Sacrifice: 0
-ResistPower: 50
+ResistPower: 150
 ResistDuration: 0
 DefencePower: 0
 RestoreOnly: 0
@@ -817,18 +813,18 @@ Duration: 6;
 
 /22
 Name: Lightning;
-Cost: 12
+Cost: 4
 LifeCost: 0
-StamCost: 3
-ItemLevel: 3
-Level: 2
-PowerMod: 200
+StamCost: 1
+ItemLevel: 1
+Level: 1
+PowerMod: 100
 DurationMod: 0
 Target: 1
 Area: 1
 Radius: 0
 Karma: 0
-Building: 80
+Building: 20
 Unloot: 0
 Negative: 1
 OnEnemy: 1
@@ -845,11 +841,15 @@ AntiEffect: (110, 103)
 
 Effects:
 Damage: 1
-Power: 12
+Power: 9
+Duration: -1
+
+Lightning: 244
+Power: 1
 Duration: -1;
 
 /23
-Name: Fireball;
+Name: Blast;
 Cost: 13
 LifeCost: 0
 StamCost: 4
@@ -879,6 +879,10 @@ AntiEffect: (110, 101)
 Effects:
 Damage: 1
 Power: 7
+Duration: -1
+
+ExplBig: 243
+Power: 1
 Duration: -1;
 
 /24
@@ -1037,7 +1041,7 @@ Target: 0
 Area: 2
 Radius: 0
 Karma: 0
-Building: 81
+Building: 0
 Unloot: 0
 Negative: 1
 OnEnemy: 1
@@ -1128,7 +1132,7 @@ Power: 50
 Duration: 3;
 
 /30
-Name: Disease;
+Name: Atrophy;
 Cost: 6
 LifeCost: 0
 StamCost: 1
@@ -1156,12 +1160,8 @@ UnitKind: (2, 4, 17, 22, 23)
 AntiEffect: (110)
 
 Effects:
-Poison: 1
-Power: -3
-Duration: 6
-
 Stamina: 11
-Power: -1
+Power: -2
 Duration: 6
 
 Attack: 2
@@ -1248,6 +1248,10 @@ Duration: -1
 
 Stamina: 11
 Power: 2
+Duration: -1
+
+Stamina: 247
+Power: 1
 Duration: -1;
 
 /33
@@ -1394,8 +1398,8 @@ CounterAttack: 3
 Power: -100
 Duration: 4
 
-NoRangedAttack: 151
-Power: 1
+RangedAttack: 8
+Power: -100
 Duration: 4;
 
 /37
@@ -1442,7 +1446,7 @@ LifeCost: 0
 StamCost: 1
 ItemLevel: 2
 Level: 2
-PowerMod: 150
+PowerMod: 200
 DurationMod: 0
 Target: 1
 Area: 1
@@ -1460,12 +1464,20 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 45
-UnitKind: (1, 4, 5, 18, 22)
+UnitKind: (1, 4, 5, 18, 22, 23)
 AntiEffect: (110)
 
 Effects:
+DontMove: 88
+Power: 16
+Duration: 2
+
 Damage: 1
-Power: 15
+Power: 16
+Duration: -1
+
+HolyShock: 233
+Power: 1
 Duration: -1;
 
 /39
@@ -1579,15 +1591,15 @@ Target: 1
 Area: 1
 Radius: 0
 Karma: 0
-Building: 132
+Building: 134
 Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
 Sacrifice: 0
-ResistPower: 50
+ResistPower: 0
 ResistDuration: 0
-DefencePower: 0
+DefencePower: 50
 RestoreOnly: 0
 Cumulative: 1
 Sound: 49
@@ -1666,7 +1678,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 52
 UnitKind: (-1)
-AntiEffect: (110, 103, 215)
+AntiEffect: (100, 110, 215)
 
 Effects:
 DarkPact: 91
@@ -1675,10 +1687,10 @@ Duration: 10;
 
 /44
 Name: Inferno;
-Cost: 25
+Cost: 20
 LifeCost: 0
 StamCost: 4
-ItemLevel: 4
+ItemLevel: 3
 Level: 3
 PowerMod: 200
 DurationMod: 0
@@ -1686,7 +1698,7 @@ Target: 1
 Area: 1
 Radius: 0
 Karma: -1
-Building: 133
+Building: 0
 Unloot: 0
 Negative: 1
 OnEnemy: 1
@@ -1704,6 +1716,10 @@ AntiEffect: (110)
 Effects:
 Damage: 1
 Power: 20
+Duration: -1
+
+ExplNorm: 242
+Power: 1
 Duration: -1;
 
 /45
@@ -1785,7 +1801,7 @@ Target: 1
 Area: 1
 Radius: 0
 Karma: 0
-Building: 134
+Building: 136
 Unloot: 0
 Negative: 0
 OnEnemy: 1
@@ -1822,7 +1838,7 @@ Target: 0
 Area: 2
 Radius: 0
 Karma: 0
-Building: 134
+Building: 136
 Unloot: 0
 Negative: 1
 OnEnemy: 1
@@ -1918,7 +1934,7 @@ Duration: 3;
 
 /51
 Name: Mass Healing;
-Cost: 30
+Cost: 15
 LifeCost: 0
 StamCost: 3
 ItemLevel: 4
@@ -1995,7 +2011,7 @@ Target: 0
 Area: 2
 Radius: 0
 Karma: 0
-Building: 136
+Building: 0
 Unloot: 0
 Negative: 0
 OnEnemy: 0
@@ -2016,19 +2032,19 @@ Power: 2
 Duration: 3;
 
 /54
-Name: Mass Attack;
+Name: Animal Assault;
 Cost: 20
 LifeCost: 0
 StamCost: 3
-ItemLevel: 4
-Level: 3
+ItemLevel: 5
+Level: 4
 PowerMod: 0
-DurationMod: 100
+DurationMod: 25
 Target: 0
 Area: 2
 Radius: 0
 Karma: 0
-Building: 136
+Building: 288
 Unloot: 0
 Negative: 0
 OnEnemy: 0
@@ -2040,21 +2056,29 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 64
-UnitKind: (0)
+UnitKind: (2, 4, 22)
 AntiEffect: (110)
 
 Effects:
-Attack: 2
-Power: 4
-Duration: 3
+Speed: 7
+Power: 2
+Duration: 1
 
-CounterAttack: 3
-Power: 4
-Duration: 3
-
-RangedAttack: 8
+Charge_3: 37
 Power: 3
-Duration: 3;
+Duration: 1
+
+Forest_Walk: 32
+Power: 1
+Duration: 1
+
+Hill_Walk: 33
+Power: 1
+Duration: 1
+
+Swamp_Walk: 34
+Power: 1
+Duration: 1;
 
 /55
 Name: Raise Ghost;
@@ -2102,7 +2126,7 @@ Target: 0
 Area: 2
 Radius: 0
 Karma: 0
-Building: 137
+Building: 0
 Unloot: 0
 Negative: 1
 OnEnemy: 1
@@ -2181,9 +2205,9 @@ Duration: -1;
 
 /58
 Name: White Magic;
-Cost: 80
+Cost: 45
 LifeCost: 15
-StamCost: 8
+StamCost: 6
 ItemLevel: 5
 Level: 4
 PowerMod: 100
@@ -2324,7 +2348,7 @@ Power: 0
 Duration: -1;
 
 /62
-Name: Mass Disease;
+Name: Pestilence;
 Cost: 35
 LifeCost: 0
 StamCost: 5
@@ -2352,12 +2376,8 @@ UnitKind: (2, 4, 17, 22, 23)
 AntiEffect: (110)
 
 Effects:
-Poison: 1
-Power: -3
-Duration: 6
-
 Stamina: 11
-Power: -1
+Power: -2
 Duration: 6
 
 Attack: 2
@@ -2440,6 +2460,10 @@ AntiEffect: (110, 101)
 Effects:
 Damage: 1
 Power: 15
+Duration: -1
+
+ExplNorm: 242
+Power: 1
 Duration: -1;
 
 /65
@@ -2473,6 +2497,10 @@ AntiEffect: (110, 101)
 Effects:
 Damage: 1
 Power: 30
+Duration: -1
+
+ExplNorm: 242
+Power: 1
 Duration: -1;
 
 /66
@@ -2506,6 +2534,10 @@ AntiEffect: (110, 101)
 Effects:
 Damage: 1
 Power: 10
+Duration: -1
+
+ExplNorm: 242
+Power: 1
 Duration: -1;
 
 /67
@@ -2560,7 +2592,7 @@ Negative: 1
 OnEnemy: 1
 OnAlly: 0
 Sacrifice: 1
-ResistPower: 200
+ResistPower: 100
 ResistDuration: 0
 DefencePower: 0
 RestoreOnly: 0
@@ -2604,35 +2636,31 @@ AntiEffect: (215)
 
 Effects:
 Attack: 2
-Power: -4
-Duration: 5
+Power: -6
+Duration: 6
 
 CounterAttack: 3
-Power: -4
-Duration: 5
+Power: -6
+Duration: 6
 
 Defence: 4
-Power: -4
-Duration: 5
+Power: -6
+Duration: 6
 
 RangedDefence: 5
-Power: -4
-Duration: 5
+Power: -6
+Duration: 6
 
 Resist: 6
-Power: -4
-Duration: 5
+Power: -6
+Duration: 6
 
 RangedAttack: 8
-Power: -4
-Duration: 5
+Power: -6
+Duration: 6
 
-Stamina: 11
-Power: 4
-Duration: -1
-
-Morale: 12
-Power: 4
+Corruption: 245
+Power: 1
 Duration: -1;
 
 /70
@@ -2813,7 +2841,7 @@ Target: 3
 Area: 1
 Radius: 2
 Karma: 0
-Building: 178
+Building: 0
 Unloot: 0
 Negative: 1
 OnEnemy: 1
@@ -2854,7 +2882,7 @@ Target: 5
 Area: 1
 Radius: 0
 Karma: 0
-Building: 0
+Building: 134
 Unloot: 0
 Negative: 0
 OnEnemy: 0
@@ -2872,7 +2900,11 @@ AntiEffect: (0)
 Effects:
 Summon: 1071
 Power: 0
-Duration: -1;
+Duration: -1
+
+NoCastOnSelf: 149
+Power: 1
+Duration: 2;
 
 /77
 Name: Summon Phoenix;
@@ -2887,7 +2919,7 @@ Target: 5
 Area: 1
 Radius: 0
 Karma: 0
-Building: 0
+Building: 175
 Unloot: 0
 Negative: 0
 OnEnemy: 0
@@ -3248,6 +3280,10 @@ Damage: 1
 Power: 7
 Duration: -1
 
+ExplNorm: 242
+Power: 1
+Duration: -1
+
 Damage: 145
 Power: 1
 Duration: 3;
@@ -3298,8 +3334,8 @@ Target: 1
 Area: 0
 Radius: 0
 Karma: -1
-Building: -133
-Unloot: 1
+Building: 136
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -3389,16 +3425,16 @@ Name: Recovery;
 Cost: 2
 LifeCost: 0
 StamCost: 1
-ItemLevel: 8
-Level: 5
-PowerMod: 200
+ItemLevel: 2
+Level: 1
+PowerMod: 100
 DurationMod: 0
 Target: 1
 Area: 1
 Radius: 0
 Karma: 1
-Building: 0
-Unloot: 1
+Building: 285
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -3496,16 +3532,16 @@ Name: Summon Wasp Swarm;
 Cost: 5
 LifeCost: 0
 StamCost: 2
-ItemLevel: 8
-Level: 5
+ItemLevel: 3
+Level: 1
 PowerMod: 0
 DurationMod: 100
 Target: 1
 Area: 1
 Radius: 0
 Karma: 0
-Building: 0
-Unloot: 1
+Building: 285
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -3520,33 +3556,25 @@ UnitKind: (2, 4, 22, 23)
 AntiEffect: (0)
 
 Effects:
-NoRangedAttack: 151
-Power: 1
-Duration: 2
-
-Damage: 1
-Power: -2
-Duration: 2
-
-Damage: 1
-Power: -2
-Duration: -1;
+RangedAttack: 8
+Power: -100
+Duration: 3;
 
 /95
 Name: Summon Wasp Cloud;
 Cost: 19
 LifeCost: 0
 StamCost: 2
-ItemLevel: 8
-Level: 5
+ItemLevel: 4
+Level: 3
 PowerMod: 0
 DurationMod: 100
-Target: 0
-Area: 2
-Radius: 0
+Target: 3
+Area: 1
+Radius: 1
 Karma: 0
-Building: 0
-Unloot: 1
+Building: 287
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -3561,17 +3589,9 @@ UnitKind: (2, 4, 22, 23)
 AntiEffect: (0)
 
 Effects:
-NoRangedAttack: 151
-Power: 1
-Duration: 2
-
-Damage: 1
-Power: -2
-Duration: 2
-
-Damage: 1
-Power: -2
-Duration: -1;
+RangedAttack: 8
+Power: -100
+Duration: 4;
 
 /96
 Name: Life Breath;
@@ -3611,25 +3631,25 @@ Power: 1
 Duration: -1;
 
 /97
-Name: Shadow Thief;
-Cost: 4
+Name: Astral Thief;
+Cost: 5
 LifeCost: 0
-StamCost: 2
-ItemLevel: 8
-Level: 5
+StamCost: 1
+ItemLevel: 2
+Level: 1
 PowerMod: 50
 DurationMod: 0
 Target: 1
 Area: 1
 Radius: 0
 Karma: 0
-Building: 0
+Building: 23
 Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
 Sacrifice: 0
-ResistPower: 25
+ResistPower: 20
 ResistDuration: 0
 DefencePower: 0
 RestoreOnly: 0
@@ -3639,8 +3659,12 @@ UnitKind: (19)
 AntiEffect: (110)
 
 Effects:
-Ammo: 148
-Power: 8
+FlagAmmo: 298
+FlagAmmo: 3
+Duration: -1
+
+AmmoStealing: 148
+Power: 3
 Duration: -1;
 
 /98
@@ -3923,7 +3947,7 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 112
-UnitKind: (4, 22, 23, 27)
+UnitKind: (-10)
 AntiEffect: (110)
 
 Effects:
@@ -3935,8 +3959,8 @@ RangedDefence: 5
 Power: 2
 Duration: 2
 
-FirstAid: 35
-Power: 4
+Regen: 48
+Power: 2
 Duration: 2;
 
 /106
@@ -3974,7 +3998,11 @@ Duration: -1
 
 Damage: 145
 Power: 1
-Duration: 3;
+Duration: 3
+
+ExplBig: 243
+Power: 1
+Duration: -1;
 
 /107
 Name: Rage;
@@ -3992,7 +4020,7 @@ Karma: 0
 Building: 0
 Unloot: 1
 Negative: 0
-OnEnemy: 0
+OnEnemy: 1
 OnAlly: 1
 Sacrifice: 0
 ResistPower: 0
@@ -4009,11 +4037,19 @@ Resist: 6
 Power: 2
 Duration: 2
 
+Speed: 7
+Power: 1
+Duration: 2
+
 Fearless: 19
 Power: 1
 Duration: 2
 
 Fear: 50
+Power: 1
+Duration: 2
+
+NoRangedAttack: 151
 Power: 1
 Duration: 2
 
@@ -4034,8 +4070,8 @@ Target: 1
 Area: 1
 Radius: 0
 Karma: 0
-Building: -136
-Unloot: 1
+Building: 0
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -4338,23 +4374,23 @@ AntiEffect: (110)
 
 Effects:
 Poison: 1
-Power: -3
-Duration: 4
+Power: -5
+Duration: 6
 
 Stamina: 11
-Power: -1
-Duration: 4
+Power: -3
+Duration: 6
 
 Attack: 2
-Power: -3
+Power: -5
 Duration: 4
 
 CounterAttack: 3
-Power: -3
+Power: -5
 Duration: 4
 
 RangedAttack: 8
-Power: -3
+Power: -5
 Duration: 4
 
 Speed: 7
@@ -4374,8 +4410,8 @@ Target: 3
 Area: 1
 Radius: 1
 Karma: 0
-Building: -132
-Unloot: 1
+Building: 0
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -4719,19 +4755,19 @@ Name: Thick Fog;
 Cost: 16
 LifeCost: 0
 StamCost: 3
-ItemLevel: 8
-Level: 5
+ItemLevel: 4
+Level: 4
 PowerMod: 0
-DurationMod: 100
+DurationMod: 50
 Target: 0
 Area: 2
 Radius: 0
 Karma: 0
-Building: 0
-Unloot: 1
+Building: 288
+Unloot: 0
 Negative: 1
 OnEnemy: 1
-OnAlly: 0
+OnAlly: 1
 Sacrifice: 0
 ResistPower: 0
 ResistDuration: 0
@@ -4740,12 +4776,12 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 131
 UnitKind: (0)
-AntiEffect: (28)
+AntiEffect: (0)
 
 Effects:
-RangedAttack: 8
-Power: -5
-Duration: 3;
+NoRangedAttack: 151
+Power: 1
+Duration: 4;
 
 /126
 Name: Double Shot;
@@ -4926,6 +4962,10 @@ AntiEffect: (110, 103)
 Effects:
 Damage: 1
 Power: 6
+Duration: -1
+
+LightningSmall: 248
+Power: 1
 Duration: -1;
 
 /131
@@ -4959,6 +4999,10 @@ AntiEffect: (110, 103)
 Effects:
 Damage: 1
 Power: 18
+Duration: -1
+
+Lightning: 244
+Power: 1
 Duration: -1;
 
 /132
@@ -4992,23 +5036,27 @@ AntiEffect: (110, 103)
 Effects:
 Damage: 1
 Power: 16
+Duration: -1
+
+Lightning: 244
+Power: 1
 Duration: -1;
 
 /133
-Name: Frenzy;
-Cost: 3
+Name: Poison Claw;
+Cost: 8
 LifeCost: 0
-StamCost: 1
-ItemLevel: 8
-Level: 5
+StamCost: 2
+ItemLevel: 2
+Level: 2
 PowerMod: 0
 DurationMod: 100
 Target: 1
 Area: 1
 Radius: 0
 Karma: 0
-Building: 0
-Unloot: 1
+Building: 286
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -5018,185 +5066,17 @@ ResistDuration: 0
 DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
-Sound: 139
-UnitKind: (2, 4, 22, 23)
-AntiEffect: (110)
+Sound: 145
+UnitKind: (-19)
+AntiEffect: (0)
 
 Effects:
-Attack: 2
-Power: 3
-Duration: 4
-
-CounterAttack: 3
-Power: 3
+Poison_Strike: 41
+Power: 5
 Duration: 4;
 
 /134
-Name: Bloodlust;
-Cost: 7
-LifeCost: 0
-StamCost: 1
-ItemLevel: 8
-Level: 5
-PowerMod: 0
-DurationMod: 100
-Target: 1
-Area: 1
-Radius: 0
-Karma: 0
-Building: 0
-Unloot: 1
-Negative: 0
-OnEnemy: 0
-OnAlly: 1
-Sacrifice: 0
-ResistPower: 0
-ResistDuration: 0
-DefencePower: 0
-RestoreOnly: 0
-Cumulative: 0
-Sound: 140
-UnitKind: (2, 4, 22, 23)
-AntiEffect: (110, 215)
-
-Effects:
-Attack: 2
-Power: 3
-Duration: 4
-
-CounterAttack: 3
-Power: 3
-Duration: 4
-
-Speed: 7
-Power: 1
-Duration: 4
-
-DrainLife: 68
-Power: 25
-Duration: 4;
-
-/135
-Name: Snare;
-Cost: 5
-LifeCost: 0
-StamCost: 1
-ItemLevel: 8
-Level: 5
-PowerMod: 0
-DurationMod: 1
-Target: 1
-Area: 1
-Radius: 0
-Karma: 0
-Building: 0
-Unloot: 1
-Negative: 1
-OnEnemy: 1
-OnAlly: 0
-Sacrifice: 0
-ResistPower: 0
-ResistDuration: 0
-DefencePower: 0
-RestoreOnly: 0
-Cumulative: 0
-Sound: 141
-UnitKind: (27)
-AntiEffect: (14, 15, 80)
-
-Effects:
-Speed: 7
-Power: -1
-Duration: 2
-
-Damage: 1
-Power: -3
-Duration: -1;
-
-/136
-Name: Trap;
-Cost: 9
-LifeCost: 0
-StamCost: 1
-ItemLevel: 8
-Level: 5
-PowerMod: 0
-DurationMod: 1
-Target: 1
-Area: 1
-Radius: 0
-Karma: 0
-Building: 0
-Unloot: 1
-Negative: 1
-OnEnemy: 1
-OnAlly: 0
-Sacrifice: 0
-ResistPower: 0
-ResistDuration: 0
-DefencePower: 0
-RestoreOnly: 0
-Cumulative: 0
-Sound: 142
-UnitKind: (27)
-AntiEffect: (14, 15, 80)
-
-Effects:
-Speed: 7
-Power: -1
-Duration: 2
-
-Damage: 1
-Power: -2
-Duration: 2
-
-Stamina: 11
-Power: -1
-Duration: 2
-
-Damage: 1
-Power: -5
-Duration: -1;
-
-/137
-Name: Swamp Poison;
-Cost: 12
-LifeCost: 0
-StamCost: 1
-ItemLevel: 8
-Level: 5
-PowerMod: 0
-DurationMod: 100
-Target: 1
-Area: 1
-Radius: 0
-Karma: 0
-Building: 0
-Unloot: 1
-Negative: 1
-OnEnemy: 1
-OnAlly: 0
-Sacrifice: 0
-ResistPower: 0
-ResistDuration: 0
-DefencePower: 0
-RestoreOnly: 0
-Cumulative: 0
-Sound: 143
-UnitKind: (0)
-AntiEffect: (110, 108)
-
-Effects:
-Speed: 7
-Power: -1
-Duration: 3
-
-Stamina: 11
-Power: -5
-Duration: 3;
-
-/138
-Name: Regeneration;
+Name: Swamp Blood;
 Cost: 7
 LifeCost: 0
 StamCost: 1
@@ -5221,30 +5101,88 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 144
 UnitKind: (2, 4, 22, 23)
-AntiEffect: (110)
+AntiEffect: (0)
 
 Effects:
-Regen: 1
-Power: 4
-Duration: 4
-
-Stamina: 11
-Power: 1
-Duration: 4
-
-Resist: 6
-Power: 1
-Duration: 4
-
 Poison_Immun: 108
 Power: 1
-Duration: 4;
+Duration: 4
 
-/139
-Name: Poison Weapon;
-Cost: 8
+Morale: 12
+Power: -3
+Duration: -1;
+
+/135
+Name: Trap;
+Cost: 5
 LifeCost: 0
-StamCost: 2
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 200
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Unloot: 1
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 141
+UnitKind: (0)
+AntiEffect: (14, 15, 80)
+
+Effects:
+Damage: 1
+Power: 4
+Duration: -1;
+
+/136
+Name: Snare;
+Cost: 9
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 200
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Unloot: 1
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 142
+UnitKind: (0)
+AntiEffect: (14, 15, 18, 80)
+
+Effects:
+Stamina: 11
+Power: 5
+Duration: -1;
+
+/137
+Name: Hornet swarm;
+Cost: 12
+LifeCost: 0
+StamCost: 1
 ItemLevel: 8
 Level: 5
 PowerMod: 0
@@ -5252,7 +5190,52 @@ DurationMod: 100
 Target: 1
 Area: 1
 Radius: 0
-Karma: -1
+Karma: 0
+Building: 0
+Unloot: 1
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 1
+Sound: 143
+UnitKind: (2, 4, 22, 23, 27)
+AntiEffect: (0)
+
+Effects:
+Poison: 1
+Power: -2
+Duration: 3
+
+Stamina: 11
+Power: -1
+Duration: 3
+
+PoisonAnim: 241
+Power: 1
+Duration: 3
+
+Itch: 249
+Power: 1
+Duration: 3;
+
+/138
+Name: Voracity;
+Cost: 7
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
 Building: 0
 Unloot: 1
 Negative: 0
@@ -5264,14 +5247,47 @@ ResistDuration: 0
 DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
-Sound: 145
-UnitKind: (0)
-AntiEffect: (110)
+Sound: 139
+UnitKind: (-19)
+AntiEffect: (0)
 
 Effects:
-Poison_Strike: 41
-Power: 3
-Duration: 3;
+Corpse_Eat: 226
+Power: 10
+Duration: 4;
+
+/139
+Name: Prod;
+Cost: 8
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Unloot: 1
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 140
+UnitKind: (-19)
+AntiEffect: (0)
+
+Effects:
+AddTurn: 75
+Power: 1
+Duration: -1;
 
 /140
 Name: Devour;
@@ -5381,19 +5397,19 @@ Power: 15
 Duration: -1;
 
 /143
-Name: Demon Slayer;
+Name: Wicked's Bane;
 Cost: 2
 LifeCost: 0
 StamCost: 1
-ItemLevel: 1
-Level: 1
-PowerMod: 0
-DurationMod: 50
+ItemLevel: 2
+Level: 2
+PowerMod: 50
+DurationMod: 0
 Target: 1
 Area: 1
 Radius: 0
 Karma: 0
-Building: 0
+Building: 85
 Unloot: 0
 Negative: 0
 OnEnemy: 0
@@ -5410,16 +5426,16 @@ AntiEffect: (0)
 
 Effects:
 Smite_Evil: 120
-Power: 1
-Duration: 6
+Power: 2
+Duration: 3
 
 UndeadHunter: 202
-Power: 1
-Duration: 6
+Power: 2
+Duration: 3
 
 DemonHunter: 203
 Power: 2
-Duration: 6;
+Duration: 3;
 
 /144
 Name: Grace;
@@ -5513,7 +5529,7 @@ Duration: 4;
 
 /146
 Name: Armor of Faith;
-Cost: 5
+Cost: 8
 LifeCost: 0
 StamCost: 1
 ItemLevel: 3
@@ -5541,8 +5557,8 @@ AntiEffect: (110)
 
 Effects:
 HeavenlyArmor: 232
-Power: 25
-Duration: 4;
+Power: 50
+Duration: 5;
 
 /147
 Name: True Resurrection;
@@ -5676,7 +5692,7 @@ Target: 3
 Area: 1
 Radius: 2
 Karma: 0
-Building: 0
+Building: 173
 Unloot: 0
 Negative: 1
 OnEnemy: 1
@@ -5808,16 +5824,16 @@ Name: Summon Wyvern;
 Cost: 35
 LifeCost: 0
 StamCost: 6
-ItemLevel: 8
-Level: 5
+ItemLevel: 4
+Level: 4
 PowerMod: 100
 DurationMod: 0
-Target: 4
+Target: 5
 Area: 1
 Radius: 0
 Karma: 0
-Building: 0
-Unloot: 1
+Building: 288
+Unloot: 0
 Negative: 0
 OnEnemy: 1
 OnAlly: 1
@@ -5871,30 +5887,34 @@ Duration: -1
 
 Damage: 145
 Power: 1
-Duration: 3;
+Duration: 3
+
+ExplNorm: 242
+Power: 1
+Duration: -1;
 
 /156
 Name: Chilling Lightning;
-Cost: 40
+Cost: 18
 LifeCost: 0
 StamCost: 1
-ItemLevel: 8
-Level: 5
+ItemLevel: 4
+Level: 3
 PowerMod: 100
 DurationMod: 0
 Target: 1
 Area: 1
 Radius: 0
 Karma: 0
-Building: 0
-Unloot: 1
+Building: 132
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
 Sacrifice: 0
-ResistPower: 0
+ResistPower: 100
 ResistDuration: 0
-DefencePower: 100
+DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 110
@@ -6003,6 +6023,10 @@ AntiEffect: (110, 103)
 Effects:
 Damage: 1
 Power: 12
+Duration: -1
+
+Lightning: 244
+Power: 1
 Duration: -1;
 
 /160
@@ -6036,48 +6060,52 @@ AntiEffect: (110, 103)
 Effects:
 Damage: 1
 Power: 15
+Duration: -1
+
+Lightning: 244
+Power: 1
 Duration: -1;
 
 /161
 Name: Head Wind;
-Cost: 8
+Cost: 2
 LifeCost: 0
-StamCost: 2
-ItemLevel: 2
-Level: 1
+StamCost: 1
+ItemLevel: 8
+Level: 5
 PowerMod: 0
-DurationMod: 1
+DurationMod: 100
 Target: 1
 Area: 1
 Radius: 0
 Karma: 0
 Building: 0
-Unloot: 0
+Unloot: 1
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
 Sacrifice: 0
 ResistPower: 0
-ResistDuration: 0
+ResistDuration: 100
 DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
-Sound: 156
+Sound: 7
 UnitKind: (0)
-AntiEffect: (110, 103, 80)
+AntiEffect: (110)
 
 Effects:
-ShootingAttack: 8
-Power: -1
-Duration: 5
+Speed: 7
+Power: -2
+Duration: 6
 
 ShootingRange: 9
 Power: -1
-Duration: 5
+Duration: 6
 
-Speed: 7
+Stamina: 11
 Power: -1
-Duration: 5;
+Duration: 6;
 
 /162
 Name: Sluggishness;
@@ -6221,7 +6249,11 @@ Duration: -1
 
 Damage: 145
 Power: 1
-Duration: 3;
+Duration: 3
+
+Stamina: 246
+Power: 1
+Duration: -1;
 
 /166
 Name: Mass Fire Immunity;
@@ -6295,7 +6327,11 @@ Duration: -1
 
 Damage: 145
 Power: 2
-Duration: 3;
+Duration: 3
+
+ExplNorm: 242
+Power: 1
+Duration: -1;
 
 /168
 Name: Summon Air Elemental;
@@ -6442,8 +6478,8 @@ Target: 5
 Area: 1
 Radius: 0
 Karma: -3
-Building: -176
-Unloot: 1
+Building: 176
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -6994,7 +7030,7 @@ Target: 1
 Area: 1
 Radius: 0
 Karma: 0
-Building: -19
+Building: 0
 Unloot: 1
 Negative: 0
 OnEnemy: 0
@@ -7399,10 +7435,10 @@ Power: 0
 Duration: -1;
 
 /197
-Name: Magic Crystal;
-Cost: 35
+Name: Dark Crystal;
+Cost: 15
 LifeCost: 0
-StamCost: 4
+StamCost: 3
 ItemLevel: 8
 Level: 5
 PowerMod: 100
@@ -7412,7 +7448,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
-Unloot: 1
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -7592,8 +7628,8 @@ Target: 0
 Area: 2
 Radius: 0
 Karma: 0
-Building: -134
-Unloot: 1
+Building: 134
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -7843,8 +7879,8 @@ Target: 1
 Area: 1
 Radius: 0
 Karma: 0
-Building: -177
-Unloot: 1
+Building: 177
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -7913,7 +7949,7 @@ Target: 0
 Area: 2
 Radius: 0
 Karma: -1
-Building: 0
+Building: 137
 Unloot: 0
 Negative: 0
 OnEnemy: 0
@@ -7983,8 +8019,8 @@ Target: 1
 Area: 1
 Radius: 0
 Karma: 0
-Building: -137
-Unloot: 1
+Building: 137
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -8049,7 +8085,7 @@ Target: 0
 Area: 2
 Radius: 0
 Karma: 0
-Building: 0
+Building: 287
 Unloot: 0
 Negative: 0
 OnEnemy: 0
@@ -8090,7 +8126,7 @@ Target: 0
 Area: 2
 Radius: 0
 Karma: 1
-Building: 173
+Building: 0
 Unloot: 0
 Negative: 1
 OnEnemy: 1
@@ -8127,19 +8163,19 @@ Power: -10
 Duration: 5;
 
 /217
-Name: Fetters;
-Cost: 30
+Name: Hunter's Vine;
+Cost: 10
 LifeCost: 0
 StamCost: 4
-ItemLevel: 4
+ItemLevel: 3
 Level: 2
 PowerMod: 0
-DurationMod: 200
+DurationMod: 50
 Target: 3
 Area: 1
 Radius: 1
 Karma: 0
-Building: 0
+Building: 286
 Unloot: 0
 Negative: 1
 OnEnemy: 1
@@ -8152,16 +8188,16 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 188
 UnitKind: (0)
-AntiEffect: (110, 105)
+AntiEffect: (110, 107, 14, 15)
 
 Effects:
-Web: 47
-Power: 0
-Duration: 8;
+Roots: 159
+Power: 1
+Duration: 4;
 
 /218
 Name: Spectral Blade;
-Cost: 6
+Cost: 8
 LifeCost: 0
 StamCost: 2
 ItemLevel: 3
@@ -8172,7 +8208,7 @@ Target: 1
 Area: 1
 Radius: 0
 Karma: 0
-Building: 0
+Building: 80
 Unloot: 0
 Negative: 1
 OnEnemy: 1
@@ -8189,7 +8225,7 @@ AntiEffect: (0)
 
 Effects:
 Damage: 1
-Power: 11
+Power: 12
 Duration: -1;
 
 /219
@@ -8205,8 +8241,8 @@ Target: 3
 Area: 1
 Radius: 2
 Karma: 2
-Building: -173
-Unloot: 1
+Building: 173
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -8255,9 +8291,9 @@ Duration: -1;
 
 /220
 Name: Heroism;
-Cost: 16
+Cost: 8
 LifeCost: 0
-StamCost: 3
+StamCost: 1
 ItemLevel: 3
 Level: 2
 PowerMod: 0
@@ -8266,8 +8302,8 @@ Target: 1
 Area: 1
 Radius: 0
 Karma: 0
-Building: -81
-Unloot: 1
+Building: 81
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -8460,7 +8496,7 @@ Duration: 4;
 
 /225
 Name: Cat's Reflexes;
-Cost: 8
+Cost: 4
 LifeCost: 0
 StamCost: 1
 ItemLevel: 2
@@ -8471,8 +8507,8 @@ Target: 1
 Area: 1
 Radius: 0
 Karma: 0
-Building: -23
-Unloot: 1
+Building: 23
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -8713,7 +8749,7 @@ Name: Mass Life Drain;
 Cost: 60
 LifeCost: 0
 StamCost: 4
-ItemLevel: 5
+ItemLevel: 4
 Level: 4
 PowerMod: 100
 DurationMod: 0
@@ -8721,8 +8757,8 @@ Target: 0
 Area: 2
 Radius: 0
 Karma: -2
-Building: -174
-Unloot: 1
+Building: 0
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -8758,8 +8794,8 @@ Target: 1
 Area: 1
 Radius: 0
 Karma: 0
-Building: -84
-Unloot: 1
+Building: 84
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -8789,8 +8825,8 @@ LifeCost: 0
 StamCost: 2
 ItemLevel: 3
 Level: 3
-PowerMod: 0
-DurationMod: 100
+PowerMod: 100
+DurationMod: 0
 Target: 0
 Area: 2
 Radius: 0
@@ -8812,11 +8848,11 @@ AntiEffect: (110)
 
 Effects:
 Attack: 2
-Power: 2
+Power: 1
 Duration: 5
 
 CounterAttack: 3
-Power: 2
+Power: 1
 Duration: 5
 
 RangedAttack: 8
@@ -8833,11 +8869,7 @@ Duration: 5
 
 Resist: 6
 Power: 1
-Duration: 5
-
-Stamina: 11
-Power: 2
-Duration: -1;
+Duration: 5;
 
 /234
 Name: Healing Sleep;
@@ -8983,7 +9015,7 @@ Target: 0
 Area: 2
 Radius: 0
 Karma: -1
-Building: 0
+Building: 133
 Unloot: 0
 Negative: 0
 OnEnemy: 0
@@ -9024,8 +9056,8 @@ Target: 1
 Area: 1
 Radius: 0
 Karma: 0
-Building: -24
-Unloot: 1
+Building: 24
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -9036,22 +9068,22 @@ DefencePower: 0
 RestoreOnly: 1
 Cumulative: 0
 Sound: 209
-UnitKind: (-3, 21)
+UnitKind: (-3)
 AntiEffect: (110)
 
 Effects:
-Stamina: 11
+AddTurn: 75
 Power: 1
 Duration: -1
 
-AddTurn: 75
-Power: 1
-Duration: -1;
+BurnAmmo: 252
+FlagEffect: 1
+FlagEffect: -1;
 
 /239
 Name: Hellfire;
-Cost: 60
-LifeCost: 15
+Cost: 35
+LifeCost: 10
 StamCost: 6
 ItemLevel: 5
 Level: 3
@@ -9061,7 +9093,7 @@ Target: 3
 Area: 1
 Radius: 1
 Karma: -1
-Building: 0
+Building: 133
 Unloot: 0
 Negative: 1
 OnEnemy: 1
@@ -9083,7 +9115,11 @@ Duration: -1
 
 Damage: 145
 Power: 3
-Duration: 3;
+Duration: 3
+
+ExplBig: 243
+Power: 1
+Duration: -1;
 
 /240
 Name: Volcano;
@@ -9116,6 +9152,10 @@ AntiEffect: (101)
 Effects:
 Damage: 1
 Power: 10
+Duration: -1
+
+ExplNorm: 242
+Power: 1
 Duration: -1;
 
 /241
@@ -9230,7 +9270,7 @@ Target: 1
 Area: 1
 Radius: 0
 Karma: 0
-Building: -21
+Building: 0
 Unloot: 1
 Negative: 0
 OnEnemy: 0
@@ -9312,8 +9352,8 @@ Target: 3
 Area: 1
 Radius: 1
 Karma: 0
-Building: -82
-Unloot: 1
+Building: 82
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -9345,8 +9385,8 @@ Target: 0
 Area: 2
 Radius: 0
 Karma: 0
-Building: -85
-Unloot: 1
+Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -9415,8 +9455,8 @@ Target: 3
 Area: 1
 Radius: 1
 Karma: 0
-Building: -80
-Unloot: 1
+Building: 0
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -9695,7 +9735,7 @@ AntiEffect: (14, 15, 101)
 
 Effects:
 Damage: 1
-Power: 7
+Power: -7
 Duration: 3
 
 Speed: 7
@@ -9737,6 +9777,10 @@ AntiEffect: (101)
 Effects:
 Damage: 1
 Power: 15
+Duration: -1
+
+ExplNorm: 242
+Power: 1
 Duration: -1;
 
 /258
@@ -9774,9 +9818,9 @@ Duration: -1;
 
 /259
 Name: Natural Weapon;
-Cost: 8
+Cost: 6
 LifeCost: 0
-StamCost: 2
+StamCost: 1
 ItemLevel: 3
 Level: 2
 PowerMod: 0
@@ -9785,7 +9829,7 @@ Target: 1
 Area: 1
 Radius: 0
 Karma: 0
-Building: 0
+Building: 286
 Unloot: 0
 Negative: 0
 OnEnemy: 0
@@ -9828,13 +9872,13 @@ LifeCost: 0
 StamCost: 2
 ItemLevel: 2
 Level: 1
-PowerMod: 0
-DurationMod: 100
+PowerMod: 50
+DurationMod: 0
 Target: 1
 Area: 1
 Radius: 0
 Karma: 0
-Building: 0
+Building: 285
 Unloot: 0
 Negative: 0
 OnEnemy: 0
@@ -9852,23 +9896,23 @@ AntiEffect: (110)
 Effects:
 Attack: 2
 Power: 1
-Duration: 4
+Duration: 6
 
 CounterAttack: 3
 Power: 1
-Duration: 4
+Duration: 6
 
 RangedAttack: 8
 Power: 1
-Duration: 4
+Duration: 6
 
 MagicStrike: 27
 Power: 1
-Duration: 4
+Duration: 6
 
 MagicShoot: 28
 Power: 1
-Duration: 4;
+Duration: 6;
 
 /261
 Name: Demonic Howl;
@@ -9949,8 +9993,8 @@ Target: 1
 Area: 1
 Radius: 0
 Karma: 0
-Building: -83
-Unloot: 1
+Building: 83
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -9965,28 +10009,8 @@ UnitKind: (-1)
 AntiEffect: (110)
 
 Effects:
-Immobile: 36
+StoneCrust: 225
 Power: 1
-Duration: 4
-
-DontFight: 38
-Power: 1
-Duration: 4
-
-Defence: 4
-Power: 4
-Duration: 4
-
-RangedDefence: 5
-Power: 4
-Duration: 4
-
-Resist: 6
-Power: 2
-Duration: 4
-
-Damage: 1
-Power: -4
 Duration: 4;
 
 /264
@@ -10020,15 +10044,15 @@ AntiEffect: (110)
 Effects:
 Cold_Immunity: 102
 Power: 1
-Duration: 2
+Duration: 3
 
 Defence: 4
 Power: 1
-Duration: 2
+Duration: 3
 
 Heal: 1
 Power: 1
-Duration: 2;
+Duration: 3;
 
 /265
 Name: Mass Grounding;
@@ -10076,7 +10100,7 @@ Name: Elemental Immunity;
 Cost: 45
 LifeCost: 0
 StamCost: 5
-ItemLevel: 4
+ItemLevel: 5
 Level: 4
 PowerMod: 0
 DurationMod: 100
@@ -10084,8 +10108,8 @@ Target: 0
 Area: 2
 Radius: 0
 Karma: 0
-Building: -175
-Unloot: 1
+Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -10137,8 +10161,8 @@ Target: 3
 Area: 1
 Radius: 1
 Karma: 0
-Building: -178
-Unloot: 1
+Building: 178
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -10273,15 +10297,15 @@ Name: Magic Stream;
 Cost: 10
 LifeCost: 0
 StamCost: 3
-ItemLevel: 3
-Level: 2
-PowerMod: 100
+ItemLevel: 4
+Level: 3
+PowerMod: 200
 DurationMod: 0
 Target: 1
 Area: 1
 Radius: 0
 Karma: 0
-Building: 0
+Building: 132
 Unloot: 0
 Negative: 1
 OnEnemy: 1
@@ -10302,7 +10326,7 @@ FlagEffect: 1
 FlagEffect: 1
 
 Damage: 1
-Power: 10
+Power: 15
 Duration: -1;
 
 /272
@@ -10412,8 +10436,8 @@ Duration: -1;
 Name: Summon Wolf;
 Cost: 5
 LifeCost: 0
-StamCost: 2
-ItemLevel: 3
+StamCost: 1
+ItemLevel: 2
 Level: 1
 PowerMod: 300
 DurationMod: 0
@@ -10421,7 +10445,7 @@ Target: 5
 Area: 1
 Radius: 0
 Karma: 0
-Building: 0
+Building: 285
 Unloot: 0
 Negative: 0
 OnEnemy: 0
@@ -10447,14 +10471,14 @@ Cost: 35
 LifeCost: 0
 StamCost: 5
 ItemLevel: 4
-Level: 2
+Level: 3
 PowerMod: 100
 DurationMod: 0
 Target: 5
 Area: 1
 Radius: 0
 Karma: 0
-Building: 0
+Building: 287
 Unloot: 0
 Negative: 0
 OnEnemy: 0
@@ -10509,7 +10533,11 @@ Duration: -1
 
 Damage: 145
 Power: 2
-Duration: 3;
+Duration: 3
+
+ExplNorm: 242
+Power: 1
+Duration: -1;
 
 /278
 Name: Strike of Pain;
@@ -10709,8 +10737,8 @@ Target: 4
 Area: 1
 Radius: 0
 Karma: -1
-Building: -22
-Unloot: 1
+Building: 22
+Unloot: 0
 Negative: 0
 OnEnemy: 1
 OnAlly: 1
@@ -10775,16 +10803,16 @@ Name: Summon Mephit;
 Cost: 5
 LifeCost: 0
 StamCost: 1
-ItemLevel: 1
+ItemLevel: 2
 Level: 1
-PowerMod: 100
+PowerMod: 200
 DurationMod: 0
 Target: 5
 Area: 1
 Radius: 0
 Karma: 0
-Building: -20
-Unloot: 1
+Building: 0
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -10844,7 +10872,7 @@ StamCost: 1
 ItemLevel: 8
 Level: 5
 PowerMod: 0
-DurationMod: 1
+DurationMod: 100
 Target: 1
 Area: 1
 Radius: 0
@@ -10866,7 +10894,7 @@ AntiEffect: (0)
 
 Effects:
 Attack: 2
-Power: 4
+Power: 2
 Duration: 3
 
 Defence: 4
@@ -10875,6 +10903,10 @@ Duration: 3
 
 RangedDefence: 5
 Power: 2
+Duration: 3
+
+Corpse_Eat: 226
+Power: 5
 Duration: 3
 
 Poison: 1
@@ -10935,22 +10967,22 @@ Power: 1
 Duration: 4;
 
 /289
-Name: Fierce Roar;
-Cost: 2
+Name: Magic Crystal;
+Cost: 15
 LifeCost: 0
-StamCost: 2
-ItemLevel: 8
-Level: 5
-PowerMod: 0
+StamCost: 3
+ItemLevel: 3
+Level: 2
+PowerMod: 100
 DurationMod: 0
-Target: 1
+Target: 5
 Area: 1
 Radius: 0
 Karma: 0
-Building: 0
-Unloot: 1
-Negative: 1
-OnEnemy: 1
+Building: 80
+Unloot: 0
+Negative: 0
+OnEnemy: 0
 OnAlly: 0
 Sacrifice: 0
 ResistPower: 0
@@ -10958,24 +10990,24 @@ ResistDuration: 0
 DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
-Sound: 253
+Sound: 19
 UnitKind: (0)
-AntiEffect: (19)
+AntiEffect: (0)
 
 Effects:
-Morale: 12
-Power: 6
+Summon: 1224
+Power: 0
 Duration: -1;
 
 /290
-Name: Fever;
-Cost: 5
+Name: Leprosy;
+Cost: 6
 LifeCost: 0
-StamCost: 3
-ItemLevel: 8
-Level: 5
+StamCost: 2
+ItemLevel: 3
+Level: 8
 PowerMod: 0
-DurationMod: 50
+DurationMod: 100
 Target: 1
 Area: 1
 Radius: 0
@@ -10986,8 +11018,8 @@ Negative: 1
 OnEnemy: 1
 OnAlly: 0
 Sacrifice: 0
-ResistPower: 50
-ResistDuration: 50
+ResistPower: 0
+ResistDuration: 100
 DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
@@ -10996,132 +11028,156 @@ UnitKind: (2, 4, 17, 22, 23)
 AntiEffect: (110)
 
 Effects:
-Poison: 1
-Power: -5
-Duration: 4
+Attack: 2
+Power: -2
+Duration: 6
 
-Damage: 1
-Power: 5
-Duration: -1;
+CounterAttack: 3
+Power: -2
+Duration: 6
+
+RangedAttack: 8
+Power: -2
+Duration: 6
+
+Resist: 6
+Power: -2
+Duration: 6
+
+ChangeMorale: 211
+Power: -2
+Duration: 6;
 
 /291
-Name: Exhaustion;
+Name: Fever Carrier;
 Cost: 12
 LifeCost: 0
-StamCost: 5
+StamCost: 1
 ItemLevel: 8
 Level: 5
 PowerMod: 0
-DurationMod: 50
+DurationMod: 100
 Target: 1
 Area: 1
 Radius: 0
-Karma: -3
+Karma: -2
 Building: 0
 Unloot: 1
-Negative: 1
-OnEnemy: 1
-OnAlly: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
 Sacrifice: 0
-ResistPower: 50
-ResistDuration: 50
+ResistPower: 0
+ResistDuration: 0
 DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 255
-UnitKind: (2, 4, 17, 22, 23)
-AntiEffect: (108)
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (0)
 
 Effects:
 Poison: 1
-Power: -10
+Power: -1
 Duration: 4
 
-Damage: 1
-Power: 10
-Duration: -1;
+Lay_LightDisease: 177
+Power: 1
+Duration: 4
+
+Intercept: 217
+Power: 1
+Duration: 4;
 
 /292
-Name: Black Plague;
-Cost: 18
+Name: Atrophy Carrier;
+Cost: 12
 LifeCost: 0
-StamCost: 4
+StamCost: 1
 ItemLevel: 8
 Level: 5
 PowerMod: 0
 DurationMod: 100
-Target: 3
+Target: 1
 Area: 1
-Radius: 1
-Karma: -3
+Radius: 0
+Karma: -2
 Building: 0
 Unloot: 1
-Negative: 1
-OnEnemy: 1
+Negative: 0
+OnEnemy: 0
 OnAlly: 1
 Sacrifice: 0
-ResistPower: 50
-ResistDuration: 50
+ResistPower: 0
+ResistDuration: 0
 DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 256
-UnitKind: (2, 4, 17, 22, 23)
+UnitKind: (2, 4, 22, 23)
 AntiEffect: (0)
 
 Effects:
-Poison: 1
-Power: -10
+Poison: 11
+Power: -1
 Duration: 4
 
-Damage: 1
-Power: 10
-Duration: -1;
+Lay_Disease: 178
+Power: 1
+Duration: 4
+
+FirstStrike: 16
+Power: 1
+Duration: 4;
 
 /293
-Name: Pestilence;
-Cost: 24
+Name: Leprosy Carrier;
+Cost: 12
 LifeCost: 0
-StamCost: 6
+StamCost: 1
 ItemLevel: 8
 Level: 5
 PowerMod: 0
 DurationMod: 100
-Target: 3
+Target: 1
 Area: 1
-Radius: 2
-Karma: -5
+Radius: 0
+Karma: -2
 Building: 0
 Unloot: 1
-Negative: 1
-OnEnemy: 1
+Negative: 0
+OnEnemy: 0
 OnAlly: 1
 Sacrifice: 0
-ResistPower: 50
-ResistDuration: 50
+ResistPower: 0
+ResistDuration: 0
 DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 257
-UnitKind: (2, 4, 17, 22, 23)
+UnitKind: (2, 4, 22, 23)
 AntiEffect: (0)
 
 Effects:
-Poison: 1
-Power: -15
+Poison: 211
+Power: -1
 Duration: 4
 
-Damage: 1
-Power: 15
-Duration: -1;
+Lay_HeavyDisease: 176
+Power: 1
+Duration: 4
+
+Agility: 26
+Power: 1
+Duration: 4;
 
 /294
 Name: Summon Rat;
 Cost: 5
 LifeCost: 0
 StamCost: 2
-ItemLevel: 8
-Level: 5
+ItemLevel: 3
+Level: 1
 PowerMod: 100
 DurationMod: 0
 Target: 5
@@ -11129,7 +11185,7 @@ Area: 1
 Radius: 0
 Karma: 0
 Building: 0
-Unloot: 1
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
@@ -11146,160 +11202,24 @@ AntiEffect: (0)
 Effects:
 Summon: 1222
 Power: 0
-Duration: -1
-
-NoCastOnSelf: 149
-Power: 1
-Duration: 2;
+Duration: -1;
 
 /295
-Name: Summon Ratman;
-Cost: 5
+Name: Fever Hotbed;
+Cost: 12
 LifeCost: 0
-StamCost: 3
+StamCost: 2
 ItemLevel: 8
 Level: 5
-PowerMod: 100
-DurationMod: 0
-Target: 5
+PowerMod: 0
+DurationMod: 100
+Target: 3
 Area: 1
-Radius: 0
-Karma: 0
+Radius: 1
+Karma: -3
 Building: 0
 Unloot: 1
 Negative: 0
-OnEnemy: 0
-OnAlly: 0
-Sacrifice: 0
-ResistPower: 0
-ResistDuration: 0
-DefencePower: 0
-RestoreOnly: 0
-Cumulative: 0
-Sound: 19
-UnitKind: (0)
-AntiEffect: (0)
-
-Effects:
-Summon: 1221
-Power: 0
-Duration: -1;
-
-/296
-Name: Summon Shadow Claw;
-Cost: 5
-LifeCost: 0
-StamCost: 4
-ItemLevel: 8
-Level: 5
-PowerMod: 100
-DurationMod: 0
-Target: 5
-Area: 1
-Radius: 0
-Karma: 0
-Building: 0
-Unloot: 1
-Negative: 0
-OnEnemy: 0
-OnAlly: 0
-Sacrifice: 0
-ResistPower: 0
-ResistDuration: 0
-DefencePower: 0
-RestoreOnly: 0
-Cumulative: 0
-Sound: 19
-UnitKind: (0)
-AntiEffect: (0)
-
-Effects:
-Summon: 1225
-Power: 0
-Duration: -1;
-
-/297
-Name: Summon Rat King;
-Cost: 5
-LifeCost: 0
-StamCost: 6
-ItemLevel: 8
-Level: 5
-PowerMod: 100
-DurationMod: 0
-Target: 5
-Area: 1
-Radius: 0
-Karma: 0
-Building: 0
-Unloot: 1
-Negative: 0
-OnEnemy: 0
-OnAlly: 0
-Sacrifice: 0
-ResistPower: 0
-ResistDuration: 0
-DefencePower: 0
-RestoreOnly: 0
-Cumulative: 0
-Sound: 19
-UnitKind: (0)
-AntiEffect: (0)
-
-Effects:
-Summon: 1233
-Power: 0
-Duration: -1;
-
-/298
-Name: Summon Rat Reaper;
-Cost: 5
-LifeCost: 0
-StamCost: 5
-ItemLevel: 8
-Level: 5
-PowerMod: 100
-DurationMod: 0
-Target: 5
-Area: 1
-Radius: 0
-Karma: 0
-Building: 0
-Unloot: 1
-Negative: 0
-OnEnemy: 0
-OnAlly: 0
-Sacrifice: 0
-ResistPower: 0
-ResistDuration: 0
-DefencePower: 0
-RestoreOnly: 0
-Cumulative: 0
-Sound: 19
-UnitKind: (0)
-AntiEffect: (0)
-
-Effects:
-Summon: 1229
-Power: 0
-Duration: -1;
-
-/299
-Name: Dash;
-Cost: 5
-LifeCost: 0
-StamCost: 1
-ItemLevel: 1
-Level: 1
-PowerMod: 1
-DurationMod: 0
-Target: 1
-Area: 1
-Radius: 0
-Karma: 0
-Building: 0
-Unloot: 0
-Negative: 1
 OnEnemy: 0
 OnAlly: 1
 Sacrifice: 0
@@ -11308,38 +11228,214 @@ ResistDuration: 0
 DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
-Sound: 258
-UnitKind: (-1, -6)
-AntiEffect: (110)
+Sound: 255
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (220)
 
 Effects:
-AddTurn: 75
+Poison: 1
+Power: -1
+Duration: 4
+
+Lay_LightDisease: 177
 Power: 1
-Duration: -1
+Duration: 4
 
-Stamina: 11
-Power: 2
-Duration: -1
-
-Morale: 12
+Intercept: 217
 Power: 1
-Duration: -1;
+Duration: 4
 
-/300
-Name: Shock;
+SpellOnDeath: 220
+Power: 362
+Duration: 4;
+
+/296
+Name: Atrophy Hotbed;
+Cost: 12
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 3
+Area: 1
+Radius: 1
+Karma: -3
+Building: 0
+Unloot: 1
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 256
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (220)
+
+Effects:
+Poison: 11
+Power: -1
+Duration: 4
+
+Lay_Disease: 178
+Power: 1
+Duration: 4
+
+FirstStrike: 16
+Power: 1
+Duration: 4
+
+SpellOnDeath: 220
+Power: 30
+Duration: 4;
+
+/297
+Name: Leprosy Hotbed;
+Cost: 12
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 3
+Area: 1
+Radius: 1
+Karma: -3
+Building: 0
+Unloot: 1
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 257
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (220)
+
+Effects:
+Poison: 211
+Power: -1
+Duration: 4
+
+Lay_HeavyDisease: 176
+Power: 1
+Duration: 4
+
+Agility: 26
+Power: 1
+Duration: 4
+
+SpellOnDeath: 220
+Power: 290
+Duration: 4;
+
+/298
+Name: Curse;
 Cost: 2
 LifeCost: 0
 StamCost: 1
 ItemLevel: 1
 Level: 1
-PowerMod: 150
+PowerMod: 50
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Unloot: 1
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 100
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 10
+UnitKind: (4, 23)
+AntiEffect: (110)
+
+Effects:
+Attack: 2
+Power: -2
+Duration: 6
+
+CounterAttack: 3
+Power: -2
+Duration: 6
+
+RangedAttack: 8
+Power: -2
+Duration: 6;
+
+/299
+Name: Dash;
+Cost: 5
+LifeCost: 0
+StamCost: 2
+ItemLevel: 1
+Level: 1
+PowerMod: -50
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 21
+Unloot: 0
+Negative: 1
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 1
+Cumulative: 0
+Sound: 258
+UnitKind: (-1, -6)
+AntiEffect: (110)
+
+Effects:
+NoZero: 297
+FlagEffect: 1
+FlagEffect: 1
+
+Morale: 12
+Power: 4
+Duration: -1
+
+AddTurn: 75
+Power: 11
+Duration: -1;
+
+/300
+Name: Shock;
+Cost: 3
+LifeCost: 0
+StamCost: 1
+ItemLevel: 1
+Level: 1
+PowerMod: 50
 DurationMod: 0
 Target: 1
 Area: 1
 Radius: 0
 Karma: 1
-Building: -33
-Unloot: 1
+Building: 21
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 0
@@ -11350,12 +11446,12 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 260
-UnitKind: (-2, 18)
-AntiEffect: (110)
+UnitKind: (0)
+AntiEffect: (0)
 
 Effects:
-Damage: 1
-Power: 8
+LifeDamageToDark: 234
+Power: 3
 Duration: -1;
 
 /301
@@ -11934,8 +12030,8 @@ Target: 0
 Area: 2
 Radius: 0
 Karma: 3
-Building: -135
-Unloot: 1
+Building: 135
+Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
@@ -12667,7 +12763,7 @@ StamCost: 1
 ItemLevel: 8
 Level: 5
 PowerMod: 0
-DurationMod: 200
+DurationMod: 25
 Target: 1
 Area: 1
 Radius: 0
@@ -12690,7 +12786,7 @@ AntiEffect: (110, 105)
 Effects:
 Web: 47
 Power: 0
-Duration: 8;
+Duration: 3;
 
 /335
 Name: Stone Statue;
@@ -13045,15 +13141,15 @@ AntiEffect: (0)
 
 Effects:
 Forester: 32
-Power: 8
+Power: 4
 Duration: 4
 
 Hiller: 33
-Power: 8
+Power: 4
 Duration: 4
 
 Swamper: 34
-Power: 8
+Power: 4
 Duration: 4
 
 MightyShoot: 79
@@ -13805,7 +13901,7 @@ Target: 1
 Area: 1
 Radius: 0
 Karma: 0
-Building: -284
+Building: -283
 Unloot: 1
 Negative: 0
 OnEnemy: 1
@@ -13842,7 +13938,7 @@ Target: 3
 Area: 1
 Radius: 1
 Karma: -1
-Building: -284
+Building: -283
 Unloot: 1
 Negative: 1
 OnEnemy: 1
@@ -13879,7 +13975,7 @@ Target: 0
 Area: 2
 Radius: 0
 Karma: -3
-Building: -285
+Building: -284
 Unloot: 1
 Negative: 0
 OnEnemy: 0
@@ -13908,7 +14004,7 @@ Power: 1
 Duration: 2;
 
 /362
-Name: Distress;
+Name: Fever;
 Cost: 3
 LifeCost: 0
 StamCost: 1
@@ -13936,10 +14032,6 @@ UnitKind: (2, 4, 17, 22, 23)
 AntiEffect: (110)
 
 Effects:
-Poison: 1
-Power: -1
-Duration: 6
-
 Stamina: 11
 Power: -1
 Duration: 6
@@ -13953,6 +14045,18 @@ Power: -1
 Duration: 6
 
 RangedAttack: 8
+Power: -1
+Duration: 6
+
+Defence: 4
+Power: -1
+Duration: 6
+
+RangedDefence: 5
+Power: -1
+Duration: 6
+
+Resist: 6
 Power: -1
 Duration: 6;
 
@@ -14196,5 +14300,343 @@ AntiEffect: (0)
 
 Effects:
 Summon: 1155
+Power: 0
+Duration: -1;
+
+/370
+Name: Set Trap;
+Cost: 10
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Unloot: 1
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 303
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1287
+Power: 0
+Duration: -1;
+
+/371
+Name: Set Snare;
+Cost: 10
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Unloot: 1
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 303
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1288
+Power: 0
+Duration: -1;
+
+/372
+Name: Set Hive;
+Cost: 10
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Unloot: 1
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 303
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1289
+Power: 0
+Duration: -1;
+
+/373
+Name: Subdue Beast;
+Cost: 25
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 50
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Unloot: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 50
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 88
+UnitKind: (-19)
+AntiEffect: (110, 73, 104)
+
+Effects:
+MindControl: 73
+Power: 1
+Duration: 2;
+
+/374
+Name: Improved Charm;
+Cost: 9
+LifeCost: 0
+StamCost: 2
+ItemLevel: 3
+Level: 2
+PowerMod: 50
+DurationMod: 0
+Target: 1
+Area: 0
+Radius: 0
+Karma: 0
+Building: 81
+Unloot: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 27
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Enchant: 223
+FlagEffect: 2
+FlagEffect: -1;
+
+/375
+Name: Mass Improved Charm;
+Cost: 25
+LifeCost: 0
+StamCost: 4
+ItemLevel: 3
+Level: 4
+PowerMod: 50
+DurationMod: 0
+Target: 0
+Area: 2
+Radius: 0
+Karma: 0
+Building: 178
+Unloot: 1
+Negative: 1
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 27
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Enchant: 223
+FlagEffect: 3
+FlagEffect: -1;
+
+/376
+Name: Gates of Death;
+Cost: 36
+LifeCost: 0
+StamCost: 5
+ItemLevel: 5
+Level: 4
+PowerMod: 100
+DurationMod: 0
+Target: 0
+Area: 1
+Radius: 0
+Karma: -3
+Building: 174
+Unloot: 0
+Negative: 0
+OnEnemy: 1
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 156
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1216
+Power: 0
+Duration: -1;
+
+/377
+Name: Enchanted Grove;
+Cost: 50
+LifeCost: 0
+StamCost: 5
+ItemLevel: 5
+Level: 4
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 288
+Unloot: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 199
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 251
+Power: 2
+Duration: -1
+
+Summon: 1108
+Power: 0
+Duration: -1;
+
+/378
+Name: Summon Rat Swarm;
+Cost: 25
+LifeCost: 0
+StamCost: 3
+ItemLevel: 4
+Level: 3
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 287
+Unloot: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 251
+Power: 5
+Duration: -1
+
+Summon: 1222
+Power: 0
+Duration: -1;
+
+/379
+Name: Summon Eagle;
+Cost: 10
+LifeCost: 0
+StamCost: 2
+ItemLevel: 3
+Level: 2
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 286
+Unloot: 1
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1082
 Power: 0
 Duration: -1;

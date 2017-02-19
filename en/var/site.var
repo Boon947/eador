@@ -1,4 +1,4 @@
-Quantity: 142
+Quantity: 143
 
 /0
 Name: Empty;
@@ -68,7 +68,10 @@ Poss: 3
 Guard: 5
 Poss: 2
 
-Guard: 100
+Guard: 6
+Poss: 3
+
+Guard: 10
 Poss: 1;
 
 Ability:
@@ -309,9 +312,6 @@ Guard: 39
 Poss: 2
 
 Guard: 81
-Poss: 1
-
-Guard: 100
 Poss: 1;
 
 Ability:
@@ -360,9 +360,6 @@ Guard: 60
 Poss: 1
 
 Guard: 78
-Poss: 1
-
-Guard: 102
 Poss: 1;
 
 Ability:
@@ -551,9 +548,6 @@ Poss: 8
 Guard: 81
 Poss: 4
 
-Guard: 102
-Poss: 4
-
 Guard: 79
 Poss: 1;
 
@@ -714,9 +708,6 @@ Guard: 95
 Poss: 2
 
 Guard: 101
-Poss: 1
-
-Guard: 104
 Poss: 1;
 
 Ability:
@@ -939,9 +930,6 @@ Poss: 2
 Guard: 81
 Poss: 2
 
-Guard: 100
-Poss: 1
-
 Guard: 150
 Poss: 1
 
@@ -1005,9 +993,6 @@ Guard: 78
 Poss: 2
 
 Guard: 81
-Poss: 2
-
-Guard: 100
 Poss: 2
 
 Guard: 150
@@ -1079,12 +1064,6 @@ Guard: 78
 Poss: 2
 
 Guard: 81
-Poss: 2
-
-Guard: 100
-Poss: 2
-
-Guard: 102
 Poss: 2
 
 Guard: 150
@@ -1162,10 +1141,7 @@ Guard: 57
 Poss: 2
 
 Guard: 146
-Poss: 2
-
-Guard: 102
-Poss: 1;
+Poss: 2;
 
 Ability:
 Ability: 3
@@ -1481,9 +1457,6 @@ Guard: 147
 Poss: 2
 
 Guard: 103
-Poss: 1
-
-Guard: 104
 Poss: 1;
 
 Ability:
@@ -2297,10 +2270,7 @@ Guard: 8
 Poss: 4
 
 Guard: 10
-Poss: 3
-
-Guard: 104
-Poss: 1;
+Poss: 3;
 
 Ability:
 Ability: 8
@@ -2559,7 +2529,7 @@ Poss: 1;
 
 Ability:
 Ability: 8
-Param1: 2
+Param1: 1
 Param2: 0
 
 Ability: 5
@@ -3392,9 +3362,6 @@ Guard: 51
 Poss: 5
 
 Guard: 56
-Poss: 1
-
-Guard: 105
 Poss: 2;
 
 Ability:
@@ -5275,12 +5242,6 @@ Desert: 5
 Tundra: 7
 
 Guards:
-Guard: 100
-Poss: 4
-
-Guard: 102
-Poss: 3
-
 Guard: 160
 Poss: 1;
 
@@ -5323,13 +5284,7 @@ Guards:
 Guard: 101
 Poss: 3
 
-Guard: 102
-Poss: 3
-
 Guard: 103
-Poss: 3
-
-Guard: 104
 Poss: 3
 
 Guard: 105
@@ -5423,13 +5378,7 @@ Guards:
 Guard: 101
 Poss: 1
 
-Guard: 102
-Poss: 1
-
 Guard: 103
-Poss: 1
-
-Guard: 104
 Poss: 1;
 
 Ability:
@@ -5472,11 +5421,8 @@ Desert: 1
 Tundra: 0
 
 Guards:
-Guard: 106
-Poss: 1
-
 Guard: 132
-Poss: 2;
+Poss: 1;
 
 Ability:
 Ability: 3
@@ -5523,9 +5469,6 @@ Poss: 2
 Guard: 43
 Poss: 2
 
-Guard: 102
-Poss: 2
-
 Guard: 131
 Poss: 1
 
@@ -5533,10 +5476,7 @@ Guard: 103
 Poss: 2
 
 Guard: 134
-Poss: 1
-
-Guard: 104
-Poss: 2;
+Poss: 1;
 
 Ability:
 Ability: 3
@@ -5630,7 +5570,7 @@ Param1: 30
 Param2: -18;
 
 /113
-Name: Driller Workshop;
+Name: Ratman Barracks;
 MinLevel: 5
 MaxLevel: 8
 Guarded: 100
@@ -5656,19 +5596,10 @@ Desert: 0
 Tundra: 0
 
 Guards:
-Guard: 100
-Poss: 1
-
 Guard: 101
 Poss: 1
 
-Guard: 102
-Poss: 1
-
 Guard: 103
-Poss: 1
-
-Guard: 104
 Poss: 1;
 
 Ability:
@@ -5681,7 +5612,7 @@ Param1: -2
 Param2: 0;
 
 /114
-Name: Temple of the Seekers;
+Name: Plague Temple;
 MinLevel: 5
 MaxLevel: 8
 Guarded: 100
@@ -5707,19 +5638,10 @@ Desert: 0
 Tundra: 0
 
 Guards:
-Guard: 100
-Poss: 1
-
 Guard: 101
 Poss: 1
 
-Guard: 102
-Poss: 1
-
 Guard: 103
-Poss: 1
-
-Guard: 104
 Poss: 1;
 
 Ability:
@@ -6139,7 +6061,7 @@ Difficult: 3
 Event: 2
 Dialog: 2199
 Dialog2: 0
-Treasure: 5
+Treasure: 4
 Coastal: 0
 WorkHide: 0
 WorkGuard: 1
@@ -6426,7 +6348,7 @@ MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 1
-Difficult: 0
+Difficult: 2
 Event: 2
 Dialog: 2250
 Dialog2: 0
@@ -7071,4 +6993,48 @@ Poss: 1;
 Ability:
 Ability: 5
 Param1: 12
+Param2: 0;
+
+
+/143
+Name: Dark Cave;
+MinLevel: 1
+MaxLevel: 8
+Guarded: 100
+Place: 1
+Difficult: 0
+Event: 2
+Dialog: 60
+Dialog2: 0
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 0
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 0
+Forest: 0
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Guards:
+Guard: 163
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5
+
+Ability: 23
+Param1: 30
+Param2: -18
+
+Ability: 17
+Param1: 1484
 Param2: 0;

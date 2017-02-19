@@ -1,4 +1,4 @@
-Quantity: 1817
+Quantity: 1867
 
 /0
 Type: 0
@@ -8258,7 +8258,7 @@ ProvType: 0
 Karma: 0
 
 *Answers*:
-Answer1: 290
+Answer1: 1862
 Answer2: 291
 Answer3: 13;
 
@@ -8522,9 +8522,9 @@ ProvType: 0
 Karma: 0
 
 *Answers*:
-Answer1: 13
-Answer2: 299
-Answer3: 300;
+Answer1: 1850
+Answer2: 1851
+Answer3: 1852;
 
 *Effects*:
 Index: 4
@@ -13850,6 +13850,11 @@ Param2: 500
 Index: 22
 Power: -2
 Param1: 2
+Param2: 0
+
+Index: 49
+Power: 2
+Param1: 0
 Param2: 0;
 
 /484 (Месть Гарпий - победа)
@@ -14024,8 +14029,8 @@ Answer2: 1701
 Answer3: 492;
 
 *Effects*:
-Index: 0
-Power: 0
+Index: 49
+Power: 2
 Param1: 0
 Param2: 0;
 
@@ -14329,7 +14334,12 @@ Param2: 0
 Index: 4
 Power: 4
 Param1: 1
-Param2: 150;
+Param2: 150
+
+Index: 49
+Power: 2
+Param1: 0
+Param2: 0;
 
 /499 (Друиды - победа)
 Type: 0
@@ -16423,6 +16433,11 @@ Param2: 150
 Index: 22
 Power: -2
 Param1: 2
+Param2: 0
+
+Index: 49
+Power: 2
+Param1: 0
 Param2: 0;
 
 /569 (Саранча - урон)
@@ -30980,7 +30995,7 @@ Answer1: 0;
 *Effects*:
 Index: 11
 Power: 1089
-Param1: 28
+Param1: 1866
 Param2: 30;
 
 /1089 Колдун, проклятие
@@ -34630,7 +34645,7 @@ Power: 1215
 Param1: 0
 Param2: 0;
 
-/1220 Шаман-демонолог, сами разберутся - не используется
+/1220 Тёмные друиды, казнь наместника
 Type: 0
 Possibility: 0
 Dialog: 0
@@ -34641,20 +34656,15 @@ EventWin: 0
 EventLose: 0
 EventDraw: 0
 ProvType: 0
-Karma: -2
+Karma: -5
 
 *Answers*:
 Answer1: 0;
 
 *Effects*:
-Index: 2
-Power: -1
-Param1: 0
-Param2: 0
-
-Index: 22
+Index: 49
 Power: 2
-Param1: 3
+Param1: 0
 Param2: 0;
 
 /1221 Сокровища Древних
@@ -37009,8 +37019,8 @@ Answer1: 0;
 
 *Effects*:
 Payment: 5
-Power: 2
-Param1: 3
+Power: 3
+Param1: 4
 Param2: 0
 
 Condition: 2
@@ -37060,7 +37070,7 @@ Answer2: 0;
 *Effects*:
 Income: 5
 Power: 2
-Param1: 3
+Param1: 4
 Param2: 0
 
 Condition: 8
@@ -37075,7 +37085,7 @@ Param2: 0;
 
 /1304 Таинственный культ
 Type: 1
-Possibility: 15
+Possibility: 25
 Dialog: 1830
 DlgParam1: 1
 DlgParam2: 0
@@ -41511,7 +41521,7 @@ Param1: 15
 Param2: 0
 
 Index: 16
-Power: 667
+Power: 656
 Param1: 1
 Param2: 100;
 
@@ -42887,7 +42897,7 @@ Power: 1512
 Param1: 1513
 Param2: 60;
 
-/1512 Потерявшийся крысолюд, награда крысоогр
+/1512 Потерявшийся крысолюд, награда - страж провинции
 Type: 0
 Possibility: 0
 Dialog: 2117
@@ -42905,17 +42915,17 @@ Answer1: 0
 Answer2: 0;
 
 *Effects*:
-Item: 16
-Power: 665
+Item: 42
+Power: 98
 Param1: 1
-Param2: 100
+Param2: 0
 
 Index: 17
 Power: 1500
 Param1: 0
 Param2: 0;
 
-/1513 Потерявшийся крысолюд, награда ассасин+штурмовик
+/1513 Потерявшийся крысолюд, награда командиру
 Type: 0
 Possibility: 0
 Dialog: 2118
@@ -42933,10 +42943,10 @@ Answer1: 0
 Answer2: 0;
 
 *Effects*:
-Item: 16
-Power: 661
-Param1: 1
-Param2: 100
+Item: 40
+Power: 5
+Param1: 5
+Param2: 3
 
 Item: 16
 Power: 664
@@ -42970,7 +42980,7 @@ Power: 1516
 Param1: 1515
 Param2: 60;
 
-/1515 Потерявшийся крысолюд, награда Повелитель Распада
+/1515 Потерявшийся крысолюд, награда магу
 Type: 0
 Possibility: 0
 Dialog: 2119
@@ -42988,17 +42998,17 @@ Answer1: 0
 Answer2: 0;
 
 *Effects*:
-Item: 16
-Power: 668
-Param1: 1
-Param2: 100
+Item: 40
+Power: 4
+Param1: 5
+Param2: 3
 
 Index: 17
 Power: 1500
 Param1: 0
 Param2: 0;
 
-/1516 Потерявшийся крысолюд, награда аннигилятор
+/1516 Потерявшийся крысолюд, награда воину
 Type: 0
 Possibility: 0
 Dialog: 2120
@@ -43016,10 +43026,10 @@ Answer1: 0
 Answer2: 0;
 
 *Effects*:
-Item: 16
-Power: 667
-Param1: 1
-Param2: 100
+Item: 40
+Power: 8
+Param1: 5
+Param2: 3
 
 Index: 17
 Power: 1500
@@ -45462,7 +45472,7 @@ Karma: 0
 
 *Answers*:
 Answer1: 0
-Answer1: 13;
+Answer2: 13;
 
 *Effects*:
 Gem: 23
@@ -49698,7 +49708,7 @@ Karma: 0
 
 *Answers*:
 Answer1: 0
-Answer2: 1373;
+Answer2: 1220;
 
 *Effects*:
 Index: 5
@@ -50599,7 +50609,7 @@ Power: 2
 Param1: 0
 Param2: 0;
 
-/1793 (Древний склеп - появление)
+/1793 Древний склеп - появление
 Type: 0
 Possibility: 0
 Dialog: 0
@@ -50621,7 +50631,7 @@ Power: 140
 Param1: -1
 Param2: 0;
 
-/1794 (Врата - появление)
+/1794 Врата - появление
 Type: 0
 Possibility: 0
 Dialog: 0
@@ -50643,7 +50653,7 @@ Power: 24
 Param1: -1
 Param2: 0;
 
-/1795 (Алтарь - появление)
+/1795 Алтарь - появление
 Type: 0
 Possibility: 0
 Dialog: 0
@@ -50665,7 +50675,7 @@ Power: 135
 Param1: -1
 Param2: 0;
 
-/1796 (Храм - появление)
+/1796 Храм - появление
 Type: 0
 Possibility: 0
 Dialog: 0
@@ -50707,7 +50717,7 @@ Answer1: 0;
 Index: 9
 Power: 137
 Param1: -1
-Param2: 1
+Param2: 0
 
 Index: 11
 Power: 1764
@@ -50741,7 +50751,7 @@ Power: 1799
 Param1: 0
 Param2: 0;
 
-/1799 Появление склепа для квеста альваров 1
+/1799 Появление склепа для квеста альваров 2
 Type: 0
 Possibility: 0
 Dialog: 2366
@@ -51221,4 +51231,1289 @@ Answer1: 0;
 Index: 31
 Power: 0
 Param1: 0
+Param2: 0;
+
+/1818 Загоны тварей, продажа яйца
+Type: 0
+Possibility: 0
+Dialog: 2391
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1819
+Answer2: 1820
+Answer3: 0;
+
+*Effects*:
+Index: 4
+Power: 1
+Param1: 1
+Param2: 100;
+
+/1819 Загоны тварей, покупка
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 1
+Power: -100
+Param1: 0
+Param2: 0
+
+Index: 17
+Power: 1818
+Param1: 8
+Param2: 10
+
+Index: 18
+Power: 1818
+Param1: 2
+Param2: 0
+
+Index: 11
+Power: 1823
+Param1: 0
+Param2: 0;
+
+/1820 Загоны тварей, отнять, вилка
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+ProvType: 0
+Karma: -4
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 1818
+Param1: 20
+Param2: 20
+
+Index: 18
+Power: 1818
+Param1: 2
+Param2: 0
+
+Index: 11
+Power: 1821
+Param1: 1822
+Param2: 50;
+
+/1821 Загоны тварей, отнять, удача
+Type: 0
+Possibility: 0
+Dialog: 2392
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1823
+Answer2: 1823;
+
+*Effects*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/1822 Загоны тварей, отнять, неудача
+Type: 0
+Possibility: 0
+Dialog: 2393
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer2: 0;
+
+*Effects*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/1823 Яйцо твари, получение, вилка
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1841
+Param1: 1842
+Param2: 50;
+
+/1824 Яйцо твари (василиск), получить
+Type: 0
+Possibility: 0
+Dialog: 2394
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer2: 0;
+
+*Effects*:
+Index: 16
+Power: 392
+Param1: 1
+Param2: 100;
+
+/1825 Яйцо твари (слизень), получить
+Type: 0
+Possibility: 0
+Dialog: 2394
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer2: 0;
+
+*Effects*:
+Index: 16
+Power: 395
+Param1: 1
+Param2: 100;
+
+/1826 Яйцо твари (птицелов), получить
+Type: 0
+Possibility: 0
+Dialog: 2394
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer2: 0;
+
+*Effects*:
+Index: 16
+Power: 494
+Param1: 1
+Param2: 100;
+
+/1827 Яйцо твари (стрекоза), получить
+Type: 0
+Possibility: 0
+Dialog: 2394
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer2: 0;
+
+*Effects*:
+Index: 16
+Power: 447
+Param1: 1
+Param2: 100;
+
+/1828 Яйцо твари (паук), получить
+Type: 0
+Possibility: 0
+Dialog: 2394
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer2: 0;
+
+*Effects*:
+Index: 16
+Power: 391
+Param1: 1
+Param2: 100;
+
+/1829 Палаты гоблинов, продажа яйца
+Type: 0
+Possibility: 0
+Dialog: 2395
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1830
+Answer2: 1831
+Answer3: 0;
+
+*Effects*:
+Index: 4
+Power: 1
+Param1: 1
+Param2: 300;
+
+/1830 Палаты гоблинов, покупка
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 1
+Power: -300
+Param1: 0
+Param2: 0
+
+Index: 17
+Power: 1829
+Param1: 10
+Param2: 15
+
+Index: 18
+Power: 1829
+Param1: 2
+Param2: 0
+
+Index: 11
+Power: 1834
+Param1: 0
+Param2: 0;
+
+/1831 Палаты гоблинов, отнять, вилка
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+ProvType: 0
+Karma: -4
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 1818
+Param1: 25
+Param2: 25
+
+Index: 26
+Power: 4
+Param1: -1
+Param2: 0
+
+Index: 18
+Power: 1818
+Param1: 2
+Param2: 0
+
+Index: 11
+Power: 1832
+Param1: 1833
+Param2: 60;
+
+/1832 Палаты гоблинов, отнять, удача
+Type: 0
+Possibility: 0
+Dialog: 2396
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1834
+Answer2: 1834;
+
+*Effects*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/1833 Палаты гоблинов, отнять, неудача
+Type: 0
+Possibility: 0
+Dialog: 2397
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer2: 0;
+
+*Effects*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/1834 Яйцо твари, получение, вилка
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1835
+Param1: 1836
+Param2: 50;
+
+/1835 Яйцо твари (мантикора), получить
+Type: 0
+Possibility: 0
+Dialog: 2394
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer2: 0;
+
+*Effects*:
+Index: 16
+Power: 393
+Param1: 1
+Param2: 100;
+
+/1836 Яйцо твари (виверна), получить
+Type: 0
+Possibility: 0
+Dialog: 2394
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer2: 0;
+
+*Effects*:
+Index: 16
+Power: 582
+Param1: 1
+Param2: 100;
+
+/1837 Появление пещеры для квеста гоблинов 1
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 1838
+Param1: 2
+Param2: 6
+
+Index: 18
+Power: 1838
+Param1: 0
+Param2: 0;
+
+/1838 Появление пещеры для квеста гоблинов 2
+Type: 0
+Possibility: 0
+Dialog: 2398
+DlgParam1: 1
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer2: 0;
+
+*Effects*:
+Index: 9
+Power: 143
+Param1: -1
+Param2: 1
+
+Index: 17
+Power: 1839
+Param1: 10
+Param2: 15
+
+Index: 18
+Power: 1839
+Param1: 1
+Param2: 0;
+
+/1839 Исчезновение пещеры для квеста гоблинов
+Type: 0
+Possibility: 0
+Dialog: 2399
+DlgParam1: 1
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer2: 0;
+
+*Effects*:
+Index: 24
+Power: 143
+Param1: 0
+Param2: 0
+
+Index: 17
+Power: 1837
+Param1: 5
+Param2: 5
+
+Index: 18
+Power: 1837
+Param1: 0
+Param2: 0;
+
+/1840 Исчезновение пещеры для квеста гоблинов (отмена)
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 1839
+Param1: 0
+Param2: 0;
+
+/1841 Яйцо твари, получение, вилка 2
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1824
+Param1: 1825
+Param2: 50;
+
+/1842 Яйцо твари, получение, вилка 3
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1843
+Param1: 1828
+Param2: 70;
+
+/1843 Яйцо твари, получение, вилка 4
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1826
+Param1: 1827
+Param2: 50;
+
+/1844 Священная земля
+Type: 0
+Possibility: 0
+Dialog: 2401
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1845
+Answer2: 1846
+Answer3: 1847;
+
+*Effects*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/1845 Священная земля, пашни
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+NewSite: 9
+Power: 62
+Param1: -1
+Param2: 0;
+
+/1846 Священная земля, волшебные растения
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+NewSite: 9
+Power: 61
+Param1: -1
+Param2: 0;
+
+/1847 Священная земля, заповедник
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+NewSite: 9
+Power: 63
+Param1: -1
+Param2: 0;
+
+/1848 Инквизиция, вторжение
+Type: 0
+Possibility: 0
+Dialog: 1363
+DlgParam1: 1
+DlgParam2: 0
+Attacker: 31
+EventWin: 0
+EventLose: 1849
+EventDraw: 0
+ProvType: 22
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer2: 0
+Answer3: 0;
+
+*Effects*:
+Index: 15
+Power: 2
+Param1: 0
+Param2: 0;
+
+/1849 Инквизиция, захват
+Type: 0
+Possibility: 0
+Dialog: 1361
+DlgParam1: 1
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer2: 0
+Answer3: 0;
+
+*Effects*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/1850 Дары, сжечь, вилка
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 13
+Param1: 1853
+Param2: 25;
+
+/1851 Дары, праздник, вилка
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 299
+Param1: 1854
+Param2: 20;
+
+/1852 Дары, ответные, вилка
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 300
+Param1: 1859
+Param2: 20;
+
+/1853 Дары, сжечь, отравленные
+Type: 0
+Possibility: 0
+Dialog: 2402
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer1: 13
+Answer1: 12;
+
+*Effects*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/1854 Дары, праздник, отравленные
+Type: 0
+Possibility: 0
+Dialog: 2403
+DlgParam1: 1
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1855
+Answer2: 1856
+Answer3: 1857;
+
+*Effects*:
+Index: 4
+Power: 2
+Param1: 2
+Param2: 50
+
+Index: 4
+Power: 3
+Param1: 1
+Param2: 150;
+
+/1855 Дары, праздник, отравленные, бездействие
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: -2
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Population: 3
+Power: -50
+Param1: 20
+Param2: 0
+
+Index: 17
+Power: 230
+Param1: 3
+Param2: 2
+
+Index: 18
+Power: 230
+Param1: 1
+Param2: 0;
+
+/1856 Дары, праздник, отравленные, помощь (кристаллы)
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 3
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 6
+Power: -50
+Param1: 0
+Param2: 0
+
+Index: 11
+Power: 1858
+Param1: 0
+Param2: 0;
+
+/1857 Дары, праздник, отравленные, помощь (золото)
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 2
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 1
+Power: -150
+Param1: 0
+Param2: 0
+
+Index: 11
+Power: 1858
+Param1: 0
+Param2: 0;
+
+/1858 Дары, праздник, отравленные, помощь
+Type: 0
+Possibility: 0
+Dialog: 2404
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 13
+Answer2: 12
+Answer3: 0;
+
+*Effects*:
+Population: 3
+Power: -20
+Param1: 10
+Param2: 0
+
+Attitude: 2
+Power: 1
+Param1: 0
+Param2: 0;
+
+/1859 Дары, ответные, подготовка
+Type: 0
+Possibility: 0
+Dialog: 2405
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer2: 0;
+
+*Effects*:
+Index: 17
+Power: 1860
+Param1: 2
+Param2: 0
+
+Index: 18
+Power: 1860
+Param1: 1
+Param2: 0;
+
+/1860 Дары, ответные, нападение
+Type: 0
+Possibility: 0
+Dialog: 2406
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 10
+EventWin: 0
+EventLose: 1861
+EventDraw: 0
+ProvType: 11
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer2: 0;
+
+*Effects*:
+Index: 15
+Power: 1
+Param1: 0
+Param2: 0
+
+Index: 29
+Power: -35
+Param1: 1
+Param2: 1
+
+Index: 30
+Power: -7
+Param1: 3
+Param2: 0;
+
+/1861 Потеря провинции
+Type: 0
+Possibility: 0
+Dialog: 2407
+DlgParam1: 1
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer2: 0;
+
+*Effects*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/1862 (Хорошие предзнаменовения - праздник, вилка)
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 290
+Param1: 1863
+Param2: 30;
+
+/1863 (Хорошие предзнаменовения - праздник, бомба)
+Type: 0
+Possibility: 0
+Dialog: 2408
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1865
+Answer2: 0
+Answer3: 1864;
+
+*Effects*:
+Index: 1
+Power: -100
+Param1: 0
+Param2: 0
+
+Index: 4
+Power: 1
+Param1: 1
+Param2: 300
+
+Population: 3
+Power: -40
+Param1: 10
+Param2: 0
+
+Attitude: 2
+Power: -1
+Param1: 0
+Param2: 0;
+
+/1864 (Хорошие предзнаменовения - бомба, казнь наместника)
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: -5
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 22
+Power: -2
+Param1: 2
+Param2: 0
+
+Index: 49
+Power: 2
+Param1: 0
+Param2: 0;
+
+/1865 (Хорошие предзнаменовения - бомба, помощь)
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 2
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 1
+Power: -300
+Param1: 0
+Param2: 0
+
+Attitude: 2
+Power: 1
+Param1: 0
+Param2: 0;
+
+/1866 Поймали колдунов (пытки, вилка)
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 28
+Param1: 1867
+Param2: 70;
+
+/1867 Поймали колдунов (пытки)
+Type: 0
+Possibility: 0
+Dialog: 2409
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: -1
+
+*Answers*:
+Answer1: 0
+Answer2: 13;
+
+*Effects*:
+GetScroll: 13
+Power: 43
+Param1: 1
 Param2: 0;

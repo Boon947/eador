@@ -371,12 +371,12 @@ Income -10~. Population mood -1.#
 #No description#
 
 113. Driller Workshop
-#Ratman building, erected with your permission. Here you can recruit Ratman-drillers.
+#Ratman building, erected with your permission. You can hire Shadow Claws here.
 Unfortunately the Ratmen go way beyond the budget you permitted, and all the necessary materials and supplies are stolen from the locals.
 Reduce province gold income by 50~. Population mood -2.#
 
 114. Pests Clan Temple
-#Ratman building, erected with your permission. Here you can recruit Ratman warriors of the Pests Clan.
+#Ratman building, erected with your permission. You can hire Plague Warriors here.
 Unfortunately the Ratmen go way beyond the budget you permitted, and all the necessary materials and supplies are stolen from the locals.
 Reduce province gold income by 50~. Population mood -2.#
 
@@ -462,4 +462,7 @@ Reduce province gold income by 50~. Population mood -2.#
 #No description#
 
 142. Wolf Thicket
+#No description#
+
+143. Wolf Thicket
 #No description#
