@@ -85,7 +85,7 @@ Can learn sorcerer and warrior skills up to Mastery Level 3.#
 /18 Druid
 #Can use the following type of items: Common, Melee Weapon, Ranged Weapon, Wand, Light Armor.
 Possesses the skills Roots (3), Entangling Shot (2) and Forest Knowledge (2). Spells consume 25~ fewer gems. Spell duration is increased by +2. Grants all friendly units Poison Immunity.
-Can learn sorcerer and scout skills up to Mastery Level 3.#
+Can learn Sorcerer and Scout skills up to Mastery Level 3.#
 
 /19 Necromancer
 #Can use the following type of items: Common, Melee Weapon, Wand, Banner, Light Armor, Medium Armor, Shield.
@@ -169,7 +169,7 @@ Can learn sorcerer and warrior skills up to Mastery Level 3.#
 /34 Archdruid
 #Can use the following type of items: Common, Melee Weapon, Ranged Weapon, Wand, Light Armor.
 Possesses the skills Roots (6), Entangling Shot (4) and Forest Knowledge (4). Spells consume 25~ fewer gems. Spell duration is increased by +4. Grants all friendly units Poison Immunity. The Archdruid gets an additional slot for a Circle III spell.
-Can learn sorcerer and scout skills up to Mastery Level 3.#
+Can learn Sorcerer and Scout skills up to Mastery Level 3.#
 
 /35 Master Necromancer
 #Can use the following type of items: Common, Melee Weapon, Wand, Banner, Light Armor, Medium Armor, Shield.

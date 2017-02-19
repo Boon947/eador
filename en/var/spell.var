@@ -7971,7 +7971,7 @@ Power: 50
 Duration: -1;
 
 /213
-Name: Unrest;
+Name: Eternal Slave;
 Cost: 30
 LifeCost: 0
 StamCost: 3
@@ -8193,7 +8193,7 @@ Power: 11
 Duration: -1;
 
 /219
-Name: Higher Power;
+Name: Supreme Power;
 Cost: 45
 LifeCost: 0
 StamCost: 6
@@ -9300,7 +9300,7 @@ Power: 2
 Duration: -1;
 
 /246
-Name: Feebleness;
+Name: Fatigue;
 Cost: 8
 LifeCost: 0
 StamCost: 2

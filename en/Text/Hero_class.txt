@@ -53,7 +53,7 @@
 #A Wizard learning the secrets of scouting becomes a Druid, able to prolong his spells, while saving gems and protecting his army from poison. An enemy attacked by a Druid in melee combat will become entangled.#
 
 /19 Necromancer
-#A Wizard who has mastered the basics of command becomes a Necromancer able to raise more powerful undead. The undead that stay with the Necromancer's army are stronger than the skill usually allows.#
+#A Wizard who has mastered the basics of command becomes a Necromancer able to raise more powerful Undead. The undead that stay with the Necromancer's army are stronger than the skill usually allows.#
 
 /20 Mage
 #Having completed the path of the Wizard, the hero becomes a Mage, able to cast two simple spells each turn.#

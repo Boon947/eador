@@ -685,7 +685,7 @@ For the egg to be turned into a unit for a hero's party it is necessary to build
 #The peak of a birdeater's evolution is known as the swallower - a monumental predator in the food chain. Grown into monstrous proportions, the swallower is effortlessly able to see through heavy armor and locate its target's vital organs. The swallower's unnatural appetite leads it to hunt outside the forest, sometimes even attacking settlements.
 Often the monstrous eight-legged behemoth torments its own food as it slowly pulls the victim into its deathly jaws.#
 
-169. Wolfrider
+169. Wolf Rider
 #Orcs frequently breed huge wolves - called wargs. These beasts are very smart, and it is no easy task to get them to accept a rider. However, the outcome is definitely worth the time and effort. Orcs who have tamed a warg earn the respect of other members of the tribe.
 Orc Riders make a good cavalry, fast and powerful. Riders carry sharp throwing axes, and the wargs themselves can unleash a terrifying howl at their master's command.#
 

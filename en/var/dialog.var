@@ -791,7 +791,7 @@ Answer2: All right, now let them go.;#####
 /90 Поймали колдунов (пытки)
 Window: 2;
 Bitmap: 24;
-Text: #Unable to endure the torture, the dark mages tell the executioners the secret of the Summon Demon spell. The spell scroll is placed in the treasury.#
+Text: #Broken by torture, the dark mages reveal the secret of the Summon Demon spell. The spell scroll is placed in the treasury.#
 Answer1: Good. They have earned the right to a quick death.;
 Answer2: Burn the sorcerers.;#####
 
@@ -2193,7 +2193,7 @@ Answer4: 1000, and not a coin more!;#####
 /274 Квест гоблинов - эльфийское ожерелье (золото вместо квеста)
 Window: 2;
 Bitmap: 37;
-Text: #«Umm... All right, all right. I'll arrange everything for that sum. What a rip-off!»#
+Text: #"Umm... All right, all right. I'll arrange everything for that sum. What a rip-off!"#
 Answer1: Deal. Here's your gold.;
 Answer2: I've changed my mind. Goodbye.;#####
 
@@ -2226,7 +2226,7 @@ Answer1: What about an alliance?;#####
 /279 Квест гоблинов (союз)
 Window: 2;
 Bitmap: 37;
-Text: #«Consider it formed. After such a luxurious gift, the King would form an alliance not only with the humans but even with the elves!»#
+Text: #"Consider it formed. After such a luxurious gift, the King would form an alliance not only with the humans but even with the elves!"#
 Answer1: Excellent.;#####
 
 /280 Квест гоблинов (союз невозможен)
@@ -4299,7 +4299,7 @@ Window: 2;
 Bitmap: 19;
 Text: #There is a horrible plague in the province of %s. Over a half of the population have been incapacitated, bedridden with a high fever, their bodies covered with disgusting, oozing sores. People in the province are blaming the local witch.#
 Answer1: Everyone gets sick now and then. They'll get better.;
-Answer2: Perform the ritual of Cleansing. (-50 & );
+Answer2: Perform a Cleansing ritual (-50 & );
 Answer3: Interrogate the witch.;
 Answer4: Burn the witch at the stake!;#####
 
@@ -6947,7 +6947,7 @@ Answer2: Why so little, you brainless creatures?!;#####
 /896 Гоблинский артефакт, предложение
 Window: 2;
 Bitmap: 37;
-Text: #Journeyman goblins from the workshop in your castle have made some item and are offering you their work for 150 gold. According to an ancient goblin tradition, they completely refuse to show you what exactly they have created.#
+Text: #Journeyman goblins from the workshop in your castle have made some item and are offering you their work for 150 gold. Per an ancient Goblin tradition, they categorically refuse to show you exactly what they have created.#
 Answer1: Buy the item from the goblins. (-150 $ );
 Answer2: Take the item by force.;
 Answer3: I don't need any goblin trinkets.;#####
@@ -13967,8 +13967,8 @@ Answer2: The Gods will have plans for these lost souls.;#####
 /1826 Ошибка алхимиков
 Window: 2;
 Bitmap: 89;
-Text: #While concocting a new potion, the local alchemists made an error in the formula, causing an unexpected result: Its vapors can turn living creatures into magical statues. As a result, the alchemists have been turned into such. Since these alchemists were the only individuals who knew the calculations of the formula used, we have no means of uncovering the formula. This also means we unfortunately have no means to reverse the formula to save them. The sample potion's substance has also already evaporated.
-The sages state that the radiation of these statues yield the same essence of gems. However, a local villager wishes to decorate the village with these statues.
+Text: #While concocting a new potion, the local alchemists made an error in the formula, causing an unexpected result: Its vapors can turn living creatures into magical statues. Unfortunately, they are now petrified in their lab, with no one left to record the potions's formula. This also means we unfortunately have no means to reverse the formula to save them. The sample potion's substance has also already evaporated.
+The sages believe that the magic emanates from crystals deep within the statues. The vicar wishes to decorate the village with these statues.
 What are your orders, Master?#
 Answer1: Let him adorn the city.;
 Answer2: Shatter the statues. Those gems are valuable!;#####

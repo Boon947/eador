@@ -280,7 +280,7 @@ This guard cannot be disbanded.#
 Population mood +1.
 Incorruptible.#
 
-60. Creature Masters
+60. Beast Masters
 #Having made an agreement with the mages who control the minds of huge monsters, you will get some outstanding guards for your lands. Alas, such contracts are very rare.#
 
 61. Monsters

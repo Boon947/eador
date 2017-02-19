@@ -191,7 +191,7 @@ Any creature attacking this unit in melee damages its weapon - attack and counte
 #When the unit is attacked in melee for the first time during the current turn, its defense is increased by %d.#
 
 /54 Forager
-#This unit is able to fend for itself. The cost of its upkeep is reduced by %d gold. The higher the unit's level, the greater the savings will be.#
+#This unit is able to fend for itself. Upkeep is reduced by %d gold. The higher the unit's level, the greater the savings will be.#
 
 /55 Siege
 #Increases the speed with which enemy fortifications are destroyed by %d.#
@@ -1100,8 +1100,8 @@ Ammo units consumed by casting: %d.#
 #This unit can cast the Mass Undead Restoration spell, under the influence of which the undead immediately restore 6 hit points, continuing for several turns.
 Ammo units consumed by casting: %d.#
 
-/293 Unrest Spell
-#This unit can cast the Unrest spell. When the target dies while under this spell, it will rise again.
+/293 Eternal Slave Spell
+#This unit can cast the Eternal Slave spell. When the target dies while under this spell, it will rise again.
 Ammo units consumed by casting: %d.#
 
 /294 Dissolve Armor Spell
@@ -1109,7 +1109,7 @@ Ammo units consumed by casting: %d.#
 Ammo units consumed by casting: %d.#
 
 /295 Axii Sign
-#Reduces the morale of the target by 8 points. Magic Resistance only partially reduces the effect. Ignores magic immunity.
+#Reduces target's morale by 8. Magic Resistance only partially reduces the effect. Ignores magic immunity.
 Ammo units consumed by casting: %d.#
 
 /296 Yrden Sign
@@ -1269,7 +1269,7 @@ Ammo units consumed by casting: %d.#
 
 /336 Troll Brand
 #A gruesome brand, involving another creature's blood in a special ritual, which gives Gnolls some of that creature's abilities. Usually, the owner receives both positive and negative effects.
-Troll Brand confers Regeneration 1, but reduces speed by 1.#
+Troll Brand confers Regeneration 1, but decreases Speed by 1.#
 
 /337 Wolf Brand
 #A gruesome brand, involving another creature's blood in a special ritual, which gives Gnolls some of that creature's abilities. Usually, the owner receives both positive and negative effects.
@@ -1311,7 +1311,7 @@ In this mode the unit cannot move or fight, but his ranged attack is doubled alt
 
 /347 Spawn Brand
 #A gruesome brand, involving another creature's blood in a special ritual, which gives Gnolls some of that creature's abilities. Usually, the owner receives both positive and negative effects.
-Spawn Brand confers Battle Frenzy 3 and Fire Immunity, but decreases Resistance by 1.B#
+Spawn Brand confers Battle Frenzy 3 and Fire Immunity, but decreases Resistance by 1.#
 
 /348 Avenger Brand
 #A gruesome brand, involving another creature's blood in a special ritual, which gives Gnolls some of that creature's abilities. Usually, the owner receives both positive and negative effects.
@@ -1319,19 +1319,19 @@ Avenger Brand confers Hex, Summoning Power +2 and Fire Immunity, but decreases R
 
 /349 Succubus Brand
 #A gruesome brand, involving another creature's blood in a special ritual, which gives Gnolls some of that creature's abilities. Usually, the owner receives both positive and negative effects.
-Succubus Brand confers TODO.#
+Succubus Brand confers Scorching Blow 1 and Fire Immunity, but decreases Resistance by 1.#
 
 /350 Human Brand
 #A gruesome brand, involving another creature's blood in a special ritual, which gives Gnolls some of that creature's abilities. Usually, the owner receives both positive and negative effects.
-Human Brand confers TODO.#
+Human Brand confers Smite Evil and Dark Dominion 1, but decreases Strength by 1.#
 
 /351 Ogre Brand
 #A gruesome brand, involving another creature's blood in a special ritual, which gives Gnolls some of that creature's abilities. Usually, the owner receives both positive and negative effects.
-Ogre Brand confers TODO.#
+Ogre Brand confers Crushing Blow, but decreases Strength by 1.#
 
 /352 Alkaryl Brand
 #A gruesome brand, involving another creature's blood in a special ritual, which gives Gnolls some of that creature's abilities. Usually, the owner receives both positive and negative effects.
-Alkaryl Brand confers TODO.#
+Alkaryl Brand confers Agility and reduces Marauding by 5, but decreases HP by 8.#
 
 /353 Cause Distress
 #Whenever the unit inflicts melee damage to an enemy, it infects the target with a mild disease. The unit's Attack attributes are reduced by 1, and it loses 1 HP and 1 Stamina each turn.#

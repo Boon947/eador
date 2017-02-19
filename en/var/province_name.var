@@ -225,7 +225,7 @@ Terrain: (2)
 Type: (1)
 
 /32
-Name: Black Morass;
+Name: Black Bogs;
 Rarity: 1
 Coastal: 0
 Terrain: (4)
@@ -2255,7 +2255,7 @@ Terrain: (1)
 Type: (0)
 
 /322
-Name: Bristly Waste;
+Name: Bristly Wasteland;
 Rarity: 1
 Coastal: 0
 Terrain: (1)

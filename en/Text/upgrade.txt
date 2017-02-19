@@ -1157,8 +1157,8 @@ Does not affect the undead, mechanical units and heroes.#
 /384 Mass Undead Restoration Spell
 #The unit is taught to cast "Mass Undead Restoration" spell, gradually restoring health to all friendly undead units.#
 
-/385 Unrest Spell
-#The unit is taught to cast "Unrest" spell, allows one undead unit which was under effect of unrest spell, raise again with full health when it was destroyed in battle.#
+/385 Eternal Slave Spell
+#The unit is taught to cast "Eternal Slave" spell, allows one undead unit which was under effect of the spell to rise again with full health when it is destroyed in battle.#
 
 /386 Feels No Pain
 #Wounds have no impact on the unit's attack.#
@@ -1654,7 +1654,7 @@ Bloodsucker +10.#
 #This unit can entangle an enemy in roots from a distance, preventing it from moving for 2 turns.#
 
 /535 Necrophage
-#A special ability allowing the unit to devour dead bodies, thereby restoring 5 hit points.#
+#A special ability allowing the unit to devour corpses, thereby restoring 5 hit points.#
 
 /536 Cause Distress
 #Whenever the unit inflicts melee damage to an enemy, it infects the target with a mild disease.#
