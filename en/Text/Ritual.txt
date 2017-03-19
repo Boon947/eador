@@ -137,7 +137,7 @@ The province's income in gold and gems increases by 10.#
 Which units are available depends on specific gnoll buildings in the stronghold.#
 
 39. Holy Army
-#Inquisition troops attack an enemy province. If the Inquisition defeats the guard, province becomes neutral Holy Lands.#
+#Inquisition troops attack an enemy province. If the Inquisition defeats the guard, the province becomes neutral Holy Lands.#
 
 40. Miracle of Nature
 #Population growth in the province significantly improves for 10 turns.#

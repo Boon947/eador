@@ -345,7 +345,7 @@ The castle cannot have more than 3 buildings of this type.#
 
 85. Temple of Life
 #Type: Teaches spells of the second circle.
-Allows heroes to learn the spells Restoration, Exorcism, Word of Life and Wicked's Bane.
+Allows heroes to learn the spells Restoration, Exorcism, Word of Life and Bane of the Wicked.
 Allows to perform the ritual of Heavenly Light.
 The castle cannot have more than 3 buildings of this type.#
 

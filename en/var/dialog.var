@@ -18395,7 +18395,7 @@ Answer3: I want the people to be happy.;#####
 /2402 (Подарок от князя - сжечь, отравленные)
 Window: 2;
 Bitmap: 80;
-Text: #Servants piled the gifts in a great bonfire and lit them up. The people were unhappy, but they did not show it. Imagine the surprise of the attendance, when a suffocating smoke with a pungent smell comes out of the provisions. Alchemists claim it is the smell of a certain kind of poison.#
+Text: #Servants piled the gifts in a great bonfire and lit them up. The people were unhappy, but they did not show it. Imagine the crowd's surprise, when a suffocating smoke with a pungent smell comes out of the provisions. Alchemists claim it is the smell of a certain kind of poison.#
 Answer1: I knew it!;
 Answer2: Well, Prince, you'll pay for that!;
 Answer3: I'm glad that my subjects are safe!;#####

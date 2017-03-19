@@ -18,20 +18,20 @@ Effect increases with the caster's Spellpower. Does not affect the undead, mecha
 
 4. Triple Blade
 #Circle 1.
-School: Metamorphoses.
+School: Metamorphosis.
 Inflicts 9 points of physical damage. Magic immunity does not apply.
 Damage increases slightly with the caster's Spellpower.#
 
 5. Magic Armor
 #Circle 1.
-School: Metamorphoses.
+School: Metamorphosis.
 Increases the melee and ranged defense of the target by 3 points. Lasts 4 turns.
 Duration increases with the caster's Concentration.
 Has no effect on Elementals and incorporeal creatures.#
 
 6. Magic Weapon
 #Circle 1.
-School: Metamorphoses.
+School: Metamorphosis.
 Increases all attack attributes of the target by 2 points. Lasts 5 turns.
 Replenishes ammo by 2.
 Duration increases with the caster's Concentration.
@@ -40,7 +40,7 @@ Has no effect on Animals.#
 7. Head Wind
 #Circle 1.
 School: Elemental Magic.
-Reduces the target's Speed by 2, and Ranged Attack by 1. Unit loses one Stamina each turn. Lasts 6 turns. If the unit's Speed falls below 1, it can still move, but will lose stamina with every step.
+Reduces the target's Speed by 2, and Range by 1. Unit loses one Stamina each turn. Lasts 6 turns. If the unit's Speed falls below 1, it can still move, but will lose stamina with every step.
 Duration increases with the caster's Concentration.
 No effect on incorporeal creatures.#
 
@@ -113,7 +113,7 @@ Duration increases with the caster's Concentration.#
 
 18. Web
 #Circle 1.
-School: Metamorphoses.
+School: Metamorphosis.
 Immobilizes the target, but increases its defense attributes. An entangled target cannot fight. Lasts 2 turns.
 For every 10 points of the target's Attack, Counterattack, or magical Ranged Attack, duration is reduced by 1.
 Duration slightly increases with the caster's Concentration.#
@@ -147,13 +147,13 @@ Damage increases with the caster's Spellpower.#
 
 23. Blast
 #Circle 2.
-School: Metamorphoses.
+School: Metamorphosis.
 Deals 7 points of magic damage to all units within 1 tiles.
 Damage increases with the caster's Spellpower.#
 
 24. Fire Blade
 #Circle 2.
-School: Metamorphoses.
+School: Metamorphosis.
 Increases all attack attributes of the target by 4 and makes its attack deal magic damage. Lasts 3 turns.
 Duration increases with the caster's Concentration.
 Has no effect on Animals and creatures with natural weapons.#
@@ -300,18 +300,18 @@ The summoning range and the demon's attributes depend on the caster's Summoning 
 
 46. Teleport
 #Circle 3.
-School: Metamorphoses.
+School: Metamorphosis.
 Instantly transports the target to a specified vacant tile. If the target is an enemy unit, its resistance must to be overpowered for a successful teleportation.#
 
 47. Antimagic
 #Circle 3.
-School: Metamorphoses.
+School: Metamorphosis.
 Increases the resistance of the target by 10. The target receives spell immunity. Lasts 5 turns.
 Duration increases with the caster's Concentration.#
 
 48. Mass Dispel
 #Circle 3.
-School: Metamorphoses.
+School: Metamorphosis.
 Reduces the duration of negative effects on the friendly units and positive effects on the hostile units by 5 turns. Inflicts 15 damage points on the hostile summoned creatures.
 Effect duration reduction and damage increase with the caster's Resistance negation skill.#
 
@@ -460,19 +460,19 @@ Does not affect demons.#
 
 70. Time Stop
 #Circle 4.
-School: Metamorphoses.
+School: Metamorphosis.
 All friendly units get an additional turn in battle. The spell only affects those units who have already taken a turn.#
 
 71. Dragon Form
 #Circle 4.
-School: Metamorphoses.
+School: Metamorphosis.
 Turns a friendly unit into a Dragon.
 Lasts 3 turns.
 Duration slightly increases with the caster's Concentration.#
 
 72. Polymorph
 #Circle 4.
-School: Metamorphoses.
+School: Metamorphosis.
 Turns an enemy unit into a mule.
 Lasts 4 turns.
 Duration increases with the caster's Concentration. Does not affect heroes.#
@@ -943,7 +943,7 @@ School: Prayers.
 Deals 15 HP damage to an enemy summoned unit. Damage increases with the caster's Spellpower.
 Resistance protects only partially against this spell. Magic immunity does not apply.#
 
-143. Wicked's Bane
+143. Bane of the Wicked
 #Circle 2.
 School: Sacred Magic.
 Grants the target the abilities Smite Evil 2, Hunter of Demons 2, and Hunter of Undead 2.
@@ -1046,7 +1046,7 @@ Has no effect on the Undead, Mechanical units, Heroes, and Elementals.#
 
 158. Warp
 #Circle 1.
-School: Metamorphoses.
+School: Metamorphosis.
 Instantly transports the unit to a specified vacant tile. Only affects the caster.
 The hero using this spell will be immobilized until the end of the next turn.#
 
@@ -1065,7 +1065,7 @@ Damage increases with the caster's Spellpower.#
 161. Head Wind
 #Circle 1.
 School: Elemental Magic.
-Reduces the target's Speed by 2, and Ranged Attack by 1. Enchanted unit loses one Stamina each turn. Lasts 6 turns. If the spell reduces the target's speed below 1, it still can move but will lose some stamina every step.
+Reduces the target's Speed by 2, and Range by 1. Enchanted unit loses one Stamina each turn. Lasts 6 turns. If the spell reduces the target's speed below 1, it still can move but will lose some stamina every step.
 Duration increases with the caster's Concentration.
 No effect on incorporeal creatures.#
 
@@ -1131,7 +1131,7 @@ The summoning range and the Fire Elemental's attributes depend on the caster's S
 
 171. Summon Living Armor
 #Circle 3.
-School: Metamorphoses.
+School: Metamorphosis.
 Summons a Living Armor in a tile next to the caster.
 The summoning range and the Living Armor's attributes depend on the caster's Summoning ability.#
 
@@ -1150,7 +1150,7 @@ Damage increases with the caster's Spellpower.#
 
 174. Skeleton Transformation
 #Circle 4.
-School: Metamorphoses.
+School: Metamorphosis.
 Transforms friendly or enemy unit (with the resistance of 3 or less) in to the Skeleton.
 Lasts 4 turns.
 Duration increases with the caster's Concentration.
@@ -1158,7 +1158,7 @@ Does not affect the undead and heroes.#
 
 175. Fiend Transformation
 #Circle 4.
-School: Metamorphoses.
+School: Metamorphosis.
 Transforms friendly or enemy unit (with the resistance of 7 or less) in to the Fiend.
 Lasts 4 turns.
 Duration increases with the caster's Concentration.
@@ -1166,7 +1166,7 @@ Does not affect the demons and heroes.#
 
 176. Cleric Transformation
 #Circle 4.
-School: Metamorphoses.
+School: Metamorphosis.
 Transforms friendly or enemy unit (with the resistance of 11 or less) in to the Cleric. Magic immunity does not apply.
 Lasts 3 turns.
 Duration increases with the caster's Concentration.
@@ -1244,7 +1244,7 @@ Has no effect on the Undead, Mechanical units, Animals, and Elementals.#
 
 188. Levitation
 #Circle 1.
-School: Metamorphoses.
+School: Metamorphosis.
 Slightly increases the speed of a friendly unit by granting it the ability to float above the terrain. Enchanted unit restores one stamina point each turn.
 Lasts 4 turns. Duration increases with the caster's Concentration.
 Does not affect flying and hovering creatures.#
@@ -1345,7 +1345,7 @@ Has no effect on Animals, and creatures with natural weapons.#
 
 202. Enchanted Weapon.
 #Circle 3.
-School: Metamorphoses.
+School: Metamorphosis.
 The effect of this spell is cumulative.
 Increases all types of attacks to all friendly units by 1. Lasts 4 turns.
 Replenishes ammo by 4.
@@ -1393,7 +1393,7 @@ Has no effect on the Undead, Mechanical units, Chaos Lords, and Elementals.#
 
 209. Titan's Strength
 #Circle 4.
-School: Metamorphoses.
+School: Metamorphosis.
 Increases the attack and counterattack of a friendly unit by 25. Lasts 3 turns.
 Duration increases with the caster's Concentration.
 Has no effect on the Undead, Elementals, Mechanical units, and large creatures.#
@@ -1456,7 +1456,7 @@ Duration slightly increases with the caster's Concentration.#
 
 218. Spectral Blade
 #Circle 2.
-School: Metamorphoses.
+School: Metamorphosis.
 Inflicts 12 points of physical damage.
 Damage increases significantly with the caster's Spellpower.
 Armor protects against the damage, but only partially.
@@ -1677,7 +1677,7 @@ Only works on Mortals. Does not affect Giant creatures.#
 
 249. Burden
 #Circle 2.
-School: Metamorphoses.
+School: Metamorphosis.
 Reduces the speed of all enemy units within 1 tile by 1 and causes them to lose 3 points of stamina. Lasts 3 turns.
 Resistance protects only partially against this spell.
 Duration slightly increases with the caster's Concentration.#
@@ -1698,7 +1698,7 @@ Has no effect on the Undead, Mechanical units, and Elementals.#
 
 252. Containment
 #Circle 3.
-School: Metamorphoses.
+School: Metamorphosis.
 The effect of this spell is cumulative.
 Reduces the target's speed by 1. Enchanted unit loses 2 points of stamina each turn. Lasts 3 turns. If the spell reduces the target's speed below 1, it still can move but will lose some stamina every step.
 Duration increases with the caster's Concentration. Magic Resistance and Magic Immunity offer no protection from this spell.#
@@ -1952,7 +1952,7 @@ No effect on incorporeal creatures.#
 
 289. Magic Crystal
 #Circle 2.
-School: Metamorphoses.
+School: Metamorphosis.
 Invokes a magic crystal in a tile adjacent to the caster.
 The summoning range and the Magic Crystal's attributes depend on the caster's Summoning ability.#
 
