@@ -1,4 +1,4 @@
-Quantity: 288
+Quantity: 289
 
 /0
 Name: Пусто;
@@ -796,7 +796,11 @@ Param2: 0
 
 Ability: 5
 Param1: 0
-Param2: 1;
+Param2: 1
+
+Ability: 27
+Param1: 44
+Param2: 0;
 
 /35
 Name: Мастерская колдуна;
@@ -911,6 +915,10 @@ Ability:
 Ability: 4
 Param1: 2
 Param2: 4
+
+Ability: 15
+Param1: 30
+Param2: 0
 
 Ability: 35
 Param1: 100
@@ -3361,10 +3369,6 @@ Param2: 0
 
 Ability: 31
 Param1: 454
-Param2: 1
-
-Ability: 31
-Param1: 557
 Param2: 1;
 
 /137
@@ -5372,7 +5376,7 @@ Param2: 0
 
 Ability: 1
 Param1: 1
-Param2: 2
+Param2: 1
 
 Ability: 15
 Param1: 72
@@ -5845,7 +5849,11 @@ Param2: 0
 
 Ability: 59
 Param1: 114
-Param2: 0;
+Param2: 0
+
+Ability: 63
+Param1: 8
+Param2: 1;
 
 /233
 Name: Храм Силы;
@@ -5867,7 +5875,11 @@ Param2: 0
 
 Ability: 15
 Param1: 88
-Param2: 0;
+Param2: 0
+
+Ability: 63
+Param1: 8
+Param2: 1;
 
 /234
 Name: Пресветлые чертоги;
@@ -5889,7 +5901,7 @@ Param2: 0
 
 Ability: 1
 Param1: 1
-Param2: 2
+Param2: 1
 
 Ability: 15
 Param1: 73
@@ -5919,7 +5931,7 @@ Resource: (5, 5, 6, 9, 9, 9)
 *Ability*:
 Ability: 1
 Param1: 1
-Param2: 2
+Param2: 1
 
 Ability: 5
 Param1: 0
@@ -5987,7 +5999,7 @@ Resource: (5, 5, 5, 8, 8, 9)
 *Ability*:
 Ability: 1
 Param1: 1
-Param2: 2
+Param2: 1
 
 Ability: 15
 Param1: 75
@@ -7227,7 +7239,11 @@ Param2: 0
 
 Ability: 27
 Param1: 13
-Param2: 0;
+Param2: 0
+
+Ability: 31
+Param1: 408
+Param2: 1;
 
 /288
 Name: Древо Чудес;
@@ -7254,3 +7270,33 @@ Param2: 0
 Ability: 27
 Param1: 42
 Param2: 0;
+
+/289
+Name: Лесной Чертог;
+GoldCost: 2800
+GemCost: 150
+Group: 0
+Slot: 0
+Upgrade: 288
+Hidden: 0
+Level: 8
+
+Buildings: (288, 190)
+Resource: (5, 5, 6, 8, 9, 9)
+
+*Ability*:
+Ability: 1
+Param1: 1
+Param2: 1
+
+Ability: 15
+Param1: 50
+Param2: 3
+
+Ability: 5
+Param1: 0
+Param2: 5
+
+Ability: 11
+Param1: 56
+Param2: 2;

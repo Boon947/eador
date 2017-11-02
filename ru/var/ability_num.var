@@ -1,4 +1,4 @@
-Quantity: 526
+Quantity: 528
 
 /0
 Name: Пусто;
@@ -1625,10 +1625,10 @@ Effect: 0
 Percent: 0
 
 /232
-Name: Заклятье "Встречный ветер";
-Number: 2161
+Name: Гнев болот;
+Number: 49
 Numeric: 1
-Effect: 0
+Effect: 1
 Percent: 0
 
 /233
@@ -2328,8 +2328,8 @@ Percent: 0
 Name: Умелый взломщик;
 Number: 205
 Numeric: 0
-Effect: 0
-Percent: 0
+Effect: 1
+Percent: 1
 
 /333
 Name: Заклятье "Вызвать пересмешника";
@@ -3687,4 +3687,18 @@ Name: Уклонение;
 Number: 222
 Numeric: 1
 Effect: 1
+Percent: 0
+
+/527
+Name: Кислота;
+Number: 345
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/528
+Name: Проглатывание;
+Number: 269
+Numeric: 1
+Effect: 0
 Percent: 0

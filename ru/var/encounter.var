@@ -98,7 +98,7 @@ Param1: 0
 Param2: 2
 
 Flag: 10
-Power: 30
+Power: 1
 Param1: 0
 Param2: 0;
 
@@ -193,7 +193,7 @@ Param1: 0
 Param2: 0
 
 Flag: 10
-Power: 30
+Power: 1
 Param1: 0
 Param2: 0;
 
@@ -3008,11 +3008,11 @@ Power: 0
 Param1: 0
 Param2: 0;
 
-/118 Диалог с гномами-союзниками (нормальные отношения) - не используется
+/118 Кристалл, ритуальный вход
 Type: 0
 Possibility: 0
-Dialog: 207
-DlgParam1: 0
+Dialog: 1942
+DlgParam1: 1
 DlgParam2: 0
 Attacker: 0
 EncWin: 0
@@ -3021,19 +3021,46 @@ EncDraw: 0
 Karma: 0
 
 *Answers*:
-Answer1: 97
-Answer2: 120;
+Answer1: 441
+Answer2: 442
+Answer3: 443
+Answer4: 0;
 
 *Effects*:
-Condition: 15
-Power: 6
-Param1: -1
-Param2: 119
+Index: 15
+Power: 7
+Param1: 5
+Param2: 439
 
-Condition: 15
+Index: 15
+Power: 7
+Param1: 6
+Param2: 440
+
+Index: 4
+Power: 2
+Param1: 8
+Param2: 102
+
+Index: 4
 Power: 3
-Param1: 0
-Param2: 119;
+Param1: 8
+Param2: 113
+
+Index: 4
+Power: 1
+Param1: 10
+Param2: 1
+
+Index: 4
+Power: 2
+Param1: 10
+Param2: 2
+
+Index: 4
+Power: 3
+Param1: 10
+Param2: 3;
 
 /119 Диалог с гномами-союзниками (плохие отношения)
 Type: 0
@@ -11109,10 +11136,10 @@ Power: 0
 Param1: 0
 Param2: 0;
 
-/446 Кристалл, сдача лёгкого квеста
+/446 Кристалл, сдача лёгкого квеста (диалог был 910)
 Type: 0
 Possibility: 0
-Dialog: 910
+Dialog: 1941
 DlgParam1: 1
 DlgParam2: 0
 Attacker: 0
@@ -11137,10 +11164,10 @@ Power: 1
 Param1: 0
 Param2: 0;
 
-/447 Кристалл, сдача среднего квеста
+/447 Кристалл, сдача среднего квеста (диалог был 910)
 Type: 0
 Possibility: 0
-Dialog: 910
+Dialog: 1941
 DlgParam1: 1
 DlgParam2: 0
 Attacker: 0
@@ -11165,10 +11192,10 @@ Power: 1
 Param1: 0
 Param2: 0;
 
-/448 Кристалл, сдача тяжелого квеста
+/448 Кристалл, сдача тяжелого квеста (диалог был 910)
 Type: 0
 Possibility: 0
-Dialog: 910
+Dialog: 1941
 DlgParam1: 1
 DlgParam2: 0
 Attacker: 0
@@ -24458,11 +24485,6 @@ Param1: 0
 Param2: 0
 
 Index: 29
-Power: 169
-Param1: 0
-Param2: 0
-
-Index: 29
 Power: 110
 Param1: 0
 Param2: 0
@@ -25675,7 +25697,12 @@ Param2: 500
 Index: 4
 Power: 2
 Param1: 2
-Param2: 50;
+Param2: 50
+
+Index: 15
+Power: 16
+Param1: 0
+Param2: 1003;
 
 /1068 Игорный дом (небольшая ставка, списываем монеты)
 Type: 0
@@ -25823,7 +25850,12 @@ Param2: 1000
 Index: 4
 Power: 2
 Param1: 2
-Param2: 100;
+Param2: 100
+
+Index: 15
+Power: 16
+Param1: 0
+Param2: 1003;
 
 /1074 Игорный дом (большая ставка, списываем монеты)
 Type: 0

@@ -330,7 +330,7 @@ Item5: 131, 1;
 Quantity: 3/1
 Initiative: 0/0
 Unit1: 100, 3, 1, 1
-Unit2: 14, 2, 1, 0
+Unit2: 14, 2, 1, 1
 Unit3: 109, 1, 1, 0;
 LootPoss: 11
 MaxLoot: 1
@@ -343,7 +343,7 @@ Item3: 55, 1;
 Quantity: 5/2
 Initiative: 0/0
 Unit1: 100, 7, 1, 2
-Unit2: 14, 5, 2, 1
+Unit2: 14, 5, 2, 2
 Unit3: 109, 5, 1, 1
 Unit4: 73, 1, 1, 0;
 LootPoss: 14
@@ -868,7 +868,7 @@ Quantity: 5/2
 Initiative: 1/1
 Unit1: 17, 4, 2, 2
 Unit2: 35, 3, 1, 2
-Unit3: 83, 5, 2, 2;
+Unit3: 83, 1, 2, 2;
 LootPoss: 5
 MaxLoot: 1
 Power: 2
@@ -881,7 +881,7 @@ Quantity: 7/3
 Initiative: 1/2
 Unit1: 17, 8, 2, 3
 Unit2: 35, 5, 2, 2
-Unit3: 83, 9, 2, 3
+Unit3: 83, 4, 2, 3
 Unit4: 210, 3, 1, 1;
 LootPoss: 6
 MaxLoot: 1
@@ -896,7 +896,7 @@ Initiative: 2/2
 Unit1: 17, 12, 3, 4
 Unit2: 35, 8, 2, 3
 Unit3: 53, 3, 1, 1
-Unit4: 83, 14, 2, 4
+Unit4: 83, 7, 2, 4
 Unit5: 210, 6, 1, 2;
 LootPoss: 7
 MaxLoot: 1
@@ -912,7 +912,7 @@ Unit1: 17, 16, 3, 4
 Unit2: 35, 12, 2, 3
 Unit3: 53, 6, 1, 3
 Unit4: 61, 3, 1, 2
-Unit5: 83, 17, 3, 4
+Unit5: 83, 10, 3, 4
 Unit6: 210, 10, 1, 3;
 LootPoss: 8
 MaxLoot: 1
@@ -2032,7 +2032,7 @@ Quantity: 4/2
 Initiative: 1/1
 Unit1: 8, 5, 1, 2
 Unit2: 17, 3, 1, 2
-Unit3: 83, 6, 0, 2
+Unit3: 83, 4, 0, 2
 Unit4: 24, 3, 1, 1
 Unit5: 107, 3, 1, 0;
 LootPoss: 10
@@ -2047,7 +2047,7 @@ Quantity: 6/3
 Initiative: 2/1
 Unit1: 8, 8, 1, 2
 Unit2: 17, 6, 1, 2
-Unit3: 83, 8, 0, 2
+Unit3: 83, 7, 0, 2
 Unit4: 121, 6, 1, 1
 Unit5: 24, 6, 1, 1
 Unit6: 35, 6, 1, 1
@@ -2065,7 +2065,7 @@ Quantity: 8/4
 Initiative: 2/2
 Unit1: 8, 12, 1, 3
 Unit2: 17, 10, 2, 3
-Unit3: 83, 14, 0, 3
+Unit3: 83, 10, 0, 3
 Unit4: 121, 10, 2, 3
 Unit5: 24, 10, 1, 2
 Unit6: 35, 10, 1, 2
@@ -2084,7 +2084,7 @@ Quantity: 11/5
 Initiative: 2/3
 Unit1: 8, 16, 1, 4
 Unit2: 17, 14, 2, 4
-Unit3: 83, 18, 0, 4
+Unit3: 83, 13, 0, 4
 Unit4: 121, 14, 2, 4
 Unit5: 24, 14, 1, 3
 Unit6: 35, 14, 1, 3
@@ -2512,8 +2512,8 @@ Item3: 63, 1;
 /170 Волки 0
 Quantity: 6/3
 Initiative: 1/1
-Unit1: 83, 3, 5, 3
-Unit2: 83, 6, 1, 1;
+Unit1: 83, 1, 5, 3
+Unit2: 83, 5, 1, 1;
 LootPoss: 10
 MaxLoot: 1
 Power: 1
@@ -2524,8 +2524,8 @@ Item3: 63, 1;
 /171 Волки 1
 Quantity: 7/4
 Initiative: 2/1
-Unit1: 83, 6, 6, 3
-Unit2: 83, 10, 1, 1;
+Unit1: 83, 3, 6, 3
+Unit2: 83, 8, 1, 1;
 LootPoss: 10
 MaxLoot: 1
 Power: 2
@@ -2536,8 +2536,8 @@ Item3: 63, 1;
 /172 Волки 2
 Quantity: 9/5
 Initiative: 2/2
-Unit1: 83, 9, 8, 3
-Unit2: 83, 14, 1, 1;
+Unit1: 83, 5, 8, 3
+Unit2: 83, 11, 1, 1;
 LootPoss: 10
 MaxLoot: 1
 Power: 2
@@ -2548,8 +2548,8 @@ Item3: 63, 1;
 /173 Волки 3
 Quantity: 10/6
 Initiative: 3/2
-Unit1: 83, 15, 9, 3
-Unit2: 83, 20, 1, 1;
+Unit1: 83, 7, 9, 3
+Unit2: 83, 14, 1, 1;
 LootPoss: 10
 MaxLoot: 1
 Power: 3
@@ -4230,7 +4230,7 @@ Item3: 73, 1;
 /297 Культ Земли
 Quantity: 14/2
 Initiative: 1/2
-Unit1: 83, 15, 5, 3
+Unit1: 83, 7, 5, 3
 Unit2: 80, 7, 3, 2
 Unit3: 217, 15, 1, 1
 Unit4: 154, 10, 2, 2
@@ -4605,7 +4605,7 @@ Item3: 73, 1;
 /324 Орки 0
 Quantity: 3/2
 Initiative: 0/0
-Unit1: 100, 7, 1, 4
+Unit1: 100, 7, 1, 3
 Unit2: 14, 5, 1, 3
 Unit3: 109, 5, 1, 2
 Unit4: 73, 1, 0, 1;
@@ -5589,7 +5589,7 @@ Item3: 63, 1;
 Quantity: 4/2
 Initiative: 0/1
 Unit1: 109, 3, 1, 1
-Unit2: 83, 6, 3, 1;
+Unit2: 83, 2, 3, 1;
 LootPoss: 5
 MaxLoot: 1
 Power: 1
@@ -5601,7 +5601,7 @@ Item3: 63, 1;
 Quantity: 7/3
 Initiative: 1/0
 Unit1: 109, 6, 2, 1
-Unit2: 83, 10, 5, 2;
+Unit2: 83, 5, 5, 2;
 LootPoss: 7
 MaxLoot: 1
 Power: 2
@@ -5613,7 +5613,7 @@ Item3: 63, 1;
 Quantity: 10/4
 Initiative: 1/1
 Unit1: 109, 9, 3, 2
-Unit2: 83, 14, 6, 2
+Unit2: 83, 8, 6, 2
 Unit3: 110, 4, 1, 1;
 LootPoss: 9
 MaxLoot: 1
@@ -5626,7 +5626,7 @@ Item3: 63, 1;
 Quantity: 12/4
 Initiative: 1/2
 Unit1: 109, 12, 4, 3
-Unit2: 83, 18, 5, 3
+Unit2: 83, 11, 5, 3
 Unit3: 110, 7, 2, 2
 Unit4: 110, 15, 1, 1;
 LootPoss: 11

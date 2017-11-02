@@ -1,4 +1,4 @@
-Quantity: 221
+Quantity: 223
 
 /0
 Name: Пусто;
@@ -1327,7 +1327,19 @@ Spell: 38
 Numeric: 0
 
 /221
+Name: Гнев болот;
+Ability: 49
+Spell: 0
+Numeric: 1
+
+/222
 Name: Уклонение;
 Ability: 222
+Spell: 0
+Numeric: 1
+
+/223
+Name: Проглотил врага;
+Ability: 268
 Spell: 0
 Numeric: 1

@@ -3,6 +3,7 @@ Quantity: 12
 /0
 Name: Пусто;
 Prov_Type: 0
+Guard: 0
 Gold income: 0
 Gem income: 0
 Karma: 0
@@ -21,6 +22,7 @@ Tundra: 0
 /1
 Name: Люди;
 Prov_Type: 1
+Guard: 30
 Gold income: 100
 Gem income: 100
 Karma: 0
@@ -39,6 +41,7 @@ Tundra: 100
 /2
 Name: Эльфы;
 Prov_Type: 9
+Guard: 37
 Gold income: 100
 Gem income: 150
 Karma: 100
@@ -57,6 +60,7 @@ Tundra: 0
 /3
 Name: Гномы;
 Prov_Type: 10
+Guard: 38
 Gold income: 180
 Gem income: 110
 Karma: 50
@@ -75,6 +79,7 @@ Tundra: 0
 /4
 Name: Гоблины;
 Prov_Type: 4
+Guard: 43
 Gold income: 50
 Gem income: 70
 Karma: -60
@@ -93,6 +98,7 @@ Tundra: 20
 /5
 Name: Орки;
 Prov_Type: 6
+Guard: 42
 Gold income: 60
 Gem income: 20
 Karma: -80
@@ -111,6 +117,7 @@ Tundra: 50
 /6
 Name: Половинчики;
 Prov_Type: 8
+Guard: 45
 Gold income: 120
 Gem income: 100
 Karma: 60
@@ -129,6 +136,7 @@ Tundra: 0
 /7
 Name: Кентавры;
 Prov_Type: 18
+Guard: 44
 Gold income: 90
 Gem income: 50
 Karma: 0
@@ -147,6 +155,7 @@ Tundra: 0
 /8
 Name: Людоящеры;
 Prov_Type: 24
+Guard: 68
 Gold income: 100
 Gem income: 100
 Karma: 0
@@ -165,6 +174,7 @@ Tundra: 0
 /9
 Name: Альвары;
 Prov_Type: 25
+Guard: 78
 Gold income: 100
 Gem income: 150
 Karma: -70
@@ -183,6 +193,7 @@ Tundra: 0
 /10
 Name: Гноллы;
 Prov_Type: 26
+Guard: 89
 Gold income: 60
 Gem income: 20
 Karma: -50
@@ -201,6 +212,7 @@ Tundra: 0
 /11
 Name: Алкари;
 Prov_Type: 27
+Guard: 92
 Gold income: 90
 Gem income: 110
 Karma: 100
@@ -219,6 +231,7 @@ Tundra: 0
 /12
 Name: Крысолюды;
 Prov_Type: 28
+Guard: 97
 Gold income: 50
 Gem income: 70
 Karma: 0

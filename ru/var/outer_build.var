@@ -1,4 +1,4 @@
-Quantity: 55
+Quantity: 56
 
 /0
 Name: Пусто;
@@ -2345,7 +2345,11 @@ Param2: 3
 
 Ability: 7
 Param1: 1
-Param2: -100;
+Param2: -100
+
+Ability: 5
+Param1: 2
+Param2: 0;
 
 /49
 Name: Монумент Колдовства;
@@ -2697,3 +2701,54 @@ Ability:
 Ability: 7
 Param1: 748
 Param2: 20;
+
+/56
+Name: Монумент Природы;
+Upgrade: 0
+Building: 0
+GoldCost: 250
+GemCost: 40
+GoldAdd: 5
+GemAdd: 5
+GoldPerc: 0
+GemPerc: 0
+Mood: 1
+Attitude: 0
+Grow: 0
+Karma: 1
+Heal: 0
+Coastal: 0
+Port: 0
+Wall: 0
+TowerHealth: 0
+TowerShoot: 0
+TowerType: 0
+Library: 0
+Shop: 0
+
+Terrain:
+Plain: 0
+Forest: 1
+Hill: 0
+Swamp: 0
+Desert: 0
+Tundra: 0
+
+Resource: (4, 5, 6)
+
+ResourceBonus:
+Resource: 0
+Bonus: 0;
+
+Ability:
+Ability: 2
+Param1: 1
+Param2: 0
+
+Ability: 8
+Param1: 3
+Param2: 3
+
+Ability: 15
+Param1: 43
+Param2: 0;
