@@ -20600,7 +20600,7 @@ Speed: 2
 RangedAttack: 8
 ShootingRange: 3
 Ammo: 4
-Stamina: 15
+Stamina: 12
 Morale: 12
 Exp: 60
 ExpMod: 140
@@ -20625,7 +20625,6 @@ Magic_shot: 58
 Armor_Pierce: 628
 Hill_Dweller: 487
 Blasting: 688
-Healing: 66
 Healing_Circle: 576;
 		
 Lvl 01 upgrades: (1, 4; 20, 4; 16, 4; 7, 3)
@@ -20636,15 +20635,15 @@ Lvl 05 upgrades: (2, 4; 10, 4; 4, 4; 717, 4)
 Lvl 06 upgrades: (30, 4; 13, 4; 192, 4; 487, 4)
 Lvl 07 upgrades: (2, 4; 16, 4; 27, 3; 7, 4)
 Lvl 08 upgrades: (31, 4; 10, 4; 4, 4; 65, 4)
-Lvl 09 upgrades: (2, 4; 13, 4; 72, 4; 661, 4)
+Lvl 09 upgrades: (2, 4; 13, 4; 72, 4; 587, 5)
 Lvl 10 upgrades: (36, 4; 16, 4; 34, 4; 7, 4)
 Lvl 11 upgrades: (2, 4; 10, 4; 20, 4; 545, 3)
 Lvl 12 upgrades: (31, 4; 13, 4; 27, 3; 23, 4)
 Lvl 13 upgrades: (2, 4; 16, 4; 7, 4; 580, 6)
 Lvl 14 upgrades: (36, 4; 40, 4; 4, 4; 65, 4)
 Lvl 15 upgrades: (3, 4; 35, 4; 21, 4; 487, 4)
-Lvl 16 upgrades: (31, 4; 7, 4; 42, 4; 587, 5)
-Lvl 17 upgrades: (3, 4; 40, 4; 4, 3; 661, 4)
+Lvl 16 upgrades: (31, 4; 7, 4; 42, 4; 27, 3)
+Lvl 17 upgrades: (3, 4; 40, 4; 4, 3)
 Lvl 18 upgrades: (32, 4; 42, 4; 27, 3)
 Lvl 19 upgrades: (3, 4; 38, 4; 20, 4; 65, 4)
 Lvl 20 upgrades: (37, 4; 43, 4; 41, 4)

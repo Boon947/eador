@@ -10359,7 +10359,7 @@ AntiEffect: (110)
 
 Effects:
 Heal: 1
-Power: 3
+Power: 4
 Duration: -1
 
 Antidote: 93
@@ -12251,7 +12251,7 @@ Duration: 4;
 Name: Едкая смесь;
 Cost: 6
 LifeCost: 0
-StamCost: 2
+StamCost: 3
 ItemLevel: 8
 Level: 5
 PowerMod: 0
@@ -13766,7 +13766,7 @@ AntiEffect: (110)
 
 Effects:
 Heal: 1
-Power: 6
+Power: 7
 Duration: -1
 
 Antidote: 93

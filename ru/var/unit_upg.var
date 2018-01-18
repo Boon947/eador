@@ -4829,7 +4829,7 @@ Name: Целебный круг;
 Only Once: 1
 Need: (0)
 Upg Type: 2272
-Quantity: 2;
+Quantity: 1;
 
 /577
 Name: Лорд Мрака;
@@ -4866,10 +4866,10 @@ Name: Целебный круг;
 Only Once: 1
 Need: (2272)
 Upg Type: 2272
-Quantity: -2
+Quantity: -1
 
 Upg Type: 2355
-Quantity: 2;
+Quantity: 1;
 
 /581
 Name: Глухая оборона 5;
@@ -4923,7 +4923,7 @@ Quantity: 1;
 Name: Едкая смесь;
 Only Once: 1
 Need: (0)
-Upg Type: 132
+Upg Type: 130
 Quantity: 322
 
 Upg Type: 304
