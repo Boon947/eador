@@ -702,7 +702,7 @@ AntiEffect: (110, 105)
 Effects:
 Web: 47
 Power: 0
-Duration: 2;
+Duration: 3;
 
 /19
 Name: Вызов беса;
@@ -1022,11 +1022,11 @@ FlagEffect: 1
 
 DontMove: 36
 Power: 1
-Duration: 4
+Duration: 5
 
 DontFight: 38
 Power: 1
-Duration: 4;
+Duration: 5;
 
 /27
 Name: Галлюцинации;
@@ -1369,7 +1369,7 @@ StamCost: 1
 ItemLevel: 2
 Level: 2
 PowerMod: 0
-DurationMod: 100
+DurationMod: 50
 Target: 1
 Area: 1
 Radius: 0
@@ -2863,11 +2863,11 @@ FlagEffect: 1
 
 DontMove: 36
 Power: 1
-Duration: 3
+Duration: 4
 
 DontFight: 38
 Power: 1
-Duration: 3;
+Duration: 4;
 
 /76
 Name: Создание голема;
@@ -3535,7 +3535,7 @@ StamCost: 2
 ItemLevel: 3
 Level: 1
 PowerMod: 0
-DurationMod: 100
+DurationMod: 50
 Target: 1
 Area: 1
 Radius: 0
@@ -3568,7 +3568,7 @@ StamCost: 2
 ItemLevel: 4
 Level: 3
 PowerMod: 0
-DurationMod: 100
+DurationMod: 50
 Target: 3
 Area: 1
 Radius: 1
@@ -7308,8 +7308,8 @@ Speed: 7
 Power: 1
 Duration: 3
 
-Multiattack: 66
-Power: 5
+Multiattack: 65
+Power: 1
 Duration: 3
 
 Stamina: 11
@@ -7326,6 +7326,10 @@ Duration: 3
 
 Counterattack: 3
 Power: -5
+Duration: 3
+
+Multiattack: 66
+Power: -4
 Duration: 3
 
 Preparation: 126
@@ -13445,10 +13449,6 @@ UnitKind: (2, 4, 5)
 AntiEffect: (0)
 
 Effects:
-SpellDuration: 906
-Power: 2
-Duration: 3
-
 Summoning: 907
 Power: 6
 Duration: 3
@@ -13475,6 +13475,10 @@ Duration: 3
 
 SpellSent: 115
 Power: 198
+Duration: 3
+
+SpellDuration: 906
+Power: 2
 Duration: 3;
 
 /348

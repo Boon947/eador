@@ -1025,7 +1025,7 @@ Upg Type: 2008
 Quantity: 2;
 
 /139
-Name: Гнев болот;
+Name: Гнев болот +1;
 Only Once: 0
 Need: (217)
 Upg Type: 49
@@ -3293,7 +3293,7 @@ Name: Смертельное касание;
 Only Once: 1
 Need: (0)
 Upg Type: 2190
-Quantity: 1;
+Quantity: 10;
 
 /418
 Name: Стать проповедником;
@@ -5780,7 +5780,7 @@ Need: (0)
 Upg Type: 132
 Quantity: 41
 
-Upg Type: 345
+Upg Type: 356
 Quantity: 1
 
 Upg Type: 147
@@ -6340,7 +6340,7 @@ Quantity: 1;
 Name: Гнев болот +1;
 Only Once: 0
 Need: (0)
-Upg Type: 217
+Upg Type: 49
 Quantity: 1;
 
 /751
