@@ -1,4 +1,4 @@
-Quantity: 221
+Quantity: 223
 
 /0
 Name: Empty;
@@ -1327,7 +1327,19 @@ Spell: 38
 Numeric: 0
 
 /221
+Name: Swamp Rage;
+Ability: 49
+Spell: 0
+Numeric: 1
+
+/222
 Name: Dodge;
 Ability: 222
+Spell: 0
+Numeric: 1
+
+/223
+Name: Swallowing Enemy;
+Ability: 268
 Spell: 0
 Numeric: 1

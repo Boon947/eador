@@ -1,4 +1,4 @@
-Quantity: 526
+Quantity: 528
 
 /0
 Name: Empty;
@@ -1625,10 +1625,10 @@ Effect: 0
 Percent: 0
 
 /232
-Name: Head Wind Spell;
-Number: 2161
+Name: Swamp Rage;
+Number: 49
 Numeric: 1
-Effect: 0
+Effect: 1
 Percent: 0
 
 /233
@@ -2328,8 +2328,8 @@ Percent: 0
 Name: Skillful Looter;
 Number: 205
 Numeric: 0
-Effect: 0
-Percent: 0
+Effect: 1
+Percent: 1
 
 /333
 Name: Summon Mocker Spell;
@@ -3687,4 +3687,18 @@ Name: Dodge;
 Number: 222
 Numeric: 1
 Effect: 1
+Percent: 0
+
+/527
+Name: Acid;
+Number: 356
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/528
+Name: Gobble;
+Number: 269
+Numeric: 1
+Effect: 0
 Percent: 0

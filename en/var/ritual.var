@@ -1,4 +1,4 @@
-Quantity: 42
+Quantity: 44
 
 /0
 Name: Empty;
@@ -1026,3 +1026,61 @@ Effects:
 Effect: 3
 Param1: 1844
 Param2: 0;
+
+/43
+Name: Forest Corridor;
+GoldCost: 0
+GemCost: 35
+Sound: 90
+Karma: 0
+OnAlly: 1
+OnEnemy: 0
+Time: 0
+Cooldown: 5
+Event: 0
+ItemLevel: 5
+ItemRarity: 8
+
+Resource: (8)
+
+Effects:
+Effect: 18
+Param1: 1
+Param2: 0
+
+Effect: 20
+Param1: 1
+Param2: 0
+
+Effect: 5
+Param1: 512
+Param2: 0;
+
+/44
+Name: Magic Crystal;
+GoldCost: 0
+GemCost: 15
+Sound: 38
+Karma: 0
+OnAlly: 1
+OnEnemy: 0
+Time: 0
+Cooldown: 6
+Event: 0
+ItemLevel: 5
+ItemRarity: 8
+
+Resource: (4)
+
+Effects:
+Effect: 4
+Param1: 1
+Param2: 0
+
+Effect: 20
+Param1: 1
+Param2: 0
+
+Effect: 5
+Param1: 118
+Param2: 1;

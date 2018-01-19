@@ -1,4 +1,4 @@
-Quantity: 625
+Quantity: 633
 
 /0
 Name: Empty;
@@ -361,7 +361,7 @@ Name: View Locations;
 Name: Rest (Skip Turn) (R);
 
 /120
-Name: Next Unit (N);
+Name: Next Unit (Space);
 
 /121
 Name: Activate Healing (H);
@@ -1699,16 +1699,16 @@ Name: Rest;
 Name: First Aid;
 
 /566
-Name: Use spare weapon (X);
+Name: Use off-hand weapon (J);
 
 /567
-Name: Use main weapon (X);
+Name: Use main weapon (J);
 
 /568
-Name: Use special ammo (Z);
+Name: Use special ammo (K);
 
 /569
-Name: Use regular ammo (Z);
+Name: Use regular ammo (K);
 
 /570
 Name: Create Armageddon;
@@ -1738,16 +1738,16 @@ Name: Arrange Bombardment (B);
 Name: Cancel Bombardment (B);
 
 /579
-Name: Execute Sniper Shot;
+Name: Use Sniper Shot (W);
 
 /580
 Name: Aim!;
 
 /581
-Name: Use gas bombs;
+Name: Use gas bomb (N);
 
 /582
-Name: Use regular ammo;
+Name: Use regular charge (N);
 
 /583
 Name: Gas Bomb;
@@ -1828,10 +1828,10 @@ Name: Frenzy!;
 Name: Unit type;
 
 /609
-Name: Shield Bash;
+Name: Shield Bash (Q);
 
 /610
-Name: Weapon Strike;
+Name: Weapon Strike (Q);
 
 /611
 Name: Shield Bash!;
@@ -1870,10 +1870,34 @@ Name: Rubble;
 Name: Run!;
 
 /623
-Name: Revert to after the attack;
+Name: Return after attack (Z);
 
 /624
-Name: Do not revert to after the attack;
+Name: Do not return after attack (Z);
 
 /625
 Name: Recurring cost;
+
+/626
+Name: Until recovery;
+
+/627
+Name: Upgrade unit;
+
+/628
+Name: The hero has fallen!;
+
+/629
+Name: The Commander has been killed!;
+
+/630
+Name: Local hero;
+
+/631
+Name: Swallow the enemy;
+
+/632
+Name: Don't swallow the enemy;
+
+/633
+Name: Swallowed!;

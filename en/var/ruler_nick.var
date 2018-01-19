@@ -3,27 +3,27 @@ Quantity: 16
 /0
 Min: -30000
 Max: -200
-Text: the Dark;
+Text: the Dreadful;
 
 /1
 Min: -199
 Max: -150
-Text: the Ruthless;
+Text: the Bloodthirsty;
 
 /2
 Min: -149
 Max: -100
-Text: the Terrible;
+Text: the Dark;
 
 /3
 Min: -99
 Max: -75
-Text: the Bloodthirsty;
+Text: the Wicked;
 
 /4
 Min: -74
 Max: -50
-Text: the Furious;
+Text: the Terrible;
 
 /5
 Min: -49
@@ -38,7 +38,7 @@ Text: the Treacherous;
 /7
 Min: -19
 Max: -10
-Text: the Dishonest;
+Text: the Ruthless;
 
 /8
 Min: -9
@@ -73,7 +73,7 @@ Text: the Clever;
 /14
 Min: 100
 Max: 149
-Text: the Wise;
+Text: the Pure;
 
 /15
 Min: 150
@@ -83,4 +83,4 @@ Text: the Great;
 /16
 Min: 200
 Max: 30000
-Text: the Pure;
+Text: the Blessed;

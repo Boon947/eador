@@ -702,7 +702,7 @@ AntiEffect: (110, 105)
 Effects:
 Web: 47
 Power: 0
-Duration: 2;
+Duration: 3;
 
 /19
 Name: Summon Imp;
@@ -756,7 +756,7 @@ Negative: 1
 OnEnemy: 1
 OnAlly: 0
 Sacrifice: 0
-ResistPower: 150
+ResistPower: 100
 ResistDuration: 0
 DefencePower: 0
 RestoreOnly: 0
@@ -1022,11 +1022,11 @@ FlagEffect: 1
 
 DontMove: 36
 Power: 1
-Duration: 4
+Duration: 5
 
 DontFight: 38
 Power: 1
-Duration: 4;
+Duration: 5;
 
 /27
 Name: Hallucination;
@@ -1369,7 +1369,7 @@ StamCost: 1
 ItemLevel: 2
 Level: 2
 PowerMod: 0
-DurationMod: 100
+DurationMod: 50
 Target: 1
 Area: 1
 Radius: 0
@@ -1607,17 +1607,17 @@ UnitKind: (0)
 AntiEffect: (0)
 
 Effects:
-Damage: 1
-Power: 15
-Duration: -1
-
 Defence: 4
 Power: -2
 Duration: 3
 
 RangedDefence: 5
 Power: -2
-Duration: 3;
+Duration: 3
+
+Damage: 1
+Power: 15
+Duration: -1;
 
 /42
 Name: Mass Slow;
@@ -2863,11 +2863,11 @@ FlagEffect: 1
 
 DontMove: 36
 Power: 1
-Duration: 3
+Duration: 4
 
 DontFight: 38
 Power: 1
-Duration: 3;
+Duration: 4;
 
 /76
 Name: Create Golem;
@@ -3535,7 +3535,7 @@ StamCost: 2
 ItemLevel: 3
 Level: 1
 PowerMod: 0
-DurationMod: 100
+DurationMod: 50
 Target: 1
 Area: 1
 Radius: 0
@@ -3568,7 +3568,7 @@ StamCost: 2
 ItemLevel: 4
 Level: 3
 PowerMod: 0
-DurationMod: 100
+DurationMod: 50
 Target: 3
 Area: 1
 Radius: 1
@@ -4383,19 +4383,19 @@ Duration: 6
 
 Attack: 2
 Power: -5
-Duration: 4
+Duration: 6
 
 CounterAttack: 3
 Power: -5
-Duration: 4
+Duration: 6
 
 RangedAttack: 8
 Power: -5
-Duration: 4
+Duration: 6
 
 Speed: 7
 Power: -1
-Duration: 4;
+Duration: 6;
 
 /116
 Name: Geyser;
@@ -7301,19 +7301,15 @@ AntiEffect: (0)
 
 Effects:
 Attack: 2
-Power: 3
-Duration: 3
-
-Agility: 26
-Power: 1
+Power: 4
 Duration: 3
 
 Speed: 7
 Power: 1
 Duration: 3
 
-Multiattack: 66
-Power: 5
+Multiattack: 65
+Power: 1
 Duration: 3
 
 Stamina: 11
@@ -7332,6 +7328,10 @@ Counterattack: 3
 Power: -5
 Duration: 3
 
+Multiattack: 66
+Power: -4
+Duration: 3
+
 Preparation: 126
 Power: -1
 Duration: 3
@@ -7341,7 +7341,7 @@ Power: -50
 Duration: 3
 
 MoraleChange: 211
-Power: -3
+Power: -2
 Duration: 3
 
 SpellSent: 115
@@ -9207,7 +9207,7 @@ Karma: -3
 Building: 0
 Unloot: 0
 Negative: 0
-OnEnemy: 0
+OnEnemy: 1
 OnAlly: 1
 Sacrifice: 0
 ResistPower: 0
@@ -10000,7 +10000,7 @@ OnEnemy: 1
 OnAlly: 1
 Sacrifice: 0
 ResistPower: 0
-ResistDuration: 200
+ResistDuration: 100
 DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
@@ -10214,7 +10214,7 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 238
-UnitKind: (1, 4, 5, 18, 19)
+UnitKind: (1, 4, 5, 18)
 AntiEffect: (110)
 
 Effects:
@@ -10359,7 +10359,7 @@ AntiEffect: (110)
 
 Effects:
 Heal: 1
-Power: 3
+Power: 4
 Duration: -1
 
 Antidote: 93
@@ -10462,7 +10462,7 @@ AntiEffect: (0)
 
 Effects:
 Summon: 1083
-Power: 5
+Power: 3
 Duration: -1;
 
 /276
@@ -12251,7 +12251,7 @@ Duration: 4;
 Name: Caustic Mixture;
 Cost: 6
 LifeCost: 0
-StamCost: 2
+StamCost: 3
 ItemLevel: 8
 Level: 5
 PowerMod: 0
@@ -12437,8 +12437,8 @@ AntiEffect: (0)
 
 Effects:
 SummonPower: 907
-Power: 2
-Duration: 5;
+Power: 4
+Duration: 3;
 
 /327
 Name: Mental Duel;
@@ -12474,23 +12474,23 @@ Power: -2
 Duration: 4
 
 SpellPower: 905
-Power: -2
+Power: -3
 Duration: 4
 
 SpellDuration: 906
-Power: -2
+Power: -3
 Duration: 4
 
 SummonPower: 907
-Power: -2
+Power: -3
 Duration: 4
 
 UndeadPower: 909
-Power: -2
+Power: -3
 Duration: 4
 
 Resist: 6
-Power: -2
+Power: -3
 Duration: 4
 
 Ammo: 10
@@ -12528,15 +12528,15 @@ AntiEffect: (110)
 Effects:
 Regen: 1
 Power: 4
-Duration: 3
+Duration: 2
 
 Stamina: 11
 Power: 2
-Duration: 3
+Duration: 2
 
 Smite_Evil: 120
 Power: 1
-Duration: 3;
+Duration: 2;
 
 /329
 Name: Mental Resonance;
@@ -12584,7 +12584,7 @@ Power: 4
 Duration: 3
 
 SpellPenetration: 908
-Power: 1
+Power: 2
 Duration: 3
 
 AddTurn: 75
@@ -12630,6 +12630,10 @@ Duration: 2
 
 Smite_Evil: 120
 Power: 4
+Duration: 2
+
+NoCastOnSelf: 149
+Power: 1
 Duration: 2;
 
 /331
@@ -12732,23 +12736,23 @@ Power: -2
 Duration: 4
 
 SpellPower: 905
-Power: -2
+Power: -3
 Duration: 4
 
 SpellDuration: 906
-Power: -2
+Power: -3
 Duration: 4
 
 SummonPower: 907
-Power: -2
+Power: -3
 Duration: 4
 
 UndeadPower: 909
-Power: -2
+Power: -3
 Duration: 4
 
 Resist: 6
-Power: -2
+Power: -3
 Duration: 4
 
 Ammo: 10
@@ -12775,7 +12779,7 @@ OnEnemy: 1
 OnAlly: 0
 Sacrifice: 0
 ResistPower: 0
-ResistDuration: 100
+ResistDuration: 50
 DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
@@ -13445,10 +13449,6 @@ UnitKind: (2, 4, 5)
 AntiEffect: (0)
 
 Effects:
-SpellDuration: 906
-Power: 2
-Duration: 3
-
 Summoning: 907
 Power: 6
 Duration: 3
@@ -13475,6 +13475,10 @@ Duration: 3
 
 SpellSent: 115
 Power: 198
+Duration: 3
+
+SpellDuration: 906
+Power: 2
 Duration: 3;
 
 /348
@@ -13762,7 +13766,7 @@ AntiEffect: (110)
 
 Effects:
 Heal: 1
-Power: 6
+Power: 7
 Duration: -1
 
 Antidote: 93
@@ -14089,7 +14093,7 @@ UnitKind: (0)
 AntiEffect: (0)
 
 Effects:
-Summon: 1283
+Summon: 1229
 Power: 0
 Duration: -1;
 
@@ -14122,7 +14126,7 @@ UnitKind: (0)
 AntiEffect: (0)
 
 Effects:
-Summon: 1284
+Summon: 1230
 Power: 0
 Duration: -1;
 
@@ -14155,7 +14159,7 @@ UnitKind: (0)
 AntiEffect: (0)
 
 Effects:
-Summon: 1285
+Summon: 1231
 Power: 0
 Duration: -1;
 
@@ -14188,7 +14192,7 @@ UnitKind: (0)
 AntiEffect: (0)
 
 Effects:
-Summon: 1286
+Summon: 1234
 Power: 0
 Duration: -1;
 
@@ -14332,7 +14336,7 @@ UnitKind: (0)
 AntiEffect: (0)
 
 Effects:
-Summon: 1287
+Summon: 1227
 Power: 0
 Duration: -1;
 
@@ -14365,7 +14369,7 @@ UnitKind: (0)
 AntiEffect: (0)
 
 Effects:
-Summon: 1288
+Summon: 1169
 Power: 0
 Duration: -1;
 
@@ -14398,7 +14402,7 @@ UnitKind: (0)
 AntiEffect: (0)
 
 Effects:
-Summon: 1289
+Summon: 1228
 Power: 0
 Duration: -1;
 
@@ -14530,7 +14534,7 @@ UnitKind: (0)
 AntiEffect: (0)
 
 Effects:
-Summon: 1216
+Summon: 1193
 Power: 0
 Duration: -1;
 

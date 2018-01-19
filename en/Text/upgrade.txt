@@ -167,7 +167,7 @@
 #When heavily wounded, the unit falls into a battle rage. His attack value increases by 2 and wounds cease to affect it. The unit's morale cannot get lower than its base value.#
 
 /56 Agility
-#The unit receives an ability to avoid the enemy's counterattack in melee.#
+#The unit receives the ability to avoid the enemy's counterattack in melee, and escape roots faster.#
 
 /57 Magic Strike
 #The unit's melee attack inflicts magic damage, which is only mitigated by the enemy's resistance, not its defense.#
@@ -415,8 +415,8 @@
 /138 Haste Spell
 #The unit is taught to cast Haste, increasing the target's movement points and gradually restoring its stamina.#
 
-/139 Slow Spell
-#The unit is taught to cast Slow, reducing the target's movement points and making it gradually lose its stamina.#
+/139 Swamp Rage +1
+#Unit learns to use Interception more effectively, receiving additional bonuses when injured.#
 
 /140 Poison 1
 #Increases poison damage by 1.#
@@ -486,17 +486,17 @@ Teach a unit to cast the "Quen" sign that increases armor and resistance.#
 /161 Death Touched
 #The unit is taught to cast "Stinking Cloud" spell, poisoning all living creatures within 1 tile. In addition, the unit receives "Explosive Weapon" and "Intimidating Shot 1".#
 
-/162 Become Guardian of Souls
-#Swordmaster can get new armor and weapons and joins the ranks of the regular troops as Guardian of Souls.#
+/162 Lord of the Undead
+#Unit learns to create Warriors of Darkness when killing enemies in melee.#
 
 /163 Parry
 #Increase the ability to defend against the first attack.#
 
-/164 Become Ranger
-#When archer received better equipment he is able to join the ranks of Rangers.#
+/164 Lizardman 1
+#Unit learns the abilities "Interception" and "Swamp Rage 1".#
 
-/165 Become Ironclad
-#A Swordsman can get new armor and weapons and joins the ranks of the regular troops as an Ironclad.#
+/165 Lizardman 2
+#Unit learns the abilities "Interception" and "Swamp Rage 2".#
 
 /166 Ranger Shot
 #The unit is taught to use a double shot more effectively, so the cost of stamina is reduced by 2.#
@@ -504,20 +504,20 @@ Teach a unit to cast the "Quen" sign that increases armor and resistance.#
 /167 Sinister Howl
 #The unit is taught to use Terrible Howl, frightening its enemies.#
 
-/168 Become Sniper
-#When crossbowman received better equipment he is able to join the rank of Snipers.#
+/168 Heavy Armor 1
+#The unit's armor is so heavy that just moving costs 1 stamina.#
 
-/169 Become Berserker
-#When a barbarian receives better equipment he is able to join the ranks of Berserkers. The unit loses the ability to shoot, but will become more powerful in melee combat.#
+/169 Heavy Armor 2
+#The unit's armor is so heavy that just moving costs 2 stamina.#
 
-/170 Become Veteran Spearman
-#When spearman received better equipment he is able to join the ranks of Veteran Spearmen.#
+/170 Dodge +1
+#Improves unit's ability to defend against multiple shots.#
 
-/171 Become Witch Doctor
-#When a shaman receives better equipment he is able to join the ranks of Witch Doctors.#
+/171 Dodge +2
+#The unit learns to improve his Ranged Defense for each shot fired at him.#
 
-/172 Become Cutthroat
-#When an assassin receives better equipment he is able to join the ranks of cutthroats.#
+/172 Sparks on Contact
+##
 
 /173 Poison Shot
 #Archer poisons his arrows that shots will poison the enemy. The higher this ability, the more lethal the poison.#
@@ -525,26 +525,26 @@ Teach a unit to cast the "Quen" sign that increases armor and resistance.#
 /174 Poison Attack
 #The unit's melee attack will poison the enemy. The higher this ability is, the more damage the poison inflicts.#
 
-/175 Become Cavalryman
-#When horseman received better equipment he is able to join the rank of Cavalryman.#
+/175 Recover Ammo
+#A special ability allowing the unit to devour corpses to recover up to 3 ammo.#
 
-/176 Become Valkyrie
-#By allowing a heavenly maiden to ride a pegasus you can have a powerful ally at your side called Valkyrie.#
+/176 Recover Ammo +1
+#When eating a corpse, the unit recovers an additional ammo.#
 
 /177 First Aid
 #A special ability allowing the unit to partially heal his wounds while resting.#
 
-/178 Become Bone Spearman
-#Skeleton is equipped with throwing javelins becoming Bone Spearman and is able to attack remotely.#
+/178 Necrophage
+#A special ability allowing the unit to devour corpses, thereby restoring 5 hit points. Additionally, the unit recovers up to 3 ammo.#
 
-/179 Become Mummy
-#Gives a zombie armor and a weapon, creating a much more dangerous and powerful undead creature - a Mummy.#
+/179 Cause Fever
+#When dealing ranged damage, this unit infects the enemy with a mild disease.#
 
-/180 Become Champion
-#When knight received better equipment he is able to join the rank of Champions.#
+/180 Cause Atrophy
+#Switch to ammo that infect enemies with Atrophy.#
 
-/181 Become Cerberus
-#Exposes hellhound to mutation, after which it becomes a ferocious three-headed Cerberus.#
+/181 Cause Leprosy
+#Whenever the unit inflicts melee damage to an enemy, it infects the target with a disease.#
 
 /182 Mind Control
 #The unit is taught to cast "Mind Control" spell, which allows them to take control some of your enemies for a turn.#
@@ -637,10 +637,10 @@ Teach a unit to cast the "Quen" sign that increases armor and resistance.#
 #The unit can cast the "Tribe's Blood" spell, which heals all nearby friendly units for 4 HP, cures poisoning and bleeding, and reduces the effects of Rotting Wounds.#
 
 /212 Chieftain Order
-#The unit is taught to cast the "Chieftain Order" spell, allowing the caster to make an extra turn at the cost of inflicting 5 points of damage to friendly creatures.#
+#The unit learns to cast the "Chieftain Order" spell, inflicting 5 HP damage to an ally, but allowing them to move a second time.#
 
-/213 Become Bandit
-#When a thief becomes experienced enough, he is able to join the Dark Brotherhood, where he will receive new equipment and will be able to join the ranks of troops known as Bandits.#
+/213 Summoning Range
+#Increase the range of summoned creatures by 1.#
 
 /214 Quagmire
 #The unit is taught to cast "Quagmire" spell, slowing the enemy and reduces its defense and ranged defense.#
@@ -678,14 +678,14 @@ Teach a unit to cast the "Quen" sign that increases armor and resistance.#
 /225 Ice Chunk Spell
 #The unit is taught to cast the "Ice Chunk" spell, inflicting 12 points of physical damage to target unit.#
 
-/226 Become Veteran Slinger
-#When slinger survives many battles he could get new equipment for his deeds and could be promoted to Veteran Slinger.#
+/226 Snare
+##
 
-/227 Become Sentinel
-#When a pikeman survives many battles he can get new equipment for his deeds and could be promoted to Sentinel.#
+/227 Trap
+##
 
-/228 Become Grand Healer
-#When a healer receives the special blessing of the Eagle God, which is a great source of healing power, he can continue his service as a Grand Healer.#
+/228 Hornet's Nest
+##
 
 /229 Become Crossbowman
 #When militiaman survives many battles he could get new equipment for his deeds and could be promoted to Crossbowman.#
@@ -768,8 +768,8 @@ Teach a unit to cast the "Quen" sign that increases armor and resistance.#
 /255 Devour Spell
 #The unit is taught to cast "Devour" spell, consuming health from friendly units and healing the caster.#
 
-/256 Become Gang Leader
-#When a soldier receives better equipment, he is able to join the ranks of Gang Leaders.#
+/256 Summoning Power
+#Increase the level of summoned creatures by 1.#
 
 /257 Pathfinder
 #Teaches the unit to freely pass in any terrain.#
@@ -802,7 +802,7 @@ Teach a unit to cast the "Quen" sign that increases armor and resistance.#
 #The unit is taught to cast the "Divine Seal" spell, preventing the target from casting spells. Magic immunity does not apply.#
 
 /267 Armor of Faith Spell
-#The unit can cast the "Armor of Faith" spell, which reduces damage from Undead and Demons by 25~.#
+#The unit can cast the "Armor of Faith" spell, which reduces damage from Undead and Demons by 50~.#
 
 /268 True Resurrection Spell
 #The unit is taught to cast the "True Resurrection" spell, with which you can resurrect fallen friendly units.#
@@ -822,17 +822,17 @@ Teach a unit to cast the "Quen" sign that increases armor and resistance.#
 /273 Divine Vengeance Spell
 #The unit is taught to cast the "Divine Vengeance" spell, inflicting damage to all demons and undead within 2 tiles.#
 
-/274 Become Battle Gryphon
-#Equip the Gryphon with armor so it will able to join the ranks of Battle Gryphons.#
+/274 Hit and Run
+#The unit learns to return to the tile it started from before the attack.#
 
-/275 Become Punisher
-#When soldier received better equipment he is able to join the ranks of Punishers.#
+/275 Prod Spell
+#This unit learns the Prod spell, which grants an allied animal another turn.#
 
-/276 Become Faith Devotee
-#When soldier received better equipment he is able to join the ranks of Faith Devotees.#
+/276 Subdue Beast Spell
+#This unit learns the Subdue Beast spell, to take control of an enemy animal temporarily.#
 
-/277 Become Keshik
-#When soldier received better equipment he is able to join the ranks of Keshiks.#
+/277 Panic
+#Unit learns to retreat in panic. If, in a fit of despair, a unit flees the battlefield, they will not take part in the next battle.#
 
 /278 Smite Evil 2
 #The unit inflicts additional damage on enemies whose souls are tainted by evil.#
@@ -846,20 +846,20 @@ Teach a unit to cast the "Quen" sign that increases armor and resistance.#
 /281 Become Demonologist
 #Perform a special initiation, which promotes the unit to Demonologist.#
 
-/282 Become Springald
-#Improve Ballista design, upgrade to a Springald.#
+/282 Web +1
+#Increase the duration of Web entanglement by 1.#
 
-/283 Become Smiting Hand
-#When a unit receives better equipment, it is able to join the ranks of Smiting Hands.#
+/283 Lifeblood 1
+#Nearby allies receive Regeneration 1, as long as they remain close.#
 
-/284 Become Trebuchet
-#Improve Catapult design, upgrade to a Trebuchet.#
+/284 Lifeblood 2
+#Nearby allies receive Regeneration 1 and Surge of Strength 1, as long as they remain close.#
 
-/285 Become High Mage
-#Perform special consecration after which the unit can join the ranks of the High Mages.#
+/285 Lifeblood 3
+#Nearby allies receive Regeneration 2 and Surge of Strength 1, as long as they remain close.#
 
-/286 Become Patriarch
-#Perform special consecration after which the soldier can join the ranks of the Patriarchs.#
+/286 Lifeblood 4
+#Nearby allies receive Regeneration 3 and Surge of Strength 2, as long as they remain close.#
 
 /287 Mechanical
 #Immunity to poison, morale has no effect on combat capabilities and unit can't fight in close combat.#
@@ -885,8 +885,8 @@ Teach a unit to cast the "Quen" sign that increases armor and resistance.#
 /294 Summon Wyvern Spell
 #The unit is taught to cast "Summon Wyvern" spell, summoning the wyvern on summoner's adjacent tile.#
 
-/295 Become Bodyguard
-#When soldier received better equipment he is able to join the ranks of Bodyguards.#
+/295 Orc Commander
+#Orc Leader and all adjacent units receive Armorpiercing Strike.#
 
 /296 Fire Storm Spell
 #The unit is taught to cast the "Fire Storm" spell, inflicting damage to all units within 2 tiles and igniting them.#
@@ -1032,11 +1032,11 @@ Teach a unit to cast the "Quen" sign that increases armor and resistance.#
 /343 Faith Devotee Tome
 ##
 
-/344 Become Ripper
-#Give the spider chance to go through mutation, after which it will become Ripper.#
+/344 Vitality 30
+#Teach unit to recover an additional 30~ health between battles.#
 
-/345 Become Swallower
-#Give the spider chance to go through mutation, after which it will become Swallower.#
+/345 Vitality +20
+#Increase a unit's ability to recover an additional 20~ health.#
 
 /346 Stomp
 #When attacking an enemy in melee, the unit can trample it down if enemy has 5 or fewer hit points left after the attack. Having made the kill, the unit moves to the tile previously occupied by its opponent.#
@@ -1076,14 +1076,14 @@ Does not affect the undead, mechanical units and heroes.#
 /357 Become Reaper
 #Add two more hands to the skeleton, turning it into a deadly Reaper.#
 
-/358 Become Cadaver
-#A ghoul has mutated into a more dangerous creature - a cadaver. #
+/358 Alertness
+#Unit's Defense improves each time it is attacked.#
 
-/359 Become Banshee
-#Perform a special dark ritual, granting the ghost even greater power and turning it into a harbinger of death - Banshee.#
+/359 Alertness +1
+#Improves unit's ability to defend against a large number of enemies.#
 
-/360 Banshee's Howl Spell
-#The unit is taught to cast the "Banshee's Howl" spell, consuming health and morale, and reducing the speed of all living units within 2 tiles. Magic Resistance and Magic Immunity offer no protection from this spell. Has no effect on the Undead and Mechanical units.#
+/360 Orcish Fury
+#When the unit falls into a Battle Frenzy, Attack increases by 1, and Counterattack increase by 2.#
 
 /361 Banshee
 ##
@@ -1244,14 +1244,14 @@ Does not affect the undead, mechanical units and heroes.#
 /413 Manic Rage 3
 #When the unit takes damage, it falls into a rage. It immediately gets the perks of the Battle Frenzy ability, but loses 3 HP each turn.#
 
-/414 Become Fiend Lord
-#Perform the dark ritual and equip the unit with new upgraded weapons with outstanding features so he continue his service as a Fiend Lord.#
+/414 Orcish Fury
+#When the unit falls into a Battle Frenzy, Attack increases by 2, and Counterattack increase by 4.#
 
 /415 Chaos Distortion Spell
-#The unit is taught to cast "Chaos Distortion" spell, allowing all friendly demons to make an extra move.#
+#Teach the unit to cast "Chaos Distortion" spell, allowing all friendly demons to make a second move.#
 
 /416 Chaos Surge Spell
-#The unit is taught to cast "Chaos Surge" spell, allowing the friendly demon to make an extra move.#
+#Teach the unit to cast "Chaos Surge" spell, allowing a friendly demon to make a second move.#
 
 /417 Deadly Touch Spell
 #The unit is taught to cast the "Deadly Touch" spell, instantly killing a friendly or enemy creature.
@@ -1316,7 +1316,7 @@ Does not affect the undead, mechanical units and heroes.#
 #The unit is taught to cast "Solar Blast" spell, inflicting heavy damage to all enemies.#
 
 /437 Necromancer's Cry Spell
-#The unit is taught to cast "Necromancer's Cry" spell, allowing almost all friendly undead make an extra turn.#
+#Teach the unit to cast "Necromancer's Cry" spell, allowing almost all friendly undead make a second move.#
 
 /438 Elemental Master Tome
 ##
@@ -1623,14 +1623,14 @@ Bloodsucker +10.#
 /524 Huorn
 ##
 
-/525 Become Daokon's Guardian
-#Equipping a war elephant with enchanted armor and performing a special ritual turns it into the fierce Daokon's Guardian.#
+/525 Totem
+##
 
-/526 Become Paragon of Light
-#Giving a Paladin specially blessed equipment turns him into a Paragon of Light.#
+/526 Summoning Power
+#Increase the power of summoned units by 4 (Undead just by 1).#
 
-/527 Become Maleficar
-#Initiating a dedicated warlock into the darkest secrets turns him into a Maleficar.#
+/527 Armor of Faith
+#Reduces damage from Undead and Demons by 50~.#
 
 /528 Stomp
 #When attacking an enemy in melee, the unit can trample it down if enemy has 20 or fewer hit points left after the attack. Having made the kill, the unit moves to the tile previously occupied by the enemy.#
@@ -1777,7 +1777,7 @@ Bloodsucker +10.#
 #Increase the strength of the summoned undead unit by 4.#
 
 /576 Healing Circle Spell
-#The unit is taught to cast the "Healing Circle" spell, healing the caster and all friendly units around it with 3 hit points.#
+#The unit is taught to cast the "Healing Circle" spell, healing the caster and all friendly units around it for 4 HP.#
 
 /577 Lord of Darkness
 ##
@@ -1791,8 +1791,8 @@ Bloodsucker +10.#
 /580 Healing Circle Spell
 #Enhance the "Healing Circle" spell cast by this unit.#
 
-/581 Become Avenger
-#The demon performs a ritual of rebirth, turning it into a terrible avenger.#
+/581 Shield Wall
+#Unit may skip its turn and reduce its Attack in order to increase Defenses by 5 until the next turn. When activated the unit gets Vigilance.#
 
 /582 Scorn Spell
 #The unit is taught to cast the "Scorn" spell, reducing the counterattack, defense and ranged defense of friendly or enemy creatures, but increasing their attack.#
@@ -1810,7 +1810,7 @@ Bloodsucker +10.#
 #The unit is taught to cast the "Rune Amulet" spell, increasing the resistance of friendly units within 1 tile around the caster.#
 
 /587 Caustic Mixture Spell
-#The unit is taught to cast the "Caustic Mixture" spell, reducing the enemy's defense by 3 and poisoning him.#
+#The unit is taught to cast the Caustic Mixture spell, which reduces the enemy's Defense and Ranged Defense by 3, and covers them in acid.#
 
 /588 Raise Demon
 #After its death the unit is resurrected as a regular demon.#
@@ -1848,8 +1848,8 @@ Bloodsucker +10.#
 /599 Word of the Lord Spell
 #The unit can cast the "Word of the Lord" spell, which increases Strength, Armor and Resistance of all Undead allies.#
 
-/600 Become Mocker
-#Performs a ritual on a demon, who becomes a mocker. It will lose the ability to shoot, but it will gain more powerful magical abilities.#
+/600 Mass Bloodlust 4
+#Nearby allies receive Bloodlust 4, Intimidation 2, and Intimidating Shot 2, as long as they remain close.#
 
 /601 Double Shot 3
 #A special ability allowing the unit to take 2 shots at the target at once by spending some stamina.#
@@ -1870,7 +1870,7 @@ Bloodsucker +10.#
 #Increases ranged attack by 1 and inflicts damage from enchanted arrows.#
 
 /607 Hunter's Net
-#Provides the unit with a hunter's net, allowing a shot to entangle the enemy for 2 turns. An entangled enemy cannot do anything. The stronger the enemy, the faster he will get rid of the net.#
+#Provides the unit with a hunter's net, allowing a shot to entangle the enemy for 3 turns. An entangled enemy cannot do anything. The stronger the enemy, the faster he will get rid of the net.#
 
 /608 Arisen Luminary
 ##
@@ -1882,7 +1882,7 @@ Bloodsucker +10.#
 ##
 
 /611 Mental Support Spell
-#The unit is taught to cast the "Mental Support" spell, temporarily increasing summoning power of all friendly units by 2.#
+#The unit is taught to cast the "Mental Support" spell, temporarily increasing summoning power of all friendly units by 4.#
 
 /612 Mental Duel Spell
 #The unit is taught to cast the "Mental Duel" spell, which reduces an enemy's magical abilities.#
@@ -2005,10 +2005,10 @@ Bloodsucker +10.#
 #Increases the magic damage inflicted by the unit's melee attack.#
 
 /652 Bloodlust
-#Increases the morale gained from killing an enemy.#
+#Damage taken increases the unit's morale, and when an enemy is killed, the unit gets an extra morale boost.#
 
 /653 Bloodlust
-#Increases the morale gained from killing an enemy.#
+#Damage taken increases the unit's morale, and when an enemy is killed, the unit gets an extra morale boost.#
 
 /654 Damaged Aura
 #The unit is taught to inflict severe damage to the enemy's aura in melee, decreasing its resistance by 1.#
@@ -2113,7 +2113,7 @@ Bloodsucker +10.#
 #The unit's melee attack will ignite the enemy. The higher this ability is, the more damage the fire inflicts.#
 
 /688 Explosive Weapon
-#The unit is given shells that inflict additional damage to all units around the target.#
+#The unit receives ammo that deals 50% splash damage to all creatures around the target. All affected will be burned by acid.#
 
 /689 Darkness Surge
 #The unit's melee attack inflicts the enemy unit with the effects of the "Darkness Surge" spell.#
@@ -2292,113 +2292,20 @@ Bloodsucker +10.#
 /747 Blood Totem Spell
 #The unit can cast the "Blood Totem" spell, which summons a Blood Totem in an adjacent tile.#
 
-/748 Orcish Fury
-#When the unit falls into a Battle Frenzy, Attack increases by 1, and Counterattack increase by 2.#
+/748 Dagger Master
+#Teach a unit to wield daggers more skillfully. Melee and ranged attacks will deal more damage.#
 
-/749 Summoning Power
-#Increase the power of summoned units by 4 (Undead just by 1).#
+/749 Flaming Weapon
+#Unit's weapon ignites the target, causing additional damage every turn.#
 
-/750 Totem
-##
+/750 Swamp Rage +1
+#Teach unit to use Interception more effectively.#
 
-/751 Orcish Fury
-#When the unit falls into a Battle Frenzy, Attack increases by 2, and Counterattack increase by 4.#
+/751 Gobble 20
+#Unit is able to completely swallow an enemy with less than 20 HP. Digestion restores 5 HP each turn.#
 
-/752 Armor of Faith
-#Reduces damage from Undead and Demons by 50~.#
+/752 Gobble +10
+#Increase the threshold for gobbling an enemy by 10 HP.#
 
-/753 Shield Wall
-#Unit may skip its turn and reduce its Attack in order to increase Defenses by 5 until the next turn. When activated the unit gets Vigilance.#
-
-/754 Mass Bloodlust 4
-#Nearby allies receive Bloodlust 4, Intimidation 2, and Intimidating Shot 2, as long as they remain close.#
-
-/755 Alertness
-#Unit's Defense improves each time it is attacked.#
-
-/756 Alertness +1
-#Improves unit's ability to defend against a large number of enemies.#
-
-/757 Orc Commander
-#Orc Leader and all adjacent units receive Armorpiercing Strike.#
-
-/758 Vitality 30%
-#Outside battle, unit heals 30~ faster.#
-
-/759 Vitality +20%
-#Outside battle, unit heals 20~ faster.#
-
-/760 Lifeblood 1
-#Nearby allies receive Regeneration 1, as long as they remain close.#
-
-/761 Lifeblood 2
-#Nearby allies receive Regeneration 1 and Surge of Strength 1, as long as they remain close.#
-
-/762 Lifeblood 3
-#Nearby allies receive Regeneration 2 and Surge of Strength 1, as long as they remain close.#
-
-/763 Lifeblood 4
-#Nearby allies receive Regeneration 3 and Surge of Strength 2, as long as they remain close.#
-
-/764 Web +1
-#Increase the duration of Web entanglement by 1.#
-
-/765 Panic
-#Increase the duration of Web entanglement by 1.#
-
-/766 Trap
-##
-
-/767 Snare
-##
-
-/768 Hornet's Nest
-##
-
-/769 Summoning Power
-#Increase the level of summoned creatures by 1.#
-
-/770 Hit and Run
-#The unit learns to return to the tile it started from before the attack.#
-
-/771 Prod Spell
-#This unit learns the Prod spell, which grants an allied animal another turn.#
-
-/772 Subdue Beast Spell
-#This unit learns the Subdue Beast spell, to take control of an enemy animal temporarily.#
-
-/773 Summoning Range
-#Increase the range of summoned creatures by 1.#
-
-/774 Cause Fever
-#When dealing ranged damage, this unit infects the enemy with a mild disease.#
-
-/775 Cause Atrophy
-#Switch to ammo that infect enemies with Atrophy.#
-
-/776 Cause Leprosy
-#Whenever the unit inflicts melee damage to an enemy, it infects the target with a disease.#
-
-/777 Necrophage
-#A special ability allowing the unit to devour corpses, thereby restoring 5 hit points. Additionally, the unit recovers up to 3 ammo.#
-
-/778 Recover Ammo
-#A special ability allowing the unit to devour corpses to recover up to 3 ammo.#
-
-/779 Recover Ammo
-#When eating a corpse, the unit recovers an additional ammo.#
-
-/780 Sparks on Contact
-##
-
-/781 Dodge +2
-#The unit learns to improve his Ranged Defense for each shot fired at him.#
-
-/782 Dodge +1
-#Improves unit's ability to defend against multiple shots.#
-
-/783 Heavy Armor 1
-#The unit's armor is so heavy that just moving costs 1 stamina.#
-
-/784 Heavy Armor 2
-#The unit's armor is so heavy that just moving costs 2 stamina.#
+/753 Digestion +5
+#Increases by 5 the number of hit points restored when the unit is digesting an enemy.#

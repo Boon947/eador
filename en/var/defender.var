@@ -37,7 +37,7 @@ Param1: 0
 Param2: 0;
 
 /1
-Name: Local Militia;
+Name: Militia;
 Illustration: 28
 Power: 1
 GoldCost: 30
@@ -1145,9 +1145,9 @@ Param2: 0;
 /30
 Name: Local Militia;
 Illustration: 28
-Power: 0
-GoldCost: 0
-GemGost: 0
+Power: 1
+GoldCost: 50
+GemGost: 5
 GoldPayment: -1
 GemPayment: 0
 Building: 0
@@ -1173,8 +1173,8 @@ Item1: 1, 1
 Item2: 17, 1
 Item3: 63, 1;
 Ability:
-Ability: 0
-Param1: 0
+Ability: 13
+Param1: 1
 Param2: 0;
 
 /31
@@ -4223,7 +4223,11 @@ Param2: 3
 
 Ability: 1
 Param1: -90
-Param2: -90;
+Param2: -90
+
+Ability: 14
+Param1: 1
+Param2: 0;
 
 /104
 Name: Twilight Initiates;

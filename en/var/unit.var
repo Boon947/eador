@@ -1,4 +1,4 @@
-Quantity: 289
+Quantity: 282
 
 /0
 Name: Empty;
@@ -24,6 +24,7 @@ GemPayment: 0
 Subtype: (0)
 Analogs: (0)
 UnitClass: 0
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 0
 SoundShoot: 0
@@ -101,6 +102,7 @@ GemPayment: 0
 Subtype: (1, 6)
 Analogs: (209)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 29
 SoundShoot: 0
@@ -178,6 +180,7 @@ GemPayment: 0
 Subtype: (1, 6)
 Analogs: (119)
 UnitClass: 2
+Upgraded: (119, 13)
 Karma: 0
 SoundHit: 3
 SoundShoot: 52
@@ -198,17 +201,17 @@ Lvl 06 upgrades: (13, 3)
 Lvl 07 upgrades: (1, 4; 20, 3)
 Lvl 08 upgrades: (51, 4; 27, 1)
 Lvl 09 upgrades: (1, 4; 30, 4; 641, 3)
-Lvl 10 upgrades: (34, 4; 7, 4; 226, 5)
+Lvl 10 upgrades: (34, 4; 7, 4)
 Lvl 11 upgrades: (16, 1; 20, 3; 51, 4)
 Lvl 12 upgrades: (2, 4; 4, 3; 23, 1)
 Lvl 13 upgrades: (30, 4; 27, 1)
-Lvl 14 upgrades: (10, 3; 226, 10)
-Lvl 15 upgrades: (2, 4; 13, 3; 641, 4)
+Lvl 14 upgrades: (10, 3; 641, 4)
+Lvl 15 upgrades: (2, 4; 13, 3)
 Lvl 16 upgrades: (16, 1; 7, 4)
-Lvl 17 upgrades: (31, 4; 20, 4; 226, 15)
+Lvl 17 upgrades: (31, 4; 20, 4)
 Lvl 18 upgrades: (2, 4; 34, 4)
-Lvl 19 upgrades: (36, 4)
-Lvl 20 upgrades: (641, 4; 226, 20)
+Lvl 19 upgrades: (27, 4; 36, 4)
+Lvl 20 upgrades: (20, 4; 641, 4)
 
 Lvl 01 loot: (1, 5; 63, 5; 80, 3)
 Lvl 02 loot: (5, 3; 67, 3)
@@ -255,6 +258,7 @@ GemPayment: 0
 Subtype: (1, 6)
 Analogs: (86)
 UnitClass: 1
+Upgraded: (86, 16)
 Karma: 0
 SoundHit: 1
 SoundShoot: 34
@@ -275,17 +279,17 @@ Lvl 06 upgrades: (30, 4; 7, 4; 10, 3)
 Lvl 07 upgrades: (1, 4; 27, 3; 34, 4)
 Lvl 08 upgrades: (30, 4; 4, 4; 16, 4)
 Lvl 09 upgrades: (1, 3; 20, 4; 626, 2)
-Lvl 10 upgrades: (31, 3; 23, 2; 170, 5)
+Lvl 10 upgrades: (31, 3; 23, 2)
 Lvl 11 upgrades: (2, 4; 10, 3; 13, 3)
 Lvl 12 upgrades: (31, 4; 7, 4; 4, 4)
 Lvl 13 upgrades: (2, 4; 27, 4; 34, 4)
-Lvl 14 upgrades: (31, 4; 21, 4; 170, 10)
+Lvl 14 upgrades: (31, 4; 21, 4)
 Lvl 15 upgrades: (2, 4; 7, 4; 627, 4)
 Lvl 16 upgrades: (36, 3; 42, 4; 4, 4)
-Lvl 17 upgrades: (2, 4; 10, 3; 13, 3; 170, 15)
+Lvl 17 upgrades: (2, 4; 10, 3; 13, 3)
 Lvl 18 upgrades: (36, 4; 7, 4; 27, 4)
 Lvl 19 upgrades: (2, 4; 43, 5; 21, 4)
-Lvl 20 upgrades: (37, 9; 38, 9; 170, 20)
+Lvl 20 upgrades: (37, 9; 38, 9)
 
 Lvl 01 loot: (17, 6; 51, 4)
 Lvl 02 loot: (0, 0)
@@ -332,6 +336,7 @@ GemPayment: 0
 Subtype: (1, 6)
 Analogs: (80, 219)
 UnitClass: 2
+Upgraded: (80, 17)
 Karma: 0
 SoundHit: 3
 SoundShoot: 5
@@ -343,26 +348,26 @@ Resource: (2)
 Abilityes:
 Marksman: 128;
 		
-Lvl 01 upgrades: (1, 4; 34, 3;27, 2; 30, 1)
-Lvl 02 upgrades: (30, 3; 7, 3; 84, 2; 128, 4)
+Lvl 01 upgrades: (1, 4; 34, 3; 27, 2; 30, 1)
+Lvl 02 upgrades: (30, 3; 7, 3; 84, 2)
 Lvl 03 upgrades: (1, 4; 20, 4; 27, 3)
-Lvl 04 upgrades: (30, 4; 4, 2)
+Lvl 04 upgrades: (30, 4; 4, 2; 128, 4)
 Lvl 05 upgrades: (1, 4; 13, 4; 50, 5)
 Lvl 06 upgrades: (30, 4; 10, 3; 27, 4)
 Lvl 07 upgrades: (1, 4; 20, 4; 34, 3)
 Lvl 08 upgrades: (30, 4; 16, 4)
 Lvl 09 upgrades: (1, 4; 13, 4; 84, 3)
-Lvl 10 upgrades: (30, 4; 7, 3; 164, 5)
+Lvl 10 upgrades: (30, 4; 7, 3)
 Lvl 11 upgrades: (1, 4; 20, 4; 27, 4)
 Lvl 12 upgrades: (30, 4; 4, 2; 128, 4)
 Lvl 13 upgrades: (1, 4; 16, 4; 34, 3)
-Lvl 14 upgrades: (30, 4; 10, 3; 164, 10)
-Lvl 15 upgrades: (2, 4; 20, 4; 84, 4; 23, 2)
+Lvl 14 upgrades: (30, 4; 10, 3; 23, 2)
+Lvl 15 upgrades: (2, 4; 20, 4; 84, 4)
 Lvl 16 upgrades: (31, 4; 16, 4; 28, 4)
-Lvl 17 upgrades: (2, 4; 13, 4; 164, 15)
+Lvl 17 upgrades: (2, 4; 13, 4)
 Lvl 18 upgrades: (31, 4; 7, 3; 128, 4)
 Lvl 19 upgrades: (3, 4; 21, 4; 34, 3)
-Lvl 20 upgrades: (31, 4; 4, 2; 164, 20)
+Lvl 20 upgrades: (31, 4; 4, 2)
 
 Lvl 01 loot: (29, 6; 46, 6; 51, 3)
 Lvl 02 loot: (47, 6)
@@ -409,6 +414,7 @@ GemPayment: 0
 Subtype: (1, 6)
 Analogs: (81)
 UnitClass: 1
+Upgraded: (81, 19)
 Karma: 1
 SoundHit: 27
 SoundShoot: 0
@@ -427,20 +433,20 @@ Lvl 03 upgrades: (1, 4; 10, 4; 726, 3)
 Lvl 04 upgrades: (30, 4; 4, 4; 16, 4)
 Lvl 05 upgrades: (1, 4; 34, 4; 85, 4)
 Lvl 06 upgrades: (30, 4; 7, 4; 13, 4)
-Lvl 07 upgrades: (1, 4; 4, 4; 630, 5)
-Lvl 08 upgrades: (30, 4; 10, 4)
+Lvl 07 upgrades: (1, 4; 4, 4)
+Lvl 08 upgrades: (30, 4; 630, 5)
 Lvl 09 upgrades: (1, 4; 35, 4; 16, 4)
-Lvl 10 upgrades: (31, 4; 7, 4; 165, 5)
-Lvl 11 upgrades: (36, 4; 13, 4; 727, 4)
-Lvl 12 upgrades: (31, 4; 5, 4; 85, 4; 633, 4)
-Lvl 13 upgrades: (2, 4; 35, 4; 10, 4)
-Lvl 14 upgrades: (31, 4; 38, 4; 40, 4; 165, 10)
+Lvl 10 upgrades: (31, 4; 7, 4; 727, 5)
+Lvl 11 upgrades: (36, 4; 13, 4; 10, 4)
+Lvl 12 upgrades: (31, 4; 5, 4; 85, 4)
+Lvl 13 upgrades: (2, 4; 35, 4; 633, 4)
+Lvl 14 upgrades: (31, 4; 38, 4; 40, 4)
 Lvl 15 upgrades: (2, 4; 42, 4; 14, 4)
 Lvl 16 upgrades: (31, 4; 8, 5; 40, 4)
-Lvl 17 upgrades: (36, 4; 42, 4; 165, 15)
-Lvl 18 upgrades: (32, 4; 5, 5; 14, 4; 633, 4)
-Lvl 19 upgrades: (36, 4; 35, 4; 11, 4)
-Lvl 20 upgrades: (32, 4; 38, 4; 85, 4; 165, 20)
+Lvl 17 upgrades: (36, 4; 42, 4; 633, 4)
+Lvl 18 upgrades: (32, 4; 5, 5; 14, 4)
+Lvl 19 upgrades: (36, 4; 35, 4; 10, 4)
+Lvl 20 upgrades: (32, 4; 38, 4; 85, 4)
 
 Lvl 01 loot: (9, 6; 41, 5; 55, 3)
 Lvl 02 loot: (42, 5)
@@ -487,6 +493,7 @@ GemPayment: 0
 Subtype: (1, 6)
 Analogs: (120)
 UnitClass: 1
+Upgraded: (120, 17)
 Karma: 1
 SoundHit: 1
 SoundShoot: 0
@@ -501,26 +508,26 @@ Reinvigoration: 51
 First_Aid: 65
 HoldGround: 493;
 		
-Lvl 01 upgrades: (1, 4; 4, 4; 34, 4; 16, 3; 30, 1)
+Lvl 01 upgrades: (1, 4; 4, 4; 34, 4; 30, 1)
 Lvl 02 upgrades: (30, 4; 7, 3; 10, 4)
 Lvl 03 upgrades: (1, 4; 13, 4)
 Lvl 04 upgrades: (30, 4; 4, 4; 7, 4; 59, 2)
 Lvl 05 upgrades: (1, 4; 34, 4; 16, 3)
 Lvl 06 upgrades: (30, 4; 7, 4; 10, 4; 731, 5)
-Lvl 07 upgrades: (2, 4; 4, 4; 13, 4)
-Lvl 08 upgrades: (31, 4; 69, 3; 56, 4)
+Lvl 07 upgrades: (2, 4; 4, 4; 56, 4)
+Lvl 08 upgrades: (31, 4; 69, 3; 13, 4)
 Lvl 09 upgrades: (2, 4; 16, 3; 65, 4)
-Lvl 10 upgrades: (31, 4; 4, 4; 7, 4; 227, 5)
-Lvl 11 upgrades: (2, 4; 35, 4; 10, 4; 13, 4)
-Lvl 12 upgrades: (31, 4; 8, 4; 75, 1; 51, 4)
-Lvl 13 upgrades: (3, 4; 4, 4; 16, 3)
-Lvl 14 upgrades: (31, 4; 8, 4; 227, 10)
+Lvl 10 upgrades: (31, 4; 4, 4; 7, 4)
+Lvl 11 upgrades: (2, 4; 35, 4; 10, 4)
+Lvl 12 upgrades: (31, 4; 8, 4; 75, 1)
+Lvl 13 upgrades: (3, 4; 4, 4; 51, 4)
+Lvl 14 upgrades: (31, 4; 8, 4; 16, 3)
 Lvl 15 upgrades: (3, 4; 35, 4; 13, 4)
 Lvl 16 upgrades: (36, 4; 5, 4; 10, 4)
-Lvl 17 upgrades: (3, 4; 42, 4; 40, 4; 227, 15)
+Lvl 17 upgrades: (3, 4; 42, 4; 40, 4)
 Lvl 18 upgrades: (32, 4; 8, 4)
 Lvl 19 upgrades: (37, 4; 35, 4)
-Lvl 20 upgrades: (37, 4; 38, 4; 227, 20)
+Lvl 20 upgrades: (37, 4; 38, 4)
 
 Lvl 01 loot: (17, 6; 55, 3)
 Lvl 02 loot: (0, 0)
@@ -567,6 +574,7 @@ GemPayment: 0
 Subtype: (1, 6)
 Analogs: (84)
 UnitClass: 2
+Upgraded: (84, 18)
 Karma: 1
 SoundHit: 36
 SoundShoot: 37
@@ -587,17 +595,17 @@ Lvl 06 upgrades: (30, 4; 16, 3; 4, 3)
 Lvl 07 upgrades: (1, 4; 34, 4; 7, 4)
 Lvl 08 upgrades: (30, 4; 10, 3; 21, 4)
 Lvl 09 upgrades: (1, 4; 7, 4)
-Lvl 10 upgrades: (30, 4; 13, 3; 27, 4; 168, 5)
+Lvl 10 upgrades: (30, 4; 13, 3; 27, 4)
 Lvl 11 upgrades: (2, 4; 34, 4; 21, 4)
 Lvl 12 upgrades: (30, 4; 16, 3; 4, 3)
 Lvl 13 upgrades: (2, 4; 23, 3)
-Lvl 14 upgrades: (31, 4; 10, 3; 21, 4; 168, 10)
+Lvl 14 upgrades: (31, 4; 10, 3; 21, 4)
 Lvl 15 upgrades: (2, 4; 35, 4; 7, 4)
 Lvl 16 upgrades: (31, 4; 13, 3; 38, 1)
-Lvl 17 upgrades: (2, 4; 42, 4; 21, 4; 168, 15)
+Lvl 17 upgrades: (2, 4; 42, 4; 21, 4)
 Lvl 18 upgrades: (36, 4; 16, 3; 27, 4)
 Lvl 19 upgrades: (2, 4; 42, 4; 4, 3)
-Lvl 20 upgrades: (36, 4; 40, 3; 21, 4; 168, 20)
+Lvl 20 upgrades: (36, 4; 40, 3; 21, 4)
 
 Lvl 01 loot: (33, 6; 46, 3; 55, 2)
 Lvl 02 loot: (47, 3)
@@ -644,6 +652,7 @@ GemPayment: 1
 Subtype: (1, 6)
 Analogs: (121)
 UnitClass: 4
+Upgraded: (121, 21)
 Karma: 2
 SoundHit: 3
 SoundShoot: 0
@@ -664,17 +673,17 @@ Lvl 06 upgrades: (30, 4; 16, 4; 26, 4)
 Lvl 07 upgrades: (1, 4; 4, 2; 52, 5)
 Lvl 08 upgrades: (30, 4; 10, 2; 65, 4)
 Lvl 09 upgrades: (1, 4; 34, 4; 26, 4)
-Lvl 10 upgrades: (30, 4; 16, 4; 27, 3; 228, 5)
+Lvl 10 upgrades: (30, 4; 16, 4; 27, 3)
 Lvl 11 upgrades: (1, 4; 7, 2)
 Lvl 12 upgrades: (30, 4; 13, 2; 26, 4)
 Lvl 13 upgrades: (2, 4; 34, 4; 65, 4)
-Lvl 14 upgrades: (31, 4; 10, 2; 228, 10)
+Lvl 14 upgrades: (31, 4; 10, 2)
 Lvl 15 upgrades: (2, 4; 35, 4; 26, 4)
 Lvl 16 upgrades: (31, 4; 16, 4; 27, 3)
-Lvl 17 upgrades: (2, 4; 42, 4; 10, 2; 228, 15)
+Lvl 17 upgrades: (2, 4; 42, 4; 10, 2)
 Lvl 18 upgrades: (36, 4; 13, 2; 26, 4)
 Lvl 19 upgrades: (2, 4; 42, 4; 7, 2)
-Lvl 20 upgrades: (36, 4; 10, 2; 65, 4; 228, 20)
+Lvl 20 upgrades: (36, 4; 10, 2; 65, 4)
 
 Lvl 01 loot: (5, 4; 63, 6)
 Lvl 02 loot: (80, 3)
@@ -721,6 +730,7 @@ GemPayment: 0
 Subtype: (1, 6)
 Analogs: (85)
 UnitClass: 1
+Upgraded: (85, 15)
 Karma: -1
 SoundHit: 53
 SoundShoot: 78
@@ -734,24 +744,24 @@ Berserk: 55;
 		
 Lvl 01 upgrades: (1, 4; 34, 4; 93, 4; 30, 1)
 Lvl 02 upgrades: (30, 3; 20, 3; 4, 4)
-Lvl 03 upgrades: (2, 4; 93, 4)
+Lvl 03 upgrades: (2, 4; 93, 4; 652, 4)
 Lvl 04 upgrades: (30, 4; 10, 3; 7, 3)
 Lvl 05 upgrades: (2, 4; 34, 4; 93, 4; 75, 1)
 Lvl 06 upgrades: (30, 4; 20, 3; 4, 4)
 Lvl 07 upgrades: (2, 4; 93, 4)
 Lvl 08 upgrades: (31, 4; 10, 3)
 Lvl 09 upgrades: (2, 4; 34, 4; 93, 4)
-Lvl 10 upgrades: (31, 4; 20, 3; 169, 5)
-Lvl 11 upgrades: (2, 4; 93, 4)
+Lvl 10 upgrades: (31, 4; 20, 3; 652, 4)
+Lvl 11 upgrades: (2, 4; 93, 4; 27, 2)
 Lvl 12 upgrades: (31, 4; 13, 3; 7, 3)
 Lvl 13 upgrades: (3, 4; 35, 4; 93, 4)
-Lvl 14 upgrades: (31, 4; 20, 4; 4, 4; 169, 10)
+Lvl 14 upgrades: (31, 4; 21, 4; 4, 4)
 Lvl 15 upgrades: (3, 4; 93, 4; 27, 2)
 Lvl 16 upgrades: (36, 4; 10, 3; 38, 4)
-Lvl 17 upgrades: (3, 4; 35, 4; 93, 4; 169, 15)
+Lvl 17 upgrades: (3, 4; 35, 4; 93, 4)
 Lvl 18 upgrades: (32, 4; 21, 3; 4, 4)
 Lvl 19 upgrades: (37, 4; 35, 4; 93, 4)
-Lvl 20 upgrades: (32, 4; 21, 3; 27, 2; 39, 3; 169, 20)
+Lvl 20 upgrades: (32, 4; 21, 3; 39, 3)
 
 Lvl 01 loot: (13, 6; 51, 3)
 Lvl 02 loot: (25, 4)
@@ -777,8 +787,8 @@ Lvl 20 loot: (0, 0)
 /10
 Name: Thief;
 Level: 1
-Life: 13
-Attack: 6
+Life: 14
+Attack: 7
 CounterAttack: 4
 Defence: 1
 RangedDefence: 0
@@ -788,9 +798,9 @@ RangedAttack: 5
 ShootingRange: 2
 Ammo: 3
 Stamina: 10
-Morale: 6
+Morale: 7
 Exp: 20
-ExpMod: 60
+ExpMod: 55
 GoldPrice: 15
 GemPrice: 0
 GoldPayment: 3
@@ -798,6 +808,7 @@ GemPayment: 0
 Subtype: (1, 6)
 Analogs: (112)
 UnitClass: 1
+Upgraded: (112, 9)
 Karma: -2
 SoundHit: 49
 SoundShoot: 50
@@ -809,27 +820,28 @@ Resource: (0)
 Abilityes:
 Agility: 56
 Maradeur15: 87
+ArrowsFocus1: 170
 Backstab_2: 509
 Parry: 625;
 		
-Lvl 01 upgrades: (1, 4; 27, 3; 30, 3; 4, 2; 74, 1)
-Lvl 02 upgrades: (30, 1; 20, 4; 10, 2; 508, 4)
+Lvl 01 upgrades: (1, 4; 27, 3; 4, 2; 74, 1; 550, 2)
+Lvl 02 upgrades: (30, 4; 20, 4; 10, 2; 170, 4; 508, 4)
 Lvl 03 upgrades: (1, 4; 7, 3; 71, 2; 625, 4)
-Lvl 04 upgrades: (30, 4; 4, 4; 16, 3)
+Lvl 04 upgrades: (30, 4; 4, 4; 16, 3; 748, 4)
 Lvl 05 upgrades: (1, 4; 13, 3; 132, 4)
-Lvl 06 upgrades: (30, 4; 20, 4; 213, 5)
-Lvl 07 upgrades: (1, 4; 71, 4; 509, 5)
+Lvl 06 upgrades: (30, 4; 34, 4; 20, 4; 170, 4)
+Lvl 07 upgrades: (1, 4; 71, 4; 10, 4; 509, 5)
 Lvl 08 upgrades: (30, 4; 27, 3; 550, 3)
 Lvl 09 upgrades: (1, 4; 13, 3; 132, 4; 720, 3)
-Lvl 10 upgrades: (30, 4; 4, 4; 19, 2; 213, 10)
+Lvl 10 upgrades: (30, 4; 4, 4; 19, 2; 170, 4)
 Lvl 11 upgrades: (2, 4; 20, 4; 23, 2; 625, 4)
 Lvl 12 upgrades: (30, 4; 7, 3; 10, 3; 16, 3)
-Lvl 13 upgrades: (2, 4; 132, 4; 213, 15)
+Lvl 13 upgrades: (2, 4; 34, 4; 132, 4; 748, 4)
 Lvl 14 upgrades: (31, 4; 27, 3; 550, 7)
 Lvl 15 upgrades: (2, 4; 20, 4; 71, 4; 508, 4)
-Lvl 16 upgrades: (31, 4; 4, 4; 213, 20)
-Lvl 17 upgrades: (2, 4; 13, 3; 132, 4)
-Lvl 18 upgrades: (31, 4; 7, 3; 16, 3)
+Lvl 16 upgrades: (31, 4; 4, 4; 712, 10)
+Lvl 17 upgrades: (2, 4; 13, 3; 132, 4; 170, 4)
+Lvl 18 upgrades: (31, 4; 7, 3; 16, 3; 748, 4)
 Lvl 19 upgrades: (2, 4; 4, 4; 71, 4; 85, 4)
 Lvl 20 upgrades: (36, 4; 20, 4; 10, 3; 509, 5)
 
@@ -870,7 +882,7 @@ Ammo: 0
 Stamina: 10
 Morale: 8
 Exp: 20
-ExpMod: 55
+ExpMod: 60
 GoldPrice: 10
 GemPrice: 0
 GoldPayment: 2
@@ -878,6 +890,7 @@ GemPayment: 0
 Subtype: (1, 6)
 Analogs: (128, 219)
 UnitClass: 1
+Upgraded: (128, 12)
 Karma: -2
 SoundHit: 0
 SoundShoot: 0
@@ -895,17 +908,17 @@ Lvl 02 upgrades: (30, 1; 13, 4)
 Lvl 03 upgrades: (1, 4; 7, 4; 551, 2)
 Lvl 04 upgrades: (30, 1; 4, 4)
 Lvl 05 upgrades: (1, 4; 16, 4; 591, 4)
-Lvl 06 upgrades: (30, 1; 34, 3; 256, 5)
+Lvl 06 upgrades: (30, 1; 34, 3)
 Lvl 07 upgrades: (1, 4; 7, 4; 550, 3)
 Lvl 08 upgrades: (30, 1; 4, 4)
-Lvl 09 upgrades: (2, 4; 10, 4; 550, 3)
-Lvl 10 upgrades: (30, 1; 13, 4; 256, 10)
+Lvl 09 upgrades: (2, 4; 10, 4; 551, 3)
+Lvl 10 upgrades: (30, 1; 13, 4)
 Lvl 11 upgrades: (2, 4; 16, 4)
 Lvl 12 upgrades: (31, 4; 4, 4; 591, 5)
-Lvl 13 upgrades: (2, 4; 7, 4; 256, 15)
+Lvl 13 upgrades: (2, 4; 7, 4; 550, 4)
 Lvl 14 upgrades: (31, 4; 10, 4; 80, 4)
-Lvl 15 upgrades: (2, 4; 13, 4; 551, 4)
-Lvl 16 upgrades: (36, 4; 4, 4; 256, 20)
+Lvl 15 upgrades: (2, 4; 13, 4)
+Lvl 16 upgrades: (36, 4; 4, 4)
 Lvl 17 upgrades: (3, 4; 10, 4; 16, 4)
 Lvl 18 upgrades: (36, 4; 7, 4; 34, 3)
 Lvl 19 upgrades: (3, 4; 40, 4)
@@ -956,6 +969,7 @@ GemPayment: 1
 Subtype: (1, 6)
 Analogs: (87)
 UnitClass: 4
+Upgraded: (87, 18)
 Karma: -1
 SoundHit: 60
 SoundShoot: 57
@@ -976,18 +990,18 @@ Lvl 05 upgrades: (1, 4; 20, 4; 73, 4)
 Lvl 06 upgrades: (30, 4; 4, 3; 10, 3)
 Lvl 07 upgrades: (1, 4; 16, 4; 547, 3)
 Lvl 08 upgrades: (30, 4; 7, 4; 27, 3)
-Lvl 09 upgrades: (1, 4; 34, 3; 20, 4; 115, 5)
-Lvl 10 upgrades: (30, 4; 16, 4; 52, 3; 171, 5)
-Lvl 11 upgrades: (1, 4; 4, 3; 547, 4)
+Lvl 09 upgrades: (1, 4; 34, 3; 20, 4)
+Lvl 10 upgrades: (30, 4; 16, 4; 52, 3)
+Lvl 11 upgrades: (1, 4; 4, 3; 115, 5)
 Lvl 12 upgrades: (30, 4; 16, 4; 624, 4)
 Lvl 13 upgrades: (1, 4; 20, 4; 13, 3)
-Lvl 14 upgrades: (30, 4; 7, 4; 171, 10)
+Lvl 14 upgrades: (30, 4; 7, 4; 547, 4)
 Lvl 15 upgrades: (1, 4; 16, 4; 27, 3)
 Lvl 16 upgrades: (30, 4; 4, 3; 10, 3)
-Lvl 17 upgrades: (2, 4; 34, 3; 171, 15)
+Lvl 17 upgrades: (2, 4; 34, 3)
 Lvl 18 upgrades: (31, 4; 16, 4; 20, 4)
 Lvl 19 upgrades: (2, 4; 7, 4; 27, 3; 547, 4)
-Lvl 20 upgrades: (36, 4; 42, 4; 21, 4; 171, 20)
+Lvl 20 upgrades: (36, 4; 42, 4; 20, 4)
 
 Lvl 01 loot: (1, 3; 5, 4; 63, 3)
 Lvl 02 loot: (37, 5; 80, 2)
@@ -1034,6 +1048,7 @@ GemPayment: 0
 Subtype: (1, 9)
 Analogs: (77, 96, 129, 130)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: -2
 SoundHit: 61
 SoundShoot: 0
@@ -1045,27 +1060,27 @@ Resource: (0)
 Abilityes:
 Summon_snare: 251
 Swamp_Dweller: 488
-Panic: 765;
+Panic: 277;
 		
 Lvl 01 upgrades: (1, 4; 4, 4; 30, 4)
 Lvl 02 upgrades: (30, 1; 7, 3)
 Lvl 03 upgrades: (1, 4; 10, 3)
 Lvl 04 upgrades: (30, 4; 4, 4)
 Lvl 05 upgrades: (1, 4; 7, 3; 75, 2)
-Lvl 06 upgrades: (30, 4; 13, 3; 769, 4)
+Lvl 06 upgrades: (30, 4; 13, 3; 256, 4)
 Lvl 07 upgrades: (1, 4; 4, 4; 488, 4)
 Lvl 08 upgrades: (30, 4; 7, 3)
 Lvl 09 upgrades: (1, 4; 10, 3)
 Lvl 10 upgrades: (30, 4; 4, 4; 16, 2; 56, 2)
 Lvl 11 upgrades: (1, 4; 7, 3; 27, 4)
 Lvl 12 upgrades: (30, 4; 13, 3)
-Lvl 13 upgrades: (1, 4; 4, 4; 769, 4)
+Lvl 13 upgrades: (1, 4; 4, 4; 256, 4)
 Lvl 14 upgrades: (31, 4; 7, 3)
-Lvl 15 upgrades: (2, 4; 10, 3; 773, 4)
+Lvl 15 upgrades: (2, 4; 10, 3; 213, 4)
 Lvl 16 upgrades: (31, 4; 4, 4)
 Lvl 17 upgrades: (2, 4; 7, 3; 488, 4)
 Lvl 18 upgrades: (36, 4; 13, 3)
-Lvl 19 upgrades: (2, 4; 38, 4; 769, 4)
+Lvl 19 upgrades: (2, 4; 38, 4; 256, 4)
 Lvl 20 upgrades: (36, 4; 5, 4; 34, 2; 27, 4)
 
 Lvl 01 loot: (1, 5)
@@ -1113,6 +1128,7 @@ GemPayment: 0
 Subtype: (1, 10)
 Analogs: (73, 100, 109, 110, 195)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: -2
 SoundHit: 2
 SoundShoot: 0
@@ -1125,7 +1141,7 @@ Abilityes:
 Damages_armor: 75
 HoldGround: 493
 Shield_bash_2: 726
-Extra_Healing: 759;
+Extra_Healing: 345;
 		
 Lvl 01 upgrades: (2, 4; 30, 4; 7, 4)
 Lvl 02 upgrades: (31, 1; 34, 2; 10, 3)
@@ -1138,7 +1154,7 @@ Lvl 08 upgrades: (31, 4; 4, 4; 51, 4)
 Lvl 09 upgrades: (2, 4; 157, 4)
 Lvl 10 upgrades: (36, 4; 7, 4; 10, 3)
 Lvl 11 upgrades: (2, 4; 4, 4; 13, 3)
-Lvl 12 upgrades: (31, 4; 16, 2; 759, 4)
+Lvl 12 upgrades: (31, 4; 16, 2; 345, 4)
 Lvl 13 upgrades: (2, 4; 7, 4; 157, 4)
 Lvl 14 upgrades: (36, 4; 4, 4; 10, 3)
 Lvl 15 upgrades: (3, 4; 34, 3; 13, 3)
@@ -1193,6 +1209,7 @@ GemPayment: 1
 Subtype: (1, 7)
 Analogs: (105, 106, 107, 126, 127)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 3
 SoundHit: 49
 SoundShoot: 5
@@ -1272,6 +1289,7 @@ GemPayment: 0
 Subtype: (1, 8)
 Analogs: (103, 156, 255, 256)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: 2
 SoundHit: 27
 SoundShoot: 0
@@ -1351,6 +1369,7 @@ GemPayment: 3
 Subtype: (1, 28)
 Analogs: (0)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: 2
 SoundHit: 62
 SoundShoot: 63
@@ -1432,6 +1451,7 @@ GemPayment: 0
 Subtype: (1, 11)
 Analogs: (132, 259, 261, 262)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 2
 SoundHit: 3
 SoundShoot: 52
@@ -1511,6 +1531,7 @@ GemPayment: 1
 Subtype: (2, 25)
 Analogs: (91, 170, 193)
 UnitClass: 1
+Upgraded: (91, 16)
 Karma: -3
 SoundHit: 0
 SoundShoot: 0
@@ -1532,17 +1553,17 @@ Lvl 06 upgrades: (19, 3; 16, 4)
 Lvl 07 upgrades: (1, 4; 7, 4)
 Lvl 08 upgrades: (2, 4; 5, 4)
 Lvl 09 upgrades: (13, 3; 38, 3)
-Lvl 10 upgrades: (40, 3; 16, 4; 178, 5)
+Lvl 10 upgrades: (40, 3; 16, 4)
 Lvl 11 upgrades: (1, 4; 4, 4)
 Lvl 12 upgrades: (7, 4; 80, 4)
-Lvl 13 upgrades: (1, 4; 16, 4; 357, 8)
-Lvl 14 upgrades: (13, 4; 4, 4; 178, 10)
+Lvl 13 upgrades: (1, 4; 16, 4; 357, 2)
+Lvl 14 upgrades: (13, 4; 4, 4)
 Lvl 15 upgrades: (1, 4; 10, 4)
 Lvl 16 upgrades: (13, 4; 16, 4)
-Lvl 17 upgrades: (4, 4; 178, 15; 357, 11)
+Lvl 17 upgrades: (4, 4; 357, 5)
 Lvl 18 upgrades: (13, 4; 7, 4)
-Lvl 19 upgrades: (2, 4; 10, 4; 178, 20)
-Lvl 20 upgrades: (13, 4; 4, 4; 357, 15)
+Lvl 19 upgrades: (2, 4; 10, 4)
+Lvl 20 upgrades: (13, 4; 4, 4; 357, 7)
 
 Lvl 01 loot: (9, 5; 41, 3)
 Lvl 02 loot: (42, 3)
@@ -1589,6 +1610,7 @@ GemPayment: 2
 Subtype: (2)
 Analogs: (92)
 UnitClass: 1
+Upgraded: (92, 18)
 Karma: -3
 SoundHit: 66
 SoundShoot: 0
@@ -1609,24 +1631,24 @@ Lvl 06 upgrades: (2, 5; 13, 3; 70, 4)
 Lvl 07 upgrades: (2, 5; 7, 4)
 Lvl 08 upgrades: (2, 5; 16, 4)
 Lvl 09 upgrades: (2, 5; 4, 4)
-Lvl 10 upgrades: (2, 5; 536, 6; 179, 5)
+Lvl 10 upgrades: (2, 5; 536, 6)
 Lvl 11 upgrades: (2, 5; 7, 4)
 Lvl 12 upgrades: (2, 5; 10, 3)
 Lvl 13 upgrades: (3, 5; 4, 4)
-Lvl 14 upgrades: (3, 5; 13, 3; 179, 10)
+Lvl 14 upgrades: (3, 5; 13, 3)
 Lvl 15 upgrades: (3, 5; 7, 4)
 Lvl 16 upgrades: (3, 5; 16, 3)
-Lvl 17 upgrades: (3, 5; 4, 4; 179, 15)
+Lvl 17 upgrades: (3, 5; 4, 4)
 Lvl 18 upgrades: (3, 5; 10, 3)
 Lvl 19 upgrades: (3, 5; 7, 4; 70, 4)
-Lvl 20 upgrades: (3, 5; 13, 3; 179, 25)
+Lvl 20 upgrades: (3, 5; 13, 3)
 
-Lvl 01 loot: (46, 1; 51, 3)
-Lvl 02 loot: (47, 1; 59, 3)
+Lvl 01 loot: (70, 1; 51, 3)
+Lvl 02 loot: (71, 1; 59, 3)
 Lvl 03 loot: (80, 2)
 Lvl 04 loot: (126, 1)
 Lvl 05 loot: (99, 2)
-Lvl 06 loot: (48, 1; 117, 1)
+Lvl 06 loot: (72, 1; 117, 1)
 Lvl 07 loot: (81, 2; 84, 2)
 Lvl 08 loot: (94, 1)
 Lvl 09 loot: (115, 1)
@@ -1666,6 +1688,7 @@ GemPayment: 1
 Subtype: (3, 28)
 Analogs: (205)
 UnitClass: 4
+Upgraded: (205, 20)
 Karma: -3
 SoundHit: 39
 SoundShoot: 40
@@ -1686,19 +1709,19 @@ Lvl 04 upgrades: (30, 4; 4, 4; 34, 4)
 Lvl 05 upgrades: (1, 4; 13, 4; 16, 4; 27, 4)
 Lvl 06 upgrades: (30, 4; 20, 4; 7, 4)
 Lvl 07 upgrades: (1, 4; 4, 4; 10, 4)
-Lvl 08 upgrades: (30, 4; 13, 4)
-Lvl 09 upgrades: (1, 4; 20, 4; 16, 4; 600, 5)
+Lvl 08 upgrades: (30, 4; 13, 4; 23, 1)
+Lvl 09 upgrades: (1, 4; 20, 4; 16, 4)
 Lvl 10 upgrades: (30, 4; 4, 4; 7, 4; 27, 4)
 Lvl 11 upgrades: (1, 4; 13, 4; 10, 4)
 Lvl 12 upgrades: (30, 4; 20, 4; 34, 4)
-Lvl 13 upgrades: (1, 4; 4, 4; 16, 4; 600, 10)
+Lvl 13 upgrades: (1, 4; 4, 4; 16, 4)
 Lvl 14 upgrades: (30, 4; 13, 4; 7, 4)
-Lvl 15 upgrades: (1, 4; 20, 4; 10, 4; 27, 4)
-Lvl 16 upgrades: (30, 4; 4, 4; 600, 15)
+Lvl 15 upgrades: (1, 4; 20, 4; 10, 4)
+Lvl 16 upgrades: (30, 4; 4, 4; 27, 4)
 Lvl 17 upgrades: (1, 4; 13, 4; 16, 4)
 Lvl 18 upgrades: (30, 4; 20, 4; 7, 4)
-Lvl 19 upgrades: (1, 4; 4, 4; 10, 4; 600, 20)
-Lvl 20 upgrades: (30, 4; 13, 4; 34, 4; 24, 4)
+Lvl 19 upgrades: (1, 4; 4, 4; 10, 4)
+Lvl 20 upgrades: (30, 4; 13, 4; 34, 4; 23, 4)
 
 Lvl 01 loot: (37, 5)
 Lvl 02 loot: (0, 0)
@@ -1743,8 +1766,9 @@ GemPrice: 10
 GoldPayment: 15
 GemPayment: 2
 Subtype: (1, 6)
-Analogs: (137, 192)
+Analogs: (137, 140, 192)
 UnitClass: 4
+Upgraded: (137, 17)
 Karma: 2
 SoundHit: 60
 SoundShoot: 43
@@ -1768,17 +1792,17 @@ Lvl 06 upgrades: (30, 4; 16, 4; 20, 4)
 Lvl 07 upgrades: (1, 4; 26, 4; 4, 4; 141, 5)
 Lvl 08 upgrades: (30, 4; 13, 4)
 Lvl 09 upgrades: (1, 4; 16, 4; 7, 4)
-Lvl 10 upgrades: (30, 4; 26, 4; 20, 4; 65, 3; 276, 4)
+Lvl 10 upgrades: (30, 4; 26, 4; 20, 4; 65, 3)
 Lvl 11 upgrades: (1, 4; 34, 4; 4, 4; 548, 3)
 Lvl 12 upgrades: (31, 4; 26, 4; 10, 4)
-Lvl 13 upgrades: (2, 4; 16, 4; 7, 4; 418, 4)
-Lvl 14 upgrades: (31, 4; 42, 4; 20, 4; 276, 7)
+Lvl 13 upgrades: (2, 4; 16, 4; 7, 4)
+Lvl 14 upgrades: (31, 4; 42, 4; 20, 4)
 Lvl 15 upgrades: (2, 4; 34, 4; 4, 4; 65, 3)
 Lvl 16 upgrades: (31, 4; 26, 4; 13, 4)
-Lvl 17 upgrades: (2, 4; 42, 4; 7, 4; 276, 10; 418, 7)
+Lvl 17 upgrades: (2, 4; 42, 4; 7, 4; 418, 3)
 Lvl 18 upgrades: (31, 4; 17, 4; 20, 4)
 Lvl 19 upgrades: (2, 4; 26, 4; 38, 4; 65, 3)
-Lvl 20 upgrades: (31, 4; 42, 4; 21, 4; 276, 12; 418, 10)
+Lvl 20 upgrades: (31, 4; 42, 4; 21, 4; 418, 5)
 
 Lvl 01 loot: (6, 5; 64, 3)
 Lvl 02 loot: (68, 2)
@@ -1825,6 +1849,7 @@ GemPayment: 0
 Subtype: (1, 6)
 Analogs: (146)
 UnitClass: 1
+Upgraded: (146, 17)
 Karma: 1
 SoundHit: 46
 SoundShoot: 0
@@ -1848,17 +1873,17 @@ Lvl 06 upgrades: (31, 4; 4, 4; 10, 4; 16, 4)
 Lvl 07 upgrades: (2, 4; 7, 4; 13, 4)
 Lvl 08 upgrades: (31, 4; 4, 4; 10, 4)
 Lvl 09 upgrades: (2, 4; 7, 4; 13, 4; 34, 4)
-Lvl 10 upgrades: (31, 4; 4, 4; 10, 4; 16, 4; 283, 4)
+Lvl 10 upgrades: (31, 4; 4, 4; 10, 4; 16, 4)
 Lvl 11 upgrades: (2, 4; 38, 4; 40, 4)
 Lvl 12 upgrades: (36, 4; 8, 4; 14, 4)
 Lvl 13 upgrades: (36, 4; 5, 4; 11, 4; 35, 4)
-Lvl 14 upgrades: (31, 4; 38, 4; 40, 4; 16, 4; 283, 7)
+Lvl 14 upgrades: (31, 4; 38, 4; 40, 4; 16, 4)
 Lvl 15 upgrades: (2, 4; 8, 4; 14, 4; 731, 5)
 Lvl 16 upgrades: (36, 4; 5, 4; 11, 4; 35, 4)
-Lvl 17 upgrades: (3, 4; 38, 4; 40, 4; 283, 10)
+Lvl 17 upgrades: (3, 4; 38, 4; 40, 4)
 Lvl 18 upgrades: (36, 4; 8, 4; 14, 4; 17, 4)
 Lvl 19 upgrades: (32, 4; 5, 4; 11, 4; 42, 4)
-Lvl 20 upgrades: (37, 4; 39, 4; 41, 4; 283, 12)
+Lvl 20 upgrades: (37, 4; 39, 4; 41, 4)
 
 Lvl 01 loot: (18, 6; 60, 4)
 Lvl 02 loot: (77, 2; 90, 2)
@@ -1867,7 +1892,7 @@ Lvl 04 loot: (108, 1)
 Lvl 05 loot: (19, 6; 61, 4)
 Lvl 06 loot: (78, 2; 91, 2)
 Lvl 07 loot: (103, 2; 161, 1)
-Lvl 08 loot: (190, 1; 162, 3)
+Lvl 08 loot: (161, 2; 162, 3)
 Lvl 09 loot: (20, 6; 62, 4; 258, 3)
 Lvl 10 loot: (79, 2; 92, 2; 182, 1)
 Lvl 11 loot: (104, 2; 119, 1)
@@ -1905,6 +1930,7 @@ GemPayment: 2
 Subtype: (1, 19)
 Analogs: (90)
 UnitClass: 7
+Upgraded: (90, 15)
 Karma: 2
 SoundHit: 81
 SoundShoot: 0
@@ -1926,17 +1952,17 @@ Lvl 06 upgrades: (2, 4; 34, 4; 10, 4)
 Lvl 07 upgrades: (36, 4; 4, 4; 65, 4)
 Lvl 08 upgrades: (2, 4; 16, 4; 103, 4)
 Lvl 09 upgrades: (31, 4; 7, 4; 65, 4)
-Lvl 10 upgrades: (2, 4; 4, 4; 10, 4; 176, 4)
+Lvl 10 upgrades: (2, 4; 4, 4; 10, 4)
 Lvl 11 upgrades: (36, 4; 16, 4; 65, 4)
 Lvl 12 upgrades: (2, 4; 34, 4; 13, 4)
 Lvl 13 upgrades: (31, 4; 4, 4; 7, 4; 65, 4)
-Lvl 14 upgrades: (2, 4; 42, 4; 10, 4; 176, 7)
+Lvl 14 upgrades: (2, 4; 42, 4; 10, 4)
 Lvl 15 upgrades: (36, 4; 35, 4; 65, 4)
 Lvl 16 upgrades: (2, 4; 5, 4; 65, 4)
-Lvl 17 upgrades: (31, 4; 17, 4; 8, 4; 176, 10)
+Lvl 17 upgrades: (31, 4; 17, 4; 8, 4)
 Lvl 18 upgrades: (2, 4; 42, 4; 10, 4)
 Lvl 19 upgrades: (36, 4; 5, 4; 65, 4)
-Lvl 20 upgrades: (2, 4; 42, 4; 13, 4; 176, 12)
+Lvl 20 upgrades: (2, 4; 42, 4; 13, 4)
 
 Lvl 01 loot: (0, 0)
 Lvl 02 loot: (0, 0)
@@ -1983,6 +2009,7 @@ GemPayment: 0
 Subtype: (1, 6)
 Analogs: (26, 44, 89, 138)
 UnitClass: 3
+Upgraded: (89, 17)
 Karma: 0
 SoundHit: 68
 SoundShoot: 0
@@ -2001,19 +2028,19 @@ Lvl 04 upgrades: (2, 4; 4, 4; 16, 4)
 Lvl 05 upgrades: (31, 4; 7, 4)
 Lvl 06 upgrades: (2, 4; 10, 4)
 Lvl 07 upgrades: (36, 4; 4, 4; 13, 4)
-Lvl 08 upgrades: (2, 4; 34, 4; 16, 4)
+Lvl 08 upgrades: (2, 4; 34, 4)
 Lvl 09 upgrades: (31, 4; 7, 4)
-Lvl 10 upgrades: (2, 4; 4, 4; 175, 4)
+Lvl 10 upgrades: (2, 4; 4, 4)
 Lvl 11 upgrades: (36, 4; 35, 4; 16, 4)
 Lvl 12 upgrades: (2, 4; 8, 4; 13, 4)
-Lvl 13 upgrades: (31, 4; 5, 4; 10, 4)
-Lvl 14 upgrades: (2, 4; 175, 7)
+Lvl 13 upgrades: (31, 4; 10, 4)
+Lvl 14 upgrades: (2, 4; 5, 4)
 Lvl 15 upgrades: (36, 4; 42, 4)
-Lvl 16 upgrades: (2, 4; 35, 4; 5, 4; 8, 4)
-Lvl 17 upgrades: (31, 4; 175, 10)
+Lvl 16 upgrades: (2, 4; 35, 4; 8, 4)
+Lvl 17 upgrades: (31, 4; 16, 4)
 Lvl 18 upgrades: (2, 4; 13, 4; 10, 4)
 Lvl 19 upgrades: (36, 4; 5, 4; 42, 4)
-Lvl 20 upgrades: (2, 4; 35, 4; 8, 4; 175, 12)
+Lvl 20 upgrades: (2, 4; 35, 4; 8, 4)
 
 Lvl 01 loot: (10, 6; 52, 3)
 Lvl 02 loot: (71, 2)
@@ -2060,6 +2087,7 @@ GemPayment: 0
 Subtype: (1, 6)
 Analogs: (25, 44, 89, 138)
 UnitClass: 2
+Upgraded: (138, 19)
 Karma: 0
 SoundHit: 68
 SoundShoot: 77
@@ -2080,17 +2108,17 @@ Lvl 06 upgrades: (2, 4; 13, 4; 34, 4)
 Lvl 07 upgrades: (36, 4; 7, 4; 16, 4)
 Lvl 08 upgrades: (2, 4; 10, 4; 20, 4)
 Lvl 09 upgrades: (31, 4; 4, 4)
-Lvl 10 upgrades: (2, 4; 13, 4; 16, 4; 277, 4)
+Lvl 10 upgrades: (2, 4; 13, 4; 16, 4)
 Lvl 11 upgrades: (36, 4; 7, 4; 20, 4)
 Lvl 12 upgrades: (2, 4; 10, 4; 34, 4)
 Lvl 13 upgrades: (31, 4; 5, 4; 42, 4)
-Lvl 14 upgrades: (2, 4; 13, 4; 27, 4; 277, 7)
+Lvl 14 upgrades: (2, 4; 13, 4; 27, 4)
 Lvl 15 upgrades: (36, 4; 38, 4; 34, 4)
 Lvl 16 upgrades: (2, 4; 10, 4; 21, 4)
-Lvl 17 upgrades: (31, 4; 5, 4; 42, 4; 277, 10)
+Lvl 17 upgrades: (31, 4; 5, 4; 42, 4)
 Lvl 18 upgrades: (2, 4; 13, 4; 34, 4)
 Lvl 19 upgrades: (36, 4; 38, 4; 27, 4)
-Lvl 20 upgrades: (2, 4; 10, 4; 21, 4; 277, 12)
+Lvl 20 upgrades: (2, 4; 10, 4; 21, 4)
 
 Lvl 01 loot: (30, 6; 52, 2)
 Lvl 02 loot: (48, 3)
@@ -2137,6 +2165,7 @@ GemPayment: 0
 Subtype: (4, 27)
 Analogs: (145)
 UnitClass: 2
+Upgraded: (145, 22)
 Karma: 0
 SoundHit: 7
 SoundShoot: 95
@@ -2160,17 +2189,17 @@ Lvl 06 upgrades: (1, 4; 10, 4)
 Lvl 07 upgrades: (16, 4; 20, 4)
 Lvl 08 upgrades: (2, 4; 100, 4)
 Lvl 09 upgrades: (20, 4; 14, 4)
-Lvl 10 upgrades: (2, 4; 10, 4; 23, 4; 282, 4)
+Lvl 10 upgrades: (2, 4; 10, 4; 23, 1)
 Lvl 11 upgrades: (27, 5; 16, 4)
 Lvl 12 upgrades: (2, 4; 100, 4)
 Lvl 13 upgrades: (14, 4; 21, 4)
-Lvl 14 upgrades: (2, 4; 282, 7)
+Lvl 14 upgrades: (2, 4; 23, 4)
 Lvl 15 upgrades: (21, 4; 10, 4)
 Lvl 16 upgrades: (27, 5; 100, 4)
-Lvl 17 upgrades: (17, 4; 15, 4; 282, 10)
+Lvl 17 upgrades: (17, 4; 15, 4)
 Lvl 18 upgrades: (2, 4; 16, 4; 28, 4)
 Lvl 19 upgrades: (100, 4; 21, 4)
-Lvl 20 upgrades: (2, 4; 10, 4; 282, 12)
+Lvl 20 upgrades: (2, 4; 10, 4)
 
 Lvl 01 loot: (0, 0)
 Lvl 02 loot: (0, 0)
@@ -2217,6 +2246,7 @@ GemPayment: 0
 Subtype: (1, 6)
 Analogs: (152)
 UnitClass: 1
+Upgraded: (152, 20)
 Karma: -2
 SoundHit: 48
 SoundShoot: 0
@@ -2237,17 +2267,17 @@ Lvl 06 upgrades: (36, 10; 4, 4)
 Lvl 07 upgrades: (2, 10; 7, 4)
 Lvl 08 upgrades: (31, 10; 16, 1; 13, 3)
 Lvl 09 upgrades: (36, 10; 4, 4; 10, 3)
-Lvl 10 upgrades: (31, 10; 7, 4; 89, 4; 295, 4)
+Lvl 10 upgrades: (31, 10; 7, 4; 89, 4)
 Lvl 11 upgrades: (2, 10; 34, 2)
 Lvl 12 upgrades: (36, 10; 4, 4; 13, 3)
 Lvl 13 upgrades: (2, 10; 38, 4; 10, 3)
-Lvl 14 upgrades: (31, 10; 16, 1; 295, 7)
+Lvl 14 upgrades: (31, 10; 16, 1)
 Lvl 15 upgrades: (36, 10; 5, 4)
-Lvl 16 upgrades: (32, 10; 38, 4; 13, 3)
-Lvl 17 upgrades: (3, 10; 295, 10)
+Lvl 16 upgrades: (32, 10; 38, 4)
+Lvl 17 upgrades: (3, 10; 13, 3)
 Lvl 18 upgrades: (36, 10; 5, 4; 10, 3)
 Lvl 19 upgrades: (3, 10; 38, 4)
-Lvl 20 upgrades: (37, 10; 6, 4; 40, 3; 295, 12)
+Lvl 20 upgrades: (37, 10; 6, 4; 40, 3)
 
 Lvl 01 loot: (22, 6; 56, 2)
 Lvl 02 loot: (43, 3; 74, 2)
@@ -2294,6 +2324,7 @@ GemPayment: 3
 Subtype: (1, 6)
 Analogs: (144, 190, 211)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: -1
 SoundHit: 60
 SoundShoot: 70
@@ -2373,6 +2404,7 @@ GemPayment: 0
 Subtype: (1, 6)
 Analogs: (88)
 UnitClass: 1
+Upgraded: (88, 16)
 Karma: -2
 SoundHit: 73
 SoundShoot: 50
@@ -2393,21 +2425,21 @@ Lvl 02 upgrades: (30, 4; 7, 4; 16, 4; 132, 4)
 Lvl 03 upgrades: (1, 4; 27, 4; 140, 4; 509, 4)
 Lvl 04 upgrades: (30, 4; 10, 3; 20, 4; 127, 4)
 Lvl 05 upgrades: (1, 4; 4, 4; 13, 4; 625, 4)
-Lvl 06 upgrades: (30, 4; 7, 4; 16, 4; 132, 4)
+Lvl 06 upgrades: (30, 4; 7, 4; 16, 4; 132, 4; 171, 4)
 Lvl 07 upgrades: (1, 4; 4, 4; 34, 4; 127, 4)
-Lvl 08 upgrades: (31, 4; 20, 4; 140, 4)
+Lvl 08 upgrades: (31, 4; 20, 4; 140, 4; 748, 5)
 Lvl 09 upgrades: (2, 4; 13, 4; 132, 4; 509, 4)
-Lvl 10 upgrades: (31, 4; 7, 4; 16, 4; 69, 4; 172, 4)
+Lvl 10 upgrades: (31, 4; 7, 4; 16, 4; 69, 4)
 Lvl 11 upgrades: (36, 4; 4, 4; 20, 4; 625, 4; 127, 4)
 Lvl 12 upgrades: (31, 4; 10, 3; 13, 4; 132, 4)
-Lvl 13 upgrades: (2, 4; 4, 4; 16, 4; 140, 4)
-Lvl 14 upgrades: (36, 4; 38, 4; 27, 4; 127, 4; 172, 7)
+Lvl 13 upgrades: (2, 4; 4, 4; 16, 4; 140, 4; 171, 4)
+Lvl 14 upgrades: (36, 4; 38, 4; 27, 4; 127, 4)
 Lvl 15 upgrades: (2, 4; 5, 4; 20, 4; 132, 4)
 Lvl 16 upgrades: (31, 4; 13, 4; 140, 4; 509, 4)
-Lvl 17 upgrades: (36, 4; 5, 4; 16, 4; 127, 4; 172, 10)
-Lvl 18 upgrades: (31, 4; 38, 4; 34, 4; 132, 4)
+Lvl 17 upgrades: (36, 4; 5, 4; 16, 4; 127, 4)
+Lvl 18 upgrades: (31, 4; 38, 4; 34, 4; 748, 5)
 Lvl 19 upgrades: (2, 4; 5, 4; 20, 4; 140, 4; 85, 4)
-Lvl 20 upgrades: (36, 4; 10, 3; 13, 4; 127, 4; 172, 12)
+Lvl 20 upgrades: (36, 4; 10, 3; 13, 4; 127, 4; 171, 4)
 
 Lvl 01 loot: (2, 5; 52, 2)
 Lvl 02 loot: (71, 2)
@@ -2454,6 +2486,7 @@ GemPayment: 0
 Subtype: (1)
 Analogs: (0)
 UnitClass: 7
+Upgraded: (0, 0)
 Karma: -2
 SoundHit: 89
 SoundShoot: 0
@@ -2465,7 +2498,7 @@ Resource: (0)
 Abilityes:
 Flying: 44
 Steal_Ammo: 74
-Strike_and_return: 770;
+Strike_and_return: 274;
 		
 Lvl 01 upgrades: (1, 4; 4, 4; 34, 4; 10, 4)
 Lvl 02 upgrades: (30, 4; 7, 4; 16, 4)
@@ -2533,6 +2566,7 @@ GemPayment: 0
 Subtype: (1, 19)
 Analogs: (0)
 UnitClass: 6
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 91
 SoundShoot: 92
@@ -2551,19 +2585,19 @@ Lvl 02 upgrades: (31, 4; 4, 4; 10, 4)
 Lvl 03 upgrades: (2, 4; 7, 4; 16, 4)
 Lvl 04 upgrades: (31, 4; 98, 4; 146, 4)
 Lvl 05 upgrades: (2, 4; 4, 4; 13, 4; 19, 4)
-Lvl 06 upgrades: (31, 4; 7, 4; 10, 4; 777, 4)
+Lvl 06 upgrades: (31, 4; 7, 4; 10, 4; 178, 4)
 Lvl 07 upgrades: (36, 4; 34, 4; 16, 4; 146, 4)
 Lvl 08 upgrades: (31, 4; 4, 4; 98, 4)
 Lvl 09 upgrades: (2, 4; 7, 4; 13, 4; 488, 4)
 Lvl 10 upgrades: (36, 4; 10, 4; 146, 4)
 Lvl 11 upgrades: (2, 4; 4, 4; 16, 4; 23, 3)
-Lvl 12 upgrades: (31, 4; 7, 4; 98, 4; 777, 4)
+Lvl 12 upgrades: (31, 4; 7, 4; 98, 4; 178, 4)
 Lvl 13 upgrades: (36, 4; 35, 4; 13, 4; 146, 4)
 Lvl 14 upgrades: (31, 4; 5, 4; 10, 4)
 Lvl 15 upgrades: (2, 4; 8, 4; 16, 4; 19, 4)
 Lvl 16 upgrades: (36, 4; 98, 4; 146, 4)
 Lvl 17 upgrades: (3, 4; 5, 4; 14, 4; 23, 3)
-Lvl 18 upgrades: (32, 4; 8, 4; 11, 4; 777, 4)
+Lvl 18 upgrades: (32, 4; 8, 4; 11, 4; 178, 4)
 Lvl 19 upgrades: (3, 4; 35, 4; 17, 4; 488, 4)
 Lvl 20 upgrades: (37, 4; 38, 4; 98, 4; 146, 4)
 
@@ -2612,6 +2646,7 @@ GemPayment: 2
 Subtype: (1, 19)
 Analogs: (0)
 UnitClass: 6
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 85
 SoundShoot: 86
@@ -2631,19 +2666,19 @@ Lvl 03 upgrades: (2, 4; 34, 4; 16, 4)
 Lvl 04 upgrades: (31, 4; 4, 4; 140, 4)
 Lvl 05 upgrades: (2, 4; 7, 4; 10, 4; 27, 4)
 Lvl 06 upgrades: (31, 4; 13, 4; 591, 4)
-Lvl 07 upgrades: (38, 4; 4, 4; 16, 4; 764, 5)
+Lvl 07 upgrades: (38, 4; 4, 4; 16, 4; 282, 5)
 Lvl 08 upgrades: (31, 4; 7, 4; 13, 4)
-Lvl 09 upgrades: (2, 4; 34, 4; 10, 4; 777, 4)
+Lvl 09 upgrades: (2, 4; 34, 4; 10, 4; 178, 4)
 Lvl 10 upgrades: (38, 4; 4, 4; 13, 4)
 Lvl 11 upgrades: (2, 4; 7, 4; 16, 4; 27, 4)
 Lvl 12 upgrades: (31, 4; 140, 4; 591, 4)
 Lvl 13 upgrades: (38, 4; 4, 4; 10, 4)
-Lvl 14 upgrades: (31, 4; 7, 4; 23, 2; 764, 5)
+Lvl 14 upgrades: (31, 4; 7, 4; 23, 2; 282, 5)
 Lvl 15 upgrades: (2, 4; 34, 4; 16, 4)
 Lvl 16 upgrades: (38, 4; 5, 4; 140, 4)
 Lvl 17 upgrades: (3, 4; 38, 4; 11, 4; 27, 4)
 Lvl 18 upgrades: (32, 4; 35, 4; 14, 4)
-Lvl 19 upgrades: (3, 4; 5, 4; 17, 4; 777, 4)
+Lvl 19 upgrades: (3, 4; 5, 4; 17, 4; 178, 4)
 Lvl 20 upgrades: (39, 4; 38, 4; 140, 4)
 
 Lvl 01 loot: (391, 7)
@@ -2691,6 +2726,7 @@ GemPayment: 0
 Subtype: (1, 12)
 Analogs: (123, 124, 125)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 104
 SoundShoot: 5
@@ -2770,6 +2806,7 @@ GemPayment: 3
 Subtype: (1)
 Analogs: (0)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: 2
 SoundHit: 102
 SoundShoot: 0
@@ -2850,6 +2887,7 @@ GemPayment: 4
 Subtype: (2)
 Analogs: (171)
 UnitClass: 1
+Upgraded: (171, 18)
 Karma: -3
 SoundHit: 98
 SoundShoot: 0
@@ -2872,17 +2910,17 @@ Lvl 06 upgrades: (2, 5; 13, 3)
 Lvl 07 upgrades: (2, 5; 7, 4; 4, 4)
 Lvl 08 upgrades: (2, 5; 16, 4)
 Lvl 09 upgrades: (2, 5; 4, 4; 148, 2)
-Lvl 10 upgrades: (2, 5; 80, 3; 71, 4; 358, 4)
+Lvl 10 upgrades: (2, 5; 80, 3; 71, 4)
 Lvl 11 upgrades: (2, 5; 7, 4)
 Lvl 12 upgrades: (2, 5; 10, 3)
 Lvl 13 upgrades: (3, 5; 38, 4)
-Lvl 14 upgrades: (3, 5; 13, 3; 358, 7)
+Lvl 14 upgrades: (3, 5; 13, 3)
 Lvl 15 upgrades: (3, 5; 38, 4; 81, 4)
 Lvl 16 upgrades: (3, 5; 16, 3)
 Lvl 17 upgrades: (3, 5; 5, 4)
-Lvl 18 upgrades: (3, 5; 10, 3; 358, 10)
+Lvl 18 upgrades: (3, 5; 10, 3)
 Lvl 19 upgrades: (3, 5; 8, 4; 148, 3)
-Lvl 20 upgrades: (3, 5; 13, 3; 358, 12)
+Lvl 20 upgrades: (3, 5; 13, 3)
 
 Lvl 01 loot: (64, 4)
 Lvl 02 loot: (71, 3; 111, 1)
@@ -2897,7 +2935,7 @@ Lvl 10 loot: (76, 2; 245, 1)
 Lvl 11 loot: (239, 1)
 Lvl 12 loot: (336, 1)
 Lvl 13 loot: (266, 1)
-Lvl 14 loot: (254, 1; 346, 1)
+Lvl 14 loot: (254, 1; 119, 1)
 Lvl 15 loot: (286, 1; 368, 1)
 Lvl 16 loot: (337, 1; 347, 1)
 Lvl 17 loot: (0, 0)
@@ -2929,6 +2967,7 @@ GemPayment: 4
 Subtype: (3)
 Analogs: (191)
 UnitClass: 1
+Upgraded: (191, 19)
 Karma: -3
 SoundHit: 100
 SoundShoot: 0
@@ -2950,17 +2989,17 @@ Lvl 06 upgrades: (31, 4; 7, 4; 16, 4)
 Lvl 07 upgrades: (2, 4; 4, 4; 34, 4)
 Lvl 08 upgrades: (31, 4; 10, 4)
 Lvl 09 upgrades: (2, 4; 4, 4; 13, 4)
-Lvl 10 upgrades: (31, 4; 7, 4; 16, 4; 73, 4; 414, 4)
+Lvl 10 upgrades: (31, 4; 7, 4; 16, 4; 73, 4)
 Lvl 11 upgrades: (36, 4; 4, 4)
 Lvl 12 upgrades: (31, 4; 10, 4; 13, 4)
 Lvl 13 upgrades: (2, 4; 4, 4; 16, 4)
-Lvl 14 upgrades: (36, 4; 38, 4; 414, 7)
+Lvl 14 upgrades: (36, 4; 38, 4)
 Lvl 15 upgrades: (2, 4; 5, 4)
 Lvl 16 upgrades: (31, 4; 10, 4; 13, 4)
-Lvl 17 upgrades: (36, 4; 5, 4; 16, 4; 414, 10)
+Lvl 17 upgrades: (36, 4; 5, 4; 16, 4)
 Lvl 18 upgrades: (31, 4; 38, 4; 34, 4)
 Lvl 19 upgrades: (2, 4; 5, 4; 17, 4; 624, 3)
-Lvl 20 upgrades: (36, 4; 10, 4; 13, 4; 414, 12)
+Lvl 20 upgrades: (36, 4; 10, 4; 13, 4)
 
 Lvl 01 loot: (18, 6)
 Lvl 02 loot: (0, 0)
@@ -3007,6 +3046,7 @@ GemPayment: 3
 Subtype: (3, 19)
 Analogs: (94)
 UnitClass: 1
+Upgraded: (94, 17)
 Karma: -3
 SoundHit: 106
 SoundShoot: 0
@@ -3028,17 +3068,17 @@ Lvl 06 upgrades: (31, 4; 7, 4; 16, 4)
 Lvl 07 upgrades: (2, 4; 4, 4; 34, 4)
 Lvl 08 upgrades: (31, 4; 10, 4)
 Lvl 09 upgrades: (2, 4; 4, 4; 13, 4)
-Lvl 10 upgrades: (31, 4; 7, 4; 16, 4; 19, 4; 181, 4)
+Lvl 10 upgrades: (31, 4; 7, 4; 16, 4; 19, 4)
 Lvl 11 upgrades: (36, 4; 4, 4; 535, 4)
 Lvl 12 upgrades: (31, 4; 10, 4; 13, 4)
 Lvl 13 upgrades: (2, 4; 4, 4; 16, 4)
-Lvl 14 upgrades: (36, 4; 38, 4; 181, 7)
+Lvl 14 upgrades: (36, 4; 38, 4)
 Lvl 15 upgrades: (2, 4; 5, 4)
 Lvl 16 upgrades: (31, 4; 10, 4; 13, 4)
-Lvl 17 upgrades: (36, 4; 5, 4; 16, 4; 181, 10)
+Lvl 17 upgrades: (36, 4; 5, 4; 16, 4)
 Lvl 18 upgrades: (31, 4; 38, 4; 34, 4)
 Lvl 19 upgrades: (2, 4; 5, 4; 17, 4)
-Lvl 20 upgrades: (36, 4; 10, 4; 13, 4; 181, 12)
+Lvl 20 upgrades: (36, 4; 10, 4; 13, 4)
 
 Lvl 01 loot: (0, 0)
 Lvl 02 loot: (0, 0)
@@ -3085,6 +3125,7 @@ GemPayment: 5
 Subtype: (23)
 Analogs: (0)
 UnitClass: 7
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 96
 SoundShoot: 0
@@ -3167,6 +3208,7 @@ GemPayment: 0
 Subtype: (5)
 Analogs: (0)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 0
 SoundShoot: 5
@@ -3244,6 +3286,7 @@ GemPayment: 0
 Subtype: (5)
 Analogs: (0)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 0
 SoundShoot: 5
@@ -3321,6 +3364,7 @@ GemPayment: 0
 Subtype: (5)
 Analogs: (0)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 0
 SoundShoot: 52
@@ -3398,6 +3442,7 @@ GemPayment: 0
 Subtype: (5)
 Analogs: (0)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 60
 SoundShoot: 57
@@ -3475,6 +3520,7 @@ GemPayment: 0
 Subtype: (1, 6)
 Analogs: (93)
 UnitClass: 3
+Upgraded: (93, 18)
 Karma: 2
 SoundHit: 108
 SoundShoot: 0
@@ -3495,22 +3541,22 @@ Lvl 06 upgrades: (31, 4; 7, 4; 40, 4; 46, 4)
 Lvl 07 upgrades: (2, 4; 4, 4; 10, 4; 35, 4)
 Lvl 08 upgrades: (36, 4; 7, 4; 13, 4; 103, 4)
 Lvl 09 upgrades: (2, 4; 38, 4; 16, 4; 35, 4)
-Lvl 10 upgrades: (31, 4; 7, 4; 10, 4; 40, 4; 180, 3)
+Lvl 10 upgrades: (31, 4; 7, 4; 10, 4; 40, 4)
 Lvl 11 upgrades: (36, 4; 5, 4; 14, 4; 35, 4)
 Lvl 12 upgrades: (32, 4; 38, 4; 42, 4)
 Lvl 13 upgrades: (3, 4; 5, 4; 11, 4; 35, 4)
-Lvl 14 upgrades: (37, 4; 8, 4; 40, 4; 180, 5)
+Lvl 14 upgrades: (37, 4; 8, 4; 40, 4)
 Lvl 15 upgrades: (3, 4; 38, 4; 14, 4; 43, 4)
 Lvl 16 upgrades: (32, 4; 6, 4; 16, 4; 41, 3; 35, 4)
-Lvl 17 upgrades: (37, 4; 8, 4; 42, 4; 180, 7)
+Lvl 17 upgrades: (37, 4; 8, 4; 42, 4)
 Lvl 18 upgrades: (32, 4; 38, 4; 11, 4)
 Lvl 19 upgrades: (3, 4; 8, 4; 15, 4; 35,4)
-Lvl 20 upgrades: (37, 4; 6, 4; 41, 4; 180, 9)
+Lvl 20 upgrades: (37, 4; 6, 4; 41, 4)
 
 Lvl 01 loot: (11, 4; 44, 3)
 Lvl 02 loot: (27, 3; 61, 3)
 Lvl 03 loot: (78, 2; 91, 4; 148, 1)
-Lvl 04 loot: (103, 2; 109, 1; 149, 1; 233, 1)
+Lvl 04 loot: (103, 2; 109, 1; 149, 1; 224, 1)
 Lvl 05 loot: (12, 4; 45, 6; 175, 1; 259, 1)
 Lvl 06 loot: (28, 3; 62, 3; 176, 1; 280, 1)
 Lvl 07 loot: (79, 4; 92, 2; 182, 1; 300, 1)
@@ -3552,6 +3598,7 @@ GemPayment: 8
 Subtype: (1, 6)
 Analogs: (149)
 UnitClass: 4
+Upgraded: (149, 21)
 Karma: 2
 SoundHit: 60
 SoundShoot: 110
@@ -3575,17 +3622,17 @@ Lvl 06 upgrades: (30, 4; 26, 4; 10, 4; 547, 2)
 Lvl 07 upgrades: (1, 4; 34, 4; 13, 4; 103, 4)
 Lvl 08 upgrades: (30, 4; 20, 4; 27, 4; 143, 5)
 Lvl 09 upgrades: (2, 4; 26, 4; 16, 4)
-Lvl 10 upgrades: (31, 4; 10, 4; 286, 3)
-Lvl 11 upgrades: (2, 4; 20, 4; 13, 4; 549, 2)
+Lvl 10 upgrades: (31, 4; 10, 4; 549, 2)
+Lvl 11 upgrades: (2, 4; 20, 4; 13, 4)
 Lvl 12 upgrades: (31, 4; 26, 4; 27, 4)
 Lvl 13 upgrades: (2, 4; 34, 4; 17, 4)
-Lvl 14 upgrades: (31, 4; 20, 4; 10, 4; 286, 5)
+Lvl 14 upgrades: (31, 4; 20, 4; 10, 4)
 Lvl 15 upgrades: (2, 4; 26, 4; 13, 4)
 Lvl 16 upgrades: (36, 4; 35, 4; 42, 4)
-Lvl 17 upgrades: (2, 4; 21, 4; 10, 4; 286, 7)
+Lvl 17 upgrades: (2, 4; 21, 4; 10, 4)
 Lvl 18 upgrades: (31, 4; 26, 4; 13, 4)
 Lvl 19 upgrades: (2, 4; 42, 4; 27, 4)
-Lvl 20 upgrades: (36, 4; 21, 4; 43, 4; 286, 9)
+Lvl 20 upgrades: (36, 4; 21, 4; 43, 4)
 
 Lvl 01 loot: (7, 5; 69, 2)
 Lvl 02 loot: (129, 1; 128, 1; 345, 1)
@@ -3632,6 +3679,7 @@ GemPayment: 0
 Subtype: (4, 27)
 Analogs: (147)
 UnitClass: 2
+Upgraded: (147, 22)
 Karma: 0
 SoundHit: 7
 SoundShoot: 112
@@ -3655,17 +3703,17 @@ Lvl 06 upgrades: (14, 4; 100, 4)
 Lvl 07 upgrades: (2, 4; 20, 4)
 Lvl 08 upgrades: (20, 4; 10, 4)
 Lvl 09 upgrades: (2, 4; 100, 4)
-Lvl 10 upgrades: (23, 4; 27, 5; 284, 3)
+Lvl 10 upgrades: (23, 4; 27, 5)
 Lvl 11 upgrades: (2, 4; 21, 4)
 Lvl 12 upgrades: (16, 4; 100, 4)
 Lvl 13 upgrades: (2, 4; 10, 4; 21, 4)
-Lvl 14 upgrades: (14, 4; 284, 5)
-Lvl 15 upgrades: (3, 4; 21, 4; 100, 4)
+Lvl 14 upgrades: (14, 4; 100, 4)
+Lvl 15 upgrades: (3, 4; 21, 4)
 Lvl 16 upgrades: (11, 4; 16, 4)
-Lvl 17 upgrades: (3, 4; 21, 4; 284, 7)
+Lvl 17 upgrades: (3, 4; 21, 4)
 Lvl 18 upgrades: (14, 5; 100, 4)
 Lvl 19 upgrades: (3, 4; 11, 4; 21, 4)
-Lvl 20 upgrades: (17, 4; 27, 5; 284, 9)
+Lvl 20 upgrades: (17, 4; 27, 5)
 
 Lvl 01 loot: (0, 0)
 Lvl 02 loot: (0, 0)
@@ -3712,6 +3760,7 @@ GemPayment: 5
 Subtype: (1, 19)
 Analogs: (135)
 UnitClass: 7
+Upgraded: (135, 17)
 Karma: 0
 SoundHit: 114
 SoundShoot: 0
@@ -3733,17 +3782,17 @@ Lvl 06 upgrades: (31, 4; 7, 4; 16, 4)
 Lvl 07 upgrades: (2, 4; 4, 4; 10, 4)
 Lvl 08 upgrades: (36, 4; 7, 4; 13, 4)
 Lvl 09 upgrades: (2, 4; 38, 4; 16, 4; 35, 4)
-Lvl 10 upgrades: (31, 4; 7, 4; 10, 4; 70, 4; 274, 3)
+Lvl 10 upgrades: (31, 4; 7, 4; 10, 4; 70, 4)
 Lvl 11 upgrades: (36, 4; 5, 4; 13, 4; 79, 3)
 Lvl 12 upgrades: (32, 4; 38, 4; 42, 4; 19, 4)
 Lvl 13 upgrades: (3, 4; 5, 4; 10, 4; 35, 4)
-Lvl 14 upgrades: (37, 4; 8, 4; 13, 4; 274, 5)
+Lvl 14 upgrades: (37, 4; 8, 4; 13, 4)
 Lvl 15 upgrades: (3, 4; 38, 4; 42, 4)
 Lvl 16 upgrades: (32, 4; 6, 4; 10, 4; 35, 4)
-Lvl 17 upgrades: (37, 4; 8, 4; 13, 4; 274, 7)
+Lvl 17 upgrades: (37, 4; 8, 4; 13, 4)
 Lvl 18 upgrades: (32, 4; 38, 4; 17, 4)
 Lvl 19 upgrades: (3, 4; 8, 4; 14, 4; 35,4)
-Lvl 20 upgrades: (37, 4; 6, 4; 41, 4; 274, 9)
+Lvl 20 upgrades: (37, 4; 6, 4; 41, 4)
 
 Lvl 01 loot: (0, 0)
 Lvl 02 loot: (0, 0)
@@ -3790,6 +3839,7 @@ GemPayment: 10
 Subtype: (1, 6)
 Analogs: (134, 148, 199, 200)
 UnitClass: 4
+Upgraded: (148, 20)
 Karma: -1
 SoundHit: 60
 SoundShoot: 116
@@ -3812,17 +3862,17 @@ Lvl 06 upgrades: (30, 4; 27, 4; 4, 4)
 Lvl 07 upgrades: (1, 4; 20, 4; 16, 4; 142, 4)
 Lvl 08 upgrades: (30, 4; 10, 4; 34, 4; 547, 2)
 Lvl 09 upgrades: (1, 4; 20, 4; 7, 4; 52, 4)
-Lvl 10 upgrades: (31, 4; 27, 4; 16, 4; 23, 4; 285, 3)
+Lvl 10 upgrades: (31, 4; 27, 4; 16, 4; 23, 4)
 Lvl 11 upgrades: (1, 4; 21, 4; 150, 4)
 Lvl 12 upgrades: (31, 4; 13, 4; 4, 4; 548, 5)
 Lvl 13 upgrades: (2, 4; 21, 4; 17, 4)
-Lvl 14 upgrades: (31, 4; 27, 4; 42, 4; 285, 5)
+Lvl 14 upgrades: (31, 4; 27, 4; 42, 4)
 Lvl 15 upgrades: (2, 4; 21, 4; 7, 4; 547, 4)
 Lvl 16 upgrades: (31, 4; 10, 4; 42, 4; 150, 4)
-Lvl 17 upgrades: (2, 4; 21, 4; 35, 4; 285, 7)
+Lvl 17 upgrades: (2, 4; 21, 4; 35, 4)
 Lvl 18 upgrades: (31, 4; 27, 4; 4, 4)
 Lvl 19 upgrades: (2, 4; 21, 4; 17, 4)
-Lvl 20 upgrades: (31, 4; 13, 4; 43, 4; 150, 4; 285, 9)
+Lvl 20 upgrades: (31, 4; 13, 4; 43, 4; 150, 4)
 
 Lvl 01 loot: (7, 5; 69, 2; 93, 1)
 Lvl 02 loot: (118, 4; 128, 1; 39, 3; 237, 1)
@@ -3869,6 +3919,7 @@ GemPayment: 0
 Subtype: (1, 6)
 Analogs: (136)
 UnitClass: 1
+Upgraded: (136, 21)
 Karma: -2
 SoundHit: 119
 SoundShoot: 0
@@ -3889,18 +3940,18 @@ Lvl 05 upgrades: (36, 4; 4, 4; 13, 4)
 Lvl 06 upgrades: (31, 4; 7, 4; 34, 4)
 Lvl 07 upgrades: (2, 4; 4, 4; 10, 4)
 Lvl 08 upgrades: (36, 4; 7, 4; 13, 4)
-Lvl 09 upgrades: (2, 4; 38, 4)
-Lvl 10 upgrades: (31, 4; 7, 4; 10, 4; 102, 4; 275, 3)
+Lvl 09 upgrades: (2, 4; 38, 4; 102, 3)
+Lvl 10 upgrades: (31, 4; 7, 4; 10, 4)
 Lvl 11 upgrades: (36, 4; 5, 4; 13, 4)
 Lvl 12 upgrades: (32, 4; 38, 4; 16, 4)
 Lvl 13 upgrades: (3, 4; 5, 4; 10, 4)
-Lvl 14 upgrades: (37, 4; 8, 4; 13, 4; 275, 5)
+Lvl 14 upgrades: (37, 4; 8, 4; 13, 4)
 Lvl 15 upgrades: (3, 4; 38, 4; 34, 4)
 Lvl 16 upgrades: (32, 4; 6, 4; 40, 4)
-Lvl 17 upgrades: (37, 4; 8, 4; 14, 4; 275, 7)
+Lvl 17 upgrades: (37, 4; 8, 4; 14, 4)
 Lvl 18 upgrades: (32, 4; 38, 4; 16, 4)
 Lvl 19 upgrades: (3, 4; 8, 4; 14, 4)
-Lvl 20 upgrades: (37, 4; 6, 4; 11, 4; 275, 9)
+Lvl 20 upgrades: (37, 4; 6, 4; 11, 4)
 
 Lvl 01 loot: (15, 5; 57, 3)
 Lvl 02 loot: (75, 2; 100, 2)
@@ -3947,6 +3998,7 @@ GemPayment: 0
 Subtype: (1, 24)
 Analogs: (63, 66, 111)
 UnitClass: 6
+Upgraded: (0, 0)
 Karma: -2
 SoundHit: 121
 SoundShoot: 0
@@ -4026,6 +4078,7 @@ GemPayment: 3
 Subtype: (1, 24)
 Analogs: (0)
 UnitClass: 6
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 123
 SoundShoot: 0
@@ -4103,6 +4156,7 @@ GemPayment: 3
 Subtype: (1, 19)
 Analogs: (0)
 UnitClass: 7
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 126
 SoundShoot: 0
@@ -4181,6 +4235,7 @@ GemPayment: 4
 Subtype: (1, 19)
 Analogs: (220)
 UnitClass: 3
+Upgraded: (0, 0)
 Karma: 3
 SoundHit: 128
 SoundShoot: 0
@@ -4260,6 +4315,7 @@ GemPayment: 0
 Subtype: (1, 24)
 Analogs: (0)
 UnitClass: 6
+Upgraded: (0, 0)
 Karma: -2
 SoundHit: 26
 SoundShoot: 0
@@ -4339,6 +4395,7 @@ GemPayment: 13
 Subtype: (2)
 Analogs: (172, 194)
 UnitClass: 7
+Upgraded: (172, 22)
 Karma: -3
 SoundHit: 24
 SoundShoot: 0
@@ -4363,17 +4420,17 @@ Lvl 06 upgrades: (4, 4; 7, 4)
 Lvl 07 upgrades: (2, 4; 131, 4)
 Lvl 08 upgrades: (4, 4; 16, 4)
 Lvl 09 upgrades: (2, 4; 7, 4)
-Lvl 10 upgrades: (4, 4; 131, 4; 359, 3)
+Lvl 10 upgrades: (4, 4; 131, 4)
 Lvl 11 upgrades: (2, 4; 16, 4)
 Lvl 12 upgrades: (5, 4; 7, 7)
 Lvl 13 upgrades: (2, 4; 131, 4)
-Lvl 14 upgrades: (5, 4; 16, 4; 359, 5)
+Lvl 14 upgrades: (5, 4; 16, 4)
 Lvl 15 upgrades: (2, 4; 8, 4)
 Lvl 16 upgrades: (5, 4; 131, 4)
-Lvl 17 upgrades: (3, 4; 16, 4; 359, 7)
+Lvl 17 upgrades: (3, 4; 16, 4)
 Lvl 18 upgrades: (5, 4; 8, 4)
 Lvl 19 upgrades: (3, 4; 131, 4)
-Lvl 20 upgrades: (5, 4; 17, 4; 359, 9)
+Lvl 20 upgrades: (5, 4; 17, 4)
 
 Lvl 01 loot: (0, 0)
 Lvl 02 loot: (0, 0)
@@ -4420,6 +4477,7 @@ GemPayment: 8
 Subtype: (3)
 Analogs: (257)
 UnitClass: 7
+Upgraded: (257, 19)
 Karma: -3
 SoundHit: 131
 SoundShoot: 0
@@ -4445,17 +4503,17 @@ Lvl 06 upgrades: (31, 4; 7, 4; 16, 4; 570, 4)
 Lvl 07 upgrades: (2, 4; 4, 4; 10, 4; 34, 4)
 Lvl 08 upgrades: (36, 4; 7, 4; 13, 4; 27, 4)
 Lvl 09 upgrades: (2, 4; 38, 4; 16, 4; 70, 4)
-Lvl 10 upgrades: (31, 4; 7, 4; 10, 4; 581, 3)
+Lvl 10 upgrades: (31, 4; 7, 4; 10, 4)
 Lvl 11 upgrades: (36, 4; 5, 4; 13, 4; 34, 4)
 Lvl 12 upgrades: (32, 4; 38, 4; 42, 4; 19, 4)
 Lvl 13 upgrades: (3, 4; 5, 4; 10, 4; 102, 4)
-Lvl 14 upgrades: (37, 4; 8, 4; 13, 4; 27, 4; 581, 5)
+Lvl 14 upgrades: (37, 4; 8, 4; 13, 4; 27, 4)
 Lvl 15 upgrades: (3, 4; 38, 4; 42, 4; 34, 4)
 Lvl 16 upgrades: (32, 4; 6, 4; 10, 4; 624, 4)
-Lvl 17 upgrades: (37, 4; 8, 4; 13, 4; 581, 7)
+Lvl 17 upgrades: (37, 4; 8, 4; 13, 4)
 Lvl 18 upgrades: (32, 4; 38, 4; 17, 4)
 Lvl 19 upgrades: (3, 4; 8, 4; 14, 4; 34,4)
-Lvl 20 upgrades: (37, 4; 6, 4; 41, 4; 27, 4; 581, 9)
+Lvl 20 upgrades: (37, 4; 6, 4; 41, 4; 27, 4)
 
 Lvl 01 loot: (0, 0)
 Lvl 02 loot: (0, 0)
@@ -4502,6 +4560,7 @@ GemPayment: 6
 Subtype: (1, 6, 28)
 Analogs: (143, 236)
 UnitClass: 3
+Upgraded: (236, 20)
 Karma: 3
 SoundHit: 108
 SoundShoot: 0
@@ -4524,17 +4583,17 @@ Lvl 06 upgrades: (31, 4; 7, 4; 16, 4; 46, 4)
 Lvl 07 upgrades: (2, 4; 5, 4; 10, 4; 278, 3)
 Lvl 08 upgrades: (36, 4; 8, 4; 13, 4; 661, 4)
 Lvl 09 upgrades: (2, 4; 38, 4; 17, 4; 35, 4)
-Lvl 10 upgrades: (31, 4; 8, 4; 40, 4; 526, 2)
+Lvl 10 upgrades: (31, 4; 8, 4; 40, 4)
 Lvl 11 upgrades: (36, 4; 5, 4; 14, 4; 35, 4)
 Lvl 12 upgrades: (32, 4; 38, 4; 42, 4; 661, 4)
-Lvl 13 upgrades: (3, 4; 5, 4; 11, 4; 35, 4; 279, 2)
-Lvl 14 upgrades: (37, 4; 8, 4; 40, 4; 526, 4)
+Lvl 13 upgrades: (3, 4; 5, 4; 11, 4; 35, 4)
+Lvl 14 upgrades: (37, 4; 8, 4; 40, 4; 279, 3)
 Lvl 15 upgrades: (3, 4; 38, 4; 43, 4; 35, 4)
 Lvl 16 upgrades: (32, 4; 6, 4; 41, 3; 661, 4)
-Lvl 17 upgrades: (37, 4; 8, 4; 42, 4; 35, 4; 526, 6)
+Lvl 17 upgrades: (37, 4; 8, 4; 42, 4; 35, 4)
 Lvl 18 upgrades: (32, 4; 38, 4; 11, 4; 658, 4)
 Lvl 19 upgrades: (3, 4; 8, 4; 14, 4; 35, 4)
-Lvl 20 upgrades: (37, 4; 6, 4; 41, 4; 661, 4; 526, 8)
+Lvl 20 upgrades: (37, 4; 6, 4; 41, 4; 661, 4)
 
 Lvl 01 loot: (24, 6; 45, 5; 91, 1; 259, 3)
 Lvl 02 loot: (62, 3; 79, 2; 92, 2; 280, 3)
@@ -4581,6 +4640,7 @@ GemPayment: 0
 Subtype: (1, 19)
 Analogs: (235)
 UnitClass: 6
+Upgraded: (235, 18)
 Karma: 0
 SoundHit: 133
 SoundShoot: 0
@@ -4602,17 +4662,17 @@ Lvl 06 upgrades: (31, 4; 7, 4; 16, 4)
 Lvl 07 upgrades: (3, 4; 4, 4; 10, 4)
 Lvl 08 upgrades: (36, 4; 7, 4; 13, 4)
 Lvl 09 upgrades: (3, 4; 38, 4; 104, 4)
-Lvl 10 upgrades: (31, 4; 7, 4; 10, 4; 525, 2)
+Lvl 10 upgrades: (31, 4; 7, 4; 10, 4)
 Lvl 11 upgrades: (36, 4; 5, 4; 13, 4)
 Lvl 12 upgrades: (32, 4; 38, 4; 16, 4)
 Lvl 13 upgrades: (25, 4; 5, 4; 10, 4; 104, 4)
-Lvl 14 upgrades: (37, 4; 8, 4; 13, 4; 525, 4)
+Lvl 14 upgrades: (37, 4; 8, 4; 13, 4)
 Lvl 15 upgrades: (25, 4; 38, 4; 34, 4)
 Lvl 16 upgrades: (32, 4; 6, 4; 40, 4)
-Lvl 17 upgrades: (37, 4; 8, 4; 14, 4; 104, 4; 525, 6)
+Lvl 17 upgrades: (37, 4; 8, 4; 14, 4; 104, 4)
 Lvl 18 upgrades: (32, 4; 38, 4; 16, 4)
 Lvl 19 upgrades: (25, 4; 8, 4; 14, 4)
-Lvl 20 upgrades: (37, 4; 6, 4; 11, 4; 525, 8)
+Lvl 20 upgrades: (37, 4; 6, 4; 11, 4)
 
 Lvl 01 loot: (0, 0)
 Lvl 02 loot: (0, 0)
@@ -4659,6 +4719,7 @@ GemPayment: 15
 Subtype: (1, 6)
 Analogs: (237)
 UnitClass: 4
+Upgraded: (237, 22)
 Karma: -3
 SoundHit: 60
 SoundShoot: 136
@@ -4683,17 +4744,17 @@ Lvl 06 upgrades: (30, 4; 27, 4; 4, 4; 49, 4; 548, 4)
 Lvl 07 upgrades: (1, 4; 20, 4; 17, 4; 153, 6)
 Lvl 08 upgrades: (31, 4; 10, 4; 34, 4; 150, 4; 573, 4)
 Lvl 09 upgrades: (2, 4; 20, 4; 7, 4; 52, 4; 384, 6)
-Lvl 10 upgrades: (31, 4; 27, 4; 16, 4; 23, 4; 527, 2)
+Lvl 10 upgrades: (31, 4; 27, 4; 16, 4; 23, 4)
 Lvl 11 upgrades: (2, 4; 21, 4; 150, 4; 547, 4)
 Lvl 12 upgrades: (31, 4; 13, 4; 4, 4; 299, 5; 574, 4)
 Lvl 13 upgrades: (2, 4; 21, 4; 17, 4; 48, 4; 548, 4)
-Lvl 14 upgrades: (31, 4; 28, 4; 42, 4; 150, 4; 527, 4)
+Lvl 14 upgrades: (31, 4; 28, 4; 42, 4; 150, 4)
 Lvl 15 upgrades: (2, 4; 21, 4; 7, 4; 154, 5; 574, 4)
 Lvl 16 upgrades: (31, 4; 10, 4; 42, 4; 639, 4; 549, 2)
-Lvl 17 upgrades: (2, 4; 21, 4; 34, 4; 150, 4; 527, 6)
+Lvl 17 upgrades: (2, 4; 21, 4; 34, 4; 150, 4)
 Lvl 18 upgrades: (31, 4; 28, 4; 4, 4; 437, 5; 574, 4)
 Lvl 19 upgrades: (2, 4; 21, 4; 17, 4; 72, 4; 547, 4)
-Lvl 20 upgrades: (31, 4; 13, 4; 43, 4; 150, 4; 527, 8)
+Lvl 20 upgrades: (31, 4; 13, 4; 43, 4; 150, 4)
 
 Lvl 01 loot: (8, 4; 40, 4; 66, 3)
 Lvl 02 loot: (70, 2; 83, 2; 95, 2; 112, 1)
@@ -4740,6 +4801,7 @@ GemPayment: 20
 Subtype: (1, 24, 28)
 Analogs: (75, 162)
 UnitClass: 7
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 139
 SoundShoot: 140
@@ -4821,6 +4883,7 @@ GemPayment: 6
 Subtype: (1, 24)
 Analogs: (0)
 UnitClass: 6
+Upgraded: (0, 0)
 Karma: 3
 SoundHit: 143
 SoundShoot: 0
@@ -4903,6 +4966,7 @@ GemPayment: 8
 Subtype: (1, 19, 24)
 Analogs: (0)
 UnitClass: 6
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 14
 SoundShoot: 0
@@ -4985,6 +5049,7 @@ GemPayment: 0
 Subtype: (1, 24)
 Analogs: (66)
 UnitClass: 6
+Upgraded: (0, 0)
 Karma: -2
 SoundHit: 26
 SoundShoot: 0
@@ -5063,6 +5128,7 @@ GemPayment: 15
 Subtype: (2)
 Analogs: (0)
 UnitClass: 7
+Upgraded: (0, 0)
 Karma: -3
 SoundHit: 153
 SoundShoot: 0
@@ -5142,6 +5208,7 @@ GemPayment: 20
 Subtype: (3, 21, 24)
 Analogs: (0)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: -3
 SoundHit: 146
 SoundShoot: 147
@@ -5224,6 +5291,7 @@ GemPayment: 0
 Subtype: (1, 24)
 Analogs: (63)
 UnitClass: 6
+Upgraded: (0, 0)
 Karma: -1
 SoundHit: 150
 SoundShoot: 151
@@ -5303,6 +5371,7 @@ GemPayment: 8
 Subtype: (1, 28)
 Analogs: (165)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 161
 SoundShoot: 92
@@ -5382,6 +5451,7 @@ GemPayment: 0
 Subtype: (1, 19)
 Analogs: (0)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 163
 SoundShoot: 86
@@ -5395,12 +5465,12 @@ Poisonous_spit: 151
 Poisonous_flash: 147
 Poison_immunity: 72
 Swamp_dweller: 64
-Extra_Healing: 758;
+Extra_Healing: 344;
 		
 Lvl 01 upgrades: (1, 4; 4, 4; 10, 4; 82, 2)
 Lvl 02 upgrades: (30, 4; 7, 4; 13, 4; 20, 4)
 Lvl 03 upgrades: (2, 4; 34, 4; 16, 4; 27, 4; 75, 2)
-Lvl 04 upgrades: (31, 4; 4, 4; 147, 4; 777, 5)
+Lvl 04 upgrades: (31, 4; 4, 4; 147, 4; 178, 5)
 Lvl 05 upgrades: (2, 4; 7, 4; 10, 4; 132, 4)
 Lvl 06 upgrades: (31, 4; 13, 4; 20, 4)
 Lvl 07 upgrades: (38, 4; 4, 4; 16, 4; 140, 4)
@@ -5408,7 +5478,7 @@ Lvl 08 upgrades: (31, 4; 7, 4; 27, 4; 27, 4)
 Lvl 09 upgrades: (2, 4; 34, 4; 10, 4; 20, 4)
 Lvl 10 upgrades: (38, 4; 4, 4; 13, 4; 132, 4)
 Lvl 11 upgrades: (2, 4; 7, 4; 16, 4; 23, 4)
-Lvl 12 upgrades: (31, 4; 147, 4; 140, 4; 777, 5)
+Lvl 12 upgrades: (31, 4; 147, 4; 140, 4; 178, 5)
 Lvl 13 upgrades: (38, 4; 4, 4; 10, 4; 27, 4)
 Lvl 14 upgrades: (31, 4; 7, 4; 13, 4; 20, 4)
 Lvl 15 upgrades: (2, 4; 34, 4; 16, 4; 132, 4)
@@ -5463,6 +5533,7 @@ GemPayment: 0
 Subtype: (1, 13)
 Analogs: (113, 114, 115, 116, 117)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 159
 SoundShoot: 0
@@ -5473,7 +5544,8 @@ Resource: (0)
 
 Abilityes:
 Regeneration: 98
-Swamp_dweller: 488;
+Swamp_dweller: 488
+Lizarmen_1: 164;
 		
 Lvl 01 upgrades: (1, 4; 30, 4; 4, 4; 7, 3)
 Lvl 02 upgrades: (13, 3; 34, 4; 10, 3)
@@ -5483,7 +5555,7 @@ Lvl 05 upgrades: (2, 4; 7, 4; 98, 4; 83, 4)
 Lvl 06 upgrades: (30, 4; 16, 4; 10, 3)
 Lvl 07 upgrades: (2, 4; 4, 4; 13, 3; 488, 4)
 Lvl 08 upgrades: (31, 4; 7, 4; 16, 4)
-Lvl 09 upgrades: (2, 4; 51, 4)
+Lvl 09 upgrades: (2, 4; 51, 4; 139, 4)
 Lvl 10 upgrades: (36, 4; 4, 4; 10, 3; 98, 4)
 Lvl 11 upgrades: (2, 4; 7, 4; 13, 3; 34, 4)
 Lvl 12 upgrades: (31, 4; 16, 4; 81, 4; 85, 4)
@@ -5494,7 +5566,7 @@ Lvl 16 upgrades: (31, 4; 5, 4; 42, 4)
 Lvl 17 upgrades: (3, 4; 38, 4; 51, 4; 16, 4)
 Lvl 18 upgrades: (32, 4; 16, 2; 10, 3; 85, 4)
 Lvl 19 upgrades: (3, 4; 5, 4; 13, 3; 34, 4)
-Lvl 20 upgrades: (36, 4; 38, 4; 98, 4; 42, 4)
+Lvl 20 upgrades: (36, 4; 38, 4; 98, 4; 42, 4; 139, 4)
 
 Lvl 01 loot: (17, 6; 41, 4; 51, 3)
 Lvl 02 loot: (0, 0)
@@ -5541,6 +5613,7 @@ GemPayment: 15
 Subtype: (1, 24)
 Analogs: (0)
 UnitClass: 7
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 165
 SoundShoot: 140
@@ -5622,6 +5695,7 @@ GemPayment: 10
 Subtype: (23, 24)
 Analogs: (159)
 UnitClass: 6
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 167
 SoundShoot: 0
@@ -5702,6 +5776,7 @@ GemPayment: 6
 Subtype: (1, 6)
 Analogs: (0)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 25
 SoundShoot: 0
@@ -5779,8 +5854,9 @@ GemPrice: 0
 GoldPayment: 15
 GemPayment: 0
 Subtype: (1, 10)
-Analogs: (169, 110, 195, 111)
+Analogs: (110, 195, 111)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: -2
 SoundHit: 356
 SoundShoot: 0
@@ -5792,9 +5868,9 @@ Resource: (1, 1)
 Abilityes:
 First_strike: 46
 Pikes_wall: 731
-Ork_rage: 751
-Extra_Healing: 759
-Heavy_Armor: 784;
+Ork_rage: 414
+Extra_Healing: 345
+Heavy_Armor: 169;
 		
 Lvl 01 upgrades: (2, 4; 30, 4; 7, 4)
 Lvl 02 upgrades: (30, 1; 4, 4; 157, 3)
@@ -5805,12 +5881,12 @@ Lvl 06 upgrades: (30, 4; 16, 3; 10, 3)
 Lvl 07 upgrades: (2, 4; 7, 4; 82, 4)
 Lvl 08 upgrades: (31, 4; 4, 4; 157, 4)
 Lvl 09 upgrades: (2, 4; 10, 4; 13, 4)
-Lvl 10 upgrades: (36, 4; 51, 4; 759, 5)
+Lvl 10 upgrades: (36, 4; 51, 4; 345, 5)
 Lvl 11 upgrades: (3, 4; 16, 4; 157, 4)
 Lvl 12 upgrades: (31, 4; 75, 4; 10, 4)
 Lvl 13 upgrades: (3, 4; 7, 4; 13, 4)
 Lvl 14 upgrades: (36, 4; 38, 4)
-Lvl 15 upgrades: (3, 4; 34, 4; 759, 4)
+Lvl 15 upgrades: (3, 4; 34, 4; 345, 4)
 Lvl 16 upgrades: (31, 4; 40, 4; 593, 4)
 Lvl 17 upgrades: (3, 4; 38, 4; 157, 4)
 Lvl 18 upgrades: (32, 4; 16, 4; 40, 4)
@@ -5854,7 +5930,7 @@ Ammo: 8
 Stamina: 10
 Morale: 10
 Exp: 100
-ExpMod: 200
+ExpMod: 170
 GoldPrice: 300
 GemPrice: 100
 GoldPayment: 30
@@ -5862,6 +5938,7 @@ GemPayment: 20
 Subtype: (2)
 Analogs: (0)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: -3
 SoundHit: 60
 SoundShoot: 369
@@ -5943,6 +6020,7 @@ GemPayment: 130
 Subtype: (2, 18, 24)
 Analogs: (60, 162)
 UnitClass: 7
+Upgraded: (0, 0)
 Karma: -3
 SoundHit: 259
 SoundShoot: 0
@@ -6024,6 +6102,7 @@ GemPayment: 5
 Subtype: (1, 19, 24)
 Analogs: (0)
 UnitClass: 6
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 169
 SoundShoot: 0
@@ -6060,21 +6139,21 @@ Lvl 18 upgrades: (32, 4; 38, 4; 16, 4)
 Lvl 19 upgrades: (25, 4; 8, 4; 14, 4)
 Lvl 20 upgrades: (37, 4; 6, 4; 11, 4)
 
-Lvl 01 loot: (0, 0)
+Lvl 01 loot: (408, 5)
 Lvl 02 loot: (0, 0)
-Lvl 03 loot: (0, 0)
+Lvl 03 loot: (408, 5)
 Lvl 04 loot: (0, 0)
 Lvl 05 loot: (0, 0)
 Lvl 06 loot: (0, 0)
 Lvl 07 loot: (0, 0)
 Lvl 08 loot: (0, 0)
 Lvl 09 loot: (0, 0)
-Lvl 10 loot: (0, 0)
-Lvl 11 loot: (0, 0)
+Lvl 10 loot: (408, 5)
+Lvl 11 loot: (408, 5)
 Lvl 12 loot: (0, 0)
 Lvl 13 loot: (0, 0)
 Lvl 14 loot: (0, 0)
-Lvl 15 loot: (0, 0)
+Lvl 15 loot: (408, 10)
 Lvl 16 loot: (0, 0)
 Lvl 17 loot: (0, 0)
 Lvl 18 loot: (0, 0)
@@ -6105,6 +6184,7 @@ GemPayment: 0
 Subtype: (1, 9)
 Analogs: (13, 96, 129, 130)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: -2
 SoundHit: 3
 SoundShoot: 5
@@ -6115,7 +6195,7 @@ Resource: (0)
 
 Abilityes:
 Swamp_Dweller: 488
-Panic: 765;
+Panic: 277;
 		
 Lvl 01 upgrades: (1, 4; 4, 4; 30, 4)
 Lvl 02 upgrades: (30, 1; 7, 3; 20, 2; 132, 2)
@@ -6183,6 +6263,7 @@ GemPayment: 0
 Subtype: (1, 6)
 Analogs: (142)
 UnitClass: 1
+Upgraded: (142, 17)
 Karma: 1
 SoundHit: 361
 SoundShoot: 0
@@ -6197,7 +6278,7 @@ Piercing_Strike: 69
 Reinvigoration: 51
 First_Aid: 65
 HoldGround: 493
-Heavy_Armor: 783;
+Heavy_Armor: 168;
 
 Lvl 01 upgrades: (2, 4; 4, 4; 10, 4; 34, 4)
 Lvl 02 upgrades: (31, 4; 7, 4; 13, 4; 85, 4)
@@ -6208,22 +6289,22 @@ Lvl 06 upgrades: (31, 4; 7, 4; 16, 4; 46, 4)
 Lvl 07 upgrades: (2, 4; 4, 4; 10, 4; 34, 4)
 Lvl 08 upgrades: (36, 4; 7, 4; 13, 4; 103, 4)
 Lvl 09 upgrades: (2, 4; 38, 4; 16, 4; 34, 4)
-Lvl 10 upgrades: (31, 4; 7, 4; 40, 4; 59, 5; 162, 4)
+Lvl 10 upgrades: (31, 4; 7, 4; 40, 4; 59, 5)
 Lvl 11 upgrades: (36, 4; 5, 4; 14, 4; 35, 4)
 Lvl 12 upgrades: (32, 4; 38, 4; 42, 4; 85, 4)
 Lvl 13 upgrades: (3, 4; 5, 4; 11, 4; 35, 4)
-Lvl 14 upgrades: (37, 4; 8, 4; 40, 4; 162, 7)
+Lvl 14 upgrades: (37, 4; 8, 4; 40, 4)
 Lvl 15 upgrades: (3, 4; 38, 4; 43, 4; 35, 4)
 Lvl 16 upgrades: (32, 4; 6, 4; 41, 3; 51, 4)
 Lvl 17 upgrades: (37, 4; 8, 4; 42, 4; 35, 4)
-Lvl 18 upgrades: (32, 4; 38, 4; 11, 4; 162, 10)
-Lvl 19 upgrades: (3, 4; 8, 4; 14, 4; 35,4; 85, 4)
-Lvl 20 upgrades: (37, 4; 6, 4; 41, 4; 162, 12)
+Lvl 18 upgrades: (32, 4; 38, 4; 11, 4)
+Lvl 19 upgrades: (3, 4; 8, 4; 14, 4; 35,4)
+Lvl 20 upgrades: (37, 4; 6, 4; 41, 4; 85, 4)
 
 Lvl 01 loot: (11, 4; 44, 3)
 Lvl 02 loot: (27, 3; 61, 3)
 Lvl 03 loot: (78, 2; 91, 4; 148, 1)
-Lvl 04 loot: (103, 2; 109, 1; 149, 1; 233, 1)
+Lvl 04 loot: (103, 2; 109, 1; 149, 1; 224, 1)
 Lvl 05 loot: (12, 4; 45, 6; 175, 1; 259, 1)
 Lvl 06 loot: (28, 3; 62, 3; 176, 1; 280, 1)
 Lvl 07 loot: (79, 4; 92, 2; 182, 1; 300, 1)
@@ -6265,6 +6346,7 @@ GemPayment: 4
 Subtype: (4, 27)
 Analogs: (0)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 0
 SoundShoot: 183
@@ -6347,6 +6429,7 @@ GemPayment: 0
 Subtype: (1, 6)
 Analogs: (0)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 3
 SoundShoot: 5
@@ -6426,6 +6509,7 @@ GemPayment: 0
 Subtype: (1, 6)
 Analogs: (0)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: 1
 SoundHit: 27
 SoundShoot: 0
@@ -6507,6 +6591,7 @@ GemPayment: 0
 Subtype: (1, 19)
 Analogs: (0)
 UnitClass: 7
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 171
 SoundShoot: 0
@@ -6566,7 +6651,7 @@ Name: Wolf;
 Level: 1
 Life: 12
 Attack: 4
-CounterAttack: 2
+CounterAttack: 3
 Defence: 0
 RangedDefence: 1
 Resist: 0
@@ -6585,6 +6670,7 @@ GemPayment: 0
 Subtype: (1, 19, 28)
 Analogs: (0)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 173
 SoundShoot: 0
@@ -6598,26 +6684,26 @@ Cause_fear: 80
 Forester: 486
 Cannibalise: 79;
 		
-Lvl 01 upgrades: (1, 4; 30, 4; 33, 3; 7, 1)
-Lvl 02 upgrades: (1, 4; 16, 3; 7, 2)
-Lvl 03 upgrades: (2, 3; 30, 4; 33, 3)
-Lvl 04 upgrades: (2, 3; 4, 2; 13, 2)
-Lvl 05 upgrades: (36, 2; 10, 2; 51, 4)
-Lvl 06 upgrades: (1, 10; 7, 4; 81, 3)
-Lvl 07 upgrades: (2, 3; 65, 3; 80, 3)
+Lvl 01 upgrades: (2, 4; 30, 4; 34, 3; 8, 1)
+Lvl 02 upgrades: (2, 4; 16, 3; 8, 2)
+Lvl 03 upgrades: (3, 3; 30, 4; 34, 3)
+Lvl 04 upgrades: (3, 3; 5, 2; 14, 2)
+Lvl 05 upgrades: (37, 2; 11, 2; 51, 4)
+Lvl 06 upgrades: (2, 10; 8, 4; 81, 3)
+Lvl 07 upgrades: (3, 3; 65, 3; 80, 3)
 Lvl 08 upgrades: (59, 4; 51, 4; 591, 4)
-Lvl 09 upgrades: (4, 3; 7, 4; 395, 5)
+Lvl 09 upgrades: (5, 3; 8, 4; 395, 5)
 Lvl 10 upgrades: (2, 3; 51, 4; 13, 3)
-Lvl 11 upgrades: (36, 4; 16, 3; 56, 5)
-Lvl 12 upgrades: (33, 4; 7, 4; 10, 3)
-Lvl 13 upgrades: (2, 3; 65, 3; 535, 3)
-Lvl 14 upgrades: (4, 3; 51, 4; 27, 3)
-Lvl 15 upgrades: (33, 4; 7, 4; 80, 3)
-Lvl 16 upgrades: (2, 3; 51, 4; 591, 4)
-Lvl 17 upgrades: (36, 4; 65, 3)
-Lvl 18 upgrades: (33, 4; 7, 4)
-Lvl 19 upgrades: (4, 3; 2, 3; 27, 3)
-Lvl 20 upgrades: (3, 9; 17, 9)
+Lvl 11 upgrades: (37, 4; 16, 3; 56, 5)
+Lvl 12 upgrades: (34, 4; 8, 4; 11, 3)
+Lvl 13 upgrades: (3, 3; 65, 3; 535, 3)
+Lvl 14 upgrades: (5, 3; 51, 4; 27, 3)
+Lvl 15 upgrades: (34, 4; 8, 4; 80, 3)
+Lvl 16 upgrades: (3, 3; 51, 4; 591, 4)
+Lvl 17 upgrades: (37, 4; 65, 3)
+Lvl 18 upgrades: (35, 4; 8, 4)
+Lvl 19 upgrades: (5, 3; 3, 3; 27, 3)
+Lvl 20 upgrades: (37, 9; 17, 9)
 
 Lvl 01 loot: (1, 5; 63, 3; 5, 3)
 Lvl 02 loot: (67, 3; 80, 3)
@@ -6664,6 +6750,7 @@ GemPayment: 0
 Subtype: (1, 6)
 Analogs: (0)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 1
 SoundHit: 36
 SoundShoot: 37
@@ -6741,6 +6828,7 @@ GemPayment: 0
 Subtype: (1, 6)
 Analogs: (0)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: -1
 SoundHit: 53
 SoundShoot: 78
@@ -6751,11 +6839,12 @@ Resource: (0)
 
 Abilityes:
 Berserk: 95
-Crushing_blow: 70;
+Crushing_blow: 70
+BloodLust: 652;
 		
 Lvl 01 upgrades: (1, 4; 34, 4; 93, 4)
 Lvl 02 upgrades: (30, 4; 4, 4)
-Lvl 03 upgrades: (2, 4; 93, 4)
+Lvl 03 upgrades: (2, 4; 93, 4; 652, 4)
 Lvl 04 upgrades: (30, 4; 10, 3; 7, 3)
 Lvl 05 upgrades: (2, 4; 34, 4; 93, 4)
 Lvl 06 upgrades: (30, 4; 4, 4)
@@ -6763,7 +6852,7 @@ Lvl 07 upgrades: (2, 4; 93, 4)
 Lvl 08 upgrades: (31, 4; 10, 3; 5, 3)
 Lvl 09 upgrades: (2, 4; 34, 4; 93, 4)
 Lvl 10 upgrades: (31, 4; 4, 4; 81, 2)
-Lvl 11 upgrades: (2, 4; 93, 4)
+Lvl 11 upgrades: (2, 4; 93, 4; 652, 4)
 Lvl 12 upgrades: (31, 4; 13, 3; 7, 3)
 Lvl 13 upgrades: (3, 4; 35, 4; 93, 4)
 Lvl 14 upgrades: (31, 4; 4, 4)
@@ -6772,7 +6861,7 @@ Lvl 16 upgrades: (36, 4; 10, 3; 38, 4)
 Lvl 17 upgrades: (3, 4; 35, 4; 93, 4)
 Lvl 18 upgrades: (32, 4; 4, 4)
 Lvl 19 upgrades: (37, 4; 35, 4; 93, 4)
-Lvl 20 upgrades: (32, 4; 39, 3)
+Lvl 20 upgrades: (32, 4; 39, 3; 652, 4)
 
 Lvl 01 loot: (13, 6; 51, 3)
 Lvl 02 loot: (25, 4)
@@ -6819,6 +6908,7 @@ GemPayment: 0
 Subtype: (1, 6)
 Analogs: (0)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 1
 SoundShoot: 34
@@ -6898,6 +6988,7 @@ GemPayment: 2
 Subtype: (1, 6)
 Analogs: (0)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: -1
 SoundHit: 60
 SoundShoot: 57
@@ -6980,6 +7071,7 @@ GemPayment: 0
 Subtype: (1, 6)
 Analogs: (0)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: -2
 SoundHit: 73
 SoundShoot: 50
@@ -6990,6 +7082,7 @@ Resource: (0)
 
 Abilityes:
 Agility: 56
+ArrowsFocus2: 171
 Poison_Attack: 174
 Poison_Shoot: 173
 Aimed_Hit: 129
@@ -7002,15 +7095,15 @@ Lvl 03 upgrades: (1, 4; 4, 4; 27, 4; 140, 4)
 Lvl 04 upgrades: (30, 4; 10, 4; 127, 4; 509, 4)
 Lvl 05 upgrades: (1, 4; 13, 4; 20, 4; 625, 4)
 Lvl 06 upgrades: (30, 4; 7, 4; 16, 4; 132, 4)
-Lvl 07 upgrades: (1, 4; 4, 4; 34, 4)
-Lvl 08 upgrades: (31, 4; 140, 4; 127, 4)
+Lvl 07 upgrades: (1, 4; 4, 4; 34, 4; 748, 5)
+Lvl 08 upgrades: (31, 4; 140, 4; 127, 4; 171, 4)
 Lvl 09 upgrades: (2, 4; 4, 4; 13, 4; 132, 4)
 Lvl 10 upgrades: (31, 4; 7, 4; 16, 4; 20, 4; 69, 4)
 Lvl 11 upgrades: (36, 4; 10, 4; 127, 4; 509, 4)
 Lvl 12 upgrades: (31, 4; 13, 4; 132, 4; 625, 4)
 Lvl 13 upgrades: (2, 4; 4, 4; 16, 4; 140, 4)
 Lvl 14 upgrades: (36, 4; 38, 4; 27, 4; 127, 4)
-Lvl 15 upgrades: (2, 4; 5, 4; 132, 4; 509, 4)
+Lvl 15 upgrades: (2, 4; 5, 4; 132, 4; 509, 4; 171, 4)
 Lvl 16 upgrades: (31, 4; 13, 4; 20, 4; 140, 4)
 Lvl 17 upgrades: (36, 4; 5, 4; 16, 4; 127, 4)
 Lvl 18 upgrades: (31, 4; 38, 4; 34, 4; 132, 4)
@@ -7062,6 +7155,7 @@ GemPayment: 0
 Subtype: (1, 6)
 Analogs: (0)
 UnitClass: 3
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 68
 SoundShoot: 0
@@ -7140,6 +7234,7 @@ GemPayment: 4
 Subtype: (1, 6)
 Analogs: (0)
 UnitClass: 7
+Upgraded: (0, 0)
 Karma: 2
 SoundHit: 81
 SoundShoot: 34
@@ -7220,6 +7315,7 @@ GemPayment: 2
 Subtype: (2, 25)
 Analogs: (170)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: -3
 SoundHit: 1
 SoundShoot: 34
@@ -7298,6 +7394,7 @@ GemPayment: 4
 Subtype: (2)
 Analogs: (0)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: -3
 SoundHit: 367
 SoundShoot: 0
@@ -7335,12 +7432,12 @@ Lvl 18 upgrades: (1, 5; 10, 3)
 Lvl 19 upgrades: (1, 5; 8, 4; 711, 2)
 Lvl 20 upgrades: (2, 5; 13, 3; 686, 2)
 
-Lvl 01 loot: (46, 1; 51, 3)
-Lvl 02 loot: (47, 1; 59, 3)
+Lvl 01 loot: (70, 2; 51, 3)
+Lvl 02 loot: (71, 2; 59, 3)
 Lvl 03 loot: (80, 2)
 Lvl 04 loot: (126, 1)
 Lvl 05 loot: (99, 2)
-Lvl 06 loot: (48, 1; 117, 1)
+Lvl 06 loot: (72, 2; 117, 1)
 Lvl 07 loot: (81, 2; 84, 2)
 Lvl 08 loot: (94, 1)
 Lvl 09 loot: (115, 1)
@@ -7380,6 +7477,7 @@ GemPayment: 0
 Subtype: (1, 6)
 Analogs: (0)
 UnitClass: 3
+Upgraded: (0, 0)
 Karma: 2
 SoundHit: 108
 SoundShoot: 0
@@ -7417,7 +7515,7 @@ Lvl 20 upgrades: (37, 4; 6, 4; 41, 4)
 Lvl 01 loot: (11, 4; 44, 3)
 Lvl 02 loot: (27, 3; 61, 3)
 Lvl 03 loot: (78, 2; 91, 4; 148, 1)
-Lvl 04 loot: (103, 2; 109, 1; 149, 1; 233, 1)
+Lvl 04 loot: (103, 2; 109, 1; 149, 1; 224, 2)
 Lvl 05 loot: (12, 4; 45, 6; 175, 1; 259, 1)
 Lvl 06 loot: (28, 3; 62, 3; 176, 1; 280, 1)
 Lvl 07 loot: (79, 4; 92, 2; 182, 1; 300, 1)
@@ -7459,6 +7557,7 @@ GemPayment: 6
 Subtype: (3, 19)
 Analogs: (0)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: -3
 SoundHit: 106
 SoundShoot: 0
@@ -7538,6 +7637,7 @@ GemPayment: 12
 Subtype: (3)
 Analogs: (0)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: -3
 SoundHit: 176
 SoundShoot: 177
@@ -7617,6 +7717,7 @@ GemPayment: 1
 Subtype: (1, 9, 19)
 Analogs: (129, 130)
 UnitClass: 3
+Upgraded: (0, 0)
 Karma: -2
 SoundHit: 181
 SoundShoot: 78
@@ -7630,7 +7731,7 @@ Charge: 67
 Web: 77
 Cripple: 81
 Forest_dweller: 591
-Panic: 765;
+Panic: 277;
 		
 Lvl 01 upgrades: (30, 4; 4, 4; 7, 4)
 Lvl 02 upgrades: (1, 4; 7, 4; 10, 4)
@@ -7640,7 +7741,7 @@ Lvl 05 upgrades: (31, 4; 34, 4; 7, 4)
 Lvl 06 upgrades: (1, 4; 10, 4; 13, 4)
 Lvl 07 upgrades: (36, 4; 4, 4; 16, 4)
 Lvl 08 upgrades: (1, 4; 27, 4; 708, 4)
-Lvl 09 upgrades: (31, 4; 7, 4; 764, 4)
+Lvl 09 upgrades: (31, 4; 7, 4; 282, 4)
 Lvl 10 upgrades: (2, 4; 4, 4; 10, 4)
 Lvl 11 upgrades: (36, 4; 34, 4; 16, 4)
 Lvl 12 upgrades: (2, 4; 8, 4; 13, 4)
@@ -7698,6 +7799,7 @@ GemPayment: 12
 Subtype: (3, 24)
 Analogs: (0)
 UnitClass: 6
+Upgraded: (0, 0)
 Karma: -3
 SoundHit: 26
 SoundShoot: 0
@@ -7769,7 +7871,7 @@ Ammo: 6
 Stamina: 16
 Morale: 10
 Exp: 180
-ExpMod: 340
+ExpMod: 300
 GoldPrice: 1500
 GemPrice: 100
 GoldPayment: 0
@@ -7777,6 +7879,7 @@ GemPayment: 30
 Subtype: (3, 21, 24)
 Analogs: (0)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: -3
 SoundHit: 146
 SoundShoot: 147
@@ -7790,7 +7893,7 @@ Magic_Fight: 289
 Sacrifice: 185
 Fire_Burn: 186
 Fire_Immunity: 192
-Burning_Tough: 687;
+Burning_Tough: 749;
 		
 Lvl 01 upgrades: (2, 4; 4, 4; 13, 4; 31, 4; 570, 1)
 Lvl 02 upgrades: (31, 4; 7, 4; 10, 4; 21, 4; 377, 6)
@@ -7858,6 +7961,7 @@ GemPayment: 2
 Subtype: (1, 26)
 Analogs: (0)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: -3
 SoundHit: 218
 SoundShoot: 0
@@ -7924,7 +8028,7 @@ Resist: 0
 Speed: 2
 RangedAttack: 5
 ShootingRange: 3
-Ammo: 4
+Ammo: 5
 Stamina: 12
 Morale: 9
 Exp: 16
@@ -7936,6 +8040,7 @@ GemPayment: 0
 Subtype: (1, 10)
 Analogs: (14)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: -2
 SoundHit: 187
 SoundShoot: 5
@@ -7947,14 +8052,14 @@ Resource: (0)
 Abilityes:
 Landwalker: 257
 CrippleShot: 626
-ArrowsFocus2: 781;
+ArrowsFocus2: 171;
 		
 Lvl 01 upgrades: (1, 4; 4, 4; 30, 4)
 Lvl 02 upgrades: (30, 1; 7, 3; 20, 2)
 Lvl 03 upgrades: (1, 4; 10, 3; 27, 2)
 Lvl 04 upgrades: (30, 4; 4, 4; 20, 2)
 Lvl 05 upgrades: (1, 4; 7, 3; 627, 4)
-Lvl 06 upgrades: (30, 4; 13, 3; 782, 3)
+Lvl 06 upgrades: (30, 4; 13, 3; 171, 3)
 Lvl 07 upgrades: (1, 4; 4, 4; 20, 2)
 Lvl 08 upgrades: (30, 4; 7, 3; 698, 3)
 Lvl 09 upgrades: (1, 4; 10, 3; 27, 2)
@@ -7966,7 +8071,7 @@ Lvl 14 upgrades: (31, 4; 7, 3; 23, 2)
 Lvl 15 upgrades: (2, 4; 10, 3; 27, 2)
 Lvl 16 upgrades: (31, 4; 4, 4; 21, 3)
 Lvl 17 upgrades: (2, 4; 7, 3; 627, 4)
-Lvl 18 upgrades: (36, 4; 13, 3; 782, 3)
+Lvl 18 upgrades: (36, 4; 13, 3; 171, 3)
 Lvl 19 upgrades: (2, 4; 38, 4; 21, 3)
 Lvl 20 upgrades: (36, 4; 5, 4; 34, 2)
 
@@ -8015,6 +8120,7 @@ GemPayment: 0
 Subtype: (4, 27)
 Analogs: (102)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 7
 SoundShoot: 95
@@ -8095,6 +8201,7 @@ GemPayment: 0
 Subtype: (4, 27)
 Analogs: (0)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 7
 SoundShoot: 112
@@ -8167,7 +8274,7 @@ Ammo: 5
 Stamina: 18
 Morale: 13
 Exp: 60
-ExpMod: 200
+ExpMod: 180
 GoldPrice: 300
 GemPrice: 20
 GoldPayment: 50
@@ -8175,6 +8282,7 @@ GemPayment: 6
 Subtype: (1, 8)
 Analogs: (0)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: 2
 SoundHit: 48
 SoundShoot: 0
@@ -8254,6 +8362,7 @@ GemPayment: 5
 Subtype: (4, 27)
 Analogs: (0)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 186
 SoundShoot: 345
@@ -8335,6 +8444,7 @@ GemPayment: 0
 Subtype: (1, 7)
 Analogs: (106)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: 3
 SoundHit: 27
 SoundShoot: 0
@@ -8415,6 +8525,7 @@ GemPayment: 0
 Subtype: (1, 7)
 Analogs: (105)
 UnitClass: 3
+Upgraded: (0, 0)
 Karma: 3
 SoundHit: 68
 SoundShoot: 0
@@ -8487,7 +8598,7 @@ Ammo: 6
 Stamina: 12
 Morale: 10
 Exp: 70
-ExpMod: 210
+ExpMod: 190
 GoldPrice: 300
 GemPrice: 70
 GoldPayment: 60
@@ -8495,6 +8606,7 @@ GemPayment: 10
 Subtype: (1, 7)
 Analogs: (127)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: 3
 SoundHit: 60
 SoundShoot: 116
@@ -8576,6 +8688,7 @@ GemPayment: 2
 Subtype: (1, 24)
 Analogs: (61)
 UnitClass: 6
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 247
 SoundShoot: 86
@@ -8656,6 +8769,7 @@ GemPayment: 1
 Subtype: (1, 10)
 Analogs: (110)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: -2
 SoundHit: 190
 SoundShoot: 191
@@ -8668,28 +8782,28 @@ Abilityes:
 First_Aid: 65
 Ghost_Peaceful: 209
 Totem_of_Earth: 744
-Extra_Healing: 759;
+Extra_Healing: 345;
 		
-Lvl 01 upgrades: (1, 4; 4, 4; 16, 4; 749, 3)
+Lvl 01 upgrades: (1, 4; 4, 4; 16, 4; 526, 3)
 Lvl 02 upgrades: (30, 4; 7, 4; 57, 2)
 Lvl 03 upgrades: (1, 4; 10, 4; 13, 4; 320, 6)
 Lvl 04 upgrades: (30, 4; 4, 4; 16, 4; 27, 3)
-Lvl 05 upgrades: (1, 4; 34, 3; 749, 4)
-Lvl 06 upgrades: (30, 4; 7, 4; 759, 3)
+Lvl 05 upgrades: (1, 4; 34, 3; 526, 4)
+Lvl 06 upgrades: (30, 4; 7, 4; 345, 3)
 Lvl 07 upgrades: (1, 4; 4, 4; 16, 4)
 Lvl 08 upgrades: (30, 4; 10, 4; 745, 6)
-Lvl 09 upgrades: (1, 4; 13, 4; 749, 5)
+Lvl 09 upgrades: (1, 4; 13, 4; 526, 5)
 Lvl 10 upgrades: (30, 4; 4, 4; 7, 4; 16, 4)
 Lvl 11 upgrades: (2, 4; 27, 5; 52, 3)
 Lvl 12 upgrades: (30, 4; 16, 4; 34, 3)
-Lvl 13 upgrades: (2, 4; 4, 4; 10, 4; 749, 5)
+Lvl 13 upgrades: (2, 4; 4, 4; 10, 4; 526, 5)
 Lvl 14 upgrades: (30, 4; 7, 4; 13, 4)
 Lvl 15 upgrades: (2, 4; 16, 4; 27, 3)
-Lvl 16 upgrades: (30, 4; 4, 4; 749, 6)
+Lvl 16 upgrades: (30, 4; 4, 4; 526, 6)
 Lvl 17 upgrades: (2, 4; 34, 3; 16, 4)
 Lvl 18 upgrades: (31, 4; 7, 4; 10, 4)
 Lvl 19 upgrades: (3, 4; 4, 4; 13, 4; 27, 3)
-Lvl 20 upgrades: (36, 4; 42, 4; 749, 7)
+Lvl 20 upgrades: (36, 4; 42, 4; 526, 7)
 
 Lvl 01 loot: (1, 3; 5, 4; 63, 3)
 Lvl 02 loot: (37, 5; 80, 2)
@@ -8728,7 +8842,7 @@ Ammo: 8
 Stamina: 14
 Morale: 11
 Exp: 70
-ExpMod: 175
+ExpMod: 155
 GoldPrice: 300
 GemPrice: 50
 GoldPayment: 60
@@ -8736,6 +8850,7 @@ GemPayment: 10
 Subtype: (1, 10)
 Analogs: (0)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: -2
 SoundHit: 60
 SoundShoot: 194
@@ -8750,28 +8865,28 @@ First_Aid: 65
 Ghost_Peaceful: 209
 Ghost_Power: 320
 Totem_of_Rage: 745
-Summon_Power: 749
-Extra_Healing: 759;
+Summon_Power: 526
+Extra_Healing: 345;
 		
 Lvl 01 upgrades: (1, 4; 16, 4; 34, 4)
-Lvl 02 upgrades: (30, 4; 27, 4; 749, 6)
+Lvl 02 upgrades: (30, 4; 27, 4; 526, 6)
 Lvl 03 upgrades: (1, 4; 4, 4; 7, 4; 10, 4)
 Lvl 04 upgrades: (30, 4; 13, 4; 16, 4)
-Lvl 05 upgrades: (1, 4; 27, 4; 52, 4; 759, 4)
-Lvl 06 upgrades: (30, 4; 4, 4; 7, 4; 749, 7)
+Lvl 05 upgrades: (1, 4; 27, 4; 52, 4; 345, 4)
+Lvl 06 upgrades: (30, 4; 4, 4; 7, 4; 526, 7)
 Lvl 07 upgrades: (1, 4; 16, 4; 747, 5)
 Lvl 08 upgrades: (30, 4; 10, 4; 34, 4)
 Lvl 09 upgrades: (1, 4; 4, 4; 7, 4; 13, 4)
 Lvl 10 upgrades: (31, 4; 27, 4; 16, 4)
 Lvl 11 upgrades: (2, 4; 4, 4; 746, 6)
 Lvl 12 upgrades: (31, 4; 7, 4; 42, 4)
-Lvl 13 upgrades: (2, 4; 4, 4; 749, 9)
+Lvl 13 upgrades: (2, 4; 4, 4; 526, 9)
 Lvl 14 upgrades: (31, 4; 13, 4; 27, 4)
 Lvl 15 upgrades: (2, 4; 4, 4; 7, 4; 17, 4)
 Lvl 16 upgrades: (31, 4; 10, 4; 42, 4)
-Lvl 17 upgrades: (2, 4; 34, 4; 759, 4)
+Lvl 17 upgrades: (2, 4; 34, 4; 345, 4)
 Lvl 18 upgrades: (31, 4; 27, 4; 4, 4)
-Lvl 19 upgrades: (2, 4; 7, 4; 17, 4; 749, 10)
+Lvl 19 upgrades: (2, 4; 7, 4; 17, 4; 526, 10)
 Lvl 20 upgrades: (31, 4; 13, 4; 43, 4)
 
 Lvl 01 loot: (7, 5; 69, 2; 93, 1)
@@ -8801,7 +8916,7 @@ Level: 4
 Life: 100
 Attack: 30
 CounterAttack: 24
-Defence: 3
+Defence: 4
 RangedDefence: 5
 Resist: 3
 Speed: 2
@@ -8819,6 +8934,7 @@ GemPayment: 0
 Subtype: (1, 10, 24)
 Analogs: (0)
 UnitClass: 6
+Upgraded: (0, 0)
 Karma: -2
 SoundHit: 197
 SoundShoot: 0
@@ -8833,13 +8949,13 @@ Hill_dweller: 593
 Word_of_Chief: 212
 HoldGround: 493
 Charge: 707
-Ork_rage: 748
-Orks_overlord: 757
-Extra_Healing: 758;
+Ork_rage: 360
+Orks_overlord: 295
+Extra_Healing: 344;
 		
 Lvl 01 upgrades: (3, 4; 4, 4; 13, 4; 31, 4)
 Lvl 02 upgrades: (31, 4; 7, 4; 10, 4; 157, 4)
-Lvl 03 upgrades: (3, 4; 4, 4; 34, 4; 81, 4; 759, 3)
+Lvl 03 upgrades: (3, 4; 4, 4; 34, 4; 81, 4; 345, 3)
 Lvl 04 upgrades: (31, 4; 7, 4; 10, 4; 593, 4)
 Lvl 05 upgrades: (36, 4; 4, 4; 13, 4; 652, 4)
 Lvl 06 upgrades: (31, 4; 7, 4; 16, 4; 708, 4)
@@ -8847,7 +8963,7 @@ Lvl 07 upgrades: (3, 4; 4, 4; 10, 4; 27, 3)
 Lvl 08 upgrades: (36, 4; 7, 4; 13, 4; 157, 4)
 Lvl 09 upgrades: (3, 4; 38, 4; 544, 4; 591, 4)
 Lvl 10 upgrades: (31, 4; 7, 4; 10, 4; 686, 4)
-Lvl 11 upgrades: (36, 4; 5, 4; 13, 4; 759, 5)
+Lvl 11 upgrades: (36, 4; 5, 4; 13, 4; 345, 5)
 Lvl 12 upgrades: (32, 4; 38, 4; 16, 4; 708, 4)
 Lvl 13 upgrades: (25, 4; 5, 4; 10, 4; 487, 4)
 Lvl 14 upgrades: (37, 4; 8, 4; 13, 4; 157, 4)
@@ -8883,17 +8999,17 @@ Lvl 20 loot: (0, 0)
 Name: Bandit;
 Level: 1
 Life: 16
-Attack: 7
+Attack: 9
 CounterAttack: 5
 Defence: 2
 RangedDefence: 2
 Resist: 2
 Speed: 2
-RangedAttack: 7
+RangedAttack: 8
 ShootingRange: 2
 Ammo: 4
 Stamina: 13
-Morale: 7
+Morale: 9
 Exp: 35
 ExpMod: 115
 GoldPrice: 45
@@ -8903,6 +9019,7 @@ GemPayment: 0
 Subtype: (1, 6)
 Analogs: (0)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: -2
 SoundHit: 49
 SoundShoot: 50
@@ -8916,27 +9033,28 @@ Agility: 56
 Poison_Strike: 71
 Ammo_Thieft: 721
 Maradeur10: 86
+ArrowsFocus2: 171
 Poison_Shot: 132
 Aimed_Hit: 127
 Backstab_4: 513
 Parry: 590;
 		
-Lvl 01 upgrades: (1, 4; 27, 3; 30, 1; 4, 2)
-Lvl 02 upgrades: (30, 3; 20, 2; 10, 2)
+Lvl 01 upgrades: (1, 4; 27, 3; 4, 2; 550, 3)
+Lvl 02 upgrades: (30, 4; 20, 2; 10, 2; 712, 1)
 Lvl 03 upgrades: (1, 4; 7, 3; 71, 2; 625, 5)
-Lvl 04 upgrades: (30, 4; 16, 3; 508, 4)
-Lvl 05 upgrades: (1, 4; 13, 3; 132, 4)
-Lvl 06 upgrades: (30, 4; 20, 3; 127, 4)
+Lvl 04 upgrades: (30, 4; 16, 3; 171, 4; 508, 4)
+Lvl 05 upgrades: (1, 4; 13, 3; 132, 4; 748, 4)
+Lvl 06 upgrades: (30, 4; 34, 4; 20, 3; 127, 4)
 Lvl 07 upgrades: (1, 4; 4, 4; 71, 4)
-Lvl 08 upgrades: (30, 4; 27, 3; 550, 3)
-Lvl 09 upgrades: (1, 4; 13, 3; 132, 4)
+Lvl 08 upgrades: (30, 4; 27, 3; 712, 5)
+Lvl 09 upgrades: (1, 4; 13, 3; 132, 4; 171, 4)
 Lvl 10 upgrades: (30, 4; 19, 2; 509, 4)
 Lvl 11 upgrades: (2, 4; 20, 4; 127, 4; 625, 5)
 Lvl 12 upgrades: (30, 4; 7, 3; 10, 3; 16, 3)
-Lvl 13 upgrades: (2, 4; 4, 4; 132, 4; 720, 2)
-Lvl 14 upgrades: (31, 4; 27, 3; 550, 3)
-Lvl 15 upgrades: (2, 4; 20, 4; 71, 4)
-Lvl 16 upgrades: (31, 4; 4, 4; 127, 4)
+Lvl 13 upgrades: (34, 4; 2, 4; 4, 4; 132, 4; 720, 2)
+Lvl 14 upgrades: (31, 4; 27, 3; 712, 10)
+Lvl 15 upgrades: (2, 4; 20, 4; 71, 4; 748, 4)
+Lvl 16 upgrades: (31, 4; 4, 4; 127, 4; 171, 4)
 Lvl 17 upgrades: (2, 4; 13, 3; 132, 4)
 Lvl 18 upgrades: (31, 4; 7, 3; 16, 3; 509, 4)
 Lvl 19 upgrades: (2, 4; 4, 4; 71, 4; 85, 4)
@@ -8964,7 +9082,7 @@ Lvl 19 loot: (0, 0)
 Lvl 20 loot: (0, 0)
 
 /113
-Name: Lizardman-archer;
+Name: Beater;
 Level: 1
 Life: 15
 Attack: 4
@@ -8987,6 +9105,7 @@ GemPayment: 0
 Subtype: (1, 13)
 Analogs: (69, 115, 116)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 159
 SoundShoot: 200
@@ -8998,7 +9117,8 @@ Resource: (0)
 Abilityes:
 Poison_bite: 78
 Regeneration: 98
-Swamp_dweller: 488;
+Swamp_dweller: 488
+Lizarmen_1: 164;
 		
 Lvl 01 upgrades: (1, 4; 30, 4; 20, 4; 7, 3)
 Lvl 02 upgrades: (13, 3; 34, 4; 10, 3)
@@ -9008,7 +9128,7 @@ Lvl 05 upgrades: (2, 4; 20, 4; 98, 4)
 Lvl 06 upgrades: (30, 4; 16, 4; 10, 3)
 Lvl 07 upgrades: (2, 4; 13, 3; 27, 3)
 Lvl 08 upgrades: (31, 4; 7, 4; 16, 4; 569, 5)
-Lvl 09 upgrades: (2, 4; 20, 4)
+Lvl 09 upgrades: (2, 4; 20, 4; 139, 4)
 Lvl 10 upgrades: (36, 4; 4, 4; 10, 3)
 Lvl 11 upgrades: (2, 4; 13, 3; 34, 4)
 Lvl 12 upgrades: (31, 4; 16, 4; 28, 3)
@@ -9043,7 +9163,7 @@ Lvl 19 loot: (247, 2)
 Lvl 20 loot: (0, 0)
 
 /114
-Name: Lizardman-shaman;
+Name: Whisperer;
 Level: 2
 Life: 18
 Attack: 5
@@ -9066,6 +9186,7 @@ GemPayment: 3
 Subtype: (1, 13)
 Analogs: (117)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 60
 SoundShoot: 201
@@ -9076,8 +9197,10 @@ Resource: (4, 4)
 
 Abilityes:
 Magic_Shot: 58
+Regeneration: 98
 Swamp_dweller: 488
-Swamp: 214;
+Swamp: 214
+Lizarmen_1: 164;
 		
 Lvl 01 upgrades: (1, 4; 20, 4; 7, 3; 34, 4)
 Lvl 02 upgrades: (30, 4; 16, 4; 10, 3)
@@ -9091,7 +9214,7 @@ Lvl 09 upgrades: (1, 4; 27, 4; 7, 3; 34, 4)
 Lvl 10 upgrades: (30, 4; 20, 4; 10, 3; 23, 4)
 Lvl 11 upgrades: (1, 4; 16, 4; 4, 3; 549, 1)
 Lvl 12 upgrades: (30, 4; 13, 3; 216, 5)
-Lvl 13 upgrades: (1, 4; 20, 4; 7, 3)
+Lvl 13 upgrades: (1, 4; 20, 4; 7, 3; 139, 4)
 Lvl 14 upgrades: (31, 4; 16, 4; 10, 3)
 Lvl 15 upgrades: (2, 4; 27, 4; 4, 3; 548, 3)
 Lvl 16 upgrades: (31, 4; 21, 4; 13, 3)
@@ -9122,7 +9245,7 @@ Lvl 19 loot: (0, 0)
 Lvl 20 loot: (0, 0)
 
 /115
-Name: Lizardman-sentinel;
+Name: Bog Warrior;
 Level: 2
 Life: 32
 Attack: 11
@@ -9145,6 +9268,7 @@ GemPayment: 0
 Subtype: (1, 13)
 Analogs: (116)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 203
 SoundShoot: 0
@@ -9155,7 +9279,8 @@ Resource: (1, 1)
 
 Abilityes:
 Regeneration: 98
-Swamp_dweller: 488;
+Swamp_dweller: 488
+Lizarmen_1: 164;
 
 Lvl 01 upgrades: (1, 4; 4, 4; 7, 4; 10, 3)
 Lvl 02 upgrades: (30, 4; 2, 10; 98, 4)
@@ -9163,18 +9288,18 @@ Lvl 03 upgrades: (2, 10; 4, 4; 59, 4; 488, 4)
 Lvl 04 upgrades: (31, 10; 7, 4; 13, 3)
 Lvl 05 upgrades: (2, 10; 34, 3; 10, 3)
 Lvl 06 upgrades: (36, 10; 4, 4; 98, 4)
-Lvl 07 upgrades: (2, 10; 7, 4; 46, 4)
+Lvl 07 upgrades: (2, 10; 7, 4; 139, 6)
 Lvl 08 upgrades: (31, 10; 16, 1; 13, 3)
 Lvl 09 upgrades: (36, 10; 4, 4; 10, 3)
 Lvl 10 upgrades: (31, 10; 7, 4; 98, 4)
-Lvl 11 upgrades: (2, 10; 69, 4)
+Lvl 11 upgrades: (2, 10; 46, 4; 69, 4; 139, 4)
 Lvl 12 upgrades: (36, 10; 7, 4; 13, 3)
 Lvl 13 upgrades: (2, 10; 38, 4; 10, 3)
 Lvl 14 upgrades: (31, 10; 16, 1; 488, 4)
 Lvl 15 upgrades: (36, 10; 8, 4; 98, 4)
 Lvl 16 upgrades: (32, 10; 38, 4; 13, 3)
 Lvl 17 upgrades: (3, 10; 34, 3; 10, 3)
-Lvl 18 upgrades: (36, 10; 5, 4)
+Lvl 18 upgrades: (36, 10; 5, 4; 139, 4)
 Lvl 19 upgrades: (3, 10; 38, 4; 658, 2)
 Lvl 20 upgrades: (37, 10; 9, 4; 40, 3)
 
@@ -9200,7 +9325,7 @@ Lvl 19 loot: (0, 0)
 Lvl 20 loot: (0, 0)
 
 /116
-Name: Lizardman-champion;
+Name: Bog Champion;
 Level: 3
 Life: 48
 Attack: 18
@@ -9223,6 +9348,7 @@ GemPayment: 3
 Subtype: (1, 13)
 Analogs: (0)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 26
 SoundShoot: 0
@@ -9232,19 +9358,20 @@ Missile: 0
 Resource: (7, 7)
 
 Abilityes:
-Regeneration: 98
-Swamp_dweller: 488;
+Regeneration: 475
+Swamp_dweller: 488
+Lizarmen_2: 165;
 
 Lvl 01 upgrades: (2, 4; 4, 4; 10, 4; 34, 4)
 Lvl 02 upgrades: (31, 4; 7, 4; 16, 4; 98, 4)
-Lvl 03 upgrades: (2, 4; 4, 4; 13, 4)
+Lvl 03 upgrades: (2, 4; 4, 4; 13, 4; 70, 4)
 Lvl 04 upgrades: (31, 4; 7, 4; 10, 4; 75, 4)
-Lvl 05 upgrades: (36, 4; 4, 4; 13, 4; 34, 4; 70, 4)
+Lvl 05 upgrades: (36, 4; 4, 4; 13, 4; 34, 4; 139, 4)
 Lvl 06 upgrades: (31, 4; 7, 4; 16, 4; 59, 4; 488, 4)
 Lvl 07 upgrades: (2, 4; 4, 4; 10, 4; 75, 4)
 Lvl 08 upgrades: (36, 4; 7, 4; 13, 4; 98, 4)
 Lvl 09 upgrades: (2, 4; 38, 4; 16, 4; 34, 4)
-Lvl 10 upgrades: (31, 4; 8, 4; 10, 4; 70, 4)
+Lvl 10 upgrades: (31, 4; 8, 4; 10, 4; 70, 4; 139, 4)
 Lvl 11 upgrades: (36, 4; 5, 4; 13, 4; 34, 4)
 Lvl 12 upgrades: (32, 4; 38, 4; 42, 4; 98, 4)
 Lvl 13 upgrades: (3, 4; 5, 4; 10, 4; 72, 3)
@@ -9253,7 +9380,7 @@ Lvl 15 upgrades: (3, 4; 38, 4; 42, 4; 35, 4; 70, 4)
 Lvl 16 upgrades: (32, 4; 6, 4; 10, 4; 98, 4)
 Lvl 17 upgrades: (37, 4; 8, 4; 13, 4; 35, 4)
 Lvl 18 upgrades: (32, 4; 38, 4; 17, 4; 81, 4)
-Lvl 19 upgrades: (3, 4; 8, 4; 14, 4; 35, 4)
+Lvl 19 upgrades: (3, 4; 8, 4; 14, 4; 35, 4; 139, 4)
 Lvl 20 upgrades: (37, 4; 6, 4; 41, 4; 70, 4)
 
 Lvl 01 loot: (15, 4; 53, 3)
@@ -9278,7 +9405,7 @@ Lvl 19 loot: (0, 0)
 Lvl 20 loot: (0, 0)
 
 /117
-Name: Lizardman-warlock;
+Name: Hisser;
 Level: 4
 Life: 36
 Attack: 7
@@ -9293,7 +9420,7 @@ Ammo: 7
 Stamina: 15
 Morale: 12
 Exp: 140
-ExpMod: 340
+ExpMod: 310
 GoldPrice: 800
 GemPrice: 120
 GoldPayment: 135
@@ -9301,6 +9428,7 @@ GemPayment: 15
 Subtype: (1, 13)
 Analogs: (0)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 60
 SoundShoot: 116
@@ -9313,19 +9441,20 @@ Abilityes:
 Magic_shot: 58
 Regeneration: 98
 Swamp_dweller: 488
-Geyzer: 218;
+Geyzer: 218
+Lizarmen_2: 165;
 
 Lvl 01 upgrades: (1, 4; 20, 4; 16, 4; 27, 3; 150, 4)
 Lvl 02 upgrades: (30, 4; 27, 4; 34, 4; 57, 4; 488, 4)
 Lvl 03 upgrades: (1, 4; 20, 4; 7, 4; 52, 4; 221, 6)
 Lvl 04 upgrades: (30, 4; 13, 4; 16, 4; 150, 4)
-Lvl 05 upgrades: (1, 4; 20, 4; 547, 4)
+Lvl 05 upgrades: (1, 4; 20, 4; 139, 4; 547, 4)
 Lvl 06 upgrades: (30, 4; 27, 4; 4, 4; 219, 6)
 Lvl 07 upgrades: (1, 4; 20, 4; 17, 4; 150, 4)
 Lvl 08 upgrades: (31, 4; 10, 4; 34, 4; 222, 6)
 Lvl 09 upgrades: (2, 4; 21, 4; 4, 4; 52, 4; 548, 2)
 Lvl 10 upgrades: (31, 4; 27, 4; 16, 4; 220, 6)
-Lvl 11 upgrades: (2, 4; 21, 4; 150, 4)
+Lvl 11 upgrades: (2, 4; 21, 4; 150, 4; 139, 4)
 Lvl 12 upgrades: (31, 4; 13, 4; 4, 4; 23, 4; 488, 4)
 Lvl 13 upgrades: (2, 4; 21, 4; 17, 4; 547, 4)
 Lvl 14 upgrades: (31, 4; 28, 4; 42, 4; 150, 4)
@@ -9381,6 +9510,7 @@ GemPayment: 4
 Subtype: (22, 28)
 Analogs: (153, 154, 155)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 364
 SoundShoot: 58
@@ -9462,6 +9592,7 @@ GemPayment: 0
 Subtype: (1, 6)
 Analogs: (0)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 3
 SoundShoot: 52
@@ -9541,6 +9672,7 @@ GemPayment: 0
 Subtype: (1, 6)
 Analogs: (0)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: 1
 SoundHit: 1
 SoundShoot: 0
@@ -9625,6 +9757,7 @@ GemPayment: 2
 Subtype: (1, 6)
 Analogs: (0)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: 2
 SoundHit: 3
 SoundShoot: 0
@@ -9702,8 +9835,9 @@ GemPrice: 0
 GoldPayment: 8
 GemPayment: 0
 Subtype: (1, 12)
-Analogs: (39, 123, 125)
+Analogs: (34, 123, 125)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 365
 SoundShoot: 5
@@ -9779,8 +9913,9 @@ GemPrice: 0
 GoldPayment: 16
 GemPayment: 0
 Subtype: (1, 12)
-Analogs: (39, 125)
+Analogs: (34, 125)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 104
 SoundShoot: 5
@@ -9853,7 +9988,7 @@ Ammo: 6
 Stamina: 14
 Morale: 11
 Exp: 75
-ExpMod: 210
+ExpMod: 190
 GoldPrice: 350
 GemPrice: 70
 GoldPayment: 70
@@ -9861,6 +9996,7 @@ GemPayment: 10
 Subtype: (1, 12)
 Analogs: (0)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 60
 SoundShoot: 209
@@ -9940,6 +10076,7 @@ GemPayment: 1
 Subtype: (1, 12, 24)
 Analogs: (0)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 207
 SoundShoot: 5
@@ -10020,6 +10157,7 @@ GemPayment: 0
 Subtype: (1, 7)
 Analogs: (15, 105, 106)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: 3
 SoundHit: 27
 SoundShoot: 0
@@ -10092,7 +10230,7 @@ Ammo: 5
 Stamina: 15
 Morale: 12
 Exp: 130
-ExpMod: 350
+ExpMod: 310
 GoldPrice: 450
 GemPrice: 100
 GoldPayment: 90
@@ -10100,6 +10238,7 @@ GemPayment: 15
 Subtype: (1, 7)
 Analogs: (0)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: 3
 SoundHit: 41
 SoundShoot: 219
@@ -10179,6 +10318,7 @@ GemPayment: 0
 Subtype: (1, 6)
 Analogs: (0)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: -2
 SoundHit: 0
 SoundShoot: 0
@@ -10258,6 +10398,7 @@ GemPayment: 0
 Subtype: (1, 9)
 Analogs: (96, 130)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: -2
 SoundHit: 73
 SoundShoot: 50
@@ -10271,25 +10412,25 @@ Poison_Attack: 78
 Parry: 163
 Summon_Snare: 251
 Landstalker: 257
-Panic: 765
-Summon_distance: 773;
+Panic: 277
+Summon_distance: 213;
 		
 Lvl 01 upgrades: (1, 4; 4, 4; 13, 4)
-Lvl 02 upgrades: (30, 4; 7, 4; 16, 4; 769, 4)
+Lvl 02 upgrades: (30, 4; 7, 4; 16, 4; 256, 4)
 Lvl 03 upgrades: (1, 4; 4, 4; 27, 4; 140, 4)
 Lvl 04 upgrades: (30, 4; 10, 4; 127, 4)
 Lvl 05 upgrades: (1, 4; 4, 4; 13, 4; 83, 4)
 Lvl 06 upgrades: (30, 4; 7, 4; 16, 4; 140, 4)
 Lvl 07 upgrades: (1, 4; 4, 4; 34, 4; 56, 5)
-Lvl 08 upgrades: (31, 4; 10, 4; 769, 4)
+Lvl 08 upgrades: (31, 4; 10, 4; 256, 4)
 Lvl 09 upgrades: (2, 4; 4, 4; 13, 4; 250, 5)
 Lvl 10 upgrades: (31, 4; 7, 4; 16, 4; 252, 5)
 Lvl 11 upgrades: (36, 4; 4, 4; 127, 4; 140, 4)
 Lvl 12 upgrades: (31, 4; 10, 4; 13, 4)
-Lvl 13 upgrades: (2, 4; 4, 4; 16, 4; 769, 4)
+Lvl 13 upgrades: (2, 4; 4, 4; 16, 4; 256, 4)
 Lvl 14 upgrades: (36, 4; 7, 4; 38, 4; 27, 4)
 Lvl 15 upgrades: (2, 4; 5, 4; 69, 3; 140, 4)
-Lvl 16 upgrades: (31, 4; 10, 4; 13, 4; 772, 4)
+Lvl 16 upgrades: (31, 4; 10, 4; 13, 4; 276, 4)
 Lvl 17 upgrades: (36, 4; 5, 4; 16, 4)
 Lvl 18 upgrades: (31, 4; 38, 4; 127, 4)
 Lvl 19 upgrades: (2, 4; 5, 4; 7, 4; 140, 4)
@@ -10332,7 +10473,7 @@ Ammo: 5
 Stamina: 13
 Morale: 10
 Exp: 70
-ExpMod: 200
+ExpMod: 180
 GoldPrice: 160
 GemPrice: 20
 GoldPayment: 37
@@ -10340,6 +10481,7 @@ GemPayment: 3
 Subtype: (1, 9)
 Analogs: (0)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: -2
 SoundHit: 60
 SoundShoot: 70
@@ -10362,9 +10504,9 @@ Lvl 05 upgrades: (1, 4; 488, 4; 548, 4)
 Lvl 06 upgrades: (30, 4; 27, 4; 4, 4; 249, 5)
 Lvl 07 upgrades: (1, 4; 16, 4; 253, 6)
 Lvl 08 upgrades: (30, 4; 10, 4; 34, 4)
-Lvl 09 upgrades: (1, 4; 7, 4; 52, 4; 771, 6)
+Lvl 09 upgrades: (1, 4; 7, 4; 52, 4; 275, 6)
 Lvl 10 upgrades: (31, 4; 27, 4; 16, 4)
-Lvl 11 upgrades: (1, 4; 548, 4; 772, 5)
+Lvl 11 upgrades: (1, 4; 548, 4; 276, 8)
 Lvl 12 upgrades: (31, 4; 13, 4; 4, 4)
 Lvl 13 upgrades: (2, 4; 17, 4; 488, 4)
 Lvl 14 upgrades: (31, 4; 27, 4; 294, 5)
@@ -10420,6 +10562,7 @@ GemPayment: 4
 Subtype: (1, 19, 24)
 Analogs: (0)
 UnitClass: 6
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 250
 SoundShoot: 254
@@ -10438,7 +10581,7 @@ Furious_Rage_10: 515;
 		
 Lvl 01 upgrades: (3, 4; 4, 4; 151, 6; 31, 4)
 Lvl 02 upgrades: (31, 4; 7, 4; 10, 4; 13, 4)
-Lvl 03 upgrades: (3, 4; 4, 4; 34, 4; 777, 3)
+Lvl 03 upgrades: (3, 4; 4, 4; 34, 4; 178, 3)
 Lvl 04 upgrades: (31, 4; 7, 4; 10, 4; 98, 4)
 Lvl 05 upgrades: (36, 4; 4, 4; 13, 4; 140, 4)
 Lvl 06 upgrades: (31, 4; 7, 4; 16, 4; 132, 4)
@@ -10448,7 +10591,7 @@ Lvl 09 upgrades: (3, 4; 38, 4; 27, 3; 623, 2)
 Lvl 10 upgrades: (31, 4; 7, 4; 10, 4; 140, 4)
 Lvl 11 upgrades: (36, 4; 5, 4; 13, 4; 132, 4)
 Lvl 12 upgrades: (32, 4; 38, 4; 16, 4; 98, 4)
-Lvl 13 upgrades: (25, 4; 5, 4; 10, 4; 777, 4)
+Lvl 13 upgrades: (25, 4; 5, 4; 10, 4; 178, 4)
 Lvl 14 upgrades: (37, 4; 8, 4; 13, 4; 113, 3)
 Lvl 15 upgrades: (25, 4; 38, 4; 34, 4; 140, 4)
 Lvl 16 upgrades: (32, 4; 6, 4; 40, 4; 98, 4)
@@ -10502,6 +10645,7 @@ GemPayment: 0
 Subtype: (1, 11)
 Analogs: (261)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: 2
 SoundHit: 73
 SoundShoot: 52
@@ -10583,6 +10727,7 @@ GemPayment: 0
 Subtype: (1, 6)
 Analogs: (0)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: 2
 SoundHit: 0
 SoundShoot: 0
@@ -10654,7 +10799,7 @@ Ammo: 7
 Stamina: 12
 Morale: 12
 Exp: 120
-ExpMod: 350
+ExpMod: 320
 GoldPrice: 400
 GemPrice: 80
 GoldPayment: 80
@@ -10662,6 +10807,7 @@ GemPayment: 12
 Subtype: (1, 6)
 Analogs: (0)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: 2
 SoundHit: 60
 SoundShoot: 116
@@ -10744,6 +10890,7 @@ GemPayment: 10
 Subtype: (1)
 Analogs: (0)
 UnitClass: 7
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 114
 SoundShoot: 0
@@ -10823,6 +10970,7 @@ GemPayment: 0
 Subtype: (1, 6)
 Analogs: (0)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: -2
 SoundHit: 119
 SoundShoot: 0
@@ -10902,6 +11050,7 @@ GemPayment: 4
 Subtype: (1, 6)
 Analogs: (0)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: 2
 SoundHit: 48
 SoundShoot: 43
@@ -10982,6 +11131,7 @@ GemPayment: 0
 Subtype: (1, 6)
 Analogs: (0)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 68
 SoundShoot: 77
@@ -11051,7 +11201,7 @@ Ammo: 3
 Stamina: 10
 Morale: 12
 Exp: 25
-ExpMod: 100
+ExpMod: 90
 GoldPrice: 60
 GemPrice: 0
 GoldPayment: 12
@@ -11059,6 +11209,7 @@ GemPayment: 0
 Subtype: (1, 6)
 Analogs: (142, 146)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: 3
 SoundHit: 27
 SoundShoot: 37
@@ -11135,8 +11286,9 @@ GemPrice: 10
 GoldPayment: 15
 GemPayment: 2
 Subtype: (1, 6)
-Analogs: (141)
+Analogs: (137, 141)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: 3
 SoundHit: 60
 SoundShoot: 43
@@ -11150,7 +11302,7 @@ Magic_Shot: 58
 Healing: 94
 Meditation: 52
 Dispel: 263
-HeavenlyArmor: 752;
+HeavenlyArmor: 527;
 		
 Lvl 01 upgrades: (1, 4; 16, 4; 34, 4; 26, 4; 7, 4)
 Lvl 02 upgrades: (30, 4; 20, 4; 65, 3; 548, 1)
@@ -11216,8 +11368,9 @@ GemPrice: 60
 GoldPayment: 80
 GemPayment: 10
 Subtype: (1, 6)
-Analogs: (0)
+Analogs: (149)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: 3
 SoundHit: 60
 SoundShoot: 110
@@ -11232,7 +11385,7 @@ Meditation: 52
 Cast_DemonHunter: 264
 Energy_Control: 149
 Spell_Destruction: 521
-HeavenlyArmor: 752;
+HeavenlyArmor: 527;
 		
 Lvl 01 upgrades: (1, 4; 34, 4; 150, 1; 16, 4)
 Lvl 02 upgrades: (30, 4; 20, 4; 13, 4; 270, 5)
@@ -11300,6 +11453,7 @@ GemPayment: 0
 Subtype: (1, 6)
 Analogs: (0)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: 3
 SoundHit: 361
 SoundShoot: 0
@@ -11318,7 +11472,7 @@ Damage_Weapon: 82
 First_Aid: 96
 Parry: 163
 Reinvigoration: 387
-Heavy_Armor: 783;
+Heavy_Armor: 168;
 		
 Lvl 01 upgrades: (2, 4; 10, 4; 34, 4)
 Lvl 02 upgrades: (31, 4; 7, 4; 13, 4; 85, 4)
@@ -11386,6 +11540,7 @@ GemPayment: 6
 Subtype: (1, 6)
 Analogs: (57, 236)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: 3
 SoundHit: 214
 SoundShoot: 0
@@ -11399,7 +11554,7 @@ First_Strike: 46
 Smite_evil_3: 279
 Undead_hunter: 680
 Demon_hunter: 682
-HeavenlyArmor: 752;
+HeavenlyArmor: 527;
 		
 Lvl 01 upgrades: (2, 4; 4, 4; 10, 4; 34, 4)
 Lvl 02 upgrades: (31, 4; 7, 4; 13, 4)
@@ -11467,6 +11622,7 @@ GemPayment: 6
 Subtype: (1, 6)
 Analogs: (0)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: -2
 SoundHit: 60
 SoundShoot: 70
@@ -11549,6 +11705,7 @@ GemPayment: 0
 Subtype: (4, 27)
 Analogs: (0)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 7
 SoundShoot: 95
@@ -11629,6 +11786,7 @@ GemPayment: 0
 Subtype: (1, 6)
 Analogs: (142, 143)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: 1
 SoundHit: 48
 SoundShoot: 0
@@ -11712,6 +11870,7 @@ GemPayment: 0
 Subtype: (4, 27)
 Analogs: (0)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 7
 SoundShoot: 268
@@ -11793,6 +11952,7 @@ GemPayment: 26
 Subtype: (1, 6)
 Analogs: (200)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: -1
 SoundHit: 60
 SoundShoot: 116
@@ -11806,7 +11966,7 @@ Energy_Control: 149
 Magic_fight: 289
 Archmage_Skills: 288
 Cast_Air_Shield: 120
-Cast_Slow: 139
+Cast_Slow: 308
 Cast_Fireball: 117
 Cast_PowerWord: 142;
 		
@@ -11874,8 +12034,9 @@ GemPrice: 100
 GoldPayment: 120
 GemPayment: 16
 Subtype: (1, 6)
-Analogs: (0)
+Analogs: (141)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: 2
 SoundHit: 60
 SoundShoot: 110
@@ -11958,6 +12119,7 @@ GemPayment: 3
 Subtype: (1, 19)
 Analogs: (0)
 UnitClass: 7
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 126
 SoundShoot: 0
@@ -12037,6 +12199,7 @@ GemPayment: 1
 Subtype: (1, 19)
 Analogs: (0)
 UnitClass: 7
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 85
 SoundShoot: 0
@@ -12115,6 +12278,7 @@ GemPayment: 0
 Subtype: (1, 6)
 Analogs: (0)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: -2
 SoundHit: 48
 SoundShoot: 0
@@ -12193,6 +12357,7 @@ GemPayment: 4
 Subtype: (22, 28)
 Analogs: (118, 154, 155)
 UnitClass: 7
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 41
 SoundShoot: 0
@@ -12274,6 +12439,7 @@ GemPayment: 4
 Subtype: (22, 24, 28)
 Analogs: (118, 153, 155)
 UnitClass: 6
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 167
 SoundShoot: 0
@@ -12354,6 +12520,7 @@ GemPayment: 4
 Subtype: (22, 28)
 Analogs: (118, 153, 154)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 141
 SoundShoot: 0
@@ -12435,6 +12602,7 @@ GemPayment: 2
 Subtype: (1, 8)
 Analogs: (103)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: 2
 SoundHit: 281
 SoundShoot: 43
@@ -12514,6 +12682,7 @@ GemPayment: 80
 Subtype: (1, 28)
 Analogs: (0)
 UnitClass: 7
+Upgraded: (0, 0)
 Karma: 3
 SoundHit: 372
 SoundShoot: 0
@@ -12596,6 +12765,7 @@ GemPayment: 0
 Subtype: (1, 6)
 Analogs: (0)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 27
 SoundShoot: 0
@@ -12674,6 +12844,7 @@ GemPayment: 10
 Subtype: (4, 23)
 Analogs: (71)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 26
 SoundShoot: 0
@@ -12755,6 +12926,7 @@ GemPayment: 80
 Subtype: (3, 21, 24)
 Analogs: (0)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: -3
 SoundHit: 146
 SoundShoot: 147
@@ -12836,6 +13008,7 @@ GemPayment: 30
 Subtype: (1, 6)
 Analogs: (0)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 60
 SoundShoot: 222
@@ -12917,6 +13090,7 @@ GemPayment: 40
 Subtype: (22, 24, 28)
 Analogs: (60, 75)
 UnitClass: 7
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 139
 SoundShoot: 140
@@ -12997,6 +13171,7 @@ GemPayment: 13
 Subtype: (23)
 Analogs: (0)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 27
 SoundShoot: 0
@@ -13077,6 +13252,7 @@ GemPayment: 40
 Subtype: (1, 6)
 Analogs: (200)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 362
 SoundShoot: 116
@@ -13151,7 +13327,7 @@ Ammo: 4
 Stamina: 16
 Morale: 10
 Exp: 100
-ExpMod: 340
+ExpMod: 310
 GoldPrice: 500
 GemPrice: 60
 GoldPayment: 100
@@ -13159,6 +13335,7 @@ GemPayment: 20
 Subtype: (1, 28)
 Analogs: (0)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 161
 SoundShoot: 92
@@ -13240,6 +13417,7 @@ GemPayment: 2
 Subtype: (1, 19)
 Analogs: (167, 168)
 UnitClass: 6
+Upgraded: (167, 14)
 Karma: 0
 SoundHit: 85
 SoundShoot: 86
@@ -13261,17 +13439,17 @@ Lvl 06 upgrades: (31, 4; 13, 4; 535, 3)
 Lvl 07 upgrades: (38, 4; 4, 4; 16, 4)
 Lvl 08 upgrades: (31, 4; 7, 4; 140, 4)
 Lvl 09 upgrades: (2, 4; 34, 4; 10, 4)
-Lvl 10 upgrades: (38, 4; 4, 4; 13, 4; 344, 8)
+Lvl 10 upgrades: (38, 4; 4, 4; 13, 4)
 Lvl 11 upgrades: (2, 4; 7, 4; 16, 4; 591, 4)
 Lvl 12 upgrades: (31, 4; 140, 4)
 Lvl 13 upgrades: (38, 4; 4, 4; 10, 4)
-Lvl 14 upgrades: (31, 4; 7, 4; 13, 4; 344, 12)
+Lvl 14 upgrades: (31, 4; 7, 4; 13, 4)
 Lvl 15 upgrades: (2, 4; 34, 4; 16, 4)
 Lvl 16 upgrades: (38, 4; 5, 4; 140, 4; 535, 3)
-Lvl 17 upgrades: (3, 4; 38, 4; 11, 4; 344, 15)
+Lvl 17 upgrades: (3, 4; 38, 4; 11, 4)
 Lvl 18 upgrades: (32, 4; 35, 4; 14, 4; 591, 4)
 Lvl 19 upgrades: (3, 4; 5, 4; 17, 4; 1, 4)
-Lvl 20 upgrades: (39, 4; 38, 4; 140, 4; 344, 20)
+Lvl 20 upgrades: (39, 4; 38, 4; 140, 4)
 
 Lvl 01 loot: (494, 10)
 Lvl 02 loot: (0, 0)
@@ -13318,6 +13496,7 @@ GemPayment: 5
 Subtype: (1, 19)
 Analogs: (168)
 UnitClass: 6
+Upgraded: (168, 17)
 Karma: 0
 SoundHit: 85
 SoundShoot: 86
@@ -13328,7 +13507,8 @@ Resource: (0)
 
 Abilityes:
 Armor_Pierce: 69
-Forester: 62;
+Forester: 62
+Corpse_Eat: 79;
 		
 Lvl 01 upgrades: (1, 4; 4, 4; 10, 4)
 Lvl 02 upgrades: (30, 4; 7, 4; 13, 4)
@@ -13339,17 +13519,17 @@ Lvl 06 upgrades: (31, 4; 13, 4)
 Lvl 07 upgrades: (38, 4; 4, 4; 16, 4)
 Lvl 08 upgrades: (31, 4; 7, 4; 486, 4)
 Lvl 09 upgrades: (2, 4; 34, 4; 10, 4)
-Lvl 10 upgrades: (38, 4; 4, 4; 13, 4; 345, 6)
+Lvl 10 upgrades: (38, 4; 4, 4; 13, 4)
 Lvl 11 upgrades: (2, 4; 7, 4; 16, 4)
-Lvl 12 upgrades: (31, 4)
+Lvl 12 upgrades: (31, 4; 535, 4)
 Lvl 13 upgrades: (38, 4; 4, 4; 10, 4)
-Lvl 14 upgrades: (31, 4; 7, 4; 13, 4; 345, 9)
+Lvl 14 upgrades: (31, 4; 7, 4; 13, 4)
 Lvl 15 upgrades: (2, 4; 34, 4; 16, 4)
 Lvl 16 upgrades: (38, 4; 5, 4; 19, 4)
-Lvl 17 upgrades: (3, 4; 38, 4; 11, 4; 345, 12)
+Lvl 17 upgrades: (3, 4; 38, 4; 11, 4)
 Lvl 18 upgrades: (32, 4; 35, 4; 14, 4)
 Lvl 19 upgrades: (3, 4; 5, 4; 17, 4)
-Lvl 20 upgrades: (39, 4; 38, 4; 345, 15)
+Lvl 20 upgrades: (39, 4; 38, 4)
 
 Lvl 01 loot: (494, 15)
 Lvl 02 loot: (0, 0)
@@ -13396,6 +13576,7 @@ GemPayment: 10
 Subtype: (1, 19, 24)
 Analogs: (0)
 UnitClass: 6
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 85
 SoundShoot: 86
@@ -13408,28 +13589,28 @@ Abilityes:
 Armor_Pierce: 69
 Forester: 62
 Corpse_Eat: 79
-Trample_5: 346;
+Swallow_20: 751;
 		
 Lvl 01 upgrades: (1, 4; 4, 4; 10, 4)
 Lvl 02 upgrades: (30, 4; 7, 4; 13, 4)
 Lvl 03 upgrades: (2, 4; 34, 4; 16, 4)
 Lvl 04 upgrades: (31, 4; 4, 4; 19, 4)
-Lvl 05 upgrades: (2, 4; 7, 4; 10, 4; 347, 5)
-Lvl 06 upgrades: (31, 4; 13, 4)
+Lvl 05 upgrades: (2, 4; 7, 4; 10, 4)
+Lvl 06 upgrades: (31, 4; 13, 4; 753, 3)
 Lvl 07 upgrades: (38, 4; 4, 4; 16, 4)
 Lvl 08 upgrades: (31, 4; 7, 4; 535, 3)
 Lvl 09 upgrades: (2, 4; 34, 4; 10, 4)
-Lvl 10 upgrades: (38, 4; 4, 4; 13, 4; 347, 5)
+Lvl 10 upgrades: (38, 4; 4, 4; 13, 4)
 Lvl 11 upgrades: (2, 4; 7, 4; 16, 4)
-Lvl 12 upgrades: (31, 4; 486, 4)
+Lvl 12 upgrades: (31, 4; 486, 4; 752, 4)
 Lvl 13 upgrades: (38, 4; 4, 4; 10, 4)
 Lvl 14 upgrades: (31, 4; 7, 4; 13, 4)
-Lvl 15 upgrades: (2, 4; 34, 4; 16, 4; 347, 5)
+Lvl 15 upgrades: (2, 4; 34, 4; 16, 4)
 Lvl 16 upgrades: (38, 4; 5, 4; 535, 3)
 Lvl 17 upgrades: (3, 4; 38, 4; 11, 4)
 Lvl 18 upgrades: (32, 4; 35, 4; 14, 4)
 Lvl 19 upgrades: (3, 4; 5, 4; 17, 4)
-Lvl 20 upgrades: (39, 4; 38, 4; 347, 5)
+Lvl 20 upgrades: (39, 4; 38, 4; 753, 3)
 
 Lvl 01 loot: (494, 20)
 Lvl 02 loot: (0, 0)
@@ -13453,82 +13634,82 @@ Lvl 19 loot: (0, 0)
 Lvl 20 loot: (0, 0)
 
 /169
-Name: Wolf Rider;
+Name: Snare;
 Level: 5
-Life: 34
-Attack: 12
-CounterAttack: 8
-Defence: 1
-RangedDefence: 2
-Resist: 0
-Speed: 3
-RangedAttack: 8
-ShootingRange: 2
-Ammo: 1
-Stamina: 14
-Morale: 9
-Exp: 36
+Life: 2
+Attack: 0
+CounterAttack: 0
+Defence: 0
+RangedDefence: 25
+Resist: 2
+Speed: 0
+RangedAttack: 0
+ShootingRange: 0
+Ammo: 0
+Stamina: 10
+Morale: 10
+Exp: 10
 ExpMod: 100
-GoldPrice: 75
+GoldPrice: 0
 GemPrice: 0
-GoldPayment: 15
+GoldPayment: 0
 GemPayment: 0
-Subtype: (1, 10)
-Analogs: (73, 195, 111)
-UnitClass: 3
-Karma: -2
-SoundHit: 181
-SoundShoot: 78
-SoundShootHit: 54
-SoundDeath: 182
-Missile: 3
-Resource: (1, 1)
+Subtype: (4, 20)
+Analogs: (0)
+UnitClass: 1
+Upgraded: (0, 0)
+Karma: 0
+SoundHit: 0
+SoundShoot: 0
+SoundShootHit: 5
+SoundDeath: 317
+Missile: 0
+Resource: (0)
 
 Abilityes:
-Charge: 67
-Damages_armor: 75
-Horrible_Shout: 167
-HuntingWeb: 607
-BloodLust_1: 652;
-		
-Lvl 01 upgrades: (30, 4; 4, 4; 7, 4)
-Lvl 02 upgrades: (2, 4; 7, 4; 10, 4)
-Lvl 03 upgrades: (30, 4; 13, 4; 27, 4)
-Lvl 04 upgrades: (2, 4; 4, 4; 16, 4; 591, 6)
-Lvl 05 upgrades: (31, 4; 34, 4; 7, 4)
-Lvl 06 upgrades: (2, 4; 10, 4; 13, 4)
-Lvl 07 upgrades: (36, 4; 4, 4; 652, 4)
-Lvl 08 upgrades: (2, 4; 593, 6)
-Lvl 09 upgrades: (31, 4; 7, 4; 764, 4)
-Lvl 10 upgrades: (2, 4; 4, 4; 10, 4)
-Lvl 11 upgrades: (36, 4; 34, 4; 16, 4)
-Lvl 12 upgrades: (2, 4; 8, 4; 13, 4)
-Lvl 13 upgrades: (31, 4; 5, 4; 10, 4)
-Lvl 14 upgrades: (2, 4; 13, 4; 27, 4)
-Lvl 15 upgrades: (36, 4; 42, 4; 652, 4)
-Lvl 16 upgrades: (2, 4; 5, 4; 8, 4)
-Lvl 17 upgrades: (31, 4; 34, 4; 10, 4)
-Lvl 18 upgrades: (2, 4; 13, 4; 16, 4)
-Lvl 19 upgrades: (36, 4; 5, 4; 42, 4)
-Lvl 20 upgrades: (2, 4; 8, 4)
+Mechanical: 287
+DontMove: 352
+Totem: 525
+Snare: 226;
 
-Lvl 01 loot: (10, 6; 52, 3)
-Lvl 02 loot: (71, 2)
-Lvl 03 loot: (96, 2)
-Lvl 04 loot: (146, 3)
-Lvl 05 loot: (11, 6; 53, 3)
-Lvl 06 loot: (72, 2)
-Lvl 07 loot: (97, 2; 113, 1)
-Lvl 08 loot: (147, 1)
-Lvl 09 loot: (12, 6; 54, 3)
-Lvl 10 loot: (86, 2)
-Lvl 11 loot: (244, 1)
-Lvl 12 loot: (149, 1)
-Lvl 13 loot: (246, 1)
-Lvl 14 loot: (311, 1)
-Lvl 15 loot: (359, 1)
-Lvl 16 loot: (312, 1)
-Lvl 17 loot: (371, 1)
+Lvl 01 upgrades: (547, 1)
+Lvl 02 upgrades: (547, 1)
+Lvl 03 upgrades: (547, 1)
+Lvl 04 upgrades: (1, 4)
+Lvl 05 upgrades: (1, 4)
+Lvl 06 upgrades: (1, 4)
+Lvl 07 upgrades: (1, 4)
+Lvl 08 upgrades: (1, 4)
+Lvl 09 upgrades: (1, 4)
+Lvl 10 upgrades: (1, 4)
+Lvl 11 upgrades: (1, 4)
+Lvl 12 upgrades: (1, 4)
+Lvl 13 upgrades: (1, 4)
+Lvl 14 upgrades: (1, 4)
+Lvl 15 upgrades: (1, 4)
+Lvl 16 upgrades: (1, 4)
+Lvl 17 upgrades: (1, 4)
+Lvl 18 upgrades: (1, 4)
+Lvl 19 upgrades: (1, 4)
+Lvl 20 upgrades: (1, 4)
+
+Lvl 01 loot: (0, 0)
+Lvl 02 loot: (0, 0)
+Lvl 03 loot: (0, 0)
+Lvl 04 loot: (0, 0)
+Lvl 05 loot: (0, 0)
+Lvl 06 loot: (0, 0)
+Lvl 07 loot: (0, 0)
+Lvl 08 loot: (0, 0)
+Lvl 09 loot: (0, 0)
+Lvl 10 loot: (0, 0)
+Lvl 11 loot: (0, 0)
+Lvl 12 loot: (0, 0)
+Lvl 13 loot: (0, 0)
+Lvl 14 loot: (0, 0)
+Lvl 15 loot: (0, 0)
+Lvl 16 loot: (0, 0)
+Lvl 17 loot: (0, 0)
 Lvl 18 loot: (0, 0)
 Lvl 19 loot: (0, 0)
 Lvl 20 loot: (0, 0)
@@ -13557,6 +13738,7 @@ GemPayment: 5
 Subtype: (2, 25)
 Analogs: (91)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: -3
 SoundHit: 27
 SoundShoot: 0
@@ -13636,6 +13818,7 @@ GemPayment: 8
 Subtype: (2)
 Analogs: (0)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: -3
 SoundHit: 301
 SoundShoot: 0
@@ -13685,7 +13868,7 @@ Lvl 10 loot: (76, 2; 245, 1)
 Lvl 11 loot: (239, 1)
 Lvl 12 loot: (336, 1)
 Lvl 13 loot: (266, 1)
-Lvl 14 loot: (254, 1; 346, 1)
+Lvl 14 loot: (254, 1; 119, 2)
 Lvl 15 loot: (286, 1; 368, 1)
 Lvl 16 loot: (337, 1; 347, 1)
 Lvl 17 loot: (0, 0)
@@ -13717,6 +13900,7 @@ GemPayment: 20
 Subtype: (2, 28)
 Analogs: (194)
 UnitClass: 7
+Upgraded: (0, 0)
 Karma: -3
 SoundHit: 252
 SoundShoot: 0
@@ -13796,6 +13980,7 @@ GemPayment: 15
 Subtype: (2)
 Analogs: (0)
 UnitClass: 3
+Upgraded: (0, 0)
 Karma: -3
 SoundHit: 108
 SoundShoot: 0
@@ -13836,7 +14021,7 @@ Lvl 20 upgrades: (6, 4; 41, 4; 131, 4)
 Lvl 01 loot: (11, 4; 44, 3)
 Lvl 02 loot: (27, 3; 61, 3)
 Lvl 03 loot: (78, 2; 91, 4; 148, 1)
-Lvl 04 loot: (103, 2; 109, 1; 149, 1; 233, 1)
+Lvl 04 loot: (103, 2; 109, 1; 149, 1; 224, 1)
 Lvl 05 loot: (12, 4; 45, 6; 175, 1; 259, 1)
 Lvl 06 loot: (28, 3; 62, 3; 176, 1; 280, 1)
 Lvl 07 loot: (79, 4; 92, 2; 182, 1; 300, 1)
@@ -13866,7 +14051,7 @@ Resist: 10
 Speed: 2
 RangedAttack: 0
 ShootingRange: 0
-Ammo: 1
+Ammo: 10
 Stamina: 10
 Morale: 10
 Exp: 220
@@ -13878,6 +14063,7 @@ GemPayment: 30
 Subtype: (2)
 Analogs: (0)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: -3
 SoundHit: 221
 SoundShoot: 0
@@ -13904,7 +14090,7 @@ Lvl 08 upgrades: (4, 4; 16, 4)
 Lvl 09 upgrades: (2, 4; 7, 4)
 Lvl 10 upgrades: (4, 4; 10, 4; 131, 4)
 Lvl 11 upgrades: (2, 4; 16, 4; 13, 4)
-Lvl 12 upgrades: (5, 4; 7, 7; 27, 4)
+Lvl 12 upgrades: (5, 4; 7, 7)
 Lvl 13 upgrades: (2, 4; 10, 4)
 Lvl 14 upgrades: (5, 4; 17, 4)
 Lvl 15 upgrades: (3, 4; 8, 4; 13, 4)
@@ -13938,7 +14124,7 @@ Lvl 20 loot: (0, 0)
 /175
 Name: Night Shadow;
 Level: 1
-Life: 9
+Life: 10
 Attack: 5
 CounterAttack: 5
 Defence: 1
@@ -13959,6 +14145,7 @@ GemPayment: 1
 Subtype: (1, 14)
 Analogs: (179, 180)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: -1
 SoundHit: 49
 SoundShoot: 249
@@ -14018,8 +14205,8 @@ Lvl 20 loot: (0, 0)
 Name: Blood Butterfly;
 Level: 2
 Life: 20
-Attack: 10
-CounterAttack: 12
+Attack: 11
+CounterAttack: 11
 Defence: 2
 RangedDefence: 4
 Resist: 5
@@ -14038,6 +14225,7 @@ GemPayment: 2
 Subtype: (1, 14)
 Analogs: (181)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: -1
 SoundHit: 224
 SoundShoot: 0
@@ -14051,18 +14239,19 @@ First_Strike: 46
 Aimed_Hit1: 129
 Parry: 590
 Preparation: 658
-Strike_and_return: 770;
+Strike_and_return: 274
+Strike_and_return: 108;
 		
 Lvl 01 upgrades: (1, 4; 34, 4; 127, 4; 16, 4)
 Lvl 02 upgrades: (30, 4; 13, 3; 4, 4; 645, 4)
-Lvl 03 upgrades: (1, 4; 4, 4; 367, 5)
+Lvl 03 upgrades: (1, 4; 4, 4; 56, 3)
 Lvl 04 upgrades: (30, 4; 10, 3; 7, 4; 85, 4)
 Lvl 05 upgrades: (1, 4; 34, 4; 16, 4; 127, 4)
 Lvl 06 upgrades: (30, 4; 13, 3; 4, 4; 646, 4)
-Lvl 07 upgrades: (1, 4; 593, 4)
+Lvl 07 upgrades: (1, 4; 593, 4; 367, 7)
 Lvl 08 upgrades: (31, 4; 4, 4; 10, 3; 7, 4)
 Lvl 09 upgrades: (1, 4; 34, 4; 16, 4; 127, 4)
-Lvl 10 upgrades: (31, 4; 13, 3; 56, 5; 646, 4)
+Lvl 10 upgrades: (31, 4; 13, 3; 646, 4)
 Lvl 11 upgrades: (1, 4; 42, 4; 75, 3; 85, 3)
 Lvl 12 upgrades: (31, 4; 10, 3; 7, 4; 59, 4)
 Lvl 13 upgrades: (2, 4; 5, 4; 127, 4)
@@ -14119,6 +14308,7 @@ GemPayment: 12
 Subtype: (1, 14)
 Analogs: (178)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: -1
 SoundHit: 60
 SoundShoot: 226
@@ -14198,6 +14388,7 @@ GemPayment: 20
 Subtype: (1, 14)
 Analogs: (0)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: -1
 SoundHit: 229
 SoundShoot: 230
@@ -14279,6 +14470,7 @@ GemPayment: 1
 Subtype: (1, 14)
 Analogs: (180)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: -2
 SoundHit: 233
 SoundShoot: 249
@@ -14351,7 +14543,7 @@ Ammo: 6
 Stamina: 12
 Morale: 12
 Exp: 35
-ExpMod: 140
+ExpMod: 130
 GoldPrice: 125
 GemPrice: 15
 GoldPayment: 25
@@ -14359,6 +14551,7 @@ GemPayment: 3
 Subtype: (1, 14)
 Analogs: (179)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: -1
 SoundHit: 3
 SoundShoot: 376
@@ -14431,7 +14624,7 @@ Ammo: 1
 Stamina: 18
 Morale: 15
 Exp: 70
-ExpMod: 190
+ExpMod: 200
 GoldPrice: 350
 GemPrice: 25
 GoldPayment: 70
@@ -14439,6 +14632,7 @@ GemPayment: 5
 Subtype: (1, 14)
 Analogs: (0)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: -2
 SoundHit: 235
 SoundShoot: 377
@@ -14480,7 +14674,7 @@ Lvl 20 upgrades: (8, 4; 37, 4; 85, 4; 14, 4; 624, 4)
 Lvl 01 loot: (11, 4; 44, 3)
 Lvl 02 loot: (27, 3; 61, 3)
 Lvl 03 loot: (78, 2; 91, 4; 148, 1)
-Lvl 04 loot: (103, 2; 109, 1; 149, 1; 233, 1)
+Lvl 04 loot: (103, 2; 109, 1; 149, 1; 225, 1)
 Lvl 05 loot: (12, 4; 45, 6; 175, 1; 259, 1)
 Lvl 06 loot: (28, 3; 62, 3; 176, 1; 280, 1)
 Lvl 07 loot: (79, 4; 92, 2; 182, 1; 300, 1)
@@ -14514,7 +14708,7 @@ Ammo: 5
 Stamina: 18
 Morale: 12
 Exp: 100
-ExpMod: 200
+ExpMod: 180
 GoldPrice: 200
 GemPrice: 70
 GoldPayment: 0
@@ -14522,6 +14716,7 @@ GemPayment: 22
 Subtype: (1, 28)
 Analogs: (0)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: -3
 SoundHit: 237
 SoundShoot: 380
@@ -14595,7 +14790,7 @@ Ammo: 4
 Stamina: 10
 Morale: 12
 Exp: 35
-ExpMod: 160
+ExpMod: 170
 GoldPrice: 200
 GemPrice: 15
 GoldPayment: 20
@@ -14603,6 +14798,7 @@ GemPayment: 7
 Subtype: (1, 14)
 Analogs: (177, 178)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: -1
 SoundHit: 229
 SoundShoot: 230
@@ -14682,6 +14878,7 @@ GemPayment: 5
 Subtype: (4, 27)
 Analogs: (0)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 7
 SoundShoot: 239
@@ -14754,7 +14951,7 @@ Ammo: 7
 Stamina: 10
 Morale: 12
 Exp: 140
-ExpMod: 350
+ExpMod: 320
 GoldPrice: 750
 GemPrice: 150
 GoldPayment: 150
@@ -14762,6 +14959,7 @@ GemPayment: 30
 Subtype: (1)
 Analogs: (0)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: -2
 SoundHit: 241
 SoundShoot: 242
@@ -14842,6 +15040,7 @@ GemPayment: 9
 Subtype: (23)
 Analogs: (0)
 UnitClass: 6
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 167
 SoundShoot: 0
@@ -14922,6 +15121,7 @@ GemPayment: 0
 Subtype: (1)
 Analogs: (188)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: -2
 SoundHit: 53
 SoundShoot: 0
@@ -15001,6 +15201,7 @@ GemPayment: 0
 Subtype: (1)
 Analogs: (187)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: -2
 SoundHit: 1
 SoundShoot: 0
@@ -15079,6 +15280,7 @@ GemPayment: 45
 Subtype: (2)
 Analogs: (0)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: -3
 SoundHit: 60
 SoundShoot: 245
@@ -15163,6 +15365,7 @@ GemPayment: 6
 Subtype: (1, 6, 26)
 Analogs: (0)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: -2
 SoundHit: 60
 SoundShoot: 256
@@ -15181,7 +15384,7 @@ Strike_Vulnerability: 703;
 Lvl 01 upgrades: (1, 4; 20, 4; 7, 3; 34, 4)
 Lvl 02 upgrades: (30, 4; 16, 4; 10, 3; 185, 7)
 Lvl 03 upgrades: (1, 4; 27, 4; 4, 3; 150, 2)
-Lvl 04 upgrades: (30, 4; 20, 4; 13, 3; 749, 6)
+Lvl 04 upgrades: (30, 4; 20, 4; 13, 3; 526, 6)
 Lvl 05 upgrades: (1, 4; 16, 4; 7, 3; 638, 5)
 Lvl 06 upgrades: (30, 4; 27, 4; 10, 3; 57, 4)
 Lvl 07 upgrades: (1, 4; 20, 4; 4, 3; 624, 3)
@@ -15189,11 +15392,11 @@ Lvl 08 upgrades: (30, 4; 16, 4; 13, 3; 23, 4)
 Lvl 09 upgrades: (1, 4; 27, 4; 7, 3; 402, 7)
 Lvl 10 upgrades: (30, 4; 20, 4; 10, 3; 34, 4)
 Lvl 11 upgrades: (1, 4; 16, 4; 4, 3; 150, 3)
-Lvl 12 upgrades: (30, 4; 27, 4; 13, 3; 749, 5)
+Lvl 12 upgrades: (30, 4; 27, 4; 13, 3; 526, 5)
 Lvl 13 upgrades: (1, 4; 20, 4; 7, 3; 624, 4)
 Lvl 14 upgrades: (31, 4; 16, 4; 10, 3; 405, 6)
 Lvl 15 upgrades: (2, 4; 27, 4; 4, 3; 150, 4; 639, 5)
-Lvl 16 upgrades: (31, 4; 21, 4; 13, 3; 749, 5)
+Lvl 16 upgrades: (31, 4; 21, 4; 13, 3; 526, 5)
 Lvl 17 upgrades: (2, 4; 17, 4; 7, 3; 34, 4)
 Lvl 18 upgrades: (31, 4; 27, 4; 10, 3; 409, 6)
 Lvl 19 upgrades: (2, 4; 21, 4; 4, 3; 403, 8)
@@ -15244,6 +15447,7 @@ GemPayment: 8
 Subtype: (3)
 Analogs: (0)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: -3
 SoundHit: 119
 SoundShoot: 0
@@ -15323,6 +15527,7 @@ GemPayment: 4
 Subtype: (1, 6)
 Analogs: (0)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: 2
 SoundHit: 60
 SoundShoot: 43
@@ -15397,7 +15602,7 @@ Ammo: 0
 Stamina: 10
 Morale: 10
 Exp: 35
-ExpMod: 120
+ExpMod: 110
 GoldPrice: 30
 GemPrice: 20
 GoldPayment: 0
@@ -15405,6 +15610,7 @@ GemPayment: 6
 Subtype: (2, 25)
 Analogs: (207)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: -3
 SoundHit: 262
 SoundShoot: 0
@@ -15477,7 +15683,7 @@ Ammo: 4
 Stamina: 10
 Morale: 10
 Exp: 100
-ExpMod: 220
+ExpMod: 240
 GoldPrice: 40
 GemPrice: 10
 GoldPayment: 0
@@ -15485,6 +15691,7 @@ GemPayment: 14
 Subtype: (2, 18)
 Analogs: (172)
 UnitClass: 7
+Upgraded: (0, 0)
 Karma: -3
 SoundHit: 264
 SoundShoot: 265
@@ -15548,8 +15755,8 @@ Level: 3
 Life: 55
 Attack: 16
 CounterAttack: 18
-Defence: 3
-RangedDefence: 6
+Defence: 4
+RangedDefence: 7
 Resist: 1
 Speed: 1
 RangedAttack: 0
@@ -15566,6 +15773,7 @@ GemPayment: 0
 Subtype: (1, 10)
 Analogs: (111)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: -2
 SoundHit: 269
 SoundShoot: 0
@@ -15578,16 +15786,16 @@ Abilityes:
 Stun: 70
 HoldGround: 493
 Hill_dweller: 487
-Ork_rage: 748
-Strong_defence: 753
-Defence_focus: 755
-Extra_Healing: 758;
+Ork_rage: 360
+Strong_defence: 581
+Defence_focus: 358
+Extra_Healing: 344;
 		
 Lvl 01 upgrades: (2, 4; 4, 4; 7, 4; 10, 4; 82, 4)
 Lvl 02 upgrades: (13, 4; 16, 4; 30, 4; 34, 4)
 Lvl 03 upgrades: (2, 4; 7, 4; 59, 5; 157, 5)
-Lvl 04 upgrades: (4, 4; 10, 4; 13, 4; 756, 5)
-Lvl 05 upgrades: (2, 4; 7, 4; 30, 4; 633, 4; 759, 3)
+Lvl 04 upgrades: (4, 4; 10, 4; 13, 4; 359, 5)
+Lvl 05 upgrades: (2, 4; 7, 4; 30, 4; 633, 4; 345, 3)
 Lvl 06 upgrades: (13, 4; 16, 4; 34, 4; 728, 4)
 Lvl 07 upgrades: (2, 4; 4, 4; 7, 4; 157, 5)
 Lvl 08 upgrades: (10, 4; 13, 4; 30, 4; 81, 4)
@@ -15595,12 +15803,12 @@ Lvl 09 upgrades: (2, 4; 8, 4; 36, 4; 727, 4)
 Lvl 10 upgrades: (4, 4; 10, 4; 13, 4; 633, 4)
 Lvl 11 upgrades: (3, 4; 8, 4; 30, 4; 157, 5)
 Lvl 12 upgrades: (14, 4; 16, 4; 34, 4; 38, 4)
-Lvl 13 upgrades: (3, 4; 5, 4; 8, 4; 36, 4; 759, 3)
+Lvl 13 upgrades: (3, 4; 5, 4; 8, 4; 36, 4; 345, 3)
 Lvl 14 upgrades: (10, 4; 31, 4; 40, 4; 727, 4)
 Lvl 15 upgrades: (3, 4; 8, 4; 42, 4; 157, 5)
 Lvl 16 upgrades: (5, 4; 14, 4; 16, 4; 633, 4)
 Lvl 17 upgrades: (3, 4; 9, 4; 31, 4; 37, 4; 40, 4)
-Lvl 18 upgrades: (11, 4; 35, 4; 38, 4; 756, 4)
+Lvl 18 upgrades: (11, 4; 35, 4; 38, 4; 359, 4)
 Lvl 19 upgrades: (3, 4; 5, 4; 9, 4; 727, 4)
 Lvl 20 upgrades: (11, 4; 31, 4; 37, 4; 40, 4)
 
@@ -15649,6 +15857,7 @@ GemPayment: 100
 Subtype: (5, 24)
 Analogs: (0)
 UnitClass: 6
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 271
 SoundShoot: 0
@@ -15729,6 +15938,7 @@ GemPayment: 3
 Subtype: (1, 6)
 Analogs: (198, 199, 200)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 3
 SoundShoot: 279
@@ -15808,6 +16018,7 @@ GemPayment: 11
 Subtype: (1, 6)
 Analogs: (199, 200)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: -1
 SoundHit: 60
 SoundShoot: 276
@@ -15887,6 +16098,7 @@ GemPayment: 18
 Subtype: (1, 6)
 Analogs: (200)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: -1
 SoundHit: 60
 SoundShoot: 273
@@ -15967,6 +16179,7 @@ GemPayment: 35
 Subtype: (1, 6)
 Analogs: (0)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: -1
 SoundHit: 60
 SoundShoot: 116
@@ -16048,6 +16261,7 @@ GemPayment: 40
 Subtype: (1, 6)
 Analogs: (0)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: -1
 SoundHit: 60
 SoundShoot: 116
@@ -16129,6 +16343,7 @@ GemPayment: 0
 Subtype: (1, 15)
 Analogs: (203, 204, 206)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: -3
 SoundHit: 282
 SoundShoot: 0
@@ -16157,7 +16372,7 @@ Lvl 10 upgrades: (10, 4; 93, 5; 30, 4; 443, 10)
 Lvl 11 upgrades: (1, 4; 4, 3; 34, 4; 441, 8)
 Lvl 12 upgrades: (13, 4; 7, 3; 30, 4; 364, 6)
 Lvl 13 upgrades: (1, 4; 4, 3; 34, 4; 80, 6)
-Lvl 14 upgrades: (16, 4; 55, 3; 30, 4)
+Lvl 14 upgrades: (16, 4; 55, 3; 30, 4; 653, 4)
 Lvl 15 upgrades: (1, 4; 4, 3; 34, 4; 551, 6)
 Lvl 16 upgrades: (10, 4; 7, 3; 31, 4; 364, 6)
 Lvl 17 upgrades: (13, 4; 55, 3; 34, 4; 644, 4)
@@ -16210,6 +16425,7 @@ GemPayment: 0
 Subtype: (1, 15)
 Analogs: (204, 206)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: -3
 SoundHit: 121
 SoundShoot: 0
@@ -16233,7 +16449,7 @@ Lvl 04 upgrades: (10, 4; 7, 3; 30, 4; 158, 8; 623, 4)
 Lvl 05 upgrades: (16, 4; 93, 5; 30, 4; 80, 6)
 Lvl 06 upgrades: (13, 4; 7, 3; 30, 4; 687, 6)
 Lvl 07 upgrades: (1, 4; 4, 3; 34, 4; 474, 6)
-Lvl 08 upgrades: (1, 4; 55, 5; 30, 4; 364, 6)
+Lvl 08 upgrades: (1, 4; 55, 5; 30, 4; 364, 6; 653, 4)
 Lvl 09 upgrades: (16, 4; 4, 3; 34, 4; 550, 6)
 Lvl 10 upgrades: (10, 4; 55, 5; 30, 4; 446, 10)
 Lvl 11 upgrades: (2, 4; 4, 3; 34, 4; 441, 8)
@@ -16243,7 +16459,7 @@ Lvl 14 upgrades: (2, 4; 55, 3; 31, 4; 687, 6)
 Lvl 15 upgrades: (2, 4; 4, 3; 34, 4; 551, 6)
 Lvl 16 upgrades: (10, 4; 7, 3; 31, 4; 364, 6)
 Lvl 17 upgrades: (13, 4; 55, 3; 34, 4; 687, 4)
-Lvl 18 upgrades: (2, 4; 7, 3; 31, 4; 80, 6)
+Lvl 18 upgrades: (2, 4; 7, 3; 31, 4; 80, 6; 653, 4)
 Lvl 19 upgrades: (2, 4; 4, 4; 34, 4; 550, 6)
 Lvl 20 upgrades: (2, 4; 55, 3; 31, 4; 687, 6)
 
@@ -16292,6 +16508,7 @@ GemPayment: 0
 Subtype: (1, 15)
 Analogs: (206)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: -3
 SoundHit: 286
 SoundShoot: 0
@@ -16307,7 +16524,8 @@ Marauder: 86
 Dark_Resurrect_Daemon: 444
 Dire_Howl: 395
 Dark_Replenish: 701
-Furious_Rage_10: 515;
+Furious_Rage_10: 515
+Bloodlust: 653;
 		
 Lvl 01 upgrades: (1, 4; 4, 3; 34, 4; 364, 6)
 Lvl 02 upgrades: (10, 4; 93, 5; 30, 4; 80, 6)
@@ -16317,7 +16535,7 @@ Lvl 05 upgrades: (1, 4; 55, 5; 30, 4; 80, 6)
 Lvl 06 upgrades: (10, 4; 7, 3; 30, 4; 474, 6)
 Lvl 07 upgrades: (1, 4; 4, 3; 34, 4; 623, 4)
 Lvl 08 upgrades: (13, 4; 55, 5; 30, 4; 364, 6)
-Lvl 09 upgrades: (16, 4; 4, 3; 34, 4)
+Lvl 09 upgrades: (16, 4; 4, 3; 34, 4; 653, 4)
 Lvl 10 upgrades: (13, 4; 55, 5; 30, 4; 445, 10)
 Lvl 11 upgrades: (2, 4; 4, 3; 34, 4; 517, 8)
 Lvl 12 upgrades: (10, 4; 7, 3; 31, 4; 550, 6)
@@ -16327,25 +16545,25 @@ Lvl 15 upgrades: (2, 4; 4, 3; 34, 4; 623, 4)
 Lvl 16 upgrades: (2, 4; 7, 3; 31, 4; 364, 6)
 Lvl 17 upgrades: (13, 4; 55, 3; 34, 4; 69, 6)
 Lvl 18 upgrades: (2, 4; 7, 3; 31, 4; 80, 6)
-Lvl 19 upgrades: (40, 4; 16, 4; 34, 4)
+Lvl 19 upgrades: (40, 4; 16, 4; 34, 4; 653, 4)
 Lvl 20 upgrades: (2, 4; 55, 3; 31, 4; 80, 6)
 
-Lvl 01 loot: (30, 6; 52, 2)
-Lvl 02 loot: (48, 3)
-Lvl 03 loot: (96, 2)
-Lvl 04 loot: (190, 3; 229, 3)
-Lvl 05 loot: (31, 6; 53, 3)
-Lvl 06 loot: (49, 3)
-Lvl 07 loot: (82, 3; 97, 2)
-Lvl 08 loot: (113, 2; 191, 1)
-Lvl 09 loot: (32, 6; 54, 2)
-Lvl 10 loot: (50, 3; 192, 1)
-Lvl 11 loot: (98, 3; 230, 1)
-Lvl 12 loot: (231, 1; 244, 1)
-Lvl 13 loot: (194, 1; 245, 1)
-Lvl 14 loot: (233, 1)
-Lvl 15 loot: (292, 1)
-Lvl 16 loot: (370, 1)
+Lvl 01 loot: (21, 7; 41, 3)
+Lvl 02 loot: (42, 3; 55, 3)
+Lvl 03 loot: (0, 0)
+Lvl 04 loot: (0, 0)
+Lvl 05 loot: (22, 7; 43, 3)
+Lvl 06 loot: (56, 3)
+Lvl 07 loot: (74, 4)
+Lvl 08 loot: (99, 3; 105, 3)
+Lvl 09 loot: (23, 7; 44, 3)
+Lvl 10 loot: (75, 4; 221, 2)
+Lvl 11 loot: (168, 2)
+Lvl 12 loot: (106, 3)
+Lvl 13 loot: (24, 7; 169, 3)
+Lvl 14 loot: (76, 4)
+Lvl 15 loot: (170, 2)
+Lvl 16 loot: (171, 2)
 Lvl 17 loot: (0, 0)
 Lvl 18 loot: (0, 0)
 Lvl 19 loot: (0, 0)
@@ -16375,6 +16593,7 @@ GemPayment: 3
 Subtype: (3, 28)
 Analogs: (0)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: -3
 SoundHit: 39
 SoundShoot: 0
@@ -16456,6 +16675,7 @@ GemPayment: 0
 Subtype: (1, 15)
 Analogs: (0)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: -3
 SoundHit: 291
 SoundShoot: 0
@@ -16472,26 +16692,27 @@ Robber: 88
 Dark_Resurrect_PitLord: 448
 Demonic_Howl: 517
 Dark_Replenish: 701
-Furious_Rage_10: 515;
+Furious_Rage_10: 515
+Bloodlust: 653;
 		
 Lvl 01 upgrades: (1, 4; 4, 3; 34, 4; 364, 6)
 Lvl 02 upgrades: (2, 4; 93, 5; 30, 4; 80, 6)
 Lvl 03 upgrades: (1, 4; 4, 3; 34, 4; 364, 6)
 Lvl 04 upgrades: (10, 4; 7, 3; 30, 4; 474, 6)
-Lvl 05 upgrades: (1, 4; 55, 5; 30, 4; 80, 6)
+Lvl 05 upgrades: (1, 4; 55, 5; 30, 4; 80, 6; 653, 4)
 Lvl 06 upgrades: (13, 4; 16, 3; 30, 4; 623, 5)
 Lvl 07 upgrades: (2, 4; 4, 3; 34, 4; 687, 6)
 Lvl 08 upgrades: (1, 4; 55, 5; 30, 4; 550, 6)
 Lvl 09 upgrades: (2, 4; 4, 3; 34, 4; 447, 10; 449, 10)
 Lvl 10 upgrades: (10, 4; 55, 5; 30, 4; 518, 8)
 Lvl 11 upgrades: (2, 4; 4, 3; 34, 4; 364, 6)
-Lvl 12 upgrades: (13, 4; 7, 3; 31, 4; 474, 6)
+Lvl 12 upgrades: (13, 4; 7, 3; 31, 4; 474, 6; 653, 4)
 Lvl 13 upgrades: (2, 4; 4, 3; 34, 4; 550, 6; 623, 5)
 Lvl 14 upgrades: (2, 4; 55, 3; 31, 4; 687, 6)
 Lvl 15 upgrades: (2, 4; 16, 3; 34, 4; 551, 6)
 Lvl 16 upgrades: (10, 4; 7, 3; 31, 4; 364, 6)
 Lvl 17 upgrades: (17, 4; 55, 3; 34, 4; 687, 4)
-Lvl 18 upgrades: (2, 4; 7, 3; 31, 4; 80, 6)
+Lvl 18 upgrades: (2, 4; 7, 3; 31, 4; 80, 6; 653, 4)
 Lvl 19 upgrades: (2, 4; 16, 4; 34, 4; 623, 5)
 Lvl 20 upgrades: (2, 4; 55, 3; 31, 4; 687, 6)
 
@@ -16540,6 +16761,7 @@ GemPayment: 12
 Subtype: (2, 25, 28)
 Analogs: (0)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: -3
 SoundHit: 262
 SoundShoot: 0
@@ -16573,7 +16795,7 @@ Lvl 15 upgrades: (2, 4; 10, 4; 571, 4)
 Lvl 16 upgrades: (13, 4; 16, 4; 8, 4)
 Lvl 17 upgrades: (2, 4; 4, 4; 574, 4)
 Lvl 18 upgrades: (13, 4; 8, 4; 704, 4)
-Lvl 19 upgrades: (2, 4; 10, 4)
+Lvl 19 upgrades: (2, 4; 10, 4; 162, 8)
 Lvl 20 upgrades: (13, 4; 4, 4; 574, 4)
 
 Lvl 01 loot: (9, 7; 41, 5)
@@ -16621,6 +16843,7 @@ GemPayment: 1
 Subtype: (2, 25)
 Analogs: (0)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: -3
 SoundHit: 292
 SoundShoot: 0
@@ -16655,23 +16878,23 @@ Lvl 18 upgrades: (8, 4; 11, 4; 14, 4)
 Lvl 19 upgrades: (2, 4; 19, 4)
 Lvl 20 upgrades: (14, 4; 464, 5)
 
-Lvl 01 loot: (9, 2; 41, 1)
-Lvl 02 loot: (42, 1)
+Lvl 01 loot: (9, 1)
+Lvl 02 loot: (0, 0)
 Lvl 03 loot: (0, 0)
 Lvl 04 loot: (0, 0)
-Lvl 05 loot: (10, 2; 43, 1)
-Lvl 06 loot: (74, 1)
+Lvl 05 loot: (10, 1)
+Lvl 06 loot: (0, 0)
 Lvl 07 loot: (0, 0)
-Lvl 08 loot: (146, 1)
-Lvl 09 loot: (11, 2; 44, 1)
-Lvl 10 loot: (75, 1)
+Lvl 08 loot: (0, 0)
+Lvl 09 loot: (11, 1)
+Lvl 10 loot: (0, 0)
 Lvl 11 loot: (0, 0)
 Lvl 12 loot: (0, 0)
-Lvl 13 loot: (12, 3; 45, 2)
-Lvl 14 loot: (76, 1)
-Lvl 15 loot: (148, 1)
-Lvl 16 loot: (223, 1; 339, 1)
-Lvl 17 loot: (224, 1; 275, 1)
+Lvl 13 loot: (12, 2; 45, 1)
+Lvl 14 loot: (0, 0)
+Lvl 15 loot: (0, 0)
+Lvl 16 loot: (0, 0)
+Lvl 17 loot: (0, 0)
 Lvl 18 loot: (0, 0)
 Lvl 19 loot: (0, 0)
 Lvl 20 loot: (0, 0)
@@ -16700,6 +16923,7 @@ GemPayment: 0
 Subtype: (1, 6)
 Analogs: (1)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 29
 SoundShoot: 0
@@ -16778,6 +17002,7 @@ GemPayment: 0
 Subtype: (1, 19)
 Analogs: (0)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 293
 SoundShoot: 0
@@ -16857,6 +17082,7 @@ GemPayment: 3
 Subtype: (1, 6)
 Analogs: (29, 144, 190)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: -1
 SoundHit: 60
 SoundShoot: 70
@@ -16936,6 +17162,7 @@ GemPayment: 0
 Subtype: (1, 16)
 Analogs: (213, 214, 279)
 UnitClass: 7
+Upgraded: (0, 0)
 Karma: 3
 SoundHit: 295
 SoundShoot: 0
@@ -17013,6 +17240,7 @@ GemPayment: 2
 Subtype: (1, 16)
 Analogs: (214, 279)
 UnitClass: 7
+Upgraded: (0, 0)
 Karma: 3
 SoundHit: 296
 SoundShoot: 0
@@ -17054,7 +17282,7 @@ Lvl 04 loot: (108, 1)
 Lvl 05 loot: (19, 6; 61, 4)
 Lvl 06 loot: (78, 2; 91, 2)
 Lvl 07 loot: (103, 2; 161, 1)
-Lvl 08 loot: (190, 1; 162, 3)
+Lvl 08 loot: (182, 1; 162, 3)
 Lvl 09 loot: (20, 6; 62, 4; 258, 3)
 Lvl 10 loot: (79, 2; 92, 2; 182, 1)
 Lvl 11 loot: (104, 2; 119, 1)
@@ -17092,6 +17320,7 @@ GemPayment: 3
 Subtype: (1, 16)
 Analogs: (213)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 3
 SoundHit: 295
 SoundShoot: 34
@@ -17171,6 +17400,7 @@ GemPayment: 5
 Subtype: (1, 16)
 Analogs: (280, 281)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: 3
 SoundHit: 297
 SoundShoot: 0
@@ -17252,6 +17482,7 @@ GemPayment: 1
 Subtype: (2, 28)
 Analogs: (0)
 UnitClass: 7
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 24
 SoundShoot: 0
@@ -17332,6 +17563,7 @@ GemPayment: 15
 Subtype: (1)
 Analogs: (0)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: -2
 SoundHit: 293
 SoundShoot: 0
@@ -17412,6 +17644,7 @@ GemPayment: 2
 Subtype: (22)
 Analogs: (0)
 UnitClass: 7
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 41
 SoundShoot: 0
@@ -17493,6 +17726,7 @@ GemPayment: 0
 Subtype: (1, 6)
 Analogs: (4)
 UnitClass: 2
+Upgraded: (80, 17)
 Karma: -2
 SoundHit: 3
 SoundShoot: 5
@@ -17517,14 +17751,14 @@ Lvl 09 upgrades: (1, 4; 13, 4; 23, 2)
 Lvl 10 upgrades: (30, 4; 7, 3)
 Lvl 11 upgrades: (1, 4; 20, 4; 27, 4)
 Lvl 12 upgrades: (30, 4; 4, 2; 128, 4)
-Lvl 13 upgrades: (1, 4; 16, 4; 34, 3; 164, 4)
+Lvl 13 upgrades: (1, 4; 16, 4; 34, 3)
 Lvl 14 upgrades: (30, 4; 10, 3; 550, 3)
 Lvl 15 upgrades: (2, 4; 20, 4; 84, 4)
-Lvl 16 upgrades: (31, 4; 16, 4)
-Lvl 17 upgrades: (2, 4; 13, 4; 28, 4; 164, 9)
+Lvl 16 upgrades: (31, 4; 16, 4; 591, 4)
+Lvl 17 upgrades: (2, 4; 13, 4; 28, 4)
 Lvl 18 upgrades: (31, 4; 7, 3; 23, 4)
 Lvl 19 upgrades: (3, 4; 21, 4; 34, 3)
-Lvl 20 upgrades: (31, 4; 4, 2; 128, 4; 164, 15; 591, 4)
+Lvl 20 upgrades: (31, 4; 4, 2; 128, 4)
 
 Lvl 01 loot: (29, 6; 46, 6; 51, 3)
 Lvl 02 loot: (47, 6)
@@ -17550,9 +17784,9 @@ Lvl 20 loot: (0, 0)
 /220
 Name: Black Unicorn;
 Level: 4
-Life: 70
-Attack: 20
-CounterAttack: 21
+Life: 75
+Attack: 24
+CounterAttack: 25
 Defence: 4
 RangedDefence: 5
 Resist: 14
@@ -17571,6 +17805,7 @@ GemPayment: 8
 Subtype: (1, 19)
 Analogs: (0)
 UnitClass: 3
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 128
 SoundShoot: 0
@@ -17650,6 +17885,7 @@ GemPayment: 0
 Subtype: (1, 17)
 Analogs: (223, 225, 226, 232, 233)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: -1
 SoundHit: 302
 SoundShoot: 0
@@ -17728,6 +17964,7 @@ GemPayment: 0
 Subtype: (1, 19)
 Analogs: (0)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 304
 SoundShoot: 0
@@ -17762,20 +17999,20 @@ Lvl 18 upgrades: (7, 4)
 Lvl 19 upgrades: (5, 4; 2, 3)
 Lvl 20 upgrades: (3, 9; 17, 9)
 
-Lvl 01 loot: (1, 5; 63, 3; 5, 3)
-Lvl 02 loot: (67, 3; 80, 3)
-Lvl 03 loot: (2, 3)
-Lvl 04 loot: (6, 3; 64, 3)
-Lvl 05 loot: (81, 3)
-Lvl 06 loot: (117, 2; 120, 2)
-Lvl 07 loot: (111, 2; 68, 3)
-Lvl 08 loot: (65, 5; 7, 5)
-Lvl 09 loot: (82,2; 94, 5)
-Lvl 10 loot: (121, 3; 126, 1)
-Lvl 11 loot: (127, 1; 69, 3)
-Lvl 12 loot: (134, 1; 4, 5)
-Lvl 13 loot: (377, 1)
-Lvl 14 loot: (239, 1)
+Lvl 01 loot: (0, 0)
+Lvl 02 loot: (0, 0)
+Lvl 03 loot: (0, 0)
+Lvl 04 loot: (0, 0)
+Lvl 05 loot: (0, 0)
+Lvl 06 loot: (0, 0)
+Lvl 07 loot: (0, 0)
+Lvl 08 loot: (0, 0)
+Lvl 09 loot: (0, 0)
+Lvl 10 loot: (0, 0)
+Lvl 11 loot: (0, 0)
+Lvl 12 loot: (0, 0)
+Lvl 13 loot: (0, 0)
+Lvl 14 loot: (0, 0)
 Lvl 15 loot: (0, 0)
 Lvl 16 loot: (0, 0)
 Lvl 17 loot: (0, 0)
@@ -17807,6 +18044,7 @@ GemPayment: 2
 Subtype: (1, 17)
 Analogs: (225, 232, 233)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: -1
 SoundHit: 306
 SoundShoot: 0
@@ -17819,7 +18057,7 @@ Abilityes:
 Rat_man: 489
 Swamp_dweller: 488
 Plague_Warrior: 539
-RestAmmoCorpse: 779;
+RestAmmoCorpse: 176;
 		
 Lvl 01 upgrades: (1, 4; 4, 4; 34, 3)
 Lvl 02 upgrades: (7, 4; 30, 4; 140, 4)
@@ -17828,14 +18066,14 @@ Lvl 04 upgrades: (4, 4; 16, 4; 501, 5)
 Lvl 05 upgrades: (1, 4; 7, 4) 
 Lvl 06 upgrades: (4, 4; 10, 3; 72, 5)
 Lvl 07 upgrades: (1, 4; 30, 4; 495, 6)
-Lvl 08 upgrades: (7, 4; 27, 4; 779, 4)
+Lvl 08 upgrades: (7, 4; 27, 4; 176, 4)
 Lvl 09 upgrades: (1, 4; 4, 4; 140, 4)
 Lvl 10 upgrades: (16, 4; 34, 3)
 Lvl 11 upgrades: (1, 4; 4, 4; 19, 3)
 Lvl 12 upgrades: (7, 4; 30, 4; 501, 5)
 Lvl 13 upgrades: (1, 4; 4, 4; 27, 4)
 Lvl 14 upgrades: (13, 3; 16, 4; 548, 5)
-Lvl 15 upgrades: (1, 4; 7, 4; 779, 4)
+Lvl 15 upgrades: (1, 4; 7, 4; 176, 4)
 Lvl 16 upgrades: (5, 4; 10, 3; 30, 4)
 Lvl 17 upgrades: (2, 4; 34, 3; 140, 4)
 Lvl 18 upgrades: (8, 4; 31, 4; 27, 4)
@@ -17887,6 +18125,7 @@ GemPayment: 9
 Subtype: (23, 29)
 Analogs: (0)
 UnitClass: 6
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 167
 SoundShoot: 0
@@ -17899,7 +18138,7 @@ Abilityes:
 Mechanical: 287
 DontMove: 352
 Mind_Immunity: 304
-SpellOnDeath_MagicSpark: 780;
+SpellOnDeath_MagicSpark: 172;
 		
 Lvl 01 upgrades: (2, 4; 10, 4)
 Lvl 02 upgrades: (13, 4; 16, 4)
@@ -17967,6 +18206,7 @@ GemPayment: 3
 Subtype: (1, 17)
 Analogs: (223, 232, 233)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: -1
 SoundHit: 312
 SoundShoot: 313
@@ -18049,6 +18289,7 @@ GemPayment: 1
 Subtype: (1, 17)
 Analogs: (221, 223, 225, 232, 233)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: -2
 SoundHit: 3
 SoundShoot: 52
@@ -18060,7 +18301,7 @@ Resource: (4)
 Abilityes:
 Cannibal_5: 535
 Hill_dweller: 593
-LightDisease_Shot: 774
+LightDisease_Shot: 179
 Tolerance: 538
 War_bottle: 490;
 		
@@ -18077,7 +18318,7 @@ Lvl 10 upgrades: (30, 4; 13, 3; 27, 4)
 Lvl 11 upgrades: (1, 4; 4, 3; 23, 4)
 Lvl 12 upgrades: (30, 4; 7, 4; 16, 3)
 Lvl 13 upgrades: (2, 4; 34, 4; 500, 5)
-Lvl 14 upgrades: (30, 4; 10, 3; 775, 8)
+Lvl 14 upgrades: (30, 4; 10, 3; 180, 8)
 Lvl 15 upgrades: (2, 4; 36, 1; 549, 3)
 Lvl 16 upgrades: (30, 4; 4, 3; 13, 3)
 Lvl 17 upgrades: (2, 4; 7, 4; 42, 4)
@@ -18107,62 +18348,64 @@ Lvl 19 loot: (0, 0)
 Lvl 20 loot: (0, 0)
 
 /227
-Name: Lightning Cannon;
+Name: Trap;
 Level: 5
-Life: 20
+Life: 2
 Attack: 0
 CounterAttack: 0
-Defence: 1
-RangedDefence: 8
-Resist: 1
-Speed: 2
-RangedAttack: 9
-ShootingRange: 5
-Ammo: 5
+Defence: 0
+RangedDefence: 25
+Resist: 2
+Speed: 0
+RangedAttack: 0
+ShootingRange: 0
+Ammo: 0
 Stamina: 10
 Morale: 10
-Exp: 42
-ExpMod: 160
-GoldPrice: 125
-GemPrice: 15
-GoldPayment: 25
-GemPayment: 2
-Subtype: (4, 27)
+Exp: 10
+ExpMod: 100
+GoldPrice: 0
+GemPrice: 0
+GoldPayment: 0
+GemPayment: 0
+Subtype: (4, 20)
 Analogs: (0)
-UnitClass: 2
+UnitClass: 1
+Upgraded: (0, 0)
 Karma: 0
-SoundHit: 7
-SoundShoot: 319
-SoundShootHit: 320
-SoundDeath: 321
-Missile: 14
-Resource: (1, 5, 7)
+SoundHit: 0
+SoundShoot: 0
+SoundShootHit: 5
+SoundDeath: 317
+Missile: 0
+Resource: (0)
 
 Abilityes:
 Mechanical: 287
-Siege: 99
-Magic_shot: 58;
-		
-Lvl 01 upgrades: (1, 4; 20, 4)
-Lvl 02 upgrades: (10, 4; 14, 4)
-Lvl 03 upgrades: (1, 4; 100, 4)
-Lvl 04 upgrades: (16, 4; 20, 3)
-Lvl 05 upgrades: (1, 4; 27, 5)
-Lvl 06 upgrades: (14, 4; 100, 4)
-Lvl 07 upgrades: (1, 4; 20, 4)
-Lvl 08 upgrades: (10, 4; 21, 3)
-Lvl 09 upgrades: (1, 4; 697, 5)
-Lvl 10 upgrades: (21, 5; 27, 5)
-Lvl 11 upgrades: (1, 4; 100, 4)
-Lvl 12 upgrades: (16, 4; 21, 4)
-Lvl 13 upgrades: (2, 4; 10, 4)
-Lvl 14 upgrades: (14, 4; 100, 4)
-Lvl 15 upgrades: (2, 4; 21, 5)
-Lvl 16 upgrades: (11, 4; 16, 4)
-Lvl 17 upgrades: (2, 4; 100, 4)
-Lvl 18 upgrades: (14, 5; 23, 3)
-Lvl 19 upgrades: (2, 4; 11, 4)
-Lvl 20 upgrades: (17, 4; 27, 5)
+DontMove: 352
+Totem: 525
+Trap: 227;
+
+Lvl 01 upgrades: (548, 1)
+Lvl 02 upgrades: (548, 1)
+Lvl 03 upgrades: (547, 1)
+Lvl 04 upgrades: (1, 4)
+Lvl 05 upgrades: (1, 4)
+Lvl 06 upgrades: (1, 4)
+Lvl 07 upgrades: (1, 4)
+Lvl 08 upgrades: (1, 4)
+Lvl 09 upgrades: (1, 4)
+Lvl 10 upgrades: (1, 4)
+Lvl 11 upgrades: (1, 4)
+Lvl 12 upgrades: (1, 4)
+Lvl 13 upgrades: (1, 4)
+Lvl 14 upgrades: (1, 4)
+Lvl 15 upgrades: (1, 4)
+Lvl 16 upgrades: (1, 4)
+Lvl 17 upgrades: (1, 4)
+Lvl 18 upgrades: (1, 4)
+Lvl 19 upgrades: (1, 4)
+Lvl 20 upgrades: (1, 4)
 
 Lvl 01 loot: (0, 0)
 Lvl 02 loot: (0, 0)
@@ -18186,80 +18429,80 @@ Lvl 19 loot: (0, 0)
 Lvl 20 loot: (0, 0)
 
 /228
-Name: Assault Rat;
+Name: Hornet's Nest;
 Level: 5
-Life: 18
-Attack: 7
-CounterAttack: 4
-Defence: 2
-RangedDefence: 4
-Resist: 1
-Speed: 2
-RangedAttack: 7
-ShootingRange: 4
-Ammo: 6
-Stamina: 15
-Morale: 8
-Exp: 35
-ExpMod: 150
-GoldPrice: 155
-GemPrice: 20
-GoldPayment: 11
-GemPayment: 8
-Subtype: (1, 17)
-Analogs: (225, 226)
-UnitClass: 2
+Life: 5
+Attack: 0
+CounterAttack: 0
+Defence: 0
+RangedDefence: 25
+Resist: 2
+Speed: 0
+RangedAttack: 0
+ShootingRange: 0
+Ammo: 0
+Stamina: 10
+Morale: 10
+Exp: 10
+ExpMod: 100
+GoldPrice: 0
+GemPrice: 0
+GoldPayment: 0
+GemPayment: 0
+Subtype: (4, 20)
+Analogs: (0)
+UnitClass: 1
+Upgraded: (0, 0)
 Karma: 0
-SoundHit: 322
-SoundShoot: 323
-SoundShootHit: 324
-SoundDeath: 325
-Missile: 16
-Resource: (1, 7, 7)
+SoundHit: 0
+SoundShoot: 0
+SoundShootHit: 5
+SoundDeath: 317
+Missile: 0
+Resource: (0)
 
 Abilityes:
-Cannibal_5: 535
-Hill_dweller: 487
-Heavy_Ammo: 506
-Tolerance: 538
-DoubleShot: 601;
-		
-Lvl 01 upgrades: (1, 4; 30, 1; 16, 1; 27, 4)
-Lvl 02 upgrades: (30, 3; 10, 3; 20, 4)
-Lvl 03 upgrades: (1, 4; 34, 4; 7, 4; 500, 4)
-Lvl 04 upgrades: (30, 4; 13, 3; 27, 4; 47, 5)
-Lvl 05 upgrades: (1, 4; 20, 4; 507, 2)
-Lvl 06 upgrades: (30, 4; 16, 3; 4, 3; 486, 5)
-Lvl 07 upgrades: (1, 4; 7, 4; 27, 4)
-Lvl 08 upgrades: (30, 4; 10, 3; 20, 4; 501, 4)
-Lvl 09 upgrades: (1, 4; 34, 4; 7, 4; 23, 3)
-Lvl 10 upgrades: (30, 4; 13, 3; 27, 4)
-Lvl 11 upgrades: (2, 4; 20, 4)
-Lvl 12 upgrades: (30, 4; 16, 3; 4, 3)
-Lvl 13 upgrades: (2, 4; 28, 4; 507, 3)
-Lvl 14 upgrades: (31, 4; 10, 3; 21, 4)
-Lvl 15 upgrades: (2, 4; 34, 4; 7, 4; 500, 4)
-Lvl 16 upgrades: (31, 4; 13, 3; 38, 1; 488, 4)
-Lvl 17 upgrades: (2, 4; 42, 4; 21, 4)
-Lvl 18 upgrades: (36, 4; 16, 3; 28, 4)
-Lvl 19 upgrades: (2, 4; 42, 4; 4, 3; 23, 4)
-Lvl 20 upgrades: (36, 4; 40, 3; 21, 4; 507, 4)
+Mechanical: 287
+DontMove: 352
+Trap: 525
+Hive: 228;
 
-Lvl 01 loot: (33, 6; 46, 3; 55, 2)
-Lvl 02 loot: (47, 3)
+Lvl 01 upgrades: (548, 1)
+Lvl 02 upgrades: (548, 1)
+Lvl 03 upgrades: (548, 1)
+Lvl 04 upgrades: (1, 4)
+Lvl 05 upgrades: (1, 4)
+Lvl 06 upgrades: (1, 4)
+Lvl 07 upgrades: (1, 4)
+Lvl 08 upgrades: (1, 4)
+Lvl 09 upgrades: (1, 4)
+Lvl 10 upgrades: (1, 4)
+Lvl 11 upgrades: (1, 4)
+Lvl 12 upgrades: (1, 4)
+Lvl 13 upgrades: (1, 4)
+Lvl 14 upgrades: (1, 4)
+Lvl 15 upgrades: (1, 4)
+Lvl 16 upgrades: (1, 4)
+Lvl 17 upgrades: (1, 4)
+Lvl 18 upgrades: (1, 4)
+Lvl 19 upgrades: (1, 4)
+Lvl 20 upgrades: (1, 4)
+
+Lvl 01 loot: (0, 0)
+Lvl 02 loot: (0, 0)
 Lvl 03 loot: (0, 0)
 Lvl 04 loot: (0, 0)
-Lvl 05 loot: (34, 6; 48, 3; 56, 2)
-Lvl 06 loot: (71, 2; 87, 2)
-Lvl 07 loot: (96, 2)
-Lvl 08 loot: (117, 2)
-Lvl 09 loot: (35, 6; 49, 4; 57, 2)
-Lvl 10 loot: (72, 2)
-Lvl 11 loot: (97, 2)
-Lvl 12 loot: (199, 2)
-Lvl 13 loot: (36, 6; 50, 2)
-Lvl 14 loot: (124, 1; 200, 2)
-Lvl 15 loot: (201, 1)
+Lvl 05 loot: (0, 0)
+Lvl 06 loot: (0, 0)
+Lvl 07 loot: (0, 0)
+Lvl 08 loot: (0, 0)
+Lvl 09 loot: (0, 0)
+Lvl 10 loot: (0, 0)
+Lvl 11 loot: (0, 0)
+Lvl 12 loot: (0, 0)
+Lvl 13 loot: (0, 0)
+Lvl 14 loot: (0, 0)
+Lvl 15 loot: (0, 0)
 Lvl 16 loot: (0, 0)
 Lvl 17 loot: (0, 0)
 Lvl 18 loot: (0, 0)
@@ -18267,62 +18510,66 @@ Lvl 19 loot: (0, 0)
 Lvl 20 loot: (0, 0)
 
 /229
-Name: Rat Reaper;
+Name: Earth Totem;
 Level: 5
-Life: 75
-Attack: 18
-CounterAttack: 18
-Defence: 2
-RangedDefence: 4
-Resist: 4
-Speed: 2
+Life: 7
+Attack: 0
+CounterAttack: 0
+Defence: 5
+RangedDefence: 5
+Resist: 2
+Speed: 0
 RangedAttack: 0
 ShootingRange: 0
 Ammo: 1
-Stamina: 18
-Morale: 12
-Exp: 100
-ExpMod: 200
-GoldPrice: 400
-GemPrice: 25
-GoldPayment: 90
+Stamina: 10
+Morale: 10
+Exp: 15
+ExpMod: 100
+GoldPrice: 0
+GemPrice: 0
+GoldPayment: 0
 GemPayment: 0
-Subtype: (1, 17, 24, 28)
-Analogs: (230)
-UnitClass: 6
+Subtype: (22, 28, 29)
+Analogs: (0)
+UnitClass: 4
+Upgraded: (0, 0)
 Karma: 0
-SoundHit: 326
+SoundHit: 0
 SoundShoot: 0
 SoundShootHit: 5
-SoundDeath: 327
+SoundDeath: 317
 Missile: 0
-Resource: (3, 9)
+Resource: (0)
 
 Abilityes:
-Hill_dweller: 487
-Rat_ogre: 508
-Feared: 80;
-		
-Lvl 01 upgrades: (3, 4; 4, 4; 13, 4)
-Lvl 02 upgrades: (31, 4; 7, 4; 10, 4; 501, 4)
-Lvl 03 upgrades: (3, 4; 4, 4; 34, 4)
-Lvl 04 upgrades: (31, 4; 7, 4; 10, 4; 487, 4)
-Lvl 05 upgrades: (36, 4; 4, 4; 13, 4)
-Lvl 06 upgrades: (31, 4; 7, 4; 16, 4; 104, 4)
-Lvl 07 upgrades: (3, 4; 5, 4; 10, 4; 80, 3)
-Lvl 08 upgrades: (36, 4; 7, 4; 13, 4; 72, 3)
-Lvl 09 upgrades: (25, 4; 38, 4; 501, 4)
-Lvl 10 upgrades: (31, 4; 8, 4; 10, 4; 104, 4)
-Lvl 11 upgrades: (36, 4; 5, 4; 13, 4; 69, 4)
-Lvl 12 upgrades: (32, 4; 38, 4; 16, 4)
-Lvl 13 upgrades: (25, 4; 5, 4; 10, 4; 488, 4)
-Lvl 14 upgrades: (37, 4; 8, 4; 13, 4; 104, 4)
-Lvl 15 upgrades: (32, 4; 38, 4; 35, 4; 501, 4)
-Lvl 16 upgrades: (25, 4; 6, 4; 40, 4; 80, 4)
-Lvl 17 upgrades: (37, 4; 8, 4; 14, 4)
-Lvl 18 upgrades: (32, 4; 38, 4; 16, 4; 104, 4)
-Lvl 19 upgrades: (25, 4; 8, 4; 14, 4)
-Lvl 20 upgrades: (37, 4; 6, 4; 11, 4)
+Mechanical: 287
+DontMove: 352
+Totem: 525
+Healing_around: 283
+Ghosts_Rage: 733
+Stone_Spikes: 204;
+
+Lvl 01 upgrades: (1, 4; 1, 4)
+Lvl 02 upgrades: (1, 4; 10, 4)
+Lvl 03 upgrades: (1, 4; 2, 4)
+Lvl 04 upgrades: (1, 4; 13, 4)
+Lvl 05 upgrades: (206, 8; 547, 5; 548, 5)
+Lvl 06 upgrades: (1, 4; 1, 4)
+Lvl 07 upgrades: (1, 4; 16, 4)
+Lvl 08 upgrades: (1, 4; 2, 4)
+Lvl 09 upgrades: (1, 4; 13, 4)
+Lvl 10 upgrades: (284, 9)
+Lvl 11 upgrades: (1, 4; 1, 4)
+Lvl 12 upgrades: (1, 4; 10, 4)
+Lvl 13 upgrades: (1, 4; 2, 4)
+Lvl 14 upgrades: (1, 4; 13, 4)
+Lvl 15 upgrades: (285, 12; 547, 5; 548, 5)
+Lvl 16 upgrades: (1, 4; 1, 4)
+Lvl 17 upgrades: (1, 4; 16, 4)
+Lvl 18 upgrades: (1, 4; 2, 4)
+Lvl 19 upgrades: (1, 4; 13, 4)
+Lvl 20 upgrades: (286, 15; 10, 4)
 
 Lvl 01 loot: (0, 0)
 Lvl 02 loot: (0, 0)
@@ -18346,62 +18593,66 @@ Lvl 19 loot: (0, 0)
 Lvl 20 loot: (0, 0)
 
 /230
-Name: Ratclaw;
+Name: Rage Totem;
 Level: 5
-Life: 50
-Attack: 14
-CounterAttack: 14
-Defence: 3
-RangedDefence: 8
-Resist: 1
-Speed: 2
+Life: 7
+Attack: 0
+CounterAttack: 0
+Defence: 5
+RangedDefence: 5
+Resist: 2
+Speed: 0
 RangedAttack: 0
 ShootingRange: 0
-Ammo: 0
-Stamina: 15
+Ammo: 1
+Stamina: 10
 Morale: 10
-Exp: 90
-ExpMod: 190
-GoldPrice: 350
-GemPrice: 25
-GoldPayment: 80
+Exp: 15
+ExpMod: 100
+GoldPrice: 0
+GemPrice: 0
+GoldPayment: 0
 GemPayment: 0
-Subtype: (1, 17, 24)
-Analogs: (229)
-UnitClass: 6
+Subtype: (22, 28, 29)
+Analogs: (0)
+UnitClass: 4
+Upgraded: (0, 0)
 Karma: 0
-SoundHit: 328
+SoundHit: 0
 SoundShoot: 0
 SoundShootHit: 5
-SoundDeath: 329
+SoundDeath: 317
 Missile: 0
-Resource: (3, 9)
+Resource: (0)
 
 Abilityes:
-Rat_man: 489
-Cause_fear: 80
-Piercing_Strike: 69;
-		
-Lvl 01 upgrades: (2, 4; 4, 4; 13, 4; 488, 3)
-Lvl 02 upgrades: (31, 4; 7, 4; 10, 4; 487, 2)
-Lvl 03 upgrades: (2, 4; 4, 4; 34, 4; 486, 1)
-Lvl 04 upgrades: (31, 4; 7, 4; 10, 4; 500, 4)
-Lvl 05 upgrades: (36, 4; 4, 4; 13, 4)
-Lvl 06 upgrades: (31, 4; 7, 4; 16, 4)
-Lvl 07 upgrades: (2, 4; 4, 4; 10, 4; 80, 2)
-Lvl 08 upgrades: (36, 4; 7, 4; 13, 4; 46, 4)
-Lvl 09 upgrades: (2, 4; 38, 4; 501, 4)
-Lvl 10 upgrades: (31, 4; 7, 4; 10, 4)
-Lvl 11 upgrades: (36, 4; 5, 4; 13, 4; 19, 4)
-Lvl 12 upgrades: (32, 4; 38, 4; 16, 4)
-Lvl 13 upgrades: (3, 4; 5, 4; 10, 4)
-Lvl 14 upgrades: (37, 4; 8, 4; 14, 4; 501, 4)
-Lvl 15 upgrades: (3, 4; 38, 4; 35, 4)
-Lvl 16 upgrades: (32, 4; 6, 4; 40, 4)
-Lvl 17 upgrades: (37, 4; 8, 4; 14, 4)
-Lvl 18 upgrades: (32, 4; 38, 4; 16, 4)
-Lvl 19 upgrades: (3, 4; 8, 4; 14, 4; 80, 2)
-Lvl 20 upgrades: (37, 4; 6, 4; 11, 4)
+Mechanical: 287
+DontMove: 352
+Totem: 525
+BloodRage_around: 734
+Ghosts_Rage: 733
+Rage: 208;
+
+Lvl 01 upgrades: (1, 4; 1, 4)
+Lvl 02 upgrades: (1, 4; 10, 4)
+Lvl 03 upgrades: (1, 4; 2, 4)
+Lvl 04 upgrades: (1, 4; 13, 4)
+Lvl 05 upgrades: (735, 8; 548, 5)
+Lvl 06 upgrades: (1, 4; 1, 4)
+Lvl 07 upgrades: (1, 4; 16, 4)
+Lvl 08 upgrades: (1, 4; 2, 4)
+Lvl 09 upgrades: (1, 4; 13, 4)
+Lvl 10 upgrades: (736, 11; 210, 10)
+Lvl 11 upgrades: (1, 4; 1, 4)
+Lvl 12 upgrades: (1, 4; 10, 4)
+Lvl 13 upgrades: (1, 4; 2, 4)
+Lvl 14 upgrades: (1, 4; 13, 4)
+Lvl 15 upgrades: (600, 14; 548, 5)
+Lvl 16 upgrades: (1, 4; 1, 4)
+Lvl 17 upgrades: (1, 4; 16, 4)
+Lvl 18 upgrades: (1, 4; 2, 4)
+Lvl 19 upgrades: (1, 4; 13, 4)
+Lvl 20 upgrades: (1, 4; 10, 4)
 
 Lvl 01 loot: (0, 0)
 Lvl 02 loot: (0, 0)
@@ -18425,63 +18676,66 @@ Lvl 19 loot: (0, 0)
 Lvl 20 loot: (0, 0)
 
 /231
-Name: Shredder;
+Name: Fire Totem;
 Level: 5
-Life: 45
-Attack: 20
-CounterAttack: 20
+Life: 7
+Attack: 0
+CounterAttack: 0
 Defence: 5
-RangedDefence: 12
-Resist: 3
-Speed: 2
+RangedDefence: 5
+Resist: 2
+Speed: 0
 RangedAttack: 0
 ShootingRange: 0
-Ammo: 0
+Ammo: 1
 Stamina: 10
 Morale: 10
-Exp: 95
-ExpMod: 210
-GoldPrice: 250
-GemPrice: 30
-GoldPayment: 50
-GemPayment: 6
-Subtype: (4)
+Exp: 15
+ExpMod: 100
+GoldPrice: 0
+GemPrice: 0
+GoldPayment: 0
+GemPayment: 0
+Subtype: (22, 28, 29)
 Analogs: (0)
-UnitClass: 1
+UnitClass: 4
+Upgraded: (0, 0)
 Karma: 0
-SoundHit: 330
-SoundShoot: 331
-SoundShootHit: 332
-SoundDeath: 333
-Missile: 10
-Resource: (2, 7, 9)
+SoundHit: 0
+SoundShoot: 0
+SoundShootHit: 5
+SoundDeath: 317
+Missile: 0
+Resource: (0)
 
 Abilityes:
-Annihilator: 509
-Stun: 70
-Trample: 111
-Siege: 183;
-		
-Lvl 01 upgrades: (2, 4; 10, 4; 38, 4)
-Lvl 02 upgrades: (80, 1; 98, 2; 100, 4)
-Lvl 03 upgrades: (2, 4; 13, 4)
-Lvl 04 upgrades: (16, 4; 10, 3; 80, 3)
-Lvl 05 upgrades: (2, 4; 38, 4)
-Lvl 06 upgrades: (13, 4; 19, 3; 100, 4)
-Lvl 07 upgrades: (2, 4; 38, 4; 69, 4)
-Lvl 08 upgrades: (10, 4; 13, 4)
-Lvl 09 upgrades: (2, 4; 70, 3)
-Lvl 10 upgrades: (38, 4; 10, 5; 100, 4)
-Lvl 11 upgrades: (2, 4; 98, 4)
-Lvl 12 upgrades: (16, 4; 80, 4)
-Lvl 13 upgrades: (2, 4; 10, 4; 100, 4)
-Lvl 14 upgrades: (39, 4; 14, 4)
-Lvl 15 upgrades: (3, 4; 19, 5)
-Lvl 16 upgrades: (11, 4; 16, 4; 100, 4)
-Lvl 17 upgrades: (3, 4; 70, 4)
-Lvl 18 upgrades: (39, 4; 14, 5)
-Lvl 19 upgrades: (3, 4; 11, 4; 98, 6)
-Lvl 20 upgrades: (17, 4; 39, 4; 100, 4)
+Mechanical: 287
+DontMove: 352
+Totem: 525
+Burning_around: 737
+Ghosts_Rage: 733
+Fire_Rain: 207;
+
+Lvl 01 upgrades: (1, 4; 1, 4)
+Lvl 02 upgrades: (1, 4; 10, 4)
+Lvl 03 upgrades: (1, 4; 2, 4)
+Lvl 04 upgrades: (1, 4; 13, 4)
+Lvl 05 upgrades: (547, 5; 526, 5)
+Lvl 06 upgrades: (1, 4; 1, 4)
+Lvl 07 upgrades: (1, 4; 16, 4)
+Lvl 08 upgrades: (1, 4; 2, 4)
+Lvl 09 upgrades: (1, 4; 13, 4)
+Lvl 10 upgrades: (738, 8; 740, 8)
+Lvl 11 upgrades: (1, 4; 1, 4)
+Lvl 12 upgrades: (1, 4; 10, 4)
+Lvl 13 upgrades: (1, 4; 2, 4)
+Lvl 14 upgrades: (1, 4; 13, 4)
+Lvl 15 upgrades: (547, 5; 526, 5)
+Lvl 16 upgrades: (1, 4; 1, 4)
+Lvl 17 upgrades: (1, 4; 16, 4)
+Lvl 18 upgrades: (1, 4; 2, 4)
+Lvl 19 upgrades: (1, 4; 13, 4)
+Lvl 20 upgrades: (739, 14; 10, 4)
 
 Lvl 01 loot: (0, 0)
 Lvl 02 loot: (0, 0)
@@ -18520,7 +18774,7 @@ Ammo: 7
 Stamina: 10
 Morale: 14
 Exp: 70
-ExpMod: 200
+ExpMod: 180
 GoldPrice: 320
 GemPrice: 70
 GoldPayment: 60
@@ -18528,6 +18782,7 @@ GemPayment: 11
 Subtype: (1, 17)
 Analogs: (233)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: -2
 SoundHit: 334
 SoundShoot: 335
@@ -18543,27 +18798,27 @@ LightDisease_Carrier: 494
 Disease_Carrier: 495
 Summon_GiantRat: 497
 Decay_Master: 537
-RestAmmoCorpse: 778;
+RestAmmoCorpse: 175;
 		
 Lvl 01 upgrades: (1, 4; 16, 4; 132, 4; 591, 2)
-Lvl 02 upgrades: (30, 4; 27, 4; 34, 4; 776, 3)
+Lvl 02 upgrades: (30, 4; 27, 4; 34, 4; 181, 3)
 Lvl 03 upgrades: (1, 4; 7, 4; 488, 1)
 Lvl 04 upgrades: (30, 4; 13, 4; 487, 2; 548, 2)
 Lvl 05 upgrades: (1, 4; 132, 4; 500, 4)
-Lvl 06 upgrades: (30, 4; 27, 4; 4, 4; 779, 4)
+Lvl 06 upgrades: (30, 4; 27, 4; 4, 4; 176, 4)
 Lvl 07 upgrades: (1, 4; 71, 4; 543, 5)
 Lvl 08 upgrades: (30, 4; 10, 4; 34, 4; 498, 6)
 Lvl 09 upgrades: (1, 4; 7, 4; 132, 4; 548, 4)
 Lvl 10 upgrades: (30, 4; 27, 4; 16, 4)
 Lvl 11 upgrades: (1, 4; 549, 2; 511, 6)
-Lvl 12 upgrades: (30, 4; 13, 4; 4, 4; 779, 4)
+Lvl 12 upgrades: (30, 4; 13, 4; 4, 4; 176, 4)
 Lvl 13 upgrades: (2, 4; 17, 4; 132, 4)
 Lvl 14 upgrades: (31, 4; 27, 4; 42, 4; 71, 4)
 Lvl 15 upgrades: (2, 4; 7, 4; 548, 4)
 Lvl 16 upgrades: (31, 4; 10, 4; 42, 4; 549, 5)
 Lvl 17 upgrades: (2, 4; 34, 4; 132, 4)
 Lvl 18 upgrades: (31, 4; 27, 4; 4, 4; 501, 4)
-Lvl 19 upgrades: (2, 4; 17, 4; 53, 6; 779, 4)
+Lvl 19 upgrades: (2, 4; 17, 4; 53, 6; 176, 4)
 Lvl 20 upgrades: (31, 4; 13, 4; 43, 4; 71, 4)
 
 Lvl 01 loot: (7, 5; 69, 2; 93, 1)
@@ -18611,6 +18866,7 @@ GemPayment: 5
 Subtype: (1, 17)
 Analogs: (0)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: -2
 SoundHit: 338
 SoundShoot: 0
@@ -18624,28 +18880,28 @@ Poison_4: 133
 Rat_man: 489
 GrayLord: 492
 LightDisease_Spawn: 498
-Cannibal_5: 777;
+Cannibal_5: 178;
 		
 Lvl 01 upgrades: (2, 4; 4, 4; 13, 4; 591, 4)
 Lvl 02 upgrades: (13, 4; 7, 4; 10, 4; 27, 4)
 Lvl 03 upgrades: (2, 4; 4, 4; 16, 4; 501, 4)
 Lvl 04 upgrades: (30, 4; 7, 4; 10, 4; 511, 5)
-Lvl 05 upgrades: (36, 4; 4, 4; 13, 4; 749, 5)
+Lvl 05 upgrades: (36, 4; 4, 4; 13, 4; 526, 5)
 Lvl 06 upgrades: (13, 4; 7, 4; 34, 4; 78, 4)
 Lvl 07 upgrades: (3, 4; 4, 4; 10, 4; 548, 3)
-Lvl 08 upgrades: (36, 4; 7, 4; 13, 4; 778, 5)
-Lvl 09 upgrades: (3, 4; 38, 4; 512, 6; 773, 6)
+Lvl 08 upgrades: (36, 4; 7, 4; 13, 4; 175, 5)
+Lvl 09 upgrades: (3, 4; 38, 4; 512, 6; 213, 6)
 Lvl 10 upgrades: (30, 4; 7, 4; 10, 4; 501, 4)
-Lvl 11 upgrades: (36, 4; 5, 4; 13, 4; 749, 5)
+Lvl 11 upgrades: (36, 4; 5, 4; 13, 4; 526, 5)
 Lvl 12 upgrades: (13, 4; 38, 4; 16, 4; 174, 4)
 Lvl 13 upgrades: (3, 4; 5, 4; 10, 4; 27, 4)
 Lvl 14 upgrades: (37, 4; 8, 4; 14, 4; 432, 6)
 Lvl 15 upgrades: (3, 4; 38, 4; 34, 4; 217, 8)
 Lvl 16 upgrades: (11, 4; 6, 4; 40, 4; 501, 4)
-Lvl 17 upgrades: (37, 4; 8, 4; 14, 4; 778, 6)
-Lvl 18 upgrades: (31, 4; 38, 4; 16, 4; 749, 5)
+Lvl 17 upgrades: (37, 4; 8, 4; 14, 4; 175, 6)
+Lvl 18 upgrades: (31, 4; 38, 4; 16, 4; 526, 5)
 Lvl 19 upgrades: (3, 4; 8, 4; 14, 4; 548, 4)
-Lvl 20 upgrades: (37, 4; 6, 4; 11, 4; 773, 6)
+Lvl 20 upgrades: (37, 4; 6, 4; 11, 4; 213, 6)
 
 Lvl 01 loot: (15, 5; 57, 3)
 Lvl 02 loot: (75, 2; 100, 2)
@@ -18669,81 +18925,83 @@ Lvl 19 loot: (0, 0)
 Lvl 20 loot: (0, 0)
 
 /234
-Name: Grand Ratt;
+Name: Blood Totem;
 Level: 5
-Life: 65
-Attack: 15
-CounterAttack: 21
-Defence: 15
-RangedDefence: 25
-Resist: 20
-Speed: 2
-RangedAttack: 20
-ShootingRange: 7
-Ammo: 12
-Stamina: 16
-Morale: 15
-Exp: 350
-ExpMod: 400
-GoldPrice: 750
-GemPrice: 100
-GoldPayment: 125
-GemPayment: 20
-Subtype: (1, 24)
+Life: 7
+Attack: 0
+CounterAttack: 0
+Defence: 5
+RangedDefence: 5
+Resist: 2
+Speed: 0
+RangedAttack: 0
+ShootingRange: 0
+Ammo: 1
+Stamina: 10
+Morale: 10
+Exp: 15
+ExpMod: 100
+GoldPrice: 0
+GemPrice: 0
+GoldPayment: 0
+GemPayment: 0
+Subtype: (22, 28, 29)
 Analogs: (0)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: 0
-SoundHit: 340
-SoundShoot: 341
-SoundShootHit: 342
-SoundDeath: 343
-Missile: 17
-Resource: (9, 9, 9)
+SoundHit: 0
+SoundShoot: 0
+SoundShootHit: 5
+SoundDeath: 317
+Missile: 0
+Resource: (0)
 
 Abilityes:
-ArmourPierce: 69
-Mind_Immunity: 304
-Grand_Rat_1: 514
-Unholy_blind: 408
-War_cry: 510;
-		
-Lvl 01 upgrades: (1, 4; 20, 4; 16, 4; 27, 3)
-Lvl 02 upgrades: (30, 4; 27, 4; 34, 4; 132, 4)
-Lvl 03 upgrades: (1, 4; 20, 4; 7, 4; 500, 4)
-Lvl 04 upgrades: (30, 4; 13, 4; 16, 4; 547, 4)
-Lvl 05 upgrades: (1, 4; 20, 4; 495, 5)
-Lvl 06 upgrades: (30, 4; 27, 4; 4, 4; 132, 4)
-Lvl 07 upgrades: (1, 4; 21, 4; 17, 4; 501, 4)
-Lvl 08 upgrades: (31, 4; 10, 4; 34, 4; 513, 6)
-Lvl 09 upgrades: (2, 4; 21, 4; 7, 4; 132, 4; 547, 4)
-Lvl 10 upgrades: (31, 4; 27, 4; 16, 4; 23, 4)
-Lvl 11 upgrades: (2, 4; 21, 4; 500, 4)
-Lvl 12 upgrades: (31, 4; 13, 4; 4, 4; 512, 5)
-Lvl 13 upgrades: (2, 4; 21, 4; 17, 4; 132, 4)
-Lvl 14 upgrades: (31, 4; 28, 4; 42, 4; 501, 4)
-Lvl 15 upgrades: (2, 4; 21, 4; 7, 4; 496, 6; 547, 4)
-Lvl 16 upgrades: (31, 4; 10, 4; 42, 4; 132, 4)
-Lvl 17 upgrades: (2, 4; 22, 4; 34, 4)
-Lvl 18 upgrades: (31, 4; 28, 4; 4, 4; 500, 4)
-Lvl 19 upgrades: (2, 4; 22, 4; 17, 4; 132, 4)
-Lvl 20 upgrades: (31, 4; 13, 4; 43, 4)
+Mechanical: 287
+DontMove: 352
+Totem: 525
+Vampiric_around: 741
+Ghosts_Rage: 733
+Vampiric_Touch: 205;
 
-Lvl 01 loot: (8, 4; 40, 4; 66, 3)
-Lvl 02 loot: (70, 2; 83, 2; 95, 2; 112, 1)
-Lvl 03 loot: (135, 1; 207, 1; 216, 1)
-Lvl 04 loot: (141, 1; 208, 3)
-Lvl 05 loot: (142, 1; 217, 1)
-Lvl 06 loot: (241, 1; 287, 1)
-Lvl 07 loot: (136, 1; 242, 1)
-Lvl 08 loot: (143, 1; 268, 1)
-Lvl 09 loot: (144, 1; 218, 1)
-Lvl 10 loot: (209, 1; 288, 1)
-Lvl 11 loot: (210, 1; 308, 1)
-Lvl 12 loot: (219, 1; 374, 1)
-Lvl 13 loot: (361, 1; 383, 1)
-Lvl 14 loot: (388, 1)
-Lvl 15 loot: (211, 1)
-Lvl 16 loot: (399, 1)
+Lvl 01 upgrades: (1, 4; 1, 4)
+Lvl 02 upgrades: (1, 4; 10, 4)
+Lvl 03 upgrades: (1, 4; 2, 4)
+Lvl 04 upgrades: (1, 4; 13, 4)
+Lvl 05 upgrades: (547, 5; 548, 5)
+Lvl 06 upgrades: (1, 4; 1, 4)
+Lvl 07 upgrades: (1, 4; 16, 4)
+Lvl 08 upgrades: (1, 4; 2, 4)
+Lvl 09 upgrades: (1, 4; 13, 4)
+Lvl 10 upgrades: (742, 8; 211, 8)
+Lvl 11 upgrades: (1, 4; 1, 4)
+Lvl 12 upgrades: (1, 4; 10, 4)
+Lvl 13 upgrades: (1, 4; 2, 4)
+Lvl 14 upgrades: (1, 4; 13, 4)
+Lvl 15 upgrades: (547, 5; 548, 5)
+Lvl 16 upgrades: (1, 4; 1, 4)
+Lvl 17 upgrades: (1, 4; 16, 4)
+Lvl 18 upgrades: (1, 4; 2, 4)
+Lvl 19 upgrades: (1, 4; 13, 4)
+Lvl 20 upgrades: (743, 13; 10, 4)
+
+Lvl 01 loot: (0, 0)
+Lvl 02 loot: (0, 0)
+Lvl 03 loot: (0, 0)
+Lvl 04 loot: (0, 0)
+Lvl 05 loot: (0, 0)
+Lvl 06 loot: (0, 0)
+Lvl 07 loot: (0, 0)
+Lvl 08 loot: (0, 0)
+Lvl 09 loot: (0, 0)
+Lvl 10 loot: (0, 0)
+Lvl 11 loot: (0, 0)
+Lvl 12 loot: (0, 0)
+Lvl 13 loot: (0, 0)
+Lvl 14 loot: (0, 0)
+Lvl 15 loot: (0, 0)
+Lvl 16 loot: (0, 0)
 Lvl 17 loot: (0, 0)
 Lvl 18 loot: (0, 0)
 Lvl 19 loot: (0, 0)
@@ -18773,6 +19031,7 @@ GemPayment: 0
 Subtype: (1, 19, 24)
 Analogs: (0)
 UnitClass: 6
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 133
 SoundShoot: 0
@@ -18855,6 +19114,7 @@ GemPayment: 12
 Subtype: (1, 6, 28)
 Analogs: (0)
 UnitClass: 3
+Upgraded: (0, 0)
 Karma: 3
 SoundHit: 108
 SoundShoot: 0
@@ -18934,6 +19194,7 @@ GemPayment: 30
 Subtype: (1, 6)
 Analogs: (0)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: -3
 SoundHit: 60
 SoundShoot: 136
@@ -19018,6 +19279,7 @@ GemPayment: 0
 Subtype: (5)
 Analogs: (0)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 119
 SoundShoot: 5
@@ -19095,6 +19357,7 @@ GemPayment: 0
 Subtype: (5)
 Analogs: (0)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 73
 SoundShoot: 5
@@ -19172,6 +19435,7 @@ GemPayment: 0
 Subtype: (5)
 Analogs: (0)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 361
 SoundShoot: 5
@@ -19249,6 +19513,7 @@ GemPayment: 0
 Subtype: (5)
 Analogs: (0)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 0
 SoundShoot: 5
@@ -19326,6 +19591,7 @@ GemPayment: 0
 Subtype: (5)
 Analogs: (0)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 0
 SoundShoot: 5
@@ -19403,6 +19669,7 @@ GemPayment: 0
 Subtype: (5)
 Analogs: (0)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 0
 SoundShoot: 5
@@ -19480,6 +19747,7 @@ GemPayment: 0
 Subtype: (5)
 Analogs: (0)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 0
 SoundShoot: 5
@@ -19557,6 +19825,7 @@ GemPayment: 0
 Subtype: (5)
 Analogs: (0)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 0
 SoundShoot: 5
@@ -19634,6 +19903,7 @@ GemPayment: 0
 Subtype: (5)
 Analogs: (0)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 0
 SoundShoot: 5
@@ -19711,6 +19981,7 @@ GemPayment: 0
 Subtype: (5)
 Analogs: (0)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 48
 SoundShoot: 5
@@ -19788,6 +20059,7 @@ GemPayment: 0
 Subtype: (5)
 Analogs: (0)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 0
 SoundShoot: 5
@@ -19865,6 +20137,7 @@ GemPayment: 0
 Subtype: (5)
 Analogs: (0)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 60
 SoundShoot: 5
@@ -19942,6 +20215,7 @@ GemPayment: 0
 Subtype: (5)
 Analogs: (0)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 60
 SoundShoot: 57
@@ -20019,6 +20293,7 @@ GemPayment: 0
 Subtype: (5)
 Analogs: (0)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 46
 SoundShoot: 57
@@ -20096,6 +20371,7 @@ GemPayment: 0
 Subtype: (5)
 Analogs: (0)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 60
 SoundShoot: 57
@@ -20175,6 +20451,7 @@ GemPayment: 0
 Subtype: (5)
 Analogs: (0)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 60
 SoundShoot: 57
@@ -20252,6 +20529,7 @@ GemPayment: 60
 Subtype: (4, 23, 28)
 Analogs: (0)
 UnitClass: 6
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 0
 SoundShoot: 0
@@ -20322,7 +20600,7 @@ Speed: 2
 RangedAttack: 8
 ShootingRange: 3
 Ammo: 4
-Stamina: 15
+Stamina: 12
 Morale: 12
 Exp: 60
 ExpMod: 140
@@ -20333,6 +20611,7 @@ GemPayment: 6
 Subtype: (1, 8)
 Analogs: (156, 103)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: 2
 SoundHit: 27
 SoundShoot: 346
@@ -20346,28 +20625,27 @@ Magic_shot: 58
 Armor_Pierce: 628
 Hill_Dweller: 487
 Blasting: 688
-Healing: 66
 Healing_Circle: 576;
 		
 Lvl 01 upgrades: (1, 4; 20, 4; 16, 4; 7, 3)
 Lvl 02 upgrades: (30, 4; 10, 4; 4, 4; 27, 3)
 Lvl 03 upgrades: (1, 4; 13, 4; 34, 3; 65, 4)
-Lvl 04 upgrades: (30, 4; 16, 4; 7, 4; 20, 4)
+Lvl 04 upgrades: (30, 4; 16, 4; 7, 4; 21, 4)
 Lvl 05 upgrades: (2, 4; 10, 4; 4, 4; 717, 4)
 Lvl 06 upgrades: (30, 4; 13, 4; 192, 4; 487, 4)
 Lvl 07 upgrades: (2, 4; 16, 4; 27, 3; 7, 4)
 Lvl 08 upgrades: (31, 4; 10, 4; 4, 4; 65, 4)
-Lvl 09 upgrades: (2, 4; 13, 4; 72, 4; 20, 4; 661, 4)
+Lvl 09 upgrades: (2, 4; 13, 4; 72, 4; 587, 5)
 Lvl 10 upgrades: (36, 4; 16, 4; 34, 4; 7, 4)
-Lvl 11 upgrades: (2, 4; 10, 4; 4, 4; 545, 3)
+Lvl 11 upgrades: (2, 4; 10, 4; 20, 4; 545, 3)
 Lvl 12 upgrades: (31, 4; 13, 4; 27, 3; 23, 4)
-Lvl 13 upgrades: (2, 4; 16, 4; 7, 4; 21, 4; 580, 6)
+Lvl 13 upgrades: (2, 4; 16, 4; 7, 4; 580, 6)
 Lvl 14 upgrades: (36, 4; 40, 4; 4, 4; 65, 4)
-Lvl 15 upgrades: (3, 4; 35, 4; 42, 4; 487, 4)
-Lvl 16 upgrades: (31, 4; 7, 4; 21, 4; 587, 5)
-Lvl 17 upgrades: (3, 4; 40, 4; 4, 3; 661, 4)
+Lvl 15 upgrades: (3, 4; 35, 4; 21, 4; 487, 4)
+Lvl 16 upgrades: (31, 4; 7, 4; 42, 4; 27, 3)
+Lvl 17 upgrades: (3, 4; 40, 4; 4, 3)
 Lvl 18 upgrades: (32, 4; 42, 4; 27, 3)
-Lvl 19 upgrades: (3, 4; 38, 4; 21, 4; 65, 4)
+Lvl 19 upgrades: (3, 4; 38, 4; 20, 4; 65, 4)
 Lvl 20 upgrades: (37, 4; 43, 4; 41, 4)
 
 Lvl 01 loot: (2, 3; 6, 4; 64, 2; 623, 15)
@@ -20415,6 +20693,7 @@ GemPayment: 0
 Subtype: (1, 8)
 Analogs: (0)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 2
 SoundHit: 27
 SoundShoot: 37
@@ -20494,6 +20773,7 @@ GemPayment: 16
 Subtype: (3)
 Analogs: (0)
 UnitClass: 7
+Upgraded: (0, 0)
 Karma: -3
 SoundHit: 131
 SoundShoot: 0
@@ -20580,6 +20860,7 @@ GemPayment: 20
 Subtype: (4, 23, 24)
 Analogs: (0)
 UnitClass: 6
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 167
 SoundShoot: 0
@@ -20660,6 +20941,7 @@ GemPayment: 1
 Subtype: (1, 11)
 Analogs: (18, 132, 261, 262)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: 2
 SoundHit: 60
 SoundShoot: 0
@@ -20740,6 +21022,7 @@ GemPayment: 0
 Subtype: (1, 19)
 Analogs: (0)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 0
 SoundShoot: 0
@@ -20819,6 +21102,7 @@ GemPayment: 0
 Subtype: (1, 11)
 Analogs: (132)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 2
 SoundHit: 350
 SoundShoot: 52
@@ -20901,6 +21185,7 @@ GemPayment: 0
 Subtype: (1, 11, 28)
 Analogs: (18, 132, 259, 261)
 UnitClass: 1
+Upgraded: (0, 0)
 Karma: 2
 SoundHit: 352
 SoundShoot: 0
@@ -20982,6 +21267,7 @@ GemPayment: 0
 Subtype: (5)
 Analogs: (0)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 119
 SoundShoot: 5
@@ -21059,6 +21345,7 @@ GemPayment: 0
 Subtype: (5)
 Analogs: (0)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 73
 SoundShoot: 5
@@ -21136,6 +21423,7 @@ GemPayment: 0
 Subtype: (5)
 Analogs: (0)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 361
 SoundShoot: 5
@@ -21214,6 +21502,7 @@ GemPayment: 0
 Subtype: (5)
 Analogs: (0)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 0
 SoundShoot: 5
@@ -21291,6 +21580,7 @@ GemPayment: 0
 Subtype: (5)
 Analogs: (0)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 0
 SoundShoot: 5
@@ -21368,6 +21658,7 @@ GemPayment: 0
 Subtype: (5)
 Analogs: (0)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 0
 SoundShoot: 5
@@ -21446,6 +21737,7 @@ GemPayment: 0
 Subtype: (5)
 Analogs: (0)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 0
 SoundShoot: 5
@@ -21523,6 +21815,7 @@ GemPayment: 0
 Subtype: (5)
 Analogs: (0)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 0
 SoundShoot: 5
@@ -21600,6 +21893,7 @@ GemPayment: 0
 Subtype: (5)
 Analogs: (0)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 0
 SoundShoot: 5
@@ -21677,6 +21971,7 @@ GemPayment: 0
 Subtype: (5)
 Analogs: (0)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 27
 SoundShoot: 5
@@ -21754,6 +22049,7 @@ GemPayment: 0
 Subtype: (5)
 Analogs: (0)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 0
 SoundShoot: 5
@@ -21831,6 +22127,7 @@ GemPayment: 0
 Subtype: (5)
 Analogs: (0)
 UnitClass: 2
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 60
 SoundShoot: 5
@@ -21908,6 +22205,7 @@ GemPayment: 0
 Subtype: (5)
 Analogs: (0)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 60
 SoundShoot: 57
@@ -21985,6 +22283,7 @@ GemPayment: 0
 Subtype: (5)
 Analogs: (0)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 46
 SoundShoot: 57
@@ -22062,6 +22361,7 @@ GemPayment: 0
 Subtype: (5)
 Analogs: (0)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 60
 SoundShoot: 57
@@ -22142,6 +22442,7 @@ GemPayment: 0
 Subtype: (5)
 Analogs: (0)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: 0
 SoundHit: 60
 SoundShoot: 57
@@ -22219,6 +22520,7 @@ GemPayment: 10
 Subtype: (1, 16)
 Analogs: (280, 281)
 UnitClass: 7
+Upgraded: (0, 0)
 Karma: 2
 SoundHit: 296
 SoundShoot: 0
@@ -22290,7 +22592,7 @@ Ammo: 6
 Stamina: 12
 Morale: 15
 Exp: 80
-ExpMod: 160
+ExpMod: 150
 GoldPrice: 180
 GemPrice: 45
 GoldPayment: 50
@@ -22298,6 +22600,7 @@ GemPayment: 17
 Subtype: (1, 16)
 Analogs: (281)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: 3
 SoundHit: 297
 SoundShoot: 0
@@ -22372,7 +22675,7 @@ Ammo: 7
 Stamina: 15
 Morale: 18
 Exp: 140
-ExpMod: 280
+ExpMod: 190
 GoldPrice: 300
 GemPrice: 75
 GoldPayment: 85
@@ -22380,6 +22683,7 @@ GemPayment: 28
 Subtype: (1, 16)
 Analogs: (0)
 UnitClass: 4
+Upgraded: (0, 0)
 Karma: 2
 SoundHit: 298
 SoundShoot: 0
@@ -22461,6 +22765,7 @@ GemPayment: 50
 Subtype: (22, 24, 28)
 Analogs: (0)
 UnitClass: 6
+Upgraded: (0, 0)
 Karma: 3
 SoundHit: 247
 SoundShoot: 0
@@ -22512,574 +22817,6 @@ Lvl 12 loot: (341, 3)
 Lvl 13 loot: (344, 3)
 Lvl 14 loot: (376, 3)
 Lvl 15 loot: (365, 3)
-Lvl 16 loot: (0, 0)
-Lvl 17 loot: (0, 0)
-Lvl 18 loot: (0, 0)
-Lvl 19 loot: (0, 0)
-Lvl 20 loot: (0, 0)
-
-/283
-Name: Earth Totem;
-Level: 5
-Life: 7
-Attack: 0
-CounterAttack: 0
-Defence: 5
-RangedDefence: 5
-Resist: 2
-Speed: 0
-RangedAttack: 0
-ShootingRange: 0
-Ammo: 1
-Stamina: 10
-Morale: 10
-Exp: 15
-ExpMod: 100
-GoldPrice: 0
-GemPrice: 0
-GoldPayment: 0
-GemPayment: 0
-Subtype: (22, 28, 29)
-Analogs: (0)
-UnitClass: 4
-Karma: 0
-SoundHit: 0
-SoundShoot: 0
-SoundShootHit: 5
-SoundDeath: 317
-Missile: 0
-Resource: (0)
-
-Abilityes:
-Mechanical: 287
-DontMove: 352
-Totem: 750
-Healing_around: 760
-Ghosts_Rage: 733
-Stone_Spikes: 204;
-
-Lvl 01 upgrades: (1, 4; 1, 4)
-Lvl 02 upgrades: (1, 4; 10, 4)
-Lvl 03 upgrades: (1, 4; 2, 4)
-Lvl 04 upgrades: (1, 4; 13, 4)
-Lvl 05 upgrades: (206, 8; 547, 5; 548, 5)
-Lvl 06 upgrades: (1, 4; 1, 4)
-Lvl 07 upgrades: (1, 4; 16, 4)
-Lvl 08 upgrades: (1, 4; 2, 4)
-Lvl 09 upgrades: (1, 4; 13, 4)
-Lvl 10 upgrades: (761, 9)
-Lvl 11 upgrades: (1, 4; 1, 4)
-Lvl 12 upgrades: (1, 4; 10, 4)
-Lvl 13 upgrades: (1, 4; 2, 4)
-Lvl 14 upgrades: (1, 4; 13, 4)
-Lvl 15 upgrades: (762, 12; 547, 5; 548, 5)
-Lvl 16 upgrades: (1, 4; 1, 4)
-Lvl 17 upgrades: (1, 4; 16, 4)
-Lvl 18 upgrades: (1, 4; 2, 4)
-Lvl 19 upgrades: (1, 4; 13, 4)
-Lvl 20 upgrades: (763, 15; 10, 4)
-
-Lvl 01 loot: (0, 0)
-Lvl 02 loot: (0, 0)
-Lvl 03 loot: (0, 0)
-Lvl 04 loot: (0, 0)
-Lvl 05 loot: (0, 0)
-Lvl 06 loot: (0, 0)
-Lvl 07 loot: (0, 0)
-Lvl 08 loot: (0, 0)
-Lvl 09 loot: (0, 0)
-Lvl 10 loot: (0, 0)
-Lvl 11 loot: (0, 0)
-Lvl 12 loot: (0, 0)
-Lvl 13 loot: (0, 0)
-Lvl 14 loot: (0, 0)
-Lvl 15 loot: (0, 0)
-Lvl 16 loot: (0, 0)
-Lvl 17 loot: (0, 0)
-Lvl 18 loot: (0, 0)
-Lvl 19 loot: (0, 0)
-Lvl 20 loot: (0, 0)
-
-/284
-Name: Rage Totem;
-Level: 5
-Life: 7
-Attack: 0
-CounterAttack: 0
-Defence: 5
-RangedDefence: 5
-Resist: 2
-Speed: 0
-RangedAttack: 0
-ShootingRange: 0
-Ammo: 1
-Stamina: 10
-Morale: 10
-Exp: 15
-ExpMod: 100
-GoldPrice: 0
-GemPrice: 0
-GoldPayment: 0
-GemPayment: 0
-Subtype: (22, 28, 29)
-Analogs: (0)
-UnitClass: 4
-Karma: 0
-SoundHit: 0
-SoundShoot: 0
-SoundShootHit: 5
-SoundDeath: 317
-Missile: 0
-Resource: (0)
-
-Abilityes:
-Mechanical: 287
-DontMove: 352
-Totem: 750
-BloodRage_around: 734
-Ghosts_Rage: 733
-Rage: 208;
-
-Lvl 01 upgrades: (1, 4; 1, 4)
-Lvl 02 upgrades: (1, 4; 10, 4)
-Lvl 03 upgrades: (1, 4; 2, 4)
-Lvl 04 upgrades: (1, 4; 13, 4)
-Lvl 05 upgrades: (735, 8; 548, 5)
-Lvl 06 upgrades: (1, 4; 1, 4)
-Lvl 07 upgrades: (1, 4; 16, 4)
-Lvl 08 upgrades: (1, 4; 2, 4)
-Lvl 09 upgrades: (1, 4; 13, 4)
-Lvl 10 upgrades: (736, 11; 210, 10)
-Lvl 11 upgrades: (1, 4; 1, 4)
-Lvl 12 upgrades: (1, 4; 10, 4)
-Lvl 13 upgrades: (1, 4; 2, 4)
-Lvl 14 upgrades: (1, 4; 13, 4)
-Lvl 15 upgrades: (754, 14; 548, 5)
-Lvl 16 upgrades: (1, 4; 1, 4)
-Lvl 17 upgrades: (1, 4; 16, 4)
-Lvl 18 upgrades: (1, 4; 2, 4)
-Lvl 19 upgrades: (1, 4; 13, 4)
-Lvl 20 upgrades: (1, 4; 10, 4)
-
-Lvl 01 loot: (0, 0)
-Lvl 02 loot: (0, 0)
-Lvl 03 loot: (0, 0)
-Lvl 04 loot: (0, 0)
-Lvl 05 loot: (0, 0)
-Lvl 06 loot: (0, 0)
-Lvl 07 loot: (0, 0)
-Lvl 08 loot: (0, 0)
-Lvl 09 loot: (0, 0)
-Lvl 10 loot: (0, 0)
-Lvl 11 loot: (0, 0)
-Lvl 12 loot: (0, 0)
-Lvl 13 loot: (0, 0)
-Lvl 14 loot: (0, 0)
-Lvl 15 loot: (0, 0)
-Lvl 16 loot: (0, 0)
-Lvl 17 loot: (0, 0)
-Lvl 18 loot: (0, 0)
-Lvl 19 loot: (0, 0)
-Lvl 20 loot: (0, 0)
-
-/285
-Name: Fire Totem;
-Level: 5
-Life: 7
-Attack: 0
-CounterAttack: 0
-Defence: 5
-RangedDefence: 5
-Resist: 2
-Speed: 0
-RangedAttack: 0
-ShootingRange: 0
-Ammo: 1
-Stamina: 10
-Morale: 10
-Exp: 15
-ExpMod: 100
-GoldPrice: 0
-GemPrice: 0
-GoldPayment: 0
-GemPayment: 0
-Subtype: (22, 28, 29)
-Analogs: (0)
-UnitClass: 4
-Karma: 0
-SoundHit: 0
-SoundShoot: 0
-SoundShootHit: 5
-SoundDeath: 317
-Missile: 0
-Resource: (0)
-
-Abilityes:
-Mechanical: 287
-DontMove: 352
-Totem: 750
-Burning_around: 737
-Ghosts_Rage: 733
-Fire_Rain: 207;
-
-Lvl 01 upgrades: (1, 4; 1, 4)
-Lvl 02 upgrades: (1, 4; 10, 4)
-Lvl 03 upgrades: (1, 4; 2, 4)
-Lvl 04 upgrades: (1, 4; 13, 4)
-Lvl 05 upgrades: (547, 5; 749, 5)
-Lvl 06 upgrades: (1, 4; 1, 4)
-Lvl 07 upgrades: (1, 4; 16, 4)
-Lvl 08 upgrades: (1, 4; 2, 4)
-Lvl 09 upgrades: (1, 4; 13, 4)
-Lvl 10 upgrades: (738, 8; 740, 8)
-Lvl 11 upgrades: (1, 4; 1, 4)
-Lvl 12 upgrades: (1, 4; 10, 4)
-Lvl 13 upgrades: (1, 4; 2, 4)
-Lvl 14 upgrades: (1, 4; 13, 4)
-Lvl 15 upgrades: (547, 5; 749, 5)
-Lvl 16 upgrades: (1, 4; 1, 4)
-Lvl 17 upgrades: (1, 4; 16, 4)
-Lvl 18 upgrades: (1, 4; 2, 4)
-Lvl 19 upgrades: (1, 4; 13, 4)
-Lvl 20 upgrades: (739, 14; 10, 4)
-
-Lvl 01 loot: (0, 0)
-Lvl 02 loot: (0, 0)
-Lvl 03 loot: (0, 0)
-Lvl 04 loot: (0, 0)
-Lvl 05 loot: (0, 0)
-Lvl 06 loot: (0, 0)
-Lvl 07 loot: (0, 0)
-Lvl 08 loot: (0, 0)
-Lvl 09 loot: (0, 0)
-Lvl 10 loot: (0, 0)
-Lvl 11 loot: (0, 0)
-Lvl 12 loot: (0, 0)
-Lvl 13 loot: (0, 0)
-Lvl 14 loot: (0, 0)
-Lvl 15 loot: (0, 0)
-Lvl 16 loot: (0, 0)
-Lvl 17 loot: (0, 0)
-Lvl 18 loot: (0, 0)
-Lvl 19 loot: (0, 0)
-Lvl 20 loot: (0, 0)
-
-/286
-Name: Blood Totem;
-Level: 5
-Life: 7
-Attack: 0
-CounterAttack: 0
-Defence: 5
-RangedDefence: 5
-Resist: 2
-Speed: 0
-RangedAttack: 0
-ShootingRange: 0
-Ammo: 1
-Stamina: 10
-Morale: 10
-Exp: 15
-ExpMod: 100
-GoldPrice: 0
-GemPrice: 0
-GoldPayment: 0
-GemPayment: 0
-Subtype: (22, 28, 29)
-Analogs: (0)
-UnitClass: 4
-Karma: 0
-SoundHit: 0
-SoundShoot: 0
-SoundShootHit: 5
-SoundDeath: 317
-Missile: 0
-Resource: (0)
-
-Abilityes:
-Mechanical: 287
-DontMove: 352
-Totem: 750
-Vampiric_around: 741
-Ghosts_Rage: 733
-Vampiric_Touch: 205;
-
-Lvl 01 upgrades: (1, 4; 1, 4)
-Lvl 02 upgrades: (1, 4; 10, 4)
-Lvl 03 upgrades: (1, 4; 2, 4)
-Lvl 04 upgrades: (1, 4; 13, 4)
-Lvl 05 upgrades: (547, 5; 548, 5)
-Lvl 06 upgrades: (1, 4; 1, 4)
-Lvl 07 upgrades: (1, 4; 16, 4)
-Lvl 08 upgrades: (1, 4; 2, 4)
-Lvl 09 upgrades: (1, 4; 13, 4)
-Lvl 10 upgrades: (742, 8; 211, 8)
-Lvl 11 upgrades: (1, 4; 1, 4)
-Lvl 12 upgrades: (1, 4; 10, 4)
-Lvl 13 upgrades: (1, 4; 2, 4)
-Lvl 14 upgrades: (1, 4; 13, 4)
-Lvl 15 upgrades: (547, 5; 548, 5)
-Lvl 16 upgrades: (1, 4; 1, 4)
-Lvl 17 upgrades: (1, 4; 16, 4)
-Lvl 18 upgrades: (1, 4; 2, 4)
-Lvl 19 upgrades: (1, 4; 13, 4)
-Lvl 20 upgrades: (743, 13; 10, 4)
-
-Lvl 01 loot: (0, 0)
-Lvl 02 loot: (0, 0)
-Lvl 03 loot: (0, 0)
-Lvl 04 loot: (0, 0)
-Lvl 05 loot: (0, 0)
-Lvl 06 loot: (0, 0)
-Lvl 07 loot: (0, 0)
-Lvl 08 loot: (0, 0)
-Lvl 09 loot: (0, 0)
-Lvl 10 loot: (0, 0)
-Lvl 11 loot: (0, 0)
-Lvl 12 loot: (0, 0)
-Lvl 13 loot: (0, 0)
-Lvl 14 loot: (0, 0)
-Lvl 15 loot: (0, 0)
-Lvl 16 loot: (0, 0)
-Lvl 17 loot: (0, 0)
-Lvl 18 loot: (0, 0)
-Lvl 19 loot: (0, 0)
-Lvl 20 loot: (0, 0)
-
-/287
-Name: Trap;
-Level: 5
-Life: 2
-Attack: 0
-CounterAttack: 0
-Defence: 0
-RangedDefence: 25
-Resist: 2
-Speed: 0
-RangedAttack: 0
-ShootingRange: 0
-Ammo: 0
-Stamina: 10
-Morale: 10
-Exp: 10
-ExpMod: 100
-GoldPrice: 0
-GemPrice: 0
-GoldPayment: 0
-GemPayment: 0
-Subtype: (4, 20)
-Analogs: (0)
-UnitClass: 1
-Karma: 0
-SoundHit: 0
-SoundShoot: 0
-SoundShootHit: 5
-SoundDeath: 317
-Missile: 0
-Resource: (0)
-
-Abilityes:
-Mechanical: 287
-DontMove: 352
-Totem: 750
-Trap: 766;
-
-Lvl 01 upgrades: (548, 1)
-Lvl 02 upgrades: (548, 1)
-Lvl 03 upgrades: (547, 1)
-Lvl 04 upgrades: (1, 4)
-Lvl 05 upgrades: (1, 4)
-Lvl 06 upgrades: (1, 4)
-Lvl 07 upgrades: (1, 4)
-Lvl 08 upgrades: (1, 4)
-Lvl 09 upgrades: (1, 4)
-Lvl 10 upgrades: (1, 4)
-Lvl 11 upgrades: (1, 4)
-Lvl 12 upgrades: (1, 4)
-Lvl 13 upgrades: (1, 4)
-Lvl 14 upgrades: (1, 4)
-Lvl 15 upgrades: (1, 4)
-Lvl 16 upgrades: (1, 4)
-Lvl 17 upgrades: (1, 4)
-Lvl 18 upgrades: (1, 4)
-Lvl 19 upgrades: (1, 4)
-Lvl 20 upgrades: (1, 4)
-
-Lvl 01 loot: (0, 0)
-Lvl 02 loot: (0, 0)
-Lvl 03 loot: (0, 0)
-Lvl 04 loot: (0, 0)
-Lvl 05 loot: (0, 0)
-Lvl 06 loot: (0, 0)
-Lvl 07 loot: (0, 0)
-Lvl 08 loot: (0, 0)
-Lvl 09 loot: (0, 0)
-Lvl 10 loot: (0, 0)
-Lvl 11 loot: (0, 0)
-Lvl 12 loot: (0, 0)
-Lvl 13 loot: (0, 0)
-Lvl 14 loot: (0, 0)
-Lvl 15 loot: (0, 0)
-Lvl 16 loot: (0, 0)
-Lvl 17 loot: (0, 0)
-Lvl 18 loot: (0, 0)
-Lvl 19 loot: (0, 0)
-Lvl 20 loot: (0, 0)
-
-/288
-Name: Snare;
-Level: 5
-Life: 2
-Attack: 0
-CounterAttack: 0
-Defence: 0
-RangedDefence: 25
-Resist: 2
-Speed: 0
-RangedAttack: 0
-ShootingRange: 0
-Ammo: 0
-Stamina: 10
-Morale: 10
-Exp: 10
-ExpMod: 100
-GoldPrice: 0
-GemPrice: 0
-GoldPayment: 0
-GemPayment: 0
-Subtype: (4, 20)
-Analogs: (0)
-UnitClass: 1
-Karma: 0
-SoundHit: 0
-SoundShoot: 0
-SoundShootHit: 5
-SoundDeath: 317
-Missile: 0
-Resource: (0)
-
-Abilityes:
-Mechanical: 287
-DontMove: 352
-Totem: 750
-Snare: 767;
-
-Lvl 01 upgrades: (547, 1)
-Lvl 02 upgrades: (541, 1)
-Lvl 03 upgrades: (547, 1)
-Lvl 04 upgrades: (1, 4)
-Lvl 05 upgrades: (1, 4)
-Lvl 06 upgrades: (1, 4)
-Lvl 07 upgrades: (1, 4)
-Lvl 08 upgrades: (1, 4)
-Lvl 09 upgrades: (1, 4)
-Lvl 10 upgrades: (1, 4)
-Lvl 11 upgrades: (1, 4)
-Lvl 12 upgrades: (1, 4)
-Lvl 13 upgrades: (1, 4)
-Lvl 14 upgrades: (1, 4)
-Lvl 15 upgrades: (1, 4)
-Lvl 16 upgrades: (1, 4)
-Lvl 17 upgrades: (1, 4)
-Lvl 18 upgrades: (1, 4)
-Lvl 19 upgrades: (1, 4)
-Lvl 20 upgrades: (1, 4)
-
-Lvl 01 loot: (0, 0)
-Lvl 02 loot: (0, 0)
-Lvl 03 loot: (0, 0)
-Lvl 04 loot: (0, 0)
-Lvl 05 loot: (0, 0)
-Lvl 06 loot: (0, 0)
-Lvl 07 loot: (0, 0)
-Lvl 08 loot: (0, 0)
-Lvl 09 loot: (0, 0)
-Lvl 10 loot: (0, 0)
-Lvl 11 loot: (0, 0)
-Lvl 12 loot: (0, 0)
-Lvl 13 loot: (0, 0)
-Lvl 14 loot: (0, 0)
-Lvl 15 loot: (0, 0)
-Lvl 16 loot: (0, 0)
-Lvl 17 loot: (0, 0)
-Lvl 18 loot: (0, 0)
-Lvl 19 loot: (0, 0)
-Lvl 20 loot: (0, 0)
-
-/289
-Name: Hornet's Nest;
-Level: 5
-Life: 5
-Attack: 0
-CounterAttack: 0
-Defence: 0
-RangedDefence: 25
-Resist: 2
-Speed: 0
-RangedAttack: 0
-ShootingRange: 0
-Ammo: 0
-Stamina: 10
-Morale: 10
-Exp: 10
-ExpMod: 100
-GoldPrice: 0
-GemPrice: 0
-GoldPayment: 0
-GemPayment: 0
-Subtype: (4, 20)
-Analogs: (0)
-UnitClass: 1
-Karma: 0
-SoundHit: 0
-SoundShoot: 0
-SoundShootHit: 5
-SoundDeath: 317
-Missile: 0
-Resource: (0)
-
-Abilityes:
-Mechanical: 287
-DontMove: 352
-Trap: 750
-Snare: 768;
-
-Lvl 01 upgrades: (548, 1)
-Lvl 02 upgrades: (548, 1)
-Lvl 03 upgrades: (548, 1)
-Lvl 04 upgrades: (1, 4)
-Lvl 05 upgrades: (1, 4)
-Lvl 06 upgrades: (1, 4)
-Lvl 07 upgrades: (1, 4)
-Lvl 08 upgrades: (1, 4)
-Lvl 09 upgrades: (1, 4)
-Lvl 10 upgrades: (1, 4)
-Lvl 11 upgrades: (1, 4)
-Lvl 12 upgrades: (1, 4)
-Lvl 13 upgrades: (1, 4)
-Lvl 14 upgrades: (1, 4)
-Lvl 15 upgrades: (1, 4)
-Lvl 16 upgrades: (1, 4)
-Lvl 17 upgrades: (1, 4)
-Lvl 18 upgrades: (1, 4)
-Lvl 19 upgrades: (1, 4)
-Lvl 20 upgrades: (1, 4)
-
-Lvl 01 loot: (0, 0)
-Lvl 02 loot: (0, 0)
-Lvl 03 loot: (0, 0)
-Lvl 04 loot: (0, 0)
-Lvl 05 loot: (0, 0)
-Lvl 06 loot: (0, 0)
-Lvl 07 loot: (0, 0)
-Lvl 08 loot: (0, 0)
-Lvl 09 loot: (0, 0)
-Lvl 10 loot: (0, 0)
-Lvl 11 loot: (0, 0)
-Lvl 12 loot: (0, 0)
-Lvl 13 loot: (0, 0)
-Lvl 14 loot: (0, 0)
-Lvl 15 loot: (0, 0)
 Lvl 16 loot: (0, 0)
 Lvl 17 loot: (0, 0)
 Lvl 18 loot: (0, 0)

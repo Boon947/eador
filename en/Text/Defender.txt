@@ -1,7 +1,7 @@
 0. Empty
 #No description#
 
-1. Local Militia
+1. Militia
 #Not the most reliable protection by far, but certainly the cheapest.#
 
 2. Gang of Thieves
@@ -132,7 +132,10 @@ Province income -40~.
 Population mood -2.#
 
 30. Local Militia
-#A company of militiamen consisting of local residents performs their work in good faith, for it's their own home that they are defending.#
+#A province militia, consisting of local residents, performs their work conscientiously, for it is their own home they are defending.
+
+The makeup of such a party varies.
+Cannot be recruited in provinces with negative mood.#
 
 31. Vassal
 #A local baron has pledged his allegiance to you, and now he and his retinue defend these lands. As it should be, he is meticulous in paying you his tithes.
@@ -514,7 +517,8 @@ Intrepid. Incorruptible.#
 103. Vassal
 #You made one of your courtiers the rightful owner of the whole province, and you get a strong guard, able to confront the majority of enemies. Moreover, this guard is entirely the responsibility of your vassal. You only get one-tenth of the income from this province, but fair is fair, isn't it?
 This guard cannot be disbanded.
-Province gold and gem income -90~.#
+Province gold and gem income -90~.
+Cannot be recruited in the capital.#
 
 104. Twilight Initiates
 #Often recently trained dark elves are sent to maintain order in a submitted province, to practice their skills. Local inhabitants are not very happy with this, of course, but they keep their discontent to themselves.

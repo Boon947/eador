@@ -26,7 +26,7 @@ Allows you to recruit Mercenaries in the castle's garrison.#
 
 7. Recruiting Station
 #Type: Produces units of the first rank.
-Allows the recruitment of Militiamen. Allows hiring the Local Militia guard.
+Allows the recruitment of Militiamen. Allows hiring the Militia guard.
 The castle cannot have more than 4 buildings of this type.#
 
 8. Slinger School
@@ -149,7 +149,8 @@ The castle cannot have more than 4 buildings of this type.#
 Allows heroes to purchase the following items: Silver Dagger, Silver Axe.#
 
 34. Crystal of Power
-#Reduces the cost of new heroes by 10~. Allows heroes to receive easy quests. Yields 1 gem per turn.#
+#Reduces the cost of new heroes by 10~. Allows heroes to receive easy quests. Yields 1 gem per turn.
+Allows performing the Magic Crystal ritual.#
 
 35. Sorcerer's Workshop
 #Allows heroes to purchase the following items: Short Staff, Simple Wand, Toga, Sandals, Simple Cap.
@@ -166,7 +167,8 @@ Reduces the gem upkeep of garrison units by 10~.#
 Reduces the upkeep of garrison units by 10~.#
 
 39. Fort
-#Adds space for second rank units in the garrison. Increases the wall strength of the stronghold and adds one battle tower.#
+#Adds space for second rank units in the garrison. Increases the wall strength of the stronghold and adds one battle tower.
+Allows hiring the Local Militia guard.#
 
 40. Foresters Guild
 #Increases income from forest provinces by 1. Allows hiring the Foresters guard.#
@@ -676,7 +678,7 @@ The castle can only have one building of this type.#
 163. Temple of War
 #Type: Great Temple.
 Increases income from spoils of war and province plundering by 50~. Reduces the cost of new units by 10~. Increases recruits' experience by 60.
-Decreases population growth in all provinces.
+Decreases population growth in all provinces. Reduces the mood in all provinces by 2.
 The castle can only have one building of this type.#
 
 164. Scaffold
@@ -873,7 +875,7 @@ Allows to perform the ritual of Trade Fair.#
 #Income from provinces inhabited by Centaurs +5. Allows hiring the Centaurs guard.#
 
 209. Lizardmen Quarter
-#Allows recruiting Lizardmen and Lizardman Archers.#
+#Allows recruiting Lizardmen and Beaters.#
 
 210. Bone Totem
 #Increases gem income by 2. Speeds up restoration of unit hit points in the capital by 10~ per turn.#
@@ -883,7 +885,7 @@ Allows to perform the ritual of Trade Fair.#
 
 212. Dark Sanctuary
 #Increases gem income by 5.
-Adds to the store 2 phylacteries of Dracolich.
+Adds to the store 1 Dracolich Phylactery.
 Provides 2 schematics of the Monument of Darkness.
 Provides 3 contract with the Lord of the Undead guard.#
 
@@ -947,23 +949,23 @@ Allows upgrading a Mine in provinces to a Dwarven Mine. Allows upgrading a Mine 
 #Allows recruiting Centaur Chiefs. Allows you to hire Tribe of Centaurs guards.#
 
 231. Eternal Spring 
-#Allows recruiting Lizardman Champions.#
+#Allows recruiting Bog Champions.#
 
 232. Bone Idol
-#Allows recruiting Lizardman Sentinels and Lizardman Shamans.#
+#Allows recruiting Bog Warriors and Whisperers. Increases gold income from happy Lizardman provinces by their happiness level.#
 
 233. Temple of Strength 
-#Allows recruiting Lizardman Warlocks. Allows you to hire Lizardmen army guards.#
+#Allows recruiting Hissers. Allows you to hire Lizardmen army guards. Additionally, increases gold income from happy Lizardman provinces by their happiness level.#
 
 234. Shining Palace
 #Increases gem income by 5.
-Adds to the store 2 seraphim holy relics.
+Adds to the store 1 Seraphim Holy Relic.
 Provides 2 schematics of the Monument of Light.
 Gives 3 contracts with the Avatar of Light guardian.#
 
 235. Heart of Abyss
 #Increases gem income by 5.
-Adds to the store 2 cursed relics of Acheron.
+Adds to the store 1 Acheron Cursed Relic.
 Provides 2 schematics of the Monument of Chaos.
 Allows you to perform rituals Gates of Chaos and the Gate of Abyss.#
 
@@ -975,7 +977,7 @@ Gives 3 contracts with the Elementals guardian.#
 
 237. Magic Academy
 #Increases gem income by 5.
-Adds to the store 2 Faerie Dragon eggs.
+Adds to the store 1 Faerie Dragon egg.
 Provides 2 schematics of the Monument of Magic.
 Gives 3 contracts with the Faerie Dragon guardian.#
 
@@ -1178,7 +1180,7 @@ The castle cannot have more than 3 buildings of this type.#
 287. Blooming Lane
 #Type: Teaches circle III spells
 Allows heroes to learn the spells Summon Wasp Cloud, Pathfinding, Summon Dire Bear, and Summon Rat Swarm.
-Allows to perform the ritual of Heavenly Guard.
+Allows to perform the ritual of Heavenly Guard. Allows summoning a Behemoth using a Soul Stone.
 The castle cannot have more than 2 buildings of this type.#
 
 288. Tree of Miracles
@@ -1186,3 +1188,9 @@ The castle cannot have more than 2 buildings of this type.#
 Allows heroes to learn the spells Animal Assault, Thick Fog, Summon Wyvern, and Enchanted Grove.
 Allows to perform the ritual of Blessed Land.
 The castle can only have one building of this type.#
+
+289. Forest Palace
+#Increases gem income by 5.
+Adds to the store 1 Behemoth Soul Stone.
+Provides 2 schematics of the Monument of Nature.
+Gives 3 contracts with the Dragon guardian.#

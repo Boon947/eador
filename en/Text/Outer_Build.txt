@@ -296,7 +296,7 @@ Yields 15 gems per turn.
 Population mood -2.#
 
 50. Orcish Outpost
-#Small first and second rank garrison.
+#Small first and second rank garrison without fortifications.
 Increases spotting range.
 Cannot be built alongside a regular Outpost.#
 
@@ -332,3 +332,11 @@ Income +5.
 Yields 5 gems per turn.
 Increase income of gems by 25~.
 Cannot be built in a swamp.#
+
+56. Monument of Nature
+#Income +5.
+Yields 5 gems per turn.
+Population mood +1.
+Increases the mobility of a hero staying in this province by 1.
+Allows a hero staying in this province to use the Forest Corridor ritual.
+Can only be built in a forest.#

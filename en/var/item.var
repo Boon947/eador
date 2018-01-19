@@ -2067,7 +2067,7 @@ Power: 4
 Area: 0
 
 Morale: 12
-Power: 1
+Power: 2
 Area: 0;
 
 /89
@@ -2313,7 +2313,7 @@ Power: 4
 Area: 0
 
 Morale: 12
-Power: 1
+Power: 2
 Area: 0;
 
 /102
@@ -2726,7 +2726,7 @@ Resourse: (0)
 Effects:
 
 Morale: 12
-Power: 3
+Power: 4
 Area: 0;
 
 /124
@@ -10280,21 +10280,21 @@ Power: 75
 Area: 0;
 
 /408
-Name: Young Centaur;
+Name: Soul Stone;
 Slot: 0
 Class: 0
 Durability: 1
-GoldCost: 60
-GemCost: 0
-ShopLevel: 3
-Rarity: 8
-Building: 0
+GoldCost: 5500
+GemCost: 550
+ShopLevel: 6
+Rarity: 5
+Building: 289
 Pic: 411
 Resourse: (0)
 Effects:
 
 Summon: 84
-Power: 122
+Power: 76
 Area: 0;
 
 /409
@@ -10942,7 +10942,7 @@ Resourse: (1, 1)
 Effects:
 
 Summon: 84
-Power: 169
+Power: 96
 Area: 0;
 
 /445
@@ -13332,8 +13332,8 @@ Class: 9
 Durability: 100
 GoldCost: 280
 GemCost: 20
-ShopLevel: 8
-Rarity: 8
+ShopLevel: 4
+Rarity: 3
 Building: 0
 Pic: 536
 Resourse: (7)
@@ -13344,19 +13344,11 @@ Power: 2
 Area: 0
 
 RangedDefence: 5
-Power: 3
-Area: 0
-
-Resist: 6
-Power: 1
-Area: 0
-
-FirstAid: 35
 Power: 2
 Area: 0
 
-Recover: 21
-Power: 2
+HolyArmor: 232
+Power: 25
 Area: 0;
 
 /534
@@ -16185,7 +16177,7 @@ GemCost: 110
 ShopLevel: 3
 Rarity: 8
 Building: 0
-Pic: 661
+Pic: 647
 Resourse: (5, 5, 9)
 Effects:
 

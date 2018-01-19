@@ -38,7 +38,7 @@ Talent3: 202, 1
 Talent4: 203, 1
 Talent5: 960, 240
 
-/6!
+/6
 Name: Assassin;
 Talent1: 41, 2
 Talent2: 42, 2
@@ -174,7 +174,7 @@ Talent3: 42, 2
 Talent4: 960, 264
 Talent5: 0, 0
 
-/23!
+/23
 Name: Great Chieftain;
 Talent1: 25, 5
 Talent2: 66, 4

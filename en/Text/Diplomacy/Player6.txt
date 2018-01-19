@@ -53,7 +53,7 @@ Min: 0;
 Max: 0;
 Name: 1;
 Param: 0;
-Text: #Many battles have come and gone, many soldiers have fallen. Don't you think it's time for us to make peace, %s? I’m sure that both of our states will benefit if we cease our warfare.#
+Text: #Many battles have come and gone, many soldiers have fallen. Don't you think it's time for us to make peace, %s? I'm sure that both of our states will benefit if we cease our warfare.#
 
 /7 Предложение союза
 Index: 6;

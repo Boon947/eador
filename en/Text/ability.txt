@@ -50,10 +50,11 @@ Stamina determines the unit's maximum energy reserve. The energy is spent on att
 
 /12 Morale
 #Value: %d.
-The unit's faith in victory. Morale increases whenever the unit kills an enemy unit himself, or an enemy unit dies on a neighboring tile. Morale decreases when the unit is dealt a heavy wound, or an ally dies on a neighboring tile.
+The unit's faith in victory. Morale increases whenever the unit kills an enemy, or an enemy unit dies in an adjacent tile, or the enemy hero dies. Morale decreases when the unit is dealt a heavy wound, or an ally dies in an adjacent tile, or the hero is killed.
+Hero's morale also increases when any enemy dies, and decreases when any ally dies.
 When morale is above 15, the unit's attack values increase. If morale is 5 or less, the unit's attack decreases.
 If morale drops to 0, the unit panics and may desert the battlefield.
-After a battle a unit's morale gradually returns to its base level.#
+After battle, morale gradually increases to its base level.#
 
 /13 Feels No Pain
 #Wounds have no impact on the unit's attack.#
@@ -97,7 +98,7 @@ This ability has no effect on Undead, Machines, Golems, and Elementals.#
 #Once heavily wounded, the unit falls into a rage. As a result, his attack value increases by %d, and wounds do not affect it. The unit's morale cannot get lower than its base value. At the beginning of the turn, unit may lose control, and rush to the enemy in melee.#
 
 /26 Agility
-#Agile units ignore the opponents' counterattacks while engaging them in melee.#
+#Agile units ignore the opponents' counterattacks while engaging them in melee. Agility allows evading roots faster.#
 
 /27 Magic Strike
 #The unit's melee attack inflicts magic damage, which is only mitigated by the enemy's resistance, not its defense.#
@@ -185,7 +186,7 @@ Armor of entangled enemy is increased by %d, minus 1 every turn.#
 #When attacking an enemy in melee, the unit reduces the target's morale by %d.#
 
 /51 Crippling Strike
-#When attacking an enemy in melee, the unit reduces the target's speed by 1 for %d turns. No effect on incorporeal enemies.#
+#When attacking an enemy in melee, the unit reduces the target's speed by 1 for %d turns. A Crippling Strike interrupts the enemy's ability to Hit and Run, preventing them from returning. No effect on incorporeal enemies.#
 
 /52 Damage Weapon
 #Effect duration: %d.
@@ -229,7 +230,10 @@ The unit inflicts additional damage on enemies whose souls are tainted by evil.#
 /64 Lord of the Undead
 #Killing an enemy soldier raises it as an obedient undead.
 Raises the creature - %s.
-At the extra cost of 1 stamina point the unit can attack with Dark Dominion +3. An enemy soldier killed like this will not be raised, but 1 ammo is restored instead.#
+
+At the extra cost of 1 stamina point the unit can attack with Dark Dominion +3. An enemy soldier killed like this will not be raised, but 1 ammo is restored instead. Additionally, the amount of health stolen from the enemy using Life Leech is doubled.
+
+The attack type selection is memorized and kept until an explicit change. When counterattacking, the unit always raises the corpse.#
 
 /65 Mass Attack
 #The unit attacks all enemies in adjacent tiles.#
@@ -239,7 +243,7 @@ At the extra cost of 1 stamina point the unit can attack with Dark Dominion +3. 
 This special ability allows the unit to attack all enemies in adjacent tiles at the cost of some stamina.#
 
 /67 Roots
-#The unit entangles an enemy it attacks in melee with his roots, preventing it from moving for 3 turns. No effect on incorporeal enemies.#
+#The unit entangles an enemy it attacks in melee with his roots, preventing it from moving for 3 turns. No effect on incorporeal enemies. Agile enemies quickly escape the roots.#
 
 /68 Bloodsucker
 #Having struck an enemy in melee, the unit restores %d~ of the damage dealt as hit points.#
@@ -440,8 +444,8 @@ Ammo units consumed by casting: %d.#
 #This unit can cast the Haste spell, increasing the target's speed and gradually restoring its stamina.
 Ammo units consumed by casting: %d.#
 
-/125 Slow Spell
-#This unit can cast the Slow spell, reducing the target's speed and making it gradually lose its stamina.
+/125 Head Wind Spell
+#This unit can cast the "Head Wind" spell, slowing its target, reducing its range, and causing it to gradually lose stamina.
 Ammo units consumed by casting: %d.#
 
 /126 Ritual Scroll
@@ -554,7 +558,7 @@ Ammo units consumed by casting: %d.#
 Ammo units consumed by casting: %d.#
 
 /154 Fire Immunity
-#Grants the unit immunity from fire spells: Fireball, Armageddon, Incineration, Firestorm, Igni Sign, Fireblast, Fire Shot, Fire Storm, Fire Rain, Mass Fire Immunity, Cleansing Flame, Volcano, Scorching Ground and Solar Blast.#
+#Grants the unit immunity from fire spells: Blast, Armageddon, Incineration, Firestorm, Igni Sign, Fireblast, Fire Shot, Fire Storm, Fire Rain, Mass Fire Immunity, Cleansing Flame, Volcano, Scorching Ground and Solar Blast.#
 
 /155 Summon Huorn Spell
 #This unit can cast the Summon Huorn Spell, summoning a Huorn to an adjacent tile.
@@ -636,7 +640,7 @@ Ammo units consumed by casting: %d.#
 Ammo units consumed by casting: %d.#
 
 /174 Chieftain Order
-#This unit can cast the Chieftain Order spell, dealing a friendly unit 5 points of damage, but giving it an extra turn.
+#This unit can cast the Chieftain Order spell, dealing a friendly unit 5 points of damage, but giving it a second turn.
 Ammo units consumed by casting: %d.#
 
 /175 Quagmire
@@ -865,9 +869,9 @@ Ammo units consumed by casting: %d.#
 #This unit can cast the Chain Lightning spell, inflicting damage to all units within a range of 2 tiles. Resistance protects only partially against this spell.
 Ammo units consumed by casting: %d.#
 
-/232 Head Wind Spell
-#This unit can cast the Head Wind spell, reducing the range, ranged attack and speed of the target unit by 1. Ignores magic resistance.
-Ammo units consumed by casting: %d.#
+/232 Swamp Rage
+#The unit can use Interception more skillfully, and can protect allies even from ranged attacks.
+In addition, when injured during Interception, he receives temporary bonus: Additional Regeneration, Defense, and Ranged Defense, while in a swamp. When seriously injured, the unit may sprint briefly.#
 
 /233 Sluggishness Spell
 #This unit can cast the Sluggishness spell, slowing the target and making it lose stamina each turn.
@@ -1041,7 +1045,7 @@ Ammo units consumed by casting: %d.#
 
 /277 Shadow Form Butterfly Spell
 #A Blood Butterfly can cast this Shadow Form spell to give it special powers:
-in this state it loses Vigilance, reduces counterattack by 5 and resistance by half, and every turn it loses 3 morale points. On the other hand its attack is increased by 3 and its speed by 1, it recovers 2 stamina points each turn, it gets Bloodlust 2, becomes incorporeal and agile, and is able to apply a Round Attack.#
+In this state, she loses Vigilance, Counterattack is reduced by 5 and resistance by half, and every turn she loses 2 morale points. In return, Attack is increased by 4, Speed by 1, unit recovers 2 stamina each turn, gains Bloodlust 2, becomes incorporeal, and is able to strike all adjacent enemies.#
 
 /278 Shadow Form Priestess Spell
 #A Dark Priestess can cast this Shadow Form spell to give it special powers:
@@ -1061,16 +1065,16 @@ Ammo units consumed by casting: %d.#
 Ammo units consumed by casting: %d.#
 
 /282 Blinding Darkness Spell
-#This unit can cast the Blinding Darkness spell, reducing the attack of an enemy unit to zero.
+#This unit can cast the Blinding Darkness spell, reducing the attack of an enemy unit to zero. Ignores enemy's Spell Immunity.
 Ammo units consumed by casting: %d.#
 
 /283 Kiss of Darkness Spell
-#The unit can cast the "Kiss of Darkness" spell, which gives an extra turn to a friendly Drow unit.
+#This unit can cast the Kiss of Darkness spell, allowing a Drow unit in shadow form to act twice each turn.
 Ammo units consumed by casting: %d.#
 
 /284 Astral Parasite Spell
 #This unit has special arrows with an effect similar to the Astral Parasite spell: reducing the resistance of the enemy unit by 1 with each shot and making it lose stamina each turn. Resistance only partially protects against this spell and it has no effect on undead and mechanical units.
-Using these arrows the unit expends 3 additional stamina points.#
+Using these projectiles costs 3 additional stamina points.#
 
 /285 Hands of Darkness Spell
 #This unit can cast the Hands of Darkness spell, granting a friendly unit the ability to attack all enemies around it at an additional cost of stamina.
@@ -1186,11 +1190,11 @@ Ammo units consumed by casting: %d.#
 #When using Healing this unit can reduce the duration of poisoning and bleeding in friendly target by %d turns.#
 
 /313 Chaos Distortion Spell
-#This unit can cast the Chaos Distortion spell, giving an additional turn to all friendly demons on the battlefield.
+#Unit can cast the Chaos Distortion spell, allowing all friendly demons to make a second move.
 Ammo units consumed by casting: %d.#
 
 /314 Chaos Surge Spell
-#This unit can cast the Chaos Surge spell, giving an additional turn to a friendly demon.
+#Unit can cast the Chaos Surge spell, allowing a friendly demon to make a second move.
 Ammo units consumed by casting: %d.#
 
 /315 Fearless Spell
@@ -1206,7 +1210,7 @@ Ammo units consumed by casting: %d.#
 Ammo units consumed by casting: %d.#
 
 /318 Dark Redemption Spell
-#This unit can cast the Dark Redemption spell, increasing the magical abilities of all friendly units, and giving them a small boost to morale.
+#This unit can cast the Dark Redemption spell, increasing the magical abilities of all friendly units, and giving a small morale boost when sacrificing.
 Ammo units consumed by casting: %d.#
 
 /319 Ammo Bearer
@@ -1229,7 +1233,7 @@ Ammo units consumed by casting: %d.#
 Ammo units consumed by casting: %d.#
 
 /324 Necromancer's Cry Spell
-#This unit can cast the Necromancer's Cry spell, giving all undead units an extra turn. Does not affect the Servants of Death.
+#This unit can cast the Necromancer's Cry spell, giving all undead units a second turn. Does not affect the Servants of Death.
 Ammo units consumed by casting: %d.#
 
 /325 Demonic Howl
@@ -1250,14 +1254,14 @@ Ammo units consumed by casting: %d.#
 #When a unit falls into a Battle Frenzy, counter-attack increases by %d. Reduces a unit's propensity for unpredictable hostility.#
 
 /330 Healing Circle Spell
-#This unit can cast the "Healing Circle" spell, healing 6 hit points to the caster and all adjacent friendly units, while at the same time it cures poisoning, stops bleeding and reduces the duration of festering wounds.
+#This unit can cast the "Healing Circle" spell, healing the caster and all adjacent friendly units for 7 HP, while at the same time it cures poisoning, stops bleeding and reduces the duration of festering wounds.
 Ammo units consumed by casting: %d.#
 
 /331 Entangling Shot
 #This unit can entangle an enemy in roots from a distance, preventing it from moving for several turns. No effect on incorporeal enemies.#
 
 /332 Skillful Looter
-#Further improves a Scavenger's chances to find loot in province sites. Bonus is equal to half of the Scavenger bonus.#
+#Further improves a Scavenger's chances to find loot in province sites. Increase by %d~.#
 
 /333 Summon Mocker Spell
 #This unit can cast the "Summon Mocker" spell, summoning a mocker to a tile adjacent to the summoner. Caster loses 5 hit points.
@@ -1373,7 +1377,7 @@ The shot also spends Stamina: %d.
 This unit can use a special shot, which damages not only the target, but also up to three enemy units in a row. At the cost of extra ammo and Stamina.#
 
 /363 Explosive Weapon
-#This unit uses special shells that when hit, cause additional damage to all creatures around the target equal to half the normal damage.#
+#The unit uses special ammo that deals 50% splash damage to all creatures around the target.#
 
 /364 Cannot Cast
 #This unit cannot cast spells from his spell book.#
@@ -1505,7 +1509,7 @@ Ammo units consumed by casting: %d.#
 Ammo units consumed by casting: %d.#
 
 /397 Fever Hotbed Spell
-#This unit can cast the Fever Hotbed spell, which grants every ally within 1 tile Interception and the ability to transmit Fever in melee, at the cost of some health each turn. When the unit dies, all adjacent enemy units are infected.
+#This unit can cast the Fever Hotbed spell, which grants every ally within 1 tile Interception and the ability to transmit Fever in melee, at the cost of some health each turn. When the infected unit dies, all adjacent enemy units are infected.
 Ammo units consumed by casting: %d.#
 
 /398 Battle Cry Spell
@@ -1513,11 +1517,11 @@ Ammo units consumed by casting: %d.#
 Ammo units consumed by casting: %d.#
 
 /399 Atrophy Hotbed Spell
-#This unit can cast the Atrophy Hotbed spell, which grants every ally within 1 tile First Strike and the ability to transmit Atrophy in melee, at the cost of some stamina each turn. When the unit dies, all adjacent enemy units are infected.
+#This unit can cast the Atrophy Hotbed spell, which grants every ally within 1 tile First Strike and the ability to transmit Atrophy in melee, at the cost of some stamina each turn. When the infected unit dies, all adjacent enemy units are infected.
 Ammo units consumed by casting: %d.#
 
 /400 Leprosy Hotbed Spell
-#This unit can cast the Leprosy Hotbed spell, which grants every ally within 1 tile Agility and the ability to transmit Leprosy in melee, at the cost of some morale each turn. When the unit dies, all adjacent enemy units are infected.
+#This unit can cast the Leprosy Hotbed spell, which grants every ally within 1 tile Agility and the ability to transmit Leprosy in melee, at the cost of some morale each turn. When the infected unit dies, all adjacent enemy units are infected.
 Ammo units consumed by casting: %d.#
 
 /401 Curse Spell
@@ -1540,7 +1544,7 @@ This unit can inflict additional damage to undead creatures (the higher the leve
 This unit can inflict additional damage to demons (the higher the level, the higher the extra damage).#
 
 /406 Stone Crust Spell
-#This unit can use arrows to cast the Stone Crust spell at will: it covers the enemy unit in an airtight crust for 4 turns, immobilizing it and making it lose 4 hit points per turn; armor is increased by 4 and resistance by 2. The spell has no effect on tireless creatures and those immune to pain, and resistance significantly reduces the duration of the spell.
+#This unit can use ammo to cast the Stone Crust spell at will: it covers the enemy unit in an airtight crust for 4 turns, immobilizing it and making it lose 4 hit points per turn; armor is increased by 4 and resistance by 2. The spell has no effect on tireless creatures and those immune to pain, and resistance significantly reduces the duration of the spell.
 Using these arrows the unit expends 2 additional stamina points.#
 
 /407 Shadow Form Guardsman Spell
@@ -1625,7 +1629,7 @@ Ammo units consumed by casting: %d.#
 #A Lizardman Archer can cast the Black Blood spell on himself, increasing his poisonous melee and ranged attack by 3, but making him lose 3 hit points each turn.#
 
 /428 Healing Circle Spell
-#This unit can cast the "Healing Circle" spell, healing the caster and all friendly units around it with 3 hit points.
+#This unit can cast the "Healing Circle" spell, healing the caster and all friendly units around it for 4 HP.
 Ammo units consumed by casting: %d.#
 
 /429 Incorporeal
@@ -1659,11 +1663,10 @@ Ammo units consumed by casting: %d.#
 Ammo units consumed by casting: %d.#
 
 /437 Caustic Mixture Spell
-#This unit can use arrows to cast the Caustic Mixture spell at will: for 4 turns reduces the enemy's defense and ranged defense by 3, and poisons it, causing it to lose 3 hit points each turn. The spell does not affect incorporeal creatures with spell immunity, and spell resistance does not apply.
-Using these arrows the unit expends 2 additional stamina points.#
+#Each shot of the alchemist casts the Caustic Mixture spell: For 4 turns, the enemy's Defense and Ranged Defense are reduced by 3, while the acid deals 3 HP damage each turn. The spell is not cumulative, does not work on incorporeal creatures, and Spell Immunity and Spell Resistance do not apply.#
 
 /438 Chilling Touch
-#Chilling touch immobilizes any living creature for 3 turns, ignoring magic immunity and almost ignoring resistance to magic spells.#
+#Chilling touch immobilizes any living creature for 3 turns, ignoring magic immunity and almost ignoring resistance to magic spells. When the unit is out of ammo, the ability does not work.#
 
 /439 Phantom Form
 #Oinor's staff causes its enemies to become partially illusory and thus unable to do any damage.#
@@ -1689,11 +1692,11 @@ Ammo units consumed by casting: %d.#
 Ammo units consumed by casting: %d.#
 
 /445 Hunter's Net
-#Instead of the usual shot the unit casts a hunter's net: Immobilizes the target for 2 turns, but increases its defenses. The entangled target cannot fight. The stronger the enemy, the faster he will get rid of the net.
+#Instead of the usual shot the unit casts a hunter's net: Immobilizes the target for 3 turns, but increases its defenses. The entangled target cannot fight. The stronger the enemy, the faster he will get rid of the net.
 Using the hunter's net, the unit expends 1 additional stamina point.#
 
 /446 Mental Support Spell
-#This unit can cast the Mental Support spell, temporarily increasing the summoning power of all friendly units by 2.
+#This unit can cast the Mental Support spell, temporarily increasing the summoning power of all friendly Alkari by 4.
 Ammo units consumed by casting: %d.#
 
 /447 Mental Duel Spell
@@ -1728,7 +1731,7 @@ Ammo units consumed by casting: %d.#
 #Special ability allowing a unit to spend 2 additional stamina points to deal melee damage to an enemy, while restoring %d hit points. Health restored cannot be greater than the damage dealt.#
 
 /455 Crippling Shot
-#With its shot the unit is able to reduce an enemy's speed by 1 for %d turns. No effect on incorporeal enemies.#
+#With its shot the unit is able to reduce an enemy's speed by 1 for %d turns. If no damage is dealt, the effect does not trigger. No effect on incorporeal enemies.#
 
 /456 Overwhelming Force
 #The target's defense is effectively halved against this unit's shots or strikes.#
@@ -1760,7 +1763,8 @@ No effect on incorporeal enemies.#
 #The unit's melee attacks inflict %d points of magical damage on the enemy in addition to physical damage.#
 
 /465 Bloodlust
-#Killing an enemy in melee attack boosts the morale of the unit by an additional %d.
+#Damage received increases unit's morale by %d.
+Also, killing an enemy in melee attack boosts the morale of the unit by an additional %d.
 When killing by a counterattack or a ranged attack, the unit receives only half of this value.#
 
 /466 Damaged Aura
@@ -1954,11 +1958,12 @@ Ammo units consumed by casting: %d.#
 Ammo units consumed by casting: %d.#
 
 /518 Hit and Run
-#A special ability which allows a unit, at the cost of extra stamina, to return to the tile it started from before the attack.#
+#A special ability which allows a unit, at the cost of extra stamina, to return to the tile it started from before the attack.
+Be wary of abilities Roots and Crippling Strike: if an enemy counterattacks with either of them, the ability will fail!#
 
 /519 Backstab
 #With Backstab, a unit deals %d additional damage.
-An attack is considered a backstab when an ally stands in the opposite tile.#
+An attack is considered a backstab when an ally stands in the opposite tile. A successful backstab increases the unit's morale.#
 
 /520 Rat Swarm Spell
 #This unit can cast the Summon Rat Swarm spell, which summons six giant rats in an adjacent tile.
@@ -1968,10 +1973,10 @@ Ammo units consumed by casting: %d.#
 #Nearby allies receive Interception, as long as they remain close.#
 
 /522 Cause Fever
-#When dealing raned damage, this unit infects the enemy with Fever. Unit's attributes are all decreased by 1, and it loses 1 stamina each turn.#
+#When dealing raned damage, this unit infects the enemy with Fever. Infected unit's attributes are all decreased by 1, and it loses 1 stamina each turn.#
 
 /523 Cause Atrophy
-#When dealing ranged damage, this unit infects the enemy with Atrophy. The unit's Attack attributes are reduced by 3 and Speed by 1, and it loses 2 Stamina each turn.#
+#When dealing ranged damage, this unit infects the enemy with Atrophy. Infected unit's Attack attributes are reduced by 3 and Speed by 1, and it loses 2 Stamina each turn.#
 
 /524 Restore Ammo
 #By eating a corpse, the unit recovers some ammo (0-%d).#
@@ -1981,3 +1986,17 @@ Ammo units consumed by casting: %d.#
 
 /526 Dodge
 #Every shot at the unit increases its Ranged Defense by %d until the end of the next turn.#
+
+/527 Acid
+#This unit can use ammo to cast the Acid spell at will: target takes 15 HP damage, and their Armor is reduced by 2. The spell lasts 3 turns, armor partially protects from the effects of Acid. Spell Immunity and Resistance offer no protection.
+Using these projectiles costs 3 additional stamina points.#
+
+/528 Gobble
+#If an enemy, a living creature but not a giant, has less than %d health left, the unit can swallow it whole.
+
+Unit's Speed is reduced by 1, and recovers %d HP each turn, while the swallowed enemy loses as much.
+If the unit dies before digestion is complete, it will perish forever, and the swallowed enemy will be able to escape. Once a swallowed unit has been digested, it can no longer be resurrected.
+
+It is not possible to swallow multiple units, enemy must be fully digested before unit may swallow another unit.
+
+To use the ability, unit must be immobile and have more than 3 Stamina.#

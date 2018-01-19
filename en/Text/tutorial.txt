@@ -428,7 +428,7 @@ Mechanical units - artificial creatures, assembled from various materials. Can b
 
 Golem - Mechanical subtype with certain specificities.
 
-Traps - special Mechanical type. Usually, a trap cannot be the target of an attack or a spell. A trap cannot be selected like a conventional unit. A trap doesn't preclude crossing, but the effect is typically unpleasant. If your only remaining units on the battlefield are traps, the battle is lost.
+Traps - special Mechanical type. Usually, a trap cannot be the target of an attack or a spell, except spells that affect an entire area. A trap cannot be selected like a conventional unit. A trap doesn't preclude crossing, but the effect is typically unpleasant. If your only remaining units on the battlefield are traps, the battle is lost.
 
 Artillery - Mechanical units designed for ranged destruction. Different from other Mechanical units in that they generally cannot fight in melee.
 

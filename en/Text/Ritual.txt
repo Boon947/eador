@@ -148,3 +148,10 @@ There must be enough space in the hero's army.#
 
 42. Blessed Land
 #Creates a province site which increases gold or gem income, or improves population mood. Can only be created in a friendly province.#
+
+43. Forest Corridor
+#Instantly transports the hero to the capital. If the stronghold is besieged, the hero is taken to a neighboring friendly province instead. The ritual will not work if there are no suitable provinces.#
+
+44. Magic Crystal
+#Creates a link between the hero and the magical crystal in your capital.
+Cannot be used if another hero has already accepted a Quest from the crystal.#

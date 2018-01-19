@@ -247,8 +247,8 @@ Lvl 5: Rewards +30~, Prices -10~#
 /28 Looting
 #The Looting skill increases the number of battle trophies and increases a chance of acquiring items from the fallen enemies.
 
-Lvl 1: Spoils +10~
+Lvl 1: Spoils +20~
 Lvl 2: Spoils +10~
-Lvl 3: Spoils +10~
+Lvl 3: Spoils +20~
 Lvl 4: Spoils +20~
-Lvl 5: Spoils +20~#
+Lvl 5: Spoils +30~#

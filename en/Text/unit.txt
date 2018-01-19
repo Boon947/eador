@@ -148,7 +148,7 @@ For the egg to be turned into a unit for a hero's party it is necessary to build
 
 36. Ghoul
 #Ghoul, corpse-eater, ghast, wight - these creatures have many names, all arousing horror and disgust in the minds of mortals. Ghouls usually live on graveyards, feeding on corpses they dig out of the graves. However, they do have a taste for fresh meat and never miss a chance if anyone enters their domain carelessly. Unlike zombies, ghouls are sentient beings with a spark of life in them, which makes them all the more dangerous opponents. Ghouls are rather swift, and their long sharp claws - used to digging graves and ripping apart corpses - are a deadly weapon. Another danger is that a wound inflicted by a ghoul's dirty claws is very likely to get infected. Besides that, a ghoul's body is covered with cadaverous poison, forcing its enemies to avoid it as much as possible. Ghouls also have the ability to heal their wounds, but for this they need food.
-A particularly successful creation may well be specially marked.#
+The most successful creations may well be specially marked.#
 
 37. Fiend
 #Fiends are a step above the imps in the Chaos spawn hierarchy. These creatures do all the dirty work, they are tasked to destroy temples of order and other sacred places that prevent the forces of Chaos from consuming a shard. The fiends kill all living creatures they can handle. Legends and tales blame them for seducing the minds of mere mortals, for spreading vice and filth. That's not really true, perhaps the legends confuse fiends with the devils, who are indeed capable of such sophisticated tricks. The fiends are mere footsoldiers of Chaos, capable only of destroying and killing. Armed with tridents, they never hesitate to use their horns, teeth and hooves in battle as well. The fiends' rage and yearning for destruction will sow fear amongst enemy troops.
@@ -282,7 +282,7 @@ The slug's ability to spit poison poses a great threat to its enemies. When it c
 For the eggs to be turned into a unit for a hero's party it is necessary to build the Swamp Trappers Guild.#
 
 69. Lizardman
-#Lizardman warriors are known for their great vitality: their natural regeneration allows them to heal the most terrible wounds very quickly. Although their bone spears, turtle carapace shields and seashell armor are a far cry from quality equipment, a lizardman's great strength and agility more than make up for the lack of good gear.
+#Lizardman warriors are known for their great vitality: their natural regeneration allows them to heal the most terrible wounds very quickly. Although their bone spears, turtle carapace shields and seashell armor are a far cry from quality equipment, a lizardman's great strength and agility more than make up for the lack of good gear. Another note-worthy Lizardman trait is their tremendous discipline, which allows them to act as one, and protect their weaker members.
 It's especially hard to defeat lizardmen in the swamps, for the boggy marsh is their natural habitat.#
 
 70. Phoenix
@@ -300,7 +300,7 @@ The creation of a witcher is an arduous task, beginning as the potential witcher
 In addition, a witcher bears a set of highly efficient magical abilities, known as signs.#
 
 73. Cleaver
-#When Orcs met mounted units for the first time, the Shamans had to think long and hard to find an effective counter. Unlike Humans, Orcs sneer at weapons that require strategy and discipline for effective use, but are unwieldy in a duel. Thus, the Orcish version of the bardiche was born. Orcish leaders were hard-pressed to explain the new weapon's ins and outs, but it was even harder to convince soldiers to give up their shield. In the end, they were successful by presenting the Shamans' creation as an over-sized two-handed axe with an unusual style. Having accepted their new weapon, those who wield them proudly call themselves "Cleavers". To compensate the lack of a shield, they wear heavy armor, even by Orcish standards, TODO. #
+#When Orcs met mounted units for the first time, the Shamans had to think long and hard to find an effective counter. Unlike Humans, Orcs sneer at weapons that require strategy and discipline for effective use, but are unwieldy in a duel. Thus, the Orcish version of the bardiche was born. Orcish leaders were hard-pressed to explain the new weapon's ins and outs, but it was even harder to convince soldiers to give up their shield. In the end, they were successful by presenting the Shamans' creation as an over-sized two-handed axe with an unusual style. Having accepted their new weapon, those who wield them proudly call themselves "Cleavers". To compensate for lack of shield, they wear very heavy armor, even by Orcish standards, and use anvils for jewlery. These fighters are incredibly powerful.#
 
 74. Death Touched
 #Some magicians, fearing imminent death, often try to avoid this by empowering their bodies with immortality, a ritual known as the Eternal Night - the path of lichdom. They must gather the necessary rare ingredients for this crude, dangerous procedure. The slightest error in the creation of the phylactery or an overdose of one particular ingredient in the alchemical brews, and the magician will die an excruciating, irreversible death.
@@ -315,7 +315,8 @@ For the phylactery to be turned into a unit for a hero's party it is necessary t
 
 76. Behemoth
 #The behemoth is a mighty creature of barbarian folklore. Legends from the tribes describe this creature as having been sent down by the Skyfather when their people were banished from civilization. During this time, many shamans prayed for counsel and made sacrifices. One night, when a powerful shaman brought himself to the sacrificial altar, the sky lit with a bright flash as lightning struck the ground, and in the midst of that sudden natural phenomenon, the behemoth appeared. It was because of this magnificent creature's desire to defend the tribes from colonists that they were able to avoid their inevitable doom. They brought it gifts, fed it prisoners and otherwise worshiped it. It was surprising that the bloodthirsty monster didn't touch the barbarians themselves,
-except when some idiot inadvertently entered its lair. The behemoth is a fearful creature to those who manage to enrage it. It possesses excellent health and is literally able to tear apart any creature, thanks to its huge claws, which are hard as diamond and almost two feet in length. A kick from the behemoth can shatter a man's bones into dust. Fortunately, the monster's sheer size and lack of protection can lead to its defeat, if there are enough attackers swarming it.#
+except when some idiot inadvertently entered its lair. The behemoth is a fearful creature to those who manage to enrage it. It possesses excellent health and is literally able to tear apart any creature, thanks to its huge claws, which are hard as diamond and almost two feet in length. A kick from the behemoth can shatter a man's bones into dust. Fortunately, the monster's sheer size and lack of protection can lead to its defeat, if there are enough attackers swarming it.
+For a Soul Stone to be turned into a unit for a hero's party, a Blooming Lane is required.#
 
 77. Hunter
 #Life in Goblin society is usually dangerous, so missile weapons and the skills to shoot them provide a significant advantage to those who favor the safety of the rear over the battlefront. Goblin-Hunters roam the swamps, hunting down animals that pose no real threat, and often become bodyguards for wealthier peers. They consider themselves smarter and more cunning than other Goblins, who didn't hone ranged skills, as they have higher odds of surviving battle, due to the distance from the enemy. Should they encounter a foe in melee, however, they instantly lose that confidence.
@@ -449,24 +450,24 @@ but they are unable to walk. They are more like plants than like animals. A tree
 #Even an unskilled thief may be useful to the guild, for instance to establish control over a gang of robbers in the army, if they managed to get recruited. Especially fortunate gangs of rogue thieves may receive an offer to return to the guild, and even become a member of the Brotherhood.
 Bandits are quite valuable to the Twilight Brotherhood, so they try as much as possible to keep them alive. That's why they recruit experienced - and very expensive - teachers of light combat and the art of assassination, which makes bandits into very dangerous opponents - and the poison on their blades even more so. Bandits are usually sponsored by the thieves guild, so they're not as greedy as common thieves.#
 
-113. Lizardman-archer
-#Lizardman-archers are specialized hunters who roam the vast swamps. They are intelligent, observant creatures who maneuver through the murky environment of the swamps with ease. Their equipment far outclasses that of the common fighters, and they take care of preserving it.
-In combat, lizardman-archers provide invaluable support to the footsoldiers. While lizardman-archers aren't particularly honed in melee combat, attackers often forget their venomous fangs.#
+113. Beater
+#Beaters, lizards armed with ranged weapons, are elite hunters roaming the boundless swamps in their territory. They are intelligent, observant creatures who maneuver through the murky environment of the swamps with ease. Their equipment far outclasses that of the common fighters, and they take care of preserving it.
+In combat, these archers provide invaluable support to the tribe's warriors. While lizardman-archers aren't particularly honed in melee combat, attackers often forget their venomous fangs.#
 
-114. Lizardman-shaman
-#Within the lizardman society, shamans are highly respected. Shamans believe that they are in direct communication with their deities, but in actuality the Gods rarely deal with shamans - reserving their attention for the elite spellcasters.
-In battle, shamans are called to weaken the enemy through varied hexes, thus allowing their kin to exploit these afflictions. A shaman's abilities may not be impressive, but they are quite effective.#
+114. Whisperer
+#Within the deeply religious lizardman society, shamans are highly respected. Whisperers, as they are called, believe that they are in direct communication with their deities, but in actuality the Gods rarely deal with shamans - reserving their attention for the elite spellcasters.
+In battle, Lizards rally around Whisperers, as they weaken enemies in every possible way, preventing them from reaching warriors and archers. Though the Whisperers' arsenal is not spectacular, it is very effective.#
 
-115. Lizardman-sentinel
-#As with many societies, lizardmen employ their own form of protection throughout their territory. Lizardman-sentinels clearly stand out. They are tall and strong combatants who carry sharpened steel and patrol the perimeter of the camp they're assigned to.
-Despite the heavy weight of the weapons they carry, these lizardmen move quickly and without encumbrance. Like most lizardmen, sentinels are able to heal their wounds quickly. As their experience grows, their prowess with a battle axe can reach great heights.#
+115. Bog Warrior
+#As with many societies, lizardmen employ their own form of protection throughout their territory. These lizards clearly stand out. Stronger and bolder, Bog Warriors also use sharp metal weapons, which makes them a formidable force.
+Despite the weight of their equipment, they move confidently in the swamps. Like other Lizards, Bog Warriors quickly learn how to heal their wounds, and skilfully protect their allies in battle. As their experience grows, their prowess with a battle axe can reach great heights.#
 
-116. Lizardman-champion
-#There are various castes among lizardman society, based on skin color. Commoners have various shades of green and rarely hold a significant position of power. Yellow-scaled lizardmen belong to the warrior caste and are vastly superior in strength.
+116. Bog Champion
+#There are various castes among lizardman society, based on skin color. Commoners have various shades of green and rarely hold a significant position of power. Yellow-scaled lizardmen belong to the warrior caste, and are called Bog Champions.
 Those from this caste who prove their worth are regarded as leaders and champions of the lizardfolk. These bastions of the swamps fight valiantly to preserve their land and can often be found at the head of large groups.
-Like most lizardmen, their excellent health allows them to recover even from severe wounds, and their natural abilities allow them free movement through the swamp.#
+In battle, Champions protect their allies very skillfully, helping them in every possible way. Like most lizardmen, their excellent health allows them to recover even from severe wounds, and their natural abilities allow them free movement through the swamp.#
 
-117. Lizardman-warlock
+117. Hisser
 #Another caste in lizardman society bears red or purple scales, representing the apex of lizardman hierarchy. These powerful practitioners of magic are usually the leaders of large cities and armies. Particularly a red-scaled lizardman is destined to become the supreme ruler of the lizardfolk.
 Their authority is absolute, and in addition to being excellent mages, spellcasters are in fact in direct contact with their deities, thus strengthening their established seat of power through divine rule. It is said that the gods speak to the shamans, and they don't hesitate to abuse that notion of course, and manipulate their society as they see fit, presenting their own desires as the will of the gods.
 Spellcasters reluctantly join in battle, yet they do not fear it and they don't show their enemies any mercy, nor their own soldiers.#
@@ -521,9 +522,10 @@ Given the amount of battle experience most gang leaders endure, expectations are
 Beast Masters, as they call themselves, are tough opponents to face, having many ways to weaken their enemies. And let's not forget they usually bring large pets along...#
 
 131. Ericuba
-#The swamps of Eador contain some of the most lethal creatures imaginable. One particular breed of deathbringer is known as the ericuba. Like giant slugs, the ericuba can discharge a poisonous acid,
-which grows more potent if left unattended. The monster's fangs are able to rend an individual's limbs and its strikes can stun a man into submission.
-If a wounded ericuba becomes desperate enough, it can devour a nearby ally to nourish itself. Even the most impassible marsh has no effect on the creature's movement: in fact, it welcomes the opportunity to patiently wait for dinner to arrive.
+#In the swamps, there are many dangerous creatures. Some of them can even be tamed. One of these monsters is the Ericuba - a swamp creature.
+Goblins sometimes manage to sneak an egg out of one's lair, and even get away with it, except when the angry mother catches up with the thief. When such an egg is carefully stored in a warm and damp place, a small worm soon hatches. It grows very quickly, already taller than a goblin after a few days.
+In battle, the Ericuba can spit a weak acid that causes significant damage, as the monster's poison gradually becomes stronger.
+ Its poisonous teeth can shred a man  to pieces, and the ferocity of its attack shocks enemies so much they freeze in horror. If necessary, an Ericuba may devour an ally to restore its own health. Of course, Ericubas feel at home in even the most impenetrable quagmire - they like to lurk, waiting until "dinner" comes too close.
 For the egg to be turned into a unit for a hero's party it is necessary to build the Monstrologists Guild.#
 
 132. Halfling Rogue
@@ -681,12 +683,12 @@ For the egg to be turned into a unit for a hero's party it is necessary to build
 #As time goes by, a Bird-eater grows larger. In the process, it loses the ability to produce poison. Its mandibles grow and harden enough to pierce through bone with ease. Even the thickest of armor cannot protect one from the Ripper. With the evolution of this species of arachnid, its appetite far exceeds the simple desire for birds. Previously, the presence of birdeaters meant trouble for the birds of the forest, but the presence of rippers spells death for any who trespasses in their territory.#
 
 168. Swallower
-#The peak of a birdeater's evolution is known as the swallower - a monumental predator in the food chain. Grown into monstrous proportions, the swallower is effortlessly able to see through heavy armor and locate its target's vital organs. The swallower's unnatural appetite leads it to hunt outside the forest, sometimes even attacking settlements.
-Often the monstrous eight-legged behemoth torments its own food as it slowly pulls the victim into its deathly jaws.#
+#The peak of a birdeater's evolution is known as the swallower - a monumental predator in the food chain. Grown into monstrous proportions, the swallower is effortlessly able to see through heavy armor and locate its target's vital organs. The swallower's unnatural appetite leads it to hunt outside the forest, sometimes even attacking settlements. Even experienced warriors sometimes fall prey to this monster.
+The Swallower's name is well deserved - it can gobble down man-sized creatures, and digest them, a slow and excruciating ordeal for the victim; Many have met an untimely death in the bottomless belly of this forest tyrant.#
 
-169. Wolf Rider
-#Orcs frequently breed huge wolves - called wargs. These beasts are very smart, and it is no easy task to get them to accept a rider. However, the outcome is definitely worth the time and effort. Orcs who have tamed a warg earn the respect of other members of the tribe.
-Orc Riders make a good cavalry, fast and powerful. Riders carry sharp throwing axes, and the wargs themselves can unleash a terrifying howl at their master's command.#
+169. Snare
+#A primitive, but fairly effective mechanical trap. This oversized device can injure even large animals, let alone human-sized creatures. They are often used by Goblins on the "prowl", as they call their vicious raids.
+This trap is able to immobilize almost any non-flying creature, once caught in the noose.#
 
 170. Reaper
 #A reaper is a large, powerful skeleton conjured by a necromancer. Unlike common skeletons, it has additional arms to hold extra weapons, granting it the ability to attack all surrounding enemies.
@@ -704,7 +706,7 @@ A suffocating stench surrounds the cadaver, affecting any living creature nearby
 Black knights are also armed with spell-like abilities, capable of reducing the overall defense of an opponent. When a black knight slays a living creature, their last shred of life is drained, fueling the knight with sustenance. Like most undead servants, black knights are incapable of fear and fatigue, and can shrug off venoms and cold temperature, making an already deadly combatant a real force to be reckoned with.#
 
 174. Death Incarnate
-#Known as a physical manifestation of Death itself, these soulless avatars are able to siphon life with a single touch. No matter how far away one is from this vorpal being, peril is assured - a simple contact is all that's needed to end one's existence. Usually, their terrible slaying power can be used only once, but neither armor nor magic can protect against it.
+#Known as the physical manifestation of Death itself, this soulless avatar is able to siphon life with a single touch. No matter how far away one is from this vorpal being, peril is assured - a simple contact is all that's needed to end one's existence. Their terrible slaying power can be used only once, but neither armor nor magic can protect against it.
 Very little can slow down this abomination - it glides across any type of terrain to sow death. Good protection and complete immunity to magic make them a terrifying harbinger of Death.#
 
 175. Night Shadow
@@ -775,8 +777,8 @@ Disobedience is not tolerated, often resulting in swift execution to lesser, reb
 
 193. Skeleton of Doom
 #These ancient skeletal guardians of undeath have been long buried and abandoned by rulers of former eras, where they remain, eternally protecting the sanctity of their tombs and crypts. These silent creatures will strike down any being who dares enter the forbidden chambers to plunder treasure.
-They have superior strength and durability compared to most undead and carry heavy weapons infused with magic that cannot be held by mortal men. Many sharp bony outgrowths dot the skeleton of this creature, creating a feeling that every bone is meant to hurt any living being. Black wisps of smoke envelop the contour of the skeleton's structure, concealing its unnaturally fast movements. Recently, necromancers have uncovered the knowledge to conjure such creatures,
-Necromancers have only recently recovered the lost knowledge required to spawn these creatures - apparently the ancient transformation ritual was carried out on live victims, to prevent them from escaping the pain of the Edge. Few know the ritual, and even fewer are able to carry it out in the heat of battle.#
+They have superior strength and durability compared to most undead and carry heavy weapons infused with magic that cannot be held by mortal men. Many sharp bony outgrowths dot the skeleton of this creature, creating a feeling that every bone is meant to injure nearby living creatures. Black wisps of smoke envelop the contour of the skeleton's structure, concealing its unnaturally fast movements. Recently, necromancers have uncovered the knowledge to conjure such creatures,
+Few know the ritual, and even fewer are able to carry it out in the heat of battle.#
 
 194. Spectre
 #Spectres are often misinterpreted as ghosts. This can be a costly misconception, given how deadly these apparitions are towards mortals. While spectres exist more within the material realm than ghosts, thus making them reachable through physical contact, their frozen grasp and regenerative properties inspire terror from those who dared to approach one. They can also release a frozen projectile capable of quickly ceasing a man's pulse.
@@ -911,25 +913,25 @@ In this day and age, the secret of creating magic crystals is known to many wiza
 226. Plague Shooter
 #For many years, Skreet armies lacked ranged troops. What was the point in underground tunnels? It was only when they started waging war on the surface that they realized it was a problem. While the fear of disease successfully detered incoming enemy forces, what were the Skreets to do if they needed to gain ground? Eventually, they found a way to lace sling ammo with poison. To this end, special shells filled with toxins were created. Today, poison shots are the Ratmen's crowning achievement. Should an enemy manage to reach a Plague Shooter, the latter might then guzzle another liquid, a nauseating but very effective Ratman brew, made from Lord-of-Light-knows-what, greatly increasing the willing victim's fighting prowess, despite strong side effects. It might seem impossible that anyone beside Ratmen would even think about drinking the putrid brew. However, there are stories of human rulers buying it to torture prisoners.#
 
-227. Lightning Cannon
-#The Lightning Cannon has long been one of the most dangerous Screett tools. They were probably invented by the Ancients - similar designs can occasionally be found in their treasuries and stashes, but they have long been out of order. Initially, the weapon looked more like a magic wand than a cannon, but then even more massive versions appeared and they were installed on a mobile chassis. The power of the lightning gun is impressive - its magic can completely destroy almost any enemy, regardless of the strength of his armor. The working principles of these machines are only known to the Screetts, so no one has yet managed to copy the lightning cannon.#
+227. Trap
+#A primitive, but fairly effective mechanical trap. This oversized device can injure even large animals, let alone human-sized creatures. They are often used by Goblins on the "prowl", as they call their vicious raids.
+This trap is able to hinder any non-flying creature, on top of inflicting damage with sharp spikes.#
 
-228. Assault Rat
-#Inspired by the success of the driller, Screett engineers began to experiment with creating new weapons. Their long guns, working on new principles, were no better than the old ones though. Only one gunsmith succeeded. It worked, although not with the new weapons, but by improving their good old drill. He noticed that crystals struck by lightning would fly through the air at quite a speed and explode on impact. Soon thereafter the resourceful ratman created a prototype of the new weapon. The crystal bullets struck by a miniature drill flew out of the barrel and hailed upon the target, breaking armor and ripping flesh.
-They soon tested them in actual combat - in a battle with the dwarves - and their invention helped defeat the bearded men, as not even their vaunted heavy dwarven armor could withstand the weapon. The gun can also be used quite well as a club, if the gunner would suddenly be forced into close combat. The main drawback of the crystal gun and the reason why it has not yet been mass produced, is that the manufacture of its munitions uses up too many crystals, and it would cost the military commander too much.
-For the contract to be turned into a unit for a hero's party it is necessary to build the Craft Shop.#
+228. Hornet's Nest
+#A primitive, but fairly effective mechanical trap. This oversized device can injure even large animals, let alone human-sized creatures. They are often used by Goblins on the "prowl", as they call their vicious raids.
+This trap is able to complicate the life of all living creatures, as angry hornets pounce on the reckless who come too close.#
 
-229. Rat Reaper
-#Rat Reapers are a special caste of Screett that the Ancients most likely created to perform all kinds of heavy work the smaller Ratmen couldn't do. Feeding this huge creature is very difficult however, so at some point the Screetts almost ceased breeding them. It would have been logical to use them in the military, but unfortunately the Ancients especially created them to be non-aggressive, so even when starved, these giant Screetts were poorly suited for combat, often simply too frightened, trying to escape the battlefield, right through the ranks of their allies. Nevertheless, the Seekers worked long and hard and for several generations only the most vicious animals were selected for breeding, and they ended up with what is now called a rat reaper. These creatures were no longer peaceful and shy - they fell into a battle rage, trampling and tearing enemies to pieces. Witnessing a rat reaper roaring with rage is a spectacle that can scare even the bravest enemy into fleeing the battlefield. Hardly anybody would gladly stand in the way of such a giant. Like most giants, they are able to move quickly in the hills, but feel uncomfortable in woods and swamps. Their skin is extremely resistant to damage, so they wear hardly any armor. Their health is robust and they can devour corpses. They invest their strikes with such monstrous power that they are able to break almost any armor Ratmen value them and provide the most capable with better equipment. Like a rock, they proudly tower over the turbulent gray flood of their relatives. Many a rank of fragile knights have been broken and dispersed on these "rapids".
-Rat reapers also have their drawbacks though. When hungry, they become almost unmanageable - and it's not easy to feed them. Rat reapers often fall into a hunger rage, escape from their labs and create terror among the slum dwellers. To avoid this, a fat and fast growing species of giant rat was bred. A rat reaper can eat quite a lot of rats in a day, so now you know where the name came from.
-For the contract to be turned into a unit for a hero's party it is necessary to build the Handler's Guild or the Seeker Laboratory.#
+229. Earth Totem
+#A pile of stones, twigs, bones, covered with obscure scribbles... In reality, this is a cunning trap, to chain Astral Spirits, and use the energy from their fierce attempts to break free to charge the signs engraved on the totem. When the spellcaster who created the totem considers the charge adequate, he releases the spirit, forcing it to follow his command.
+This totem holds captive an Earth Elemental. Once released, it is able to summon the power of his element either to protect the caster, or to tear the ground apart beneath the enemy's feet.#
 
-230. Ratclaw
-#For all their merits, it's not that easy for the Ratmen to survive, let alone grow in size, as their appetites are truly legendary. This led them to create a hybrid that is not as small and not as voracious, and capable of moving faster on any type of terrain. Ratclaws are smarter and more cool-headed than ordinary ratmen. They are mainly used for heavy work - swinging an axe, carrying loads and protecting tunnel exits, and some rat kings keep ratclaws as bodyguards. But the main use of ratclaws is in battle. Their intelligence allows them to use a dangerous weapon: their "Claws of Death" - gauntlets with long claws attached. Clearly better endowed with strength and stamina than their fellow ratmen, ratclaws are just as boisterous and bloodthirsty when they can smell blood. Their innate dexterity and quick reflexes allow most of them to always strike first and makes them difficult to hit, and their skin is quite strong too. When running, they are actively using their powerful front legs and are easily capable of keeping up with heavy cavalry. The only drawback of ratclaws is that they are vulnerable to magic.#
+230. Rage Totem
+#A pile of stones, twigs, bones, covered with obscure scribbles... In reality, this is a cunning trap, to chain Astral Spirits, and use the energy from their fierce attempts to break free to charge the signs engraved on the totem. When the spellcaster who created the totem considers the charge adequate, he releases the spirit, forcing it to follow his command.
+This totem holds captive an Astral Spirit. Once released, it is able to fill allies with courage and fearlessness, and strike fear and despair in the enemy's heart.#
 
-231. Shredder
-#Like many other machines, the shredder was originally designed for peaceful purposes. Thanks to this invention the Screetts managed to settle underground so widely. Drills at the front of the machine penetrate stone, creating fissures and cracks, and their powerful blades complete the process. But the dungeons contain many dangers, and miners often stumble upon them. It is hardly surprising that the stonecutter was often used as a weapon. After a senior Screett engineer saw how the machine was able to kill some slugs encountered by a drilling crew, he immediately began to improve this miracle of technology. The original version is neither good at defense nor speed of movement, but in the military version these deficiencies have been corrected. Already in its first battles the driller filled the enemy with true horror - hardly anything was able to stop the monstrous mechanism, so they called it a Ripper, cutting and crushing and ripping to pieces anything that appears in its path. Combined with its strange and eerie appearance, it can easily convince the enemy of one thing - this product of hell, this rock devouring chariot can only be a portent of the last days before the end of the world. In some provinces, after colliding with this invention, rulers and the Inquisition issued decrees banning anything whatsoever moving on wheels. And although the new, certainly heroic doctrine of the Knights states: "...if you see this peculiar wheel moving swiftly across the battlefield - run for your life", not everyone manages to escape this contraption, moving as fast as the gray avalanche of Ratmen that follows it.
-For the schematics to be turned into a unit for a hero's party it is necessary to build the Craftsmen Guild or the Seeker Laboratory.#
+231. Fire Totem
+#A pile of stones, twigs, bones, covered with obscure scribbles... In reality, this is a cunning trap, to chain Astral Spirits, and use the energy from their fierce attempts to break free to charge the signs engraved on the totem. When the spellcaster who created the totem considers the charge adequate, he releases the spirit, forcing it to follow his command.
+This totem holds captive a Fire Elemental. Once released, it is able to unleash scorching flares upon the caster's enemies, and even materialize shortly as a pure flame.#
 
 232. Plague Master
 #Skreet fighters usually rally around strong, experienced and skilled individuals who have survived numerous battles. They are quite rare, but such Plague Warriors eventually become leaders and mentors for the next generation. Referred to as Plague Masters, they never travel alone. Other Ratmen vigilantly protect them at all times, and would not hesitate to throw themselves in the way of enemy swords or axes, should they threaten a Plague Master.
@@ -939,11 +941,9 @@ Masters can infect their enemies by directing hordes of giant rats carrying horr
 #The apotheosis in a Plague Master's career is getting recognized by his kin as a Grey Overlord - leader of the tribe or the settlement, his reign blessed by the Grand Ratt. Unusually large among Ratmen, their enchanted blade and a helmet-mask crowned with a pair of long curved horns is the last thing seen by the few unlucky adventurers who glimpse a Grey Overlord, moments before they're devoured by hordes of giant rats appearing out of nowhere.
 Their past experience as Plague Masters allows them to crush their enemies under an avalanche of rats carrying deadly diseases. The Grey Overlord himself is also extremely dangerous - his blade soaked in deadly poison not even an experienced warrior can survive.#
 
-234. Grand Ratt
-#If there exists an embodiment of Screett spirit, then it must certainly be the Grand Ratt - a name the ratmen utter in reverence and fear.
-Shrouded in mystery, the Grand Ratt is one of the oldest creatures of Eador. Orc shamans tell of an "evil iron giant" before their rough idols, the "horned nightbearer" appears in Elven legends and the "king of the squeaking spawn" is depicted on the frescoes in dwarven sanctuaries. He is the true Lord of the Screett race, at whose command they will go to war and build cities, and whose appearance is enough for the proudest ratman leader to fall to his knees, not daring to look up.
-Those who have seen the Grand Ratt describe him as a huge ratman with long and magnificent horns. His ominous-looking armor and weapons are mechanisms in which engineering genius and magic is woven together with art, in comparison to which the best creations of his subjects seem but rough creations. What inspires even more respect is how the Grand Ratt is able to appear out of thin air through mysterious portals, surrounded by green flashes of fire, and disappearing again into these gaps to nowhere.
-Combining a brilliant intellect and the immense strength of the Ancients, the Grand Ratt is a being to be reckoned with, even by the Masters. Whole countries are mere pawns in his eternal game, and they will carry out the will of the Ratman Lord without even realizing it. The Grand One himself rarely appears openly before his subjects, preferring to watch the mortals out of the shadows. Only the exceptional importance of a certain decision or a fateful meeting with an ally may beckon it forth. Revealing his strength, the Grand Ratt is a warrior who is even feared by dragons - his enormous power and his incredible speed and strength is capable of destroying a whole army. The Grand Ratt is occasionally "vanquished" in battle, but soon after every supposed defeat, he reappears unscathed. It is said that the Grand Ratt is either always one step ahead of his enemies, or he's immortal - and neither option is encouraging for those who dare to stand in his way.#
+234. Blood Totem
+#A pile of stones, twigs, bones, covered with obscure scribbles... In reality, this is a cunning trap, to chain Astral Spirits, and use the energy from their fierce attempts to break free to charge the signs engraved on the totem. When the spellcaster who created the totem considers the charge adequate, he releases the spirit, forcing it to follow his command.
+This totem holds captive a Spirit that controls the blood of sentient creatures. Once released, it is able to heal the caster's allies and provide them with tremendous strength.#
 
 235. Daokon's Guardian
 #One of the mysteries of the secret Monstrologist Guild is the knowledge of breeding war elephants - a way to significantly enhance the combat capabilities of these huge animals. What is necessary for success, in addition to the fairly high cost of creating powerful equipment and a ritual using rare ingredients, is a really strong and mighty elephant.
@@ -1099,31 +1099,3 @@ The bolder halflings ride on the boar's back. Wild animals are no match for such
 
 282. Tree of the Departed
 #The Alkari believe that there was a time when the souls of their dead came to present themselves before the Lord of Heaven to fight the eternal war with the Enemy, but when the Lord of Heaven fell in battle with the demons, the souls of the Departed lost their shelter. Trying to help their ancestors, mentors have found the solution in the memory of the deity - Children of Heaven, previously dwelling high in the mountains, migrated to the fertile plains, where they grew giant Trees of the Departed capable of hosting alkari souls. These trees have become, on the one hand, the home and the source of sustenance for the living, and on the other - the host of the souls of their ancestors, who can always aid their scions, be it with wise advice or mental power. And although the Tree is immobile, its magical powers are enormous, and each alkari, dead or alive, is ready to die again and again, protecting it from defilement.#
-
-283. Earth Totem
-#A pile of stones, twigs, bones, covered with obscure scribbles... In reality, this is a cunning trap, to chain Astral Spirits, and use the energy from their fierce attempts to break free to charge the signs engraved on the totem. When the spellcaster who created the totem considers the charge adequate, he releases the spirit, forcing it to follow his command.
-This totem holds captive an Earth Elemental. Once released, it is able to summon the power of his element either to protect the caster, or to tear the ground apart beneath the enemy's feet.#
-
-284. Rage Totem
-#A pile of stones, twigs, bones, covered with obscure scribbles... In reality, this is a cunning trap, to chain Astral Spirits, and use the energy from their fierce attempts to break free to charge the signs engraved on the totem. When the spellcaster who created the totem considers the charge adequate, he releases the spirit, forcing it to follow his command.
-This totem holds captive an Astral Spirit. Once released, it is able to fill allies with courage and fearlessness, and strike fear and despair in the enemy's heart.#
-
-285. Fire Totem
-#A pile of stones, twigs, bones, covered with obscure scribbles... In reality, this is a cunning trap, to chain Astral Spirits, and use the energy from their fierce attempts to break free to charge the signs engraved on the totem. When the spellcaster who created the totem considers the charge adequate, he releases the spirit, forcing it to follow his command.
-This totem holds captive a Fire Elemental. Once released, it is able to unleash scorching flares upon the caster's enemies, and even materialize shortly as a pure flame.#
-
-286. Blood Totem
-#A pile of stones, twigs, bones, covered with obscure scribbles... In reality, this is a cunning trap, to chain Astral Spirits, and use the energy from their fierce attempts to break free to charge the signs engraved on the totem. When the spellcaster who created the totem considers the charge adequate, he releases the spirit, forcing it to follow his command.
-This totem holds captive a Spirit that controls the blood of sentient creatures. Once released, it is able to heal the caster's allies and provide them with tremendous strength.#
-
-287. Trap
-#A primitive, but fairly effective mechanical trap. This oversized device can injure even large animals, let alone human-sized creatures. They are often used by Goblins on the "prowl", as they call their vicious raids.
-This trap is able to hinder any non-flying creature, on top of inflicting damage with sharp spikes.#
-
-288. Snare
-#A primitive, but fairly effective mechanical trap. This oversized device can injure even large animals, let alone human-sized creatures. They are often used by Goblins on the "prowl", as they call their vicious raids.
-This trap is able to immobilize almost any non-flying creature, once caught in the noose.#
-
-289. Hornet's Nest
-#A primitive, but fairly effective mechanical trap. This oversized device can injure even large animals, let alone human-sized creatures. They are often used by Goblins on the "prowl", as they call their vicious raids.
-This trap is able to complicate the life of all living creatures, as angry hornets pounce on the reckless who come too close.#

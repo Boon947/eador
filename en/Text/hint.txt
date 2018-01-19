@@ -1,4 +1,4 @@
-Quantity: 44
+Quantity: 45
 
 0. Right-click
 #You can view unit and hero statistics along with other game details by right-clicking on their corresponding icon.#
@@ -132,3 +132,6 @@ Website: www.eador.com#
 
 44. Negotiations
 #Some neutral province guards will only accept to negotiate with a mighty hero or one with a powerful army. Diplomacy plays an important role - an experienced diplomat is more convincing than a small army. Note that other races may be more willing to negotiate, even with a weak hero, if you have signed an alliance with them.#
+
+45. Extra turn
+#Some abilities and powerful magic grant an extra turn. Either way, units cannot get more than two turns.#

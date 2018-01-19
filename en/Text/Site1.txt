@@ -2,40 +2,40 @@
 #No description#
 
 1. Iron Deposit
-#Grants resource: iron.
+#Grants resource: Iron.
 Income +1.#
 
 2. Red Oakwood
-#Grants resource: redwood.
+#Grants resource: Redwood.
 Income +1.#
 
 3. Horse Herd
-#Grants resource: horses.
+#Grants resource: Horses.
 Income +1.#
 
 4. Mandrake Glade
-#Grants resource: mandrake
+#Grants resource: Mandrake
 Gem income +1.#
 
 5. Shimmering Bogs
-#Grants resource: arcanite.
+#Grants resource: Arcanite.
 Gem income +2.#
 
 6. Marble Deposit
-#Grants resource: marble.
+#Grants resource: Marble.
 Income +2.#
 
 7. Mithril Deposit
-#Grants resource: mithril.
+#Grants resource: Mithril.
 Income +3.#
 
 8. Dionite Thicket
-#Grants resource: dionium.
+#Grants resource: Dionium.
 Income +3. 
 Gem income +2.#
 
 9. Black Lotus Marsh
-#Grants resource: black lotus.
+#Grants resource: Black Lotus.
 Gem income +3.#
 
 10. Ancient Crypt
@@ -464,5 +464,5 @@ Reduce province gold income by 50~. Population mood -2.#
 142. Wolf Thicket
 #No description#
 
-143. Wolf Thicket
+143. Dark Cave
 #No description#

@@ -1,4 +1,4 @@
-Quantity: 311
+Quantity: 312
 
 /0 Фон
 Layer: 0
@@ -3119,4 +3119,14 @@ Y: 62
 Group: 5
 Yplace: 0
 Buildings: (288)
+Antibuildings: (289)
+
+/312 Лесной Чертог
+Layer: 2
+Opacity: 0
+X: 46
+Y: 62
+Group: 5
+Yplace: 0
+Buildings: (289)
 Antibuildings: (0)

@@ -3,7 +3,7 @@ Quantity: 2409
 /0
 Window: 0;
 Bitmap: 0;
-Text: #Empty#
+Text: #Are you sure?#
 Answer1: Yes;
 Answer2: No;#####
 
@@ -7079,21 +7079,21 @@ Answer2: Hmm, bad luck...;#####
 /913  ристалл, золото
 Window: 2;
 Bitmap: 9;
-Text: #The crystal flashes for an instant with an unbearably bright light. After the light goes out, a coffer filled with %d gold stands at the foot of the crystal.#
+Text: #The crystal flashes for an instant with an unbearably bright light and disappears. After the light goes out, a coffer filled with %d gold stands in the crystal's place.#
 Answer1: I wonder where that came from.;
 Answer2: This crystal's such a cheapskate...;#####
 
 /914  ристалл, кристаллы
 Window: 2;
 Bitmap: 9;
-Text: #The crystal flashes for an instant with an unbearably bright light. After the light goes out, a coffer filled with %d magic gems stands at the foot of the crystal.#
+Text: #The crystal flashes for an instant with an unbearably bright light and disappears. After the light goes out, a coffer filled with %d magic gems stands in the crystal's place.#
 Answer1: I wonder if they fell out of the crystal?;
 Answer2: Not nearly enough!;#####
 
 /915  ристалл, предмет
 Window: 4;
 Bitmap: 9;
-Text: #The crystal flashes for an instant with an unbearably bright light. After the light goes out, a magic item lies at the foot of the crystal.#
+Text: #The crystal flashes for an instant with an unbearably bright light and disappears. After the light goes out, a magic item lies in the crystal's place.#
 Answer1: Not bad at all.;
 Answer2: What a piece of junk!;#####
 
@@ -14856,11 +14856,12 @@ Answer1: Forest Knowledge.;
 Answer2: Hills Knowledge.;
 Answer3: Swamp Knowledge.;#####
 
-/1938  вест гноллов √номьи бороды (выполнение) - не используетс€
+/1938 (¬еликие ¬рата ’аоса, по€вление)
 Window: 2;
-Bitmap: 167;
-Text: #The Chieftain of the Gnoll squad barked sharply: "You bring me half a dozen face-tails! ARRF! You are strong, grr-ARRF-rrr!"#
-Answer1: What about an alliance?;#####
+Bitmap: 55;
+Text: #Your scouts in the province of %s report that the dreadful Gates of Chaos have suddenly burst into hellish flames and have grown in size. They are now much larger than usual, and the demons swarming around them have multiplied.#
+Answer1: What does that have to do with me?;
+Answer2: It will be something to do at leisure.;#####
 
 /1939 ѕереговоры с гноллами (союз)
 Window: 2;
@@ -14875,20 +14876,22 @@ Text: #Once the giant Devourer has been destroyed, along with his demonic essenc
 Answer1: Hell no, scoundrel! Die!;
 Answer3: Good enough...;#####
 
-/1941 ѕереговоры с гноллами (награда за квест) - не используетс€
+/1941  ристалл, выбор награды
 Window: 2;
-Bitmap: 167;
-Text: #"Gold - everyone loves gold, grrr. Machines - powerful machines, men love machines! ARRF!"#
-Answer1: I'll take gold.;
-Answer2: Let's see these machines.;#####
+Bitmap: 9;
+Text: #In a flash of bright light in front of him, the hero %s sees a magic crystal through which astral energy flows. From somewhere deep inside comes a dispassionate dull voice: ЂThe quest is fulfilled. Choose your reward.ї#
+Answer1: Choose gold.;
+Answer2: Choose gems.;
+Answer3: Choose a magic item.;#####
 
-/1942 ѕереговоры с гноллами (вз€л золото) - не используетс€
+/1942  ристалл, выбор задани€
 Window: 2;
-Bitmap: 167;
-Text: #The gnoll chieftan pulls out a bag and hands it to the hero. There is quite a bit of gold within.
-After some calculations, you find out that your reward is %d gold.#
-Answer1: Foolish overgrown dogs...;
-Answer2: Excellent, most excellent.;#####
+Bitmap: 9;
+Text: #In a flash of bright light in front of him, the hero %s sees a magic crystal through which astral energy flows into this world. According to the ancient Law of Eador, mortal heroes can receive special quests here.#
+Answer1: Choose a quest of low difficulty.;
+Answer2: Choose a quest of medium difficulty.;
+Answer3: Choose a quest of high difficulty.;
+Answer4: Leave.;#####
 
 /1943  вест гноллов √номьи бороды (условие не выполнено) - не используетс€
 Window: 2;
@@ -15938,7 +15941,7 @@ Answer2: Retreat.;#####
 /2082  атакомбы, вход
 Window: 2;
 Bitmap: 197;
-Text: #The hero %s has reached the entrance to some ancient catacombs. Going further he discovers puzzles, treasures, powerful artifacts of the Ancients, traps, plagues, lightning...
+Text: #The hero %s has reached the entrance to some ancient catacombs. Going further he discovers riddles, treasures, powerful artifacts, traps, plagues, poisons...
 This looks and feels like ratmen! As if on cue, he hears the echo of squeaks and squeals - it sounds like they're eager to defend their home.
 Number of enemies: %d.
 The following units were spotted among the enemies: %s.
@@ -16129,7 +16132,7 @@ Answer3: Let's see who's there...;#####
 /2104 Ёксперименты с чумой, начало
 Window: 2;
 Bitmap: 193;
-Text: #Your governor of the province of %s reports that a certain ratman, who calls himself a Master of Decay, asks for permission to perform some magical experiments. He is willing to pay 90 gems for your permission.#
+Text: #Your governor of the province of %s reports that a certain ratman, who calls himself a Plague Master, asks for permission to perform some magical experiments. He is willing to pay 90 gems for your permission.#
 Answer1: Sure, let him experiment.;
 Answer2: Let him experiment. But let no one know about it!;
 Answer3: No experiments!;#####
@@ -16137,30 +16140,30 @@ Answer3: No experiments!;#####
 /2105 Ёксперименты с чумой, разрешить открыто
 Window: 2;
 Bitmap: 19;
-Text: #Being granted his permission, the Master of Decay hands you the agreed fee - 90 gems - and leaves. A short time later you find out that a terrible epidemic has broken out in the province, and many have died of the disease. Because everything has happened with your consent, the inhabitants of the province curse you.#
+Text: #After receiving your permission, the Plague Master hands you the agreed fee - 90 gems - and leaves. A short time later you find out that a terrible epidemic has broken out in the province, and many have died of the disease. Because everything has happened with your consent, the inhabitants of the province curse you.#
 Answer1: It's nothing personal, I just need gems.;
 Answer2: I don't give a damn about those mortals.;#####
 
 /2106 Ёксперименты с чумой, разрешить тайно
 Window: 2;
 Bitmap: 19;
-Text: #Being granted his permission, the Master of Decay departs. A short time later you find out that a terrible epidemic has broken out in the province, and many have died of the disease. The residents are unhappy, as it is rumored that without your participation this wouldn't have happened.
-The Master of Decay returns and hands over the agreed fee in gems less the costs to disguise it: -%d.#
+Text: #After receiving your permission, the Plague Master leaves. A short time later you find out that a terrible epidemic has broken out in the province, and many have died of the disease. The residents are unhappy, as it is rumored that without your participation this wouldn't have happened.
+The Plague Master returns and hands over the agreed fee in gems, minus the costs for the disguise - %d.#
 Answer1: So few gems...;
 Answer2: Well, thanks for that.;#####
 
 /2107 Ёксперименты с чумой, запретить
 Window: 2;
 Bitmap: 193;
-Text: #The Master of Decay listened impassively to the refusal and departed.#
+Text: #The Plague Master listens impassively to your refusal and leaves.#
 Answer1: Let him go!;
 Answer2: Catch up and kill him!;
 Answer3: Rouse the population against Ratmen (-150 $ );#####
 
-/2108 Ёксперименты с чумой, убить ѕовелител€ –аспада
+/2108 Ёксперименты с чумой, убить ћастера чумы
 Window: 2;
 Bitmap: 193;
-Text: #Your soldiers caught up with the Master of Decay and finished him off.#
+Text: #Your soldiers catch up with the Plague Master, and finish him off.#
 Answer1: Excellent!;
 Answer2: What to do, I just hate rats.;#####
 
@@ -16227,7 +16230,7 @@ Answer1: Well, that's good.;
 Answer2: Get a move on!;#####
 
 /2117 ѕотер€вшийс€ крысолюд, награда
-Window: 4;
+Window: 2;
 Bitmap: 195;
 Text: #To honor his promise, the Ratman, who at last found his home, sends you a hiring contract for a mighty guard.#
 Answer1: What a piece of rubbish!;
@@ -16786,7 +16789,7 @@ Answer2: Retreat.;#####
 /2193 Ёксперименты с чумой (хорошее), начало
 Window: 2;
 Bitmap: 193;
-Text: #Your governor of the province of %s reports that a certain ratman, who calls himself a Master of Decay, asks for permission to perform some magical experiments. He is willing to pay 90 gems for your permission.#
+Text: #Your governor of the province of %s reports that a certain ratman, who calls himself a Plague Master, asks for permission to perform some magical experiments. He is willing to pay 90 gems for your permission.#
 Answer1: Sure, let him experiment.;
 Answer2: Let him experiment. But let no one know about it!;
 Answer3: No experiments!;#####
@@ -16794,7 +16797,7 @@ Answer3: No experiments!;#####
 /2194 Ёксперименты с чумой (хорошее), открыто, месторождение
 Window: 2;
 Bitmap: 193;
-Text: #After handing over the agreed fee, the Master of Decay departs. After a while it is reported to you that as a result of the experiments, magic crystals have begun to grow in a local lake. The gem income from the province is increased by %d.
+Text: #After handing over the agreed fee, the Plague Master leaves. After a while it is reported to you that as a result of the experiments, magic crystals have begun to grow in a local lake. The gem income from the province is increased by %d.
 The local residents didn't much like such experiments however, thinking you were going to sacrifice them to the dark gods. And although none of them was hurt, resentment in the province has grown.#
 Answer1: I don't understand why they are discontent?;
 Answer2: Next time I will do it for real!;#####
@@ -16802,7 +16805,7 @@ Answer2: Next time I will do it for real!;#####
 /2195 Ёксперименты с чумой (хорошее), открыто, золота€ жила
 Window: 2;
 Bitmap: 193;
-Text: #After handing over the agreed fee, the Master of Decay departs. After a while it is reported to you that as a result of the experiments, all locusts and other pests have perished. The gold income from the province is increased by %d.
+Text: #After handing over the agreed fee, the Plague Master leaves. After a while it is reported to you that as a result of the experiments, all locusts and other pests have perished. The gold income from the province is increased by %d.
 The local residents didn't much like such experiments however, thinking you were going to sacrifice them to the dark gods. And although none of them was hurt, resentment in the province has grown.#
 Answer1: I don't understand why they are discontent?;
 Answer2: Next time I will do it for real!;#####
@@ -16810,20 +16813,20 @@ Answer2: Next time I will do it for real!;#####
 /2196 Ёксперименты с чумой (хорошее), тайно, месторождение
 Window: 2;
 Bitmap: 193;
-Text: #After getting your permission, the Master of Decay departs and returns after a while to pay you the agreed fee, minus the cost of the disguise - %d gems, then leaves.
+Text: #After receiving your permission, the Plague Master departs, and returns after a while to pay the agreed fee, minus the costs for the disguise - %d gems, then leaves.
 After a while it is reported to you that as a result of the experiments, magic crystals have begun to grow in a local lake, which has increased your gem income from the province by 2.#
 Answer1: That's just great!;
 Answer2: That's not a lot...;
-Answer3: Reward the Master of Decay (-100 $ );#####
+Answer3: Reward the Plague Master (-100 $ );#####
 
 /2197 Ёксперименты с чумой (хорошее), тайно, золота€ жила
 Window: 2;
 Bitmap: 193;
-Text: #After getting your permission, the Master of Decay departs and returns after a while to pay you the agreed fee, minus the cost of the disguise - %d gems, then leaves.
+Text: #After receiving your permission, the Plague Master departs, and returns after a while to pay the agreed fee, minus the costs for the disguise - %d gems, then leaves.
 After a while it is reported to you that as a result of the experiments, all locusts and other pests have perished, and the gold income from the province has increased by 3.#
 Answer1: That's just great!;
 Answer2: That's not a lot...;
-Answer3: Reward the Master of Decay (-100 $ );#####
+Answer3: Reward the Plague Master (-100 $ );#####
 
 /2198 —амозванец - лечение, удачно
 Window: 2;

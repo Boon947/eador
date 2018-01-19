@@ -77,7 +77,7 @@
 #Under the influence of this spell, the unit recovers health for any damage dealt.#
 
 26. Atrophy
-#The unit is infected with a disease. It loses 2 stamina each turn, Attack attributes are decreased by 3, Speed by 1.#
+#The unit is infected with a disease. It loses 2 Stamina each turn, Attack attributes are decreased by 3, Speed by 1.#
 
 27. Stone Skin
 #The unit's armor is increased by 5, his resistance by 3.#
@@ -248,7 +248,7 @@
 #The power of Chaos allows the unit to heal its wounds by killing living creatures in melee.#
 
 83. Swiftness
-#A spell increased the unit's speed by 1. Each turn the unit restores 2 points of stamina.#
+#A spell increased the unit's speed by 1. Each turn the unit recovers 2 Stamina.#
 
 84. Demon Slayer
 #The unit deals more damage to evil creatures, especially demons and undead.#
@@ -445,7 +445,7 @@ It loses 3 points of stamina and morale each turn.#
 #A thick Stone Crust covers the unit's entire body, increasing Armor by 4 and Resistance by 2, and prevents movement. If the caster is an ally, the unit recovers 4 HP each turn, if an enemy, it loses 4 HP.#
 
 148. Mass Cold Immunity
-#The unit is immune to cold spells. Defense of the unit is increased by 1. Each turn the unit restores 1 hit point.#
+#The unit is immune to cold spells. Defense of the unit is increased by 1. Each turn the unit recovers 1 HP.#
 
 149. Mass Grounding
 #The unit is immune to lightning spells. The unit's resistance is increased by 1. The unit restores 1 point of stamina each turn.#
@@ -517,7 +517,7 @@ It loses 3 points of stamina and morale each turn.#
 #The unit's armor is enchanted. This spell increases its Resistance at least by 3.#
 
 172. Caustic Mixture
-#Reduces the unit's defense attributes by 3. The unit suffers 3 points of damage each turn.#
+#Reduces the unit's defense attributes by 3. Acid deals 3 HP of damage each turn.#
 
 173. Chilling Touch
 #The unit is paralyzed. It cannot act.#
@@ -538,22 +538,22 @@ It loses 3 points of stamina and morale each turn.#
 #Lord of Darkness' spell increases unit's Strength by 2, Armor and Resistance by 1.#
 
 179. Mental Support
-#The unit's summoning power is increased by 2.#
+#The unit's summoning power is increased by 4.#
 
 180. Mental Duel
-#All the unit's magical abilities - the strength and duration of spells, summoning power, undead summoning power and resistance - are reduced by 2. The unit loses 2 points of stamina each turn.#
+#All the unit's magical abilities - the strength and duration of spells, summoning power, undead summoning power and resistance - are reduced by 3. The unit loses 2 points of stamina each turn.#
 
 181. Mental Sermon
 #The unit restores 4 hit points and 2 stamina points each turn. Smite Evil is increased by 1.#
 
 182. Mental Resonance
-#The unit's magical abilities are increased - strength and duration of spells by 2, Summoning Power by 4, Resistance Negation by 1. Each turn the unit restores 2 points of stamina.#
+#The unit's magical abilities are increased - Spell Power, Spell Duration and Resistance Negation by 2, Summoning Power by 4. Each turn the unit recovers 2 Stamina.#
 
 183. Act of Faith
 #The unit possesses Reincarnation and is immune to pain. Its Smite Evil is increased by 4.#
 
 184. Mental Shadow
-#All the unit's magical abilities - the strength and duration of spells, summoning power, undead summoning power and resistance - are reduced by 2. The unit loses 2 points of stamina each turn.#
+#All the unit's magical abilities - the strength and duration of spells, summoning power, undead summoning power and resistance - are reduced by 3. The unit loses 2 points of stamina each turn.#
 
 185. Hunter's Net
 #The unit is entangled in a hunter's net and can't do anything.#
@@ -628,7 +628,7 @@ The unit's resistance is reduced by half, it loses 2 morale points each turn and
 #The unit's wounds cannot be healed.#
 
 208. Elemental Strength
-#Spellpower and Spell Duration increase by 1. Summoning Power increased by 3.#
+#Spellpower and Spell Duration increase by 1. Summoning Power is increased by 3.#
 
 209. Mockery
 #The unit has been influenced by the bard's mockery. The enchanted unit loses 1 point of stamina each turn.#
@@ -649,7 +649,7 @@ The unit's resistance is reduced by half, it loses 2 morale points each turn and
 #Inspired by the power of Chaos, the unit receives an extra turn for killing an enemy in melee. Attack is increased by 6, Counterattack is reduced by 6.#
 
 215. Subdue Beast
-#Animal controlled by an enemy spell.#
+#Animal is controlled by an enemy spell.#
 
 216. Fever Hotbed
 #This unit received Interception and the ability to transmit Fever in melee, at the cost of some health each turn. When the unit dies, all adjacent enemies are infected with Fever.#
@@ -666,5 +666,13 @@ The unit's resistance is reduced by half, it loses 2 morale points each turn and
 220. Exorcism
 #The unit is immobilized, but can still attack, shoot, and cast spells.#
 
-221. Dodge
+221. Swamp Rage
+#While the unit is in a swamp, Defense, Ranged Defense, and Regeneration are increased by %d.
+Effect lasts until unit recovers.#
+
+222. Dodge
 #The unit's Ranged Defense is increased by %d due to special combat abilities.#
+
+223. Swallowing Enemy
+#The unit has swallowed an enemy, and is now digesting it, recovering %d HP each turn. The unit's speed is decreased by 1.
+If the unit dies before digestion is complete, it will perish forever, and the swallowed enemy will be able to escape.#

@@ -1,4 +1,4 @@
-Quantity: 129
+Quantity: 133
 
 0. Empty
 #No description#
@@ -362,7 +362,7 @@ Your world is the main source of Energy income. Each Shard joined to your world 
 #Try powerful spells and rituals, train elite warriors and fight huge monsters. Obtain legendary artifacts and collect rare armor sets.#
 
 113. Hint Miscellaneous
-# New Horizons 16.0901.f01 - English translation v2.70b#
+# New Horizons 17.1001.f04 - English translation v2.80a#
 
 114. No lottery
 #  
@@ -415,3 +415,19 @@ The quest will be considered completed once the hero and his army destroy at lea
 
 129. Hint Scroll creation - Cost
 #   %d,    %d.#
+
+130. Hint for unit promotion - later
+#Once level %d is reached, unit may be promoted.
+New unit type after promotion: %s.#
+
+131. Hint for unit promotion - currently
+#Unit may be promoted immediately (available at level %d). After the promotion, unit will lose almost all accumulated experience, but will be able to develop above the usual ceiling. In addition, improved units often receive additional abilities that are inaccessible to ordinary units.
+You may promote the unit at any level, it will only lose the experience required for promotion.
+New unit type after promotion: %s.
+A promoted unit will be fully healed.#
+
+132. Composition of Hero's army
+#Army composition:#
+
+133. Army composition - Cost
+#    %d      %d#
