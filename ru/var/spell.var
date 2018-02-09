@@ -1215,7 +1215,7 @@ Duration: -1;
 
 /32
 Name: Каменный дождь;
-Cost: 15
+Cost: 11
 LifeCost: 0
 StamCost: 4
 ItemLevel: 3
@@ -8480,18 +8480,18 @@ ResistPower: 0
 ResistDuration: 0
 DefencePower: 0
 RestoreOnly: 0
-Cumulative: 1
+Cumulative: 0
 Sound: 21
 UnitKind: (21)
 AntiEffect: (110, 80)
 
 Effects:
 Defence: 4
-Power: -3
+Power: -4
 Duration: 4
 
 Ranged_defence: 5
-Power: -3
+Power: -4
 Duration: 4;
 
 /225
@@ -9982,7 +9982,7 @@ Duration: -1;
 
 /263
 Name: Каменная корка;
-Cost: 11
+Cost: 12
 LifeCost: 0
 StamCost: 2
 ItemLevel: 2
@@ -10434,7 +10434,7 @@ Duration: -1;
 
 /275
 Name: Призвать волка;
-Cost: 5
+Cost: 4
 LifeCost: 0
 StamCost: 1
 ItemLevel: 2
