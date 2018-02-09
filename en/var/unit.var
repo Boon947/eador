@@ -11635,12 +11635,11 @@ Abilityes:
 Necromancer: 321
 Summon: 364
 UndeadMastery2: 574
-Cast_Vulnerability: 116
 Cast_Fear: 121
 Cast_Raise_Skeleton: 122;
 		
 Lvl 01 upgrades: (1, 4; 20, 4; 7, 3; 34, 4)
-Lvl 02 upgrades: (10, 3; 16, 4; 30, 4)
+Lvl 02 upgrades: (10, 3; 16, 4; 364, 2; 30, 4)
 Lvl 03 upgrades: (1, 4; 27, 4; 4, 3; 150, 4)
 Lvl 04 upgrades: (30, 4; 20, 4; 13, 3; 573, 4)
 Lvl 05 upgrades: (1, 4; 16, 4; 7, 3; 136, 5)
@@ -11657,7 +11656,7 @@ Lvl 15 upgrades: (2, 4; 27, 4; 4, 3; 574, 4)
 Lvl 16 upgrades: (31, 4; 20, 4; 13, 3; 578, 5)
 Lvl 17 upgrades: (2, 4; 17, 4; 7, 3; 34, 4; 153, 6)
 Lvl 18 upgrades: (31, 4; 27, 4; 10, 3; 573, 4)
-Lvl 19 upgrades: (2, 4; 21, 4; 4, 3; 364, 5)
+Lvl 19 upgrades: (2, 4; 21, 4; 4, 3; 388, 5)
 Lvl 20 upgrades: (31, 4; 17, 4; 13, 3; 150, 4)
 
 Lvl 01 loot: (2, 4; 6, 5; 64, 3)
@@ -14240,7 +14239,7 @@ Aimed_Hit1: 129
 Parry: 590
 Preparation: 658
 Strike_and_return: 274
-Strike_and_return: 108;
+Round_attack: 108;
 		
 Lvl 01 upgrades: (1, 4; 34, 4; 127, 4; 16, 4)
 Lvl 02 upgrades: (30, 4; 13, 3; 4, 4; 645, 4)
@@ -15379,6 +15378,7 @@ Magic_Shot: 58
 Curse: 73
 Summon_Imp: 401
 Summoner: 364
+Cast_Vulnerability: 116
 Strike_Vulnerability: 703;
 		
 Lvl 01 upgrades: (1, 4; 20, 4; 7, 3; 34, 4)

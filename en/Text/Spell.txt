@@ -1501,9 +1501,8 @@ Has no effect on the Undead, Animals, and Elementals.#
 
 224. Dissolve Armor
 #Circle 1.
-School: Chaos Magic.
-The effect of this spell is cumulative.
-Decreases target's defense attributes by 3. Lasts 4 turns. Ignores magic resistance.
+School: Necromancy.
+Decreases target's defense attributes by 4. Lasts 4 turns. Ignores magic resistance.
 Duration increases with the caster's Concentration.
 Has no effect on Chaos Lords and incorporeal creatures.#
 

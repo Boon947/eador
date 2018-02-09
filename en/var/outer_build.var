@@ -1066,6 +1066,10 @@ Param2: 0
 
 Ability: 11
 Param1: 1
+Param2: 0
+
+Ability: 16
+Param1: 1
 Param2: 0;
 
 /22
@@ -1129,6 +1133,10 @@ Param2: 0
 
 Ability: 11
 Param1: 1
+Param2: 0
+
+Ability: 16
+Param1: 1
 Param2: 0;
 
 /23
@@ -1191,6 +1199,10 @@ Param1: 10
 Param2: 0
 
 Ability: 11
+Param1: 1
+Param2: 0
+
+Ability: 16
 Param1: 1
 Param2: 0;
 

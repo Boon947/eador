@@ -122,7 +122,7 @@ Third rank garrison.
 Increases spotting range.
 Increases the morale of province defenders by 4.
 Allows heroes to recruit troops in this province.
-Guards in this province are incorruptible.#
+Guards in this province are incorruptible and fearless.#
 
 22. Fortress
 #Citadel Upgrade.
@@ -132,7 +132,7 @@ Fourth rank garrison.
 Increases spotting range.
 Increases the morale of province defenders by 6.
 Allows heroes to recruit troops in this province.
-Guards in this province are incorruptible.#
+Guards in this province are incorruptible and fearless.#
 
 23. Castle
 #Fortress Upgrade.
@@ -142,7 +142,7 @@ Full fourth rank garrison.
 Increases spotting range.
 Increases the morale of province defenders by 10.
 Allows heroes to recruit troops in this province.
-Guards in this province are incorruptible.#
+Guards in this province are incorruptible and fearless.#
 
 24. Infirmary
 #Increases population growth.

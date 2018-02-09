@@ -3289,7 +3289,7 @@ Answer1: Excellent!;#####
 /419 Древний храм, задание (упокоение скелетов, получение)
 Window: 2;
 Bitmap: 74;
-Text: #"Then listen. Indeed, dark are the souls of those magicians called necromancers, for there is no evil greater than raising the human bones from their grave. The soul of a restless dead knows no peace, and only by obliterating this creation of dark sorcery can you deliver it salvation. Go forth, and destroy fifteen skeletons, so that which must turn to dust is put to eternal rest, and their souls are released from torment. Be aware that not all skeletons are alike, some wield spears, some even have four arms. There are also some shrouded in darkness."#
+Text: #"Then listen. Truly dark are the souls of necromancers, for there is no evil greater than raising human bones from their grave. The soul of a restless dead knows no peace, and only by obliterating this creation of dark sorcery can you deliver it salvation. Go forth, and destroy fifteen skeletons, so that which must turn to dust is put to eternal rest, and their souls are released from torment. Not all skeletons are alike, some wield spears, some have four arms. Some are even shrouded in darkness."#
 Answer1: I shall do this in the name of Light!;
 Answer2: All right, I'll see what I can do...;#####
 
@@ -6781,7 +6781,7 @@ Answer2: I don't need these bullmen.;#####
 /874 Гнёзда гарпий, вход
 Window: 2;
 Bitmap: 32;
-Text: #The hero %s has reached a hill that has caught the harpies' fancy. These winged rogues often raid neighboring settlements in search of easy prey. They have gathered quite a good collection of valuables from these attacks, but they certainly won't be giving up the treasures without a fight! Everyone knows that harpies are greedy for gold, perhaps the hero will succeed in recruiting some of them into his party.
+Text: #The hero %s has reached a hill that has caught the harpies' fancy. These winged rogues often raid neighboring settlements in search of easy prey. They have plundered many valuables, but will most definitely not give them up easily. Everyone knows that harpies are greedy for gold, perhaps the hero will succeed in recruiting some of them into his party.
 Number of enemies: %d.
 The following units were spotted among the enemies: %s.
 What are your orders, Master?#
@@ -9003,7 +9003,7 @@ Answer3: I need to ask Zarr about these keys.;#####
 /1168 Ключ Истины 1
 Window: 2;
 Bitmap: 0;
-Text: #A wounded old man has come to your castle. His wounds are so terrible it's hard to believe the elderly man is still alive. Apparently, he has some powerful spell cast over him. The old man says that he is the last of the ancient cult of the Keepers of Truth. Not long ago, their temple in the province of the Valley of the Ancients was invaded by an army of Chaos. If the demons are not stopped, sooner or later they will find the secret cache and destroy the Key of Truth, and the Ancient Knowledge will be lost forever. Having said this, the old man breathes his last.
+Text: #A wounded old man arrives at your castle. His wounds are so terrible it is hard to fathom how he can still be alive. Probably some powerful spell. The old man says he is the last of an ancient cult, the Keepers of Truth. Not long ago, their temple in the Valley of the Ancients was invaded by an army of Chaos. If the demons are not stopped, sooner or later they will find the secret cache and destroy the Key of Truth, and the Ancient Knowledge will be lost forever. Having said this, the old man dies.
 #
 Answer1: Bury the old man.;
 Answer2: Let the magicians resurrect the old man. (-25 & );
@@ -10544,7 +10544,7 @@ Answer2: Retreat.;#####
 /1374 Задание провинции логово разбойников, предложение
 Window: 2;
 Bitmap: 0;
-Text: #The deputy of the province of %s addresses your hero: «Honorable %s! Of course, I understand that you are going about the business of our truly fairest of all Masters, but would you be so kind as to find some of your priceless time for me? The thing is that we get no peace in our province with these bandits around. Their lair is located somewhere close to the settlement, and the scum are constantly raiding traders and the houses of local people. Could you find this den of bandits and destroy it? My gratitude will have no bounds, trust me!»#
+Text: #The deputy of the province of %s addresses your hero: «Honorable %s! I understand that you are busy doing the fairest of all Masters' bidding, but could you spare some of your time for me? The thing is that we get no peace in our province with these bandits around. Their lair is located somewhere close to the settlement, and the scum are constantly raiding traders and the houses of local people. Could you find this den of bandits and destroy it? My gratitude will have no bounds, trust me!»#
 Answer1: All right. I'll take care of it.;
 Answer2: I don't have time for this. Get out of my way!;
 Answer3: Unfortunately, I'm too busy right now.;#####
@@ -14002,7 +14002,7 @@ Answer2: What a trifle.;#####
 Window: 2;
 Bitmap: 128;
 Text: #The governor of %s has discovered documents exposing prominent members of the community as being guilty of nefarious affairs. It seems these documents were stolen from an unknown source. Nevertheless, after investigations proved these claims as truth, the guilty were condemned. Now, after letters have spread demanding confessions from potential perpetrators, numerous figures have stepped forward to claim repentance.
-These confessions have led to a reduction of corruption throughout the province.#
+Corruption in the province is down!#
 Answer1: Excellent!;#####
 
 /1831 Тёмный клан
@@ -14016,7 +14016,7 @@ Answer3: Hire them.;#####
 /1832 Древняя усыпальница (вход)
 Window: 2;
 Bitmap: 112;
-Text: #The hero %s approaches a gloomy tomb. Here, the undead crawl throughout the sepulchural surroundings
+Text: #The hero %s approaches a gloomy tomb. The ancient unrelenting evil inside poisons the air.
 Number of enemies: %d.
 The following units were spotted among the enemies: %s.
 What are your orders, Master?#

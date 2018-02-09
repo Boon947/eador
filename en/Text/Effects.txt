@@ -383,7 +383,7 @@
 #Blessing of Darkness gives the unit more deadly weapon. All attacks of the unit are increased by 2, a shot easily pierces the best armor, reduces the morale of enemies and puts a curse on them.#
 
 128. Dissolve Armor
-#Reduces the unit's defense attributes by 3.#
+#Reduces the unit's defense attributes by 4.#
 
 129. Cat's Reflexes
 #The unit gains the ability to attack enemies without being counterattacked, even against agile counterattack opponents.#
