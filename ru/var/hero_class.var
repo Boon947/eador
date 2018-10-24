@@ -144,9 +144,9 @@ Talent5: 960, 252
 
 /19
 Name: Некромант;
-Talent1: 909, 5
+Talent1: 909, 3
 Talent2: 910, 1
-Talent3: 906, 2
+Talent3: 906, 1
 Talent4: 960, 253
 Talent5: 0, 0
 
@@ -272,16 +272,16 @@ Talent5: 960, 277
 
 /35
 Name: Мастер-некромант;
-Talent1: 909, 5
+Talent1: 909, 3
 Talent2: 910, 1
-Talent3: 906, 2
+Talent3: 906, 1
 Talent4: 960, 278
 Talent5: 0, 0
 
 /36
 Name: Архимаг;
 Talent1: 984, 2
-Talent2: 960, 275
-Talent3: 0, 0
+Talent2: 953, 1
+Talent3: 960, 275
 Talent4: 0, 0
 Talent5: 0, 0

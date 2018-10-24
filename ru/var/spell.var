@@ -1,4 +1,4 @@
-Quantity: 379
+Quantity: 386
 
 /0
 Name: Пусто;
@@ -1704,7 +1704,7 @@ Negative: 1
 OnEnemy: 1
 OnAlly: 0
 Sacrifice: 0
-ResistPower: 200
+ResistPower: 100
 ResistDuration: 0
 DefencePower: 0
 RestoreOnly: 0
@@ -2448,7 +2448,7 @@ Negative: 1
 OnEnemy: 1
 OnAlly: 1
 Sacrifice: 0
-ResistPower: 200
+ResistPower: 100
 ResistDuration: 0
 DefencePower: 0
 RestoreOnly: 0
@@ -2803,7 +2803,7 @@ StamCost: 4
 ItemLevel: 4
 Level: 4
 PowerMod: 0
-DurationMod: 50
+DurationMod: 25
 Target: 1
 Area: 1
 Radius: 0
@@ -5009,7 +5009,7 @@ Duration: -1;
 Name: Шторм;
 Cost: 18
 LifeCost: 0
-StamCost: 5
+StamCost: 6
 ItemLevel: 8
 Level: 5
 PowerMod: 200
@@ -6740,7 +6740,7 @@ LifeCost: 0
 StamCost: 3
 ItemLevel: 8
 Level: 5
-PowerMod: 0
+PowerMod: 100
 DurationMod: 0
 Target: 3
 Area: 1
@@ -6763,7 +6763,7 @@ AntiEffect: (19, 110, 104)
 
 Effects:
 Morale: 12
-Power: 8
+Power: 10
 Duration: -1;
 
 /181
@@ -9750,7 +9750,7 @@ Duration: -1;
 Name: Солнечный взрыв;
 Cost: 120
 LifeCost: 0
-StamCost: 10
+StamCost: 9
 ItemLevel: 8
 Level: 5
 PowerMod: 100
@@ -14643,4 +14643,279 @@ AntiEffect: (0)
 Effects:
 Summon: 1082
 Power: 0
+Duration: -1;
+
+/380
+Name: Защита Леса;
+Cost: 0
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 0
+Area: 0
+Radius: 0
+Karma: 0
+Building: 0
+Unloot: 1
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 304
+UnitKind: (0)
+AntiEffect: (110)
+
+Effects:
+Defence_Area: 3004
+Power: 2
+Duration: 4
+
+RangeDefence_Area: 3005
+Power: 2
+Duration: 4;
+
+/381
+Name: Могущество Леса;
+Cost: 0
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 0
+Area: 0
+Radius: 0
+Karma: 0
+Building: 0
+Unloot: 1
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 304
+UnitKind: (0)
+AntiEffect: (110)
+
+Effects:
+Attack_Area: 3002
+Power: 2
+Duration: 4
+
+CounterAttack_Area: 3003
+Power: 2
+Duration: 4
+
+Defence_Area: 3004
+Power: 2
+Duration: 4
+
+RangeDefence_Area: 3005
+Power: 2
+Duration: 4
+
+RangedAttack_Area: 3008
+Power: 2
+Duration: 4;
+
+/382
+Name: Благословение Леса;
+Cost: 0
+LifeCost: 0
+StamCost: 3
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 0
+Area: 0
+Radius: 0
+Karma: 0
+Building: 0
+Unloot: 1
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 304
+UnitKind: (0)
+AntiEffect: (110)
+
+Effects:
+Attack_Area: 3002
+Power: 2
+Duration: 4
+
+CounterAttack_Area: 3003
+Power: 2
+Duration: 4
+
+Defence_Area: 3004
+Power: 2
+Duration: 4
+
+RangeDefence_Area: 3005
+Power: 2
+Duration: 4
+
+RangedAttack_Area: 3008
+Power: 2
+Duration: 4
+
+Supplyer: 167
+Power: 2
+Duration: 4;
+
+/383
+Name: Обратить в медведя;
+Cost: 25
+LifeCost: 0
+StamCost: 4
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Unloot: 1
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 244
+UnitKind: (-1)
+AntiEffect: (110)
+
+Effects:
+Morph: 1210
+Power: 1
+Duration: 5;
+
+/384
+Name: Духовная связь;
+Cost: 6
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 0
+DurationMod: 100
+Target: 1
+Area: 1
+Radius: 0
+Karma: 1
+Building: 0
+Unloot: 1
+Negative: 0
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 17
+UnitKind: (-1)
+AntiEffect: (0)
+
+Effects:
+RedStaminaCost: 280
+Power: 1
+Duration: 4;
+
+/385
+Name: Цепь жизни;
+Cost: 3
+LifeCost: 0
+StamCost: 1
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 1
+Area: 1
+Radius: 0
+Karma: 2
+Building: 0
+Unloot: 1
+Negative: 1
+OnEnemy: 0
+OnAlly: 1
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 17
+UnitKind: (-1)
+AntiEffect: (285)
+
+Effects:
+RedLifeCost: 285
+Power: 1
+Duration: 4;
+
+/386
+Name: Испивание душ;
+Cost: 17
+LifeCost: 0
+StamCost: 2
+ItemLevel: 8
+Level: 5
+PowerMod: 200
+DurationMod: 0
+Target: 0
+Area: 0
+Radius: 1
+Karma: -3
+Building: 0
+Unloot: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 305
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (110)
+
+Effects:
+Drain: 71
+FlagEffect: 1
+FlagEffect: 1
+
+Damage: 1
+Power: 8
 Duration: -1;

@@ -1,4 +1,4 @@
-Quantity: 753
+Quantity: 796
 
 /0
 Name: Пусто;
@@ -127,11 +127,11 @@ Upg Type: 6
 Quantity: 2;
 
 /18
-Name: Сопротивление +3;
+Name: Снижение платы;
 Only Once: 0
-Need: (0)
-Upg Type: 6
-Quantity: 3;
+Need: (85)
+Upg Type: 284
+Quantity: 1;
 
 /19
 Name: Скорость +1;
@@ -432,7 +432,7 @@ Quantity: 1;
 
 /58
 Name: Магический выстрел;
-Only Once: 0
+Only Once: 1
 Need: (0)
 Upg Type: 28
 Quantity: 1;
@@ -849,14 +849,11 @@ Upg Type: 2010
 Quantity: 1;
 
 /116
-Name: Вызов уязвимости;
+Name: Вызов беса;
 Only Once: 1
-Need: (0)
-Upg Type: 2021
-Quantity: 1
-
-Upg Type: 311
-Quantity: 1;
+Need: (310)
+Upg Type: 2019
+Quantity: 2;
 
 /117
 Name: Взрыв;
@@ -908,17 +905,14 @@ Upg Type: 2003
 Quantity: 1;
 
 /124
-Name: Вызов беса;
+Name: Вызов уязвимости;
 Only Once: 1
-Need: (311)
-Upg Type: 311
-Quantity: -1
-
+Need: (0)
 Upg Type: 310
 Quantity: 1
 
-Upg Type: 2019
-Quantity: 2;
+Upg Type: 2021
+Quantity: 1;
 
 /125
 Name: Снятие чар;
@@ -993,10 +987,7 @@ Quantity: 1;
 /135
 Name: Страх;
 Only Once: 1
-Need: (311)
-Upg Type: 311
-Quantity: -1
-
+Need: (0)
 Upg Type: 309
 Quantity: 1
 
@@ -1286,6 +1277,9 @@ Need: (0)
 Upg Type: 220
 Quantity: 1
 
+Upg Type: 908
+Quantity: 10
+
 Upg Type: 355
 Quantity: 1;
 
@@ -1444,28 +1438,28 @@ Quantity: 1;
 /193
 Name: Призыв гворна;
 Only Once: 1
-Need: (0)
+Need: (366)
 Upg Type: 2092
 Quantity: 3;
 
 /194
 Name: Волшебный щит;
 Only Once: 1
-Need: (0)
+Need: (366)
 Upg Type: 2093
 Quantity: 2;
 
 /195
 Name: Призвать рой ос;
 Only Once: 1
-Need: (0)
+Need: (366)
 Upg Type: 2094
 Quantity: 1;
 
 /196
 Name: Призвать тучу ос;
 Only Once: 1
-Need: (0)
+Need: (366)
 Upg Type: 2095
 Quantity: 5;
 
@@ -1824,23 +1818,26 @@ Upg Type: 2129
 Quantity: 1;
 
 /245
-Name: Искры;
+Name: Путь Звёзд;
 Only Once: 1
 Need: (0)
 Upg Type: 2130
+Quantity: 1
+
+Upg Type: 367
 Quantity: 1;
 
 /246
 Name: Электрошок;
 Only Once: 1
-Need: (0)
+Need: (367)
 Upg Type: 2131
 Quantity: 2;
 
 /247
 Name: Шторм;
 Only Once: 1
-Need: (0)
+Need: (367)
 Upg Type: 2132
 Quantity: 3;
 
@@ -2733,9 +2730,9 @@ Quantity: 5;
 /348
 Name: Ливень стрел;
 Only Once: 1
-Need: (0)
+Need: (367)
 Upg Type: 2184
-Quantity: 5;
+Quantity: 4;
 
 /349
 Name: Контроль нежити;
@@ -3451,9 +3448,9 @@ Quantity: 4;
 /436
 Name: Солнечный взрыв;
 Only Once: 0
-Need: (0)
+Need: (365)
 Upg Type: 2257
-Quantity: 6;
+Quantity: 5;
 
 /437
 Name: Клич некроманта;
@@ -3890,7 +3887,7 @@ Quantity: 1;
 /473
 Name: Призвать медведя;
 Only Once: 1
-Need: (0)
+Need: (366)
 Upg Type: 2276
 Quantity: 3;
 
@@ -5062,11 +5059,11 @@ Upg Type: 57
 Quantity: 3;
 
 /603
-Name: Зачарованные стрелы +2;
+Name: Пылающие стрелы +1;
 Only Once: 0
-Need: (60)
-Upg Type: 60
-Quantity: 2;
+Need: (363)
+Upg Type: 144
+Quantity: 1;
 
 /604
 Name: Алкари;
@@ -5249,7 +5246,7 @@ Name: Сила призыва нежити;
 Only Once: 0
 Need: (2014)
 Upg Type: 909
-Quantity: 1;
+Quantity: 2;
 
 /622
 Name: Бешенство;
@@ -6083,7 +6080,7 @@ Quantity: 1;
 /725
 Name: Волшебный клык;
 Only Once: 1
-Need: (0)
+Need: (366)
 Upg Type: 2260
 Quantity: 1;
 
@@ -6337,10 +6334,13 @@ Upg Type: 144
 Quantity: 1;
 
 /750
-Name: Гнев болот +1;
-Only Once: 0
+Name: Защита Леса;
+Only Once: 1
 Need: (0)
-Upg Type: 49
+Upg Type: 189
+Quantity: 380
+
+Upg Type: 360
 Quantity: 1;
 
 /751
@@ -6366,3 +6366,415 @@ Only Once: 0
 Need: (268)
 Upg Type: 268
 Quantity: 5;
+
+/754
+Name: Могущество Леса;
+Only Once: 1
+Need: (360)
+Upg Type: 189
+Quantity: 1
+
+Upg Type: 360
+Quantity: -1
+
+Upg Type: 361
+Quantity: 1;
+
+/755
+Name: Благословение Леса;
+Only Once: 1
+Need: (361)
+Upg Type: 189
+Quantity: 1
+
+Upg Type: 361
+Quantity: -1
+
+Upg Type: 362
+Quantity: 1;
+
+/756
+Name: Путь Силы;
+Only Once: 1
+Need: (357)
+Upg Type: 162
+Quantity: 283
+
+Upg Type: 357
+Quantity: -1
+
+Upg Type: 358
+Quantity: 1;
+
+/757
+Name: Путь Ловкости;
+Only Once: 1
+Need: (357)
+Upg Type: 162
+Quantity: 284
+
+Upg Type: 357
+Quantity: -1
+
+Upg Type: 359
+Quantity: 1;
+
+/758
+Name: Усиление чар;
+Only Once: 1
+Need: (0)
+Upg Type: 2374
+Quantity: 2;
+
+/759
+Name: Меняющий Облик;
+Only Once: 1
+Need: (0)
+Upg Type: 16
+Quantity: 1
+
+Upg Type: 76
+Quantity: 2
+
+Upg Type: 357
+Quantity: 1;
+
+/760
+Name: Путь Огня;
+Only Once: 0
+Need: (0)
+Upg Type: 144
+Quantity: 2
+
+Upg Type: 363
+Quantity: 1;
+
+/761
+Name: Путь Ветра;
+Only Once: 0
+Need: (364)
+Upg Type: 8
+Quantity: 1
+
+Upg Type: 9
+Quantity: 1
+
+Upg Type: 364
+Quantity: 1;
+
+/762
+Name: Снайперский выстрел;
+Only Once: 1
+Need: (363)
+Upg Type: 78
+Quantity: 3;
+
+/763
+Name: Путь Воды;
+Only Once: 1
+Need: (0)
+Upg Type: 8
+Quantity: 10
+
+Upg Type: 9
+Quantity: 5
+
+Upg Type: 28
+Quantity: 1
+
+Upg Type: 365
+Quantity: 1;
+
+/764
+Name: Путь Земли;
+Only Once: 1
+Need: (0)
+Upg Type: 907
+Quantity: 6
+
+Upg Type: 911
+Quantity: 2
+
+Upg Type: 2275
+Quantity: 1
+
+Upg Type: 366
+Quantity: 1;
+
+/765
+Name: Дистанционная атака +1;
+Only Once: 0
+Need: (365)
+Upg Type: 8
+Quantity: 1;
+
+/766
+Name: Дистанционная атака +2;
+Only Once: 0
+Need: (365)
+Upg Type: 8
+Quantity: 2;
+
+/767
+Name: Контроль энергий +2;
+Only Once: 0
+Need: (365)
+Upg Type: 95
+Quantity: 2;
+
+/768
+Name: Сила призыва +4;
+Only Once: 0
+Need: (366)
+Upg Type: 907
+Quantity: 4
+
+Upg Type: 911
+Quantity: 1;
+
+/769
+Name: Длительность заклинаний;
+Only Once: 0
+Need: (366)
+Upg Type: 906
+Quantity: 1;
+
+/770
+Name: Дальность выстрела +1;
+Only Once: 0
+Need: (365)
+Upg Type: 9
+Quantity: 1;
+
+/771
+Name: Обратить в медведя;
+Only Once: 1
+Need: (366)
+Upg Type: 2383
+Quantity: 3;
+
+/772
+Name: Дополнительный выстрел;
+Only Once: 1
+Need: (365)
+Upg Type: 20
+Quantity: 4;
+
+/773
+Name: Путь Солнца;
+Only Once: 1
+Need: (0)
+Upg Type: 8
+Quantity: 8
+
+Upg Type: 9
+Quantity: 1
+
+Upg Type: 95
+Quantity: 3
+
+Upg Type: 368
+Quantity: 1;
+
+/774
+Name: Дистанционная атака +1;
+Only Once: 0
+Need: (367)
+Upg Type: 8
+Quantity: 1;
+
+/775
+Name: Дистанционная атака +2;
+Only Once: 0
+Need: (367)
+Upg Type: 8
+Quantity: 2;
+
+/776
+Name: Сила заклинаний;
+Only Once: 0
+Need: (367)
+Upg Type: 905
+Quantity: 1;
+
+/777
+Name: Взрывное оружие;
+Only Once: 1
+Need: (368)
+Upg Type: 147
+Quantity: 1;
+
+/778
+Name: Общее усиление чар;
+Only Once: 1
+Need: (367)
+Upg Type: 2375
+Quantity: 3;
+
+/779
+Name: Дистанционная атака +2;
+Only Once: 0
+Need: (368)
+Upg Type: 8
+Quantity: 2;
+
+/780
+Name: Дальность выстрела +1;
+Only Once: 0
+Need: (368)
+Upg Type: 9
+Quantity: 1;
+
+/781
+Name: Путь Жизни;
+Only Once: 1
+Need: (0)
+Upg Type: 1
+Quantity: 3
+
+Upg Type: 369
+Quantity: 1;
+
+/782
+Name: Путь Стойкости;
+Only Once: 1
+Need: (0)
+Upg Type: 4
+Quantity: 2
+
+Upg Type: 5
+Quantity: 2
+
+Upg Type: 370
+Quantity: 1;
+
+/783
+Name: Путь Воина;
+Only Once: 1
+Need: (0)
+Upg Type: 8
+Quantity: 1
+
+Upg Type: 10
+Quantity: 1
+
+Upg Type: 77
+Quantity: 2
+
+Upg Type: 371
+Quantity: 1;
+
+/784
+Name: Путь Охотника;
+Only Once: 1
+Need: (0)
+Upg Type: 35
+Quantity: 2
+
+Upg Type: 207
+Quantity: 35
+
+Upg Type: 208
+Quantity: 35
+
+Upg Type: 372
+Quantity: 1;
+
+/785
+Name: Содержание -35~;
+Only Once: 0
+Need: (372)
+Upg Type: 207
+Quantity: 35
+
+Upg Type: 208
+Quantity: 35
+
+Upg Type: 372
+Quantity: -1
+
+Upg Type: 373
+Quantity: 1;
+
+/786
+Name: Духовная связь;
+Only Once: 1
+Need: (370)
+Upg Type: 2384
+Quantity: 2;
+
+/787
+Name: Цепь жизни;
+Only Once: 1
+Need: (369)
+Upg Type: 2385
+Quantity: 1;
+
+/788
+Name: Содержание -20~;
+Only Once: 1
+Need: (0)
+Upg Type: 207
+Quantity: 20
+
+Upg Type: 208
+Quantity: 20
+
+Upg Type: 374
+Quantity: 20;
+
+/789
+Name: Испивание душ;
+Only Once: 1
+Need: (0)
+Upg Type: 2386
+Quantity: 1;
+
+/790
+Name: Гроза смертных;
+Only Once: 1
+Need: (0)
+Upg Type: 287
+Quantity: 1;
+
+/791
+Name: Гроза нежити;
+Only Once: 1
+Need: (0)
+Upg Type: 288
+Quantity: 1;
+
+/792
+Name: Гроза демонов;
+Only Once: 1
+Need: (0)
+Upg Type: 289
+Quantity: 1;
+
+/793
+Name: Держать строй!;
+Only Once: 1
+Need: (0)
+Upg Type: 294
+Quantity: 1;
+
+/794
+Name: Астральная энергия;
+Only Once: 1
+Need: (370)
+Upg Type: 2017
+Quantity: 2;
+
+/795
+Name: Излечение;
+Only Once: 1
+Need: (369)
+Upg Type: 2091
+Quantity: 2;
+
+/796
+Name: Мастерство чародея;
+Only Once: 1
+Need: (189)
+Upg Type: 291
+Quantity: 1;

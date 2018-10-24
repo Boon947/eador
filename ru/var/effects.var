@@ -1,4 +1,4 @@
-Quantity: 223
+Quantity: 228
 
 /0
 Name: Пусто;
@@ -1343,3 +1343,33 @@ Name: Проглотил врага;
 Ability: 268
 Spell: 0
 Numeric: 1
+
+/224
+Name: Защита Леса;
+Ability: 0
+Spell: 380
+Numeric: 0
+
+/225
+Name: Могущество Леса;
+Ability: 0
+Spell: 381
+Numeric: 0
+
+/226
+Name: Благословение Леса;
+Ability: 0
+Spell: 382
+Numeric: 0
+
+/227
+Name: Духовная связь;
+Ability: 0
+Spell: 384
+Numeric: 0
+
+/228
+Name: Цепь жизни;
+Ability: 0
+Spell: 385
+Numeric: 0

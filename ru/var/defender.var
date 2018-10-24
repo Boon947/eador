@@ -3260,9 +3260,9 @@ Desert: 0
 Tundra: 0
 Resource: (1, 2, 2)
 Units:
-Unit1: 15, 10, 4
-Unit2: 126, 12, 3
-Unit3: 105, 12, 1
+Unit1: 15, 10, 3
+Unit2: 126, 12, 1
+Unit3: 105, 12, 2
 Unit4: 106, 9, 1
 Unit5: 107, 5, 1;
 Loot:
@@ -3302,8 +3302,8 @@ Tundra: 0
 Resource: (2, 2, 7)
 Units:
 Unit1: 15, 18, 4
-Unit2: 126, 20, 4
-Unit3: 105, 17, 2
+Unit2: 126, 20, 3
+Unit3: 105, 17, 3
 Unit4: 106, 14, 2
 Unit5: 107, 7, 2
 Unit6: 127, 7, 1;

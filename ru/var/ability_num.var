@@ -1,4 +1,4 @@
-Quantity: 528
+Quantity: 556
 
 /0
 Name: Пусто;
@@ -3700,5 +3700,201 @@ Percent: 0
 Name: Проглатывание;
 Number: 269
 Numeric: 1
+Effect: 0
+Percent: 0
+
+/529
+Name: Заклятье "Защита Леса";
+Number: 360
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/530
+Name: Заклятье "Могущество Леса";
+Number: 361
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/531
+Name: Заклятье "Благословение Леса";
+Number: 362
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/532
+Name: Заклятье "Усиление чар";
+Number: 2374
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/533
+Name: Путь Силы;
+Number: 358
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/534
+Name: Путь Ловкости;
+Number: 359
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/535
+Name: Путь Огня;
+Number: 363
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/536
+Name: Путь Ветра;
+Number: 364
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/537
+Name: Путь Воды;
+Number: 365
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/538
+Name: Путь Земли;
+Number: 366
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/539
+Name: Заклятье "Обратить в медведя";
+Number: 2383
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/540
+Name: Заклятье "Общее усиление чар";
+Number: 2375
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/541
+Name: Путь Солнца;
+Number: 368
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/542
+Name: Путь Звёзд;
+Number: 367
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/543
+Name: Путь Жизни;
+Number: 369
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/544
+Name: Путь Стойкости;
+Number: 370
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/545
+Name: Путь Воина;
+Number: 371
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/546
+Name: Путь Охотника;
+Number: 372
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/547
+Name: Путь Охотника;
+Number: 373
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/548
+Name: Заклятье "Духовная связь";
+Number: 2384
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/549
+Name: Заклятье "Цепь жизни";
+Number: 2385
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/550
+Name: Снижение платы;
+Number: 374
+Numeric: 1
+Effect: 0
+Percent: 1
+
+/551
+Name: Заклятье "Испивание душ";
+Number: 2386
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/552
+Name: Гроза смертных;
+Number: 287
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/553
+Name: Гроза нежити;
+Number: 288
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/554
+Name: Гроза демонов;
+Number: 289
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/555
+Name: Снижение платы;
+Number: 284
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/556
+Name: Мастерство чародея;
+Number: 291
+Numeric: 0
 Effect: 0
 Percent: 0

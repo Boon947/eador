@@ -9702,6 +9702,11 @@ Answer2: 0;
 Index: 27
 Power: 1
 Param1: 0
+Param2: 0
+
+Index: 38
+Power: 1
+Param1: 0
 Param2: 0;
 
 /388 Лабиринт, слабые стражи, клад
@@ -9722,6 +9727,11 @@ Answer2: 0;
 
 *Effects*:
 Index: 27
+Power: 1
+Param1: 0
+Param2: 0
+
+Index: 38
 Power: 1
 Param1: 0
 Param2: 0;
@@ -9746,6 +9756,11 @@ Answer2: 0;
 Index: 27
 Power: 2
 Param1: 0
+Param2: 0
+
+Index: 38
+Power: 1
+Param1: 0
 Param2: 0;
 
 /390 Лабиринт, средние стражи, клад
@@ -9767,6 +9782,11 @@ Answer2: 0;
 *Effects*:
 Index: 27
 Power: 2
+Param1: 0
+Param2: 0
+
+Index: 38
+Power: 1
 Param1: 0
 Param2: 0;
 
@@ -9790,6 +9810,11 @@ Answer2: 0;
 Index: 27
 Power: 3
 Param1: 0
+Param2: 0
+
+Index: 38
+Power: 1
+Param1: 0
 Param2: 0;
 
 /392 Лабиринт, сильные стражи, клад
@@ -9812,6 +9837,11 @@ Answer2: 0;
 Index: 27
 Power: 3
 Param1: 0
+Param2: 0
+
+Index: 38
+Power: 1
+Param1: 0
 Param2: 0;
 
 /393 Лабиринт, стражи Сердца
@@ -9833,6 +9863,11 @@ Answer2: 0;
 *Effects*:
 Index: 27
 Power: 4
+Param1: 0
+Param2: 0
+
+Index: 38
+Power: 1
 Param1: 0
 Param2: 0;
 
@@ -10544,6 +10579,11 @@ Answer1: 0;
 Index: 3
 Power: 2
 Param1: 1
+Param2: 0
+
+Index: 38
+Power: 1
+Param1: 0
 Param2: 0;
 
 /422 Засада, не убежал
@@ -10893,8 +10933,8 @@ Karma: 0
 Answer1: 0;
 
 *Effects*:
-Index: 0
-Power: 0
+Index: 38
+Power: 1
 Param1: 0
 Param2: 0;
 
@@ -30541,6 +30581,11 @@ Answer1: 0;
 Index: 27
 Power: 4
 Param1: 0
+Param2: 0
+
+Index: 38
+Power: 1
+Param1: 0
 Param2: 0;
 
 /1271 Гильдия воров, атака, победа
@@ -31678,8 +31723,8 @@ Karma: 0
 Answer1: 0;
 
 *Effects*:
-Index: 0
-Power: 0
+Index: 38
+Power: 1
 Param1: 0
 Param2: 0;
 
@@ -31703,7 +31748,12 @@ Answer2: 1310;
 Index: 4
 Power: 2
 Param1: 9
-Param2: 3;
+Param2: 3
+
+Index: 38
+Power: 1
+Param1: 0
+Param2: 0;
 
 /1317 Логово оборотня, атакуем - не используется
 Type: 0
@@ -33626,7 +33676,12 @@ Answer1: 0;
 
 *Effects*:
 Index: 27
-Power: 2
+Power: 1
+Param1: 0
+Param2: 0
+
+Index: 38
+Power: 1
 Param1: 0
 Param2: 0;
 

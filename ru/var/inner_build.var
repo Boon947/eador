@@ -4827,7 +4827,11 @@ Param2: 0
 
 Ability: 31
 Param1: 413
-Param2: 1;
+Param2: 1
+
+Ability: 11
+Param1: 58
+Param2: 0;
 
 /192
 Name: Ёльфийска€ пуща;
@@ -5404,7 +5408,7 @@ Upgrade: 191
 Hidden: 0
 Level: 0
 
-Buildings: (191, 192, 39)
+Buildings: (191, 192, 39, 54)
 Resource: (1, 1, 2, 2, 2)
 
 Ability:
@@ -5426,12 +5430,16 @@ Upgrade: 192
 Hidden: 0
 Level: 0
 
-Buildings: (192, 104)
+Buildings: (192, 104, 94)
 Resource: (4, 4, 5, 5)
 
 Ability:
 Ability: 59
 Param1: 107
+Param2: 0
+
+Ability: 11
+Param1: 57
 Param2: 0;
 
 /215
