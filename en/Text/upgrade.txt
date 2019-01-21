@@ -52,8 +52,8 @@
 /17 Resistance
 #Increase the unit's defense against magic attacks and harmful spells.#
 
-/18 Resistance
-#Increase the unit's defense against magic attacks and harmful spells.#
+/18 Mercenary Reduced Upkeep
+#Reduce mercenary's upkeep by 25~.#
 
 /19 Speed
 #Increases the unit's movement speed.#
@@ -346,8 +346,8 @@
 /115 Hex Spell
 #The unit learns the Hex spell, which reduces the target's Defense and Resistance.#
 
-/116 Vulnerability Spell
-#The unit is taught to cast Vulnerability, reducing the target's defense and resistance.#
+/116 Summon Imp Spell
+#The unit is taught to cast Summon Imp, summoning an imp in a neighboring tile for 3 HP.#
 
 /117 Blast Spell
 #The unit learns the Blast spell, which inflicts magic damage to several enemies.#
@@ -370,8 +370,8 @@
 /123 Inspiration Spell
 #The unit is taught to cast Inspiration, restoring the target's morale.#
 
-/124 Summon Imp Spell
-#The unit is taught to cast Summon Imp, summoning an imp in a neighboring tile for 3 HP.  Later on, the unit may undergo initiation, and become a Demonologist. In that case, it cannot become a Necromancer.#
+/124 Vulnerability Spell
+#The unit is taught to cast Vulnerability, reducing the target's defense and resistance. Later on, the unit may undergo initiation, and become a Demonologist. In that case, it cannot become a Necromancer.#
 
 /125 Dispel Spell
 #The unit is taught to cast Dispel, dispelling enemy incantations and inflicting damage on summoned creatures.#
@@ -404,7 +404,7 @@
 #This special ability allows the unit to collect a few units of ammunition per turn.#
 
 /135 Fear Spell
-#The unit is taught to cast Fear, reducing the target's morale. Later on, the unit may undergo initiation, and become a Necromancer. In that case, it cannot become a Demonologist.#
+#The unit is taught to cast Fear, reducing the target's morale.  Later on, the unit may undergo initiation, and become a Necromancer. In that case, it cannot become a Demonologist.#
 
 /136 Raise Zombie Spell
 #The unit is taught to cast Raise Zombie, creating a zombie from a fallen unit's dead body.#
@@ -736,7 +736,7 @@ Teach a unit to cast the "Quen" sign that increases armor and resistance.#
 #The unit is taught to cast "Ancestral Shield", increasing defense and ranged defense of the target unit by 3 and resistance by 1.#
 
 /245 Sparks Spell
-#The unit is taught to cast the "Sparks" spell, inflicting 6 points of magical damage to multiple enemies in a large area.#
+#By chosing the Path of the Stars, the unit will eventually be able to learn powerful spells, and immediately learns the Sparks spell, which deals 6 magical damage to multiple enemies over a large area.#
 
 /246 Electric Shock Spell
 #The unit is taught to cast "Electric Shock" spell, inflicting 18 magic damage to target unit.#
@@ -1857,8 +1857,8 @@ Bloodsucker +10.#
 /602 Soul Stealing
 #After killing an enemy in melee, the unit recovers more hit points.#
 
-/603 Enchanted Arrows
-#Increases the magic damage inflicted by the unit's missiles.#
+/603 Flaming Arrows 1
+#Increases the fire damage inflicted by the unit's missiles.#
 
 /604 Alkaryl
 ##
@@ -1912,7 +1912,7 @@ Bloodsucker +10.#
 ##
 
 /621 Undead Summoning Power
-#Increase the strength of the summoned undead unit by 1.#
+#Increase the strength of the summoned undead unit by 2.#
 
 /622 Frenzy
 #The unit may spend two 2 extra stamina points to recover 5 HP when dealing melee damage.#
@@ -2070,7 +2070,7 @@ Bloodsucker +10.#
 /673 Pathfinder +3
 #The unit is taught better knowledge of all terrain.#
 
-/674 Shadow Form Guardsman Spell
+/674 Guard Shadow Form Spell
 #The Darkness Guard is taught to cast the "Shadow Form" spell, giving it special powers.#
 
 /675 Shadow Form Craver Spell
@@ -2113,7 +2113,7 @@ Bloodsucker +10.#
 #The unit's melee attack will ignite the enemy. The higher this ability is, the more damage the fire inflicts.#
 
 /688 Explosive Weapon
-#The unit receives ammo that deals 50% splash damage to all creatures around the target. All affected will be burned by acid.#
+#The unit receives ammo that deals 50~ splash damage to all creatures around the target. All affected will be burned by acid.#
 
 /689 Darkness Surge
 #The unit's melee attack inflicts the enemy unit with the effects of the "Darkness Surge" spell.#
@@ -2298,8 +2298,8 @@ Bloodsucker +10.#
 /749 Flaming Weapon
 #Unit's weapon ignites the target, causing additional damage every turn.#
 
-/750 Swamp Rage +1
-#Teach unit to use Interception more effectively.#
+/750 Forest Protection
+#Unit can cast the Forest Protection spell on himself, increasing Defense and Ranged Defense of all allies around him by 2.#
 
 /751 Gobble 20
 #Unit is able to completely swallow an enemy with less than 20 HP. Digestion restores 5 HP each turn.#
@@ -2309,3 +2309,132 @@ Bloodsucker +10.#
 
 /753 Digestion +5
 #Increases by 5 the number of hit points restored when the unit is digesting an enemy.#
+
+/754 Forest Might
+#Unit can cast the Forest Might spell on himself, increasing all types of Attack and Armor of all allies around him by 2.#
+
+/755 Forest Blessing
+#Unit can cast the Forest Blessing spell on himself, increasing all types of Attack and Armor of all allies around him by 2, and also enabling them to recover additional health and stamina when resting.#
+
+/756 Path of Power
+#Choose battle form of Grunas. This powerful, heavy beast, part bear, part white tiger, has tremendous strength and endurance.#
+
+/757 Path of Agility
+#Embrace battle form of Rugaru. This large, ferocious beast, like a huge wolf, has great speed and power.#
+
+/758 Improved Charm Spell
+#Unit learns the Improved Charm spell, which increases the duration of positive spells on an ally, or negative spells on an enemy.#
+
+/759 Shape Shifter
+##
+
+/760 Path of Fire
+#By choosing the Path of Fire, unit will gain the ability Burning Arrows 2.#
+
+/761 Path of Wind
+#By choosing the Path of Wind, unit will increase Ranged Attack by 1, and Range by 1.#
+
+/762 Sniper Shot
+#The unit has studied the special ability that expend some stamina to increase its range by 1.#
+
+/763 Path of Water
+#By choosing the Path of Water, unit will be able to strike enemies from a distance with the help of his magic abilities. Ranged Attack will increase by 10, Range by 5, unit will receive the ability Magic Shot.#
+
+/764 Path of Earth
+#By chosing the Path of Earth, unit will be able to use his magical abilities to cast various spells. Summoning Power increased by 6, Summoning Range by 2. Unit can summon a wolf.#
+
+/765 Ranged Attack +1
+#Increase the unit's shooting strength.#
+
+/766 Ranged Attack +2
+#Increase the unit's shooting strength.#
+
+/767 Energy Control
+#The ability to control magic energy allows the unit to ignore 2 points of target's resistance while using a magical ranged attack.#
+
+/768 Summoning Power +4
+#Increase power of summoned creatures by 4, and summoning range by 1.#
+
+/769 Spell Duration +1
+#Increase the unit's Spell Duration by 1.#
+
+/770 Range +1
+#Increase the maximum firing range.#
+
+/771 Bear Form Spell
+#Unit learns the Bear Form spell, which turns an ally into a Dire Bear.#
+
+/772 Double Shot
+#A special ability allowing the unit to take 2 shots at the target at once by spending some stamina.#
+
+/773 Path of the Sun
+#By choosing the Path of the Sun, unit will become more deadly using ranged magic attacks. Ranged Attack will increase by 8, Range by 1, unit will receive the ability Energy Control 3.#
+
+/774 Ranged Attack +1
+#Increase the unit's shooting strength.#
+
+/775 Ranged Attack +2
+#Increase the unit's shooting strength.#
+
+/776 Spellpower 1
+#Increase the unit's Spellpower by 1.#
+
+/777 Explosive Weapon
+#The unit receives ammo that deals 50~ splash damage to all creatures around the target.#
+
+/778 Mass Improved Charm Spell
+#Unit learns the Mass Improved Charm spell, which increases the duration of positive spells on an ally, or negative spells on an enemy.#
+
+/779 Ranged Attack +2
+#Increase the unit's shooting strength.#
+
+/780 Range +1
+#Increase the maximum firing range.#
+
+/781 Path of Life
+#By chosing the Path of Life, unit will immediately have their health increase by 3.#
+
+/782 Path of Tenacity
+#By choosing the Path of Tenacity, unit will increase Defense and Ranged Defense by 2.#
+
+/783 Path of the Warrior
+#By choosing the Path of the Warrior, Pathfinder will increase his Ranged Attack and Ammo by 1, and Precise Shot by 2.#
+
+/784 Path of the Hunter
+#By choosing the Path of the Hunter, Pathfinder will reduces upkeep by 35 ~. First Aid will increase by 2.#
+
+/785 Upkeep -35
+#Reduce gold and gem upkeep of the Pathfinder by 35~ more.#
+
+/786 Spiritual Link Spell
+#Unit learns the Spiritual Link spell, which allows sharing the Stamina cost of spells cast by the enchanted creature.#
+
+/787 Life Bond Spell
+#Unit learns the Life Bond spell, which allows sharing the damage between the caster and the enchanted creature.#
+
+/788 Upkeep -20
+#Reduce gold and gem upkeep of the unit by 20~.#
+
+/789 Soul Sipping Spell
+#Unit learns the Soul Sipping spell, which deals damage to all enemies around the caster, and heals his own wounds.#
+
+/790 Bane of Mortals
+#Unit will deal double damage to all mortal creatures.#
+
+/791 Bane of Undead
+#Unit will deal double damage to all Undead.#
+
+/792 Bane of Demons
+#Unit will deal double damage to all demons.#
+
+/793 Keep Running
+#Unit prefers defensive tactics.#
+
+/794 Astral Energy Spell
+#Unit learns to cast Astral Energy, restoring an ally's Stamina and increasing their resistance.#
+
+/795 Healing Spell
+#The unit is taught to cast the "Healing" spell, restoring health to a friendly soldier and dispelling negative effects.#
+
+/796 Wizard Mastery
+#Unit can use a spell ability on himself without spending a turn for it.#

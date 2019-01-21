@@ -1,4 +1,4 @@
-Quantity: 163
+Quantity: 164
 
 /0
 Name: Empty;
@@ -1475,3 +1475,12 @@ Guard0: 487
 Guard1: 487
 Guard2: 487
 Guard3: 487
+
+/164
+Name: Na'ag;
+Power: 3
+Karma: -1
+Guard0: 488
+Guard1: 489
+Guard2: 490
+Guard3: 491

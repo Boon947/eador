@@ -95,7 +95,8 @@ A special ability allowing the unit to shoot twice at a target, at the expense o
 This ability has no effect on Undead, Machines, Golems, and Elementals.#
 
 /25 Battle Frenzy
-#Once heavily wounded, the unit falls into a rage. As a result, his attack value increases by %d, and wounds do not affect it. The unit's morale cannot get lower than its base value. At the beginning of the turn, unit may lose control, and rush to the enemy in melee.#
+#Once heavily wounded, the unit falls into a rage. As a result, his attack value increases by %d, and wounds do not affect it. The unit's morale cannot get lower than its base value.
+At the beginning of the turn, unit may lose control, and rush to the enemy in melee. This attack does not deplete the unit's strength.#
 
 /26 Agility
 #Agile units ignore the opponents' counterattacks while engaging them in melee. Agility allows evading roots faster.#
@@ -246,7 +247,7 @@ This special ability allows the unit to attack all enemies in adjacent tiles at 
 #The unit entangles an enemy it attacks in melee with his roots, preventing it from moving for 3 turns. No effect on incorporeal enemies. Agile enemies quickly escape the roots.#
 
 /68 Bloodsucker
-#Having struck an enemy in melee, the unit restores %d~ of the damage dealt as hit points.#
+#Having struck an enemy in melee, the unit recovers %d~ of the damage dealt as hit points.#
 
 /69 Heavy Ammo
 #The unit's missiles are so heavy they damage the target's armor, reducing its ranged defense by 1. The effect lasts for 3 turns. No effect on incorporeal enemies.#
@@ -280,7 +281,14 @@ To turn a spell in the hero's spellbook back into a scroll, click on the spell w
 #Allows the hero to summon a creature. In order to do so, the hero needs to take the object to the garrison and place it into a unit slot of the corresponding rank. Different creatures require different buildings to be constructed in the Stronghold first.#
 
 /79 Increased Upkeep
-#The unit requires more gold than usual. The level of increase depends on the unit's rank.#
+#The unit requires more gold than usual. The level of increase depends on the unit's rank:
+
+Rank 1 - +100~.
+Rank 2 - +75~.
+Rank 3 - +50~.
+Rank 4 - +25~.
+
+This unit requires +%d~, or +%d gold.#
 
 /80 Cannot Move
 #The unit is unable to move.#
@@ -577,7 +585,7 @@ Ammo units consumed by casting: %d.#
 Ammo units consumed by casting: %d.#
 
 /159 Life Breath Spell
-#This unit can cast the Life Breath spell, restoring 5 hit points to a unit and curing poisoning. Has no effect on the Undead and Mechanical units.
+#This unit can heal a target, restoring 5 HP and curing poison. Has no effect on the Undead and Mechanical units.
 Ammo units consumed by casting: %d.#
 
 /160 Explosive Shot
@@ -871,7 +879,9 @@ Ammo units consumed by casting: %d.#
 
 /232 Swamp Rage
 #The unit can use Interception more skillfully, and can protect allies even from ranged attacks.
-In addition, when injured during Interception, he receives temporary bonus: Additional Regeneration, Defense, and Ranged Defense, while in a swamp. When seriously injured, the unit may sprint briefly.#
+In addition, when injured during Interception, he receives temporary bonus: Additional Regeneration, Defense, and Ranged Defense.
+Effect increased when unit is in a swamp.
+When seriously injured, the unit may sprint briefly.#
 
 /233 Sluggishness Spell
 #This unit can cast the Sluggishness spell, slowing the target and making it lose stamina each turn.
@@ -1377,7 +1387,7 @@ The shot also spends Stamina: %d.
 This unit can use a special shot, which damages not only the target, but also up to three enemy units in a row. At the cost of extra ammo and Stamina.#
 
 /363 Explosive Weapon
-#The unit uses special ammo that deals 50% splash damage to all creatures around the target.#
+#The unit uses special ammo that deals 50~ splash damage to all creatures around the target.#
 
 /364 Cannot Cast
 #This unit cannot cast spells from his spell book.#
@@ -1445,7 +1455,9 @@ Ammo units consumed by casting: %d.#
 Ammo units consumed by casting: %d.#
 
 /380 Supplier
-#All adjacent friendly units at rest recover %d health and stamina. The suppliers' effects and a unit's First Aid / Recuperation effects are cumulative.#
+#All adjacent friendly units at rest recover %d health and stamina.
+Effect is cumulative with a unit's First Aid / Recuperation.
+Has no effect on the supplier himself.#
 
 /381 Test of Faith Spell
 #This unit can cast the Test of Faith spell, temporarily restoring hit points and stamina to a friendly unit, granting it Smite Evil and instantly replenishing one ammo.
@@ -2000,3 +2012,98 @@ If the unit dies before digestion is complete, it will perish forever, and the s
 It is not possible to swallow multiple units, enemy must be fully digested before unit may swallow another unit.
 
 To use the ability, unit must be immobile and have more than 3 Stamina.#
+
+/529 Forest Protection Spell
+#This unit can cast the Forest Protection spell on himself, increasing by 2 Defense and Ranged Defense of all allied units nearby.#
+
+/530 Forest Might Spell
+#This unit can cast the Forest Might spell on himself, increasing by 2 all types of Attack and Armor of all allied units nearby.#
+
+/531 Forest Blessing Spell
+#This unit can cast the Forest Blessing spell on himself, increasing by 2 all types of Attack and Armor of all allied units nearby, and also enabling them to recover additional health and stamina when resting.#
+
+/532 Improved Charm Spell
+#This unit can cast the Improved Charm spell, which increases the duration of positive spells on an ally, or negative spells on an enemy by 2.
+Also reduces the duration of negative spells on an ally, or positive spells on an enemy by 1.
+Ammo units consumed by casting: %d.#
+
+/533 Path of Power
+#This unit chose the Path of Power, and is able to transform into Grunas - a powerful, heavy beast with tremendous strength and endurance.#
+
+/534 Path of Agility
+#This unit chose the Path of Agility, and is able to transform into Rugaru - a large, ferocious beast with great speed and power.
+#
+
+/535 Path of Fire
+#This unit chose the Path of Fire. They gained the ability Flaming Arrows 2.#
+
+/536 Path of Wind
+#This unit chose the Path of Wind. His Ranged Attack and Shooting Range have been increased by 1.#
+
+/537 Path of Water
+#This unit chose the Path of Water, and they are able to strike their enemies from the distance. Ranged Attack is increased by 10, Range by 5, unit receives the ability Magic Shot.#
+
+/538 Path of Earth
+#This unit chose the Path of Earth, and can use this power to cast spells and summon beasts. Summoning Power increased by 6, Summoning Range by 2. Unit can summon a wolf.
+In the future, it will be able to learn other spells.#
+
+/539 Bear Form Spell
+#Unit can cast the Bear Form spell, which turns an ally into a Dire Bear.
+Ammo units consumed by casting: %d.#
+
+/540 Mass Improved Charm Spell
+#Unit can cast the Mass Improved Charm spell, which increases the duration of positive spells on all allies, or negative spells on all enemies by 3.
+Also reduces the duration of negative spells on an ally, or positive spells on an enemy by 1.
+Ammo units consumed by casting: %d.#
+
+/541 Path of the Sun
+#Unit chose the Path of the Sun, and is significantly deadlier against his enemies from a distance. Ranged Attack is increased by 8, Range by 1, unit receives the ability Energy Control 3.#
+
+/542 Path of the Stars
+#Unit chose the Path of the Stars, and can use his strngth to create powerful spells. In the future, unit will be able to study other spells.#
+
+/543 Path of Life
+#Unit chose the Path of Life. Health is increased by 3.#
+
+/544 Path of Tenacity
+#Unit chose the Path of Tenacity. Defense and Ranged Defense increased by 2.#
+
+/545 Path of the Warrior
+#Pathfinder chose Path of the Warrior. Ranged Attack and Ammo increased by 1, Precise Shot by 2.#
+
+/546 Path of the Hunter
+#Pathfinder chose Path of the Hunter. Unit's gold and gem upkeep decreased by 35~. First Aid increased by 2.#
+
+/547 Path of the Hunter
+#Pathfinder chose Path of the Hunter. Unit's gold and gem upkeep decreased by 70~. First Aid increased by 2.#
+
+/548 Spiritual Link Spell
+#Unit can cast the Spiritual Link spell, which allows sharing the Stamina cost of spells cast by the enchanted creature.
+Ammo units consumed by casting: %d.#
+
+/549 Life Bond Spell
+#Unit can cast the Life Bond spell, which allows sharing the damage between the caster and the enchanted creature.
+Ammo units consumed by casting: %d.#
+
+/550 Decreased Upkeep
+#Unit's gold and gem upkeep decreased by %d~.#
+
+/551 Soul Sipping Spell
+#This unit can cast the Soul Sipping spell, which deals damage to all enemies around the caster, and heals his own wounds.
+Ammo units consumed by casting: %d.#
+
+/552 Bane of Mortals
+#Unit deals double damage to all mortal creatures.#
+
+/553 Bane of Undead
+#Unit deals double damage to all Undead.#
+
+/554 Bane of Demons
+#Unit deals double damage to all Demons.#
+
+/555 Decreased Upkeep
+#Mercenary premium is reduced
+by %d~.#
+
+/556 Wizard Mastery
+#Unit can use a spell ability on himself without spending a turn for it.#

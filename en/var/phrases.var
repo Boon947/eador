@@ -1,4 +1,4 @@
-Quantity: 633
+Quantity: 637
 
 /0
 Name: Empty;
@@ -1901,3 +1901,15 @@ Name: Don't swallow the enemy;
 
 /633
 Name: Swallowed!;
+
+/634
+Name: Change Ammo;
+
+/635
+Name: Choose Upgrade;
+
+/636
+Name: Battle Frenzy;
+
+/637
+Name: Everyone around;

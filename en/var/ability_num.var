@@ -1,4 +1,4 @@
-Quantity: 528
+Quantity: 556
 
 /0
 Name: Empty;
@@ -3700,5 +3700,201 @@ Percent: 0
 Name: Gobble;
 Number: 269
 Numeric: 1
+Effect: 0
+Percent: 0
+
+/529
+Name: Forest Protection Spell;
+Number: 360
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/530
+Name: Forest Might Spell;
+Number: 361
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/531
+Name: Forest Blessing Spell;
+Number: 362
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/532
+Name: Improved Charm Spell;
+Number: 2374
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/533
+Name: Path of Power;
+Number: 358
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/534
+Name: Path of Agility;
+Number: 359
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/535
+Name: Path of Fire;
+Number: 363
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/536
+Name: Path of Wind;
+Number: 364
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/537
+Name: Path of Water;
+Number: 365
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/538
+Name: Path of Earth;
+Number: 366
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/539
+Name: Bear Form Spell;
+Number: 2383
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/540
+Name: Mass Improved Charm Spell;
+Number: 2375
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/541
+Name: Path of the Sun;
+Number: 368
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/542
+Name: Path of the Stars;
+Number: 367
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/543
+Name: Path of Life;
+Number: 369
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/544
+Name: Path of Tenacity;
+Number: 370
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/545
+Name: Path of the Warrior;
+Number: 371
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/546
+Name: Path of the Hunter;
+Number: 372
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/547
+Name: Path of the Hunter;
+Number: 373
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/548
+Name: Spiritual Link Spell;
+Number: 2384
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/549
+Name: Life Bond Spell;
+Number: 2385
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/550
+Name: Decreased Upkeep;
+Number: 374
+Numeric: 1
+Effect: 0
+Percent: 1
+
+/551
+Name: Soul Sipping Spell;
+Number: 2386
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/552
+Name: Bane of Mortals;
+Number: 287
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/553
+Name: Bane of Undead;
+Number: 288
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/554
+Name: Bane of Demons;
+Number: 289
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/555
+Name: Decreased Upkeep;
+Number: 284
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/556
+Name: Wizard Mastery;
+Number: 291
+Numeric: 0
 Effect: 0
 Percent: 0

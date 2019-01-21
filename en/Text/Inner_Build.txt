@@ -814,10 +814,10 @@ Reduces the gem upkeep of garrison units by 20~.#
 #Improves diplomatic relations. Increases the strength of castle walls. Adds a tower to castle fortifications and increases their strength. Increases the stronghold's towers attack by 1. Attracts better mercenaries to the castle. Allows upgrading a Fortress in provinces to a Castle. Reduces corruption by 30~.#
 
 191. Elven Quarter 
-#Allows the recruitment of Elves.#
+#Allows the recruitment of Elves. Allows building Elven Gardens in forest provinces.#
 
 192. Elven Grove
-#Allows recruiting Blade Dancers.
+#Allows recruiting Mediums.
 Allows hiring the Elven squad guard. Income from forest provinces +2. Gem income +2.#
 
 193. Elven Theater
@@ -890,10 +890,10 @@ Provides 2 schematics of the Monument of Darkness.
 Provides 3 contract with the Lord of the Undead guard.#
 
 213. Elven Garrison 
-#Allows recruiting Elven Swordsmen and Elven Riders.#
+#Allows recruiting Pathfinders and Shape Shifters.#
 
 214. Elven Grove 
-#Allows recruiting Elf Druids.#
+#Allows recruiting Forest Keepers. Allows upgrading a Sawmill in provinces to an Elven Sawmill.#
 
 215. Great Tree 
 #Allows recruiting Elven Mistresses. Allows recruiting the Elven Army guards.#

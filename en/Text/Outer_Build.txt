@@ -340,3 +340,17 @@ Population mood +1.
 Increases the mobility of a hero staying in this province by 1.
 Allows a hero staying in this province to use the Forest Corridor ritual.
 Can only be built in a forest.#
+
+57. Elven Sawmill
+#Sawmill Upgrade.
+Income +10.
+Yields 2 gems per turn.
+Redwood income +5.
+Can only be built in a forest.#
+
+58. Elven Gardens
+#Yields 2 gems per turn.
+Population mood +1.
+Increases population growth.
+If there is a Crystal Garden in the stronghold, population mood increases by 1.
+Increases the morale of province defenders by 4.#

@@ -6,7 +6,7 @@
 The unit receives %d~ less experience in battle.#
 
 /2 Medal for Courage
-#Increases morale by 5 and Bloodlust by 1.
+#Increases morale by 4 and Bloodlust by 1.
 Increases upkeep by 3 gold.#
 
 /3 Medal of Valor
@@ -27,7 +27,7 @@ Increases upkeep by +5 gold.#
 
 /7 Order of the Marksman
 #Increases ranged attack by 2 and ammo by 1.
-Increases upkeep by +10 gold.#
+Gold upkeep +10.#
 
 /8 Healer's Medal
 #Increases healing by 1 and First Aid by 1.
@@ -51,15 +51,15 @@ Increases upkeep by 3 gold.#
 
 /13 Order of the Defender
 #Increases the armor and resistance by 2.
-Increases upkeep by +10 gold.#
+Gold upkeep +10.#
 
 /14 Hero's Cross
 #Increases morale by 6 and Smite Evil by 2. Confers immunity to pain.
-Increases upkeep by +10 gold.#
+Gold upkeep +10.#
 
 /15 Destroyer's Cross
-#Increases morale by 6 and Dark Dominion by 2. Grants battle frenzy 2.
-Increases upkeep by +10 gold.#
+#Gives Bloodlust +2 and Dark Dominion +3. Grants Battle Frenzy 2.
+Gold upkeep +10.#
 
 /16 Scout's Ribbon
 #Grants Terrain Knowledge 1.

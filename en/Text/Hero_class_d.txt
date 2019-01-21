@@ -89,7 +89,7 @@ Can learn Sorcerer and Scout skills up to Mastery Level 3.#
 
 /19 Necromancer
 #Can use the following type of items: Common, Melee Weapon, Wand, Banner, Light Armor, Medium Armor, Shield.
-Undead Summoning Power is increased by 5. Concentration is increased by 2. Raising Undead consumes 25~ fewer gems. Can make undead 1 rank stronger than the skill normally allows remain in his party.
+Undead Summoning Power is increased by 3. Concentration is increased by 1. Raising Undead consumes 25~ fewer gems.
 The Hero's undead units do not slow him down.
 Can learn sorcerer and commander skills up to Mastery Level 3.#
 
@@ -172,11 +172,12 @@ Can learn Sorcerer and Scout skills up to Mastery Level 3.#
 
 /35 Master Necromancer
 #Can use the following type of items: Common, Melee Weapon, Wand, Banner, Light Armor, Medium Armor, Shield.
-Undead Summoning Power is increased by 10. Concentration is increased by 4. Raising Undead consumes 50~ fewer gems. Can make undead 2 ranks stronger than the skill normally allows remain in his party.
+Undead Summoning Power is increased by 6. Concentration is increased by 2. Raising Undead consumes 50~ fewer gems. Can make undead 1 rank stronger than the skill normally allows remain in his party.
 The Hero's undead units do not slow him down.
 Can learn sorcerer and commander skills up to Mastery Level 3.#
 
 /36 Archmage
 #Can use the following type of items: Common, Wand.
 Can cast 2 spells per turn, if their levels combined is no more than 6.
+Archmage receives an additional third rank unit slot.
 Can learn sorcerer skills up to Mastery Level 5.#

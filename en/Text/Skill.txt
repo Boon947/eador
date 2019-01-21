@@ -184,11 +184,11 @@ Lvl 5: Init +1, Ranged Attack +2, Energy Control +2#
 /21 Necromancy
 #Necromancy increases power of undead, allows them to stay on after combat. Speeds up hit point restoration for the party's undead.
 
-Lvl 1: Power +1, skeleton can stay, +10~ hit points per turn
-Lvl 2: Power +1, 1st rank undead can stay, +10~ hit points per turn
-Lvl 3: Power +2, 2nd rank undead can stay, +10~ hit points per turn
-Lvl 4: Power +1, 3rd rank undead can stay, +10~ hit points per turn
-Lvl 5: Power +2, vampire can stay, +10~ hit points per turn#
+Lvl 1: Subdue 1st rank Undead, Undead Power +1, +10~ HP per turn
+Lvl 2: Subdue 2nd rank Undead, Undead Power +2, +10~ HP per turn
+Lvl 3: Subdue 3rd rank Undead, Undead Power +1, +10~ HP per turn
+Lvl 4: Subdue 4th rank Undead, Undead Power +2, +10~ HP per turn
+Lvl 5: Undead Power +4, +20~ HP per turn#
 
 /22 Marksmanship
 #Marksmanship increases the power and range of the hero's ranged attacks.

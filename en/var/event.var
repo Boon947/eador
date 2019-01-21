@@ -1,4 +1,4 @@
-Quantity: 1868
+Quantity: 1871
 
 /0
 Type: 0
@@ -12951,11 +12951,6 @@ Param2: 0
 Index: 8
 Power: 13
 Param1: 1
-Param2: 0
-
-Index: 8
-Power: 11
-Param1: 0
 Param2: 0;
 
 /455 Буки - рейд (грабёж)
@@ -52564,4 +52559,107 @@ Param2: 0
 Condition: 9
 Power: 127
 Param1: -1
+Param2: 0;
+
+/1869 Нападение на'аг
+Type: -1
+Possibility: 5
+Dialog: 2410
+DlgParam1: 1
+DlgParam2: 0
+Attacker: 164
+EventWin: 0
+EventLose: 1870
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer2: 0;
+
+*Effects*:
+Index: 8
+Power: 14
+Param1: 1
+Param2: 0
+
+Index: 8
+Power: 11
+Param1: 0
+Param2: 0
+
+Index: 8
+Power: 3
+Param1: 200
+Param2: 0
+
+Index: 8
+Power: 10
+Param1: 50
+Param2: 0;
+
+/1870 Нападение на'аг (грабёж)
+Type: 0
+Possibility: 0
+Dialog: 2411
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer2: 1871;
+
+*Effects*:
+Gold: 1
+Power: -200
+Param1: 100
+Param2: 0
+
+Attitude: 2
+Power: -1
+Param1: 0
+Param2: 0
+
+Population: 3
+Power: -25
+Param1: 10
+Param2: 0
+
+Index: 4
+Power: 2
+Param1: 1
+Param2: 100;
+
+/1871 Нападение на'аг (грабёж, помощь)
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 3
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Gold: 1
+Power: -100
+Param1: 0
+Param2: 0
+
+Attitude: 2
+Power: 1
+Param1: 0
 Param2: 0;

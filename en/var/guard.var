@@ -1,4 +1,4 @@
-Quantity: 487
+Quantity: 491
 
 /0 Пусто
 Quantity: 5/1
@@ -446,8 +446,8 @@ Item3: 63, 1;
 /29 Эльфы 0
 Quantity: 5/1
 Initiative: 2/1
-Unit1: 15, 3, 3, 1
-Unit2: 126, 4, 2, 1;
+Unit1: 15, 3, 4, 2
+Unit2: 126, 4, 1, 0;
 LootPoss: 10
 MaxLoot: 1
 Power: 2
@@ -458,9 +458,9 @@ Item3: 63, 1;
 /30 Эльфы 1
 Quantity: 7/2
 Initiative: 2/3
-Unit1: 15, 6, 3, 2
-Unit2: 126, 7, 2, 2
-Unit3: 105, 3, 1, 1
+Unit1: 15, 6, 4, 3
+Unit2: 126, 7, 1, 1
+Unit3: 105, 3, 1, 2
 Unit4: 106, 2, 1, 1;
 LootPoss: 12
 MaxLoot: 1
@@ -472,9 +472,9 @@ Item3: 63, 1;
 /31 Эльфы 2
 Quantity: 9/3
 Initiative: 3/3
-Unit1: 15, 10, 3, 3
-Unit2: 126, 11, 3, 3
-Unit3: 105, 6, 1, 2
+Unit1: 15, 10, 4, 3
+Unit2: 126, 11, 1, 1
+Unit3: 105, 6, 2, 2
 Unit4: 106, 5, 1, 2
 Unit5: 107, 5, 1, 1
 Unit6: 127, 6, 0, 1;
@@ -488,10 +488,10 @@ Item3: 63, 1;
 /32 Эльфы 3
 Quantity: 11/4
 Initiative: 4/4
-Unit1: 15, 15, 3, 3
-Unit2: 126, 16, 3, 3
+Unit1: 15, 15, 4, 3
+Unit2: 126, 16, 1, 1
 Unit3: 105, 12, 2, 2
-Unit4: 106, 11, 1, 2
+Unit4: 106, 11, 2, 2
 Unit5: 107, 9, 1, 1
 Unit6: 127, 10, 1, 1;
 LootPoss: 16
@@ -2620,7 +2620,7 @@ Item3: 63, 1;
 /179 Воплощения стихий 0
 Quantity: 2/1
 Initiative: 2/1
-Unit1: 153, 3, 1, 2
+Unit1: 153, 3, 1, 1
 Unit2: 154, 3, 1, 1
 Unit3: 118, 3, 0, 1
 Unit4: 155, 3, 0, 1;
@@ -2632,12 +2632,12 @@ Item2: 17, 1
 Item3: 63, 1;
 
 /180 Воплощения стихий 1
-Quantity: 4/2
+Quantity: 3/2
 Initiative: 3/1
 Unit1: 153, 6, 1, 2
-Unit2: 154, 6, 1, 2
+Unit2: 154, 6, 1, 1
 Unit3: 118, 6, 1, 1
-Unit4: 155, 6, 1, 1;
+Unit4: 155, 6, 0, 1;
 LootPoss: 7
 MaxLoot: 3
 Power: 7
@@ -2646,11 +2646,11 @@ Item2: 17, 1
 Item3: 63, 1;
 
 /181 Воплощения стихий 2
-Quantity: 6/3
+Quantity: 4/3
 Initiative: 2/1
-Unit1: 153, 9, 2, 2
-Unit2: 154, 9, 2, 2
-Unit3: 118, 9, 1, 2
+Unit1: 153, 9, 1, 2
+Unit2: 154, 9, 1, 2
+Unit3: 118, 9, 1, 1
 Unit4: 155, 9, 1, 1;
 LootPoss: 9
 MaxLoot: 4
@@ -2660,12 +2660,12 @@ Item2: 17, 1
 Item3: 63, 1;
 
 /182 Воплощения стихий 3
-Quantity: 8/4
+Quantity: 6/4
 Initiative: 2/1
 Unit1: 153, 12, 2, 1
-Unit2: 154, 12, 2, 1
+Unit2: 154, 12, 1, 1
 Unit3: 118, 12, 2, 1
-Unit4: 155, 12, 2, 1;
+Unit4: 155, 12, 1, 1;
 LootPoss: 11
 MaxLoot: 5
 Power: 12
@@ -4724,8 +4724,8 @@ Item3: 63, 1;
 /332 Эльфы 0
 Quantity: 5/1
 Initiative: 2/3
-Unit1: 15, 6, 3, 2
-Unit2: 126, 7, 2, 2
+Unit1: 15, 6, 4, 2
+Unit2: 126, 7, 1, 1
 Unit3: 105, 3, 0, 1;
 LootPoss: 12
 MaxLoot: 1
@@ -4737,8 +4737,8 @@ Item3: 63, 1;
 /333 Эльфы 1
 Quantity: 7/2
 Initiative: 3/3
-Unit1: 15, 10, 3, 3
-Unit2: 126, 11, 2, 3
+Unit1: 15, 10, 4, 3
+Unit2: 126, 11, 1, 1
 Unit3: 105, 6, 1, 1
 Unit4: 106, 5, 0, 2
 Unit5: 107, 5, 1, 0;
@@ -4752,8 +4752,8 @@ Item3: 63, 1;
 /334 Эльфы 2
 Quantity: 9/3
 Initiative: 3/4
-Unit1: 15, 15, 3, 3
-Unit2: 126, 16, 2, 3
+Unit1: 15, 15, 4, 3
+Unit2: 126, 16, 1, 1
 Unit3: 105, 12, 1, 2
 Unit4: 106, 11, 1, 2
 Unit5: 107, 9, 1, 1
@@ -4768,10 +4768,10 @@ Item3: 63, 1;
 /335 Эльфы 3
 Quantity: 12/4
 Initiative: 4/4
-Unit1: 15, 20, 3, 4
-Unit2: 126, 21, 3, 4
+Unit1: 15, 20, 4, 4
+Unit2: 126, 21, 1, 1
 Unit3: 105, 18, 2, 3
-Unit4: 106, 17, 1, 3
+Unit4: 106, 17, 2, 3
 Unit5: 107, 13, 2, 2
 Unit6: 127, 14, 1, 1;
 LootPoss: 18
@@ -6974,3 +6974,51 @@ Power: 4
 Item1: 1, 1
 Item2: 17, 1
 Item3: 63, 1;
+
+/488 На'аг 1
+Quantity: 1/0
+Initiative: 1/0
+Unit1: 285, 2, 1, 0;
+LootPoss: 10
+MaxLoot: 1
+Power: 3
+Item1: 1, 1
+Item2: 2, 1
+Item3: 3, 1;
+
+/489 На'аг 2
+Quantity: 2/1
+Initiative: 1/1
+Unit1: 285, 6, 1, 0
+Unit2: 285, 3, 1, 1;
+LootPoss: 12
+MaxLoot: 1
+Power: 5
+Item1: 1, 1
+Item2: 2, 1
+Item3: 3, 1;
+
+/490 На'аг 3
+Quantity: 3/2
+Initiative: 2/2
+Unit1: 285, 10, 1, 0
+Unit2: 285, 5, 2, 2;
+LootPoss: 14
+MaxLoot: 1
+Power: 7
+Item1: 1, 1
+Item2: 2, 1
+Item3: 3, 1;
+
+/491 На'аг 4
+Quantity: 5/3
+Initiative: 3/3
+Unit1: 285, 15, 1, 0
+Unit2: 285, 10, 2, 1
+Unit3: 285, 5, 2, 2;
+LootPoss: 16
+MaxLoot: 1
+Power: 10
+Item1: 1, 1
+Item2: 2, 1
+Item3: 3, 1;

@@ -18,7 +18,7 @@ Rarity: 0
 Effects:
 
 GoldPayment: 85
-Power: 100
+Power: 25
 
 Tolerance: 98
 Power: 1
@@ -34,7 +34,7 @@ Rarity: 1
 Effects:
 
 Morale: 12
-Power: 5
+Power: 4
 
 BloodRage: 197
 Power: 1;
@@ -152,7 +152,7 @@ Power: 2;
 Name: Order of the Defender;
 GoldSpent: 10
 GemSpent: 0
-Rarity: 4
+Rarity: 5
 Effects:
 
 Defence: 4
@@ -168,7 +168,7 @@ Power: 2;
 Name: Hero's Cross;
 GoldSpent: 10
 GemSpent: 0
-Rarity: 5
+Rarity: 4
 Effects:
 
 Morale: 12
@@ -184,17 +184,17 @@ Power: 2;
 Name: Destroyer's Cross;
 GoldSpent: 10
 GemSpent: 0
-Rarity: 5
+Rarity: 4
 Effects:
 
-Morale: 12
-Power: 6
+BloodRage: 197
+Power: 2
 
 Berserk: 25
 Power: 2
 
 Smite_good: 121
-Power: 2;
+Power: 3;
 
 /16
 Name: Scout's Ribbon;

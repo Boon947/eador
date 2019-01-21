@@ -1,4 +1,4 @@
-Quantity: 2409
+Quantity: 2411
 
 /0
 Window: 0;
@@ -18119,7 +18119,7 @@ Answer4: My Master gathers an army against the Darkness.;#####
 /2365 Святые земли, присоединение
 Window: 2;
 Bitmap: 74;
-Text: #"The servants of the Lord have heard about the affairs of thy Master. We know that he punishes heresy just as we are, and our blessed land will knows his encouragement and support - you and your troops are now free to enter here, and our land will now be under his authority.
+Text: #"The servants of the Lord have heard about the affairs of thy Master. We know that he punishes heresy just as we do, therefore our blessed land will offer him encouragement and support - you and your troops are now free to enter here, and our land will now be under his authority.
 But if he wants to leave me and my brothers to protect this land, I must warn you - our holy Order will collect all taxes and use it to replenish our coffers."#
 Answer1: So be it, Father.;
 Answer2: My Master will protect your land.;
@@ -18454,3 +18454,17 @@ Bitmap: 24;
 Text: #Broken by torture, the dark mages reveal the secret of the Demon Transformation spell. The spell scroll is placed in the treasury.#
 Answer1: Good. They have earned the right to a quick death.;
 Answer2: Burn the sorcerers.;#####
+
+/2410 Нападение на'аг
+Window: 2;
+Bitmap: 138;
+Text: #In the province of %s, a terrifying enemy has attacked the guards!#
+Answer1: What's happening?;
+Answer2: Big deal...;#####
+
+/2411 Нападение на'аг (грабёж)
+Window: 2;
+Bitmap: 105;
+Text: #The settlement was destroyed - some of the inhabitants were slaughtered, and their houses looted. The damage costs you %d gold.#
+Answer1: Losses again!;
+Answer2: Help the families of the victims (-100 $ );#####

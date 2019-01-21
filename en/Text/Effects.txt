@@ -667,7 +667,7 @@ The unit's resistance is reduced by half, it loses 2 morale points each turn and
 #The unit is immobilized, but can still attack, shoot, and cast spells.#
 
 221. Swamp Rage
-#While the unit is in a swamp, Defense, Ranged Defense, and Regeneration are increased by %d.
+#Defense, Ranged Defense, and Regeneration are increased by %d. While the unit is in a swamp, the effect is enhanced.
 Effect lasts until unit recovers.#
 
 222. Dodge
@@ -676,3 +676,18 @@ Effect lasts until unit recovers.#
 223. Swallowing Enemy
 #The unit has swallowed an enemy, and is now digesting it, recovering %d HP each turn. The unit's speed is decreased by 1.
 If the unit dies before digestion is complete, it will perish forever, and the swallowed enemy will be able to escape.#
+
+224. Forest Protection
+#Defense and Ranged Defense of all nearby allied creatures are increased at least by 2.#
+
+225. Forest Might
+#All types of Armor and Attack of all nearby allied creatures are increased at least by 2.#
+
+226. Forest Blessing
+#All types of Armor and Attack of all nearby allied creatures are increased at least by 2. Unit and all nearby allies at rest recover additional Stamina and Health.#
+
+227. Spiritual Link
+#When unit uses magic, half the Stamina required to cast a spell will be spent by the one who cast this spell. If the spell is cast more than once, the Stamina cost will be equally distributed to everyone.#
+
+228. Life Bond
+#When unit receives non-lethal damage, part of the damage will be transfered to the spellcaster, provided it does not kill the caster himself.#

@@ -1,4 +1,4 @@
-Quantity: 133
+Quantity: 136
 
 0. Empty
 #No description#
@@ -362,7 +362,7 @@ Your world is the main source of Energy income. Each Shard joined to your world 
 #Try powerful spells and rituals, train elite warriors and fight huge monsters. Obtain legendary artifacts and collect rare armor sets.#
 
 113. Hint Miscellaneous
-# New Horizons 17.1001.f05 - English translation v2.81a#
+# New Horizons 18.0601.f01 - English translation v2.90a#
 
 114. No lottery
 #  
@@ -387,10 +387,14 @@ Your world is the main source of Energy income. Each Shard joined to your world 
 #%s %s#
 
 121. Switch Weapon - Magic strike
-#This unit is able to use additional enchanted weapons. This weapon deals magic damage. Attacking costs extra stamina.#
+#This unit is able to use additional enchanted weapons. This weapon deals magic damage.
+If the unit has Precise Strike, it is taken into account, reducing the enemy's Resistance.
+Attacking costs extra stamina.#
 
 122. Switch Ammo - Magic shot
-#The unit can switch to different and enchanted ammunition. These missiles deal magic damage. Attacking costs extra stamina.#
+#The unit can switch to different and enchanted ammunition. These missiles deal magic damage.
+If the unit has Precise Shot, it is taken into account, reducing the enemy's Resistance.
+Attacking costs extra stamina.#
 
 123. Line break 4
 #%s
@@ -431,3 +435,13 @@ A promoted unit will be fully healed.#
 
 133. Army composition - Cost
 #    %d      %d#
+
+134. Upgrade choice tip
+#Pick the unit's upgrade path. This cannot be undone, so choose carefully.#
+
+135. Upgrade choice availability reminder
+#This unit can choose one of two possible upgrade paths.#
+
+136. Upgrade path selection window
+#Unit can choose one of two possible upgrade paths now.
+Decision may be postponed, but you should not wait.#

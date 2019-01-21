@@ -1,4 +1,4 @@
-Quantity: 223
+Quantity: 228
 
 /0
 Name: Empty;
@@ -1343,3 +1343,33 @@ Name: Swallowing Enemy;
 Ability: 268
 Spell: 0
 Numeric: 1
+
+/224
+Name: Forest Protection;
+Ability: 0
+Spell: 380
+Numeric: 0
+
+/225
+Name: Forest Might;
+Ability: 0
+Spell: 381
+Numeric: 0
+
+/226
+Name: Forest Blessing;
+Ability: 0
+Spell: 382
+Numeric: 0
+
+/227
+Name: Spiritual Link;
+Ability: 0
+Spell: 384
+Numeric: 0
+
+/228
+Name: Life Bond;
+Ability: 0
+Spell: 385
+Numeric: 0

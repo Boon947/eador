@@ -64,7 +64,7 @@ The best warriors have a chance to be transferred to an elite squad.#
  However, this inconvenience is fully compensated by the innate strength and endurance of this aggressive race. Despite their bulky armor, Orcs are able to land blows so powerful that their enemy's armor bends and shatters. Moreover, unlike many barbarian races, Orcs can hold their own, and can also follow a battle plan, which makes an Orcish horde a very dangerous enemy.#
 
 15. Elf
-#There's a reason why the legendary elven archers enjoy a glorious reputation on all shards. Having such an archer among your troops can be a great blessing, for elves are unrivaled marksmen. Also the elven bows and arrows are a real treasure. No one has ever figured out the secret of their creation, which is jealously guarded by elven craftsmen.
+#There's a reason why the legendary elven archers - whether on the path of Fire or on the path of Wind - enjoy a glorious reputation on all shards. Having such an archer among your troops can be a great blessing, for elves are unrivaled marksmen. Also the elven bows and arrows are a real treasure. No one has ever figured out the secret of their creation, which is jealously guarded by elven craftsmen.
 Elves feel at home in the woods. They effortlessly find convenient paths, and sometimes it seems that even the trees themselves protect elven archers.
 The elves' main disadvantage is their vulnerability in melee. Graceful and slender, elves are somewhat vulnerable, so it's best not to let the enemy engage them in melee combat.#
 
@@ -80,7 +80,7 @@ The elves' main disadvantage is their vulnerability in melee. Graceful and slend
 19. Skeleton
 #Animated skeletons are a mysterious phenomenon. How in the world can bones move without flesh? However, tomb raiders have often encountered wandering skeletons inside abandoned graveyards and ancient burial chambers. Only recently did necromancers discover the secret spell that breathes a kind of surrogate life into the dead bones. Since then animated skeletons have become a real plague. Quite a few mages have started to create whole skeletal armies, finding potential soldiers in underground catacombs and ancient battlefields. 
 A skeleton is a fragile unit, but is not that easy to destroy. Weak blows deal no lasting damage to their bones, and their lack of flesh gives them great protection against arrows. Like any other animated undead creature, skeletons know no pain or fatigue and have no morale. They are but a tool controlled by the mage who created them.
-A particularly successful animation may well be uniquely marked, and may be equipped with special powers.#
+The most successful creations may well be uniquely marked, and may be equipped with special powers.#
 
 20. Zombie
 #Raising the dead using magic is the first trick learned by apprentice necromancers. Bodies raised from their graves have neither a mind nor a will of their own. All they can do is carry out their master's simple orders. The absence of a mind and fighting skills is well compensated by the dead men's insensibility to pain and their enormous strength. Another shortcoming is their low speed. As a rule, necromancers either use zombies as a living shield or try to raise them from the dead behind enemy lines. Laying zombies to rest, especially those raised by a strong necromancer, is no easy task - you'd have to chop the zombie to pieces for that.
@@ -88,7 +88,7 @@ A particularly successful creation may well be specially marked.#
 
 21. Imp
 #Imps are the lesser Chaos spawn. Although small in size, even one imp is enough to cause serious trouble. As with the rest of the Chaos spawn, total destruction is the one and only goal for an imp. It is well-equipped for that, too - with sharp strong claws and the ability to hurl lightning bolts. Even though an imp's power is only enough for no more than one lightning shot, that is poor consolation for the one being hit with it. 
-Demonologists use special spells to control the destructive power of these Chaos spawns, and the imps will destroy whatever their new master orders them to. However, it's hard to maintain control over a Chaos spawn for a longer period of time. So, after an imp has fulfilled its task, it is usually sent back to the underworld.#
+Demonologists use special spells to control the destructive power of these Chaos spawns, and the imps will destroy whatever their new master orders them to. However, it's hard to maintain control over a Chaos spawn for a longer period of time. So, after an imp has fulfilled its task, it is usually sent back to the Underworld.#
 
 22. Monk
 #They are seen on the battlefield often enough, but no one has ever been able to explain why they take part in combat at all and how they choose sides. Monks from the Order of the White Eagle pursue their own goals, unknown to mere mortals. Perhaps they must pass some sort of initiation in combat. Or maybe their god favors the warriors. Regardless of their motives, no Master declines the help of the monks when they offer it. That has more to do with the unrivaled healing abilities of these servants of the secret cult than with their combat skills.
@@ -422,16 +422,17 @@ With experience a runemaster not only learns to repair and improve the siege eng
 #Dwarves all too eagerly and recklessly sell their catapults to anyone willing to pay. Do they not realize that many rulers are all too willing to turn their own weapons against them in an instant, using them to relieve the Dwarven people of their gems and gold? No, the dwarves are not that naive. They are aware of the risk... but they don't care, believing themselves well protected by the mountain strongholds of their people.
 The earthshaker is vastly superior to a conventional catapult in both range and damage. By means of a complex system of levers and counterweights it is able to throw stones and metal pellets at incredible distances. The most talented rune craftsmen are needed to build an earthshaker. Enchantments are not limited to the siege engine itself. Often, even projectiles are enchanted for increased accuracy and damage. In short, the earthshaker has only one serious drawback: Due to its enormous weight it is very difficult to transport to the frontlines or move on the battlefield. It cannot move on its own and requires a fair amount of manpower to reposition.#
 
-105. Elf-swordsman
-#Heavy infantry is a rare phenomenon among elves, for they prefer to shower their enemies with arrows. Elven swordsmen wear light, flexible armor, allowing them to take advantage of their superb agility. At the same time it is surprisingly strong, and in no way inferior to human armor, often even superior. Their weapons are well-balanced and sharpened with a whetstone before each battle. The innate agility of elves in combination with at least a century of experience make for powerful warriors.
-Lightning strikes and high precision allow them to go up against enemies in overwhelming numbers.#
+105. Pathfinder
+#The very best Elven warriors, who have no equal in bowmanship, secretly patrol the frontiers of Elven territory. Even on their own (they rarely assemble), these skillful trackers are a very formidable force.
+The gorgeous Elven bow, crafted by the most skilled bow smiths, is improved and refined individually by each Pathfinder, uniquely customized to their own battle style. Even seemingly ordinary arrows can suddenly pierce any armor. Strong armor or magical protection alone cannot guarantee the security of a Pathfinder's target. Only both steel and magic together provide a small chance of survival.#
 
-106. Elf-horseman
-#Elves have an appreciation for horses and would prefer not to risk their lives on the battlefield, but when their assistance is required, their presence is often enough to overwhelm any opposition. This is mainly caused by the fact that elven horses are trained to maneuver through dense forests just as quickly as the elves who ride them. A forest full of these riders is sure to spell doom for any who threaten the elven settlements.#
+106. Shape Shifter
+#Elves typically prefer their trusty bow and great distance from the enemy in order to fully exploit their incomparable bow mastery. But among the forest warriors, there are some who, in battle, prefer to look the enemy in the eye. It might seem as if Elves are not the most powerful warriors, due to their natural grace, lightness, and, as a result, fragility - but Elven magic does help somewhat.
+Shape Shifters are able to transform in battle into their preferred mighty beast. Make no mistake, shifters can use the power of magical beasts to their full extent, and woe to those who underestimate these cunning warriors!#
 
-107. Elf-druid
-#Some elves dedicate their lives to the service of nature and the study of its wisdom, becoming druids - servants of the forest. They rarely leave their sacred groves, but when danger lurks near, they respond. Elf-druids are not honed in melee combat, but they are able to halt their enemies from a distance.
-Druids have no interest in fighting. Any druid is capable of using the blessing of the forest to heal their allies' wounds and neutralize venom. A druid's growth in magical strength leads to more effective spells dedicated toward protection from afflictions.#
+107. Forest Keeper
+#Some Elves devote their lives to worship Nature, and study its wisdom, becoming servants of the forest. They rarely leave their sacred groves, but when danger lurks near, they respond. Ill-suited for melee combat, Forest Keepers are however able to stop enemies from the distance - those who choose the Path of Water become deadly from long range, while those who prefer the Path of Earth can summon various beasts for protection.
+Forest Keepers are able to use the power of Nature to heal their allies' wounds, and neutralize poisons. As their experience grows, followers of the Path of Water learn to use their power much more effectively, while followers of the Path of Earth learn new spells.#
 
 108. Huorn
 #Semi-intelligent beings, the huorn are tree-like creatures similar to treants. Huorns are typically the result of a specific ritual conducted by druids. However, some of the old trees, especially in the ancient forests, seem to be falling asleep, with their number constantly dwindling. They are able to reproduce,
@@ -503,12 +504,12 @@ Given their declining strength, spirit talkers use spellcasting in battle, rathe
 #These centaurs are the leaders of their tribes and are markedly different from the others. In the language of the centaurs, these leaders are called "Abar-na-ming" which translates as "Heaven is Might". Like human monarchs, the role of centaur-chief is hereditary. Some believe that the blood of a centaur-chief transcends mortal aptitude. Each generation's centaur-chief is provided the sword and armor of the previous ruler in order to maintain the image of their clan.
 The centaur-chief has the responsibility of proving his gifted strength to his people, so that he may protect them from those who threaten them. The centaur-chief, like shamans, is blessed by his ancestors.#
 
-126. Blade Dancer
-#Fascinating and lethal are the elven blade dancers, who whirl around opponents with long knives - a dance of death, so to speak. Even without wearing any armor to protect their delicate forms, they still are a difficult enemy to face. Their expeditious nature leaves opponents with various slash marks before they even have the chance to strike.
-Light and deadly - that's how those who have seen them describe Blade Dancers.#
+126. Medium
+#Elven servants of the Great Forest often escort other warriors on campaigns, patrols, or battles. Able to channel the healing power of the ancient Elven forests, Mediums turn their bodies into a vessel to strengthen the body and mind of their kin, and unfortunately their gift does not affect them.
+All mediums are able to fight using offensive magic. Mediums are protected, preventing enemies from coming close, because, like all Elves, they are fragile and vulnerable.#
 
 127. Elven Mistress
-#Elven women rarely step onto a battlefield, but their presence cannot be underestimated. Despite their fragility and grace, an elven mistress can summon air magic to decimate her foes.#
+#Elven women rarely step onto a battlefield, but their presence cannot be underestimated. Despite her fragility and grace, an Elven Mistress who follows the Path of the Sun is a formidable adversary, able to wield her tremendous power to crush enemies from very long range. An Elven Mistress who follows the Path of the Stars can hurl the rage of air elements upon her enemies, and as she gains experience, the deadlier her spells become.#
 
 128. Gang Leader
 #The strongest of brigands, should they prove cunning and daring enough to survive that long, often become leaders of their own gangs. Due to the lawless, undisciplined nature of brigands, they tend to only follow a boss who can "take care of business".
@@ -553,7 +554,7 @@ The added value of a battle gryphon comes at a price, however, in the costs of u
 
 137. Faith Devotee
 #While monks often keep away from the front line in battle, there are those who have perfected the discipline necessary to step into the fray. And while experienced combatants often mock monks for their lack of grit, these trained zealots invariably surprise them.
-Divine power arms and guides these devoted servants of the Eagle - able to strike enemies from a distance and heal nearby allies. Their durable armor is concealed beneath their large robes, leaving unprepared enemies shocked when their strikes only cause wincing instead of crushing dismay - only to feel the crushing blow of the faith devotee's consecrated hammer.#
+Divine power arms and guides these devoted servants of the Eagle - and this power never leaves them, healing their allies' wounds.. Their durable armor is concealed beneath their large robes, leaving unprepared enemies shocked when their strikes only cause wincing instead of crushing dismay - only to feel the crushing blow of the faith devotee's consecrated hammer.#
 
 138. Keshik
 #The Keshiks are the Khan's elite nomadic guards - revered for their devotion to protect the tribal lands. These agile and swift archers notch their bows with impeccable speed, capable of showering the battlefield with feathered arrows before the opponent draws near. While most archers dread the inevitable clash with melee combatants, keshiks are not only prepared to face their foes with determination:
@@ -1099,3 +1100,13 @@ The bolder halflings ride on the boar's back. Wild animals are no match for such
 
 282. Tree of the Departed
 #The Alkari believe that there was a time when the souls of their dead came to present themselves before the Lord of Heaven to fight the eternal war with the Enemy, but when the Lord of Heaven fell in battle with the demons, the souls of the Departed lost their shelter. Trying to help their ancestors, mentors have found the solution in the memory of the deity - Children of Heaven, previously dwelling high in the mountains, migrated to the fertile plains, where they grew giant Trees of the Departed capable of hosting alkari souls. These trees have become, on the one hand, the home and the source of sustenance for the living, and on the other - the host of the souls of their ancestors, who can always aid their scions, be it with wise advice or mental power. And although the Tree is immobile, its magical powers are enormous, and each alkari, dead or alive, is ready to die again and again, protecting it from defilement.#
+
+283. Grunas
+#Elven warriors who have chosen the Path of Power can morph into a Grunas - a mighty beast, whose blows inflict pain throughout the body of whoever stands in their way.#
+
+284. Rugaru
+#Shape Shifters who follow the Path of Agility are able to morph into a Rugaru, a huge, terrifying, lightning-quick wolf, an encounter that never bodes well for the enemy.#
+
+285. Na'ag
+#Nagas, or, as they call themselves, Na'ag - are beyond any doubt the strangest creatures of the Abyss. And it's not just their appearance, even if a face on a huge snake's body looks very strange - and scary. Nagas, unlike most demons, are sensible, inclined to make contact with mortals - though it rarely ends well for the latter, and do not get involved in a fight for the sake of fighting. Their motives are unknown, they do not answer even to greater Demons and Acherons, who don't even try to control them, which is amazing! - as if the Flame had expelled them for a special purpose.
+In any event, fighting these snake-like monsters is terrifying. Quick, agile, very resistant, they can annihilate a small army in a matter of minutes. The wounds they inflict upon mortal creatures are dreadful, taking extremely long to heal, when the victim is lucky enough to survive. Strong sorcerers, Najas can drain their victim's vitality, and restore their own.#

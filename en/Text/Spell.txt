@@ -1194,7 +1194,8 @@ Has no effect on the Undead, Mechanical units, and Elementals.#
 180. Panic
 #Circle 2.
 School: Astral Magic.
-Reduces the morale of all enemies within 1 tile by 8.
+Reduces the morale of all enemies within 1 tile by 10.
+Effect increases with the caster's Spellpower.
 Has no effect on intrepid creatures.#
 
 181. Imaginary Assassin
@@ -1409,7 +1410,7 @@ Only works on the Undead. The spell has no effect on Death Servants and incorpor
 #Circle 3.
 School: Necromancy.
 The effect of this spell is cumulative.
-All friendly undead units under this spell immediately gain 8 hit points and this will repeat each turn. Lasts 4 turns.
+Under this spell, all allied undead units immediately recover 8 HP, and continue regenerating every turn. Lasts 4 turns.
 Only works on the Undead.
 Number of restored hit points slightly increases with the caster's Spellpower.#
 
@@ -2035,7 +2036,7 @@ Damage increases slightly with the caster's Spellpower. Resistance protects only
 301. Blind Faith
 #Circle 2.
 School: Sacred Magic.
-Sets the attack of an enemy or friendly unit to zero, replacing it with the ability Smite Evil (10). Lasts 4 turns. Resistance protects only partially against this spell.
+Sets the attack of an enemy or friendly unit to zero, replacing it with the ability Smite Evil (10). Disables Ranged Attack of enchanted creature. Lasts 4 turns. Resistance protects only partially against this spell.
 The caster's Concentration does not affect Spell Duration.
 Only works on Mortals. Has no effect on Animals.#
 
@@ -2531,13 +2532,15 @@ Only works on Animals.#
 #Circle 2.
 School: Astral Magic.
 Increases the duration of positive spells on an ally, or negative spells on an enemy by 2.
-The effect slightly increases with the caster's Spellpower.#
+The effect slightly increases with the caster's Spellpower.
+Also reduces the duration of negative spells on an ally, or positive spells on an enemy - only by 1.#
 
 375. Mass Improved Charm
 #Circle 4.
 School: Astral Magic.
 Increases the duration of positive spells on all allies, and negative spells on all enemies by 3.
-The effect slightly increases with the caster's Spellpower.#
+The effect slightly increases with the caster's Spellpower.
+Also reduces the duration of negative spells on an ally, or positive spells on an enemy - only by 1.#
 
 376. Gates of Death
 #Circle 4.
@@ -2562,3 +2565,49 @@ Summoning range and the Rats' attributes depend on the caster's Summoning abilit
 School: Natural Magic.
 Summons a Giant Eagle to an adjacent tile.
 Summoning range and the Eagle's attributes depend on the caster's Summoning skill.#
+
+380. Forest Protection
+#Circle 1.
+School: Natural Magic.
+Increases by 2 Defense and Ranged Defense of all nearby allied units. Lasts 4 turns.
+Effect increases with the caster's Spellpower.#
+
+381. Forest Might
+#Circle 2.
+School: Natural Magic.
+Increases by 2 all Attack and Defense attributes of all nearby allied units. Lasts 4 turns.
+Effect increases with the caster's Spellpower.#
+
+382. Forest Blessing
+#Circle 3.
+School: Natural Magic.
+Increases by 2 all Attack and Defense attributes of all nearby allied units. Grants the ability Supplier 2 to the spellcaster. Lasts 4 turns.
+Effect increases with the caster's Spellpower.#
+
+383. Bear Form
+#Circle 3.
+School: Natural Magic.
+Turns a friendly unit into a Dire Bear. Lasts for 5 turns.
+Duration increases with the caster's Concentration.
+Only works on Mortals.#
+
+384. Spiritual Link
+#Circle 2.
+School: Astral Magic.
+When a unit is under this spell's effect, the Stamina cost of spellcasting is evenly distributed between him and all spellcasters that have established a Spiritual Link with him. Lasts 4 turns.
+Duration increases with the caster's Concentration.
+Only works on Mortals. Cannot be cast on the caster himself.#
+
+385. Life Bond
+#Circle 2.
+School: Natural Magic.
+When the target takes non-lethal damage, some of it is absorbed by the caster. Transfers 1 HP, the damage cannot kill the caster himself. Effect increases with the caster's Spellpower.
+Lasts 4 turns. May be dispelled by an allied spellcaster.
+Only works on Mortals. Cannot be cast on the caster himself.#
+
+386. Soul Sipping
+#Circle 3.
+School: Chaos Magic.
+Deals 8 magic damage to every enemy around the caster. Caster recovers health proportional to the damage dealt.
+Damage increases significantly with the caster's Spellpower.
+Has no effect on the Undead, Mechanical units, and Elementals.#
