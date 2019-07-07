@@ -1,0 +1,3883 @@
+>>L<<Russian	>>L<<English
+*Зарезервировано*	*Reserved*
+...добавлена запись в журнал...	...Journal entry added...
+13 чертей	13 Fiends
+Mеню (Esc)	Menu (Esc)
+Аббатство Уар	Uar Abbey
+Аббатство	Abbey
+Авантюрист	Adventurer
+Авантюристы	Adventurers
+Авенское аббатство	Aven Abbey
+Автобой (Esc - отмена)	Auto Combat (Esc - Cancel)
+Автобой (F11)	Auto Combat (F11)
+Автобой...	Auto Combat...
+Автобой	Auto-combat
+Автопередача хода	Automated Turn Transfer
+Автоповышение	Auto-level
+Агатовый амулет	Agate Amulet
+Адепт	Adept
+Адрагерон	Adrageron
+Адская гончая	Hellhound
+Адские врата	Hellgates
+Адский огонь	Hellfire
+Академия Волшебства	Magic Academy
+Активировать дополнительный выстрел (D)	Activate Double Shot (D)
+Активировать круговую атаку (A)	Activate Round Attack (A)
+Активировать лечение (H)	Activate Healing (H)
+Активировать починку предметов (R)	Activate Item Repair (R)
+Активировать сокрушающий удар (C)	Activate Crushing Blow (C)
+Акулий остров	Shark Island
+Ал	Al
+Ал-Атор	Al-Athor
+Алебарда	Halberd
+Алиссия	Alyssia
+Алмазный браслет	Diamond Bracelet
+Алмазный перстень	Diamond Ring
+Алтарь богини	Altar of Goddes
+Алтарь Дракона	Dragon Altar
+Алтарь Первоэлементов	Altar of Prime Elements
+Алтарь Смерти	Altar of Death
+Алтарь Хаоса	Altar of Chaos
+Алтарь	Altar
+Алхимия	Alchemy
+Амбар	Granary
+Амулет Вечности	Amulet of Ages
+Амулет Гарроса	Garros's Amulet
+Амулет Герскила	Herskil's Amulet
+Амулет До-Гора у Белеза	Beleth has Doh-Gor's Amulet
+Амулет До-Гора уничтожен	Doh-Gor's Amulet Destroyed
+Амулет Кровожадности	Amulet of Bloodlust
+Амулет Оинора	Oinor's Amulet
+Амулет Урагана	Amulet of the Storm
+Амулет экзекутора	Executioner's Amulet
+Анонимус	Anonymous
+Антимагия	Antimagic
+Аптека	Pharmacy
+Ар	Ar
+Арбалет Гнева	Crossbow of Wrath
+Арбалетчик	Crossbowman
+Ардо	Ardo
+Арена	Arena
+Арены	Arenas
+Арзанг	Arzang
+Арканит	Arcanite
+Армагеддон	Armageddon
+Армада	Armada
+Армия гномов	Dwarven army
+Армия дроу	Drow army
+Армия Хаоса	Army of Chaos
+Армия Ящеров	Lizardman army
+Артефакты Вечности	Artifacts of Ages
+Архимаг	Archmage
+Архимагистр	Archmagister
+Архитектор	Architect
+Ассат	Assat
+Аст	Ast
+Астерс	Asters
+Астральная энергия	Astral Energy
+Астральные врата  	Astral Gates
+Астральные сапоги	Astral Boots
+Астральный клинок	Astral Blade
+ат	at
+Атака всех врагов	Attack All Enemies
+Атака с разгона	Charge
+Атака	Attack
+Атаковать стража (T)	Attack Guard (T)
+Атаковать стража	Attack Guard
+Атаковать!	Attack!
+Атаман	Gang Leader
+Атлетика	Athletics
+атр	atre
+Ахерон	Acheron
+Ашш-Уххисс	Ushh-Ukhhiss
+Аэнтуилл	Aentwill
+Багряные кручи	Crimson Banks
+Базар	Market
+Базовая величина	Base Value
+Базовая цена в золоте	Base Price in Gold
+Базовая цена в кристаллах	Base Price in Gems
+Балаган	Show Booth
+Баланс	Balance
+Баллиста	Ballista
+Банда гноллов	Gnoll gang
+Банда гоблинов	Goblin gang
+Банда	Mob
+Бандит	Bandit
+Бандитский клан	Bandit Clan
+Бандитский лук	Bandit's Bow
+Бандитский схрон	Bandit's Hideout
+Бандитское логово	Lair of Bandits
+Бандиты	Bandits
+Банк	Bank
+Баньши	Banshee
+Барсучьи холмы	Badger Hills
+Бат	But
+Башня артефактов	Tower of Artifacts
+Башня Воскрешения	Tower of Restoration
+Башня Гипноза	Tower of Hypnosis
+Башня Знаний	Tower of Knowledge
+Башня магов	Mages Tower
+Башня молний	Tower of Lightning
+Башня некромантов	Tower of Necromancy
+Башня Ночи	Tower of Night
+Башня Хаоса	Tower of Chaos
+Башня	Tower
+Бездельники	Idlers
+Бездонные топи	Bottomless Bogs
+Бездорожье	Waylessness
+Безликая равнина	Faceless Plain
+Безобидные	Harmless
+Безумие	Insanity
+Безымянный	Nameless
+Бел	Bel
+Белая магия	White Magic
+Белез	Beleth
+Белый маг	White Mage
+Бера	Bera
+Бердыш	Bardiche
+Берег Дождей	Rain Coast
+Берег Зари	Dawn Coast
+Берег Русалок	Mermaid Shore
+Берег Черепов	Skullcoast
+Берега Медуз	Medusa Shores
+Берега Надежды	Shores of Hope
+Берега разбойников	Brigand Shore
+Берсерк	Berserker
+Бес	Imp
+Бескрайняя степь	Boundless Steppe
+Бесовьи болота	Impish Swamps
+Беспокойное кладбище	Haunted Cemetery
+Беспринципный	Unscrupulous
+Бесстрашие	Fearless
+Бешеный лес	Rabid Forest
+Библиотека (S)	Library (S)
+Библиотека	Library
+Благодать	Grace
+Благословение	Blessed
+Благословенная кольчуга	Holy Chainmail
+Благословенный Брег	Blessed Shore
+Благословенный круг	Holy Circle
+Благословенный щит	Holy Shield
+Бледные равнины	Pale Plains
+Блуждаюшие Огни	Ghostlights
+Блэрг	Blarg
+Бобровья падь	Beaver Folds
+Богомольи луга	Mantis Meadows
+Боевая секира	Battle Poleaxe
+Боевой грифон	Battle Gryphon
+Боевой дух	Morale
+Боевой клич	Battle Cry
+Боевой посох	Battle Staff
+Боевой слон	War Elephant
+Боевой топор	Battle Axe
+Боевой чародей	Warwizard
+Боевые жрецы	War Priests
+Боевые перчатки	Battle Gloves
+Боевые чародеи	Battlemages
+Божественная месть	Divine Vengeance
+Божественная печать	Divine Seal
+Божественный прыжок	Divine Warp
+Божественный свет	Divine Light
+Бой с иллюзией	Illusionary Battle
+Бойцовские бараки	Fighter Barracks
+Болезнь	Diseased
+Болота Василиска	Basilisk Swamps
+Болота Глотунов	Swallower Swamps
+Болота Легрис	Legris Swamps
+Болота медуз	Medusa Swamps
+Болота Призраков	Ghostly Swamps
+Болота Светляков	Firefly Swamps
+Болота Слёз	Swamp of Tears
+Болота Терра	Terra Swamps
+Болота троллей	Troll Swamps
+Болота Урлов	Urlis Swamps
+Болота Усопших	Swamps of the Dead
+Болота	Swamps
+Болотицы	Marshies
+Болотная стрекоза	Swamp Dragonfly
+Болотные твари	Swamp Creatures
+Болотный край	Swamp Country
+Болото Йарам	Yaram Swamp
+Болото Червей	Maggot Swamp
+Болото	Swamp
+Большая брешь	Large Breach
+Большая Грязь	Great Mud
+Большие Бугры	Great Hursts
+Большие Осыпи	Great Rocksides
+Большие Тавры	Great Taurus
+Большие Шатры	Great Tabernacles
+Большой город	City
+Большой	Big
+Бомбардировка	Bombardment
+Боргал	Borgal
+Бор-Гуал	Bor-Gual
+Бор-Илаорн	Bor-Ylaorn
+Бор-Киун	Bor-Ceon
+Бор-Лаэн	Bor-Laen
+Бор-Наэол	Bor-Naeol
+Боровский лес	Borow Wood
+Бор-Риад	Bor-Riad
+Бор-Туур	Bor-Tuur
+Борьба с конкуренцией	Fighting the Competition
+Бранн	Brann
+Браслет Кузнеца	Blacksmith's Bracelet
+Браслет Луны	Moon Bracelet
+Браслет Солнца	Sun Bracelet
+Браслеты Герскила	Herskil's Bracelet
+Браслеты Оинора	Oinor's Bracelet
+Братство Друидов	Druid Brotherhood
+Братство Ночи	Dark Brotherhood
+Братство Орла	Eagle Brotherhood
+Братство Света	Brotherhood of Light
+Брешь	Breach
+Бродячие холмы	Rambling Hills
+Бродячий цирк	Traveling Circus
+Бродящий-По-Снам	Dreamwalker
+Бронебойный выстрел	Armor Piercing Shot
+Бронебойный удар	Armorpiercing Strike
+Бронзовое кольцо	Bronze Ring
+Бронированный наруч	Armored Bracers
+Броня Жажды	Armor of Desire
+Броня повреждена	Damaged Armor
+Бростер	Broster
+Бубенцы	Jinglebells
+Бугай	Brute
+Будет непросто	Not Easy
+Будет очень тяжело	Very Hard
+Будет тяжело	Hard
+Бука	Bugbear
+Булава	Mace
+Буртианские болота	Burtian Swamps
+Бурусье	Bourusland
+Бурые леса	Brown Woods
+Бырдаш	Byrdash
+Бырр-Чаг	Byrr-Chagg
+Быстрая замена	Fast Draw
+Быстрый бой (F10)	Quick Combat (F10)
+В прошлое	Into the Past
+В ярости	Furious
+Важно!	Important!
+Вайшан	Visharn
+Валькирия	Valkyrie
+Вампир	Vampire
+Вампиризм	Vampirism
+Варвар	Barbarian
+Варварские племена	Barbarian Tribes
+Варвары	Barbarian tribe
+Василиск	Basilisk
+Вассал	Vassal
+Ваш отряд	Your Party
+Ваш ход	Your Turn
+Введите Ваше имя	Enter your name
+Ведьмак	Witcher
+Ведьмаки	Witcher
+Ведьмины топи	Witchbogs
+Вековечный лес	Eternal Wood
+Великаны	Giants
+Великаньи холмы	Giant Hills
+Великая Кузня	Great Forge
+Великая Орда	Great horde
+Великая пирамида	Great Pyramid
+Великая пустошь	Great Wasteland
+Великий бронник	Epic Platemaker
+Великий воин стаи	Great Pack Warrior
+Великий демон	Great Demon
+Великий инквизитор	Grand Inquisitor
+Великий кольчужник	Epic Mailmaker
+Великий меч	Great Sword
+Великий оружейник	Epic Weaponsmith
+Великий плотник	Epic Carpenter
+Великий портной	Epic Tailor
+Большая деревня	Town
+Великий скорняк	Epic Tanner
+Великий торговец	Great Merchant
+Великий чародей	Epic Enchanter
+Великий ювелир	Epic Jeweler
+Великое Дерево	Great Tree
+Великое Ничто	Great Nothing
+Великоземье	Greatlands
+Велинар	Velinar
+Величайший демон	Archdemon
+Венец Рогов	Horned Coronet
+Вербовочный пункт	Recruiting Station
+Вересковый кряж	Heather Range
+Верфь	Shipyard
+Верховная Мать	Matron Mother
+Верховный друид	Archdruid
+Верховный жрец	High Priest
+Весёлый Дол	Merry Vale
+Веснёвый Посад	Springburg
+Ветеран-копейщик	Veteran Spearman
+Ветеран-пращник	Veteran Slinger
+Ветрова пустошь	Windwaste
+Ветхий Двор	Shabby Yard
+Ветхий лес	Shabby Wood
+Вечное Солнце	Eternal Sun
+Вечный Источник	Eternal Spring
+Вианта	Vianta
+Виверна	Wyvern
+Вид границ	Boundary Type
+Видящий-Сны	Dreamseer
+Винокурня	Winery
+Владение жезлом	Wand Firing
+Владыка бездны	Lord of Abyss
+Владыка фантомов	Lord of phantoms
+Владычица эльфов	Elven Mistress
+Властелин	Overlord
+Внутренний голос	Inner Voice
+Вода	Water
+Водяницы	Waterline
+Воевода	Warlord
+Военная академия дроу	Drow War Academy
+Военная академия	Military Academy
+Военная школа дроу	Drow War School
+Военная школа	War School
+Военный квартал	Military Quarter
+Военный лагерь дроу	Drow Warcamp
+Военный лагерь	Warcamp
+Вожак	Chieftain
+Вождь	Chieftain
+Возвести постройку (W)	Construct Building (W)
+Возвраты в прошлое	Reversions
+Воздушный щит	Air Shield
+Возмущены	Indignant
+Воин в гарнизоне	Unit in Garrison
+Воин дроу	Drow Warrior
+Воин Мрака	Warrior of Darkness
+Воин Света	Warrior of Light
+Воин	Warrior
+Война	War
+Воинов-ветеранов	Veteran Units
+Воины Света	Warriors of Light
+Воители	Men of War
+Войти в здание (W)	Enter Building (W)
+Войти в здание	Enter Building
+Волк	Wolf
+Волки	Wolves
+Волчий клык	Wolf's Fang
+Волчьи дебри	Wolfwilds
+Волшебная броня	Magic Armor
+Волшебная роща	Enchanted Grove
+Волшебная стрела	Magic Arrow
+Волшебник	Wizard
+Волшебное оружие	Magic Weapon
+Волшебный дракон	Faerie Dragon
+Волшебный клык	Enchanted Fang
+Волшебный кристалл	Magic Crystal
+Волшебный лес	Magical Forest
+Волшебный поток	Magic Stream
+Волшебный щит	Magic Shield
+Вольное поселение	Free Settlement
+Вольные пруды	Freeborn Ponds
+Вольный лес	Freeborn Wood
+Вонючие топи	Reeking Bogs
+Воображаемый убийца	Imaginary Assassin
+Воодушевление	Inspiration
+Воплощение Воды	Water Elemental
+Воплощение Воздуха	Air Elemental
+Воплощение Земли	Earth Elemental
+Воплощение Огня	Fire Elemental
+Воплощения стихий	Elements Incarnate
+Вопль Баньши	Banshee's Howl
+Вор	Thief
+Воровской притон	Den of Thieves
+Вороновы степи	Raven Steppes
+Вороновье	Ravenside
+Воскресить героя	Resurrect Hero
+Воскрешение	Resurrection
+Восстание нежити  	Undead Uprising
+Восстановление нежити	Full Undead Rest
+Восстановление сил	Recuperation
+Воющие дебри	Howling Wilds
+Враги Света	Enemies of Light
+Враги	Enemies
+Врата Бездны	Gates of Abyss
+Врата Хаоса	Chaos Gates
+Время действия	Duration
+Всадник	Horseman
+всегда	always
+Всего	Total
+Всплеск Хаоса	Chaos Splash
+Встречный ветер	Head Wind
+Вторжение на осколок	Shard Invasion
+Второй круг	Second Circle
+Вуагрил	Voigryl
+Вулкан	Volcano
+Выбор игрока	Player's Choice
+Выбор оружия	Choose Weapon
+Выбрать войну	Choose War
+Выбрать жребий	Cast Lots
+Выбрать предмет для обмена	Choose an item to exchange
+Выбрать провинцию для обмена	Choose a province to exchange
+Выбрать ресурс для обмена	Choose a resource to exchange
+Выбросить предметы	Discard Items
+Вызвать заклинание (S)	Cast Spell (S)
+Вызвать Зарра	Summon Zarr
+Вызов адской гончей	Summon Hellhound
+Вызов беса	Summon Imp
+Вызов виверны	Summon Wyvern
+Вызов Владыки бездны	Summon Lord of Abyss
+Вызов демона	Summon Demon
+Вызов дьявола	Summon Devil
+Вызов проклятья	Curse Spell
+Вызов существа	Summon Creature
+Вызов уязвимости	Vulnerability Spell
+Вызов фантома	Summon Phantom
+Вызов чёрта	Summon Fiend
+Вымпел Дракона	Dragon Pennant
+Вымпел Орла	Eagle Pennant
+Выносливость	Stamina
+Выполнено заданий	Quests Completed
+Выполнено	Completed
+Выселки	Newsettle
+Высокие холмы	High Hills
+Высшая сила	Higher Power
+Выход	Exit
+Вышитый наруч	Embroidered Bracers
+Вьюнова пустошь	Loachy Wasteland
+Гавион	Gavion
+Гадючьи топи	Viper Bogs
+Галлюцинации	Hallucinating
+Ганетская грязь	Ganet Mud
+Гар	Gar
+Гарзод	Garzod
+Гарнизон (D)	Garrison (D)
+Гарнизоны	Garrisons
+Гарпия	Harpy
+Гаррос освобождён	Garros has been released
+Гаррос погиб	Garros has died
+Гвардеец	Guardsman
+Гвардейская алебарда	Guards Halberd
+Гвардейский арбалет	Guards Crossbow
+Гвардейский панцирь	Guards Breastplate
+Гвардия	Guardsmen
+Гворн	Huorn
+Гейзер	Geyser
+Генерал	General
+Гербы	Banners
+Герн	Guern
+Героев	Heroes
+Герои	Heroes
+Герой	Hero
+Героизм	Heroism
+Герскил	Herskil
+Гиблые болота	Deadly Swamps
+Гиблые дебри	Deadwilds
+Гиблые топи	Deadly Bogs
+Гигант	Giant
+Гигантский орел	Giant Eagle
+Гигантский	Colossal
+Гидра	Hydra
+Гильдия алхимиков	Alchemists Guild
+Гильдия архитекторов	Master Builder Guild
+Гильдия бойцов	Fighter's Guild
+Гильдия возчиков	Drivers Guild
+Гильдия воинов	Warriors Guild
+Гильдия воров	Thieves Guild
+Гильдия геологов	Geologists Guild
+Гильдия горняков	Miners Guild
+Гильдия дрессировщиков	Handler's Guild
+Гильдия звероловов	Swamp Trappers Guild
+Гильдия зодчих	Architects Guild
+Гильдия иллюзионистов	Illusionists Guild
+Гильдия инженеров	Engineering Guild
+Гильдия исследователей	Explorers Guild
+Гильдия каменщиков	Stonemasons Guild
+Гильдия купцов	Merchants Guild
+Гильдия лесников	Foresters Guild
+Гильдия магов	Mages Guild
+Гильдия механиков	Mechanics Guild
+Гильдия монстрологов	Monstrologists Guild
+Гильдия мореходов	Seafarers Guilds
+Гильдия мудрецов	Sages Guild
+Гильдия наёмников	Mercenary Guild
+Гильдия некромантов	Necromancers Guild
+Гильдия плотников	Carpenters Guild
+Гильдия ремесленников	Craftsmen Guild
+Гильдия следопытов	Pathfinders Guild
+Гильдия строителей	Builders Guild
+Гильдия судостроителей	Shipbuilders Guild
+Гильдия торговцев	Traders Guild
+Гильдия травников	Herbalists Guild
+Гильдия трапперов	Trappers Guild
+Гильдия убийц	Assassins Guild
+Гильдия целителей	Healers Guild
+Гильдия шахтеров	Diggers Guild
+Гимн Проклятых	Anthem Of The Damned
+Гир	Guir
+Главарь	Ringleader
+Глас мира	Word of Peace
+Глас Смерти	Word of Death
+Глубоководье	Waterdeep
+Глухомань	Byplace
+Гнёзда гарпий	Harpy Nests
+Гнезда грифонов	Gryphon Nest
+Гнилое всхолмье	Rotten Hillside
+Гнилолесье	Rotwood
+Гнилые болота	Rotten Swamps
+Гнилые затоки	Rotten Sloughs
+Гнолл	Gnoll
+Гнолл-вожак	Gnoll-chieftain
+Гнолл-сержант	Gnoll-sergeant
+Гнолл-стрелок	Gnoll-archer
+Гноллы	Gnolls
+Гном	Dwarf
+Гномий арбалет	Dwarven Crossbow
+Гномий квартал	Dwarven Quarter
+Гномий клан	Dwarven Clan
+Гномий патруль	Dwarven Patrol
+Гномий топор	Dwarven Axe
+Гномий щит	Dwarven Shield
+Гном-инженер	Dwarven Engineer
+Гномы	Dwarves
+Гномьи бороды	Dwarven beards
+Гномьи рукавицы	Dwarven Gauntlets
+Гномьи холмы	Dwarven Hills
+Гномья артиллерия	Dwarven artillery
+Гномья баллиста	Dwarven Ballista
+Гномья катапульта	Dwarven Catapult
+Гномья кольчуга	Dwarven Chainmail
+Гномья крепость	Dwarven Stronghold
+Гномья кувалда	Dwarven Maul
+Гномья пушка	Dwarven Cannon
+Гоблин	Goblin
+Гоблинова плотина	Goblin's Dam
+Гоблин-охотник	Goblin-hunter
+Гоблинский квартал	Goblin Quarter
+Гоблинский остров	Goblin Island
+Гоблин-стрелок	Goblin-archer
+Гоблин-чародей	Goblin-sorcerer
+Гоблин-шаман	Goblin-shaman
+Гоблины	Goblins
+Говорящий-с-Духами	Spirit Talker
+год	year
+года	years
+Голем	Golem
+Големы	Golems
+Голова	Head
+Головорез	Cutthroat
+Головорезы	Cutthroats
+Голые холмы	Barren Hills
+Гончарная мастерская	Pottery
+Гончие Хаоса	Chaos Hounds
+Гор	Gor
+Гора	Mountain
+Горгульи	Gargoyles
+Горгулья	Gargoyle
+Горнак	Gornack
+Город	City
+Горы/Холмы	Mountains, Hills
+Горы	Mountains
+Горькие холмы	Bitter Hills
+Гостиный двор	Merchant Court
+Грабители	Robbers
+Грабитель 10	Plunderer 10
+Грабитель	Plunderer
+Грабить провинцию	Plunder Province
+Гремящие скаты	Rambling Ramps
+Гретт	Grett
+Грибная опушка	Mushroom Skirts
+Грибоеды	Mushroom Eaters
+Грифон	Gryphon
+Грифоньи стрелы	Gryphon's Arrows
+Громила	Thug
+Громкость звука	Sound Volume
+Громкость музыки	Music Volume
+Громовые степи	Thunder Steppes
+Грун Батар	Groon Bathar
+Гряда Дальних Дымов	Far Smokes Ridge
+Грязь	Mud
+Гур Кардак	Ghur Kardukk
+Гуриново поле	Gurin's Grounds
+Гурово нагорье	Gur's Highland
+Густой туман	Thick Fog
+Гыр-Зухтуб	Hyr-Xuchtubb
+Гыш-Надрух	Hysh-Nadrookh
+Дагалор	Dagalore
+Дагор	Dagor
+Даже не пытайтесь!	Don't Even Try!
+Дайвардхан	Deiwardhan
+Дальнобойный арбалет	Long-range Crossbow
+Дальность выстрела	Range
+Дан	Dan
+Данные игрока	Player Info
+Дардан	Daerdun
+Дариол	Dariol
+Дарк	Dark
+Дарос	Daros
+Дары Земли	Gifts of Earth
+Дары Небес	Gifts of Heaven
+Дашватар	Dushvatar
+Двойной выстрел	Double Shot
+Дворец	Palace
+Двуручный меч	Two-Handed Sword
+Двуручный предмет	Two-Handed Item
+Дебри Ящера	Lizard Thicket
+Дезинтеграция	Disintegration
+Действующие ритуалы	Active Rituals
+Действующие эффекты	Active Effects
+Демон	Demon
+Демонический клинок	Demonblade
+Демонов кряж	Demon Range
+Демонолог	Demonologist
+Демонологи	Demonologists
+Демоны	Demons
+Дерево фей	Fairy Tree
+Деревянный щит	Wooden Shield
+Держи вора!	Stop the Thief!
+Деталей Разрушителя	Destroyer Parts
+Диалог	Dialog
+Диверсия	Sabotage
+Дивные холмы	Wondrous Hills
+Дикая пустошь	Savage Wasteland
+Дикие грифоны	Wild Gryphons
+Дикие пегасы	Wild Pegasi
+Дикий лес	Savage Wood
+Дикое поле	Wild Field
+Динетар	Deanethar
+Динриг	Dynrigg
+Дионий	Dionium
+Дипломатическое сообщение	Diplomatic Message
+Дипломатия	Diplomacy
+Дистанционная атака	Ranged Attack
+Дисциплина	Discipline
+Дитя Света	Avatar of Light
+Длинное копье	Long Spear
+Длинный лук	Long Bow
+Длинный меч	Longsword
+Длинный посох	Long Staff
+Длительность заклинаний	Spell Duration
+до конца боя	till the end of combat
+Добрый	Good
+Добываемый ресурс	Harvested Resource
+Добывается ресурса	Resource harvested
+Добыты знания о постройках	Building Knowledge Obtained
+Довольны	Content
+Договор со стражем	Guard Contract
+До-Гор	Doh-Gor
+Дозорные	Watchmen
+дол	dol
+Дол-Аан	Dol-Aan
+Дол-Гоар	Dol-Goar
+Долина Ардарун	Ardarune Valley
+Долина Бродяг	Wanderer Valley
+Долина Бурь	Tempest Valley
+Долина Ветров	Valley of the Winds
+Долина Змей	Valley of Snakes
+Долина Знамений	Valley of Signs
+Долина Костров	Bonfire Valley
+Долина Мечей	Valley of Swords
+Долина Найдак	Nidack Valley
+Долина Паломников	Pilgrims Valley
+Долина Радуги	Rainbow Valley
+Долина росомахи	Wolverine Valley
+Долина Скарабея	Scarab Valley
+Долина Скелетов	Valley of Skeletons
+Долина Смерти	Valley of Death
+Долина Сокола	Falcon Valley
+Долина Ушедших	Valley of the Departed
+Долина Хогор	Hogor Valley
+Долина Цветов	Flower Valley
+Долина Чаек	Seagull Valley
+Долина Шохар	Shokhar Valley
+Дол-Луад	Dol-Luad
+Дол-Наэр	Dol-Naer
+Дол-Сион	Dol-Syon
+Дол-Уллун	Dol-Ullun
+Дом наместника	Deputy's House
+Дом старосты	Elder's House
+Дом судьи	Judge's House
+Доминус	Dominus
+Дополнительный выстрел	Double Shot
+Дор Гаррок	Dor Gurrock
+дор	dor
+Дораат	Doraat
+Дорикус	Dorikos
+Дорожный посох	Traveling Staff
+Дос	Dos
+Доспех Величия	Armor of Grandeur
+Доспех Ветерана	Veteran's Armor
+Доспех Героя	Hero's Armor
+Доспех Герскила	Herskil's Armour
+Доспех Доблести	Armor of Valor
+Доспех Единорога	Unicorn Armor
+Доспех Мантикоры	Manticore Armor
+Доспех Паладина	Paladin's Armor
+Доспех фельдмаршала	Marshal's Armor
+Доспехи Василиска	Basilisk Armor
+Достижения	Achievements
+Доход золота	Gold Income
+Доход кристаллов	Gem Income
+Доход с мира	World Income
+Доход энергии	Energy Income
+Доход	Income
+Дразг	Drazg
+Драйдер	Drider
+Драколич	Dracolich
+Дракон	Dragon
+Драконий амулет	Dragon Amulet
+Драконий плащ	Dragon Cloak
+Драконий пояс	Dragon Belt
+Драконий шлем	Dragon Helmet
+Драконий щит	Dragon Shield
+Драконовы кручи	Dragon Banks
+Драконы	Dragons
+Драконье логово	Dragon's Lair
+Драконье яйцо	Dragon's egg
+Драконьи доспехи	Dragon Armor
+Драконьи перчатки	Dragon Gloves
+Драконьи сапоги	Dragon Boots
+Драконья кольчуга	Dragon Chainmail
+Драэглот	Draegloth
+Древнее святилище	Sanctuary
+Древние руины	Ancient Ruins
+Древний Дракон	Ancient Dragon
+Древний склеп	Ancient Crypt
+Древних деталей	Ancient Parts
+Древняя усыпальница	Ancient Tomb
+Древочеловек	Treant
+Дремучая чащоба	Primeval Thicket
+Дриада	Dryad
+Дриадова пуща	Dryad Thicket
+Дроу (Ку'Ксорларин)	Drow (Q'Xorlarrin)
+Дроу (Х'Тисет)	Drow (H'tithet)
+Другие доходы	Other Income
+Другой игрок	Another Player
+Дружина	Retinue
+Друид	Druid
+Друидова пуща	Druid Thicket
+Друиды	Druids
+Дубина Тролля	Troll's Club
+Дубки	Oaklets
+Дубленая куртка	Tanned Leather Jacket
+Дубовый завал	Oak Heap
+Дубовый ручей	Oak Creek
+Дурш-Бооз	Dursh-Bohoz
+Дух драколича	Spirit of Dracolich
+Духи леса	Forest Spirits
+Душегуб	Soulslayer
+Дуэлянт	Duelist
+Дымные предгорья	Smoky Foothills
+Дьявол	Devil
+Дьявольский лес	Devilish Woods
+Дьявольский трезубец	Devil's Trident
+Егерь	Ranger
+Егеря	Foresters
+Единорог	Unicorn
+Ёш-Калык	Yosh-Kalyk
+Жабье поводье	Toad Waters
+Жабьи болота	Toad Swamps
+Жезл Бури	Wand of Tempest
+Жезл Вечности	Wand of Ages
+Жезл Власти	Wand of Power
+Жезл Колдуна	Sorcerer's Wand
+Жезл Мага	Mage's Wand
+Жезл Молний	Wand of Lightning
+Жезл Тьмы	Wand of Darkness
+Жезл Чернокнижника	Warlock's Wand
+Жезл Шамана	Shaman's Wand
+Жезл	Wand
+Железное кольцо	Iron Ring
+Железные холмы	Iron Hills
+Железный наруч	Iron Bracers
+Железо	Iron
+Желудёвый лес	Acorn Wood
+Жёлудь древочеловека	Treant's Acorn
+Жертвенный алтарь	Sacrificial Altar
+Жертвоприношение	Sacrifice
+Жёсткий ремень	Hard Belt
+Живоглот	Swallower
+Живой доспех	Living Armor
+Живописная долина	Picturesque Valley
+Животное	Animal
+Жизнь	Hit Points
+Жнец	Reaper
+Жнецово Поселье	Reaper's Burgh
+Жрец	Cleric
+Журнал	Journal
+Жуткий вой	Terrible Howl Spell
+Жуткий трофей	Creepy Trophy
+Жуть	Horror
+Заболоть	Downbog
+Заброшенная ферма	Abandoned Farm
+Заброшенная шахта	Abandonded Mine
+Заброшенные земли	Abandoned Lands
+Заброшенный храм	Abandoned Temple
+Забытая долина	Forgotten Valley
+Заводь Водяных	Waterspirit Pool
+Завоеватель Гарроса	Garros's Conquerer
+Заготовка голема	Golem Ingot
+Загрузка...	Loading...
+Задание кристалла, враг	Crystal, destruction
+Задание	Quest
+Задания	Quests
+Зазубренные стрелы	Jagged Arrows
+Заклинание	Spell
+Заклинатель	Spellcaster
+Заключить мир	Make Peace
+Заключить союз	Form Alliance
+Заклятая пуща	Hexed Thicket
+Заклятый дол	Hexvale
+Заклятье Адские врата	Hellgates Spell
+Заклятье Антимагия	Antimagic Spell
+Заклятье Армагеддон	Armageddon Spell
+Заклятье Астральная энергия	Astral Energy Spell
+Заклятье Безумие	Insanity Spell
+Заклятье Белая магия	White Magic Spell
+Заклятье Бесстрашие	Fearless Spell
+Заклятье Благодать	Grace Spell
+Заклятье Благословение	Bless Spell
+Заклятье Благословенный круг	Holy Circle Spell
+Заклятье Божественная месть	Divine Vengeance Spell
+Заклятье Божественная печать	Divine Seal Spell
+Заклятье Божественный прыжок	Divine Warp Spell
+Заклятье Божественный свет	Divine Light Spell
+Заклятье Болезнь	Disease Spell
+Заклятье Бомбардировка	Bombardment Spell
+Заклятье Бронебойный выстрел	Armor Piercing Shot
+Заклятье Воздушный щит	Air Shield Spell
+Заклятье Волшебный кристалл	Magic Crystal Spell
+Заклятье Волшебный щит	Magic Shield Spell
+Заклятье Воображаемый убийца	Imaginary Assassin Spell
+Заклятье Воодушевление	Inspiration Spell
+Заклятье Вопль Баньши	Banshee's Howl Spell
+Заклятье Воскрешение	Resurrection Spell
+Заклятье Всплеск Хаоса	Chaos Splash Spell
+Заклятье Встречный ветер	Head Wind Spell
+Заклятье Вызвать беса	Summon Imp Spell
+Заклятье Вызвать демона	Summon Demon Spell
+Заклятье Вызвать Живой доспех	Summon Living Armor Spell
+Заклятье Вызвать чёрта	Summon Fiend Spell
+Заклятье Вызов адской гончей	Summon Hellhound Spell
+Заклятье Вызов виверны	Summon Wyvern Spell
+Заклятье Вызов Владыки бездны	Summon Lord of Abyss Spell
+Заклятье Гейзер	Geyser Spell
+Заклятье Гимн Проклятых	Anthem Of The Damned
+Заклятье Глас Смерти	Voice of Death Spell
+Заклятье Густой туман	Thick Fog Spell
+Заклятье Двойной выстрел	Double Shot Spell
+Заклятье Жертвоприношение	Sacrifice Spell
+Заклятье Замедление	Slow Spell
+Заклятье Заморозка	Freeze Spell
+Заклятье Зарядить	Reload Spell
+Заклятье Зачарованная стрела	Enchanted Arrow Spell
+Заклятье Звездопад	Starfall Spell
+Заклятье Землетрясение	Earthquake Spell
+Заклятье Зловонное облако	Stinking Cloud Spell
+Заклятье Зыбучие пески	Quicksand Spell
+Заклятье Излечение нежити	Full Undead Rest Spell
+Заклятье Излечение	Healing Spell
+Заклятье Иммунитет к внушениям	Mind Control Immunity Spelll
+Заклятье Искажение Хаоса	Chaos Distortion Spell
+Заклятье Искры	Sparks Spell
+Заклятье Исступление	Frenzy Spell
+Заклятье Истинное воскрешение	True Resurrection Spell
+Заклятье Истончение брони	Dissolve Armor Spell
+Заклятье Исцеление	Restoration Spell
+Заклятье Каменные шипы	Stone Spikes Spell
+Заклятье Капитальный ремонт	Rebulding Spell
+Заклятье Капкан	Trap Spell
+Заклятье Касание вампира	Vampire Touch Spell
+Заклятье Клич некроманта	Necromancer's Cry Spell
+Заклятье Контроль нежити	Control Undead Spell
+Заклятье Контроль разума	Mind Control Spell
+Заклятье Кровавая ярость	Bloodlust Spell
+Заклятье Кровь демонов	Demon Blood Spell
+Заклятье Левитация	Levitation Spell
+Заклятье Ледяная глыба	Ice Chunk Spell
+Заклятье Ледяная змея	Ice Snake Spell
+Заклятье Ледяная молния	Chilling Lightning Spell
+Заклятье Ледяное сердце	Glacial Heart Spell
+Заклятье Лечение	Cure Wounds Spell
+Заклятье Ливень стрел	Arrow Shower Spell
+Заклятье Массовое осушение	Mass Life Drain Spell
+Заклятье Массовый сон	Mass Sleep Spell
+Заклятье Медлительность	Sluggishness Spell
+Заклятье Ментальный раб	Enslave Mind Spell
+Заклятье Могучее оружие	Mighty Weapon Spell
+Заклятье Мультиатака	Multiattack Spell
+Заклятье Небесный гром	Celestial Thunder Spell
+Заклятье Нечестивое слово	Unholy Word Spell
+Заклятье Облако тьмы	Cloud of Darkness Spell
+Заклятье Обратить в драйдера	Drider Transformation Spell
+Заклятье Обращение в жреца	Cleric Transformation Spell
+Заклятье Обращение в скелета	Skeleton Transformation Spell
+Заклятье Обращение в чёрта	Fiend Transformation Spell
+Заклятье Общая защита	Mass Defense Spell
+Заклятье Общая огнеупорность	Mass Fire Immunity Spell
+Заклятье Общая перезарядка	Mass Reload Spell
+Заклятье Общая ярость	Mass Rage Spell
+Заклятье Общее благословение	Mass Bless Spell
+Заклятье Общее замедление	Mass Slow Spell
+Заклятье Общее лечение	Mass Heal Spell
+Заклятье Общее проклятие	Mass Curse Spell
+Заклятье Общее снятие чар	Mass Dispel Spell
+Заклятье Объятия Тьмы	Embrace of Darkness Spell
+Заклятье Огненный взрыв	Fireblast Spell
+Заклятье Огненный выстрел	Fire Shot Spell
+Заклятье Огненный дождь	Fire Rain Spell
+Заклятье Огненный клинок	Fire Blade Spell
+Заклятье Огненный шар	Fireball Spell
+Заклятье Огненный шторм	Fire Storm Spell
+Заклятье Опустошение колчанов	Deplete Quivers Spell
+Заклятье Ослабление	Weakness Spell
+Заклятье Отравить оружие	Poison Weapon Spell
+Заклятье Очищающее пламя	Cleansing Flame Spell
+Заклятье Паника	Panic Spell
+Заклятье Паралич	Paralyze Spell
+Заклятье Перехват управления	Intercept Control Spell
+Заклятье Подвижность	Mobility Spell
+Заклятье Поднять зомби	Raise Zombie Spell
+Заклятье Поднять скелета	Raise Skeleton Spell
+Заклятье Подчинение	Submission Spell
+Заклятье Подчинить волю	Bind Will Spell
+Заклятье Подъятие вампира	Raise Vampire Spell
+Заклятье Подъятие жнеца	Raise Reaper Spell
+Заклятье Подъятие кадавра	Raise Cadaver Spell
+Заклятье Подъятие мумии	Raise Mummy Spell
+Заклятье Подъятие хнары	Create Hnara Spell
+Заклятье Пожирание	Devour Spell
+Заклятье Поломка	Breakdown Spell
+Заклятье Порча	Corruption Spell
+Заклятье Похищение жизни	Life Drain Spell
+Заклятье Починка	Repair Spell
+Заклятье Призвать волка	Summon Wolf Spell
+Заклятье Призвать дьявола	Summon Devil Spell
+Заклятье Призвать медведя	Summon Dire Bear Spell
+Заклятье Призвать рой ос	Summon Wasp Swarm Spell
+Заклятье Призвать тучу ос	Summon Wasp Cloud Spell
+Заклятье Призыв гворна	Summon Huorn Spell
+Заклятье Призыв духа воды	Summon Water Elemental Spell
+Заклятье Призыв духа воздуха	Summon Air Elemental Spell
+Заклятье Призыв духа земли	Summon Earth Elemental Spell
+Заклятье Призыв духа огня	Summon Fire Elemental Spell
+Заклятье Призыв птицелова	Summon Birdeater Spell
+Заклятье Призыв скелета	Summon Skeleton Spell
+Заклятье Призыв фантома	Summon Phantom Spell
+Заклятье Приказ	Order Spell
+Заклятье Проклятие	Curse Spell
+Заклятье Прочность камня	Hard as Stone Spell
+Заклятье Развеять чары	Dispel Magic Spell
+Заклятье Разрушение брони	Armor Break Spell
+Заклятье Разрывной выстрел	Explosive Shot Spell
+Заклятье Раскалённая почва	Scorching Ground Spell
+Заклятье Регенерация нежити	Undead Regeneration Spell
+Заклятье Регенерация	Regeneration Spell
+Заклятье Ремонт	Fix Spell
+Заклятье Рунная магия	Magical Ammunition
+Заклятье Святилище	Sanctuary Spell
+Заклятье Святое слово	Holy Word Spell
+Заклятье Сдерживание	Containment Spell
+Заклятье Сейсмозаряд	Seismic Charge Spell
+Заклятье Сила жизни	Life Breath Spell
+Заклятье Силок	Snare Spell
+Заклятье Слепота	Blindness Spell
+Заклятье Слово Власти	Word of Power Spell
+Заклятье Слово вождя	Chieftain Order Spell
+Заклятье Слово Жизни	Word of Life Spell
+Заклятье Смертельное касание	Deadly Touch Spell
+Заклятье Смертельное облако	Death Cloud Spell
+Заклятье Смертный страх	Deadly Terror Spell
+Заклятье Снять чары	Dispel Spell
+Заклятье Сожжение снарядов	Burn Ammo Spell
+Заклятье Солнечный взрыв	Solar Blast Spell
+Заклятье Страх	Fear Spell
+Заклятье Стремительность	Swiftness Spell
+Заклятье Суицид	Suicide Spell
+Заклятье Тёмное возрождение	Dark Revival Spell
+Заклятье Тёмный пакт	Dark Pact Spell
+Заклятье Трясина	Quagmire Spell
+Заклятье Убийца демонов	Demon Slayer Spell
+Заклятье Ускорение	Haste Spell
+Заклятье Уязвимость	Vulnerability Spell
+Заклятье Фанатизм	Fanaticism Spell
+Заклятье Целебный круг	Healing Circle Spell
+Заклятье Целебный сон	Healing Sleep
+Заклятье Цепь молний	Chain Lightning Spell
+Заклятье Чудо	Miracle Spell
+Заклятье Чума	Plague Spell
+Заклятье Шаровая молния	Lightning Ball Spell
+Заклятье Шторм	Storm Spell
+Заклятье Щит предков	Ancestral Shield Spell
+Заклятье Экзорцизм	Exorcism Spell
+Заклятье Электрошок	Electric Shock Spell
+Заклятье Яд болот	Swamp Poison Spell
+Заклятье Яд дроу	Drow Poison Spell
+Заклятье Ярость орды	Horde Rage Spell
+Заклятье Ярость предков	Ancestral Rage Spell
+Заклятье Ярость	Rage Spell
+Закрытый шлем	Closed Helmet
+Залежи железа	Iron Deposit
+Залежи мифрила	Mithril Deposit
+Залежи мрамора	Marble Deposit
+Залесье	Downwoods
+Залы Правосудия	Halls of Justice
+Замедление	Slowed
+Замок Белого Щита	White Shield Castle
+Замок псионов	Psion Castle
+Замок Тьмы	Castle of Darkness
+Замок	Castle
+Заморозка	Freeze
+Замшевые сапоги	Suede Boots
+Замшелые болота	Mossy Swamps
+Зантар	Xantar
+Зантарский лес	Xantar Wood
+Запас золота	Gold Reserve
+Запас кристаллов	Gem Reserve
+материал	Materials
+Запас снарядов	Ammo
+Запас энергии	Energy Reserve
+Запланировать постройку	Plan a Building
+Запретное побережье	Forbidden Shore
+Запретный лес	Forbidden Wood
+Запутан в паутине	Web
+Запястье	Wrist
+зар	zar
+Зарк Дугнир	Xar-Dugnir
+Зархон	Xarchon
+Зарядить	Reload
+Засада разбойников	Ambush
+Застава	Outpost
+Затаптывание	Trample
+Затенённый дол	Shadowed Vale
+Затраты энергии	Energy Spent
+Затронутый Смертью	Death Touched
+Затхлые воды	Stagnant Waters
+Зачарованная кольчуга	Enchanted Chainmail
+Зачарованная стрела	Enchanted Arrow
+Зачарованное копье	Enchanted Spear
+Зачарованный арбалет	Enchanted Crossbow
+Зачарованный клинок	Enchanted Blade
+Зачарованный колодец	Enchanted Well
+Зачарованный ларец 	Enchanted Coffer
+Зачарованный лес	Enchanted Forest
+Зачарованный омут	Enchanted Pool
+Зачарованный остров	Enchanted Island
+Зачарованный щит	Enchanted Shield
+Защита от выстрела	Ranged Defense
+Защита	Defense
+Защитник Гарроса	Garros's Defender
+Защитник света	Champion of Light
+Защитник	Protector Sword
+Защитные сапоги	Protection Boots
+Заячьи холмы	Hare Hills
+Звезда Мага	Star of the Mage
+Звездопад	Starfall
+Здоровье	Health
+Зеленая круча	Green Banks
+Зелёный дол	Green Vale
+Землепроходец	Pathfinder
+Землепроходчество	Pathfinding
+Землетрясение	Earthquake
+Земли гигантов	Giant Lands
+Земли гноллов	Gnoll Lands
+Земли гоблинов	Goblin Lands
+Земли дроу	Drow Lands
+Земли кентавров	Centaur Lands
+Земли Хаоса	Lands of Chaos
+Земли ящеров	Lizardman Lands
+Земля Кошмаров	Nightmare Land
+Земля мёртвых	Land of the Dead
+Земляничный дол	Strawberry Vale
+Земь	Eartham
+Зерновые поля	Crop Fields
+Зирготар	Xirgothar
+Зловонное облако	Stinking Cloud
+Зловонные холмы	Fetid Hills
+Злой	Evil
+Змеекорень	Snakeroot
+Змеиное кольцо	Serpent Ring
+Змеиный амулет	Serpent Amulet
+Змеиный браслет	Serpent Bracelet
+Знак Аард	Aard Sign
+Знак Аксий	Axii Sign
+Знак Игни	Igni Sign
+Знак Ирден	Yrden Sign
+Знак Квен	Quen Sign
+Знак Аард	Aard Sign
+Знак Аксий	Axii Sign
+Знак Игни	Igni Sign
+Знак Ирден	Yrden Sign
+Знак Квен	Quen Sign
+Знак наёмника	Mercenary Badge
+Знак неупокоения	Sign of Unrest
+Знак Чародея	Battlemage's Badge
+Знамя Единства	Banner of Unity
+Знамя Несокрушимости	Banner of Defiance
+Знамя Орды	Banner of the Horde
+Знамя Победы	Banner of Victory
+Знамя	Banner
+Знание болот	Swamp Knowledge
+Знание леса	Forest Knowledge
+Знание троп	Pathfinding
+Знание холмов	Hills Knowledge
+Знахарева дубрава	Hedgewizard's Oaks
+Знающий	Competent
+Знойная долина	Sweltering Valley
+Зов некроманта	Necromancer's Call
+Золотая жила	Gold Vein
+Золотая Сфера	Golden Sphere
+Золото за задания	Gold for Quests
+Золото за ход	Gold per Turn
+Золото	Gold
+Золотое кольцо	Golden Ring
+Зомби	Zombie
+Зубастый кряж	Toothy Range
+Зур-Быршагг	Xur-Byrshagg
+Зыбкие земли	Swelling Lands
+Зыбучие пески	Quicksand
+Игорный дом	Gambling House
+Игральня	Gaming House
+Игрок	Player
+Игроки	Players
+Идолово поле	Idol Field
+Идти в провинцию	Go to Province
+Избушка ведьмы	Witch's Hut
+Изверг	Fiend Lord
+Изгнание бесов	Banishing Imps
+Изгнание гончих	Banishing the Hounds
+Изгнание демонов	Banishing Demons
+Изгнание дьяволов	Banishing Devils
+Изгнание чертей	Banishing Fiends
+Изгнание	Banish
+Излечение нежити	Undead Recovery
+Излечение	Recovery
+Изменить сложность	Change Difficulty
+Изменить торговый договор	Change Trade Agreement
+Изумрудный браслет	Emerald Bracelet
+Изумрудный перстень	Emerald Ring
+Изучение заклинаний (S)	Learn Spells (S)
+Изучение заклинания	Learn Spell
+Изученная территория	Explored Area
+Икра болотной стрекозы	Dragonfly Eggs
+Икра слизня	Giant Slug Eggs
+Илисдал	Ilysdal
+Илистое болото	Slimy Swamp
+Иллитид	Illithid
+Иллитиды	Illithids
+Иль	Ile
+Ильтэн	Ilthan
+Иммунитет к внушениям	Mind Control Immunity
+Иммунитет к воздуху	Air Immunity
+Иммунитет к заклинаниям	Spell Immunity
+Иммунитет к огню	Fire Immunity
+Иммунитет к холоду	Cold Immunity
+Иммунитет к яду	Poison Immunity
+Имперская Стража	Imperial Guards
+Имя игрока	Player Name
+Инвентарь переполнен!	Inventory Full!
+Инвентарь	Inventory
+Инерон	Eineron
+Инициатива	Initiative
+Инквизитор	Inquisitor
+Инквизиторы	Inquisitors
+Инквизиция	Inquisition
+Интернет	Internet
+Инфо-панели (Alt)	Info Panels (Alt)
+Информация о страже	Guard Info
+Ипподром	Hippodrome
+ир	ire
+Искажение Хаоса	Chaos Distortion
+Искры	Sparks
+Искусство боя	Combat
+Испепеление	Incineration
+Испуган	Scared
+Иссир	Yssir
+Исследование провинций	Province Exploration
+Исследование	Exploration
+Исследовано	Explored
+Исследователь	Explorer
+Исследовать провинцию (Q)	Explore Province (Q)
+Исследовать провинцию	Explore Province
+Исслушш	Ysslushh
+Исступление	Frenzy
+Истинное воскрешение	True Ressurection
+Истончение брони	Dissolve Armor
+История Эадора	The History of Eador
+Источник золота	Source of Gold
+Источник кристаллов	Source of Crystals
+Исцеление	Restoration
+Исчадие Зла	Evil Incarnate
+Ифринделл	Ifryndell
+Кабанцы	Boarhold
+Кабанья пуща	Wildboar Thicket
+Кавалерийские казармы	Cavalry Barracks
+Кавалерист	Cavalryman
+Кавалерия	Cavalry
+Мумия	Mummy
+Казарма	Barracks
+Казармы гвардейцев	Guardsmen Barracks
+Казармы орков	Orcish Barracks
+Казино	Casino
+Калечащий удар	Crippling Strike
+Каменная корка	Stone Crust
+Каменные земли	Stone Lands
+Каменные пади	Stonefolds
+Каменные шипы	Stone Spikes
+Каменный голем	Stone Golem
+Каменный дождь	Rain of Stones
+Каменный идол	Stone Idol
+Каменный истукан	Stone Idol
+Каменцы	Stonesides
+Камнекожа	Stone Skin
+Камнемёт	Stone Thrower
+Кампания	Campaign
+Камышовы пади	Reed Folds
+Камышовые болота	Reedy Swamps
+кан	kan
+Кандар Рок	Candar Rock
+Капитальный ремонт	Rebuilding
+Капитан латников	Ironclad Captain
+Капитолий	Capitol
+Капкан	Trap
+Капюшон Воплощений	Hood of Incarnation
+Капюшон Магистра	Magister's Hood
+Капюшон Некроманта	Necromancer's Hood
+Капюшон посланника	Emissary's Hood
+Капюшон Тайны	Hood of Mystery
+Караваи	Loaves
+Каратель	Punisher
+Карающая длань	Smiting Hand
+Карильмово поле	Karilme's Grounds
+Карм	Carme
+Карта	Map
+Картограф	Cartographer
+Карэд	Carred
+Касание вампира	Vampiric Touch
+Касание гуля	Ghoul's Touch
+Катапульта	Catapult
+Кафтан Торговца	Merchant's Coat
+Кафтан	Coat
+Квартал гноллов	Gnoll's Quarters
+Квартал зрелищ	Entertainment Quarter
+Квартал людоящеров	Lizardmen Quarter
+Квартал полуросликов	Halfling Quarter
+Квартал союзников	Foreign Quarter
+Квил	Quil
+Кен	Quen
+Кентавр	Centaur
+Кентавр-вождь	Centaur-chief
+Кентавр-воин	Centaur-warrior
+Кентавры	Centaurs
+Кешик	Keshik
+Кикиморовы топи	Lurker Bogs
+Килир Тарок	Quilir-Tarock
+Кинжал Междумирья	Dagger of Two Worlds
+Кинжал Чародея	Conjurer's Dagger
+Кинжал	Dagger
+Кираса Паладина	Paladin's Cuirass
+Кираса	Cuirass
+Кислота	Covered by Acid
+Кистень Грома	Flail of Thunder
+Кистень	Morgenstern
+Кисти рук	Hands
+Клайм	Clime
+Клан гигантов	Clan of Giants
+Клан кентавров	Clan of Centaurs
+Клан циклопов	Clan of Cyclopes
+Клепаная куртка	Riveted Jacket
+Клепаные перчатки	Riveted Gloves
+Клерики	Clerics
+Клетки кобольдов	Kobold Cages
+Клинок Армагеддона	Armageddon's Blade
+Клинок Ночи	Blade of Night
+Клинок рецидивиста	Offender's Blade
+Клинок Хана	Khan's Blade
+Клирен	Cleeren
+Клич некроманта	Necromancer's Cry
+Клыкастая круча	Fanged Banks
+Клэймор	Claymore
+Ключей Истины	Keys of Truth
+Книга Бездны	Tome of Abyss
+Книга Владык	Book of the Masters
+Книга Некруса	Book of Necrus
+Книга псиона	Psion Tome
+Книга элементалиста	Elementalist Tome
+Княжий дол	Prince's Vale
+Княжьи запруды	Prince's Dams
+Княжьи угодья	Prince's Lands
+Кобольд	Kobold
+Кобольд-раб	Kobold-slave
+Кобольды	Kobolds
+Кованые сапоги	Ironshod Boots
+Когти	Claws
+Кожаная куртка	Leather Jacket
+Кожаная шляпа	Leather Hat
+Кожаные боты	Leather Overshoes
+Кожаные перчатки	Leather Gloves
+Кожаные сапоги	Leather Boots
+Кожаный наруч	Leather Bracers
+Кожаный пояс	Leather Belt
+Кожаный шлем	Leather Helmet
+Кожемяки	Tannerside
+Козий луг	Goat Meadow
+Колдовская дубрава	Ensorcelled Oakwood
+Колдовская чаща	Ensorcelled Thicket
+Колдун	Sorcerer
+Колизей	Colosseum
+Коллекционер	Collector
+Колчан Дариола	Dariol's Quiver
+Кольцо Архимага	Archmage's Ring
+Кольцо Вампира	Vampire's Ring
+Кольцо Гарроса	Garros's Ring
+Кольцо Герскила	Herskil's Ring
+Кольцо Дариола	Dariol's Ring
+Кольцо Жизни	Ring of Life
+Кольцо Заклинателя	Enchanter's Ring
+Кольцо некроманта	Necromancer's Ring
+Кольцо Оинора	Oinor's Ring
+Кольцо первооснов - Вода	Elemental Ring of Water
+Кольцо первооснов - Воздух	Elemental Ring of Air
+Кольцо первооснов - Земля	Elemental Ring of Earth
+Кольцо первооснов - Огонь	Elemental Ring of Fire
+Кольцо проворства	Ring of Agility
+Кольцо Регенерации	Ring of Regeneration
+Кольцо Торговца	Merchant's Ring
+Кольцо Чародея	Conjurer's Ring
+Кольцо экзекутора	Executioner's Ring
+Кольцо Юрия	Yuri's Ring
+Кольцо	Ring
+Кольчуга Ветерана	Veteran's Chainmail
+Кольчуга Героя	Hero's Chainmail
+Кольчуга Древних	Mail of the Ancients
+Кольчужные перчатки	Mail Gloves
+Кольчужные рукавицы	Mail Gauntlets
+Кольчужный наруч	Mail Bracers
+Колючая куртка	Thorny Jacket
+Колючие пустоши	Bristly Waste
+Командир	Commander
+Командирские регалии	Commander's Regalia
+Командование	Command
+команду авантюристов	Adventurers
+Комариные топи	Mosquito Bogs
+Композитный лук	Composite Bow
+Конец хода (E)	End of Turn (E)
+Кони	Horses
+Конклав	Conclave
+Конный лучник	Horse Archer
+Конские броды	Horses Ford
+Контратака	Counterattack
+Контроль нежити	Control Undead Spell
+Контроль разума	Mind Control
+Контроль энергий	Energy Control
+Конунг	Konung
+Концентрация	Concentration
+Конюшня	Stable
+Копейщик	Spearman
+Копье Возмездия	Spear of Retribution
+Копье Судьбы	Spear of Destiny
+Корабельный лес	Shiptimber Wood
+Кормантор	Cormanthor
+Кормчие леса	Helmsman Woods
+Корнбург	Cornburg
+Корни	Roots
+Корона Мыслей	Crown of Thought
+Короткие дебри	Short Wilds
+Короткий лук	Short Bow
+Короткий меч	Shortsword
+Короткий посох	Short Staff
+Короткое копье	Short Spear
+Коррупция	Corruption
+Коса Смерти	Scythe of Death
+Космические Рейнджеры	Space Rangers
+Костолом	Bonebreaker
+Костяная гряда	Bone Ridge
+Костяная стая	Skeletal pack
+Костяной идол	Bone Idol
+Костяной копейщик	Bone Spearman
+Костяной тотем	Bone Totem
+Кочевники	Nomads
+Кочевое племя	Nomadic Tribe
+Кошачьи рефлексы	Cat's Reflexes
+Кошачья горка	Cat's Mount
+Кошачья лапка	Cat's Paw
+Кошмар	Nightmare
+Кра	Cra
+Крадущийся-Во-Тьме	Night Stalker
+Кража снарядов	Steal Ammo
+Крайние земли	Outer Lands
+Красная дубрава	Red Oakwood
+Красное дерево	Redwood
+Крепость ведьмаков	Witcher's Fortress
+Крепость дроу	Drow Stronghold
+Крепость	Fortress
+Крест Героя	Hero's Cross
+Кривая тропа	Crooked Path
+Криволесье	Crookwood
+Кривуха	Crookedy
+Кристалл Власти	Crystal of Power
+Кристалл Могущества	Crystal of Might
+Кристалл Силы	Crystal of Power
+Кристалл	Crystal
+Кристаллическая сфера	Crystalline Sphere
+Кристаллы за ход	Gems per Turn
+Кристаллы	Crystals
+Кристальная шахта	Crystal Mine
+Кристальное кольцо	Crystalline Ring
+Кровавая длань	Bloody Hand
+Кровавая жертва	Blood Sacrifice
+Кровавая кираса	Blood Red Cuirass
+Кровавая ярость	Bloodlust
+Кровавое золото	Bloody Gold
+Кровавые болота	Bloody Swamps
+Кровавый ритуал	Blood Ritual
+Кровопийца	Bloodsucker
+Кровь демонов	Demon Blood
+Круг колдунов	Sorcerers' Circle
+Круглый щит	Round Shield
+Круговая атака	Round Attack
+Круд	Crudd
+Крупный	Large
+Крылатая кольчуга	Winged Chainmail
+Крылатая стража	Winged Guards
+Крылатые твари	Winged Creatures
+Крысиное поле	Rat Field
+Кряж Лунного камня	Moonstone Ridge
+Кряжи Призраков	Ghostridges
+Кувшинковы топи	Waterlilly Bogs
+Кузнечное дело	Blacksmithing
+Кузница	Forge
+Кулачный щит	Buckler
+Кулон Дариола	Dariol's Pendant
+Кулон Тайны	Pendant of Mystery
+Кулон Торговца	Merchant's Pendant
+Культ Гидры	Cult of the Hydra
+Культ Дракона	Cult of the Dragon
+Культ Титана	Cult of the Titan
+Культ Феникса	Cult of the Phoenix
+Кунер	Cuner
+Купить игру	Buy the Game
+Купить	Buy
+Купцовы топи	Merchant's Swamps
+Курганные степи	Mound Steppes
+Куртка Атамана	Raider's Jacket
+Куртка Василиска	Basilisk Jacket
+Куртка Дариола	Dariol's Jacket
+Куртка дроу	Drow Jacket
+Куртка Единорога	Unicorn Jacket
+Куртка Ловчего	Stalker's Jacket
+Куртка Мантикоры	Manticore Jacket
+Куртка Мошенника	Swindler's Jacket
+Куртка рецидивиста	Offender's Jacket
+Курхат	Curchat
+Кусок минералов	Mineral Chunk
+Кушак Волшебника	Wizard's Sash
+Кхарча	Kharcha
+Кэр	Car
+Лабиринт	Labyrinth
+Лавка знаний	Knowledge Store
+Лавка кольчуг	Chain Mail Armory
+Лавка лат	Plate Armory
+Лавка оружейника	Weapon Store
+Лавка плотника	Carpenter's Shop
+Лавка портного	Tailor Store
+Лавка скорняка	Tanner Store
+Лавка стрелка	Archery Store
+Лавка чародея	Sorcery Store
+Лавка ювелира	Jewelry Store
+Лавки	Shops
+Лагерь варваров	Barbarian Camp
+Лагерь кентавров	Centaur Camp
+Лагерь кочевников	Nomad Camp
+Лагерь охотников	Hunters Camp
+Лазерный меч	Lightsaber
+Ландшафт	Landscape
+Ланнотрин	Lannotryn
+Лантанэй	Lantanay
+л'Аншар	L'Anshar
+Лартан	Lartan
+Лартинские болота	Lartia Swamps
+Латник	Ironclad
+Латники	Ironclads
+Латные боты	Plate Overshoes
+Латные перчатки	Plate Gloves
+Латные рукавицы	Plate Gauntlets
+Латные сапоги	Plate Boots
+Латный доспех	Plate Armour
+Латный наруч	Plate Bracers
+Латный шлем	Plate Helmet
+Лачуги гоблинов	Goblin Hut
+Леа	Lea
+Лебяжий омут	Swan Pool
+Левая рука	Left Arm
+Левитация	Levitation
+Легендарных	Legendary
+Легкая броня	Light Armor
+Лёгкая пехота	Light Infantry
+Легкие сапоги	Light Boots
+Легкий арбалет	Light Crossbow
+Ледяная глыба	Ice Chunk
+Ледяная змея	Ice Snake
+Ледяная молния	Chilling Lightning
+Ледяное сердце	Glacial Heart
+Ледяной шторм	Ice Storm
+Лейт	Leith
+Лекарня	Infirmary
+Лекарь	Healer
+Лес Ведунов	Savants Forest
+Лес Единорога	Unicorn Forest
+Лес Западной Звезды	Western Star Forest
+Лес Падших	Forest of the Departed
+Лес Сотни Стрел	Woods of Many Arrows
+Лес Теней	Forest of Shadows
+Лес	Forest
+Леса Безмолвия	Woods of Stillness
+Леса Висельников	Hangmen Woods
+Леса Пикси	Pixie Woods
+Леса Предков	Ancestral Woods
+Леса	Forests
+Лесистый дол	Woody Vale
+Лески	Groves
+Лесная стража	Forest Guards
+Лесной квартал	Forest Quarter
+Лесной Край	Forest Country
+Лесные перчатки	Forest Gloves
+Лесопилка	Sawmill
+лет	years
+Летающий	Flying
+Лечение	Cure Wounds
+Ливень стрел	Arrow Shower
+Лигс	Ligs
+Лидерство	Leadership
+Лик Смерти	Face of Death
+Линт	Lynt
+Линтир	Lintyr
+Лисья пуща	Fox Thicket
+Литейный цех	Foundry
+Лич	Lich
+Лишние ресурсы	Excess resources
+Ловкость	Agility
+Логова	Lairs
+Логово бандитов	Bandit Lair
+Логово драйдеров	Driders Lair
+Логово Зверя	Beast Lair
+Логово разбойников	Brigand Lair
+Логово троллей	Troll Lair
+Логово чудовищ	Behemoth's Lair
+Лозовьи пущи	Vine Thicket
+Локальная сеть	Local Network
+Лорд Мрака	Lord of Darkness
+Лорд Хаоса	Chaos Lord
+Луговина	Meadowside
+Лук Ветра	Bow of Winds
+Лук Дариола	Dariol's Longbow
+Лук Кентавра	Centaur's Bow
+Лук Ренвера	Renver's Bow
+Лук Степняков	Nomad Bow
+Лук Черного Леса	Black Forest Bow
+Лунная долина	Moonlight Valley
+Лунный камень	Moonstone
+Лунный остров	Moon Island
+Лунный посох	Moon Staff
+Луталлан	Loutallan
+Лучник	Bowman
+Лучший титул	Best Title
+Лысая гора	Bald Mountain
+Лэндерг	Landerg
+Люди	Humans
+Людоед	Ogre
+Людоеды	Ogres
+Людоящер	Lizardman
+Людоящеры	Lizardmen
+Лютые леса	Ferocious Woods
+Маг	Magician
+Маги	Magicians
+Магистр	Magister
+Магистрат	Town Hall
+Магическая атака	Mass Attack
+Магическая башня	Magic Tower
+Магическая защита	Mass Defense
+Магическая искра	Magic Spark
+Магический барьер  	Magic Barrier
+Магический бой	Magic Fight
+Магический выстрел	Magic Shot
+Магический квартал	Magic Quarter
+Магический колодец	Magic Well
+Магический удар	Magic Strike
+Магия	Magic
+Магнус	Magnus
+Малахитовый амулет	Malachite Amulet
+Маленький	Tiny
+Мало	A little
+Мандрагора	Mandrake
+Маневр	Maneuvering
+Манеж	Riding Ground
+Мантикора	Manticore
+Мантия Архимага	Archmage's Mantle
+Мантия Воплощений	Mantle of Incarnation
+Мантия Заклинателя	Enchanter's Mantle
+Мантия Иллюзий	Mantle of Illusion
+Мантия Магистра	Magister's Mantle
+Мантия Оинора	Oinor's Mantle
+Мантия Тайны	Mantle of Mystery
+Мантия	Mantle
+Мар	Mar
+Мародер 10	Marauder 10
+Мародер 15	Marauder 15
+Мародер	Marauder
+Маршал	Marshal
+Маршальский жезл	Marshal's Baton
+Марш-бросок (M)	Forced March (M)
+Марш-бросок	Forced March
+Маска Людоеда	Ogre's Mask
+Маска рецидивиста	Offender's Mask
+Массовое заземление	Mass Grounding
+Массовое осушение	Mass Life Drain
+Массовый сон	Mass Sleep
+Массовый суицид	Mass Suicide
+Мастер артефактов	Artifact Master
+Мастер брони	Armor Master
+Мастер жезла	Wand Master
+Мастер кольчуг	Master Mailmaker
+Мастер лат	Master Platemaker
+Мастер меча	Swordmaster
+Мастер оружейник	Master Weaponsmith
+Мастер оружия	Weapon Master
+Мастер плотник	Master Carpenter
+Мастер портной	Master Tailor
+Мастер скорняк	Master Tanner
+Мастер чародей	Master Enchanter
+Мастер ювелир	Master Jeweler
+Мастер	Master
+Мастера горгулий	Gargoyle Masters
+Мастер-некромант	Master Necromancer
+Мастеровой	Workman
+Мастерская колдуна	Sorcerer's Workshop
+Мастерские гномов	Dwarven Workshop
+Мастерские гоблинов	Goblin Workshop
+Мастерские	Workshop
+Мастер-убийца	Master Assassin
+Мать-Хранительница	Mother Keeper
+Маховые холмы	Swinging Hills
+Маяк	Lighthouse
+Медаль за Непоколебимость	Medal for Resolution
+Медаль за Отвагу	Medal for Courage
+Медаль за Рвение	Medal for Zeal
+Медаль за Сноровку	Medal for Agility
+Медаль за Стойкость	Medal for Resilience
+Медаль Капитана	Captain's Medal
+Медаль Командира	Commander's Medal
+Медаль Целителя	Healer's Medal
+Медальон Героя	Hero's Medallion
+Медведи	Bears
+Медвежьи дебри	Bearwilds
+Медитация	Meditation
+Медлительность	Sluggishness
+Медное кольцо	Copper Ring
+Медные холмы	Copper Hills
+Медный браслет	Copper Bracelet
+Медный крест	Copper Cross
+Медовые луга	Honey Meadows
+Медовые поля	Honey Fields
+Медуза	Medusa
+Медузы	Medusas
+Мел	Mel
+Мелис	Melis
+Мельница	Mill
+Мельтер Аррас	Melter Arras
+Мензоберранзан	Menzoberranzan
+Менкор	Mencor
+Ментальный раб	Enslaved
+Ментар-Тардос	Mentar-Tardos
+Мери	Meri
+Мертвая земля	Dead Land
+Мёртвая плоть	Dead Flesh
+Мертвецкие топи	Deadmen Swamp
+Мертвое воинство	Host of the Dead
+Мертвое поле	Dead Field
+Мертволесье	Deadtree Woods
+Мерцающие топи	Shimmering Bogs
+Местное ополчение	Local Militia
+Местность (сколько исследовано)	Terrain (explored)
+Местность	Terrain
+Местный лорд	Local Lord
+Месть людоедам	Revenge on the Ogres
+Меткость	Marksmanship
+Механизм	Mechanical
+Механический	Mechanical
+Меч Безумия	Sword of Insanity
+Меч Бессмертных	Sword of the Immortals
+Меч Древних	Sword of the Ancients
+Меч Крови	Sword of Blood
+Меч Мастера	Master's Sword
+Меч Правосудия	Sword of Justice
+Мечелом	Swordbreaker
+Мечник	Swordsman
+Минотавр	Minotaur
+Минотавры	Minotaurs
+Мир	Peace
+Миранское аббатство	Myrane Abbey
+Мистическая башня	Mystical Tower
+Мифрил	Mithril
+Мифрильная кираса	Mithril Cuirass
+Мифрильная кольчуга	Mithril Chainmail
+Мифрильные стрелы	Mithril Arrows
+Мифрильный наруч	Mithril Bracers
+Мифрильный шлем	Mithril Helmet
+Мифрильный щит	Mithril Shield
+Мишень Братства	Target of Brotherhood
+Младшая нежить	Lesser Undead
+Много	A plenty
+Мобильность	Mobility
+Могучее оружие	Mighty Weapon
+Модификаторы очков	Point Modifiers
+Модификаторы	Modifiers
+Можно строить	Can be built
+Молниеносный кинжал	Lightning Dagger
+Молния	Lightning
+Молот Создателя	Hammer of the Creator
+Молот Сокрушения	Hammer of Smashing
+Молот	Hammer
+Молотовы холмы	Hammer Hills
+Монастырь	Monastery
+Монах	Monk
+Монолит	Monolith
+Монстры	Monsters
+Монумент Волшебства	Magic Monument
+Монумент Колдовства	Sorcery Monument
+Монумент Света	Light Monument
+Монумент Стихий	Elemental Monument
+Монумент Тьмы	Darkness Monument
+Монумент Хаоса	Chaos Monument
+Море	Sea
+Мороковы топи	Murky Bogs
+Моря	Seas
+Моховые пущи	Moss Thicket
+Мрамор	Marble
+Мудрость	Wisdom
+Мультиатака	Multiattack Spell
+Мутноводье	Muddywaters
+Набранные очки	Points Gained
+Набрано очков	Points Gained
+Наградить	Reward
+Награды	Rewards
+Нагрудник Доблести	Chestpiece of Valor
+Нагрудник	Chestpiece
+Надзиратели	Overseers
+Надпись неразборчива	Unreadable Inscription
+Наездник на волке	Wolfrider
+Наёмник	Mercenary
+Наёмники	Mercenaries
+Назад	Back
+Название Вашего замка	Name of your stronghold
+Название столицы	Capital Name
+Найден амулет До-Гора	Doh-Gor's Amulet Found
+Найдено сокровищ	Treasures Found
+Найм войска (D)	Hire Troops (D)
+Накидка Герскила	Herskil's Cloak
+Накидка егеря	Hunter's Cloak
+Накидка Единорога	Unicorn Cape
+Накидка Маршала	Marshall's Cape
+Наллиннэй	Nallinnae
+Нальк	Nalke
+Нанять героя	Hire Hero
+Нанять стража (Q)	Hire Guard (Q)
+Нанять/воскресить героя (F)	Hire or Resurrect Hero (F)
+Написать послание	Write Message
+Нарукавники посланника	Emissary's Sleeves
+Наруч Воителя	Fighter's Bracers
+Наруч Гладиатора	Gladiator's Bracers
+Наруч Гор	Mountain Bracers
+Наруч Краба	Crab Bracers
+Наруч Мародера	Marauder's Bracers
+Наруч Могущества	Bracers of Might
+Наруч Убийцы	Assassin's Bracers
+Наруч Черепахи	Turtle Bracers
+Наручи Гарроса	Garros's Bracer
+Наручи Дариола	Dariol's Bracer
+Наручи экзекутора	Executioner's Bracer
+Наруч-компас	Bracer-Compass
+Населённость	Population
+Населяющая провинцию раса	Province Race
+Настроение жителей	Population Mood
+Настроение	Mood
+Настройки боя (O)	Combat Settings (O)
+Настройки карты	Map Settings
+Настройки по умолчанию	Default Settings
+Настройки создаваемого мира	World Creation Settings
+Настройки	Settings
+Насылает болезнь	Cause Disease
+Насылает уязвимость	Cause Vulnerability
+Начать битву (E)	Start Battle (E)
+Начинающий	Beginner
+Нашествие демонов  	Demon Invasion
+Не выполнено	Not Completed
+Не выполнены условия	Conditions not met
+Не двигается	Immobilized
+Не обнаружен	Not found
+Не перемещается	Immobilization
+Не сражается	Does not fight
+Не требует ремонта	Repair not required
+Не хватает средств	Insufficient means
+Не чувствует боли	Feels No Pain
+Небесная стража 	Heavenly Guards
+Небесная стража	Heavenly Guards
+Небесный гром	Celestial Thunder
+Небесный свет	Heavenly Light
+Небесный щит	Celestial Shield
+Небольшое поселение	Hamlet
+Небольшой город	Large Town
+Небольшой	Small
+Невозможно!	Impossible!
+Невредима	Intact
+Недовольны	Discontent
+Недовольство	Unrest
+Недоступно для строительства	Unavailable for building
+Нежить	Undead
+Неизвестные земли	Unknown Lands
+Неизвестный	Unknown
+Нейтральный	Neutral
+Некромант	Necromancer
+Некромантия	Necromancy
+Некроманты	Necromancers
+Некрополь	Necropolis
+Нельзя строить на этом ходу	Can't build this turn
+Немного	Not much
+Необходимые постройки	Required Buildings
+Несколько героев	Several Heroes
+Несколько игроков	Several Players
+Несокрушимая кираса	Indestructible Cuirass
+нест	nest
+Нестурс	Nesturs
+Несущая Смерть	Death Bringer
+Нет жителей	No Population
+Нет охраны	No Defenders
+Нет послания	No Message
+Нет постройки	No Building
+Нет торгового договора	No Trade Agreement
+Нет укреплений	No Fortifications
+Нет	No
+Неуловимый страж	Elusive Sentinel
+Неупокоенные	Walking Dead
+Неупокоенный	Walking Dead
+Неустрашимость	Intrepid
+Неутомимость	Tireless
+Неуязвимость	Invulnerable
+Нечестивое слово	Unholy Word
+Низколетающий	Floating
+Низкотравье	Lowgrass
+Никоверье	Nicofaith
+Нинтор	Nynthor
+Ничтожные	Worthless
+НИЧЬЯ	DRAW
+Новая профессия	New Profession
+Новая	New
+Новобранцы	Recruits
+Новые Ворота	New Gates
+Новые земли	New Land
+Новый игрок	New Player
+Новый осколок	New Shard
+Нога Вирта	Wirt's leg
+нод	nod
+Нож Некроманта	Necromancer's Knife
+Нож	Knife
+Норки	Burrows
+Норково поле	Burrowfield
+Норхадд	Norchadd
+Ночная Тень	Night Shadow
+Нужны ресурсы	Resources needed
+нэд	nad
+Обездвижен	Immobilized
+Обездвиживание	Immobilization
+Оберег завершён на	Talisman Completion at
+Обеспечение	Logistics
+Обессиливание	Feebleness
+Обитатели болот	Swamp Dwellers
+Облако тьмы	Cloud of Darkness
+Облако Ужаса	Cloud of Terror
+Облачение Дариола	Dariol's Vestment
+Облачение Иллюзий	Vestment of Illusion
+Облачение Носферату	Nospheratu's Vestement
+Облачная долина	Cloudy Valley
+Облачные холмы	Cloudy Hills
+Обломки	Rubble
+Обмен с другим героем (F)	Exchange with Another Hero (F)
+Обмен	Barter
+Обойдёмся без диверсий.	Let's do this without sabotage.
+Обратить в драйдера	Drider Transformation
+Обращение в жреца	Cleric Transformation
+Обращение в скелета	Skeleton Transformation
+Обращение в чёрта	Fiend Transformation
+Обсидиановый наруч	Obsidian Bracers
+Обувь	Feet
+Обучение	Tutorial
+Магическая атака	Mass Attack
+Общая болезнь	Mass Disease
+Общая защита	Mass Defense
+Общая огнеупорность	Mass Fire Immunity
+Общая перезарядка	Mass Reload
+Общая хладоустойчивость	Mass Cold Immunity
+Общая ярость	Mass Rage
+Общее благословение	Mass Bless
+Общее замедление	Mass Slow
+Общее лечение	Mass Healing
+Общее проклятие	Mass Curse
+Общее снятие чар	Mass Dispel
+Общее ускорение	Mass Haste
+Общий сон	Mass Sleep
+Объявить войну	Declare War
+Объятия Тьмы	Embrace of Darkness
+Обычные стрелы	Common Arrows
+Обычные	Common
+Обычный	Common
+Овраг	Ravine
+Овражий дол	Ravined Valley
+Овражье	Ravineside
+Оглушающий удар	Stunning Blow
+Огневицы	Fierylands
+Огненная буря	Firestorm
+Огненная степь	Fiery Steppe
+Огненные стрелы	Fire Arrows
+Огненный взрыв	Fireblast
+Огненный вымпел	Fire Pennant
+Огненный выстрел	Fire Shot
+Огненный дождь	Fire Rain
+Огненный жезл	Fire Wand
+Огненный клинок	Fire Blade
+Огненный меч	Fire Sword
+Огненный шар	Fireball
+Огненный шторм	Fire Storm
+Огненный щит	Fire Shield
+Огородье	Croftside
+Ограниченные	Limited
+Огрова гряда	Ogre Ridge
+Огромный	Huge
+Одежда Следопыта	Ranger's Clothes
+Одержимый	Posessed
+Одеяние Волшебника	Wizard's Garments
+Одеяние Магистра	Magister's Garment
+Одеяние Оинора	Oinor's Garments
+Одеяния Воплощений	Cloth of Incarnation
+Один игрок	Single Player
+Один компьютер	One Computer
+Ожерелье Василиска	Basilisk Necklace
+Ожерелье Магистра	Magister's Necklace
+Ожерелье	Necklace
+Озеро	Lake
+Оин	Oin
+Оинор	Oinor
+Окаменел	Petrified
+Окаменение	Petrification
+ол	ol
+Оленья пуща	Deer Thicket
+Оли	Oli
+Омут	Pool
+Омуты Грёз	Dreampools
+он	on
+Опаляющий-Плоть	Flesh-scorcher
+Оперенные стрелы	Feathered Arrows
+Оплетен корнями	Entangled
+Оплот Света	Temple of Light
+Ополченец	Militiaman
+Ополчение	Militia
+Оппоненты	Opponents
+Опустошение колчанов	Deplete Quivers
+Опыт войскам	Army Experience
+Опыт героя	Hero Experience
+Опыт	Empty
+Опытный	Skilled
+ор	or
+Оракул стихий	Oracle of Elements
+Оракул	Oracle
+Оргорские холмы	Orgore Hills
+Орда гноллов	Gnoll horde
+Орда	Horde
+Орден Белого Щита	White Shield Order
+Орден Великой Тьмы	Supreme Dark Order
+Орден Величия	Order of Grandeur
+Орден Воинов Храма	Templar Order
+Орден за Волю к Победе	Will for Victory Order
+Орден Защитника	Order of the Defender
+Орден Победителя	Order of the Victor
+Орден Снайпера	Order of the Marksman
+Ореховая пуща	Hazelnut Thicket
+Орк	Orc
+Орки	Orcs
+Орлиный перевал	Eagle Pass
+Ормхолд	Ormhold
+орн	orne
+Оронгулл	Orongull
+Орочий квартал	Orcish Quarter
+Орочий остров	Orcish Island
+Орочий патруль	Orcish Patrol
+Орудие	Siege Engine
+Оружейная	Armory
+Оружие повреждено	Damaged Weapon
+Орчьи всхолмья	Orcish Hillside
+Осада	Siege
+Осадная машина	Siege Machine
+Осадные инженеры	Siege Engineers
+Осадные мастерские	Siege Workshop
+Осадный цех	Siegeworks
+Освободить кобольда	Become Free Kobold
+Освоенные земли	Dwelling
+Осколков завоёвано	Shards Conquered
+Ослабление	Weakness
+Особая древесина	Special Timber
+Особая руда	Special Ore
+Особые места	Locations
+Особые чернила	Special Ink
+Остановка времени	Time Stop
+Острая гряда	Sharp Ridge
+Остров Кальмара	Squid Island
+Остров Краба	Crab Island
+Остров Людоедов	Ogres Island
+Остров Медузы	Medusa Island
+Остров Мертвеца	Deadman's Island
+Остров Морской Девы	Sea Maiden Island
+Остров Надежды	Island of Hope
+Остров Рыбы	Fish Island
+Остров Сирен	Siren Island
+Остров Спасителя	Savior's Island
+Остров Спрута	Octopus Island
+Остров Тролля	Troll Island
+Остров Ящера	Lizard Island
+Остров	Island
+Острова/Озёра	Islands, Lakes
+Отдать предмет	Give Item
+Отдыхать (пропустить ход) (R)	Rest (Skip Turn) (R)
+Отказаться	Refuse
+отключен	never
+Открывает доступ к постройкам	Gives access to buildings
+Открытый шлем	Open Helmet
+Отмена	Cancel
+Отменить дополнительный выстрел (D)	Cancel Double Shot (D)
+Отменить задание (Q)	Cancel Orders (Q)
+Отменить заклинание (ESC)	Cancel Spell (ESC)
+Отменить круговую атаку (A)	Cancel Round Attack (A)
+Отменить лечение (H)	Cancel Healing (H)
+Отменить политическое предложение	Cancel Political Offer
+Отменить послание	Cancel Message
+Отменить починку предметов (R)	Cancel Item Repair (R)
+Отменить сокрушающий удар (C)	Cancel Crushing Blow (C)
+Отменить торговое предложение	Cancel Trade Offer
+Отменить торговый договор	Cancel Trade Agreement
+Отправить послание	Send Message
+Отравить оружие	Poison Weapon
+Отравлен	Poisoned
+Отравленные стрелы	Poisoned Arrows
+Отродье	Spawn
+Отряд дроу	Drow squad
+Отряд противника	Enemy Party
+Отряд усопшего	Dead Hero's Army
+Отряд	Party
+Отряды героев	Armies under Heroes
+Отступить	Retreat
+Оумм	Oumm
+Офицерское училище	Officer Academy
+Охнырр-Даш	Okhnyrr-Dush
+Охота на василисков	Basilisk Hunt
+Охота на грифонов	Gryphon Hunt
+Охота на дракона	Dragon Hunt
+Охота на единорогов	Unicorn Hunt
+Охота на мантикор	Manticore Hunt
+Охота на пауков	Spider Hunt
+Охота на слизней	Slug Hunt
+Охотник за головами	Great Pack Headhunter
+Охотник на ведьм	Witchhunter
+Охотник на Драконов	Dragon Hunter
+Охотники	Hunters
+Охотничий лук	Hunting Bow
+Охотничий удел	Hunter's Lot
+Охотный дол	Hunter's Vale
+Охрана	Defenders
+Охранная Гряда	Guardian Ridge
+охраняем	guarded
+Очень большой	Very Big
+Очень довольны	Very Content
+Очень много	Lots
+Очень недовольны	Very Discontent
+Очень редких	Very Rare
+Очищающее пламя	Cleansing Flame
+Очки	Points
+очков	points
+Паладин	Paladin
+Палаты чародеев	Sorcerer's Chambers
+Палач	Executioner
+Палаш	Broadsword
+Палица	Cudgel
+Паника	Panic
+Панцирь Величия	Cuirass of Grandeur
+Панцирь Гарроса	Garros's Chestplate
+Панцирь экзекутора	Executioner's Chestplate
+Панцирь	Breastplate
+Паралич	Paralyzed
+Парирование	Parry
+Пастушьи пяди	Shepherd's Span
+Патриарх	Patriarch
+Патруль дроу	Drow patrol
+Патрульные	Patrolmen
+Патрульный дроу	Drow Patrolman
+Патрульный	Sentinel
+Паук	Giant Spider
+Пауки	Giant Spiders
+Паутина	Web
+Паутинная чащоба	Spiderweb Thicket
+Паучий лес	Spider Forest
+Паучье гнездо	Spider Lair
+Паучье яйцо	Spider's Egg
+Паучья башня	Spider's Tower
+Пегас	Pegasus
+Пенорский лес	Penorne Wood
+Первая помощь	First Aid
+Первый круг	First Circle
+Первый удар	First Strike
+Перейти к провинции	Go to Province
+Перерыв между применениями	Interval Between Uses
+Перетопь	Overbog
+Перехват управления	Intercept Control
+Перчатки Бойни	Gloves of Slaughter
+Перчатки Василиска	Basilisk Gloves
+Перчатки Величия	Gloves of Grandeur
+Перчатки Ветерана	Veteran's Gloves
+Перчатки Владык	Lordly Gloves
+Перчатки Воли	Gloves of Will
+Перчатки Волшебника	Wizard's Gloves
+Перчатки Воплощений	Gloves of Incarnation
+Перчатки Вора	Thief's Gloves
+Перчатки Гарроса	Garros's Gloves
+Перчатки Героя	Hero's Gloves
+Перчатки Герскила	Herskil's Gloves
+Перчатки Дариола	Dariol's Gloves
+Перчатки Доблести	Gloves of Valor
+Перчатки дроу	Drow's Gloves
+Перчатки Единорога	Unicorn Gloves
+Перчатки Заклинателя	Enchanter's Gloves
+Перчатки Иллюзий	Gloves of Illusion
+Перчатки Командира	Commander's Gloves
+Перчатки Лучника	Archer's Gloves
+Перчатки Магистра	Magister's Gloves
+Перчатки Мантикоры	Manticore Gloves
+Перчатки Медитации	Gloves of Meditation
+Перчатки Оинора	Oinor's Gloves
+Перчатки Паладина	Paladin's Gloves
+Перчатки Силы	Gloves of Strength
+Перчатки Снайпера	Sharpshooter's Gloves
+Перчатки Сокрушения	Gloves of Smashing
+Перчатки Тайны	Gloves of Mystery
+Песчаные горки	Sandy Mounts
+Пехота	Infantry
+Пехотный щит	Infantry Shield
+Пивоварня	Brewery
+Пикинер	Pikeman
+Пип-Бой	Pip-Boy
+Пирамида гноллов	Gnoll's Pyramid
+Пирамида Древних	Ancient Pyramid
+Питомник Тварей	Breeding Ground
+Плавуновы топи	Quicksand Bogs
+Пламенное Сердце	Ardent Heart
+Пламенный лук	Flaming Bow
+Пламя Хаоса	Inferno
+План застройки	Building Plan
+Пластинчатая кольчуга	Banded Mail
+Плата золота	Gold Upkeep
+Плата кристаллов	Gem Upkeep
+Плато Циклопов	Cyclopes Plateau
+Плачущие топи	Weeping Bogs
+Плащ ветерана	Veteran's Cloak
+Плащ Вихрей	Cloak of Whirlwinds
+Плащ Дождей	Cloak of Rain
+Плащ Иллюзий	Cloak of Illusion
+Плащ Паладина	Paladin's Cloak
+Плащ Радуги	Cloak of Rainbow
+Плащ Следопыта	Ranger's Cloak
+Плащ Ужаса	Cloak of Terror
+Плащ Феникса	Phoenix Cloak
+Плащ Чародея	Sorcerer's Mantle
+Плащ	Cloak
+Племена орков	Orcish Tribes
+Племя кентавров	Centaur tribe
+Племя	Tribe
+Плетёные дебри	Wickered Thicket
+Плодородная долина	Fertile Valley
+Плоские холмы	Flat Hills
+Побед	Victories
+ПОБЕДА	VICTORY
+Побережье Краба	Crab Shore
+Побережье Мечей	Swordcoast
+Повелители тварей	Beast Masters
+Повелитель мёртвых	Lord of the Dead
+Повелитель нежити	Lord of Undead
+Повелитель стихий 1	Elemental Master 1
+Повелитель стихий 2	Elemental Master 2
+Повелитель фантомов	Lord of Phantoms
+Повелитель	Lord
+Повержен	Defeated
+Повержено противников	Enemies Defeated
+Поветрие	Pestilence
+Повреждение брони	Damage Armor
+Повреждение оружия	Damage Weapon
+Поганая чащоба	Foul Thicket
+Поганые болота	Foul Swamps
+Пограничники	Border guards
+Подвеска знания	Pendant of Knowledge
+Подвиг Героя	Heroic Deed
+Подвижность	Mobility
+Подгорный мастер	Underhill Master
+Подгорье	Undermount
+Поднебесный храм	Celestial Temple
+Подсказка	Hint
+Подстрекатель	Warmonger
+Подчинение	Submission
+Подчинить волю	Bind Will
+Подъятие баньши	Raise Banshee Spell
+Подъятие вампира	Raise Vampire
+Подъятие Воина Мрака	Raise Warrior of Darkness
+Подъятие жнеца	Raise Reaper
+Подъятие зомби	Raise Zombie
+Подъятие кадавра	Raise Cadaver
+Подъятие Лорда Мрака	Raise Lord of Darkness
+Подъятие мумии	Raise Mummy
+Подъятие призрака	Raise Ghost Spell
+Подъятие скелета	Raise Skeleton
+Подъятие спектра	Raise Spectre
+Подъятие упыря	Raise Ghoul Spell
+Подъятие хнары	Create Hnara
+Пожар	Conflagration
+Пожирание	Devour
+Поиск сокровищ	Treasure Hunt
+Показать недоступные постройки	Show Unavailable Buildings
+Показать недоступные ритуалы	Show Unavailable Rituals
+Показать недоступных стражей	Show Unavailable Guards
+Покровы Тайны	Wraps of Mystery
+Полиморф	Polymorphed
+Полководец	Battlemaster
+Полны ненависти	Hateful
+Половинчик	Halfling
+Половинчики	Halflings
+Половинчик-плут	Halfling-rogue
+Поломка брони	Armor Failure
+Поломка оружия	Weapon Failure
+Поломка	Breakdown
+Полотно Древних	Ancient Fabric
+Полуразрушена	Half Destroyed
+Полурослики	Halflings
+Полуторный меч	Bastard Sword
+Получены преимущества	Benefits Obtained
+Поля Туманов	Misty Fields
+Поля Цикад	Cicadas Fields
+Поляна единорога	Unicorn
+Поляна мандрагоры	Mandrake Glade
+Помешательство  	Insanity
+Помутнение разума	Confusion
+Понижена защита	Reduced Defense
+Пополнение коллекций	Replenishing Collections
+Попутный ветер  	Fair Wind
+ПОРАЖЕНИЕ	DEFEAT
+Поражений	Defeats
+Порт	Port
+Порча	Corrupted
+Порченые Земли	Tainted Lands
+Порядочный	Lawful
+Поселок	Village
+Посетовы кручи	Posset's Banks
+Послание отправлено	Message Sent
+Посланник Халифа	Caliph's Messenger
+Посох Архимага	Archmage's Staff
+Посох Вызывателя	Summoner's Staff
+Посох Заклинателя	Enchanter's Staff
+Посох Мага	Mage's Staff
+Посох Оинора	Oinor's Staff
+Посох Целителя	Healer's Staff
+Постоялый двор	Inn
+Построек в замке	Buildings in Stronghold
+Построено	Already built
+Постройка в замке	Building in Stronghold
+Потань	Potane
+Потери	Losses
+Потрошитель	Ripper
+Похищение душ	Soul Stealing
+Похищение души	Soul Stealing
+Похищение жизни	Life Drain
+Походный плащ	Traveling Cloak
+Похоронить героя	Bury Hero
+Починить все предметы (T)	Repair All Items (T)
+Починка	Repair
+Поющие холмы	Singing Hills
+Пояс Вечности	Belt of Ages
+Пояс Воина	Warrior's Belt
+Пояс Воплощений	Belt of Incarnation
+Пояс Гарроса	Garros's Belt
+Пояс Герскила	Herskil's Belt
+Пояс Гиганта	Giant's Belt
+Пояс Дариола	Dariol's Belt
+Пояс Доблести	Belt of Valor
+Пояс Друида	Druid's Belt
+Пояс Левитации	Belt of Levitation
+Пояс Мантикоры	Manticore Belt
+Пояс Монаха	Monk's Belt
+Пояс Оинора	Oinor's Belt
+Пояс Тролля	Troll's Belt
+Пояс экзекутора	Executioner's Belt
+Пояс	Belt
+Правая рука	Right Arm
+Праведные земли	Righteous Lands
+Практически невозможно	Almost Impossible
+Пральд	Prald
+Прах Смерти	Death Ashes
+Пращник	Slinger
+Превратить!	Convert!
+Превращен	Transformed
+Превращение в жреца	Cleric Transformation
+Превращение в скелета	Skeleton Transformation
+Превращение в чёрта	Fiend Transformation
+Прегвар	Pregvar
+Преграда	Obstacle
+Предел населения	Population Limit
+Предлагаем	Offer
+Предлагает	Offers
+Предложить обмен	Offer Barter
+Предложить торговлю	Offer Trade
+Предмет в сокровищнице	Item in Treasury
+Предмет на грани поломки	Item nearly broken
+Предмет сломан	Item broken
+Преодоление сопротивления	Resistance Negation
+Пресветлые чертоги	Shining Palace
+Пригород полуросликов	Halfling's Suburb
+Призван	Summoned
+Призвать волка	Summon Wolf
+Призвать дьявола	Summon Devil
+Призвать Живой доспех	Summon Living Armor
+Призвать медведя	Summon Dire Bear
+Призвать Разрушителя	Summon Destroyer
+Призвать рой ос	Summon Wasp Swarm
+Призвать тучу ос	Summon Wasp Cloud
+Призрак	Ghost
+Призрачные стопы	Ethereal feet
+Призрачный клинок	Spectral Blade
+Призрачный лес	Ghostly Forest
+Призыв Гворна	Summon Huorn
+Призыв духа воды	Summon Water Elemental
+Призыв духа воздуха	Summon Air Elemental
+Призыв духа земли	Summon Earth Elemental
+Призыв духа огня	Summon Fire Elemental
+Призыв Живого доспеха	Summon Living Armor
+Призыв птицелова	Summon Birdeater
+Призыв скелета	Summon Skeleton
+Призыв фантома	Summon Phantom
+Призыв феникса	Summon Phoenix
+Призыв	Summoning
+Приказ	Order
+Прикосновение Погибели	Touch of Doom
+Принять	Accept
+Природное оружие	Nature's Weapon
+Прислужница	Handmaiden
+Проблемы с разбойниками	Troubles with Robbers
+Провести ритуал (R)	Perform Ritual (R)
+Провести ритуал	Perform Ritual
+Провинции	Provinces
+Провинций	Provinces
+Продажа воинов	Unit Sale
+Продолжить	Continue
+Производственный цех	Manufacturing Shop
+Проклятая земля	Cursed Land
+Проклятая реликвия	Cursed Relic
+Проклятие	Cursed
+Проклятый остров	Cursed Island
+Проклятый шлем	Cursed Helmet
+Прокрутка карты	Map Scrolling
+Пронзающий-Плоть	Flesh-piercer
+Проповедник	Preacher
+Просим	Request
+Просмотр особых мест	View Locations
+Просмотр построенных зданий	View Constructed Buildings
+Простая кольчуга	Simple Chainmail
+Простая шапка	Simple Cap
+Простой жезл	Simple Wand
+Протазан	Partisan
+Прочие преимущества	Other Benefits
+Прочность камня	Hard as Stone
+Прочность	Durability
+Пруды Забвения	Pools of Oblivion
+Прямодольные степи	Straightvale Steppes
+Пси-Монолит	Psy-Monolith
+Псион	Psion
+Птицелов	Birdeater
+Пусто	Empty
+Пустынные холмы	Empty Hills
+Пустынный дол	Lonesome Vale
+Пустыня	Desert
+Пуща Дионитов	Dionite Thicket
+Пчелиные луга	Honeybee Meadows
+Пылающая кираса	Flaming Chestplate
+Пылающие боты	Flaming Boots
+Пылающие доспехи	Flaming Armor
+Пылающий амулет	Flaming Amulet
+Пылающий топор	Flaming Axe
+Пылающий шлем	Flaming Helmet
+Пылающий щит	Flaming Shield
+Пыльные равнины	Dusty Plains
+Пыльца фэйри	Fairy Dust
+Пыточная	Torture Chamber
+Раанский лес	Raan Wood
+Рабский барак	Slaver's Pen
+Равнина Аш	Ush Plains
+Равнина Кхор	Khor Plains
+Равнина	Plains
+Равнины	Plains
+Рагун Балир	Ragoon Balyr
+Разбойник	Brigand
+Разбойники	Brigands
+Разбойничья вольница	Brigand Outlaws
+Разведка	Scouting
+Разведчик	Scout
+Развеять чары	Dispel Magic
+Разграбление провинций	Province Plunder
+Раздирающий-Плоть	Flesh-tearer
+Размер осколка	Shard size
+Разорвать союз	Break Alliance
+Разрушена до основания	Completely Destroyed
+Разрушена	Destroyed
+Разрушение Алтаря смерти	Destroying the Altar of Death
+Разрушение брони	Armor Break
+Разрушение нежити	Destroy Undead
+Разрушенная башня	Ruined Tower
+Разрушитель уничтожен	Destroyer Demolished
+Разрушитель	Destroyer
+Разрушить постройку	Demolish Building
+Разрывной выстрел	Explosive Shot
+Разумный выбор	Reasonable Choice
+Разящее копье	Piercing Spear
+Раковы затоки	Crayfish Sloughs
+Ралкор	Ralcor
+Ранадил	Ranadil
+Ранг воина	Unit Rank
+Ранг	Rank
+Ранения	Wounds
+Рапира Фехтовальщика	Fencer's Rapier
+Раскалённая почва	Scorching Ground
+Расколотые земли	Shattered Lands
+Расколотые холмы	Shattered Hills
+Рассекатель Гарроса	Garros's Divider
+Расторгнуть союз	Cancel Alliance
+Расход	Expenses
+Ратабар	Ratabar
+Ратные степи	Battlesteppes
+Реакция	Reaction
+Ревдиш	Revdish
+Ревнитель веры	Faith Devotee
+Регалии Герскила	Herskil's Regalia
+Регенерация нежити	Undead Regeneration
+Регенерация	Regeneration
+Редактировать послание	Edit Message
+Редких	Rare
+Режим просмотра особых мест	Location View Mode
+Режим просмотра статистики	Statistics View Mode
+Рейгор	Ragor
+Рейнджер	Ranger
+Рейнджерский выстрел	Ranger Shot
+Реинкарнация	Reincarnation
+Реликварий	Reliquarium
+Ремесленники	Craftsmen Quarter
+Ремесленный цех	Craft Shop
+Ремонт	Fix
+рен	ren
+Рентонское нагорье	Renton Highland
+Ресурс для обмена	Resource to Exchange
+Ресурс не найден	Resource not found
+Ресурсы	Resources
+Ристалище	Jousting Arena
+Ритуальный нож	Kris
+Родина	Homeland
+Родовая провинция	Demesne
+Родовой замок (C)	Stronghold (C)
+Рой ос	Wasp Swarm
+рок	rock
+Рокаброн	Rockabron
+Ромуланские Кроводавы	Romulan's Bloodsquashers
+Росс	Ross
+Россорн	Rossorn
+Ростовщик	Moneylender
+Руалкар	Rualcar
+Рубиновый браслет	Ruby Bracelet
+Рубиновый перстень	Ruby Ring
+Рудд	Rudd
+Рудник Древних	Ancient Mine
+Рукавицы экзекутора	Executioner's Mittens
+Рулатус	Roolatus
+Руна Жизни	Rune of Life
+Руна Неудержимости	Rune of Thorns
+Руна Проворства	Rune of Swiftness
+Руна Разрушения	Rune of Destruction
+Руна Точности	Rune of Accuracy
+Руна Хищника	Rune of Predator
+Руна Ярости	Rune of Rage
+Рунная магия	Rune Magic
+Рунные холмы	Runic Hills
+Рунный клинок	Rune Blade
+Рунный посох	Runestaff
+Русалочьи камни	Mermaid Rocks
+Ручная баллиста	Hand Ballista
+Ручной арбалет	Hand Crossbow
+Ручной топор	Hand Axe
+Рынок артефактов	Artifact Market
+Рынок полуросликов	Halfling Market
+Рыцарские сапоги	Knight's Boots
+Рыцарский доспех	Knight's Armor
+Рыцарский орден	Knightly Order
+Рыцарский шлем	Knight's Helmet
+Рыцарский щит	Knight's Shield
+Рыцарь Света	Holy Knight
+Рыцарь Смерти	Black Knight
+Рыцарь Тьмы	Dark Knight
+Рыцарь	Knight
+Рэй	Ray
+Рябиново верховье	Rowan Reaches
+с нейтралами	vs independents
+Сабля	Saber
+Сад кристаллов	Crystal Garden
+Самоцветы	Gemstones
+Сандалии Иллюзий	Sandals of Illusion
+Сандалии	Sandals
+Сапоги Василиска	Basilisk Boots
+Сапоги Величия	Boots of Grandeur
+Сапоги Ветерана	Veteran's Boots
+Сапоги Гарроса	Garros's Boots
+Сапоги Генерала	General's Boots
+Сапоги Героя	Hero's Boots
+Сапоги Герскила	Herskil's Boots
+Сапоги Дариола	Dariol's Boots
+Сапоги Доблести	Boots of Valor
+Сапоги дроу	Drow's Boots
+Сапоги Единорога	Unicorn Boots
+Сапоги Защитника	Protector's Boots
+Сапоги Камнекожи	Stone Skin Boots
+Сапоги Левитации	Boots of Levitation
+Сапоги Магистра	Magister's Boots
+Сапоги Мантикоры	Manticore Boots
+Сапоги Монолита	Monolith Boots
+Сапоги Оинора	Oinor's Boots
+Сапоги Паладина	Paladin's Boots
+Сапоги Путешественника	Traveler's Boots
+Сапоги рецидивиста	Offender's Boots
+Сапоги Следопыта	Ranger's Boots
+Сапоги Тайны	Boots of Mystery
+Сапоги экзекутора	Executioner's Boots
+Сапоги-Скороходы	Boots of Speed
+Сапфировый браслет	Sapphire Bracelet
+Сапфировый перстень	Sapphire Ring
+Сатировы дебри	Satyr Wilderness
+Сбор снарядов	Collect Ammo
+Сбор трофеев	Looting
+Сборщик податей	Tax Collector
+Светлая долина	Clear Valley
+Светлая пуща	Clear Thicket
+Светлые братья	Brethren of Light
+Свистящий кряж	Whistling Range
+Свиток с заклятьем	Spell Scroll
+Свиток с ритуалом	Ritual Scroll
+Свободный Край	Free Country
+Свойства набора	Set Properties
+Святая обитель	Holy Cloister
+Святая реликвия	Sacred Relic
+Святилище Тьмы	Dark Sanctuary
+Святилище	Sanctuary
+Святое слово	Holy Word
+Святоземье	Holyground
+Святые земли	Holy Lands
+Святыня Древних	Ancient Shrine
+Священная секира	Sacred Poleaxe
+Священное пламя	Sacred Flame
+Священный лес	Sacred Forest
+Священный огонь	Sacred Flame
+Священный Орден	Sacred Order
+Священный паук	Sacred spider
+Священный щит	Sacred Shield
+Сглажен	Hexed
+Сглаз	Hex
+Сдаться	Surrender
+Сдерживание	Containment
+Седая гряда	Gray Ridge
+Седой лес	Grizzled Wood
+Сейсмозаряд	Seismic Charge
+Сек	Sek
+Секира Ярости	Poleaxe of Fury
+Секира	Poleaxe
+секон	secon
+Секрет строительства	Construction secret
+Сел	Sel
+Селение половинчиков	Halfling Village
+Селирнойская долина	Celirnoy Valley
+Сер	Ser
+Серафим	Seraphim
+Серая пустошь	Gray Wasteland
+Сердце Бездны	Heart of Abyss
+Сердце гидры	Hydra's Heart
+Серебряное кольцо	Silver Ring
+Серебряные стрелы	Silver Arrows
+Серебряный браслет	Silver Bracelet
+Серебряный рудник	Silver Mine
+Серебряный щит	Silver Shield
+Серный дождь 	Rain of Brimstone
+Серрон	Serron
+Серые Курганы	Gray Mounds
+Серые утёсы	Gray Cliffs
+Сетка на поле боя (G)	Battlefield Grid (G)
+Сжигающий-Плоть	Flesh-incinerator
+Сизая дубрава	Gray Oakwood
+Сизые дебри	Graywilds
+Сила воли	Willpower
+Сила жизни	Life Breath
+Сила заклинаний	Spellpower
+Сила мага	Magic Power
+Сила нейтралов	Independents
+Сила призыва нежити	Undead Summoning Power
+Сила призыва	Summoning Power
+Сила титана	Titan's Strength
+Силлиндал	Seelendal
+Силлэндал	Seelendal
+Силок	Snare
+Сильниллир	Sylnillyre
+Сильно повреждена	Seriously Damaged
+Система дорог	Road Network
+Сияющий браслет	Shining Bracelet
+Скаковая межа	Racing Sideland
+Скалистые холмы	Rocky Hills
+Скалистый Брег	Rocky Shore
+Скалистый остров	Rocky Island
+Скелет	Skeleton
+Скелетное охранение	Skeletal Guardian
+Скил	Skil
+Скилтон	Skilton
+Скипетр посланника	Emissary's Scepter
+Скируд	Scearudd
+Склад	Storehouse
+Склизкая бомба	Slimy Bomb
+Скользкие холмы	Slimy Hills
+Скорость движения воинов	Unit Movement Speed
+Скорость движения	Movement Speed
+Скорость	Speed
+Скорпионья пустошь	Scorpio Wasteland
+Скрипящие дебри	Creaking Wilds
+скрыт	hidden
+Скрыть недоступные постройки	Hide Unavailable Buildings
+Скрыть недоступные ритуалы	Hide Unavailable Rituals
+Скрыть недоступных стражей	Hide Unavailable Guards
+Слабые	Weak
+Слава	Glory
+Сланцевы камни	Slaterocks
+Слегка повреждена	Slightly Damaged
+Следопыт	Pathfinder
+Следующий воин (N)	Next Unit (N)
+Следующий герой (N)	Next Hero (N)
+Следующий	Next
+Слепота	Blind
+Слизень	Giant Slug
+Слизни	Slugs
+Слизняк	Giant Slug
+Слитт	Slitt
+Слияние Стихий	Elemental Junction
+Слово Власти	Word of Power
+Слово вождя	Chieftain Order
+Слово Жизни	Word of Life
+Слово Льда	Word of Ice
+Слово Силы - боль	Power Word - Pain
+Слово Силы - проклятье	Power Word - Curse
+Слово Силы - удержание	Power Word - Hold
+Слоновник	Elephant Pen
+Слуга Смерти	Servant of Death
+Слуги Смерти	Servants of Death
+Случайно	Random
+Смена оружия (X)	Change Weapon (X)
+Смена типа	Change Type
+Смертельное касание	Deadly Touch
+Смертельное облако	Death Cloud
+Смертельный ужас  	Deadly Terror
+Смертные уничтожены	Mortals Destroyed
+Смертный страх	Deadly Terror
+Смертный	Mortal
+Смешанный	Mixed
+Смешение земель	Land Mix
+Смотровая башня	Watchtower
+Смотровые холмы	Outlooker Hills
+Снайпер	Sniper
+Снежный буран 	Blizzard
+Снижение износа предметов	Item Maintenance
+Снижение цены заклятий	Decrease Spell Cost
+Снос построек	Demolish Building
+Снятие чар	Dispel
+Со	So
+Собор Бессмертных	Chapel of Immortals
+Собор Великого Орла	Great Eagle Chapel
+Собор Света	Cathedral of Light
+Собрать снаряды (P)	Gather Ammo (P)
+Совиная дубрава	Owl Oakwood
+Согласиться	Agree
+Сожжение снарядов	Burn Ammo
+Создание герба	Create banner
+Создание голема	Create Golem
+Создание горгульи	Create Gargoyle
+Создатели	Credits
+Создать карту	Create Map
+Сокровища	Treasure
+Сокровищница Древних	Ancient Vault
+Сокровищница и торговцы (A)	Treasury and Shops (A)
+Сокровищница	Treasury
+Сокрушающий удар	Crushing Blow
+Сокрушение зла	Smite Evil
+Солдатские боты	Soldier's Overshoes
+Солнечный взрыв	Solar Blast
+Солнечный дол	Sunny Vale
+Солнечный Луч	Sunbeam
+Сон	Asleep
+Сообщения	Messages
+Сопротивление	Resistance
+Соррелон	Sorrelon
+Сортировать по возрастанию	Sort in increasing order
+Сортировать по доходу золота (2)	Sort by gold income (2)
+Сортировать по доходу кристаллов (3)	Sort by gem income (3)
+Сортировать по исследованности (7)	Sort by exploration value (7)
+Сортировать по количеству населения (4)	Sort by population (4)
+Сортировать по количеству построек (0)	Sort by number of buildings (0)
+Сортировать по настроению (5)	Sort by mood (5)
+Сортировать по недовольству (6)	Sort by unrest (6)
+Сортировать по особым местам (9)	Sort by locations (9)
+Сортировать по расе (8)	Sort by races (8)
+Сортировать по убыванию	Sort in decreasing order
+Сортировать по удалению от замка (1)	Sort by distance from stronghold (1)
+Сосновый остров	Pinetree Island
+Состояние укреплений	Condition of Fortifications
+Сотворение карты...	Creating Map...
+Сотворение	Creation
+Сохранение...	Saving...
+Сохранить	Save
+Союз с Белезом	Alliance with Beleth
+Союз	Alliance
+Союзники	Allies
+Спасение эльфиек	Rescue the Elfmaids
+Спектр	Spectre
+Список провинций (P)	List of Provinces (P)
+Спокойны	Quiet
+Способности лича	Lich abilities
+Спящий лес	Sleeping Forest
+Средне	Average
+Средний	Average
+Средняя броня	Medium Armor
+Ссаишш	Ssaishh
+Стальная гряда	Steel Ridge
+Стальное кольцо	Steel Ring
+Старинный меч	Ancient Sword
+Старое урочище	Old Stow
+Старопогостье	Oldgraves
+Старополье	Oldfields
+Старые Ветряки	Old Windmills
+Старые рудники	Old Mines
+Старые Хлеба	Old Corns
+Старый ветряк	Old Windmill
+Статистика	Statistics
+Стать арбалетчиком	Become Crossbowman
+Стать архимагом	Become Archmage
+Стать атаманом	Become Gang Leader
+Стать бандитом	Become Bandit
+Стать баньши	Become Banshee
+Стать боевым грифоном	Become Battle Gryphon
+Стать валькирией	Become Valkyrie
+Стать варваром	Become Barbarian
+Стать ветераном	Become Veteran Spearman
+Стать вором	Become Thief
+Стать головорезом	Become Cutthroat
+Стать живоглотом	Become Swallower
+Стать жнецом	Become Reaper
+Стать извергом	Become Fiend Lord
+Стать кавалеристом	Become Cavalryman
+Стать мумией	Become Cadaver
+Стать камнеметом	Become Stone Thrower
+Стать капитаном	Become Captain
+Стать карателем	Become Punisher
+Стать кешиком	Become Keshik
+Стать конунгом	Become Konung
+Стать копейщиком	Become a Spearman
+Стать лекарем	Become Healer
+Стать лучником	Become Archer
+Стать мастеровым	Become Workman
+Стать мастером меча	Become Swordmaster
+Стать метателем копий	Become Bone Spearman
+Стать мечником	Become Swordsman
+Стать мумией	Become Mummy
+Стать некромантом	Become Necromancer
+Стать одержимым	Become Posessed
+Стать патриархом	Become Patriarch
+Стать патрульным	Become Sentinel
+Стать пикинером	Become Pikeman
+Стать потрошителем	Become Ripper
+Стать пращником	Become Slinger
+Стать проповедником	Become Preacher
+Стать разбойником	Become Brigand
+Стать ревнителем веры	Become Faith Devotee
+Стать рейнджером	Become Ranger
+Стать снайпером	Become Sniper
+Стать стражем	Become Sentinel
+Стать стрелометом	Become Glaive Thrower
+Стать телохранителем	Become Bodyguard
+Стать целителем	Become Grand Healer
+Стать цербером	Become Cerberus
+Стать чемпионом	Become Champion
+Стать шаманом	Become Shaman
+Стая гноллов	Gnoll pack
+Стеганая куртка	Quilted Jacket
+Стена	Wall
+Стенающие земли	Weeping Lands
+Степи Бледной Луны	Pale Moon Steppes
+Степи Буйвола	Buffalo Steppes
+Степи Гончих Псов	Hound Steppes
+Степи Дикарей	Savage Steppes
+Степи кочевников	Nomad Steppes
+Степи сагиров	Saguir Steppes
+Степи Тайраков	Tyrak Steppes
+Степной край	Steppe Country
+Стилет Убийцы	Assassin's Stiletto
+Стилет	Stiletto
+Стинхрия	Stenriya
+Стихийная неуязвимость	Elemental Immunity
+Стойбище кентавров	Centaur Stables
+Стойла пегасов	Pegasi Stable
+Стоимость в золоте	Cost in Gold
+Стоимость в кристаллах	Cost in Gems
+Стоимость	Cost
+Сторожевая башня	Lookout Tower
+Стоунхендж	Stonehenge
+Стоячие камни	Standing Stones
+Страж границ	Border Sentinel
+Страж	Squire
+Стража Ящеров	Lizard Guards
+Стражи границ	Border guards
+Стражи гробниц	Guardians of the Tomb
+Стражи Древних	Ancient Guards
+Стражи лабиринта	Labyrinth Guards
+Стражи леса	Forest Guards
+Стражи обители	Guardians of the monastery
+Стражи	Guards
+Стражники	Guards
+Страница вверх (PgUg)	Page Up (PgUp)
+Страница вниз (PgDn)	Page Down (PgDn)
+Стратег	Strategist
+Страх	Fear
+Страшный	Demonic Horror
+Стрелковая тактика	Ranged Tactics
+Стрелковое искусство	Archery
+Стрелковое оружие	Ranged Weapon
+Стрелок	Archer
+Стреломет	Arrow Thrower
+Стреломёт	Glaive Thrower
+Стрелы налётчика	Raider's Arrows
+Стрелы Проклятых	Arrows of the Damned
+Стрелы Ренвера	Renver's Arrows
+Стрелы Смерти	Arrows of Death
+Стрелы Степняков	Nomad Arrows
+Стрельбище	Shooting Ground
+Стрельцовы пущи	Archers Thicket
+Стремительность	Swiftness
+Стремительный поток	Rapid Stream
+Строительство в замке (C)	Construction in the Stronghold (C)
+Стролг	Strolg
+Стяг Герскила	Herskil's Banner
+Стяг Древних	Banner of the Ancients
+Стяг Защиты	Banner of Defence
+Стяг мертвецов	Banner of the Dead
+Стяг Ярости	Banner of Fury
+Суд	Court
+Суицид	Suicide
+Суккуб	Succubus
+Сумеречное братство	Dark Brotherhood
+Сумеречный глаз	Eye of Twilight
+Сумеречный лес	Twilight Wood
+Сумрачная пустошь	Dusky Wasteland
+Сухая круча	Dry Banks
+Суходол	Dryvale
+Сфера Ветров	Sphere of Winds
+Сфера Вечности	Sphere of Ages
+Сфера Знаний	Sphere of Knowledge
+Сфера Камня	Sphere of Stone
+Сфера Льда	Sphere of Ice
+Сфера Мудрости	Sphere of Wisdom
+Сфера Мысли	Sphere of Thought
+Сфера Памяти	Sphere of Memory
+Сфера Пламени	Sphere of Flame
+Сфера Разрушения	Sphere of Destruction
+Счастливы	Happy
+Сшамат	Sshamath
+Сшиндилрин	Sschindylryn
+Съесть труп (T)	Eat Corpse (T)
+Табрийские степи	Tabria Steppes
+Табун лошадей	Horse Herd
+Таверна	Tavern
+Тавматургия	Thaumaturgy
+Таврова пуща	Taur's Thicket
+таин	tain
+Тайная библиотека	Secret Library
+Тайная гильдия	Secret Guild
+Тайная лощина	Secret Hollow
+Тайник Древних	Ancient Cache
+Тайные агенты	Secret Agents
+Тайный монастырь	Secret Monastery
+Тайный остров	Secret Island
+Тактик	Tactician
+Тактика атаки	Offensive Tactics
+Тактика защиты	Defensive Tactics
+Талант Архимага	2 Spells Per Turn
+Тан	Tan
+Танцующий-с-клинками	Blade Dancer
+Тараны	Rams
+Тарбандир	Tarbandyr
+Тарг	Targ
+Таркард	Tarkard
+Тарлос	Tarlos
+Тарраск	Tarrasque
+Тварь Хаоса	Chaos Spawn
+Твердыня Хаоса	Chaos Stronghold
+Театр	Theater
+Текущая выносливость	Current Stamina
+Текущая длительность заклинания	Current duration of the spell
+Текущая жизнь	Current HP
+Текущая сила заклинания	Current power of the spell
+Текущая скорость	Current Speed
+Текущее значение	Current Value
+Текущие задания	Current Quests
+Текущий боевой дух	Current Morale
+Текущий запас выстрелов	Current Ammo
+Телепорт	Teleport
+Телосложение	Constitution
+Телохранитель	Bodyguard
+Тель	Tel
+Тёмная башня	Dark Tower
+Тёмная жрица	Dark Priestess
+Темная пещера	Dark Cave
+Тёмная сталь	Dark Steel
+Темница кобольдов	Kobold Prison
+Темница	Dungeon
+Тёмное братство	Dark Brotherhood
+Тёмное возрождение	Dark Revival
+Тёмное пастбище	Dark Stables
+Тёмное Пламя	Dark Flame
+Тёмное серебро	Dark Silver
+Тёмные друиды	Dark Druids
+Тёмные эльфы	Dark Elves
+Тёмный бор	Dark Pinewood
+Тёмный доспех	Dark Armor
+Тёмный мститель	Dark Avenger
+Тёмный Пакт	Dark Pact
+Тёмный путь	Dark Path
+Темный ритуал  	Dark Ritual
+Теневая гильдия	Shadow Guild
+Тенета	Mass Web
+Теплый плащ	Warm Cloak
+Тер	Ter
+терг	terge
+Терема	Chambers
+Терианский лес	Teriane Wood
+Терпимость	Tolerance
+Тесак Мясника	Butcher's Cleaver
+Тесак	Cleaver
+Тиара Оинора	Oinor's Tiara
+Тиара Чистоты	Tiara of Innocence
+Тил-Ларан	Tyl-Laran
+Тип местности	Terrain type
+Тип провинции	Province type
+Тирисед	Tyrysed
+Тихая дубрава	Quiet Oakwood
+Тихая равнина	Quiet Plains
+Тихая роща	Quiet Grove
+Тихий омут	Still Waters
+Тобангар	Tobangar
+Тога Колдуна	Sorcerer's Toga
+Тога	Toga
+тон	ton
+Тонкар	Tonkar
+Топазовый браслет	Topaz Bracelet
+Топазовый перстень	Topaz Ring
+Топи Закаменелых	Petrified Bogs
+Топи Серой Тины	Gray Ooze Bogs
+Топкий дол	Marshvale
+Топкий остров	Marshy Island
+Топкозеро	Boglake
+Топор Берсерка	Berserker's Axe
+Топор Палача	Executioner's Axe
+Топор экзекутора	Executioner's Axe
+Топь	Bog
+Торги	Tradeton
+Торговая палата	Chamber of Commerce
+Торговля	Trade
+торговца	Curio Store
+Торговые ряды	Mall
+Торговый договор	Trade Agreement
+Торговый квартал	Trade Quarter
+Торговый центр	Trade Center
+Торжок полуросликов	Border Post
+Торова гряда	Tor's Ridge
+Торс	Torso
+Торфяные болота	Turf Swamps
+Тотем	Totem
+Точный арбалет	Accurate Crossbow
+Точный выстрел	Precise Shot
+Точный удар	Precise Strike
+Травмирован	Injured
+Трайфор	Treyephor
+Трактир	Pub
+Требует	Requests
+Тренировочные залы	Practice Halls
+Третий круг	Third Circle
+Трилуга	Threemeadow
+Тритоний ручей	Triton Creek
+троллей	Trolls
+Тролли	Trolls
+Троллиная куртка	Troll's Jacket
+Троллиные болота	Troll Swamps
+Троллиный омут	Trollpool
+Тролль	Troll
+Трофеи	Spoils
+Трупоед	Necrophage
+Трупоедство	Necrophagy
+Трясина	Quagmire
+Тугой лук	Strongbow
+Туманные болота	Misty Swamps
+Туманный дол	Misty Vale
+Тундра	Tundra
+Туника Оинора	Oinor's Tunic
+Туника	Tunic
+Тунримовы степи	Tunrim's Steppes
+Тунримовы холмы	Tunrim's Hills
+Турмгард	Thurmgard
+Тусклое нагорье	Dim Highland
+Туфли Воплощений	Shoes of Incarnation
+Туфли посланника	Emissary's Boots
+Туфли	Shoes
+Туча ос	Wasp Cloud
+Тюрбан	Turban
+Тяжелая броня	Heavy Armor
+Тяжёлая булава	Heavy Mace
+Тяжелое оружие	Heavy Weapon
+Тяжелые сапоги	Heavy Boots
+Тяжелые снаряды	Heavy Missiles
+Тяжёлые снаряды	Heavy Ammo
+Тяжёлые стрелы	Heavy Arrows
+Тяжелый арбалет	Heavy Crossbow
+Тяжелый наруч	Heavy Bracers
+Убийца демонов	Demon Slayer
+Убийца	Assassin
+Увеличенная плата	Increased Upkeep
+Уволить героя	Dismiss Hero
+Уволить стража	Dismiss Guard
+Увольнение стражей	Dismiss Guards
+Угринское всхолмье	Urgin Hillside
+Угрюмый бор	Gloomy Pinewood
+Удаление	Delete
+Удача рецидивиста	Offender's Luck
+Удешевление ресурса	Cheaper Resource
+Ужасный медведь	Dire Bear
+Укажите жертву	Select Sacrifice
+Укажите цель	Select Target
+Украденные инструменты	Stolen Tools
+Укрепления	Fortifications
+Укрепленный щит	Reinforced Shield
+Уль Даган	Ul-Dagan
+Ульвар	Ulvar
+Умелец кольчуг	Journeyman Mailmaker
+Умелец лат	Journeyman Armorer
+Умелец оружейник	Journeyman Smith
+Умелец плотник	Journeyman Carpenter
+Умелец портной	Journeyman Tailor
+Умелец скорняк	Journeyman Tanner
+Умелец чародей	Journeyman Enchanter
+Умелец ювелир	Journeyman Jeweler
+Умения архимага	Archmage ablities
+Умения и свойства	Skills and Properties
+Умения монаха	Faith Devotee ablities
+Умения некроманта	Necromancer ablities
+Умения патриарха	Patriarch ablities
+Уменьшение платы войскам	Lower Upkeep
+Умертвие	Death Incarnate
+Уничтожение Врат	Destroying the Gates
+Уничтожено тварей Хаоса	Chaos Spawns Destroyed
+Упокоение вампиров	Laying Vampires to Rest
+Упокоение зомби	Laying Zombies to Rest
+Упокоение призраков	Laying Ghosts to Rest
+Упокоение скелетов	Laying Skeletons to Rest
+Упокоение упырей	Laying Ghouls to Rest
+Управа	Town Council
+Упырёвы топи	Ghoul Bogs
+Упырь	Ghoul
+ур.	Lvl.
+Ур	Ur
+Ургинское всхолмье	Urgin Hillside
+Урдук Кир	Urduk Kir
+Уровень населённости	Population Level
+Уровень опыта	Experience Level
+Уровень призванного существа	Level of summoned creature
+Уровень сложности	Difficulty Level
+Уровень	Level
+Урс	Urs
+Уруг-Хыш	Urug-Khysh
+Уруд Индир	Urud Yndir
+Ускорение	Hasted
+Усталость	Fatigue
+Уст-Ната	Ust Natha
+Устрашение	Intimidation
+Утёсы Гарпий	Harpy Cliffs
+Утяжеление	Weighing
+Утяжелённые стрелы	Heavy Arrows
+Уязвимость	Vulnerable
+Фавринская равнина	Fawrin Plains
+Фальхорн	Falhorn
+Фанатизм	Fanaticism
+Фанатик веры	Zealot
+Фантом	Phantom
+Фантомная форма	Phantom Form
+Фаркол	Farcol
+Феерия	Extravaganza
+Феникс	Phoenix
+Фер	Fer
+Фергеаст	Fergeast
+Фермерский рынок	Farmers Market
+Филлир	Phyllyr
+Флаг Бесстрашия	Flag of Intrepidity
+Флаг Неутомимости	Flag of Tirelessness
+Фламберг	Flamberge
+Фонтан Молодости	Fountain of Youth
+Форма Дракона	Dragon Form
+Форпост гноллов	Gnoll's Outpost
+Форт	Fort
+Фросс	Fross
+Фуражир	Forager
+Фэйри	Fairy
+Халат посланника	Emissary's Robe
+Характер	Personality
+Харез	Charez
+Хижина шамана	Shaman's Hut
+Хлебный дол	Bread Vale
+Хмельные поля	Hopfields
+Хмурые чащобы	Gloomy Thickets
+Хнара	Hnara
+Ход противника...	Enemy Turn...
+Ход	Turn
+Ходов	Turns
+Холм	Hill
+Холмистая межа	Hilly Sideland
+Холмистый край	Hilly Country
+Холмова гряда	Holme's Ridge
+Холмогоры	Hillridges
+Холмы Катархов	Catharch Hills
+Холмы Кобольдов	Kobold Hills
+Холмы крикунов	Screecher Hills
+Холмы Крыланов	Winged Hills
+Холмы людоедов	Ogre Hills
+Холмы Топотунов	Trampler Hills
+Холмы	Hills
+Холодное оружие	Melee Weapon
+Холодное Солнце	Cold Sun
+Холщевый наруч	Cloth Bracers
+Хорадрический куб	Horadric Cube
+Хорд	Chord
+Храм Бессмертных	Temple of Immortals
+Храм Войны	Temple of War
+Храм Древних	Ancient Temple
+Храм Жизни	Temple of Life
+Храм Мира	Temple of Peace
+Храм Орла	Temple of the Eagle
+Храм Света	Temple of Light
+Храм Силы	Temple of Strength
+Храм Хаоса	Temple of Chaos
+Храмовый квартал	Temple Quarter
+Храмы	Temples
+Хранители леса	Forest Keepers
+Хранители мира	Keepers of Peace
+Хранитель Тайн	Arcane Keeper
+Хребет Камнепадов	Stonefall Edge
+Хрустальная сфера	Crystal Sphere
+Хутор половинчиков	Halfling Farm
+Ххаишшасс	Khhaishhass
+Хэг-Рышш	Hag-Rysh
+Целебный круг	Healing Circle
+Целебный сон	Healing Sleep
+Целитель	Grand Healer
+Целительство	Healing
+Цена покупки	Buying Price
+Цена продажи	Selling Price
+Цена ремонта	Repair Price
+Центральный квартал	Central Quarter
+Цепь молний	Chain Lightning
+Цербер	Cerberus
+Церковь	Church
+Циклоп	Cyclops
+Циклопова пята	Cyclops' Heel
+Цитадель гноллов	Gnoll Citadel
+Цитадель гномов	Dwarven Citadel
+Цитадель гоблинов	Goblin Citadel
+Цитадель дроу	Drow Citadel
+Цитадель кентавров	Centaur Citadel
+Цитадель орков	Orcish Citadel
+Цитадель половинчиков	Halfling Citadel
+Цитадель эльфов	Elven Citadel
+Цитадель ящеров	Lizardmen Citadel
+Цитадель	Citadel
+Чародеи Изравиуса	Izravius Sorcerers
+Чародеи	Battlemages
+Чародей	Battlemage
+Чародейская роща	Sorcerer's Grove
+Чаша Жизни	Chalice of Life
+Чаща	Thicket
+Чед-Нассад	Ched Nasad
+Чекан	Horse Pike
+Челобитные земли	Petition Lands
+Чемерисовы пади	Chemeris Folds
+Чемпион Арены	Arena Champion
+Чемпион	Champion
+Червивый лес	Worm Forest
+Черная башня	Black Tower
+Черная магия	Black Magic
+Черная трясина	Black Morass
+Чёрная чащоба	Black Thicket
+Чернокамень	Blackrock
+Чернокнижник	Warlock
+Чёрные овраги	Black Ravines
+Чёрный замок	Black Castle
+Чёрный лотос	Black Lotus
+Черный омут	Black Lotus Marsh
+Чёрт	Fiend
+Чертёж постройки	Building Schematics
+Чёртова горка	Demon's Mount
+Чёртовы топи	Demon Bogs
+Черторой	Fiendhive
+Четвёртый круг	Fourth Circle
+Чешуйчатая кольчуга	Scale Mail
+Чешуя Хасарта	Scales of Chassarth
+Чольссин	Chaulssin
+Чудесное оружие	Enchanted Weapon
+Чудесный лес	Wondrous Wood
+Чудные земли	Wondrous Lands
+Чудо	Miracle
+Чудовища	Monsters
+Чудовище	Behemoth
+Чума	Mass Disease
+Шагающий лес	Walking Wood
+Шайка воров	Gang of Thieves
+Шайка разбойников	A gang of robbers
+Шаман	Shaman
+Шапка Следопыта	Ranger's Cap
+Шаровая молния	Lightning Ball
+Шатер вождя	Chieftain's Tent
+Шатер Клана	Clan Tent
+Шатёр охотников	Hunter's Tent
+Шатры кентавров	Centaur Tents
+Шахта	Mine
+Шелковые перчатки	Silk Gloves
+Шелковый наруч	Silk Bracers
+Шепчущий лес	Whispering Wood
+Шерстяные перчатки	Woolen Gloves
+Шестопёр	Flanged Mace
+Шинордиум	Shinordium
+Шипастый щит	Spiked Shield
+Шипящая пустошь	Hissing Wasteland
+Школа арбалетчиков	Crossbowman School
+Школа волшебства	School of Wizardry
+Школа Высшей магии	School of High Magic
+Школа колдовства	School of Sorcery
+Школа копейщиков	Spearman School
+Школа мечников	Swordsman School
+Школа некромантии	School of Necromancy
+Школа пикинеров	Pikeman School
+Школа пращников	Slinger School
+Школяр	Scholar
+Шлем авантюриста	Adventurer's Helmet
+Шлем Безумия	Helmet of Madness
+Шлем Бесстрашия	Helmet of Intrepidity
+Шлем Василиска	Basilisk Helmet
+Шлем Величия	Helmet of Grandeur
+Шлем Ветерана	Veteran's Helmet
+Шлем Гарроса	Garros's Helmet
+Шлем Героя	Hero's Helmet
+Шлем Герскила	Herskil's Helmet
+Шлем Грифона	Gryphon Helmet
+Шлем Дариола	Dariol's Helmet
+Шлем Доблести	Helmet of Valor
+Шлем Древних	Helm of the Ancients
+Шлем дроу	Drow's Helmet
+Шлем Единорога	Unicorn Helmet
+Шлем Командира	Commander's Helmet
+Шлем Мантикоры	Manticore Helmet
+Шлем Орла	Eagle Helmet
+Шлем Паладина	Paladin's Helmet
+Шлем Победителя	Victor's Helmet
+Шлем экзекутора	Executioner's Helmet
+Шлем-череп	Skull-Helmet
+Шляпа Волшебника	Wizard's Hat
+Шляпа Иллюзий	Hat of Illusion
+Шляпа Торговца	Merchant's Hat
+Шляпа	Hat
+Шторм	Storm
+Штурмовое орудие	Siege Weapon
+Шудольский лес	Shoudole Wood
+Шумана	Shumana
+Шши-Ссиихх	Shhi-Ssyykhh
+Шых-Руггах	Shykh-Ruggakh
+Щит Воина	Warrior's Shield
+Щит предков	Ancestral Shield
+Щит рецидивиста	Offender's Shield
+Щит	Shield
+Щитолом	Shieldbreaker
+Экзорцизм	Exorcism
+Экономика	Economics
+Экран героя (G)	Hero Screen (G)
+Эксперт	Expert
+Электрошок	Electric Shock
+Элементал воды	Water Elemental
+Элементал воздуха	Air Elemental
+Элементал земли	Earth Elemental
+Элементал огня	Fire Elemental
+Элементал	Elemental
+Элементалистка	Elemental Mistress
+Элементалы	Elementals
+Элеран	Eleran
+Эллиен	Allien
+Эльф	Elf
+Эльф-всадник	Elf-horseman
+Эльф-друид	Elf-druid
+Эльфийская армия	Elven army
+Эльфийская кольчуга	Elven Chainmail
+Эльфийская пуща	Elven Grove
+Эльфийская роща	Elven Grove
+Эльфийская стража	Elven Guards
+Эльфийские клинки	Elven Blades
+Эльфийские стрелы	Elven Arrows
+Эльфийский гарнизон	Elven Garrison
+Эльфийский квартал	Elven Quarter
+Эльфийский лес	Elven Forest
+Эльфийский лук	Elven Bow
+Эльфийский отряд	Elven squad
+Эльфийский театр	Elven Theater
+Эльфийское ожерелье	Elven Necklace
+Эльф-мечник	Elf-swordsman
+Эльфы	Elves
+Энергия	Energy
+Эрду	Erdu
+Эри	Eri
+Эрикуба	Ericuba
+Эрнизар	Ernizar
+эрс	ers
+Эрт	Erth
+Эфирный арбалет	Ethereal Crossbow
+Эффекты	Effects
+Эшафот	Scaffold
+Юный кентавр	Young Centaur
+Ягодная ферма	Berry Farm
+Яд	Poison
+Яд болот	Swamp Poison
+Яд дроу	Drow Poison
+Ядовитая атака	Poison Attack
+Ядовитая плоть	Poison Flesh
+Ядовитое кольцо	Poison Ring
+Ядовитый выстрел	Poison Shot
+Ядовитый удар	Poison Bite
+Яйцо василиска	Basilisk's Egg
+Яйцо виверны	Wyvern's Egg
+Яйцо гидры	Hydra's Egg
+Яйцо мантикоры	Manticore's Egg
+Яйцо медузы	Medusa's Egg
+Яйцо птицелова	Birdeater's Egg
+Яйцо феникса	Phoenix' Egg
+Яйцо эрикубы	Ericuba's Egg
+Ярбангир	Yarbanguir
+Ярго	Jargo
+Ярмарка полуросликов	Fair
+Яростная атака	Mass Attack
+Ярость орды	Horde's Rage
+Ярость предков	Ancestral Rage
+Ярость	Rage
+Ятаган	Scimitar
+Ящеровы топи	Lizard Bogs
+Ящер-страж	Lizardman-sentinel
+Ящер-стрелок	Lizardman Archer
+Ящер-чемпион	Lizardman-champion
+Ящер-шаман	Lizardman-shaman
+Авантюрист	Adventurer
+Архимаг	Archmage
+Атаман	Gang Leader
+Берсерк	Berserker
+Боевой чародей	Warwizard
+Буровик	Driller
+Быстрое заживление	Quick Restoration
+Великий Крысс	Grand Ratt
+Верховный друид	Archdruid
+Верховный жрец	High Priest
+Воевода	Warlord
+Вождь	Chieftain
+Воиналкари	Alkari-warrior
+Вольныйстрелок	Rogue Archer
+Врата Хаоса	Gates of Chaos
+Вызов воина алкари	Summon Alkari-warrior
+Вызов капитана алкари	Summon Alkari Captain
+Вызов клерика алкари	Summon Alkari-cleric
+Генерал	General
+Генералалкари	Alkari General
+Гигантская крыса	Giant Rat
+Главарь	Ringleader
+Гном-поджигатель	Dwarven Firestarter
+Гном-подрывник	Dwarven Bomber
+Гномья давилка	Dwarven Crusher
+Гномья мортира	Dwarven Mortar
+Головорез	Mercenary
+Друид	Druid
+Душеловка	Soul Trap
+Егерь	Ranger
+Жрец	Priest
+Капитаналкари	Alkari Captain
+Клерикалкари	Alkari-cleric
+Коготь тени	Shadow Claw
+Колдун	Sorcerer
+Колосс	Colossus
+Крысиный Король	Rat King
+Крысолюд	Ratman
+Крысоогр	Ratogre
+Ликан	Lycan
+Маг	Mage
+Малефикар	Maleficar
+Маршал	Marshall
+Мастер-некромант	Master Necromancer
+Мастер-убийца	Master Assassin
+Метатель огня	Firebreather
+Мефит	Mephit
+Молниевая пушка	Lightning cannon
+Некромант	Necromancer
+Паладин	Paladin
+Повелитель Распада	Master of Decay
+Пойманная душа	Trapped Soul
+Полководец	Battlemaster
+Похоронный звон	Death Bell
+Призвать мефита	Summon Mephit
+Приступ боли	Strike of Pain
+Рыцарь света	Holy Knight
+Рыцарь смерти	Death Knight
+Рыцарь тьмы	Dark Knight
+Свежеватель	Ripper
+Следопыт	Pathfinder
+Смертокрыс	Ratclaw
+Снайпер	Sharpshooter
+Стальной голем	Iron Golem
+Старший конструктор	Master Constructor
+Страж Даокона	Daokon's Guardian
+Стратег	Strategist
+Стрелок	Archer
+Тактик	Tactician
+Убийца	Assassin
+Чародей	Battlemage
+Чёрныйединорог	Black Unicorn
+Чумной Воин	Plague Warrior
+Чумострел	Plague Shooter
+Штурм-крыс	Assault Rat
+Астральный шпион	Astral Spy
+Вольный Стрелок	Deadeye
+Великий вождь	Great Chieftain
+Развалины башни	Tower Ruins
+Усыпальница	Burial Vault
+Старый особняк	Old Mansion
+Логово оборотня	Werewolf Lair
+Тёмная лощина	Dark Hollow
+Подземный грот	Underground Cave
+Катакомбы	Catacombs
+Старые стоки	Old Sewers
+Нора крысолюдов	Ratman Burrow
+Канализация	Sewerage
+Цех бурильщиков	Digger Workshop
+Храм клана Чумы	Pests Clan Temple
+Башня Тьмы	Tower of Darkness
+Кокон Тьмы	Cocoon of Darkness
+Сияние Тьмы	Blinding Darkness
+Теневая форма мотылька	Shadow Form Butterfly
+Астральный паразит	Astral Parasite
+Руки Тьмы	Hands of Darkness
+Тёмный выкуп	Dark Redemption
+Глухая оборона	Shield Wall
+Свидетельство веры	Test of Faith
+Мор	Pestilence
+Варево	Concoction
+Газовый снаряд	Gas Bomb
+Лихорадка	Fever
+Истощение	Exhaustion
+Чёрная чума	Black Plague
+Слепая вера	Blind Faith
+Ядовитый дождь	Poison Rain
+Чёрная кровь	Black Blood
+Газовая форма	Gaseous Form
+Защита Вотула	Votul's Defense
+Леденящее касание	Chilling Touch
+Вечный свет	Eternal Light
+Ярость небес	Heaven's Rage
+Жаждой крови	Bloodlust
+бдительность	vigilance
+стрелковая атака	ranged attack
+Астральный раскол	Astral Schism
+Слово Лорда	Word of the Lord
+Ментальная поддержка	Mental Support
+Ментальный поединок	Mental Duel
+Ментальная проповедь	Mental Sermon
+Ментальный резонанс	Mental Resonance
+Подвиг веры	Act of Faith
+Ментальная тень	Mental Shadow
+Ловчая сеть	Hunter's Net
+Кровотечение	Bleeding
+Повреждена аура	Damaged Aura
+Каменная форма	Stone Statue
+Поцелуй Тьмы	Kiss of Darkness
+Ярость альваров	Alvari Rage
+Тёмное равновесие	Dark Balance
+святым воителем	Paragon of Light
+Кровь тени	Blood Shadow
+Стимул	Stimulus
+Знание территорий	Terrain Knowledge
+восстанавливает	restores
+Дрожащая тень	Trembling Shadow
+первого удара	first strike
+Танец теней	Shadow Dance
+Горит	Burning
+Всплеск Тьмы	Darkness Surge
+Шторм Тьмы	Storm Shadow
+Не сражается	Does not fight
+Не перемещается	Does not move
+Когти тени	Shadow Claws
+крысоеды	Rat Reaper
+Техномаги	Technomages
+клана Скрежет	Skirr Clan
+Искатели	Seekers
+Теневая форма Алчущего	Shadow Form Craver
+Теневая форма Избранной	Shadow Form Chosen
+Менторы	Mentors
+Шок	Shock
+болотных стрекоз	Swamp Dragonflies
+штурмовых орудий	siege weapons
+Волшебные стрелы	Magical arrows
+Созерцателей	Beholder
+Гномья кузня	Dwarven Forge
+гномов-кузнецов	Dwarven Blacksmiths
+гномов-инженеров	Dwarven Engineers
+гоблинов-чародеев	Goblin Sorcerers
+сады чародеев	Battlemage Garden
+болотистых	swamp
+Скипетр экзекутора	Executioner's Axe
+кобольдов-рабов	Kobold Slaves
+Гильдия рабовладельцев	Slaveholders Guild
+погонщиков	Slavedrivers
+Чёрный Отряд	Black Band
+Крепость охотников	Hunter Stronghold
+Храм Тени	Temple of Shadows
+тёмных жриц	Dark Priestesses
+Посвящённые Сумерек	Twilight Initiates
+Башня Тени	Tower of Shadows
+Цитадель Тени	Citadel of Shadows
+Избранных Тьмой	Darkness Chosen
+Алчущих Тьмы	Darkness Cravers
+Армия Тьмы	Army of Darkness
+Академия Тьмы	Academy of Darkness
+стражей Тьмы	Darkness Guards
+Сердце Ночи	Heart of the Night
+Зов Тьмы	Call of Darkness
+Икаров	Icari
+Призыв Икара	Summon Icarus
+Светочей	Luminaries
+Ловчих	Stalkers
+Боевое Крыло	Combat Wing
+Свидетелей	Witnesses
+Белая башня	White Tower
+Небесное око	Celestial Eye
+Кристальные столпы	Crystal Pillars
+Вечных менторов	Eternal Mentors
+Небесная эскадрилья	Celestial Squadron
+Хранителей памяти	Memory Keepers
+Сияющий шпиль	Shining Spire
+Воспрявших	Arisen
+воинов распада	Warriors of Decay
+Стая крысолюдов	Ratman Pack
+кровавых мотыльков	Blood Butterflies
+Ночных Теней	Nightshades
+ночных охотников	Nocturnal Hunters
+Менторий	Mentorium
+Цех туннелепроходчиков	Driller Guild
+Сила	Strength
+Броня	Armor
+Воин	Unit
+тайла	tile
+неутомим	tireless
+Зачарованные стрелы	Enchanted Arrows
+страж	sentinel
+Стойкий разум	Strong Mind
+дальность призыва	summoning range
+Теневой вор	Shadow Thief
+Вызов ловчего	Summon Stalker
+Вызов Светоча	Summon Luminary
+Призвать крысу	Summon Rat
+Сильный голод	Severe Hunger
+Чёрный голод	Dark Hunger
+Стихийный дух	Elemental Spirit
+Древо Ушедших	Tree of the Departed
+ящера-стрелка	Lizard Archer
+Культист Хаоса	Chaos Cultist
+Оружие Вотула	Votul's Weapon
+Оберег Вотула	Votul's Talisman
+Вечный ментор	Eternal Mentor
+Калечащий выстрел	Crippling Shot
+Неодолимая сила	Overwhelming Force
+Оглушающий выстрел	Stunning Shot
+Искусный дипломат	Skillful Diplomat
+Алчущего Тьмы	Darkness Craver
+Обжигающая атака	Burning Attack
+Цепная молния	Chain Lightning
+Мощный выстрел	Powerful Shot
+Тёмное восполнение	Dark Replenishmant
+Огненный взрыв	Fireblast
+Огненный выстрел	Fire Shot
+Огненный шторм	Fire Storm
+святым воителем	Paragon of Light
+Сон	Sleep
+Галлюцинации	Hallucinations
+Ментальный раб	Enslave Mind
+Массовый сон	Mass Sleep
+Вопль баньши	Banshee's Howl
+Паралич	Paralyze
+Знак Аксий	Axii Sign
+Целебный сон	Healing Sleep
+Кошмар	Nightmare
+Помутнение разума	Confusion
+Яростный рёв	Fierce Roar
+бестелесным	incorporeal
+Чёрная магия	Black Magic
+Порча	Corruption
+Тёмная сталь	Dark Steel
+Кровавый ритуал	Blood Ritual
+Прах Смерти	Death Ashes
+Военную школу	War School
+Фабрику чумных пушек	Plague Gun Factory
+Лабораторию Искателей	Seeker Laboratory
+Тайную библиотеку	Secret Library
+Рывок	Dash
+Великую кузню	Great Forge
+Острое оружие	Wounding Strike
+воина Мрака	Warrior of Darkness
+Гниющие раны	Festering Wounds
+Пылающий меч	Flaming Sword
+Сменить оружие	Switch Weapon
+Сменить снаряды	Switch Ammo
+Круг	Circle
+Школа	School
+Волшебство	Wizardry
+Замедление	Slow
+Замедление	Slowed
+Ускорение	Haste
+Благословение	Bless
+Адский портал	Hellgates
+Природная магия	Natural Magic
+Магия Тени	Shadow Magic
+Техномагия	Technomagic
+Магия Первоэлементов	Elemental Magic
+Молитвы	Prayers
+Тёмное опустошение	Dark Depletion
+Лордов Хаоса	Chaos Lords
+значительно	significantly
+Самопожертвование	Self-Sacrifice
+Некро-всплеск	Necrosurge
+Силу призыва	Summoning Power
+Баллиста Древних	Ancient Ballista
+Воин Распада	Warrior of Decay
+Земли альваров	Alvari Lands
+Пустоши алкари	Alkari Expanse
+Бешенство	Frenzy
+Прилив сил	Surge of Strength
+Жизнеотбор	Life Leech
+Устрашающий выстрел	Intimidating Shot
+Острые стрелы	Wounding Shot
+Астральные снаряды	Astral Ammo
+Взрывное оружие	Explosive Weapon
+Острые шипы	Wounding Spikes
+Снайперский выстрел	Sniper Shot
+Пылающие стрелы	Flaming Arrows
+Деревня	Village
+Село	Large Village
+Большой город	Large City
+Страж Тьмы	Guardian of Darkness
+Кристалл Тьмы	Dark Crystal
+Миртум	Myrthum
+Жузрухх	Zhuzrukh
+Щит земли	Earth Shield
+Усмирение духов	Soothe Spirits
+Кровь орды	Tribe's Blood
+Демонический вой	Demonic Howl
+Инфернальный вой	Infernal Howl
+Кровавое безумие	Blood Frenzy
+Безумная ярость	Manic Rage
+Способность	Ability
+стоптать	trample
+типа	type
+гниения ран	Rotting Wounds
+вызван	summoned
+увеличивать	increase
+уменьшать	decrease
+Боевое безумие	Battle Frenzy
+Ящер-заклинатель	Lizardman-warlock
+Плеть Хаоса	Scourge of Chaos
+Наследие Хаоса	Legacy of Chaos
+Хаоса	of Chaos
+Палатка шамана	Shaman Tent
+Шатёр	Pavilion
+Позволяет	Allows
+нанимать	hire
+нанимать	recruit
+Палатка	Tent
+гнев	rage
+Первобытный гнев	Primal Rage
+Искушение Хаоса	Temptation of Chaos
+чародей	wizard
+чародея	of the wizard
+магазин	store
+Рубака	Cleaver
+убивать	kill
+Мучитель	Tormenter
+Воин стаи	Pack Warrior
+Тиран	Tyrant
+Пожиратель	Devourer
+недомогание	Distress
+Удар	Strike
+Земли	Earth
+Огня	Fire
+Крови	Blood
+дух	Ghost
+дух	Spirit
+Живучесть	Vitality
+вызываемых	summoned
+пересмешника	mocker
+Тёмное превосходство	Dark Dominion
+превосходство	dominion
+Мародёрство	Marauding
+нежити	Undead
+Умения	Skill
+клинок	Blade
+Пылающий	Flaming
+Не действует на	Has no effect on
+существо	creature
+оружие	weapon
+противник	enemy
+Артиллерия	Artillery
+культист	Cultist
+Действует только на	Only works on
+альвар	Alvar
+парящих	floating
+Броня веры	Armor of Faith
+вера	faith
+цели	target
+призыва	summon
+а также	as well as
+Освободившись	Once released
+командующ	commander
+чёрта	fiend
+чертями	fiend
+кадавра	Cadaver
+Неназываемый	the Unspeakable
+Бушующее пламя	Raging Flame
+Порождения	spawn
+Невосприимчиво	Immune
+принести в жертву	sacrificed
+медалями	medals
+Хозяин	Master
+служить	serve
+плоть	flesh
+разумных	sentient
+Человеческие	Human
+оплата	payment
+охраной	guards
+отказ	refusal
+скидкой	discount
+успешные	successful
+переговоры	negotiations
+неудача	failure
+мелкая	small
+взятка	bribe
+торги	negotiate
+неудачный	unsuccessful
+подкуп	bribe
+с	with
+Видящий духов	Ghost Whisperer
+карма	karma
+лук	bow
+пир	feast
+Отродье	Abomination
+Астральная	Astral
+Боевые 	battle
+снаряд	ammo
+растут	increases
+растут	grows
+Ядовитый	Poison
+Рой	swarm
+шершней	hornets
+Зуд	Itch
+Зачарованное	enchanted
+Обездвиживает	immobilizes
+вражеское	enemy
+дружественное	friendly
+дружественное	ally
+существенно	significantly
+сильно	heavily
+Переносчик	Carrier
+Чахотка	Atrophy
+Рассадник	Hotbed
+Экспедиция	Expedition
+Бараки	Barracks
+Долина	Valley
+Земли	Lands
+Край	Country
+поля	Fields
+Карликов	Dwarven
+Карликовый	Dwarven
+кряж	Range
+Гряда	Ridge
+Хинт	Hint
+Тройное лезвие	Triple Blade
+Усиление чар	Improved Charm
+Обессиливание	Fatigue
+Погибель нечестивых 	Wicked's Bane
+Установить	Set
+Общее 	Mass
+Врата	Gates
+орла	Eagle
+Вечное рабство	Eternal Slave
+Прожорливость	Voracity
+ценности	valuables
+Ценные	valuables
+Не	Not
+шкатулку	jewelry box
+теперь	now
+разница	difference
+проказу	leprosy
+Заклятье	Spell
+Улей	Hive
+Перехват	Interception
+Уклонение 	Dodge
+Чумы	of Plague
+Чудес	of Miracles
+вызывать	cast
+Раскола	the Sundering
+Повелитель тварей	Beast Master
+низина	Lowland
+единица	one
+Переваривание	Digestion
+родовой провинции	capital
+Загонщик	Beater
+Чемпион Топей	Bog Champion
+Воин Топей	Bog Warrior
+Шепчущий	Whisperer
+Шипящий	Hisser
+Повелитель Распада	Master of Decay
+Сады	Gardens
+пилорама	Sawmill
+медиум	Medium
+Звёзд	Star
+Защита Леса 	Forest Protection
+Могущество Леса	Forest Might
+выбор	decision
+развития	upgrade
+Путь	Path
+избрал	chose
+Стойкости	Tenacity
+запас выстрелов	ammo
+увеличены	increased
+снижена	decreased
+Духовная связь	Spiritual Link
+наносящее	dealing
+урон	damage
+Грунс	Grunas
+Ругару	Rugaru
