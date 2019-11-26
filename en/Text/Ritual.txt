@@ -40,7 +40,7 @@ There must be enough space in the hero's army.#
 There must be enough space in the hero's army.#
 
 12. Deadly Terror
-#An unnatural fear grips the hearts of all those in the province. The morale of the units is decreases by 7. Population mood is lowered for 10 turns.#
+#An unnatural fear grips the hearts of all those in the province. The units' morale is decreased by 7. Population mood is lowered for 10 turns.#
 
 13. Heavenly Guards
 #Pegasi descend from the skies to defend the province. People are happy to have such a protection. In addition, the Pegasi scout out the lands around the province.

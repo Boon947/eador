@@ -1992,7 +1992,7 @@ Param1: 2
 Param2: 3;
 
 /41
-Name: Crystal Mine;
+Name: Crystal Pit;
 Upgrade: 0
 Building: 55
 GoldCost: 200

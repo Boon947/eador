@@ -681,10 +681,10 @@ If the unit dies before digestion is complete, it will perish forever, and the s
 #Defense and Ranged Defense of all nearby allied creatures are increased at least by 2.#
 
 225. Forest Might
-#All types of Armor and Attack of all nearby allied creatures are increased at least by 2.#
+#All types of Defense and Attack of nearby allied creatures are increased at least by 2.#
 
 226. Forest Blessing
-#All types of Armor and Attack of all nearby allied creatures are increased at least by 2. Unit and all nearby allies at rest recover additional Stamina and Health.#
+#All types of Defense and Attack of nearby allied creatures are increased at least by 2. Unit and all nearby allies at rest recover additional Stamina and Health.#
 
 227. Spiritual Link
 #When unit uses magic, half the Stamina required to cast a spell will be spent by the one who cast this spell. If the spell is cast more than once, the Stamina cost will be equally distributed to everyone.#

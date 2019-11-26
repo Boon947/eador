@@ -2299,7 +2299,7 @@ Bloodsucker +10.#
 #Unit's weapon ignites the target, causing additional damage every turn.#
 
 /750 Forest Protection
-#Unit can cast the Forest Protection spell on himself, increasing Defense and Ranged Defense of all allies around him by 2.#
+#Unit can cast the Forest Protection spell on itself, increasing Defense and Ranged Defense of all nearby allies by 2.#
 
 /751 Gobble 20
 #Unit is able to completely swallow an enemy with less than 20 HP. Digestion restores 5 HP each turn.#

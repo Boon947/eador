@@ -937,7 +937,7 @@ Allows to perform the ritual of Harvest Festival.#
 
 227. Great Forge
 #Income +10. Allows hiring the Mechanicals guard.
-Allows upgrading a Mine in provinces to a Dwarven Mine. Allows upgrading a Mine in provinces with crystal to a Crystal Mine.#
+Allows upgrading in provinces a Mine to a Dwarven Mine. Allows upgrading in provinces a Crystal Pit to a Crystal Mine.#
 
 228. Centaur Camp
 #Allows recruiting Centaurs and Centaur Warriors.#
@@ -1109,7 +1109,7 @@ Slows unrest growth in the capital.#
 #Allows recruiting Devourers in the Garrison or by Gathering the Pack.
 Allows you to hire Gnoll Horde guards.#
 
-269. Dark Brotherhood
+269. Twilight Brotherhood
 #Lowers the population mood in the capital by 1.
 Allows you to perform rituals Target of Brotherhood and Bloody Hand.#
 

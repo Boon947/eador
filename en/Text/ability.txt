@@ -150,7 +150,7 @@ Ability has no effect when attacking incorporeal enemies.#
 #The target's defense is effectively halved against this unit's attacks. Not valid when attacking incorporeal enemies.#
 
 /40 Stunning Blow
-#Each blow reduces the target's stamina by %d, unless the attack does no damage - then only by %d. No effect on incorporeal enemies.#
+#Each blow reduces the target's stamina by %d (but only by %d if the attack deals no damage). No effect on incorporeal enemies.#
 
 /41 Poison Attack
 #The unit poisons the enemies it attacks in melee, making them lose %d hit points per turn for 3 turns.#
@@ -2014,7 +2014,7 @@ It is not possible to swallow multiple units, enemy must be fully digested befor
 To use the ability, unit must be immobile and have more than 3 Stamina.#
 
 /529 Forest Protection Spell
-#This unit can cast the Forest Protection spell on himself, increasing by 2 Defense and Ranged Defense of all allied units nearby.#
+#Unit can cast the Forest Protection spell on itself, increasing by 2 Defense and Ranged Defense of all nearby allies.#
 
 /530 Forest Might Spell
 #This unit can cast the Forest Might spell on himself, increasing by 2 all types of Attack and Armor of all allied units nearby.#

@@ -239,7 +239,7 @@ Can only be built on a hill.#
 Speeds up restoration of unit hit points by 10~.
 Can only be built in a swamp.#
 
-41. Crystal Mine
+41. Crystal Pit
 #Income +1.
 Yields 3 gems per turn.
 Increase income of gems by 10~.

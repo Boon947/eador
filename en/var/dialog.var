@@ -535,7 +535,7 @@ Answer2: Retreat.;#####
 /58 Башня магов, вход
 Window: 2;
 Bitmap: 6;
-Text: #The hero %s has reached a strange-looking magic tower. Several mages have secluded themselves here, experimenting with forbidden sorcery. There's no doubt that they possess scrolls with rare spells, or powerful artifacts. And it's equally certain they won't give them up without a fight.
+Text: #The hero %s has reached a strange-looking magic tower. Several mages have secluded themselves here, experimenting with forbidden sorcery. They must possess rare scrolls or powerful artifacts. But they'll never give them up without a fight.
 Number of enemies: %d.
 The following units were spotted among the enemies: %s.
 What are your orders, Master?#
@@ -2340,21 +2340,21 @@ Answer4: I choose the Elven Bow.;#####
 /294 (Торговцы хотят пройти через Вашу провинцию - меч)
 Window: 2;
 Bitmap: 33;
-Text: #The traders hand the Sword over to the deputy of the province of %s. When the Sword is delivered to your stronghold, it turns out that it's just a piece of rusty iron not even worth a penny. By then, the caravan has already crossed your domain unhindered.#
+Text: #The traders hand the Sword over to the deputy of the %s province. When the Sword is delivered to your stronghold, it turns out that it's just a piece of rusty iron not even worth a penny. By then, the caravan has already crossed your domain unhindered.#
 Answer1: Never trust a trader!;
 Answer2: Curse those foul rogues! (-15 & );#####
 
 /295 (Торговцы хотят пройти через Вашу провинцию - сфера)
 Window: 2;
 Bitmap: 33;
-Text: #The traders hand the Sphere over to the deputy of the province of %s. After the Sphere is delivered to your stronghold, it turns out that it's just a piece of glass not even worth a penny. By then, the caravan has already crossed your domain unhindered.#
+Text: #The traders hand the Sphere over to the deputy of the %s province. After the Sphere is delivered to your stronghold, it turns out that it's just a piece of glass not even worth a penny. By then, the caravan has already crossed your domain unhindered.#
 Answer1: Never trust a trader!;
 Answer2: Curse those foul rogues! (-15 & );#####
 
 /296 (Торговцы хотят пройти через Вашу провинцию - лук)
 Window: 2;
 Bitmap: 33;
-Text: #The traders hand the Elven Bow over to the deputy of the province of %s. After the Bow is delivered to your stronghold, it turns out that it's just a piece of rotten wood not even worth a penny. By then, the caravan has already crossed your domain unhindered.#
+Text: #The traders hand the Elven Bow over to the deputy of the %s province. After the Bow is delivered to your stronghold, it turns out that it's just a piece of rotten wood not even worth a penny. By then, the caravan has already crossed your domain unhindered.#
 Answer1: Never trust a trader!;
 Answer2: Curse those foul rogues! (-15 & );#####
 
@@ -2873,7 +2873,7 @@ Answer2: That's not enough gold!;#####
 /364 (Помощь жрецу - основной диалог)
 Window: 2;
 Bitmap: 81;
-Text: #The deputy of the province of %s informs you that local fishermen have fished up a bottle containing a letter. A man taken prisoner by pirates begs you to help him. The letter indicates the location of the pirates' lair.#
+Text: #The deputy of the %s province informs you that local fishermen have fished up a bottle containing a letter. A man taken prisoner by pirates begs you to help him. The letter indicates the location of the pirates' lair.#
 Answer1: Send a rescue party! (-300 $ );
 Answer2: Don't bother me with such trifling matters again.;#####
 
@@ -4110,7 +4110,7 @@ Answer4: Finish it off and make clothes from its feathers.;#####
 /524 (Речные бродяги - главное условие)
 Window: 2;
 Bitmap: 0;
-Text: #Your deputy of the province of %s informs you that a whole tribe of river vagabonds has pulled up to the shore. They have arrived on rafts, bringing shells and pebbles to sell. But, in addition to petty trade, these «river rats» make a living by stealing and begging. People in the province are scared of such neighbors.#
+Text: #The deputy of the %s province informs you that a whole tribe of river vagabonds has pulled up to the shore. They have arrived on rafts, bringing shells and pebbles to sell. But, in addition to petty trade, these «river rats» make a living by stealing and begging. People in the province are scared of such neighbors.#
 Answer1: Don't bother me with such trifles!;
 Answer2: Build them barracks and find them work. (-100 $ );
 Answer3: Set fire to their rafts. They'll leave.;
@@ -4140,7 +4140,7 @@ Answer2: Alas! I should have confiscated their property first!;#####
 /528 (Старец и браслет солнца - главное условие)
 Window: 2;
 Bitmap: 80;
-Text: #The deputy of the province of %s informs you that an infirm old man has come to him with a complaint about a moneylender. The moneylender took the Sun Bracelet from him as a pledge for a 500 gold coins loan, yet now refuses to give it back for the same amount.#
+Text: #The deputy of the %s province informs you that an infirm old man has come to him with a complaint about a moneylender. The moneylender took the Sun Bracelet from him as a pledge for a 500 gold coins loan, yet now refuses to give it back for the same amount.#
 Answer1: Don't bother me with such trifles!;
 Answer2: Recover the bracelet and bring it to me!;
 Answer3: Force the moneylender to return the bracelet.;
@@ -4282,7 +4282,7 @@ Answer2: I'm doing this for the greater good.;#####
 /547 (Засуха - главное)
 Window: 2;
 Bitmap: 81;
-Text: #The deputy of the province of %s informs you: a suffocating heatwave has hit these lands for the past several days. If you don't act immediately, the sun will burn up the whole harvest.#
+Text: #The deputy of the %s province informs you: a suffocating heatwave has hit these lands for the past several days. If you don't act immediately, the sun will burn up the whole harvest.#
 Answer1: Perform a ritual to invoke rain. (-20 & );
 Answer2: Dig an irrigation system from a river. (-150 $ );
 Answer3: Force people to water the fields from the wells.;
@@ -4704,7 +4704,7 @@ Answer2: Stupid worthless people!;#####
 /602 (Хорошие предзнаменования - главное)
 Window: 2;
 Bitmap: 80;
-Text: #The deputy of the province of %s informs you that a statue of an ancient god of luck has appeared in the middle of the city square overnight. This is a very good sign, and the people of the province are celebrating and enjoying themselves.#
+Text: #The deputy of the %s province informs you that a statue of an ancient god of luck has appeared in the middle of the city square overnight. This is a very good sign, and the people of the province are celebrating and enjoying themselves.#
 Answer1: Arrange a proper festival. (-100 $ );
 Answer2: Break the statue! It's the work of our enemies!;
 Answer3: These are all stupid superstitions.;#####
@@ -4712,7 +4712,7 @@ Answer3: These are all stupid superstitions.;#####
 /603 (Плохие предзнаменования - главное)
 Window: 2;
 Bitmap: 81;
-Text: #The deputy of the province of %s informs you that a local hunter has seen a two-headed lizard. This is a very bad sign. Popular belief holds that a two-headed lizard is one of the messengers of the god of Death and that you should be prepared for a great misfortune. All of the people in the province are panic-stricken.#
+Text: #The deputy of the %s province informs you that a local hunter has seen a two-headed lizard. This is a very bad sign. Popular belief holds that a two-headed lizard is one of the messengers of the god of Death and that you should be prepared for a great misfortune. All of the people in the province are panic-stricken.#
 Answer1: Perform a Cleansing ritual. (-30 & );
 Answer2: Catch and kill the lizard!;
 Answer3: I don't believe in this stupid superstition!;#####
@@ -4757,7 +4757,7 @@ Answer2: It's a pity they didn't get there in time!;#####
 /609 (Подарок от князя - главное)
 Window: 2;
 Bitmap: 80;
-Text: #The deputy of the province of %s informs you that a prince of the neighboring province has sent him rich gifts: baskets of exotic fruits never seen before in these lands, bodies of wild beasts and several barrels of wine.#
+Text: #The deputy of the %s province informs you that a prince of the neighboring province has sent him rich gifts: baskets of exotic fruits never seen before in these lands, bodies of wild beasts and several barrels of wine.#
 Answer1: Burn it all! That's all enemy tricks!;
 Answer2: Arrange a holiday for the province's people.;
 Answer3: Send some gifts in return (-50 $ );#####
@@ -4765,7 +4765,7 @@ Answer3: Send some gifts in return (-50 $ );#####
 /610 (Работники кентавров - главное)
 Window: 2;
 Bitmap: 0;
-Text: #The deputy of the province of %s informs you that many people are running away to the neighboring province of the centaurs to work for them, earning twice as much gold as they did in your domain.#
+Text: #The deputy of the %s province informs you that many people are running away to the neighboring province of the centaurs to work for them, earning twice as much gold as they did in your domain.#
 Answer1: Kill all the traitors!;
 Answer2: Pay our workers more.;
 Answer3: Curse the centaurs. (-15 & );
@@ -4774,7 +4774,7 @@ Answer4: Don't bother me with such trifles from now on.;#####
 /611 (Кладбище - главное)
 Window: 2;
 Bitmap: 179;
-Text: #The deputy of the province of %s informs you that the caretaker of a local graveyard has seen animated dead who rise from their graves at night and head somewhere outside the cemetery. The caretaker believes these are the pranks of a young magician who settled recently on the outskirts of the city not far from the graveyard. However, the caretaker is too afraid to make sure he's right by tracking the dead. The people of the province are very afraid of what's happening.#
+Text: #The deputy of the %s province informs you that the caretaker of a local graveyard has seen animated dead who rise from their graves at night and head somewhere outside the cemetery. The caretaker believes these are the pranks of a young magician who settled recently on the outskirts of the city not far from the graveyard. However, the caretaker is too afraid to make sure he's right by tracking the dead. The people of the province are very afraid of what's happening.#
 Answer1: You can cope with the dead yourselves!;
 Answer2: Hire a team of adventurers. (-200 $ );
 Answer3: Execute the magician.;
@@ -4838,7 +4838,7 @@ Answer3: Return it and bless the cemetery (-150 $ -50 & );#####
 /619 (Герой - главное 1)
 Window: 2;
 Bitmap: 57;
-Text: #The deputy of the province of %s informs you that a hero called the Vanquisher of Giants has turned up in their land. Recently, he had found a giants' lair in their province and cleared it out. The people say he has obtained great spoils: the Vanquisher of Giants has six backpacks crammed full of gold!#
+Text: #The deputy of the %s province informs you that a hero called the Vanquisher of Giants has turned up in their land. Recently, he had found a giants' lair in their province and cleared it out. The people say he has obtained great spoils: the Vanquisher of Giants has six backpacks crammed full of gold!#
 Answer1: Convey my thanks to him!;
 Answer2: Bless the hero. (-20 & );
 Answer3: Make him give me half of the spoils!;
@@ -4847,7 +4847,7 @@ Answer4: Take everything from him!;#####
 /620 (Герой - главное 2)
 Window: 2;
 Bitmap: 57;
-Text: #The deputy of the province of %s informs you that a hero called the Vanquisher of Ogres has turned up in their land. Recently, he had found an ogre's lair in their province and cleared it out. The people say he has obtained great spoils: the Vanquisher of Ogres has ten backpacks crammed full of goods!#
+Text: #The deputy of the %s province informs you that a hero called the Vanquisher of Ogres has turned up in their land. Recently, he had found an ogre's lair in their province and cleared it out. The people say he has obtained great spoils: the Vanquisher of Ogres has ten backpacks crammed full of goods!#
 Answer1: Convey my thanks to him!;
 Answer2: Bless the hero. (-20 & );
 Answer3: Make him give me half of the spoils!;
@@ -4856,7 +4856,7 @@ Answer4: Take everything from him!;#####
 /621 (Герой - главное 3)
 Window: 2;
 Bitmap: 57;
-Text: #The deputy of the province of %s informs you that a hero called the Vanquisher of Trolls has turned up in their land. Recently, he had found a troll's lair in their province and cleared it out. The people say he has obtained great spoils: the Vanquisher of Trolls has five backpacks crammed full of goods!#
+Text: #The deputy of the %s province informs you that a hero called the Vanquisher of Trolls has turned up in their land. Recently, he had found a troll's lair in their province and cleared it out. The people say he has obtained great spoils: the Vanquisher of Trolls has five backpacks crammed full of goods!#
 Answer1: Convey my thanks to him!;
 Answer2: Bless the hero. (-20 & );
 Answer3: Make him give me half of the spoils!;
@@ -4865,7 +4865,7 @@ Answer4: Take everything from him!;#####
 /622 (Герой - главное 4)
 Window: 2;
 Bitmap: 57;
-Text: #The deputy of the province of %s informs you that a hero called the Vanquisher of Warlocks has turned up in their land. Recently, he had found a warlock's dungeon in their province and cleared it out. People say there are a great many trophies obtained: the Vanquisher of Warlock has six backpacks crammed full of gold and gems!#
+Text: #The deputy of the %s province informs you that a hero called the Vanquisher of Warlocks has turned up in their land. Recently, he had found a warlock's dungeon in their province and cleared it out. People say there are a great many trophies obtained: the Vanquisher of Warlock has six backpacks crammed full of gold and gems!#
 Answer1: Convey my thanks to him!;
 Answer2: Bless the hero. (-20 & );
 Answer3: Make him give me half of the spoils!;
@@ -5322,7 +5322,7 @@ Answer2: The result is not worth the effort spent!;#####
 /684 (Лавка ювелира - главное)
 Window: 2;
 Bitmap: 69;
-Text: #The deputy of the province of %s informs you that a one-legged dwarf jeweler has come to their settlement, asking permission to open his shop. Your deputy fears that the dwarf, as an obvious outcast of his race, may incur the dwarves' wrath on their province.#
+Text: #The deputy of the %s province informs you that a one-legged dwarf jeweler has come to their settlement, asking permission to open his shop. Your deputy fears that the dwarf, as an obvious outcast of his race, may incur the dwarves' wrath on their province.#
 Answer1: Drive the dwarf away from my domain!;
 Answer2: Permit the dwarf to open shop.;
 Answer3: Permit him to open shop for 200 $ .;
@@ -5353,7 +5353,7 @@ Answer2: I pity him, but life is cruel.;#####
 /688 (Кража фруктов - главное)
 Window: 2;
 Bitmap: 80;
-Text: #The deputy of the province of %s informs you that people in his province have got into the habit of gathering fruit from the gardens of a neighboring free settlement. Such petty thefts bring some additional income.#
+Text: #The deputy of the %s province informs you that people in his province have got into the habit of gathering fruit from the gardens of a neighboring free settlement. Such petty thefts bring some additional income.#
 Answer1: Execute all of the petty thieves!;
 Answer2: Forbid my subjects to steal!;
 Answer3: Don't stop the people from earning money.;
@@ -5369,7 +5369,7 @@ Answer2: I feel sorry for them, but justice is cruel.;#####
 /690 (Проклятые земли - главное)
 Window: 2;
 Bitmap: 124;
-Text: #The deputy of the province of %s informs you that about a third of the population dies yearly on the night of the Spirit Commemoration. They say the spirits from the neighboring cursed lands come into the world of the living unhindered and choose victims for themselves. This night is drawing near yet again.#
+Text: #The deputy of the %s province informs you that about a third of the population dies yearly on the night of the Spirit Commemoration. They say the spirits from the neighboring cursed lands come into the world of the living unhindered and choose victims for themselves. This night is drawing near yet again.#
 Answer1: Put troops on night patrol. (-50 $ );
 Answer2: Consecrate the whole province. (-300 $ );
 Answer3: Perform a protective ritual. (-50 & );
@@ -5378,7 +5378,7 @@ Answer4: Deal with this problem yourself!;#####
 /691 (Проклятые земли - дозорные)
 Window: 2;
 Bitmap: 124;
-Text: #The deputy of the province of %s informs you that half of the watchmen died on the eve of the night of the Spirit Commemoration. The surviving soldiers reported that they saw evil spirits approaching the province's borders under the cover of night.#
+Text: #The deputy of the %s province informs you that half of the watchmen died on the eve of the night of the Spirit Commemoration. The surviving soldiers reported that they saw evil spirits approaching the province's borders under the cover of night.#
 Answer1: Consecrate the whole province. (-300 $ );
 Answer2: Perform a protective ritual. (-50 & );
 Answer3: Deal with this problem yourself!;#####
@@ -5386,21 +5386,21 @@ Answer3: Deal with this problem yourself!;#####
 /692 (Проклятые земли - освятить)
 Window: 2;
 Bitmap: 124;
-Text: #The deputy of the province of %s informs you that, after the ground was consecrated, the night of the Spirit Commemoration passed peacefully and no one perished.#
+Text: #The deputy of the %s province informs you that, after the ground was consecrated, the night of the Spirit Commemoration passed peacefully and no one perished.#
 Answer1: Wonderful!;
 Answer2: How much it costs to support these mortals!;#####
 
 /693 (Проклятые земли - ритуал)
 Window: 2;
 Bitmap: 124;
-Text: #The deputy of the province of %s informs you that, after the protective ritual was performed, the night of the Spirit Commemoration passed peacefully and no one perished.#
+Text: #The deputy of the %s province informs you that, after the protective ritual was performed, the night of the Spirit Commemoration passed peacefully and no one perished.#
 Answer1: Wonderful!;
 Answer2: How much it costs to support these mortals!;#####
 
 /694 (Волшебный лес - главное)
 Window: 2;
 Bitmap: 149;
-Text: #The deputy of the province of %s informs you that dryads from a neighboring province have sent them a gift - magic poppies protecting from diseases and evil incantations. These poppies don't wither for several months.#
+Text: #The deputy of the %s province informs you that dryads from a neighboring province have sent them a gift - magic poppies protecting from diseases and evil incantations. These poppies don't wither for several months.#
 Answer1: Sell the flowers to the herbalists. (+200 $ );
 Answer2: Distribute the flowers among the province's population.;
 Answer3: Burn the flowers, surely they are cursed!;
@@ -5409,14 +5409,14 @@ Answer4: Don't bother me with such trifles from now on!;#####
 /695 (Волшебный лес - раздать)
 Window: 2;
 Bitmap: 149;
-Text: #The deputy of the province of %s informs you that their people are very thankful to you for the magic flowers.#
+Text: #The deputy of the %s province informs you that their people are very thankful to you for the magic flowers.#
 Answer1: Wonderful!;
 Answer2: I don't give a damn about their thanks.;#####
 
 /696 (Волшебный лес 2 - главное)
 Window: 2;
 Bitmap: 0;
-Text: #The deputy of the province of %s informs you that trees in their province have come to life and keep strangling lumberjacks and hunters. The foresters believe the treants from a neighboring province have enchanted the trees.#
+Text: #The deputy of the %s province informs you that trees in their province have come to life and keep strangling lumberjacks and hunters. The foresters believe the treants from a neighboring province have enchanted the trees.#
 Answer1: Curse the treants! (-15 & );
 Answer2: Perform a Dispel ritual. (-30 & );
 Answer3: Deal with this problem yourself!;#####
@@ -5431,14 +5431,14 @@ Answer2: Justice will prevail!;#####
 /698 (Волшебный лес 2 - ритуал)
 Window: 2;
 Bitmap: 0;
-Text: #The deputy of the province of %s informs you that after the ritual, the trees have ceased attacking the people.#
+Text: #The deputy of the %s province informs you that after the ritual, the trees have ceased attacking the people.#
 Answer1: Wonderful!;
 Answer2: What does this have to do with me?!;#####
 
 /699 (Земли Хаоса - главное)
 Window: 2;
 Bitmap: 81;
-Text: #The deputy of the province of %s informs you that the people are very upset about the proximity of chaos lands. Many are fleeing the province in fear. Demons rarely give much trouble to the people, but it is rumored that the evil creatures steal children, inflict diseases, and cast hexes.#
+Text: #The deputy of the %s province informs you that the people are very upset about the proximity of chaos lands. Many are fleeing the province in fear. Demons rarely give much trouble to the people, but it is rumored that the evil creatures steal children, inflict diseases, and cast hexes.#
 Answer1: Don't let anyone out, under pain of death.;
 Answer2: Convince everyone that there's no danger. (-150 $ );
 Answer3: Perform the Evil Eye Protection ritual. (-30 & );
@@ -5447,7 +5447,7 @@ Answer4: Deal with this problem yourself!;#####
 /700 (Земли Хаоса - не пускать)
 Window: 2;
 Bitmap: 81;
-Text: #The deputy of the province of %s informs you that the people are now too afraid to flee the province, but this fear has made them stop working.#
+Text: #The deputy of the %s province informs you that the people are now too afraid to flee the province, but this fear has made them stop working.#
 Answer1: Convince everyone that there's no danger. (-150 $ );
 Answer2: Perform the Evil Eye Protection ritual. (-30 & );
 Answer3: Deal with this problem yourself!;#####
@@ -5455,21 +5455,21 @@ Answer3: Deal with this problem yourself!;#####
 /701 (Земли Хаоса - втолковать)
 Window: 2;
 Bitmap: 81;
-Text: #The deputy of the province of %s informs you that after his officers visited every house in the province, explaining and calming the residents, the people have noticeably cheered up and no longer wish to abandon their homeland.#
+Text: #The deputy of the %s province informs you that after his officers visited every house in the province, explaining and calming the residents, the people have noticeably cheered up and no longer wish to abandon their homeland.#
 Answer1: Wonderful!;
 Answer2: How much it costs to support these mortals!;#####
 
 /702 (Земли Хаоса - ритуал)
 Window: 2;
 Bitmap: 81;
-Text: #The deputy of the province of %s informs you that the people have noticeably calmed down after the Evil Eye Protection ritual.#
+Text: #The deputy of the %s province informs you that the people have noticeably calmed down after the Evil Eye Protection ritual.#
 Answer1: Wonderful!;
 Answer2: How much it costs to support these mortals!;#####
 
 /703 (Пустынные холмы - главное)
 Window: 2;
 Bitmap: 32;
-Text: #The deputy of the province of %s informs you that a harpy has flown from a neighboring province of Empty Hills, to let him know that their mistress, Queen Manticore, is near death. In order to heal her, they need a heart of a young man who has not yet come of age. The harpies and manticores are ready to pay any price for the heart.#
+Text: #The deputy of the %s province informs you that a harpy has flown from a neighboring province of Empty Hills, to let him know that their mistress, Queen Manticore, is near death. In order to heal her, they need a heart of a young man who has not yet come of age. The harpies and manticores are ready to pay any price for the heart.#
 Answer1: Send an assassin to deal with her and pull out of the negotiations (-250 $ );
 Answer2: Sell them a boy. (+500 $ );
 Answer3: Give them a boy for free.;
@@ -5485,21 +5485,21 @@ Answer2: I'm such a genius!;#####
 /705 (Пустынные холмы - продать)
 Window: 2;
 Bitmap: 32;
-Text: #The deputy of the province of %s informs you that the local population is upset about what's happening.#
+Text: #The deputy of the %s province informs you that the local population is upset about what's happening.#
 Answer1: This has nothing to do with me!;
 Answer2: They must realize I'm doing it for their own good.;#####
 
 /706 (Пустынные холмы - отдать бесплатно)
 Window: 2;
 Bitmap: 32;
-Text: #The deputy of the province of %s informs you that the local population is upset about what's happening. But the harpies ask you to accept the Manticore Belt as a token of their gratitude.#
+Text: #The deputy of the %s province informs you that the local population is upset about what's happening. But the harpies ask you to accept the Manticore Belt as a token of their gratitude.#
 Answer1: Excellent. Deliver it to the treasury.;
 Answer2: I don't need this.;#####
 
 /707 (Гиблые болота - главное)
 Window: 2;
 Bitmap: 59;
-Text: #The deputy of the province of %s informs you: my spies found an old hydra living in the deadly swamp nearby. The area around the hydra's lair is filled with the remains of the predator's victims. Your spies believe that lots of gold and other valuables can be scavenged there. The hydra sleeps all day long and does not pose any particular threat. Unfortunately, there are no volunteers in the province willing to recover the hydra's treasures for you without getting paid.#
+Text: #The deputy of the %s province informs you: my spies found an old hydra living in the deadly swamp nearby. The area around the hydra's lair is filled with the remains of the predator's victims. Your spies believe that lots of gold and other valuables can be scavenged there. The hydra sleeps all day long and does not pose any particular threat. Unfortunately, there are no volunteers in the province willing to recover the hydra's treasures for you without getting paid.#
 Answer1: Turn to a specialist to exterminate the monsters.;
 Answer2: Let them deal with it themselves.;
 Answer3: Leave the old hydra in peace.;#####
@@ -5528,7 +5528,7 @@ Answer2: Big deal...;#####
 /711 (Заброшенные земли - главное)
 Window: 2;
 Bitmap: 11;
-Text: #The deputy of the province of %s informs you that there is an old battlefield in the Abandoned Lands nearby. This battlefield has not yet been looted by any marauders. The deputy will not dare to send any people there to gather trophies without your permission.#
+Text: #The deputy of the %s province informs you that there is an old battlefield in the Abandoned Lands nearby. This battlefield has not yet been looted by any marauders. The deputy will not dare to send any people there to gather trophies without your permission.#
 Answer1: Don't you dare! Those are someone else's lands!;
 Answer2: Organize volunteers. (-100 $ );
 Answer3: Force the local residents to loot the battlefield.;
@@ -5635,7 +5635,7 @@ Answer3: It's a pity that nothing was found there.;#####
 /725 (Заброшенный храм 2 - темница)
 Window: 2;
 Bitmap: 7;
-Text: #The deputy of the province of %s informs you that your soldiers thrown the Free Archer into the dungeon, but he miraculously escaped the very next day. Apparently, the rumors of his great cunning are true.#
+Text: #The deputy of the %s province informs you that your soldiers thrown the Free Archer into the dungeon, but he miraculously escaped the very next day. Apparently, the rumors of his great cunning are true.#
 Answer1: I'll kill him the next time!;
 Answer2: He deserves to be free.;#####
 
@@ -5679,7 +5679,7 @@ Answer2: Well, that's a pity.;#####
 /731 (Месть Гарпий - главное)
 Window: 2;
 Bitmap: 32;
-Text: #The deputy of the province of %s informs you that a hero known as the Harpy Hunter has turned up in their lands. He beheaded the chief Harpy Witch, who had often kidnapped children in the province. The locals arranged a festival to honor the victor. But their happiness did not last for long - a flock of harpies came flying in, demanding the head of the Harpy Hunter, and ten babies to boot. If the people refuse, the harpies threaten with a slaughter.#
+Text: #The deputy of the %s province informs you that a hero known as the Harpy Hunter has turned up in their lands. He beheaded the chief Harpy Witch, who had often kidnapped children in the province. The locals arranged a festival to honor the victor. But their happiness did not last for long - a flock of harpies came flying in, demanding the head of the Harpy Hunter, and ten babies to boot. If the people refuse, the harpies threaten with a slaughter.#
 Answer1: Give the harpies all they demand!;
 Answer2: Offer money to the harpies. (-500 $ );
 Answer3: Let them attack, if they dare.;
@@ -5703,7 +5703,7 @@ Answer3: Behead a look-alike and butcher a few lambs.;#####
 /734 (Месть Гарпий - казнить)
 Window: 2;
 Bitmap: 32;
-Text: #Your soldiers execute the deputy of the province of %s, but that doesn't solve the problem - the harpies are still waiting for your decision.#
+Text: #Your soldiers execute the deputy of the %s province, but that doesn't solve the problem - the harpies are still waiting for your decision.#
 Answer1: Give the harpies all they demand!;
 Answer2: Offer money to the harpies. (-500 $ );
 Answer3: Let them attack, if they dare.;
@@ -5726,7 +5726,7 @@ Answer2: That's my luck...;#####
 /737 (Нашествие пауков - главное)
 Window: 2;
 Bitmap: 82;
-Text: #The deputy of the province of %s informs you that a hero known as the Snake Hunter has turned up in their lands. He has slain the Giant Snake that had kept the whole province in fear. But the locals did hardly have any time to rejoice when new troubles began. The huge spiders the Giant Snake had preyed upon are now breeding and attacking the locals.#
+Text: #The deputy of the %s province informs you that a hero known as the Snake Hunter has turned up in their lands. He has slain the Giant Snake that had kept the whole province in fear. But the locals did hardly have any time to rejoice when new troubles began. The huge spiders the Giant Snake had preyed upon are now breeding and attacking the locals.#
 Answer1: Turn to a specialist to exterminate the monsters.;
 Answer2: Let them deal with it themselves.;
 Answer3: Execute the deputy for tolerating such a thing.;#####
@@ -5750,7 +5750,7 @@ Answer4: Deal with this yourselves from now on.;#####
 /740 (Нашествие пауков - казнить)
 Window: 2;
 Bitmap: 82;
-Text: #Your units execute the deputy of the province of %s, but that doesn't solve the problem - the spiders are still appearing in increasing numbers.#
+Text: #Your units execute the deputy of the %s province, but that doesn't solve the problem - the spiders are still appearing in increasing numbers.#
 Answer1: Turn to a specialist to exterminate the monsters.;
 Answer2: Let them deal with it themselves.;
 Answer3: I did everything I could.;#####
@@ -5784,7 +5784,7 @@ Answer3: Execute the deputy for tolerating such a thing.;#####
 /744 (Друиды - главное)
 Window: 2;
 Bitmap: 158;
-Text: #The deputy of the province of %s has informed you that a local clan of dark druids is strongly opposed to logging in the local forests. Since lumber is one of the main sources of income in this land, the deputy can't yield to the druids, while they threaten to curse the lumberjacks if the felling of trees does not cease.#
+Text: #The deputy of the %s province has informed you that a local clan of dark druids is strongly opposed to logging in the local forests. Since lumber is one of the main sources of income in this land, the deputy can't yield to the druids, while they threaten to curse the lumberjacks if the felling of trees does not cease.#
 Answer1: Stop chopping down the forests!;
 Answer2: Ignore the druids' threats.;
 Answer3: Drive these tree-huggers away from my domain!;
@@ -5809,7 +5809,7 @@ Answer4: Send a messenger to the Inquisition (-150 $ );#####
 /747 (Друиды - казнить)
 Window: 2;
 Bitmap: 158;
-Text: #Your units execute the deputy of the province of %s, but that doesn't solve the problem - the druids are still waiting for your decision.#
+Text: #Your units execute the deputy of the %s province, but that doesn't solve the problem - the druids are still waiting for your decision.#
 Answer1: Stop chopping down the forests!;
 Answer2: Ignore the druids' threats.;
 Answer3: Drive these tree-huggers away from my domain!;
@@ -5846,7 +5846,7 @@ Answer2: That's my luck...;#####
 /752 (Лавка чародея - главное)
 Window: 2;
 Bitmap: 71;
-Text: #The deputy of the province of %s has informed you that a traveling conjurer has come to their province and is asking for help to open his shop.#
+Text: #The deputy of the %s province has informed you that a traveling conjurer has come to their province and is asking for help to open his shop.#
 Answer1: Drive the conjurer away from my domain!;
 Answer2: Help the conjurer open his shop. (-100 $ );
 Answer3: Let him give me a spell scroll for my help.;
@@ -6152,7 +6152,7 @@ Answer4: Don't bother me with such trifles from now on.;#####
 /792 (Табун - главное)
 Window: 2;
 Bitmap: 80;
-Text: #The deputy of the province of %s has informed you that a wild horse herd has come to pasture in the province. People in the province are confused, not knowing what to do.#
+Text: #The deputy of the %s province has informed you that a wild horse herd has come to pasture in the province. People in the province are confused, not knowing what to do.#
 Answer1: Train the horses! (-50 $ );
 Answer2: Drive the herd away from my domain!;
 Answer3: Kill the horses.;
@@ -6182,7 +6182,7 @@ Answer2: That's terrible! What have I done?;#####
 /796 (Саранча - главное)
 Window: 2;
 Bitmap: 0;
-Text: #The deputy of the province of %s has informed you that a huge swarm of locusts has turned up in their lands. If you don't take measures immediately, the insects will destroy the whole harvest.#
+Text: #The deputy of the %s province has informed you that a huge swarm of locusts has turned up in their lands. If you don't take measures immediately, the insects will destroy the whole harvest.#
 Answer1: Order some poison from alchemists. (-50 & );
 Answer2: Buy a flock of birds from the bird catchers. (-150 $ );
 Answer3: Force the local population to catch locusts.;
@@ -6214,7 +6214,7 @@ Answer4: Deal with this yourselves from now on.;#####
 /800 (Саранча - казнить)
 Window: 2;
 Bitmap: 0;
-Text: #Your soldiers execute the deputy of the province of %s, but that doesn't solve the problem - the locusts keep destroying the crops.#
+Text: #Your soldiers execute the deputy of the %s province, but that doesn't solve the problem - the locusts keep destroying the crops.#
 Answer1: Order some poison from alchemists. (-50 & );
 Answer2: Buy a flock of birds from the bird catchers. (-150 $ );
 Answer3: Deal with this yourselves from now on.;#####
@@ -6230,7 +6230,7 @@ Answer3: Send aid to the victims. (-100 $ );#####
 /802 (Туман - главное)
 Window: 2;
 Bitmap: 130;
-Text: #The deputy of the province of %s has informed you that an unnaturally dense fog has been hanging over their lands for a whole week and has still not dispersed. People are afraid that if they go outside they'll get lost in the fog. Many of those who venture out fail to return.#
+Text: #The deputy of the %s province has informed you that an unnaturally dense fog has been hanging over their lands for a whole week and has still not dispersed. People are afraid that if they go outside they'll get lost in the fog. Many of those who venture out fail to return.#
 Answer1: Hire a team of adventurers. (-200 $ );
 Answer2: Buy ropes so the locals don't get lost. (-50 $ );
 Answer3: Perform the Dispel ritual. (-20 & );
@@ -6702,7 +6702,7 @@ Answer3: Such insolence! Kill them!;#####
 /864 (Торговцы хотят пройти через Вашу провинцию - 100 золотых)
 Window: 2;
 Bitmap: 33;
-Text: #The traders hand 100 gold over to the deputy of the province of %s.#
+Text: #The traders hand 100 gold over to the deputy of the %s province.#
 Answer1: Now let them pass.;
 Answer2: They wished to dupe me and failed!;
 Answer3: Take the gold, plunder the caravan, kill the merchants!;#####
@@ -7421,7 +7421,7 @@ Answer4: Execute them.;#####
 /958 Поймали взяточника
 Window: 2;
 Bitmap: 0;
-Text: #The deputy of the province of %s has been proven guilty of especially extravagant bribery. This is a good opportunity to arrange a demonstration to teach the other corrupted officials a lesson.
+Text: #The deputy of the %s province has been proven guilty of especially extravagant bribery. This is a good opportunity to arrange a demonstration to teach the other corrupted officials a lesson.
 The deputy begs you to have mercy on him, crosses his heart that he took the bribes to support his family, and swears by the gods that he won't do it anymore.#
 Answer1: Fine him. (+500 $ );
 Answer2: Arrange a court trial for show. (-300 $ );
@@ -9697,7 +9697,7 @@ Answer3: Alright, let's build their altar (-200 $  -10 & );#####
 /1263 Герой, мятеж
 Window: 2;
 Bitmap: 38;
-Text: #The deputy of the province of %s reports that the hero you captured has escaped the dungeon with the help of several accomplices, then instigated a mutiny.#
+Text: #The deputy of the %s province reports that the hero you captured has escaped the dungeon with the help of several accomplices, then instigated a mutiny.#
 Answer1: What!;
 Answer2: I should have executed him...;#####
 
@@ -10243,7 +10243,7 @@ Answer2: That's not too much...;#####
 /1335 Кобольды в шахте, начало
 Window: 2;
 Bitmap: 14;
-Text: #The deputy of the province of %s reports that the local mine is infested with kobolds. The petty vermin keep stealing ore, worse yet, they killed several miners recently and dragged their bodies off into their caves. Other diggers refuse to work until the kobolds are done away with.#
+Text: #The deputy of the %s province reports that the local mine is infested with kobolds. The petty vermin keep stealing ore, worse yet, they killed several miners recently and dragged their bodies off into their caves. Other diggers refuse to work until the kobolds are done away with.#
 Answer1: Drive the diggers into the mine with whips!;
 Answer2: Close down the mine.;
 Answer3: Invoke a plague upon the kobolds. (-20 & );
@@ -10544,7 +10544,7 @@ Answer2: Retreat.;#####
 /1374 Задание провинции логово разбойников, предложение
 Window: 2;
 Bitmap: 0;
-Text: #The deputy of the province of %s addresses your hero: «Honorable %s! I understand that you are busy doing the fairest of all Masters' bidding, but could you spare some of your time for me? The thing is that we get no peace in our province with these bandits around. Their lair is located somewhere close to the settlement, and the scum are constantly raiding traders and the houses of local people. Could you find this den of bandits and destroy it? My gratitude will have no bounds, trust me!»#
+Text: #The deputy of the %s province addresses your hero: «Honorable %s! I understand that you are busy doing the fairest of all Masters' bidding, but could you spare some of your time for me? The thing is that we get no peace in our province with these bandits around. Their lair is located somewhere close to the settlement, and the scum are constantly raiding traders and the houses of local people. Could you find this den of bandits and destroy it? My gratitude will have no bounds, trust me!»#
 Answer1: All right. I'll take care of it.;
 Answer2: I don't have time for this. Get out of my way!;
 Answer3: Unfortunately, I'm too busy right now.;#####
@@ -13687,7 +13687,7 @@ Answer2: Oh, yes!;#####
 /1789 (Лавка плотника - главное)
 Window: 2;
 Bitmap: 72;
-Text: #The deputy of the province of %s states that a wandering elven carpenter has arrived, asking for permission to open his own shop. Your deputy is concerned, since the elf is an exile of his race. Granting permission may incur the wrath of the neighboring elven provinces.#
+Text: #The deputy of the %s province states that a wandering elven carpenter has arrived, asking for permission to open his own shop. Your deputy is concerned, since the elf is an exile of his race. Granting permission may incur the wrath of the neighboring elven provinces.#
 Answer1: Banish him from the province!;
 Answer2: Grant him permission.;
 Answer3: Allow him to open shop for 300 $;
@@ -13717,7 +13717,7 @@ Answer2: I pity him, but life is cruel.;#####
 /1793 (Лавка кожевника - главное)
 Window: 2;
 Bitmap: 67;
-Text: #The deputy of the province of %s states that a wandering tanner has arrived, asking for permission to open his own shop.#
+Text: #The deputy of the %s province states that a wandering tanner has arrived, asking for permission to open his own shop.#
 Answer1: Run the tanner off my property!;
 Answer2: Help him set up shop (-100 $ );
 Answer3: Help him but I get some of the merchandise (-100 $ );
@@ -13740,7 +13740,7 @@ Answer2: Not bad!;#####
 /1796 (Лавка портного - главное)
 Window: 2;
 Bitmap: 68;
-Text: #The deputy of the province of %s states that a wandering halfling tailor has arrived, asking for permission to open his own shop. Your deputy is concerned, since the halfling is an exile of his race. Granting permission may incur the wrath of the neighboring halfling provinces.#
+Text: #The deputy of the %s province states that a wandering halfling tailor has arrived, asking for permission to open his own shop. Your deputy is concerned, since the halfling is an exile of his race. Granting permission may incur the wrath of the neighboring halfling provinces.#
 Answer1: Banish him from the province!;
 Answer2: Grant him permission.;
 Answer3: Allow him to open shop for 300 $;
@@ -13771,7 +13771,7 @@ Answer2: I pity him, but life is cruel.;#####
 /1800 (Лавка волшебника - главное)
 Window: 2;
 Bitmap: 71;
-Text: #The deputy of the province of %s states that a wandering Drow wizard has arrived, asking for permission to open his own shop. Your deputy is concerned, since the dark elf is an outcast of the Drow. Granting permission may incur the wrath of the neighboring Drow provinces.#
+Text: #The deputy of the %s province states that a wandering Drow wizard has arrived, asking for permission to open his own shop. Your deputy is concerned, since the dark elf is an outcast of the Drow. Granting permission may incur the wrath of the neighboring Drow provinces.#
 Answer1: Banish him from the province!;
 Answer2: Grant him permission.;
 Answer3: Permit him to open shop for 200 $.;
@@ -15012,7 +15012,7 @@ Answer2: A pity, but what can you do?;#####
 /1959 Атака Братства (по своей страже)
 Window: 2;
 Bitmap: 172;
-Text: #Fulfilling your order, under cover of night, your guards engage the Twilight Brotherhood in the province of %s. They, along with a few nearby residents, are slain.#
+Text: #Per your order, under cover of night, a squad of Twilight Brotherhood assassins attacks the guards in the %s province. They, along with a few nearby residents, are slain.#
 Answer1: Damn it.;
 Answer2: Forgive me...;#####
 
@@ -16179,7 +16179,7 @@ Answer2: I feel sorry for them, but it was worth it.;#####
 /2110 Потерявшийся крысолюд, начало
 Window: 2;
 Bitmap: 195;
-Text: #The deputy of the province of %s reports that an extremely smelly ratman was brought to him. He claims that he lost his way and is looking for the secret ratman city.
+Text: #The deputy of the %s province reports that an extremely smelly ratman was brought to him. He claims that he lost his way and is looking for the secret ratman city.
 If you can help in his quest, he promises to reward you with valuable gifts on behalf of his clan.#
 Answer1: Get rid of this this skunk!;
 Answer2: Send my warriors in search of the city.;
@@ -17122,7 +17122,7 @@ Answer2: Retreat;#####
 /2235 (Великие Врата Хаоса, появление)
 Window: 2;
 Bitmap: 55;
-Text: #The deputy of the province of %s reports in horror that pathfinders found the terrible opening of the Gates of Chaos. They are much bigger than usual, and demons are swarming around them, too, a lot of them. No one dares to approach them.#
+Text: #The deputy of the %s province reports in horror that pathfinders found the terrible opening of the Gates of Chaos. They are much bigger than usual, and demons are swarming around them, too, a lot of them. No one dares to approach them.#
 Answer1: What does that have to do with me?;
 Answer2: It will be something to do at leisure.;#####
 
@@ -17259,21 +17259,21 @@ Answer2: Retreat.;#####
 /2253 (Торговцы хотят пройти через Вашу провинцию - меч)
 Window: 4;
 Bitmap: 33;
-Text: #The traders hand the Sword over to the deputy of the province of %s. The object is brought to your castle and placed in the treasury.#
+Text: #The traders hand the Sword over to the deputy of the %s province. The object is brought to your castle and placed in the treasury.#
 Answer1: Excellent!;
 Answer2: At least something worthwhile...;#####
 
 /2254 (Торговцы хотят пройти через Вашу провинцию - сфера)
 Window: 4;
 Bitmap: 33;
-Text: #The traders hand the Sphere over to the deputy of the province of %s. The object is brought to your castle and placed in the treasury.#
+Text: #The traders hand the Sphere over to the deputy of the %s province. The object is brought to your castle and placed in the treasury.#
 Answer1: Excellent!;
 Answer2: At least something worthwhile...;#####
 
 /2255 (Торговцы хотят пройти через Вашу провинцию - лук)
 Window: 4;
 Bitmap: 33;
-Text: #The traders hand the Elven Bow over to the deputy of the province of %s. The object is brought to your castle and placed in the treasury.#
+Text: #The traders hand the Elven Bow over to the deputy of the %s province. The object is brought to your castle and placed in the treasury.#
 Answer1: Excellent!;
 Answer2: At least something worthwhile...;#####
 
@@ -17407,7 +17407,7 @@ Answer2: Getting the money would've been better.;#####
 /2274 Башня магов, вход
 Window: 2;
 Bitmap: 6;
-Text: #The hero %s has reached a strange-looking magic tower. Several mages have secluded themselves here, experimenting with forbidden sorcery. There's no doubt that they possess scrolls with rare spells, or powerful artifacts. And it's equally certain they won't give them up without a fight.
+Text: #The hero %s has reached a strange-looking magic tower. Several mages have secluded themselves here, experimenting with forbidden sorcery. They must possess rare scrolls or powerful artifacts. But they'll never give them up without a fight.
 Your aides say that the mages living here kidnapped some elf maidens.
 Number of enemies: %d.
 The following units were spotted among the enemies: %s.
@@ -17811,7 +17811,7 @@ Answer2: No need to dramatize.;#####
 /2324 Тёмные друиды 1, начало
 Window: 2;
 Bitmap: 24;
-Text: #the deputy of province %s reports that a local clan of dark druids have publicly announced the opening of their own nursery of monsters. They breed, train and sell all sorts of monsters - spiders, basilisks, slugs.#
+Text: #The deputy of the %s province reports that a local clan of dark druids has publicly announced the opening of their own monsters nursery. They breed, train and sell all sorts of monsters - spiders, basilisks, slugs.#
 Answer1: They are breaking my laws! I'll destroy them!;
 Answer2: Pah! They should've acquired a license first!;
 Answer3: Everyone has to earn a living.;
