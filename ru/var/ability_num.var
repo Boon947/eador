@@ -1,4 +1,4 @@
-Quantity: 556
+Quantity: 557
 
 /0
 Name: Пусто;
@@ -955,7 +955,7 @@ Percent: 0
 /136
 Name: Зов некроманта;
 Number: 910
-Numeric: 1
+Numeric: 0
 Effect: 1
 Percent: 0
 
@@ -3895,6 +3895,13 @@ Percent: 0
 /556
 Name: Мастерство чародея;
 Number: 291
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/557
+Name: Подвижность;
+Number: 275
 Numeric: 0
 Effect: 0
 Percent: 0

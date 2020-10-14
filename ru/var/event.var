@@ -1,4 +1,4 @@
-Quantity: 1871
+Quantity: 1907
 
 /0
 Type: 0
@@ -13533,13 +13533,14 @@ Karma: -3
 
 *Answers*:
 Answer1: 93
-Answer2: 12;
+Answer2: 12
+Answer2: 1875;
 
 *Effects*:
-Index: 0
-Power: 0
-Param1: 0
-Param2: 0;
+Index: 4
+Power: 3
+Param1: 1
+Param2: 50;
 
 /474 (Древние руины - главное 1)
 Type: 0
@@ -13717,17 +13718,13 @@ Karma: 0
 
 *Answers*:
 Answer1: 13
-Answer2: 12;
+Answer2: 12
+Answer3: 1901;
 
 *Effects*:
-Index: 0
-Power: 0
-Param1: 0
-Param2: 0
-
-Index: 8
-Power: 17
-Param1: -1
+Index: 4
+Power: 3
+Param1: 3
 Param2: 0;
 
 /480 (Месть Гарпий - основное условие)
@@ -15793,15 +15790,15 @@ ProvType: 0
 Karma: 0
 
 *Answers*:
-Answer1: 13
-Answer2: 0
+Answer1: 0
+Answer2: 1903
 Answer3: 545
 Answer4: 546;
 
 *Effects*:
-Index: 0
-Power: 0
-Param1: 0
+Index: 4
+Power: 2
+Param1: 3
 Param2: 0;
 
 /549 (Серебрянный рудник - основное условие)
@@ -32449,7 +32446,7 @@ Karma: 0
 *Answers*:
 Answer1: 1140
 Answer2: 1142
-Answer3: 1141
+Answer3: 1905
 Answer4: 0;
 
 *Effects*:
@@ -32550,6 +32547,11 @@ Answer2: 13;
 Index: 2
 Power: 1
 Param1: 0
+Param2: 0
+
+Index: 14
+Power: 3
+Param1: 1
 Param2: 0;
 
 /1143 Слизни в канализации
@@ -34933,7 +34935,7 @@ Power: 1226
 Param1: 1227
 Param2: 50;
 
-/1231 Сокровища Древних, купили подделку.
+/1231 Сокровища Древних, купили подделку
 Type: 0
 Possibility: 0
 Dialog: 1491
@@ -34949,7 +34951,7 @@ Karma: 0
 *Answers*:
 Answer1: 0
 Answer2: 1232
-Answer3: 1233
+Answer3: 1875
 Answer4: 1207;
 
 *Effects*:
@@ -34990,7 +34992,7 @@ Power: -1
 Param1: 0
 Param2: 0;
 
-/1233 Сокровища Древних, плата за голову
+/1233 Сокровища Древних, плата за голову - не используется
 Type: 0
 Possibility: 0
 Dialog: 0
@@ -35007,14 +35009,9 @@ Karma: -2
 Answer1: 0;
 
 *Effects*:
-Index: 1
-Power: -50
+Index: 0
+Power: 0
 Param1: 0
-Param2: 0
-
-Index: 22
-Power: -2
-Param1: 2
 Param2: 0;
 
 /1234 Продажа заготовки голема
@@ -40255,7 +40252,7 @@ Param2: 0;
 
 /1416 Выживший авантюрист, главное
 Type: 1
-Possibility: 10
+Possibility: 20
 Dialog: 0
 DlgParam1: 0
 DlgParam2: 0
@@ -40272,12 +40269,17 @@ Answer1: 0;
 *Effects*:
 Index: 8
 Power: 3
-Param1: 350
+Param1: 250
 Param2: 0
 
 Index: 8
 Power: 15
 Param1: 0
+Param2: 0
+
+Index: 8
+Power: 33
+Param1: 39
 Param2: 0
 
 Index: 11
@@ -40377,7 +40379,7 @@ Param2: 0
 Index: 36
 Power: 22
 Param1: 1
-Param2: 4;
+Param2: 350;
 
 /1421 Выживший авантюрист, добрый, гвардеец
 Type: 0
@@ -40427,7 +40429,7 @@ Param2: 0
 Index: 36
 Power: 23
 Param1: 1
-Param2: 4;
+Param2: 450;
 
 /1423 Выживший авантюрист, добрый, ранг 1, вилка 1
 Type: 0
@@ -40521,7 +40523,7 @@ Param2: 0
 Index: 36
 Power: 15
 Param1: 1
-Param2: 6;
+Param2: 930;
 
 /1427 Выживший авантюрист, добрый, гном
 Type: 0
@@ -40571,7 +40573,7 @@ Param2: 0
 Index: 36
 Power: 16
 Param1: 1
-Param2: 6;
+Param2: 700;
 
 /1429 Выживший авантюрист, добрый, ранг 1, вилка 3
 Type: 0
@@ -40643,7 +40645,7 @@ Param2: 0
 Index: 36
 Power: 18
 Param1: 1
-Param2: 6;
+Param2: 440;
 
 /1432 Выживший авантюрист, добрый, фэйри
 Type: 0
@@ -40693,7 +40695,7 @@ Param2: 0
 Index: 36
 Power: 17
 Param1: 1
-Param2: 6;
+Param2: 490;
 
 /1434 Выживший авантюрист, вилка 2
 Type: 0
@@ -40787,7 +40789,7 @@ Param2: 0
 Index: 36
 Power: 158
 Param1: 1
-Param2: 4;
+Param2: 400;
 
 /1438 Выживший авантюрист, нейтральный, людоящер
 Type: 0
@@ -40837,7 +40839,7 @@ Param2: 0
 Index: 36
 Power: 69
 Param1: 1
-Param2: 6;
+Param2: 450;
 
 /1440 Выживший авантюрист, злой, вилка 1
 Type: 0
@@ -40931,7 +40933,7 @@ Param2: 0
 Index: 36
 Power: 10
 Param1: 1
-Param2: 6;
+Param2: 430;
 
 /1444 Выживший авантюрист, злой, гнолл
 Type: 0
@@ -40981,7 +40983,7 @@ Param2: 0
 Index: 36
 Power: 202
 Param1: 1
-Param2: 6;
+Param2: 580;
 
 /1446 Выживший авантюрист, злой, вилка 2
 Type: 0
@@ -41053,7 +41055,7 @@ Param2: 0
 Index: 36
 Power: 29
 Param1: 1
-Param2: 5;
+Param2: 700;
 
 /1449 Выживший авантюрист, злой, вилка 3
 Type: 0
@@ -41125,7 +41127,7 @@ Param2: 0
 Index: 36
 Power: 30
 Param1: 1
-Param2: 4;
+Param2: 660;
 
 /1452 Выживший авантюрист, злой, громила
 Type: 0
@@ -41175,7 +41177,7 @@ Param2: 0
 Index: 36
 Power: 28
 Param1: 1
-Param2: 4;
+Param2: 360;
 
 /1454 Атака оборотня
 Type: -1
@@ -43765,7 +43767,8 @@ Param2: 0
 Index: 11
 Power: 1544
 Param1: 1545
-Param2: 10;
+Param2: 50;
+Param2: 50;
 
 /1544 Новое логово оборотня - ведьмак, убил
 Type: 0
@@ -44786,8 +44789,8 @@ Answer1: 0
 Answer2: 0;
 
 *Effects*:
-Index: 0
-Power: 0
+Index: 15
+Power: 2
 Param1: 0
 Param2: 0;
 
@@ -52663,3 +52666,946 @@ Attitude: 2
 Power: 1
 Param1: 0
 Param2: 0;
+
+/1872 Бунт демонов в отряде
+Type: 0
+Possibility: 0
+Dialog: 2412
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 53
+EventWin: 1873
+EventLose: 1874
+EventDraw: 0
+ProvType: 0
+Karma: 1
+
+*Answers*:
+Answer1: 0
+Answer2: 0;
+
+*Effects*:
+Index: 8
+Power: 32
+Param1: 0
+Param2: 0
+
+Index: 50
+Power: 0
+Param1: 0
+Param2: 0;
+
+/1873 Бунт демонов в отряде (победа)
+Type: 0
+Possibility: 0
+Dialog: 2413
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer2: 0;
+
+*Effects*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/1874 Бунт демонов в отряде (поражение)
+Type: 0
+Possibility: 0
+Dialog: 2414
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer2: 0;
+
+*Effects*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/1875 Назначена награда за голову авантюриста, развилка
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: -2
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Gold: 1
+Power: -50
+Param1: 0
+Param2: 0
+
+Index: 22
+Power: -1
+Param1: 0
+Param2: 0
+
+Index: 11
+Power: 1876
+Param1: -1
+Param2: 35;
+
+/1876 Сокровища Древних, авантюриста нашли
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: -2
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 1877
+Param1: 4
+Param2: 8
+
+Index: 18
+Power: 1877
+Param1: 2
+Param2: 0;
+
+/1877 Сокровища Древних, привели авантюриста
+Type: 0
+Possibility: 0
+Dialog: 2415
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 13
+Answer2: 0
+Answer3: 1878
+Answer4: 1885;
+
+*Effects*:
+Index: 4
+Power: 4
+Param1: 1
+Param2: 50;
+
+/1878 Сокровища Древних, привели авантюриста, пытки, развилка
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: -10
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1879
+Param1: 1880
+Param2: 35;
+
+/1879 Сокровища Древних, привели авантюриста, пытки, сразу всё сказал
+Type: 0
+Possibility: 0
+Dialog: 2416
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1883
+Answer2: 1884;
+
+*Effects*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/1880 Сокровища Древних, привели авантюриста, пытки
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1881
+Param1: 1882
+Param2: 50;
+
+/1881 Сокровища Древних, привели авантюриста, пытки, не сказал
+Type: 0
+Possibility: 0
+Dialog: 2417
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 13
+Answer2: 0
+Answer3: 0;
+
+*Effects*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/1882 Сокровища Древних, привели авантюриста, пытки, сказал
+Type: 0
+Possibility: 0
+Dialog: 2418
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1883
+Answer2: 1884;
+
+*Effects*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/1883 Сокровища Древних, привели авантюриста, (ухудшение кармы)
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Karma: 7
+Power: -3
+Param1: 2
+Param2: 0
+
+Index: 11
+Power: 1884
+Param1: 0
+Param2: 0;
+
+/1884 Сокровища Древних, привели авантюриста в замок
+Type: 0
+Possibility: 0
+Dialog: 2419
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1886
+Answer2: 1887
+Answer3: 1888
+Answer4: 1897;
+
+*Effects*:
+Index: 4
+Power: 1
+Param1: 1
+Param2: 50;
+
+/1885 Сокровища Древних, плата
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Gold: 1
+Power: -50
+Param1: 0
+Param2: 0
+
+Index: 11
+Power: 1884
+Param1: 0
+Param2: 0;
+
+/1886 Сокровища Древних, публичная казнь
+Type: 0
+Possibility: 0
+Dialog: 2420
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer2: 0;
+
+*Effects*:
+Gold: 1
+Power: -50
+Param1: 0
+Param2: 0
+
+Index: 22
+Power: -3
+Param1: 2
+Param2: 0;
+
+/1887 Сокровища Древних, казнь
+Type: 0
+Possibility: 0
+Dialog: 2421
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer2: 0
+Answer3: 13;
+
+*Effects*:
+Index: 2
+Power: -1
+Param1: 0
+Param2: 0
+
+Index: 10
+Power: 100
+Param1: 100
+Param2: 0
+
+Index: 22
+Power: -2
+Param1: 1
+Param2: 0;
+
+/1888 Сокровища Древних, пытки авантюриста, вилка
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: -5
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1889
+Param1: 1890
+Param2: 75;
+
+/1889 Сокровища Древних, пытки авантюриста, умер
+Type: 0
+Possibility: 0
+Dialog: 2422
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1887
+Answer2: 1887
+Answer3: 1887;
+
+*Effects*:
+Index: 22
+Power: -1
+Param1: 0
+Param2: 0;
+
+/1890 Сокровища Древних, пытки авантюриста, признался
+Type: 0
+Possibility: 0
+Dialog: 2423
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1891
+Answer2: 1892
+Answer3: 1893;
+
+*Effects*:
+Index: 22
+Power: -1
+Param1: 0
+Param2: 0;
+
+/1891 Сокровища Древних, пытки авантюриста, признался, отпустили
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 2
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 22
+Power: 2
+Param1: 0
+Param2: 0
+
+Index: 11
+Power: 1894
+Param1: 0
+Param2: 0;
+
+/1892 Сокровища Древних, пытки авантюриста, признался, убили
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: -1
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 22
+Power: 1
+Param1: 0
+Param2: 0
+
+Index: 11
+Power: 1894
+Param1: 0
+Param2: 0;
+
+/1893 Сокровища Древних, пытки авантюриста, признался, продолжили
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: -3
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 22
+Power: -1
+Param1: 0
+Param2: 0
+
+Index: 11
+Power: 1894
+Param1: 0
+Param2: 0;
+
+/1894 Сокровища Древних, пытки авантюриста, признался, получили сокровища, вилка
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1895
+Param1: 1896
+Param2: 60;
+
+/1895 Сокровища Древних, пытки авантюриста, признался, получили сокровища, мало
+Type: 0
+Possibility: 0
+Dialog: 2424
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer2: 0
+Answer3: 0;
+
+*Effects*:
+Gold: 1
+Power: 50
+Param1: 200
+Param2: 0
+
+Gem: 6
+Power: 20
+Param1: 50
+Param2: 0
+
+Item: 14
+Power: 3
+Param1: 1
+Param2: 0;
+
+/1896 Сокровища Древних, пытки авантюриста, признался, получили сокровища, много
+Type: 0
+Possibility: 0
+Dialog: 2424
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer2: 0
+Answer3: 0;
+
+*Effects*:
+Gold: 1
+Power: 150
+Param1: 600
+Param2: 0
+
+Gem: 6
+Power: 60
+Param1: 150
+Param2: 0
+
+Item: 14
+Power: 5
+Param1: 3
+Param2: 0
+
+Item: 14
+Power: 4
+Param1: 2
+Param2: 0;
+
+/1897 Сокровища Древних, привели авантюриста, работа, согласился
+Type: 0
+Possibility: 0
+Dialog: 2425
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1898
+Answer2: 1898;
+
+*Effects*:
+Item: 22
+Power: 2
+Param1: 0
+Param2: 0;
+
+/1898 Сокровища Древних, привели авантюриста, работа, вилка
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Item: 11
+Power: 1899
+Param1: 1900
+Param2: 60;
+
+/1899 Сокровища Древних, привели авантюриста, работа, атаман
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Item: 36
+Power: 128
+Param1: 1
+Param2: 250;
+
+/1900 Сокровища Древних, привели авантюриста, работа, рейнджер
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Item: 36
+Power: 80
+Param1: 1
+Param2: 330;
+
+/1901 Древние руины, темница, вилка
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: -2
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 2
+Power: -1
+Param1: 0
+Param2: 0
+
+Index: 22
+Power: -1
+Param1: 0
+Param2: 0
+
+Index: 11
+Power: 1902
+Param1: -1
+Param2: 30;
+
+/1902 Древние руины, темница, сбежал
+Type: 0
+Possibility: 0
+Dialog: 2426
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 93
+Answer2: 12
+Answer2: 1875;
+
+*Effects*:
+Index: 4
+Power: 3
+Param1: 1
+Param2: 50;
+
+/1903 Разрушенная башня, темница, вилка
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: -2
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 2
+Power: -1
+Param1: 0
+Param2: 0
+
+Index: 22
+Power: -1
+Param1: 0
+Param2: 0
+
+Index: 11
+Power: 1904
+Param1: -1
+Param2: 30;
+
+/1904 Древние руины, темница, сбежал
+Type: 0
+Possibility: 0
+Dialog: 2427
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 93
+Answer2: 12
+Answer2: 1875;
+
+*Effects*:
+Index: 4
+Power: 3
+Param1: 1
+Param2: 50;
+
+/1905 Ящеры-беглецы, укрыл бесплатно, вилка
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1141
+Param1: 1906
+Param2: 50;
+
+/1906 Ящеры-беглецы, укрыл бесплатно, рекрут
+Type: 0
+Possibility: 0
+Dialog: 1420
+DlgParam1: 1
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 3
+
+*Answers*:
+Answer1: 13
+Answer2: 0;
+
+*Effects*:
+Index: 2
+Power: -2
+Param1: 0
+Param2: 0
+
+Index: 10
+Power: 100
+Param1: 100
+Param2: 0
+
+Index: 17
+Power: 1907
+Param1: 2
+Param2: 5
+
+Index: 18
+Power: 1907
+Param1: 2
+Param2: 0;
+
+/1907 Ящеры-беглецы, пришёл на службу
+Type: 0
+Possibility: 0
+Dialog: 2428
+DlgParam1: 1
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer2: 0;
+
+*Effects*:
+Index: 36
+Power: 69
+Param1: 1
+Param2: 150;

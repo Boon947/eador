@@ -1,4 +1,4 @@
-Quantity: 228
+Quantity: 229
 
 /0
 Name: Пусто;
@@ -1372,4 +1372,10 @@ Numeric: 0
 Name: Цепь жизни;
 Ability: 0
 Spell: 385
+Numeric: 0
+
+/229
+Name: Массовое осушение;
+Ability: 0
+Spell: 231
 Numeric: 0

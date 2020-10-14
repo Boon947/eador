@@ -1,4 +1,4 @@
-Quantity: 796
+Quantity: 798
 
 /0
 Name: Пусто;
@@ -2308,10 +2308,10 @@ Upg Type: 2121
 Quantity: 1
 
 Upg Type: 2122
-Quantity: 2
+Quantity: 3
 
 Upg Type: 2123
-Quantity: 3;
+Quantity: 2;
 
 /303
 Name: Бомбардировка;
@@ -6778,3 +6778,17 @@ Only Once: 1
 Need: (189)
 Upg Type: 291
 Quantity: 1;
+
+/797
+Name: Подвижность;
+Only Once: 1
+Need: (0)
+Upg Type: 275
+Quantity: 1;
+
+/798
+Name: Стать Карающей Дланью;
+Only Once: 1
+Need: (0)
+Upg Type: 62
+Quantity: 146;

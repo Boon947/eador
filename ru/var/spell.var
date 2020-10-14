@@ -2195,6 +2195,10 @@ UnitKind: (2, 4, 22, 23)
 AntiEffect: (110, 215)
 
 Effects:
+Fear: 12
+Power: 3
+Duration: -1
+
 Drain: 71
 FlagEffect: 1
 FlagEffect: 1
@@ -3432,7 +3436,7 @@ DurationMod: 0
 Target: 1
 Area: 1
 Radius: 0
-Karma: 1
+Karma: 0
 Building: 285
 Unloot: 0
 Negative: 0
@@ -6898,7 +6902,7 @@ Flag_DoubleShot3: 183
 Power: 1
 Duration: 3
 
-RestoreAmmo: 184
+RestoreAmmo: 284
 Power: 1
 Duration: 3
 
@@ -8773,6 +8777,10 @@ UnitKind: (2, 4, 22, 23)
 AntiEffect: (110, 215)
 
 Effects:
+DontFight: 38
+Power: 6
+Duration: 2
+
 Drain: 71
 FlagEffect: 1
 FlagEffect: 1
@@ -14470,7 +14478,11 @@ AntiEffect: (0)
 Effects:
 Enchant: 223
 FlagEffect: 2
-FlagEffect: -1;
+FlagEffect: -1
+
+Summon_heal: 296
+Power: 12
+Duration: -1;
 
 /375
 Name: Общее усиление чар;
@@ -14503,7 +14515,11 @@ AntiEffect: (0)
 Effects:
 Enchant: 223
 FlagEffect: 3
-FlagEffect: -1;
+FlagEffect: -1
+
+Summon_heal: 296
+Power: 16
+Duration: -1;
 
 /376
 Name: Врата Смерти;

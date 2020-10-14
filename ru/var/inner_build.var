@@ -2459,7 +2459,7 @@ Upgrade: 34
 Hidden: 0
 Level: 3
 
-Buildings: (34, 60)
+Buildings: (34, 103)
 Resource: (5, 5)
 
 *Ability*:
@@ -2753,7 +2753,7 @@ Upgrade: 102
 Hidden: 0
 Level: 4
 
-Buildings: (102, 103)
+Buildings: (102, 60)
 Resource: (5, 5, 9)
 
 *Ability*:
