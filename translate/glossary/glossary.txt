@@ -3881,3 +3881,5 @@ Mеню (Esc)	Menu (Esc)
 урон	damage
 Грунс	Grunas
 Ругару	Rugaru
+ближнем бою	melee
+странник	Wanderer
