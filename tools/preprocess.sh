@@ -1,6 +1,5 @@
 set -e
 LC_CTYPE=ru_RU.cp1251
-GLOBIGNORE="campaign_dialog.var:dialog.var:credits.var"
 
 # Start from scratch
 rm -rf translate/{source,target}
@@ -10,10 +9,11 @@ mkdir -pv translate/{source,target}/{Text,var}
 cp ru/Text/*.txt translate/source/Text
 
 # Export var
+GLOBIGNORE=campaign_dialog.var:dialog.var
+VAR_FILES=$(cd ru/var && ls *.var)
 DEST=translate/source/var
-VAR_NAMES=$(cd ru/var && ls *.var)
 
-for F in $VAR_NAMES; do
+for F in $VAR_FILES; do
   grep "^Name:\|^Text:\|^Land:" ru/var/$F > $DEST/$F.txt || rm $DEST/$F.txt
 done
 
