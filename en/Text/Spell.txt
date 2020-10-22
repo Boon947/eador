@@ -372,7 +372,7 @@ Does not affect mechanical units.#
 57. Life Drain
 #Circle 3.
 School: Necromancy.
-Deals 10 magic damage to all units within a range of 1 tile. The caster regains as many hit points as damage dealt.
+Deals 10 magic damage to all enemies within 1 tile, and reduces Morale by 3. The caster regains as many hit points as damage dealt.
 Damage increases with the caster's Spellpower.
 Has no effect on the Undead and Mechanical units.#
 
@@ -1221,7 +1221,7 @@ Duration increases slightly with the caster's Concentration.#
 184. Arrow Shower
 #Circle 4.
 School: Natural Magic.
-Gives all friendly units Double Shot and Enchanted Arrows, dealing additional magic damage. Each turn the unit recovers 2 Stamina and 1 ammo. Lasts 3 turns.
+For 3 turns, grant ranged units Double Shot and Enchanted Arrows, dealing additional magic damage. Each turn the unit recovers 2 Stamina and 1 ammo. Lasts 3 turns.
 Duration increases with the caster's Concentration.
 Only works on Elves. Has no effect on units with Magic Shot.#
 
@@ -1548,7 +1548,7 @@ Has no effect on the Undead, Mechanical units, and Elementals.#
 231. Mass Life Drain
 #Circle 4.
 School: Necromancy.
-Inflicts 5 points of damage to all enemy units on the battlefield. The caster regains as many hit points as damage dealt.
+Deals 5 damage to all enemy units, and disables attacks for 2 turns. Caster recovers health according to damage.
 Damage increases with the caster's Spellpower. Resistance protects only partially against this spell.
 Has no effect on the Undead, Mechanical units, and Elementals.#
 
@@ -2342,7 +2342,7 @@ Lasts 3 turns. Duration increases with the caster's Concentration.#
 346. Shadow Dance
 #Circle 3.
 School: Shadow Magic.
-Reduces the ranged attack of all enemy units by 6, while taking away 2 morale points. Lasts 3 turns. Resistance has almost no protection against this spell.
+Reduces the ranged attack of all enemy units by 6, while taking away 2 morale points. Lasts 3 turns. Resistance protects only partially against this spell.
 Duration increases with the caster's Concentration.
 Has no effect on the Undead, Mechanical units, and Elementals.#
 
@@ -2532,15 +2532,15 @@ Only works on Animals.#
 #Circle 2.
 School: Astral Magic.
 Increases the duration of positive spells on an ally, or negative spells on an enemy by 2.
-The effect slightly increases with the caster's Spellpower.
-Also reduces the duration of negative spells on an ally, or positive spells on an enemy - only by 1.#
+If the spell's target is a summoned ally, then they recover 12 hit points.
+The effect slightly increases with the caster's Spellpower.#
 
 375. Mass Improved Charm
 #Circle 4.
 School: Astral Magic.
 Increases the duration of positive spells on all allies, and negative spells on all enemies by 3.
-The effect slightly increases with the caster's Spellpower.
-Also reduces the duration of negative spells on an ally, or positive spells on an enemy - only by 1.#
+All summoned allies recover 16 hit points.
+The effect slightly increases with the caster's Spellpower.#
 
 376. Gates of Death
 #Circle 4.

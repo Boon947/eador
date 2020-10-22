@@ -51,9 +51,9 @@ Magic: 3
 Leader: 3
 
 /11 Gang leader
-Health: 3
+Health: 4
 Magic: 1
-Leader: 6
+Leader: 5
 
 /12 Ranger
 Health: 2
@@ -77,8 +77,8 @@ Magic: 3
 Leader: 4
 
 /16 Priest
-Health: 1
-Magic: 5
+Health: 2
+Magic: 4
 Leader: 4
 
 

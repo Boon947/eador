@@ -123,8 +123,8 @@ Name: Priest;
 Talent1: 1006, 1
 Talent2: 1012, 2
 Talent3: 1098, 1
-Talent4: 960, 249
-Talent5: 0, 0
+Talent4: 902, 1
+Talent5: 960, 249
 
 /17
 Name: Battlemage;
@@ -250,8 +250,8 @@ Talent5: 0, 0
 Name: High Priest;
 Talent1: 1006, 1
 Talent2: 1012, 2
-Talent3: 960, 274
-Talent4: 0, 0
+Talent3: 903, 1
+Talent4: 960, 274
 Talent5: 0, 0
 
 /33

@@ -20,7 +20,7 @@
 #A warrior who has learned the skill of command becomes a Chieftain, able to fall into a battle rage, becoming immune to wounds and gaining attack strength. The party of a Warrior Chieftain requires less upkeep and quickly gains combat experience.#
 
 /8 Dark Knight
-#A Warrior who has mastered the basics of dark magic becomes a Dark Knight, able to drink the souls of the enemies he defeats and inflict more damage to good creatures. A Dark Knight receives an additional slot for a Circle II spell.#
+#A Warrior who has mastered the basics of dark magic becomes a Dark Knight, able to drink the souls of the enemies he defeats and inflict more damage to good creatures. A Dark Knight gets an extra slot for a Circle II spell.#
 
 /9 Adventurer
 #A Scout who has mastered the art of combat becomes an Adventurer, able to instantly change weapons in battle and obtain better rewards while searching locations and performing quests. An Adventurer is able to cripple enemies with their shots.#
@@ -68,7 +68,7 @@
 #Reaching the maximum skill on the path of the Chieftain, the hero becomes a Great Chieftain, with unrivaled might and fury on the battlefield, and a skilled commander to his soldiers.#
 
 /24 Death Knight
-#Having mastered the path of the Dark Knight, the hero becomes a Death Knight, able to completely consume the souls of slain creatures and inflict devastating damage to good creatures. A Death Knight gets additional slots for a Circle II and III spell.#
+#Having mastered the path of the Dark Knight, the hero becomes a Death Knight, able to completely consume the souls of slain creatures and inflict devastating damage to good creatures. A Death Knight gets extra slots for a Circle II and III spell.#
 
 /25 Cutthroat
 #Having attained mastery on the path of the Adventurer, the hero becomes a Cutthroat, able to perform sudden attacks, move with blazing speed and find twice as much gold and gems when exploring. He is able to replenish his ammunition on the battlefield.#
@@ -101,7 +101,7 @@
 #Having reached the highest skills on the path of the Druid, the hero becomes an Archdruid, able to summon incredibly powerful creatures and to use magic wands with maximum efficiency.#
 
 /35 Master Necromancer
-#Having mastered the art of the Necromancer, the hero becomes a Master Necromancer, able to summon truly powerful Undead.#
+#Having mastered the art of the Necromancer, the hero becomes a Master Necromancer, able to summon truly powerful Undead, and his spells last much longer.#
 
 /36 Archmage
 #Having perfected the art of the Mage, the hero becomes an Archmage, able to cast two complex spells each turn.#

@@ -75,7 +75,7 @@ After battle, morale gradually increases to its base level.#
 #The unit spends no stamina on any actions.#
 
 /19 Intrepid
-#The unit's morale does not decrease, and increases twice slower.#
+#The unit's morale does not decrease, but increases half as fast.#
 
 /20 Double Shot
 #Stamina consumption: %d.
@@ -491,10 +491,10 @@ Ammo units consumed by casting: %d.#
 #The unit's morale does not decrease when his alignment conflicts with the Master's or with other units in the party.#
 
 /136 Necromancer's Call
-#The hero may keep in his army undead which are %d levels higher than his Necromancy skill would normally allow.
+#The hero can keep in his army Undead 1 rank higher than his Necromancy skill allows.
 Undead units recover hit points %d~ faster.
 Reduce the cost of keeping undead units after a battle by %d~.
-Decrease the upkeep of undead units.#
+Reduce upkeep of Undead in the army by %d~.#
 
 /137 Raise Ghoul Spell
 #This unit can cast the Raise Ghoul Spell, creating a Ghoul from a slain unit's corpse.
@@ -1716,7 +1716,7 @@ Ammo units consumed by casting: %d.#
 Ammo units consumed by casting: %d.#
 
 /448 Mental Sermon Spell
-#This unit can cast the Mental Sermon spell, restoring health and stamina of all friendly units each turn and granting them Smite Evil.
+#This unit can cast the Mental Sermon spell, restoring health and stamina of all Alkari allies each turn and granting them Smite Evil.
 Ammo units consumed by casting: %d.#
 
 /449 Mental Resonance Spell
@@ -2031,8 +2031,7 @@ Ammo units consumed by casting: %d.#
 #This unit chose the Path of Power, and is able to transform into Grunas - a powerful, heavy beast with tremendous strength and endurance.#
 
 /534 Path of Agility
-#This unit chose the Path of Agility, and is able to transform into Rugaru - a large, ferocious beast with great speed and power.
-#
+#This unit chose the Path of Agility, and is able to transform into Rugaru - a large, ferocious beast with great speed and power.#
 
 /535 Path of Fire
 #This unit chose the Path of Fire. They gained the ability Flaming Arrows 2.#
@@ -2107,3 +2106,6 @@ by %d~.#
 
 /556 Wizard Mastery
 #Unit can use a spell ability on himself without spending a turn for it.#
+
+/557 Mobility
+#Unit does not expend extra Stamina when attacking after moving.#

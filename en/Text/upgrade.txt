@@ -146,7 +146,7 @@
 #The unit spends no stamina on any actions.#
 
 /49 Intrepid
-#The unit's morale remains unchanged at all times.#
+#The unit's morale no longer decreases, but increases half as fast.#
 
 /50 Double Shot
 #A special ability allowing the unit to take 2 shots at the target at once by spending some stamina.#
@@ -688,10 +688,10 @@ Teach a unit to cast the "Quen" sign that increases armor and resistance.#
 ##
 
 /229 Become Crossbowman
-#When militiaman survives many battles he could get new equipment for his deeds and could be promoted to Crossbowman.#
+#This unit may be promoted to Crossbowman.#
 
 /230 Become Bowman
-#When militiaman survives many battles he could get new equipment for his deeds and could be promoted to Bowman.#
+#This unit may be promoted to Bowman.#
 
 /231 Become Barbarian
 #When militiaman shows great fury and rage in battles, he could be promoted to Barbarian.#
@@ -700,7 +700,7 @@ Teach a unit to cast the "Quen" sign that increases armor and resistance.#
 #When militiaman is taught medical skills, he could be promoted to Healer.#
 
 /233 Become Pikeman
-#When a militiaman survives many battles, he can get new equipment for his deeds and can be promoted to a Pikeman.#
+#This unit may be promoted to Pikeman.#
 
 /234 Become Brigand
 #If you let this unit walk the slippery slope of Brigands, he will soon become one.#
@@ -709,10 +709,10 @@ Teach a unit to cast the "Quen" sign that increases armor and resistance.#
 #When a militiaman is taught techniques and rituals of wild magic, he can be promoted to a Shaman.#
 
 /236 Become Slinger
-#When militiaman survives many battles he could get new equipment for his deeds and could be promoted to Slinger.#
+#This unit may be promoted to Slinger.#
 
 /237 Become Swordsman
-#When militiaman survives many battles he could get new equipment for his deeds and could be promoted to Swordsman.#
+#This unit may be promoted to Swordsman.#
 
 /238 Become Thief
 #If you let this unit walk the slippery slope of Thieves, he will soon become one.#
@@ -925,7 +925,7 @@ Teach a unit to cast the "Quen" sign that increases armor and resistance.#
 #The unit is taught to cast "Chain Lightning", inflicting damage to all units within two tiles. Resistance protects only partially against this spell.#
 
 /308 Head Wind Spell
-#The unit is taught to cast the "Head Wind" spell, which reduces the  range, ranged attack and speed of the target unit. Ignores magic resistance.#
+#The unit is taught to cast the "Head Wind" spell, which reduces an enemy's Speed by 2, Range by 1, and causes Stamina loss every turn.#
 
 /309 Air Elemental Tome
 ##
@@ -1259,7 +1259,7 @@ Magic Resistance and Magic Immunity offer no protection from this spell.
 Does not affect the undead, mechanical units and heroes.#
 
 /418 Become Preacher
-#When soldier received better equipment he is able to join the ranks of Preachers.#
+#This unit may be promoted to Preacher.#
 
 /419 Fearless Spell
 #The unit is taught to cast "Fearless" spell, restoring the morale of friendly unit and increasing its attack for a while.#
@@ -1888,7 +1888,7 @@ Bloodsucker +10.#
 #The unit is taught to cast the "Mental Duel" spell, which reduces an enemy's magical abilities.#
 
 /613 Mental Sermon Spell
-#The unit is taught to cast the "Mental Sermon" spell, restoring health and stamina of all friendly units each turn and granting them Smite Evil.#
+#The unit is taught to cast the "Mental Sermon" spell, restoring health and stamina of all Alkari allies each turn, and granting them Smite Evil.#
 
 /614 Mental Resonance Spell
 #The unit is taught to cast the "Mental Resonance" spell, greatly increasing the magical abilities of a friendly unit and giving it another turn.#
@@ -2438,3 +2438,9 @@ Bloodsucker +10.#
 
 /796 Wizard Mastery
 #Unit can use a spell ability on himself without spending a turn for it.#
+
+/797 Mobility
+#Teach unit not to expend extra Stamina when attacking after moving.#
+
+/798 Become Smiting Hand
+#This unit may be promoted to Smiting Hand.#

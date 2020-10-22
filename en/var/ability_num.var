@@ -1,4 +1,4 @@
-Quantity: 556
+Quantity: 557
 
 /0
 Name: Empty;
@@ -955,7 +955,7 @@ Percent: 0
 /136
 Name: Necromancer's Call;
 Number: 910
-Numeric: 1
+Numeric: 0
 Effect: 1
 Percent: 0
 
@@ -3895,6 +3895,13 @@ Percent: 0
 /556
 Name: Wizard Mastery;
 Number: 291
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/557
+Name: Mobility;
+Number: 275
 Numeric: 0
 Effect: 0
 Percent: 0

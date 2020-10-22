@@ -1,4 +1,4 @@
-Quantity: 2411
+Quantity: 2429
 
 /0
 Window: 0;
@@ -595,7 +595,8 @@ Text: #Having plundered the province of %s for %d gold, the hero %s reports: all
 What are your orders, Master?#
 Answer1: Burn the houses and salt the earth.;
 Answer2: Curse these lands. (-15 & );
-Answer3: Wait for new orders.;#####
+Answer3: Wait for new orders.;
+Answer4: Populate these lands with Humans (-250 $).;#####
 
 /65 Потеря провинции
 Window: 1;
@@ -3528,7 +3529,7 @@ Answer2: You are such a bore!;#####
 /452 Лавка скорняка, квест на сет мантикоры, получение
 Window: 2;
 Bitmap: 67;
-Text: #«I specialize in making the Manticore Armor. However, besides money, I require manticore wings as well. The skin of these wings is the strongest material and has some magical properties that allow to make a special armor. If you kill four of these creatures and bring me their wings, I'll be able to make the required piece of armor for you.»#
+Text: #"I specialize in making the Manticore Armor. However, besides money, I require manticore wings as well. The skin of these wings is the strongest material and has some magical properties that allow to make a special armor. If you kill three of these creatures and bring me their wings, I'll be able to make the required piece of armor for you."#
 Answer1: Deal. I'll get the wings.;
 Answer2: I don't need that kind of armor.;#####
 
@@ -5582,7 +5583,7 @@ Bitmap: 7;
 Text: #An adventurer known as the Deadeye has found an Abandoned Temple in the province of %s. He is asking you to help him with the gear he needs to explore what he has found. He promises to hand over half of whatever spoils he finds to your treasury.#
 Answer1: Let him, as long as he pays. (-80 $  -20 & );
 Answer2: I don't need his pathetic trophies.;
-Answer3: Drive him away from my lands!;
+Answer3: Drive him away from my lands! I'll explore it myself!;
 Answer4: String up the insolent fellow for his impudence.;#####
 
 /719 (Заброшенный храм - разрешить1)
@@ -5621,7 +5622,7 @@ Bitmap: 7;
 Text: #An adventurer known as the Deadeye has found an Abandoned Temple in the province of %s. He is asking you to help him with the gear he needs to explore what he has found. He promises to hand over half of whatever spoils he finds to your treasury.#
 Answer1: Let him, as long as he pays. (-80 $  -20 & );
 Answer2: I don't need his pathetic trophies.;
-Answer3: Drive him away from my lands!;
+Answer3: Drive him away from my lands! I'll explore it myself!;
 Answer4: String up the insolent fellow for his impudence.;#####
 
 /724 (Заброшенный храм 2 - разрешить)
@@ -5637,7 +5638,8 @@ Window: 2;
 Bitmap: 7;
 Text: #The deputy of the %s province informs you that your soldiers thrown the Free Archer into the dungeon, but he miraculously escaped the very next day. Apparently, the rumors of his great cunning are true.#
 Answer1: I'll kill him the next time!;
-Answer2: He deserves to be free.;#####
+Answer2: He deserves to be free.;
+Answer3: Offer a reward for his head. (-50 $ );#####
 
 /726 (Древние руины - главное)
 Window: 2;
@@ -5660,7 +5662,8 @@ Window: 2;
 Bitmap: 3;
 Text: #Tod the Fast Sword explores the Ancient Ruins and finds neither gold nor valuable items.#
 Answer1: Deceiver!;
-Answer2: What a pity.;#####
+Answer2: What a pity.;
+Answer3: He's lying! Cast him into the dungeon!;#####
 
 /729 (Древние руины - прогнать)
 Window: 2;
@@ -5672,7 +5675,7 @@ Answer2: Well, that's a pity.;#####
 /730 (Древние руины - казнить)
 Window: 2;
 Bitmap: 3;
-Text: #Your hangmen execute Tod on the main square of the province of %s. The Fast Sword's heroic deeds are widely known, and many people in the province are very upset.#
+Text: #Your soldiers execute Tod on the main square of the province of %s. The Fast Sword's heroic deeds are widely known, and many people in the province are very upset.#
 Answer1: A big shot? Him? Ha!;
 Answer2: Well, that's a pity.;#####
 
@@ -6091,7 +6094,7 @@ Bitmap: 1;
 Text: #An adventurer known as the Dodger has found a Ruined Tower in the province of %s. He is asking you to help him with the gear he needs to explore what he has found. He promises to hand over half of whatever spoils he finds to your treasury.#
 Answer1: Let him, as long as he pays. (-80 $  -20 & );
 Answer2: I don't need his pathetic trophies.;
-Answer3: Drive him away from my lands!;
+Answer3: Drive him away from my lands! I'll explore it myself!;
 Answer4: String up the insolent fellow for his impudence.;#####
 
 /785 (Разрушенная Башня - разрешить1)
@@ -6105,8 +6108,8 @@ Answer2: See, he didn't deceive me...;#####
 Window: 2;
 Bitmap: 1;
 Text: #The Dodger explores the Ruined Tower and finds neither gold nor valuable items.#
-Answer1: Deceiver!;
-Answer2: What a pity.;
+Answer1: What a pity.;
+Answer2: Cast him into the dungeon!;
 Answer3: Drive the fraud away!;
 Answer4: Execute the scoundrel!;#####
 
@@ -10902,9 +10905,9 @@ Answer1: Dumb reptiles.;
 Answer2: I won't allow them to lynch their own!;#####
 
 /1421 Ящеры-беглецы, выдал
-Window: 2;
+Window: 4;
 Bitmap: 75;
-Text: #The lizardman priests thank you for helping them to catch the apostates and your respectful attitude towards their religion.#
+Text: #The lizardman priests thank you for your help in capturing the apostates, and your respect for their religion, and offer you a gift.#
 Answer1: I'm always glad to help.;
 Answer2: I don't give a damn about their religion.;#####
 
@@ -18468,3 +18471,148 @@ Bitmap: 105;
 Text: #The settlement was destroyed - some of the inhabitants were slaughtered, and their houses looted. The damage costs you %d gold.#
 Answer1: Losses again!;
 Answer2: Help the families of the victims (-100 $ );#####
+
+/2412 Бунт демонов в отряде
+Window: 2;
+Bitmap: 26;
+Text: #
+
+The Demons in the Hero's army are rebelling!#
+Answer1: Damn!;
+Answer2: Oh yes!!!;#####
+
+/2413 Бунт демонов в отряде (победа)
+Window: 2;
+Bitmap: 26;
+Text: #
+
+The Hero has defeated the rebels, and beat them into submission!#
+Answer1: Very well!;
+Answer2: I didn't doubt for a second!;#####
+
+/2414 Бунт демонов в отряде (поражение)
+Window: 2;
+Bitmap: 26;
+Text: #
+
+The Hero could not handle his own troops - they tore him apart, and scattered!#
+Answer1: What a pity...;
+Answer2: No big deal, I'll resurrect.;#####
+
+/2415 Сокровища Древних, привели авантюриста
+Window: 2;
+Bitmap: 80;
+Text: #A wanderer has come to your castle in dusty and tattered clothes. Your advisers assert that he is one of the bounty hunters.
+The wanderer claims he has caught the insolent rogue who has recently had a price on his head, and is ready to deliver him to you alive for an additional fee.#
+Answer1: Kick the impudent out!;
+Answer2: I don't need him alive. The reward is for his head only.;
+Answer3: Torture him into revealing everything.;
+Answer4: Well then, I agree! (-50 $ );#####
+
+/2416 Сокровища Древних, пытки, сразу сказал
+Window: 2;
+Bitmap: 80;
+Text: #The wanderer was smart, before any physical harm, he quickly disclosed where to find the ill-fated scoundrel, and how to get to him.#
+Answer1: Execute him now!;
+Answer2: Let him go, I don't need this goon anymore.;#####
+
+/2417 Сокровища Древних, пытки, неудача
+Window: 2;
+Bitmap: 81;
+Text: #The wanderer was too tough a nut to crack. Despite the torturers' best efforts, he did not reveal the scoundrel's whereabouts, and died in the morning.#
+Answer1: Damned worthless idiots!;
+Answer2: Damn!;
+Answer3: I wonder if it was worth it?;#####
+
+/2418 Сокровища Древних, пытки, удача
+Window: 2;
+Bitmap: 81;
+Text: #Under torture, the wanderer did disclose where to find the ill-fated scoundrel, and how to get to him, but he died in the morning.#
+Answer1: I wanted to execute him myself!;
+Answer2: A pity, but it can't be helped...;#####
+
+/2419 Сокровища Древних, привели авантюриста в замок
+Window: 2;
+Bitmap: 80;
+Text: #Your soldiers brought the adventurer who duped you to the castle - pale as death, and scared to death.#
+Answer1: Arrange a public execution (-50 $);
+Answer2: Execute him immediately!;
+Answer3: Torture him to death.;
+Answer4: Offer him to work for you.;#####
+
+/2420 Сокровища Древних, публичная казнь авантюриста
+Window: 2;
+Bitmap: 31;
+Text: #The public execution of the swindler and rascal - as proclaimed - was carried out in front of a large crowd, with a detailed list of his crimes.
+This event will undoubtedly make an impression on the minds and hearts of all your subjects.#
+Answer1: Tremble, mortals!;
+Answer2: Alas, politics are cruel.;#####
+
+/2421 Сокровища Древних, казнь авантюриста
+Window: 2;
+Bitmap: 10;
+Text: #Rumors of a brutal punishment against an innocent citizen spread among the townspeople. More and more details were added with every retelling, almost turning the impudent rascal into a folk hero. Is it any wonder that the population's discontent has grown?#
+Answer1: Innocent? Unbelievable!;
+Answer2: I don't care, can't be nice to everybody...;
+Answer3: Dumb mortals!;#####
+
+/2422 Сокровища Древних, пытки, умер
+Window: 2;
+Bitmap: 81;
+Text: #The torturers were masters of their craft. The swindler's punishment lasted a long time, and these days must have seemed like an eternity for him. Either way, his spirit has now left his mortal body.#
+Answer1: I would have wanted to torture him forever!;
+Answer2: Well, justice has been done!;
+Answer3: I pity the fool, but life is cruel.;#####
+
+/2423 Сокровища Древних, пытки, признался
+Window: 2;
+Bitmap: 81;
+Text: #After a few hours of torture, the rascal tried to stop them by revealing where he hid the treasures accumulated over his lifetime.#
+Answer1: I accept them as payment for your life. Release him!;
+Answer2: I will grant you a gentle death.;
+Answer3: It's too late, fool. Keep going!;#####
+
+/2424 Сокровища Древних, пытки, признался, отпустили
+Window: 4;
+Bitmap: 49;
+Text: #The troop sent to fetch the treasure has returned with the loot!#
+Answer1: Great!;
+Answer2: Well, the losses have been compensated.;
+Answer3: This is too little!;#####
+
+/2425 Сокровища Древних, привели авантюриста в замок, работа
+Window: 2;
+Bitmap: 80;
+Text: #Evidently not expecting this, the adventurer agrees without hesitation.#
+Answer1: Very well then!;
+Answer2: Don't worry, he won't "work" for long...;#####
+
+/2426 (Древние руины - бросить в темницу)
+Window: 2;
+Bitmap: 3;
+Text: #Your soldiers throw Tod into a dungeon, which he escapes from shortly after. Apparently, it's not for nothing that people call him a hero.#
+Answer1: I'll kill him the next time!;
+Answer2: He deserves to be free.;
+Answer3: Offer a reward for his head. (-50 $ );#####
+
+/2427 (Древние руины - бросить в темницу)
+Window: 2;
+Bitmap: 3;
+Text: #Your soldiers throw the Dodger into a dungeon, which he escapes from shortly after. Apparently, the nickname was well-deserved.#
+Answer1: I'll kill him the next time!;
+Answer2: He deserves to be free.;
+Answer3: Offer a reward for his head. (-50 $ );#####
+
+/2428 Ящеры-беглецы, укрыл бесплатно, присоединение
+Window: 2;
+Bitmap: 75;
+Text: #One of the Lizardman priests spared from reprisal has come to your castle. He wants to serve a just Master like you.#
+Answer1: Well, great!;
+Answer2: What a stupid savage!;#####
+
+/2429 Продажа воинов в астрале
+Window: 1;
+Bitmap: 0;
+Text: #Selling the selected units will earn you %d Astral Energy, but they will no longer be available to you as a bonus for attacking Shards. Are you sure you want to do this?#
+Answer1: Yes;
+Answer2: No;#####

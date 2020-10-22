@@ -58,11 +58,11 @@ Lvl 5: Init +1, Stamina +2, Mobility +1#
 /7 Leadership
 #The troops under a competent leader train faster in their skills, and possess higher morale, as well.
 
-Lvl 1: Experience Gained +5~, Morale +1
+Lvl 1: Experience Gained +5~, Morale +2
 Lvl 2: Experience Gained +5~, Morale +1
-Lvl 3: Experience Gained +5~, Morale +1
+Lvl 3: Experience Gained +5~, Morale +2
 Lvl 4: Experience Gained +5~, Morale +2
-Lvl 5: Experience Gained +5~, Morale +2#
+Lvl 5: Experience Gained +5~, Morale +3#
 
 /8 Weapon Master
 #A Weapon Master inflicts greater damage on the enemy.

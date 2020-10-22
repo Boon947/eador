@@ -8,7 +8,7 @@
 #The unit has been poisoned. It loses %d hit points per turn.#
 
 3. Hex
-#The unit has been hexed and all its attack, defense and resistance are decreased by 1. The unit's wounds cannot be healed.#
+#The unit has been hexed and all its attack, defense and resistance are decreased by 1.#
 
 4. Damaged Armor
 #The unit's armor has been damaged. His defense is decreased by 1.#
@@ -326,7 +326,7 @@
 #The unit has acquired all traits of the undead - immunity to pain, restlessness, fearless, immunity to poison and cold and ability to replenish health by damage in melee combat as well.#
 
 109. Arrow Shower
-#The unit is able to shoot double volleys. Its arrows inflict additional magic damage. The unit's action doesn't spend any stamina.#
+#The unit is able to shoot double volleys. Its arrows inflict additional magic damage. Each turn the unit recovers 1 ammo and 2 Stamina.#
 
 110. Banshee's Howl
 #Eerie cry of the harbinger of death is frightening soldiers. Its speed is decreased by 1.#
@@ -691,3 +691,6 @@ If the unit dies before digestion is complete, it will perish forever, and the s
 
 228. Life Bond
 #When unit receives non-lethal damage, part of the damage will be transfered to the spellcaster, provided it does not kill the caster himself.#
+
+229. Mass Life Drain
+#Unit cannot fight in melee.#

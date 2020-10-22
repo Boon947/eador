@@ -32,7 +32,7 @@ Can learn warrior and commander skills up to Mastery Level 3.#
 
 /8 Dark Knight
 #Can use the following type of items: Common, Melee Weapon, Heavy Weapon, Wand, Light Armor, Medium Armor, Heavy Armor, Shield.
-Possesses the skills Soul Stealing (3) and Dark Dominion (1). A Dark Knight receives an additional slot for a Circle II spell.
+Possesses the skills Soul Stealing (3) and Dark Dominion (1). A Dark Knight gets an extra slot for a Circle II spell.
 Can learn warrior and sorcerer skills up to Mastery Level 3.#
 
 /9 Adventurer
@@ -74,7 +74,7 @@ Can learn commander skills up to Mastery Level 5.#
 
 /16 Priest
 #Can use the following type of items: Common, Melee Weapon, Wand, Banner, Light Armor, Medium Armor, Shield.
-Increases the units' resistance by 1 and morale by 2. Grants army units Tolerance.
+Increases the units' resistance by 1 and morale by 2. Grants army units Tolerance. A Priest gets an extra slot for a Circle II spell.
 Can learn commander and sorcerer skills up to Mastery Level 3.#
 
 /17 Battlemage
@@ -100,7 +100,7 @@ Can learn sorcerer skills up to Mastery Level 5.#
 
 /21 Paladin
 #Can use the following type of items: Common, Melee Weapon, Heavy Weapon, Light Armor, Medium Armor, Heavy Armor, Shield.
-Possesses the skills First Aid (8), First Strike, Smite Evil (2), Hunter of Undead (3), Hunter of Demons (3). The Paladin's armor increases by 2 and resistance by 1. A Paladin receives an additional slot for Circle II spell.
+Possesses the skills First Aid (8), First Strike, Smite Evil (2), Hunter of Undead (3), Hunter of Demons (3). The Paladin's armor increases by 2 and resistance by 1. A Paladin gets an extra slot for a Circle II spell.
 Can learn warrior skills up to Mastery Level 5.#
 
 /22 Master Assassin
@@ -157,7 +157,7 @@ Can learn commander skills up to Mastery Level 5.#
 
 /32 High Priest
 #Can use the following type of items: Common, Melee Weapon, Wand, Banner, Light Armor, Medium Armor, Shield.
-Increases the units' resistance by 2 and morale by 4. Grants army units Tolerance.
+Increases the units' resistance by 2 and morale by 4. Grants army units Tolerance. A High Priest gets extra slots for a Circle II and III spell.
 Can learn commander and sorcerer skills up to Mastery Level 3.#
 
 /33 Warwizard
