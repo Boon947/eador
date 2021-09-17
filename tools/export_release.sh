@@ -1,18 +1,20 @@
 set -e ### Exit immediately if a command fails
 LC_CTYPE=ru_RU.cp1251
 
-if [ -z "$1" ]; then echo "Usage: $0 ARCHIVE"; exit; fi
-
+TMPDIR=$(mktemp -d)
 VERSION=$(grep -o 'New Horizons[^#]*' en/Text/message.txt | tr ' ' '_')
-DEST=/tmp/$VERSION
 
-rm -rf $DEST
-7z x tools/base.7z -o$DEST >/dev/null
-cp -ipr en/* $DEST
-unrar-nonfree x -xText -xvar $1 $DEST
-7z x tools/gui.7z -o$DEST/dat >/dev/null
+7z x tools/base.7z -o$TMPDIR >/dev/null
+7z x tools/gui.7z -o$TMPDIR/dat >/dev/null
+cp -ipr en/* $TMPDIR
 
-cd $DEST/dat
+case $1 in
+*.zip) unzip $1 -x 'Text/*' 'var/*' -d $TMPDIR ;;
+*.rar) unrar-nonfree x -xText -xvar $1 $TMPDIR ;;
+*) echo "Usage: $0 ARCHIVE" ; rm -r $TMPDIR ; exit
+esac
+
+cd $TMPDIR/dat
 IFS_BAK=$IFS; IFS=.
 for F in *.pcx *.bmp; do
 	set $F
@@ -30,5 +32,6 @@ done
 rm *.pcx *.bmp
 IFS=$IFS_BAK
 
-cd $DEST/..
+cd /tmp
+mv $TMPDIR $VERSION
 zip -rv $VERSION.zip $VERSION
