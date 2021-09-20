@@ -1,4 +1,4 @@
-Quantity: 557
+Quantity: 579
 
 /0
 Name: Пусто;
@@ -3903,5 +3903,159 @@ Percent: 0
 Name: Подвижность;
 Number: 275
 Numeric: 0
+Effect: 0
+Percent: 0
+
+/558
+Name: Небесная броня;
+Number: 282
+Numeric: 0
+Effect: 1
+Percent: 0
+
+/559
+Name: Проклятая броня;
+Number: 283
+Numeric: 0
+Effect: 1
+Percent: 0
+
+/560
+Name: Командор;
+Number: 400
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/561
+Name: Командор;
+Number: 402
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/562
+Name: Командор;
+Number: 403
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/563
+Name: Командор;
+Number: 404
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/564
+Name: Командор;
+Number: 405
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/565
+Name: Командор;
+Number: 406
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/566
+Name: Командор;
+Number: 408
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/567
+Name: Кузнец;
+Number: 930
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/568
+Name: Знахарь;
+Number: 931
+Numeric: 1
+Effect: 1
+Percent: 1
+
+/569
+Name: Авторитет;
+Number: 932
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/570
+Name: Лидер;
+Number: 933
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/571
+Name: Вдохновлённый;
+Number: 935
+Numeric: 0
+Effect: 1
+Percent: 0
+
+/572
+Name: Щит магии;
+Number: 3006
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/573
+Name: Диверсант;
+Number: 970
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/574
+Name: Искрит;
+Number: 295
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/575
+Name: Взрыв;
+Number: 311
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/576
+Name: Заклятье "Массовое заземление";
+Number: 2265
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/577
+Name: Заклятье "Общая хладоустойчивость";
+Number: 2264
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/578
+Name: Мощь гноллов;
+Number: 277
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/579
+Name: Заклятье "Призвать орла";
+Number: 2379
+Numeric: 1
 Effect: 0
 Percent: 0

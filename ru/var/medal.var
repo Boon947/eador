@@ -57,7 +57,7 @@ Rarity: 2
 Effects:
 
 Stamina: 11
-Power: 3
+Power: 4
 
 Reinvigoration: 21
 Power: 1;
@@ -74,7 +74,7 @@ Power: 5;
 
 /6
 Name: Медаль за меткость;
-GoldSpent: 5
+GoldSpent: 6
 GemSpent: 0
 Rarity: 2
 Effects:
@@ -198,8 +198,8 @@ Power: 3;
 
 /16
 Name: Лента Разведчика;
-GoldSpent: 5
-GemSpent: 0
+GoldSpent: 8
+GemSpent: 1
 Rarity: 3
 Effects:
 
@@ -279,7 +279,7 @@ Rarity: 2
 Effects:
 
 Ammo: 10
-Power: 1;
+Power: 2;
 
 /23
 Name: Орден Мага;

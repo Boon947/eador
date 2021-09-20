@@ -1,4 +1,4 @@
-Quantity: 229
+Quantity: 230
 
 /0
 Name: Пусто;
@@ -505,7 +505,7 @@ Spell: 141
 Numeric: 0
 
 /84
-Name: Убийца демонов;
+Name: Погибель нечестивых;
 Ability: 0
 Spell: 143
 Numeric: 0
@@ -1378,4 +1378,10 @@ Numeric: 0
 Name: Массовое осушение;
 Ability: 0
 Spell: 231
+Numeric: 0
+
+/230
+Name: Мощь гноллов;
+Ability: 277
+Spell: 0
 Numeric: 0

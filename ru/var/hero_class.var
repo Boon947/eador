@@ -64,7 +64,7 @@ Talent5: 0, 0
 
 /9
 Name: Авантюрист;
-Talent1: 21, 2
+Talent1: 195, 1
 Talent2: 980, 1
 Talent3: 987, 50
 Talent4: 985, 100
@@ -104,18 +104,18 @@ Talent5: 960, 247
 
 /14
 Name: Тактик;
-Talent1: 1008, 2
-Talent2: 960, 248
-Talent3: 0, 0
-Talent4: 0, 0
-Talent5: 0, 0
+Talent1: 1002, 2
+Talent2: 1032, 1
+Talent3: 1033, 1
+Talent4: 1034, 1
+Talent5: 960, 248
 
 /15
 Name: Генерал;
-Talent1: 1002, 1
-Talent2: 1003, 1
-Talent3: 960, 246
-Talent4: 0, 0
+Talent1: 1008, 2
+Talent2: 1010, 1
+Talent3: 999, 1
+Talent4: 960, 246
 Talent5: 0, 0
 
 /16
@@ -136,7 +136,7 @@ Talent5: 0, 0
 
 /18
 Name: Друид;
-Talent1: 907, 5
+Talent1: 907, 4
 Talent2: 983, 25
 Talent3: 994, 4
 Talent4: 95, 2
@@ -144,7 +144,7 @@ Talent5: 960, 252
 
 /19
 Name: Некромант;
-Talent1: 909, 3
+Talent1: 909, 4
 Talent2: 910, 1
 Talent3: 906, 1
 Talent4: 960, 253
@@ -192,11 +192,11 @@ Talent5: 960, 266
 
 /25
 Name: Головорез;
-Talent1: 21, 1
-Talent2: 23, 6
-Talent3: 999, 2
-Talent4: 987, 50
-Talent5: 960, 268
+Talent1: 23, 6
+Talent2: 999, 2
+Talent3: 987, 50
+Talent4: 960, 268
+Talent5: 0, 0
 
 /26
 Name: Снайпер;
@@ -232,16 +232,16 @@ Talent5: 960, 272
 
 /30
 Name: Стратег;
-Talent1: 999, 1
-Talent2: 960, 273
-Talent3: 0, 0
+Talent1: 1002, 1
+Talent2: 1003, 2
+Talent3: 960, 273
 Talent4: 0, 0
 Talent5: 0, 0
 
 /31
 Name: Маршал;
-Talent1: 1002, 1
-Talent2: 1003, 1
+Talent1: 999, 1
+Talent2: 1010, 1
 Talent3: 960, 271
 Talent4: 0, 0
 Talent5: 0, 0
@@ -264,7 +264,7 @@ Talent5: 0, 0
 
 /34
 Name: Верховный друид;
-Talent1: 907, 5
+Talent1: 907, 4
 Talent2: 983, 25
 Talent3: 994, 4
 Talent4: 95, 2
@@ -272,7 +272,7 @@ Talent5: 960, 277
 
 /35
 Name: Мастер-некромант;
-Talent1: 909, 3
+Talent1: 909, 4
 Talent2: 910, 1
 Talent3: 906, 1
 Talent4: 960, 278

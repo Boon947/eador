@@ -637,11 +637,11 @@ Resourse: (1, 1)
 Effects:
 
 Attack: 2
-Power: 6
+Power: 7
 Area: 0
 
 CounterAttack: 3
-Power: 4
+Power: 5
 Area: 0;
 
 /26
@@ -659,11 +659,11 @@ Resourse: (1, 1)
 Effects:
 
 Attack: 2
-Power: 7
+Power: 8
 Area: 0
 
 CounterAttack: 3
-Power: 5
+Power: 6
 Area: 0;
 
 /27
@@ -681,11 +681,11 @@ Resourse: (1, 1)
 Effects:
 
 Attack: 2
-Power: 8
+Power: 10
 Area: 0
 
 CounterAttack: 3
-Power: 6
+Power: 7
 Area: 0;
 
 /28
@@ -703,11 +703,11 @@ Resourse: (1, 7)
 Effects:
 
 Attack: 2
-Power: 6
+Power: 8
 Area: 0
 
 CounterAttack: 3
-Power: 5
+Power: 6
 Area: 0
 
 Bleeding: 155
@@ -4209,19 +4209,19 @@ Resourse: (7)
 Effects:
 
 Attack: 2
-Power: 6
+Power: 9
 Area: 0
 
 CounterAttack: 3
-Power: 6
+Power: 8
 Area: 0
 
 Morale: 12
-Power: 1
+Power: 2
 Area: 0
 
 UndeadHunter: 202
-Power: 1
+Power: 2
 Area: 0;
 
 
@@ -4240,15 +4240,15 @@ Resourse: (7, 7)
 Effects:
 
 Attack: 2
-Power: 8
+Power: 10
 Area: 0
 
 CounterAttack: 3
-Power: 7
+Power: 9
 Area: 0
 
 Demon_Hunter: 203
-Power: 1
+Power: 3
 Area: 0;
 
 
@@ -4267,11 +4267,11 @@ Resourse: (7, 7)
 Effects:
 
 Attack: 2
-Power: 9
+Power: 11
 Area: 0
 
 CounterAttack: 3
-Power: 7
+Power: 9
 Area: 0
 
 AimedStrike: 76
@@ -4294,11 +4294,11 @@ Resourse: (7, 7, 4)
 Effects:
 
 Attack: 2
-Power: 12
+Power: 13
 Area: 0
 
 CounterAttack: 3
-Power: 6
+Power: 7
 Area: 0
 
 Berserk: 25
@@ -4325,11 +4325,11 @@ Resourse: (1, 1, 9)
 Effects:
 
 Attack: 2
-Power: 12
+Power: 14
 Area: 0
 
 CounterAttack: 3
-Power: 7
+Power: 8
 Area: 0
 
 StealSoul: 57
@@ -4356,7 +4356,7 @@ Resourse: (7, 9, 9)
 Effects:
 
 Attack: 2
-Power: 11
+Power: 12
 Area: 0
 
 CounterAttack: 3
@@ -4383,11 +4383,11 @@ Resourse: (7, 8, 8)
 Effects:
 
 Attack: 2
-Power: 12
+Power: 15
 Area: 0
 
 CounterAttack: 3
-Power: 10
+Power: 12
 Area: 0
 
 Regeneration: 48
@@ -4414,7 +4414,7 @@ Power: 2
 Area: 0
 
 Morale: 12
-Power: 3
+Power: 5
 Area: 1;
 
 
@@ -4568,7 +4568,7 @@ Power: 4
 Area: 1
 
 Morale: 12
-Power: 5
+Power: 6
 Area: 1;
 
 
@@ -13172,37 +13172,41 @@ Power: 2
 Area: 0
 
 Attack: 2
-Power: 6
+Power: 7
 Area: 0
 
 CounterAttack: 3
-Power: 6
+Power: 7
 Area: 0;
 
 /528
 Name: Тяжёлая булава;
 Slot: 1
-Class: 1
+Class: 2
 Durability: 60
 GoldCost: 120
 GemCost: 0
-ShopLevel: 8
-Rarity: 8
+ShopLevel: 4
+Rarity: 3
 Building: 0
 Pic: 531
-Resourse: (1)
+Resourse: (1, 4)
 Effects:
 
 Stun: 39
-Power: 2
+Power: 1
 Area: 0
 
 Attack: 2
-Power: 4
+Power: 6
 Area: 0
 
 CounterAttack: 3
-Power: 3
+Power: 4
+Area: 0
+
+Demon_Hunter: 203
+Power: 2
 Area: 0;
 
 /529

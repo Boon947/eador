@@ -1,0 +1,128 @@
+Quantity: 20
+
+/0
+Name: Пусто;
+AbilityNumber: 0
+UpgradeNumber: 0
+HeroClass: (0)
+
+
+/1
+Name: Кузнец;
+AbilityNumber: 930
+UpgradeNumber: 810
+HeroClass: (1, 2, 3, 4)
+
+/2
+Name: Торговец;
+AbilityNumber: 81
+UpgradeNumber: 815
+HeroClass: (1, 2, 3, 4)
+
+/3
+Name: Вдохновлённый;
+AbilityNumber: 935
+UpgradeNumber: 814
+HeroClass: (1, 2)
+
+/4
+Name: Инициатива;
+AbilityNumber: 999
+UpgradeNumber: 818
+HeroClass: (1, 2, 3, 4)
+
+/5
+Name: Дипломатия;
+AbilityNumber: 979
+UpgradeNumber: 659
+HeroClass: (2, 3)
+
+/6
+Name: Диверсант;
+AbilityNumber: 970
+UpgradeNumber: 817
+HeroClass: (2)
+
+/7
+Name: Знахарь;
+AbilityNumber: 931
+UpgradeNumber: 811
+HeroClass: (3, 4)
+
+/8
+Name: Авторитет;
+AbilityNumber: 932
+UpgradeNumber: 812
+HeroClass: (1, 2, 3)
+
+/9
+Name: Лидер;
+AbilityNumber: 933
+UpgradeNumber: 813
+HeroClass: (1, 2, 3)
+
+/10
+Name: Алхимик;
+AbilityNumber: 82
+UpgradeNumber: 816
+HeroClass: (4)
+
+/11
+Name: Живчик;
+AbilityNumber: 48
+UpgradeNumber: 98
+HeroClass: (1, 2, 3, 4)
+
+/12
+Name: Щит магии;
+AbilityNumber: 3006
+UpgradeNumber: 819
+HeroClass: (4)
+
+/13
+Name: Святой;
+AbilityNumber: 120
+UpgradeNumber: 278
+HeroClass: (1, 3)
+
+/14
+Name: Тёмный лорд;
+AbilityNumber: 121
+UpgradeNumber: 571
+HeroClass: (1, 3)
+
+/15
+Name: Убийца нежити;
+AbilityNumber: 202
+UpgradeNumber: 681
+HeroClass: (1, 2)
+
+/16
+Name: Истребитель демонов;
+AbilityNumber: 203
+UpgradeNumber: 683
+HeroClass: (1, 2)
+
+/17
+Name: Змееглотатель;
+AbilityNumber: 108
+UpgradeNumber: 72
+HeroClass: (4)
+
+/18
+Name: Умелый заклинатель;
+AbilityNumber: 161
+UpgradeNumber: 706
+HeroClass: (4)
+
+/19
+Name: Некромант;
+AbilityNumber: 909
+UpgradeNumber: 574
+HeroClass: (4)
+
+/20
+Name: Призыватель;
+AbilityNumber: 907
+UpgradeNumber: 526
+HeroClass: (3, 4)

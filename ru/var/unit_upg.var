@@ -1,4 +1,4 @@
-Quantity: 798
+Quantity: 832
 
 /0
 Name: Пусто;
@@ -1197,9 +1197,9 @@ Quantity: 1;
 /162
 Name: Повелитель нежити;
 Only Once: 1
-Need: (0)
+Need: (64)
 Upg Type: 64
-Quantity: 193;
+Quantity: 174;
 
 /163
 Name: Парирование;
@@ -1281,6 +1281,9 @@ Upg Type: 908
 Quantity: 10
 
 Upg Type: 355
+Quantity: 1
+
+Upg Type: 295
 Quantity: 1;
 
 /173
@@ -3213,7 +3216,7 @@ Name: Тёмный пакт;
 Only Once: 1
 Need: (0)
 Upg Type: 2043
-Quantity: 4;
+Quantity: 3;
 
 /410
 Name: Оруженосец;
@@ -4694,6 +4697,9 @@ Upg Type: 38
 Quantity: 1
 
 Upg Type: 88
+Quantity: 1
+
+Upg Type: 101
 Quantity: 1
 
 Upg Type: 104
@@ -6434,7 +6440,7 @@ Upg Type: 16
 Quantity: 1
 
 Upg Type: 76
-Quantity: 2
+Quantity: 3
 
 Upg Type: 357
 Quantity: 1;
@@ -6655,9 +6661,6 @@ Need: (0)
 Upg Type: 8
 Quantity: 1
 
-Upg Type: 10
-Quantity: 1
-
 Upg Type: 77
 Quantity: 2
 
@@ -6672,23 +6675,23 @@ Upg Type: 35
 Quantity: 2
 
 Upg Type: 207
-Quantity: 35
+Quantity: 40
 
 Upg Type: 208
-Quantity: 35
+Quantity: 40
 
 Upg Type: 372
 Quantity: 1;
 
 /785
-Name: Содержание -35~;
+Name: Содержание -40~;
 Only Once: 0
 Need: (372)
 Upg Type: 207
-Quantity: 35
+Quantity: 40
 
 Upg Type: 208
-Quantity: 35
+Quantity: 40
 
 Upg Type: 372
 Quantity: -1
@@ -6792,3 +6795,262 @@ Only Once: 1
 Need: (0)
 Upg Type: 62
 Quantity: 146;
+
+/799
+Name: Броня веры;
+Only Once: 0
+Need: (0)
+Upg Type: 232
+Quantity: 20;
+
+/800
+Name: Небесная броня;
+Only Once: 1
+Need: (0)
+Upg Type: 282
+Quantity: 1;
+
+/801
+Name: Проклятая броня;
+Only Once: 1
+Need: (0)
+Upg Type: 283
+Quantity: 1;
+
+/802
+Name: Командор;
+Only Once: 0
+Need: (0)
+Upg Type: 400
+Quantity: 1;
+
+/803
+Name: Командор;
+Only Once: 0
+Need: (0)
+Upg Type: 402
+Quantity: 1;
+
+/804
+Name: Командор;
+Only Once: 0
+Need: (0)
+Upg Type: 403
+Quantity: 1;
+
+/805
+Name: Командор;
+Only Once: 0
+Need: (0)
+Upg Type: 404
+Quantity: 1;
+
+/806
+Name: Командор;
+Only Once: 0
+Need: (0)
+Upg Type: 405
+Quantity: 1;
+
+/807
+Name: Командор;
+Only Once: 0
+Need: (0)
+Upg Type: 406
+Quantity: 1;
+
+/808
+Name: Командор;
+Only Once: 0
+Need: (0)
+Upg Type: 408
+Quantity: 1;
+
+/809
+Name: Командор;
+Only Once: 0
+Need: (0)
+Upg Type: 3005
+Quantity: 1;
+
+/810
+Name: Кузнец;
+Only Once: 0
+Need: (0)
+Upg Type: 930
+Quantity: 1;
+
+/811
+Name: Знахарь;
+Only Once: 0
+Need: (0)
+Upg Type: 931
+Quantity: 10;
+
+/812
+Name: Авторитет;
+Only Once: 0
+Need: (0)
+Upg Type: 932
+Quantity: 5;
+
+/813
+Name: Лидер;
+Only Once: 0
+Need: (0)
+Upg Type: 933
+Quantity: 5;
+
+/814
+Name: Вдохновлённый;
+Only Once: 1
+Need: (0)
+Upg Type: 935
+Quantity: 1;
+
+/815
+Name: Торговец;
+Only Once: 0
+Need: (0)
+Upg Type: 81
+Quantity: 20;
+
+/816
+Name: Алхимик;
+Only Once: 0
+Need: (0)
+Upg Type: 82
+Quantity: 7;
+
+/817
+Name: Диверсант;
+Only Once: 0
+Need: (0)
+Upg Type: 970
+Quantity: 1;
+
+/818
+Name: Инициатива;
+Only Once: 1
+Need: (0)
+Upg Type: 999
+Quantity: 1;
+
+/819
+Name: Щит магии;
+Only Once: 1
+Need: (0)
+Upg Type: 3006
+Quantity: 1;
+
+/820
+Name: Пылающий клинок;
+Only Once: 0
+Need: (0)
+Upg Type: 143
+Quantity: 1;
+
+/821
+Name: Взрыв;
+Only Once: 1
+Need: (0)
+Upg Type: 220
+Quantity: 23
+
+Upg Type: 311
+Quantity: 1;
+
+/822
+Name: Ифрит;
+Only Once: 1
+Need: (0)
+Upg Type: 27
+Quantity: 1
+
+Upg Type: 101
+Quantity: 1
+
+Upg Type: 105
+Quantity: 1
+
+Upg Type: 106
+Quantity: 1
+
+Upg Type: 107
+Quantity: 1;
+
+/823
+Name: Массовое заземление;
+Only Once: 1
+Need: (0)
+Upg Type: 2265
+Quantity: 2
+
+Upg Type: 10
+Quantity: 2;
+
+/824
+Name: Общая хладоустойчивость;
+Only Once: 1
+Need: (0)
+Upg Type: 2264
+Quantity: 2
+
+Upg Type: 10
+Quantity: 1;
+
+/825
+Name: Волшебная аура 2;
+Only Once: 1
+Need: (0)
+Upg Type: 3006
+Quantity: 2;
+
+/826
+Name: Волшебная аура +1;
+Only Once: 0
+Need: (3006)
+Upg Type: 3006
+Quantity: 1;
+
+/827
+Name: Регенерация нежити;
+Only Once: 1
+Need: (309)
+Upg Type: 2081
+Quantity: 2;
+
+/828
+Name: Мощь гноллов +1;
+Only Once: 0
+Need: (277)
+Upg Type: 277
+Quantity: 1;
+
+/829
+Name: Мощь гноллов 2;
+Only Once: 1
+Need: (0)
+Upg Type: 277
+Quantity: 2;
+
+/830
+Name: Мощь гноллов 3;
+Only Once: 1
+Need: (0)
+Upg Type: 277
+Quantity: 3;
+
+/831
+Name: Мощь гноллов 4;
+Only Once: 1
+Need: (0)
+Upg Type: 277
+Quantity: 4;
+
+/832
+Name: Призвать орла;
+Only Once: 1
+Need: (366)
+Upg Type: 2379
+Quantity: 2;
