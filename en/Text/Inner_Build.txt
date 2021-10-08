@@ -110,7 +110,7 @@ The castle cannot have more than 4 buildings of this type.#
 
 23. School of Sorcery
 #Type: Teaches spells of the first circle.
-Allows heroes to learn the spells Dispel, Astral Energy, Astral Thief, and Cat Reflexes.
+Allows heroes to learn the spells Dispel, Astral Energy, Astral Thief, and Improved Charm.
 Allows to perform the ritual of Extravaganza.
 The castle cannot have more than 4 buildings of this type.#
 
@@ -323,13 +323,13 @@ The castle cannot have more than 3 buildings of this type.#
 
 81. Illusionists Guild
 #Type: Teaches spells of the second circle.
-Allows heroes to learn the spells Phantom Form, Sleep, Heroism, and Improved Charm.
+Allows heroes to learn the spells Phantom Form, Sleep, Heroism, and Cat's Reflexes.
 Allows to perform the ritual of Illusionary Battle.
 The castle cannot have more than 3 buildings of this type.#
 
 82. Necromancers Guild
 #Type: Teaches spells of the second circle.
-Allows heroes to learn the spells Raise Ghoul, Vampirism, Atrophy, and Fatigue.
+Allows heroes to learn the spells Raise Ghoul, Vampirism, Atrophy, and Eternal Slave.
 Allows to perform the ritual of Deadly Terror.
 The castle cannot have more than 3 buildings of this type.#
 
@@ -341,7 +341,7 @@ The castle cannot have more than 3 buildings of this type.#
 
 84. Temple of Chaos
 #Type: Teaches spells of the second circle.
-Allows heroes to learn the spells Summon Fiend, Summon Hellhound, Blindness, and Demon Blood.
+Allows heroes to learn the spells Summon Fiend, Summon Hellhound, Blindness, and Dark Pact.
 Allows to perform the ritual of Chaos Spawn. Allows the recruitment of Demonologists from the contract scrolls.
 The castle cannot have more than 3 buildings of this type.#
 
@@ -540,7 +540,7 @@ The castle cannot have more than 2 buildings of this type.#
 
 133. Tower of Chaos
 #Type: Teaches circle III spells
-Allows heroes to learn the spells Dark Pact, Summon Demon, Chaos Distortion, and Hellfire.
+Allows heroes to learn the spells Summon Demon, Demon Blood, Chaos Distortion, and Hellfire.
 Allows to perform the ritual of Rain of Brimstone. Allows the summoning of Acherons if you have cursed relics.
 The castle cannot have more than 2 buildings of this type.#
 
@@ -558,13 +558,13 @@ The castle cannot have more than 2 buildings of this type.#
 
 136. Tower of Hypnosis
 #Type: Teaches circle III spells
-Allows heroes to learn the spells Antimagic, Mass Dispel, Word of Power, and Suicide.
+Allows heroes to learn the spells Antimagic, Word of Power, Suicide, and Improved Charm.
 Allows to perform the ritual of Mass Insanity. Allows the recruitment of Psions from the contract scrolls.
 The castle cannot have more than 2 buildings of this type.#
 
 137. Tower of Necromancy
 #Type: Teaches circle III spells
-Allows heroes to learn the spells Raise Ghost, Life Drain, Mass Undead Restoration, and Eternal Slave.
+Allows heroes to learn the spells Raise Ghost, Life Drain, Mass Undead Restoration, and Fatigue.
 Allows to perform the ritual of Undead Uprising. Allows the creation of Dracoliches from the phylacteries.
 The castle cannot have more than 2 buildings of this type.#
 
@@ -747,7 +747,7 @@ The castle can only have one building of this type.#
 
 178. Psy-Monolith
 #Type: Teaches spells of the fourth circle.
-Allows to learn the spells Mass Suicide, Enslave Mind, Confusion, and Mass Improved Charm.
+Allows to learn the spells Mass Suicide, Enslave Mind, Mass Sleep, and Confusion.
 Allows to perform the ritual of Astral Gates.
 The castle can only have one building of this type.#
 

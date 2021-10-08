@@ -1,4 +1,4 @@
-Quantity: 638
+Quantity: 641
 
 /0
 Name: Empty;
@@ -1916,3 +1916,12 @@ Name: Everyone around;
 
 /638
 Name: Sell Unit;
+
+/639
+Name: Adventurer Bonus;
+
+/640
+Name: Electric shock;
+
+/641
+Name: Power absorbed!;

@@ -813,12 +813,12 @@ PoisonImmunity: 108
 Power: 1
 Area: 0
 
-Speed: 7
-Power: 1
-Area: 0
-
 StealSoul: 57
 Power: 5
+Area: 0
+
+CursedArmor: 283
+Power: 1
 Area: 0;
 
 

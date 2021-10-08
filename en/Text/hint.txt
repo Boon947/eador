@@ -22,7 +22,7 @@ Quantity: 45
 #If a negative effect reduces the unit's Speed to 0, he can still move, but each step will cost him one stamina point.#
 
 7. Alignment
-#Being combined in a single army reduces Morale of the units of opposite alignment. In addition, if the units' alignment is very different from yours, they too will suffer a Morale penalty.#
+#Mixing units of opposite alignment within a party lowers their Morale. Units whose alignment is opposite to yours will suffer a Morale penalty as well. Presence of Undead and Demons in the party lowers Morale even further.#
 
 8. Resource
 #If you have access to a certain resource, you won't have to pay for it even if the unit or building construction require more than one instance of this resource.#

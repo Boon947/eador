@@ -88,7 +88,8 @@ A special ability allowing the unit to shoot twice at a target, at the expense o
 #While resting, the unit recharges his magical ammo by %d.#
 
 /23 Collect Ammo
-#A special ability allowing the unit to collect up to %d units of ammunition per turn.#
+#A special ability allowing the unit to collect up to %d units of ammunition per turn.
+If an ally with Ammo Bearer ability is nearby, then at least one projectile will be collected. The abilities of multiple Ammo Bearers do not stack, instead, the highest value is chosen.#
 
 /24 Healing
 #A special ability allowing the unit to heal a friendly unit within his shooting range. Restores an average of %d hit points. The healing expends 1 ammo unit. Out of combat the hit points restoration rate for all units in the party is increased when a healer is present.
@@ -607,7 +608,7 @@ Ammo units consumed by casting: %d.#
 Ammo units consumed by casting: %d.#
 
 /164 Rune of Restoration
-#This unit can cast the "Rune of Restoration" spell, restoring health to all friendly mechanical units.
+#This unit can cast the "Rune of Restoration" spell, restoring health and ammo to all friendly mechanical units.
 Ammo units consumed by casting: %d.#
 
 /165 Rune of Power
@@ -1176,7 +1177,7 @@ Ammo units consumed by casting: %d.#
 Ammo units consumed by casting: %d.#
 
 /307 Demon Blood Spell
-#This unit can cast the Demon Blood spell, inflicting damage to an enemy or a friendly demon and healing the injuries of the caster.
+#This unit can cast the Demon Blood spell, inflicting damage to all enemy and allied demons within a 1-tile radius, and healing the caster.
 Ammo units consumed by casting: %d.#
 
 /308 Mass Bless Spell
@@ -1224,7 +1225,7 @@ Ammo units consumed by casting: %d.#
 Ammo units consumed by casting: %d.#
 
 /319 Ammo Bearer
-#All adjacent friendly units are able to replenish from 1 to %d units of ammo right on the battlefield. The effect different ammo bearers can have on adjacent units is cumulative.#
+#All adjacent friendly units are able to replenish from 1 to %d units of ammo right on the battlefield. The effect stacks with the unit's own Collect Ammo ability. The abilities of multiple Ammo Bearers do not stack.#
 
 /320 Ice Snake Spell
 #This unit can cast the Ice Snake spell, inflicting huge damage to a single enemy and slowing him greatly. Resistance protects only partially against this spell.
@@ -1943,20 +1944,21 @@ Nearby allies receive Regeneration 2 and Surge of Strength 1, as long as they re
 Nearby allies receive Regeneration 3 and Surge of Strength 2, as long as they remain close.#
 
 /510 Armor of Faith
-#Damage dealt by Undead and Demons is reduced by %d~.#
+#Damage dealt by Undead and Demons is reduced by %d~. Bonuses for Armor of Faith and Heavenly Armor (if any) stack.
+Armor of Faith only works when a unit's Morale is above 10.#
 
 /511 Panic
 #Stamina consumption: %d.
 The unit can, at the cost of extra stamina, retreat faster towards its edge of the battlefield, and desert. When in effect, the unit's morale decreases by 1.#
 
 /512 Trap
-#Creatures who fall in a Trap lose 4 health initially, then 3 each turn. A trap increases the cost of crossing the tile by 1.#
+#Creatures falling in a Trap lose 10 HP, and will remain injured for 3 turns. A trap increases the cost of crossing the tile by 1.#
 
 /513 Snare
 #Creatures caught in a Snare lose 5 stamina, and cannot deal any damage until the next turn.#
 
 /514 Hornet's Nest
-#Any living creature careless enough to poke a Hornet's Nest will have to face the spiteful insects.#
+#Any living creature careless enough to poke a Hornet's Nest will have to face the spiteful insects. Unit loses 3 HP and 1 Stamina each turn, and suffers from Itch.#
 
 /515 Itch
 #As long as a living creature itches, it does not receive the benefits of Rest and Self-control. The following abilities are disabled: Recuperation, First Aid, Meditation, Self-control.#
@@ -2024,14 +2026,14 @@ To use the ability, unit must be immobile and have more than 3 Stamina.#
 
 /532 Improved Charm Spell
 #This unit can cast the Improved Charm spell, which increases the duration of positive spells on an ally, or negative spells on an enemy by 2.
-Also reduces the duration of negative spells on an ally, or positive spells on an enemy by 1.
+Also heals summoned creatures, restoring 10 HP.
 Ammo units consumed by casting: %d.#
 
 /533 Path of Power
 #This unit chose the Path of Power, and is able to transform into Grunas - a powerful, heavy beast with tremendous strength and endurance.#
 
 /534 Path of Agility
-#This unit chose the Path of Agility, and is able to transform into Rugaru - a large, ferocious beast with great speed and power.#
+#This unit chose the Path of Agility, and is able to transform into a Hippogryph - a flying beast.#
 
 /535 Path of Fire
 #This unit chose the Path of Fire. They gained the ability Flaming Arrows 2.#
@@ -2071,10 +2073,10 @@ Ammo units consumed by casting: %d.#
 #Pathfinder chose Path of the Warrior. Ranged Attack and Ammo increased by 1, Precise Shot by 2.#
 
 /546 Path of the Hunter
-#Pathfinder chose Path of the Hunter. Unit's gold and gem upkeep decreased by 35~. First Aid increased by 2.#
+#Pathfinder chose Path of the Hunter. Unit's gold and gem upkeep decreased by 40~. First Aid increased by 2.#
 
 /547 Path of the Hunter
-#Pathfinder chose Path of the Hunter. Unit's gold and gem upkeep decreased by 70~. First Aid increased by 2.#
+#Pathfinder chose Path of the Hunter. Unit's gold and gem upkeep decreased by 80~. First Aid increased by 2.#
 
 /548 Spiritual Link Spell
 #Unit can cast the Spiritual Link spell, which allows sharing the Stamina cost of spells cast by the enchanted creature.
@@ -2092,13 +2094,13 @@ Ammo units consumed by casting: %d.#
 Ammo units consumed by casting: %d.#
 
 /552 Bane of Mortals
-#Unit deals double damage to all mortal creatures.#
+#Unit deals double damage to all mortal creatures in melee, and 1.5x from range.#
 
 /553 Bane of Undead
-#Unit deals double damage to all Undead.#
+#Unit deals double damage to all Undead in melee, and 1.5x from range.#
 
 /554 Bane of Demons
-#Unit deals double damage to all Demons.#
+#Unit deals double damage to all Demons in melee, and 1.5x from range.#
 
 /555 Decreased Upkeep
 #Mercenary premium is reduced
@@ -2109,3 +2111,77 @@ by %d~.#
 
 /557 Mobility
 #Unit does not expend extra Stamina when attacking after moving.#
+
+/558 Heavenly Armor
+#Damage dealt to unit by creatures with negative karma is reduced by 10-30~ (depending on their karma) Bonuses for Heavenly Armor and Armor of Faith (if any) stack.
+Heavenly Armor only works when a unit's Morale is above 10.#
+
+/559 Cursed Armor
+#Damage dealt to unit by creatures with positive karma is reduced by 10-30~ (depending on their karma)#
+
+/560 Commander
+#With this unit alive, all allies on the battlefield receive +%d to all types of Attack and Defense.#
+
+/561 Commander
+#With this unit alive, all allies on the battlefield receive +%d to Attack.#
+
+/562 Commander
+#With this unit alive, all allies on the battlefield receive +%d to Counterattack.#
+
+/563 Commander
+#With this unit alive, all allies on the battlefield receive +%d to Defense.#
+
+/564 Commander
+#With this unit alive, all allies on the battlefield receive +%d to Ranged Defense.#
+
+/565 Commander
+#With this unit alive, all allies on the battlefield receive +%d to Resistance.#
+
+/566 Commander
+#With this unit alive, all allies on the battlefield receive +%d to Ranged Attack.#
+
+/567 Blacksmith
+#Every turn, the hero repairs his own equipment, restoring +%d Durability to all items.#
+
+/568 Doctor
+#Units in the hero's party heal %d~ faster.#
+
+/569 Authority
+#Units with negative karma in the hero's party receive an extra
+ +%d Morale.#
+
+/570 Leader
+#Units with positive karma in the hero's party receive an extra
+ +%d Morale.#
+
+/571 Inspired
+#Hero always starts battle with increased Morale.#
+
+/572 Magic Shield
+#Nearby allies receive +%d Resistance.#
+
+/573 Saboteur
+#Hero's sabotage power increased by %d.#
+
+/574 Spark
+#Each turn, unit may electrocute one random enemy unit nearby. If there are no enemies nearby, the ability cannot be used.#
+
+/575 Blast
+#When the unit dies, all nearby creatures will sustain a Blast spell.#
+
+/576 Mass Grounding Spell
+#Unit can cast Mass Grounding, which makes all allies immune to spells dealing electric damage, and increases Resistance by 1.
+Ammo units consumed by casting: %d.#
+
+/577 Mass Cold Immunity Spell
+#Unit can cast Mass Cold Immunity, which makes all allies immune to cold, and increases Defense by 1.
+Ammo units consumed by casting: %d.#
+
+/578 Gnoll Might
+#Gnoll's Attack increased by %d.
+In addition, every time another Gnoll, or any creature with this ability, dies on the battlefield, one of the remaining Gnolls absorbs their Gnoll Might ability.
+If the unit has Rebirth, each ability level increases the power of the new creature.#
+
+/579 Summon Eagle Spell
+#Unit can cast Summon Eagle spell, to summon an Eagle next to the caster.
+Ammo units consumed by casting: %d.#

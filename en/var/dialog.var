@@ -1,4 +1,4 @@
-Quantity: 2429
+Quantity: 2430
 
 /0
 Window: 0;
@@ -9525,7 +9525,7 @@ Number of enemies: %d.
 The following units were spotted among the enemies: %s.
 What are your orders, Master?#
 Answer1: Let them leave.;
-Answer2: Engage them! ;#####
+Answer2: Engage them!;#####
 
 /1241 Не тот сэйв
 Window: 2;
@@ -18616,3 +18616,11 @@ Bitmap: 0;
 Text: #Selling the selected units will earn you %d Astral Energy, but they will no longer be available to you as a bonus for attacking Shards. Are you sure you want to do this?#
 Answer1: Yes;
 Answer2: No;#####
+
+/2430 Дополнительные постройки/стражи
+Window: 2;
+Bitmap: 80;
+Text: #Your advisors report that the realm has reached such a size that, from now on, you can build one more building in provinces, as well as hire additional guards for your lands every turn.#
+Answer1: I see.;
+Answer2: Got it.;
+Answer3: I do not care...;#####

@@ -700,7 +700,7 @@ A suffocating stench surrounds the cadaver, affecting any living creature nearby
 #The banshee, also known as the Harbinger of Death, is a restless soul of an ancient era, consumed with savage malice and eternal vengeance against all living creatures. These disembodied manifestations of higher necromantic rituals are capable of wiping out an entire army by itself. The impending moment of a mortal's final breath is a banshee's feast as it devours without impunity. Its imperceptible touch bypasses all armor and shields, and all blades are useless against its ethereal form. Only a wizard of exceptional arcane power stands a chance against such an abomination.#
 
 173. Black Knight
-#Valiant warriors of a former era whose souls were forbidden to rest by the will of necromancers, black knights are cursed to traverse the realm of the living, converting the pure to the impure with their ghastly, frozen grasp. Their blades, forged in dark steel and infused with powerful magic, can effortlessly cut through plate. No armor can protect its wearer from the mighty blow of these enchanted blades.
+#Valiant warriors of a former era whose souls were forbidden to rest by the will of necromancers, black knights are cursed to traverse the realm of the living, converting the pure to the impure with their ghastly, frozen grasp. As former troop leaders, these Undead riders have not lost their aptitude to command: As before, they guide soldiers - whether alive or already dead - to victory. Their blades, forged in dark steel and infused with powerful magic, can effortlessly cut through plate. No armor can protect its wearer from the mighty blow of these enchanted blades.
 Black knights are also armed with spell-like abilities, capable of reducing the overall defense of an opponent. When a black knight slays a living creature, their last shred of life is drained, fueling the knight with sustenance. Like most undead servants, black knights are incapable of fear and fatigue, and can shrug off venoms and cold temperature, making an already deadly combatant a real force to be reckoned with.#
 
 174. Death Incarnate
@@ -775,7 +775,7 @@ Disobedience is not tolerated, often resulting in swift execution to lesser, reb
 
 193. Skeleton of Doom
 #These ancient skeletal guardians of undeath have been long buried and abandoned by rulers of former eras, where they remain, eternally protecting the sanctity of their tombs and crypts. These silent creatures will strike down any being who dares enter the forbidden chambers to plunder treasure.
-They have superior strength and durability compared to most undead and carry heavy weapons infused with magic that cannot be held by mortal men. Many sharp bony outgrowths dot the skeleton of this creature, creating a feeling that every bone is meant to injure nearby living creatures. Black wisps of smoke envelop the contour of the skeleton's structure, concealing its unnaturally fast movements. Recently, necromancers have uncovered the knowledge to conjure such creatures,
+They have superior strength and durability compared to most undead and carry heavy weapons infused with magic that cannot be held by mortal men. Many sharp bony outgrowths dot the skeleton of this creature, creating a feeling that every bone is meant to injure nearby living creatures. It's as if Darkness itself protects this terrible creature, capable of dipatching entire squads - plumes of smoke envelop the skeleton's contours, concealing its incredibly fast movements and even disguising allies standing nearby. Recently, necromancers have uncovered the knowledge to conjure such creatures,
 Few know the ritual, and even fewer are able to carry it out in the heat of battle.#
 
 194. Spectre
@@ -838,7 +838,7 @@ And while mighty warriors might be able to defeat this truly gruesome Gnoll, the
 
 207. Lord of Darkness
 #The origin of this rare being is not known. Scattered scrolls and manuscripts document the being as the result of a skeletal structure of undeath whose darkened vessel of a heart saturated with unrelenting hatred seizes a physical manifestation of power with a desire for vengeance against those who wronged it. Other legends refer to the Lord of Darkness as the result of a lich's desire to manifest the ultimate immortal guardian. Because of its rarity and lack of documented facts, one must approach this monstrosity with extreme caution.
-A Lord of Darkness almost always appears to be surrounded by several skeletons of Darkness, and sends these creepy creatures into battle like a real commander. In addition, his presence increases the power of allied Undead units on the battlefield. Inexperienced soldiers better not approach the Lord of Darkness - killing living beings enhances his strength, allowing him time and again to raise his minions from fallen enemies.#
+A Lord of Darkness almost always appears to be surrounded by several skeletons of Darkness, and sends these creepy creatures into battle like a real commander. In addition, his presence increases the power of allied Undead units on the battlefield. Inexperienced soldiers had better not approach the Lord of Darkness - killing living beings enhances his strength, allowing him again and again to raise minions from fallen enemies, who immediately follow their new master's orders.#
 
 208. Hnara
 #A vile creature, the hnara represents a wolf-shaped collection of bones. Often, though not necessarily, they are based on the skeleton of wolves, dogs, foxes, cats or other medium-sized animals. Although its shape is that of an animal, the hnara disturbingly has a human skull attached, thus invoking a sense of discomfort in those who encounter it. A fresh corpse for a necromantic ritual is not required. Under the influence of the spell, any bone, even from different creatures, no matter how long they have been dead, are going into a single frame that looks like the skeleton of an animal.
@@ -876,7 +876,7 @@ For the contract to be turned into a unit for a hero's party it is necessary to 
 
 218. Mephit
 #Elemental spirits live on their own Planes, and usually do not leave them voluntarily. Some powerful spellcasters are able to summon them to the Material Plane for a short time. The spirits materialize in a "body" composed of their element - this is the only way they can withstand hostile environment.
-Mephits are young elemental spirits of Air. Mephits are rather weak creatures, usually summoned by a Sorcerer's Apprentice, learning the wisdom and subtleties of summoning - if the student gets it wrong, there is no need to fear for their lives. The worst mephits could do is leave a room in a horrible mess by stirring up strong gusts of wind.#
+Mephits are lesser spirits of the Elemental Plane of Air. Mephits are rather weak creatures, usually summoned by a Sorcerer's Apprentice, learning the wisdom and subtleties of summoning - if the student gets it wrong, there is no need to fear for their lives. The worst mephits could do is leave a room in a horrible mess by stirring up strong gusts of wind.#
 
 219. Renegade
 #Certain "gentleman" outlaws prefer shooting over melee combat. Deftly hiding in trees, under bushes and behind thick trunks, they wait until their quarry has come within reach of their long distance shot, and then suddenly they will let loose. A melee attack by their comrades is typically preceded by a volley that can do a lot of damage.
@@ -903,7 +903,7 @@ Should the enemy miraculously survive the onslaught of giant rats, they will be 
 
 224. Magic Crystal
 #Conjuring a magic crystal is one of the oldest battle spells in Eador. They were first created by a mysterious race of Ancients. Facing the hordes of Chaos for the first time and running low on offensive spells, the mages of the Conclave attempted to wall themselves off from their enemies, by creating entire glittering walls of enormous crystals. The harmony present in the mathematically perfect structure of these crystal barriers was designed to repel the spawns of Hell... but it didn't work. So the mages repurposed the structures into defensive weapons.
-In this day and age, the secret of creating magic crystals is known to many wizards from different races of Eador. The crystals are used to fill gaps in defense lines or shape the battlefield to the caster's advantage. Even if the enemy is able to seriously damage a crystal, it bursts and cuts them down with razor-sharp diamond splinters.#
+In this day and age, the secret of creating magic crystals is known to many wizards from different races of Eador. The crystals are used to fill gaps in defense lines or shape the battlefield to the caster's advantage. It is capable of accumulating static charge, discharging when the opportunity arises. Even if the enemy is able to seriously damage a crystal, it bursts and cuts them down with razor-sharp diamond splinters.#
 
 225. Shadow Claw
 #Constantly sniffing for something is the very nature of the rat. Moreover, Skreets are masters of disguise without equal. Unsurprisingly, the best spies and assassins in Eador are Ratmen. Human assassins are slow, clumsy and conspicuous compared to Shadow Claws, as these Ratmen call themselves. Every Claw has mastered an impressive array of moves and techniques, which compensates for their lack of raw strength. Their greatest pride are their weapons - shadow swords. These special blades are forged with tiny pieces of Death Crystals, and imbued with a virulent poison. A blow from such a weapon immediately turns steel to rust, and even a tiny cut can be fatal. Rumor has it that resourceful Ratmen "borrowed" the idea for the swords along with the Shadow Claws' fighting style from their subterranean neighbors, the Drow, which would explain the similar names.#
@@ -1102,7 +1102,7 @@ The bolder halflings ride on the boar's back. Wild animals are no match for such
 #Elven warriors who have chosen the Path of Power can morph into a Grunas - a mighty beast, whose blows inflict pain throughout the body of whoever stands in their way.#
 
 284. Rugaru
-#Shape Shifters who follow the Path of Agility are able to morph into a Rugaru, a huge, terrifying, lightning-quick wolf, an encounter that never bodes well for the enemy.#
+#Shape Shifters who follow the Path of Agility are able to morph into a Hippogryph, a flying beast occasionally found in ancient thickets.#
 
 285. Na'ag
 #Nagas, or, as they call themselves, Na'ag - are beyond any doubt the strangest creatures of the Abyss. And it's not just their appearance, even if a face on a huge snake's body looks very strange - and scary. Nagas, unlike most demons, are sensible, inclined to make contact with mortals - though it rarely ends well for the latter, and do not get involved in a fight for the sake of fighting. Their motives are unknown, they do not answer even to greater Demons and Acherons, who don't even try to control them, which is amazing! - as if the Flame had expelled them for a special purpose.
@@ -1111,3 +1111,15 @@ In any event, fighting these snake-like monsters is terrifying. Quick, agile, ve
 286. Squire
 #Guardsmen rewarded for their dedication may earn the title of Squire - the first significant title on the way to nobility. Generally, along with the title, a lord offered the newly-made Squire their first serious property - a domain or village. And although many Knights chuckle at such "property", for a former Guardsman, it is a significant source of revenue for subsistence - or to buy new upgraded equipment and attire.
 A Squire's battle field equipment is significantly better than that of a Guardsman. Having realized the vital importance of protection, Squires often supplement their reinforced armor with large shields that protect well from stray arrows. Thanks to their training and combat skills developed as a Guardsman, they can hold their own against an entire enemy squad.#
+
+287. Quasit
+#Elemental spirits live on their own Planes, and usually do not leave them voluntarily. Some powerful spellcasters are able to summon them to the Material Plane for a short time. The spirits materialize in a "body" composed of their element - this is the only way they can withstand hostile environment.
+Quasits are lesser spirits of the Elemental Plane of Earth. Quasits are rather weak creatures, usually summoned by a Sorcerer's Apprentice, learning the wisdom and subtleties of summoning - if the student gets it wrong, there is no need to fear for their lives. Quasits are slow, but they have fairly rugged skin, which is able to regenerate over time.#
+
+288. Ifrit
+#Elemental spirits live on their own Planes, and usually do not leave them voluntarily. Some powerful spellcasters are able to summon them to the Material Plane for a short time. The spirits materialize in a "body" composed of their element - this is the only way they can withstand hostile environment.
+Ifrits are lesser spirits of the Elemental Plane of Fire. Unlike other lesser elementals, usually summoned by Sorcerer's Apprentices learning the wisdom and subtleties of summoning, novice mages should reconsider before summoning a fire elemental: Fire is the most unfriendly element for living creatures. Ifrits set fire to everything they touch, only to return to their homeworld in a flash of searing flames.#
+
+289. Naiad
+#Elemental spirits live on their own Planes, and usually do not leave them voluntarily. Some powerful spellcasters are able to summon them to the Material Plane for a short time. The spirits materialize in a "body" composed of their element - this is the only way they can withstand hostile environment.
+Naiads are lesser spirits of the Elemental Plane of Water. Naiads are rather weak creatures, usually summoned by a Sorcerer's Apprentice, learning the wisdom and subtleties of summoning - if the student gets it wrong, there is no need to fear for their lives. On the contrary, with a rather friendly disposition, Naiads tend to protect and heal their master.#

@@ -8,7 +8,7 @@
 #Commanders can lead large armies, and their skills are focused on improving the abilities of their soldiers. Commanders can use medium armor and shields.#
 
 /4 Wizard
-#Wizards possess the greatest amount of spells. Their skills are focused on enhancing the power of their incantations. They can use wands, but no armor, shields or melee weapons.#
+#Wizards possess the greatest amount of spells. Their skills are focused on enhancing the power of their incantations. They can use wands, but no armor, shields or melee weapons. Wizards are able to transcribe (from grimoire to scroll) spells one level higher than the stronghold allows.#
 
 /5 Holy Knight
 #At the end of the Warrior path the hero becomes a Holy Knight, able to crush the forces of the dark with his strikes. A Holy Knight knows how to heal his own wounds.#
@@ -23,7 +23,7 @@
 #A Warrior who has mastered the basics of dark magic becomes a Dark Knight, able to drink the souls of the enemies he defeats and inflict more damage to good creatures. A Dark Knight gets an extra slot for a Circle II spell.#
 
 /9 Adventurer
-#A Scout who has mastered the art of combat becomes an Adventurer, able to instantly change weapons in battle and obtain better rewards while searching locations and performing quests. An Adventurer is able to cripple enemies with their shots.#
+#A Scout who has mastered the art of combat becomes an Adventurer, changing weapons instantly in battle, and obtaining better rewards while searching locations and performing quests. The Adventurer cripples enemies with shots, and has access to the treasury.#
 
 /10 Archer
 #Once the path of the Scout is completed, the hero becomes an Archer, able to take two shots per turn.#
@@ -38,16 +38,16 @@
 #A Commander who has mastered the art of fighting becomes a Warlord, able to efficiently increase the defense of his units. A Commander's troops slowly recover health in battle.#
 
 /14 Tactician
-#A Commander who has mastered scouting skills becomes a Tactician, able to increase the ranged attack of his units.#
+#A Commander who has mastered scouting skills becomes a Tactician, able to increase the Attack of their units, and skillfully navigate rough terrain.#
 
 /15 General
-#Once the path of the Commander is completed, the hero becomes a General, able to increase the attack of his units.#
+#Once the path of the Commander is completed, the hero becomes a General, able to increase the Ranged Attack and Ammo of his marksmen.#
 
 /16 Priest
 #A Commander who has mastered the secrets of magic becomes a Priest, able to increase the morale and resistance of his units. Units in a Priest's army tolerate units of the opposite alignment.#
 
 /17 Battlemage
-#A Wizard who has mastered the art of fighting becomes a Battlemage, gaining higher resistance to hostile magic and the ability to better overcome enemy resistance. A Battlemage casts spells with more power.#
+#A Wizard who has mastered the art of fighting becomes a Battlemage, gaining higher resistance to hostile magic and the ability to better overcome enemy resistance. A Battlemage casts spells with more power, and has access to the library.#
 
 /18 Druid
 #A Wizard who masters the secrets of Scouting becomes a Druid, able to summon powerful creatures and to use wands efficiently. Druid spells consume less gems.#
@@ -86,10 +86,10 @@
 #After achieving perfection on the path of the Warlord, the hero becomes a Battlemaster, whose soldiers are believed to be invulnerable.#
 
 /30 Strategist
-#After mastering the path of the Tactician, the hero becomes a Strategist, whose skill of command over missile troops is unmatched.#
+#Having mastered the path of the Tactician, the hero becomes a Strategist, whose soldiers can crush any enemy on any terrain.#
 
 /31 Marshall
-#Having mastered the path of the General, the hero becomes a Marshall, whose soldiers can crush any enemy.#
+#After mastering the path of the General, the hero becomes a Marshall, whose skill of command over missile troops is unmatched.#
 
 /32 High Priest
 #Having reached the apex of the Priest mastery, the hero becomes a High Priest, whose soldiers are best protected from hostile magic, and know no fear.#

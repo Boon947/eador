@@ -1147,8 +1147,8 @@ Param2: 0;
 Name: Local Militia;
 Illustration: 28
 Power: 1
-GoldCost: 50
-GemGost: 5
+GoldCost: 120
+GemGost: 10
 GoldPayment: -1
 GemPayment: 0
 Building: 0
@@ -3900,7 +3900,7 @@ Param1: -20
 Param2: 0;
 
 /96
-Name: Drillers;
+Name: Plaguebringers;
 Illustration: 191
 Power: 4
 GoldCost: 180
@@ -3912,33 +3912,37 @@ Initiative: 2
 Karma: 0
 LootPoss: 10
 LootNum: 1
-NoDismiss: 0
+NoDismiss: 1
 Terrain:
 Plain: 1
-Forest: 0
+Forest: 1
 Hill: 1
-Swamp: 0
+Swamp: 1
 Desert: 0
 Tundra: 0
-Resource: (1, 5)
+Resource: (4, 5)
 Units:
-Unit1: 222, 12, 2
-Unit2: 221, 11, 2
-Unit3: 224, 10, 6
-Unit4: 225, 6, 2
-Unit5: 227, 5, 2;
+Unit1: 222, 16, 2
+Unit2: 221, 15, 2
+Unit3: 226, 14, 4
+Unit4: 223, 13, 3
+Unit5: 232, 10, 1;
 Loot:
 Item1: 2, 2
 Item2: 126, 1
 Item3: 84, 1;
 Ability:
 Ability: 1
-Param1: 25
+Param1: -20
 Param2: 0
 
 Ability: 2
 Param1: -1
-Param2: -12;
+Param2: -12
+
+Ability: 9
+Param1: -4
+Param2: 0;
 
 /97
 Name: Ratmen;

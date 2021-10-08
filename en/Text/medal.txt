@@ -7,23 +7,23 @@ The unit receives %d~ less experience in battle.#
 
 /2 Medal for Courage
 #Increases morale by 4 and Bloodlust by 1.
-Increases upkeep by 3 gold.#
+Gold upkeep +3.#
 
 /3 Medal of Valor
 #Increases attack by 3.
-Increases upkeep by +4 gold.#
+Gold Upkeep +4.#
 
 /4 Medal of Zeal
-#Increases stamina by 3 and recuperation by 1.
-Increases upkeep by +4 gold.#
+#Increases Stamina by 3 and recuperation by 1.
+Gold Upkeep +4.#
 
 /5 Medal of Resilience
 #Increases health by 5.
-Increases upkeep by +4 gold.#
+Gold Upkeep +4.#
 
 /6 Medal of Marksmanship
 #Increases precise shot by 2.
-Increases upkeep by +5 gold.#
+Gold upkeep +6.#
 
 /7 Order of the Marksman
 #Increases ranged attack by 2 and ammo by 1.
@@ -31,23 +31,23 @@ Gold upkeep +10.#
 
 /8 Healer's Medal
 #Increases healing by 1 and First Aid by 1.
-Increases upkeep by 1 gem.#
+Gem upkeep +1.#
 
 /9 Order of Salvation
 #Increases healing by 3.
-Increases upkeep by 3 gold. Increases upkeep by 2 gem.#
+Gold upkeep +3. Gem upkeep +2.#
 
 /10 Medal for Agility
 #Increases ranged defense by 3.
-Increases upkeep by +4 gold.#
+Gold Upkeep +4.#
 
 /11 Medal of Strength
 #Increases defense by 2.
-Increases upkeep by 3 gold.#
+Gold upkeep +3.#
 
 /12 Medal of Resolution
 #Increases resistance by 2.
-Increases upkeep by 3 gold.#
+Gold upkeep +3.#
 
 /13 Order of the Defender
 #Increases the armor and resistance by 2.
@@ -63,32 +63,32 @@ Gold upkeep +10.#
 
 /16 Scout's Ribbon
 #Grants Terrain Knowledge 1.
-Increases upkeep by +5 gold.#
+Gold upkeep +8. Gem upkeep +1.#
 
 /17 Medal of Mastery
 #Increases repair by 2.
-Increases upkeep by 3 gold.#
+Gold upkeep +3.#
 
 /18 Order of the Victor
 #Increases counterattack by 4 and grants Damage Weapon +2.
-Increases upkeep by +8 gold.#
+Gold upkeep +8.#
 
 /19 Shining Pennant
 #Grants Enchanted Arrows +4.
-Increases upkeep by +2 gold. Increases upkeep by 1 gem.#
+Gold upkeep +2. Gem upkeep +1.#
 
 /20 Medal of Expertise
 #Increases Energy Control by 1. Grants the ability Skillful Spellcaster 1.
-Increases upkeep by 1 gem.#
+Gem upkeep +1.#
 
 /21 Star of the Magister
 #Increases ranged attack by 2 and grants Astral Ammo +2.
-Increases upkeep by +5 gold. Increases upkeep by 2 gem.#
+Gold upkeep +5. Gem upkeep +2.#
 
 /22 Battlemage's Badge
-#Increases ammo by 1.
-Increases upkeep by 1 gem.#
+#Increases ammo by 2.
+Gem upkeep +1.#
 
 /23 Order of the Mage
 #Increases the power and duration of spells by 1 and summoning power by 4.
-Increases upkeep by 4 gem.#
+Gem upkeep +4.#

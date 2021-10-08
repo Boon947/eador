@@ -414,13 +414,13 @@ Giants - creatures of huge proportions. They cannot be trampled, and are unaffec
 
 Cultists - mortal creatures, willingly serving Chaos. Most of the rules for Mortals apply to them as well.
 
-The Undead - brisk with dark magic. They are immune to many harmful effects, but they are difficult to heal, do not earn medals, and cannot be resurrected or sacrificed.
+The Undead - brisk with dark magic. They are immune to many harmful effects, but they are difficult to heal, do not earn medals, and cannot be resurrected or sacrificed. Undead reduce Morale of other units in the party.
 
 Skeletons - Undead, animated bones devoid of flesh.
 
 Servants of Death - Undead, completely immune to both the few healing spells for the Restless Dead and the majority of spells against the Undead.
 
-Demons - the spawn of Chaos in the material world. Can be healed, resurrected, or awarded medals, but cannot be sacrificed.
+Demons - the spawn of Chaos in the material world. Can be healed, resurrected, or awarded medals, but cannot be sacrificed. Demons reduce Morale of other units in the party.
 
 Chaos Lord - a very powerful creature, spawn of Chaos. Immune to many spells, mainly pertaining to Chaos magic.
 

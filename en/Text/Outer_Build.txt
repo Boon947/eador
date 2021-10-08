@@ -338,7 +338,7 @@ Cannot be built in a swamp.#
 Yields 5 gems per turn.
 Population mood +1.
 Increases the mobility of a hero staying in this province by 1.
-Allows a hero staying in this province to use the Forest Corridor ritual.
+Allows a hero located in this province to use the Forest Corridor ritual (teleport instantly to castle).
 Can only be built in a forest.#
 
 57. Elven Sawmill

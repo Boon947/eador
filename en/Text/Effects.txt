@@ -47,7 +47,7 @@
 #A spell increased the unit's speed by 2.  The enchanted unit recovers 1 stamina point each turn.#
 
 16. Air Shield
-#A spell increased the unit's ranged defense by 4 and resistance by 1.#
+#A spell increased Ranged Defense by 6 and Resistance by 1.#
 
 17. Hex
 #A spell decreased all types of Defense and Resistance at least by 1. The unit's wounds cannot be healed.#
@@ -239,7 +239,7 @@
 #The searing power of Chaos fills the unit. It receives an extra turn for killing an enemy in melee. Counterattack is set to 1.#
 
 80. Hornet swarm
-#The unit has been stung by large poisonous  Each turn, it loses 2 HP and 1 stamina. When resting, unit is unable to recover health, stamina, and ammo.#
+#Unit has been stung by large poisonous insects. Each turn, it loses 2 HP and 1 stamina. When resting, unit is unable to recover health, stamina, and ammo.#
 
 81. Voracity
 #The unit's metabolism is significantly increased. While the spell operates, the unit has the ability Necrophage 10.#
@@ -250,8 +250,8 @@
 83. Swiftness
 #A spell increased the unit's speed by 1. Each turn the unit recovers 2 Stamina.#
 
-84. Demon Slayer
-#The unit deals more damage to evil creatures, especially demons and undead.#
+84. Bane of the Wicked
+#Unit deals more damage to evil creatures, double to Demons and Undead.#
 
 85. Grace
 #A spell increased all types of the unit's attack, defense and resistance by 2. It regains 2 hit points each turn.#
@@ -386,7 +386,7 @@
 #Reduces the unit's defense attributes by 4.#
 
 129. Cat's Reflexes
-#The unit gains the ability to attack enemies without being counterattacked, even against agile counterattack opponents.#
+#The unit gains the ability to attack enemies without being counterattacked, even against agile counterattack opponents. It is better able to parry strikes and dodge missiles.#
 
 130. Yrden Sign
 #The unit feels a horrible pain. It loses Health and Stamina each turn, Attack attributes are reduced.#
@@ -442,7 +442,7 @@ It loses 3 points of stamina and morale each turn.#
 #The unit's Attacks are increased at least by 1, and it deals magic damage.#
 
 147. Stone Crust
-#A thick Stone Crust covers the unit's entire body, increasing Armor by 4 and Resistance by 2, and prevents movement. If the caster is an ally, the unit recovers 4 HP each turn, if an enemy, it loses 4 HP.#
+#A thick Stone Crust covers the unit's entire body, increasing Armor by 5 and Resistance by 2, and prevents movement. If the caster is an ally, the unit recovers 5 HP each turn; if an enemy, they lose the health.#
 
 148. Mass Cold Immunity
 #The unit is immune to cold spells. Defense of the unit is increased by 1. Each turn the unit recovers 1 HP.#
@@ -460,7 +460,7 @@ It loses 3 points of stamina and morale each turn.#
 #The unit has been blinded and is unable to attack.#
 
 153. Celestial Shield
-#The unit is protected by holy power. This spell increases its ranged defense by 4 and resistance by 1.#
+#The unit is protected by holy power. This spell increases their Ranged Defense by 6 and Resistance by 1.#
 
 154. Hellfire
 #The unit's equipment burst into flame. The unit loses 3 hit points each turn.#
@@ -694,3 +694,6 @@ If the unit dies before digestion is complete, it will perish forever, and the s
 
 229. Mass Life Drain
 #Unit cannot fight in melee.#
+
+230. Gnoll Might
+#Unit's Attack increases. If the unit dies, accumulated power will be absorbed by someone else.#

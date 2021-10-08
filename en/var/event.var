@@ -1,4 +1,4 @@
-Quantity: 1907
+Quantity: 1908
 
 /0
 Type: 0
@@ -43768,7 +43768,6 @@ Index: 11
 Power: 1544
 Param1: 1545
 Param2: 50;
-Param2: 50;
 
 /1544 Новое логово оборотня - ведьмак, убил
 Type: 0
@@ -53609,3 +53608,37 @@ Index: 36
 Power: 69
 Param1: 1
 Param2: 150;
+
+/1908 Дополнительные постройки/стражи
+Type: 0
+Possibility: 0
+Dialog: 2430
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer2: 0
+Answer3: 0;
+
+*Effects*:
+Index: 8
+Power: 50
+Param1: 85
+Param2: 0
+
+Index: 17
+Power: 1908
+Param1: 85
+Param2: 0
+
+Index: 18
+Power: 1908
+Param1: 2
+Param2: 0;

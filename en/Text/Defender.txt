@@ -476,11 +476,12 @@ Improves population mood in the Alkari province by 1.#
 #A pack of Ratman guards does not bother the locals in the province - Ratmen can be invisible and inaudible when they want. However, the habit to go and browse through other people's food storage has consequences - the gold income from the province is quite noticeably decreased.
 Province income -20~.#
 
-96. Drillers
-#A troop of Ratman Drillers with their mates - quite a strong protection for the province. In peacetime, they look for useful deposits, extracting valuable resources from the ground. The locals in the area however, are not too happy about this.
-Can only be placed on plains and hills.
-Raises province income by 25~.
+96. Plaguebringers
+#From time to time, Ratmen led by Plague Masters form small packs, and begin to prepare for a "plague campaign", spreading various diseases among the population, usually accompanied by looting. How do they prepare? They do the same, only in your province! Obviously, this does not sit well with the population, but they can take it, for the sake of protection, right?
+This guard cannot be disbanded.
+Province income -20~.
 Population mood -1.
+Population growth -4.
 Does not lower the mood in Ratman provinces.#
 
 97. Ratmen

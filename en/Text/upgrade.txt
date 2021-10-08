@@ -607,7 +607,7 @@ Teach a unit to cast the "Quen" sign that increases armor and resistance.#
 #The unit is taught to cast the "Rune of Decay" spell, inflicting damage to an enemy mechanical unit and burn some ammo.#
 
 /202 Rune of Restoration
-#The unit is taught to cast the "Rune of Restoration" spell, restoring health to all friendly mechanical units.#
+#Teach unit to cast the "Rune of Restoration" spell, restoring health and ammo to all friendly mechanical units.#
 
 /203 Rune of Power
 #The unit is taught to cast the "Rune of Power" spell, with which you can take control of two enemy mechanical units.#
@@ -946,7 +946,7 @@ Teach a unit to cast the "Quen" sign that increases armor and resistance.#
 #The unit is taught to cast "Fire Rain" spell, inflicting damage to all units within a single tile and causing severe burns.#
 
 /315 Mass Fire Immunity Spell
-#The unit is taught to cast "Mass Fire Immunity" spell, granting to all friendly units immunity to fire and a slightly increasing their ranged defense. #
+#Teach unit to cast "Mass Fire Immunity", which makes all allies immune to fire, and slightly increases their Ranged Defense.#
 
 /316 Cleansing Flame Spell
 #The unit is taught to cast "Cleansing Flame" spell, inflicting damage to all units on the battlefield and igniting them. Caster loses 50 hit points.#
@@ -1218,7 +1218,7 @@ Does not affect the undead, mechanical units and heroes.#
 #The unit is taught to cast "Summon Demon", summoning a Demon to a tile adjacent to the summoner. The sacrifice of a friendly unit is required for this summoning.#
 
 /405 Demon Blood Spell
-#The unit is taught to cast the "Demon Blood" spell, inflicting damage to an enemy or a friendly demon and healing the injuries of the caster.#
+#Teach unit to cast the Demon Blood spell, inflicting damage to all enemy and allied demons within a 1-tile radius, and healing the caster.#
 
 /406 Mass Bless Spell
 #This unit learns the Mass Bless spell, which increases the attributes of all its allies, except Undead and Demons.#
@@ -1233,7 +1233,7 @@ Does not affect the undead, mechanical units and heroes.#
 #The unit is taught to cast "Dark Pact" spell, allowing friendly creatures to raise after death as a demon of corresponding rank.#
 
 /410 Ammo Bearer
-#The unit is taught to supply their neighbors with ammo on the battlefield. #
+#The unit is taught to supply their neighbors with ammo on the battlefield.#
 
 /411 Golem
 ##
@@ -2203,10 +2203,10 @@ Bloodsucker +10.#
 #The unit is taught to reduce the duration of poisoning and bleeding by 1 turn.#
 
 /718 Ammo Bearer +1
-#Increases the amount of ammo replenishment to the neighbor by 1.#
+#Increase the maximum amount of ammo restored to neighbors by 1.#
 
 /719 Supplier +1
-#Increases the amount of health supplied to neighbors by 1 and stamina by 1.#
+#Increase the amount of Health and Stamina restored to neighbors by 1.#
 
 /720 Steal Ammo +2
 #Increases stolen ammo by 2.#
@@ -2317,13 +2317,13 @@ Bloodsucker +10.#
 #Unit can cast the Forest Blessing spell on himself, increasing all types of Attack and Armor of all allies around him by 2, and also enabling them to recover additional health and stamina when resting.#
 
 /756 Path of Power
-#Choose battle form of Grunas. This powerful, heavy beast, part bear, part white tiger, has tremendous strength and endurance.#
+#Choose Grunas as yout battle form. This powerful, heavy beast, part bear, part white tiger, has tremendous strength and endurance.#
 
 /757 Path of Agility
-#Embrace battle form of Rugaru. This large, ferocious beast, like a huge wolf, has great speed and power.#
+#Choose Hippogryph as yout battle form. This winged monster has great speed and is capable of flying.#
 
 /758 Improved Charm Spell
-#Unit learns the Improved Charm spell, which increases the duration of positive spells on an ally, or negative spells on an enemy.#
+#Teach unit Improved Charm spell, which increases the duration of positive spells on an ally, or negative spells on an enemy, and heals summoned creatures.#
 
 /759 Shape Shifter
 ##
@@ -2401,10 +2401,10 @@ Bloodsucker +10.#
 #By choosing the Path of the Warrior, Pathfinder will increase his Ranged Attack and Ammo by 1, and Precise Shot by 2.#
 
 /784 Path of the Hunter
-#By choosing the Path of the Hunter, Pathfinder will reduces upkeep by 35 ~. First Aid will increase by 2.#
+#By choosing the Path of the Hunter, Pathfinder will reduce Upkeep by 40~. First Aid will increase by 2.#
 
-/785 Upkeep -35
-#Reduce gold and gem upkeep of the Pathfinder by 35~ more.#
+/785 Upkeep -40
+#Reduce Pathfinder's Gold and Gem Upkeep by an extra 40~.#
 
 /786 Spiritual Link Spell
 #Unit learns the Spiritual Link spell, which allows sharing the Stamina cost of spells cast by the enchanted creature.#
@@ -2419,13 +2419,13 @@ Bloodsucker +10.#
 #Unit learns the Soul Sipping spell, which deals damage to all enemies around the caster, and heals his own wounds.#
 
 /790 Bane of Mortals
-#Unit will deal double damage to all mortal creatures.#
+#Unit will deal increased damage to all mortal creatures.#
 
 /791 Bane of Undead
-#Unit will deal double damage to all Undead.#
+#Unit will deal increased damage to all Undead.#
 
 /792 Bane of Demons
-#Unit will deal double damage to all demons.#
+#Unit will deal increased damage to all Demons.#
 
 /793 Keep Running
 #Unit prefers defensive tactics.#
@@ -2444,3 +2444,105 @@ Bloodsucker +10.#
 
 /798 Become Smiting Hand
 #This unit may be promoted to Smiting Hand.#
+
+/799 Armor of Faith
+#Reduces damage from Undead and Demons by 20~.#
+
+/800 Heavenly Armor
+#Damage dealt to unit by creatures with negative karma is reduced by 10-30~ (depending on their karma)#
+
+/801 Cursed Armor
+#Damage dealt to unit by creatures with positive karma is reduced by 10-30~ (depending on their karma)#
+
+/802 Commander (All)
+#Unit grants all allies on the battlefield all types of Attack and Defense increased by 1.#
+
+/803 Commander (Attack)
+#Unit grants all allies on the battlefield Attack increased by 1.#
+
+/804 Commander (Counterattack)
+#Unit grants all allies on the battlefield Counterattack increased by 1.#
+
+/805 Commander (Defense)
+#Unit grants all allies on the battlefield Defense increased by 1.#
+
+/806 Commander (Ranged Defense)
+#Unit grants all allies on the battlefield Ranged Defense increased by 1.#
+
+/807 Commander (Resistance)
+#Unit grants all allies on the battlefield Resistance increased by 1.#
+
+/808 Commander (Ranged Attack)
+#Unit grants all allies on the battlefield Ranged Attack increased by 1.#
+
+/809 Commander (Ranged Defense)
+#Unit grants all allies nearby Ranged Defense increased by 1.#
+
+/810 Blacksmith
+#Every turn, the hero repairs his own equipment, restoring +1 Durability to all items.#
+
+/811 Doctor
+#Units in the hero's party heal 10~ faster.#
+
+/812 Authority
+#Units with negative karma in the hero's party receive an extra +5 Morale.#
+
+/813 Leader
+#Units with positive karma in the hero's party receive an extra +5 Morale.#
+
+/814 Inspired
+#Hero always starts battle with increased Morale.#
+
+/815 Trader
+#Every turn, the hero earns the treasury 20 gold.#
+
+/816 Alchemist
+#Every turn, the hero earns the treasury 7 crystals.#
+
+/817 Saboteur
+#Hero's sabotage power increased by 1.#
+
+/818 Initiative
+#Hero's Initiative increased by 1.#
+
+/819 Magic Shield
+#Nearby allies receive +1 Resistance.#
+
+/820 Flaming Blade
+#Unit's attack ignites the target, causing additional damage every turn.#
+
+/821 Blast
+#When the unit dies, all nearby creatures will sustain a Blast spell.#
+
+/822 Ifrit
+##
+
+/823 Mass Grounding Spell
+#Teach unit to cast Mass Grounding, which makes all allies immune to spells dealing electric damage, and increases Resistance by 1.#
+
+/824 Mass Cold Immunity Spell
+#Teach unit to cast Mass Cold Immunity, which makes all allies immune to cold, and increases Defense by 1.#
+
+/825 Magic Aura 2
+#Nearby allies receive +2 Resistance.#
+
+/826 Magic Aura +1
+#Increase unit's Magic Aura by 1.#
+
+/827 Undead Regeneration Spell
+#The unit is taught to cast "Undead Regeneration" spell, restoring health to friendly undead unit.#
+
+/828 Gnoll Might +1
+#Increase Gnoll Might ability by 1.#
+
+/829 Gnoll Might 2
+#Unit learns ability Gnoll Might 2.#
+
+/830 Gnoll Might 3
+#Unit learns ability Gnoll Might 3.#
+
+/831 Gnoll Might 4
+#Unit learns ability Gnoll Might 4.#
+
+/832 Summon Eagle Spell
+#Teach unit to cast Summon Eagle spell, to summon an Eagle next to the caster.#

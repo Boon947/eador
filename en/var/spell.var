@@ -1,4 +1,4 @@
-Quantity: 386
+Quantity: 389
 
 /0
 Name: Empty;
@@ -363,7 +363,7 @@ AntiEffect: (110)
 
 Effects:
 RangedDefence: 5
-Power: 4
+Power: 6
 Duration: 5
 
 Resist: 6
@@ -1658,14 +1658,14 @@ Cost: 15
 LifeCost: 0
 StamCost: 4
 ItemLevel: 3
-Level: 3
+Level: 2
 PowerMod: 0
 DurationMod: 100
 Target: 1
 Area: 1
 Radius: 0
 Karma: -5
-Building: 133
+Building: 84
 Unloot: 0
 Negative: 0
 OnEnemy: 0
@@ -1683,7 +1683,7 @@ AntiEffect: (100, 110, 215)
 Effects:
 DarkPact: 91
 Power: 1
-Duration: 10;
+Duration: 5;
 
 /44
 Name: Inferno;
@@ -1692,7 +1692,7 @@ LifeCost: 0
 StamCost: 4
 ItemLevel: 3
 Level: 3
-PowerMod: 200
+PowerMod: 300
 DurationMod: 0
 Target: 1
 Area: 1
@@ -1830,7 +1830,7 @@ Name: Mass Dispel;
 Cost: 15
 LifeCost: 0
 StamCost: 3
-ItemLevel: 3
+ItemLevel: 2
 Level: 3
 PowerMod: 0
 DurationMod: 0
@@ -1838,7 +1838,7 @@ Target: 0
 Area: 2
 Radius: 0
 Karma: 0
-Building: 136
+Building: 0
 Unloot: 0
 Negative: 1
 OnEnemy: 1
@@ -2440,7 +2440,7 @@ LifeCost: 0
 StamCost: 7
 ItemLevel: 4
 Level: 4
-PowerMod: 300
+PowerMod: 500
 DurationMod: 0
 Target: 0
 Area: 2
@@ -2477,7 +2477,7 @@ LifeCost: 0
 StamCost: 5
 ItemLevel: 4
 Level: 4
-PowerMod: 300
+PowerMod: 400
 DurationMod: 0
 Target: 1
 Area: 1
@@ -2514,7 +2514,7 @@ LifeCost: 0
 StamCost: 9
 ItemLevel: 5
 Level: 4
-PowerMod: 200
+PowerMod: 250
 DurationMod: 0
 Target: 3
 Area: 1
@@ -2537,7 +2537,7 @@ AntiEffect: (110, 101)
 
 Effects:
 Damage: 1
-Power: 10
+Power: 12
 Duration: -1
 
 ExplNorm: 242
@@ -2551,7 +2551,7 @@ LifeCost: 0
 StamCost: 4
 ItemLevel: 4
 Level: 4
-PowerMod: 100
+PowerMod: 75
 DurationMod: 0
 Target: 5
 Area: 1
@@ -2845,7 +2845,7 @@ Target: 3
 Area: 1
 Radius: 2
 Karma: 0
-Building: 0
+Building: 178
 Unloot: 0
 Negative: 1
 OnEnemy: 1
@@ -2867,11 +2867,11 @@ FlagEffect: 1
 
 DontMove: 36
 Power: 1
-Duration: 4
+Duration: 5
 
 DontFight: 38
 Power: 1
-Duration: 4;
+Duration: 5;
 
 /76
 Name: Create Golem;
@@ -2917,7 +2917,7 @@ LifeCost: 0
 StamCost: 7
 ItemLevel: 6
 Level: 4
-PowerMod: 100
+PowerMod: 50
 DurationMod: 0
 Target: 5
 Area: 1
@@ -5123,7 +5123,7 @@ LifeCost: 0
 StamCost: 1
 ItemLevel: 8
 Level: 5
-PowerMod: 200
+PowerMod: 300
 DurationMod: 0
 Target: 1
 Area: 1
@@ -5146,7 +5146,7 @@ AntiEffect: (14, 15, 80)
 
 Effects:
 Damage: 1
-Power: 4
+Power: 10
 Duration: -1;
 
 /136
@@ -5212,7 +5212,7 @@ AntiEffect: (0)
 
 Effects:
 Poison: 1
-Power: -2
+Power: -3
 Duration: 3
 
 Stamina: 11
@@ -5402,7 +5402,7 @@ Duration: -1;
 
 /143
 Name: Bane of the Wicked;
-Cost: 2
+Cost: 6
 LifeCost: 0
 StamCost: 1
 ItemLevel: 2
@@ -5433,12 +5433,12 @@ Smite_Evil: 120
 Power: 2
 Duration: 3
 
-UndeadHunter: 202
-Power: 2
+Undead_Horror: 288
+Power: 1
 Duration: 3
 
-DemonHunter: 203
-Power: 2
+Demon_Horror: 289
+Power: 1
 Duration: 3;
 
 /144
@@ -8016,14 +8016,14 @@ Cost: 30
 LifeCost: 0
 StamCost: 3
 ItemLevel: 3
-Level: 3
+Level: 2
 PowerMod: 0
-DurationMod: 200
+DurationMod: 50
 Target: 1
 Area: 1
 Radius: 0
 Karma: 0
-Building: 137
+Building: 82
 Unloot: 0
 Negative: 0
 OnEnemy: 0
@@ -8405,7 +8405,7 @@ AntiEffect: (110)
 
 Effects:
 RangedDefence: 5
-Power: 4
+Power: 6
 Duration: 4
 
 Resist: 6
@@ -8500,18 +8500,18 @@ Duration: 4;
 
 /225
 Name: Cat's Reflexes;
-Cost: 4
+Cost: 6
 LifeCost: 0
 StamCost: 1
 ItemLevel: 2
-Level: 1
+Level: 2
 PowerMod: 0
 DurationMod: 100
 Target: 1
 Area: 1
 Radius: 0
 Karma: 0
-Building: 23
+Building: 81
 Unloot: 0
 Negative: 0
 OnEnemy: 0
@@ -8533,6 +8533,14 @@ Duration: 4
 
 Preparation: 126
 Power: 1
+Duration: 4
+
+Parry: 53
+Power: 2
+Duration: 4
+
+Evasion: 222
+Power: 2
 Duration: 4;
 
 /226
@@ -8767,7 +8775,7 @@ Negative: 1
 OnEnemy: 1
 OnAlly: 0
 Sacrifice: 0
-ResistPower: 50
+ResistPower: 25
 ResistDuration: 0
 DefencePower: 0
 RestoreOnly: 0
@@ -8795,20 +8803,20 @@ Cost: 15
 LifeCost: 0
 StamCost: 3
 ItemLevel: 3
-Level: 2
+Level: 3
 PowerMod: 50
 DurationMod: 0
-Target: 1
+Target: 3
 Area: 1
-Radius: 0
+Radius: 1
 Karma: 0
-Building: 84
+Building: 133
 Unloot: 0
 Negative: 1
 OnEnemy: 1
 OnAlly: 1
 Sacrifice: 0
-ResistPower: 100
+ResistPower: 50
 ResistDuration: 0
 DefencePower: 0
 RestoreOnly: 0
@@ -8984,7 +8992,7 @@ LifeCost: 13
 StamCost: 5
 ItemLevel: 4
 Level: 3
-PowerMod: 100
+PowerMod: 75
 DurationMod: 0
 Target: 5
 Area: 1
@@ -9239,7 +9247,7 @@ LifeCost: 0
 StamCost: 5
 ItemLevel: 5
 Level: 3
-PowerMod: 100
+PowerMod: 50
 DurationMod: 0
 Target: 4
 Area: 1
@@ -9349,18 +9357,18 @@ Duration: -1;
 
 /246
 Name: Fatigue;
-Cost: 8
+Cost: 12
 LifeCost: 0
-StamCost: 2
+StamCost: 3
 ItemLevel: 2
-Level: 2
+Level: 3
 PowerMod: 100
 DurationMod: 0
-Target: 3
-Area: 1
+Target: 0
+Area: 2
 Radius: 1
 Karma: 0
-Building: 82
+Building: 137
 Unloot: 0
 Negative: 1
 OnEnemy: 1
@@ -10019,7 +10027,7 @@ AntiEffect: (110)
 Effects:
 StoneCrust: 225
 Power: 1
-Duration: 4;
+Duration: 5;
 
 /264
 Name: Mass Cold Immunity;
@@ -10093,15 +10101,15 @@ AntiEffect: (110)
 Effects:
 Air_Immunity: 103
 Power: 1
-Duration: 2
+Duration: 3
 
 Resist: 6
 Power: 1
-Duration: 2
+Duration: 3
 
 Stamina: 11
 Power: 1
-Duration: 2;
+Duration: 3;
 
 /266
 Name: Elemental Immunity;
@@ -11186,7 +11194,7 @@ LifeCost: 0
 StamCost: 2
 ItemLevel: 3
 Level: 1
-PowerMod: 100
+PowerMod: 250
 DurationMod: 0
 Target: 5
 Area: 1
@@ -11436,7 +11444,7 @@ LifeCost: 0
 StamCost: 1
 ItemLevel: 1
 Level: 1
-PowerMod: 50
+PowerMod: 35
 DurationMod: 0
 Target: 1
 Area: 1
@@ -11580,7 +11588,7 @@ LifeCost: 0
 StamCost: 1
 ItemLevel: 8
 Level: 5
-PowerMod: 100
+PowerMod: 150
 DurationMod: 0
 Target: 5
 Area: 1
@@ -14449,18 +14457,18 @@ Duration: 2;
 
 /374
 Name: Improved Charm;
-Cost: 9
+Cost: 5
 LifeCost: 0
-StamCost: 2
-ItemLevel: 3
-Level: 2
-PowerMod: 50
+StamCost: 1
+ItemLevel: 2
+Level: 1
+PowerMod: 0
 DurationMod: 0
 Target: 1
 Area: 0
 Radius: 0
 Karma: 0
-Building: 81
+Building: 23
 Unloot: 0
 Negative: 1
 OnEnemy: 1
@@ -14481,23 +14489,23 @@ FlagEffect: 2
 FlagEffect: -1
 
 Summon_heal: 296
-Power: 12
+Power: 10
 Duration: -1;
 
 /375
 Name: Mass Improved Charm;
-Cost: 25
+Cost: 20
 LifeCost: 0
-StamCost: 4
+StamCost: 3
 ItemLevel: 3
-Level: 4
+Level: 3
 PowerMod: 50
 DurationMod: 0
 Target: 0
 Area: 2
 Radius: 0
 Karma: 0
-Building: 178
+Building: 136
 Unloot: 1
 Negative: 1
 OnEnemy: 1
@@ -14514,7 +14522,7 @@ AntiEffect: (0)
 
 Effects:
 Enchant: 223
-FlagEffect: 3
+FlagEffect: 4
 FlagEffect: -1
 
 Summon_heal: 296
@@ -14523,14 +14531,14 @@ Duration: -1;
 
 /376
 Name: Gates of Death;
-Cost: 36
+Cost: 45
 LifeCost: 0
-StamCost: 5
+StamCost: 7
 ItemLevel: 5
 Level: 4
-PowerMod: 100
+PowerMod: 75
 DurationMod: 0
-Target: 0
+Target: 5
 Area: 1
 Radius: 0
 Karma: -3
@@ -14550,6 +14558,10 @@ UnitKind: (0)
 AntiEffect: (0)
 
 Effects:
+Summon: 251
+Power: 6
+Duration: -1
+
 Summon: 1193
 Power: 0
 Duration: -1;
@@ -14598,7 +14610,7 @@ LifeCost: 0
 StamCost: 3
 ItemLevel: 4
 Level: 3
-PowerMod: 100
+PowerMod: 150
 DurationMod: 0
 Target: 5
 Area: 1
@@ -14635,7 +14647,7 @@ LifeCost: 0
 StamCost: 2
 ItemLevel: 3
 Level: 2
-PowerMod: 100
+PowerMod: 200
 DurationMod: 0
 Target: 5
 Area: 1
@@ -14934,4 +14946,103 @@ FlagEffect: 1
 
 Damage: 1
 Power: 8
+Duration: -1;
+
+/387
+Name: Summon Quasit;
+Cost: 7
+LifeCost: 0
+StamCost: 2
+ItemLevel: 2
+Level: 1
+PowerMod: 150
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Unloot: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1287
+Power: 0
+Duration: -1;
+
+/388
+Name: Summon Ifrit;
+Cost: 8
+LifeCost: 0
+StamCost: 2
+ItemLevel: 2
+Level: 1
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Unloot: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1288
+Power: 0
+Duration: -1;
+
+/389
+Name: Summon Naiad;
+Cost: 6
+LifeCost: 0
+StamCost: 1
+ItemLevel: 1
+Level: 1
+PowerMod: 200
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Unloot: 0
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 19
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1289
+Power: 0
 Duration: -1;

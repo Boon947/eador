@@ -169,8 +169,8 @@ Lvl 5: Resistance Hero +1, Target -1#
 Lvl 1: Experience +10~, 1st circle Spell
 Lvl 2: Experience +10~, 1st circle Spell
 Lvl 3: Experience +10~, 2nd circle Spell
-Lvl 4: Experience +10~, 3rd circle Spell
-Lvl 5: Experience +10~, 4th circle Spell#
+Lvl 4: Experience +10~, 3rd circle Spell, Create scrolls 1 level higher
+Lvl 5: Experience +10~, 3rd circle Spell, Create scrolls at half price#
 
 /20 Wand Master
 #Wand Mastery not only increases the power and range of a ranged unit, but also increases its initiative.
@@ -188,7 +188,7 @@ Lvl 1: Subdue 1st rank Undead, Undead Power +1, +10~ HP per turn
 Lvl 2: Subdue 2nd rank Undead, Undead Power +2, +10~ HP per turn
 Lvl 3: Subdue 3rd rank Undead, Undead Power +1, +10~ HP per turn
 Lvl 4: Subdue 4th rank Undead, Undead Power +2, +10~ HP per turn
-Lvl 5: Undead Power +4, +20~ HP per turn#
+Lvl 5: Allows keeping in the party one 4th rank Undead unit, Undead Power +4, +20~ HP per turn#
 
 /22 Marksmanship
 #Marksmanship increases the power and range of the hero's ranged attacks.

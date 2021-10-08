@@ -54,7 +54,7 @@ Duration increases with the caster's Concentration.#
 #Circle 1.
 School: Elemental Magic.
 The effect of this spell is cumulative.
-Increases the ranged defense of the target by 4 and its magic resistance by 1. Lasts 5 turns.
+Increases target's Ranged Defense by 6 and Resistance by 1. Lasts 5 turns.
 Duration increases with the caster's Concentration.#
 
 10. Hex
@@ -277,10 +277,10 @@ Reduces the speed of all enemy units by 2. Lasts 6 turns.
 Duration increases with the caster's Concentration.#
 
 43. Dark Pact
-#Circle 3.
+#Circle 2.
 School: Chaos Magic.
 When a friendly unit under this spell dies, it returns to the battle again as a demon of the same rank.
-Lasts for 10 turns.
+Lasts for 5 turns.
 Duration increases with the caster's Concentration.
 Only works on Mortals.#
 
@@ -288,7 +288,7 @@ Only works on Mortals.#
 #Circle 3.
 School: Chaos Magic.
 Inflicts 20 points of magic damage on the target.
-Damage increases with the caster's Spellpower.
+Damage increases greatly with the caster's Spellpower.
 Does not affect demons.#
 
 45. Summon Demon
@@ -431,7 +431,7 @@ Damage increases greatly with the caster's Spellpower.#
 66. Firestorm
 #Circle 4.
 School: Elemental Magic.
-Inflicts 10 points of magic damage to all units within a range of 2 tiles.
+Deals 12 points of magic damage to all units within 2 tiles.
 Damage increases significantly with the caster's Spellpower.#
 
 67. Summon Devil
@@ -439,7 +439,7 @@ Damage increases significantly with the caster's Spellpower.#
 School: Chaos Magic.
 A friendly unit needs to be sacrificed for this incantation.
 Summons a Devil in a tile next to the caster.
-The summoning range and the Devil's attributes depend on the caster's Summoning skill.#
+The summoning range and the Devil's attributes depend slightly on the caster's Summoning skill.#
 
 68. Black Magic
 #Circle 4.
@@ -495,7 +495,7 @@ Does not affect the undead, mechanical units and heroes.#
 #Circle 4.
 School: Astral Magic.
 Puts all units within a range of 2 tiles to sleep. After their little nap, they awake.
-Lasts 4 turns. Duration increases with the caster's Concentration. Resistance protects only partially against this spell.
+Active for 5 turns. Duration increases with the caster's Concentration. Resistance protects only partially against this spell.
 No effect on the undead and mechanical units.#
 
 76. Create Golem
@@ -509,7 +509,7 @@ Afterwards the summoner will not be able to cast spells for 2 turns.#
 #Circle 4.
 School: Elemental Magic.
 A Phoenix is summoned in a tile next to the caster.
-The summoning range and the phoenix's attributes depend on the caster's Summoning skill.
+The summoning range and the Phoenix's attributes depend slightly on the caster's Summoning skill.
 Afterwards the summoner will not be able to cast spells for 4 turns.#
 
 78. Aard Sign
@@ -897,20 +897,20 @@ Has no effect on the Undead, Mechanical units, and Elementals.#
 
 135. Trap
 #Combat abilities.
-Inflicts 4 points of physical damage. Damage increases significantly with the caster's Spellpower.
+Deals 10 points of damage. Damage increases greatly with growing Spellpower.
 Magic Resistance and Magic Immunity offer no protection from this spell.
 Does not affect flying, floating, and incorporeal creatures.#
 
 136. Snare
 #Combat abilities.
-Consumes 5 stamina points. Effect increases with the caster's Spellpower.
+Consumes 5 stamina points. An ensnared enemy will lose the ability to attack and counterattack until their next turn. Effect increases with the caster's Spellpower.
 Magic Resistance and Magic Immunity offer no protection from this spell.
 Does not affect flying, floating, tireless, and incorporeal creatures.#
 
 137. Hornet swarm
 #School: Natural Magic.
 The effect of this spell is cumulative.
-Poisons an enemy unit, causing them to lose 2 HP and 1 Stamina point each turn. Unit is afflicted with negative effect Itch. Lasts 3 turns. Magic Resistance and Magic Immunity offer no protection from this spell.
+Poisons an enemy unit, causing them to lose 3 HP and 1 Stamina point each turn. Unit is afflicted with negative effect Itch. Lasts 3 turns. Magic Resistance and Magic Immunity offer no protection from this spell.
 Duration increases with the caster's Concentration.
 Has no effect on the Undead, Mechanical units, Elementals, Golems, and Artillery.#
 
@@ -946,7 +946,7 @@ Resistance protects only partially against this spell. Magic immunity does not a
 143. Bane of the Wicked
 #Circle 2.
 School: Sacred Magic.
-Grants the target the abilities Smite Evil 2, Hunter of Demons 2, and Hunter of Undead 2.
+Grants the target the abilities Smite Evil (2), Bane of Undead, and Bane of Demons.
 Lasts 3 turns.
 The effect slightly increases with the caster's Spellpower.
 The spell has no effect on undead and demons.#
@@ -1423,10 +1423,10 @@ Ignores magic immunity.
 Has no effect on Chaos Lords.#
 
 213. Eternal Slave
-#Circle 3.
+#Circle 2.
 School: Necromancy.
 When the target dies while under this spell, it will rise again. Lasts 5 turns.
-Duration increases significantly with the caster's Concentration.
+Duration slightly increases with the caster's Concentration.
 Only works on the Undead.#
 
 214. Word of Death
@@ -1489,7 +1489,7 @@ Only works on the Undead.#
 222. Celestial Shield
 #Circle 2.
 School: Sacred Magic.
-Increases ranged defense of all friendly units within 1 tile by 4 and resistance by 1. Lasts 4 turns.
+Increases ranged defense of all friendly units within 1 tile by 6 and resistance by 1. Lasts 4 turns.
 Duration increases with the caster's Concentration.
 The spell has no effect on undead and demons.#
 
@@ -1508,9 +1508,9 @@ Duration increases with the caster's Concentration.
 Has no effect on Chaos Lords and incorporeal creatures.#
 
 225. Cat's Reflexes
-#Circle 1.
+#Circle 2.
 School: Astral Magic.
-The target unit gains Vigilance and can attack enemies without incurring a counterattack.
+The enchanted creature gains Vigilance (ability to counterattack agile enemies), Parry (2), Dodge (2), and Agility (ability to attack enemies without risking a counterattack).
 Lasts 4 turns.
 Duration increases with the caster's Concentration.
 Has no effect on the Undead, Elementals, Mechanical units, and large creatures.#
@@ -1549,14 +1549,14 @@ Has no effect on the Undead, Mechanical units, and Elementals.#
 #Circle 4.
 School: Necromancy.
 Deals 5 damage to all enemy units, and disables attacks for 2 turns. Caster recovers health according to damage.
-Damage increases with the caster's Spellpower. Resistance protects only partially against this spell.
+Damage increases with the caster's Spellpower. Resistance has almost no protection against this spell.
 Has no effect on the Undead, Mechanical units, and Elementals.#
 
 232. Demon Blood
-#Circle 2.
+#Circle 3.
 School: Chaos Magic.
-Deals 10 points of damage to a friendly or enemy unit. The caster regains as many hit points as damage dealt.
-Damage increases slightly with the caster's Spellpower.
+Deals 10 damage to all friendly and enemy targets within 1 tile. The caster regains as many hit points as damage dealt.
+Damage increases slightly with the caster's Spellpower. Resistance protects only partially against this spell.
 Only works on Demons. Has no effect on Chaos Lords.#
 
 233. Mass Bless
@@ -1588,7 +1588,7 @@ Has no effect on the Undead, Mechanical units, and Elementals.#
 School: Chaos Magic.
 The caster loses 13 hit points.
 Summons a Destroyer in a tile next to the caster.
-The summoning range and the Destroyer's attributes depend on the caster's Summoning ability.#
+The summoning range and the Destroyer's attributes depend slightly on the caster's Summoning skill.#
 
 237. Chaos Distortion
 #Circle 3.
@@ -1637,7 +1637,7 @@ The Skeleton of Doom's attributes depend on the caster's Summoning and Necromanc
 #Circle 3.
 School: Necromancy.
 Creates a Spectre from the remains of a fallen.
-The Spectre's attributes depend on the caster's Summoning and Necromancy skills.#
+The Spectre's attributes depend slightly on Summoning and Necromancy skills.#
 
 244. Fearlessness
 #Circle 1.
@@ -1654,9 +1654,9 @@ Duration increases with the caster's Concentration.
 Only works on Artillery.#
 
 246. Fatigue
-#Circle 2.
+#Circle 3.
 School: Necromancy.
-All the enemy units within 1 tile lose 5 points of stamina.
+Drains 5 Stamina from all enemy units.
 Effect increases with the caster's Spellpower.
 Has no effect on the Undead, Mechanical units, and Elementals.#
 
@@ -1775,8 +1775,8 @@ The Lord of Darkness attributes depend on the caster's Summoning and Necromancy 
 263. Stone Crust
 #Circle 2.
 School: Elemental Magic.
-Immobilizes an enemy or friendly Mortal unit. The target's Armor increases by 4, Resistance by 2. Lasts 4 turns.
-An ally recovers 4 HP each turn, an enemy loses them.
+Immobilizes an enemy or friendly Mortal unit. The target's Armor increases by 5, Resistance by 2. Active for 5 turns.
+An ally recovers 5 HP each turn, an enemy loses them.
 Duration increases slightly with the caster's Concentration. Enemy resistance reduces the duration of the spell.#
 
 264. Mass Cold Immunity
@@ -1789,7 +1789,7 @@ Has no effect on Mechanical units and Elementals.#
 265. Mass Grounding
 #Circle 2.
 School: Elemental Magic.
-Grants all friendly units immunity to lightning based spells and increases resistance by 1. The unit restores 1 stamina point each turn. Lasts 2 turns.
+Grants all friendly units immunity to lightning based spells and increases resistance by 1. The unit restores 1 stamina point each turn. Lasts 3 turns.
 Duration increases significantly with the caster's Concentration.#
 
 266. Elemental Immunity
@@ -1857,7 +1857,7 @@ Only works on Artillery.#
 #Circle 1.
 School: Natural Magic.
 Summons a Wolf in a tile next to the caster.
-The summoning range and the wolf's attributes depend on the caster's Summoning ability.#
+Summoning range and the Wolf's attributes depend heavily on the caster's Summoning ability.#
 
 276. Summon Dire Bear
 #Circle 3.
@@ -1926,7 +1926,7 @@ Has no effect on the Undead, Mechanical units, and Elementals.#
 285. Summon Mephit
 #Circle 1.
 School: Elemental Magic.
-Summons a Mephit, a weak spirit of air, to a tile adjacent to the summoner.
+Summons a Mephit, a weak Air elemental, to a tile next to the caster.
 Summoning range and the Mephit's attributes depend heavily on the caster's Summoning ability.#
 
 286. Self-Sacrifice
@@ -1988,7 +1988,7 @@ Has no effect on the Undead, Mechanical units, and Elementals.#
 #Circle 1.
 School: Natural Magic.
 Summons a Giant Rat in a tile next to the caster.
-The summoning range and the Giant Rat's attributes depend on the caster's Summoning ability.#
+Summoning range and the Giant Rat's attributes depend heavily on the caster's Summoning ability.#
 
 295. Fever Hotbed
 #Circle 4.
@@ -2058,7 +2058,7 @@ The summoning range and the imp's attributes depend on the caster's Summoning sk
 #Circle 1.
 School: Chaos Magic.
 Summons Spawn in a tile next to the caster.
-The summoning range and the spawn's attributes depend on the caster's Summoning skill.#
+Summoning range and the Spawn's attributes depend heavily on the caster's Summoning ability.#
 
 305. Summon Fiend
 #Circle 2.
@@ -2529,24 +2529,24 @@ At the end of the spell the target loses half of its stamina and morale.
 Only works on Animals.#
 
 374. Improved Charm
-#Circle 2.
+#Circle 1.
 School: Astral Magic.
 Increases the duration of positive spells on an ally, or negative spells on an enemy by 2.
-If the spell's target is a summoned ally, then they recover 12 hit points.
-The effect slightly increases with the caster's Spellpower.#
+If the spell's target is a summoned ally, then they recover 10 hit points.
+The caster's Power does not affect this spell.#
 
 375. Mass Improved Charm
-#Circle 4.
+#Circle 3.
 School: Astral Magic.
-Increases the duration of positive spells on all allies, and negative spells on all enemies by 3.
+Increases the duration of positive spells on all allies, and negative spells on all enemies by 4.
 All summoned allies recover 16 hit points.
 The effect slightly increases with the caster's Spellpower.#
 
 376. Gates of Death
 #Circle 4.
 School: Necromancy.
-Creates Skeleton of Doom from every corpse on the battlefield.
-The Skeleton of Doom's attributes depend on the caster's Summoning and Necromancy skills.#
+Summons 7 Skeletons of Doom in a tile next to the caster.
+The Skeletons of Doom's attributes depend almost entirely on the Summoning and Necromancy skills.#
 
 377. Enchanted Grove
 #Circle 4.
@@ -2558,13 +2558,13 @@ Summoning range and the Huorns' attributes depend on the caster's Summoning skil
 #Circle 3.
 School: Natural Magic.
 Summons six Giant Rats to an adjacent tile.
-Summoning range and the Rats' attributes depend on the caster's Summoning ability.#
+Summoning range and the Rats' attributes depend heavily on the caster's Summoning ability.#
 
 379. Summon Eagle
 #Circle 2.
 School: Natural Magic.
 Summons a Giant Eagle to an adjacent tile.
-Summoning range and the Eagle's attributes depend on the caster's Summoning skill.#
+Summoning range and the Eagle's attributes depend heavily on the caster's Summoning ability.#
 
 380. Forest Protection
 #Circle 1.
@@ -2611,3 +2611,21 @@ School: Chaos Magic.
 Deals 8 magic damage to every enemy around the caster. Caster recovers health proportional to the damage dealt.
 Damage increases significantly with the caster's Spellpower.
 Has no effect on the Undead, Mechanical units, and Elementals.#
+
+387. Summon Quasit
+#Circle 1.
+School: Elemental Magic.
+Summons a Quasit, a weak Earth elemental, to a tile next to the caster.
+Summoning range and the Quasit's attributes depend heavily on the caster's Summoning ability.#
+
+388. Summon Ifrit
+#Circle 1.
+School: Elemental Magic.
+Summons an Ifrit, a weak Fire elemental, to a tile next to the caster.
+Summoning range and the Ifrit's attributes depend on the caster's Summoning skill.#
+
+389. Summon Naiad
+#Circle 1.
+School: Elemental Magic.
+Summons a Naiad, a weak Water elemental, to a tile next to the caster.
+Summoning range and the Naiad's attributes depend heavily on the caster's Summoning ability.#
