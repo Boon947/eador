@@ -3883,3 +3883,13 @@ Mеню (Esc)	Menu (Esc)
 Ругару	Rugaru
 ближнем бою	melee
 странник	Wanderer
+Небесная броня	Heavenly Armor
+Гиппогриф	Hippogryph
+Проклятая броня	Cursed Armor
+защите	Defense
+поле боя	battlefield
+Ифрит	Ifrit
+вокруг	nearby
+Мощь	Might
+квазит	Quasit
+Наяда	Naiad
