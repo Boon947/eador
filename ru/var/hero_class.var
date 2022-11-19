@@ -5,6 +5,7 @@ Talent2: 0, 0
 Talent3: 0, 0
 Talent4: 0, 0
 Talent5: 0, 0
+Talent6: 0, 0
 
 /2
 Name: Разведчик;
@@ -13,6 +14,7 @@ Talent2: 0, 0
 Talent3: 0, 0
 Talent4: 0, 0
 Talent5: 0, 0
+Talent6: 0, 0
 
 /3
 Name: Командир;
@@ -21,6 +23,7 @@ Talent2: 0, 0
 Talent3: 0, 0
 Talent4: 0, 0
 Talent5: 0, 0
+Talent6: 0, 0
 
 /4
 Name: Волшебник;
@@ -29,6 +32,7 @@ Talent2: 0, 0
 Talent3: 0, 0
 Talent4: 0, 0
 Talent5: 0, 0
+Talent6: 0, 0
 
 /5
 Name: Рыцарь Света;
@@ -36,7 +40,8 @@ Talent1: 35, 3
 Talent2: 120, 1
 Talent3: 202, 1
 Talent4: 203, 1
-Talent5: 960, 240
+Talent5: 232, 20
+Talent6: 960, 240
 
 /6
 Name: Убийца;
@@ -45,6 +50,7 @@ Talent2: 42, 2
 Talent3: 76, 2
 Talent4: 77, 2
 Talent5: 960, 239
+Talent6: 0, 0
 
 /7
 Name: Вождь;
@@ -53,6 +59,7 @@ Talent2: 990, 15
 Talent3: 997, 10
 Talent4: 960, 238
 Talent5: 0, 0
+Talent6: 0, 0
 
 /8
 Name: Рыцарь Тьмы;
@@ -61,14 +68,16 @@ Talent2: 121, 1
 Talent3: 902, 1
 Talent4: 960, 241
 Talent5: 0, 0
+Talent6: 0, 0
 
 /9
 Name: Авантюрист;
 Talent1: 195, 1
 Talent2: 980, 1
-Talent3: 987, 50
-Talent4: 985, 100
-Talent5: 960, 243
+Talent3: 128, 2
+Talent4: 987, 50
+Talent5: 985, 100
+Talent6: 960, 243
 
 /10
 Name: Стрелок;
@@ -77,14 +86,16 @@ Talent2: 960, 242
 Talent3: 0, 0
 Talent4: 0, 0
 Talent5: 0, 0
+Talent6: 0, 0
 
 /11
 Name: Главарь;
 Talent1: 992, 3
-Talent2: 982, 50
+Talent2: 982, 100
 Talent3: 998, 1
 Talent4: 960, 244
 Talent5: 0, 0
+Talent6: 0, 0
 
 /12
 Name: Егерь;
@@ -93,6 +104,7 @@ Talent2: 1033, 1
 Talent3: 1034, 1
 Talent4: 999, 2
 Talent5: 960, 245
+Talent6: 0, 0
 
 /13
 Name: Воевода;
@@ -101,22 +113,25 @@ Talent2: 1005, 1
 Talent3: 1021, 1
 Talent4: 1035, 2
 Talent5: 960, 247
+Talent6: 0, 0
 
 /14
 Name: Тактик;
 Talent1: 1002, 2
-Talent2: 1032, 1
-Talent3: 1033, 1
-Talent4: 1034, 1
-Talent5: 960, 248
+Talent2: 1003, 1
+Talent3: 1032, 1
+Talent4: 1033, 1
+Talent5: 1034, 1
+Talent6: 960, 248
 
 /15
 Name: Генерал;
-Talent1: 1008, 2
+Talent1: 1008, 1
 Talent2: 1010, 1
 Talent3: 999, 1
 Talent4: 960, 246
 Talent5: 0, 0
+Talent6: 0, 0
 
 /16
 Name: Жрец;
@@ -125,6 +140,7 @@ Talent2: 1012, 2
 Talent3: 1098, 1
 Talent4: 902, 1
 Talent5: 960, 249
+Talent6: 0, 0
 
 /17
 Name: Чародей;
@@ -133,6 +149,7 @@ Talent2: 905, 2
 Talent3: 908, 2
 Talent4: 960, 251
 Talent5: 0, 0
+Talent6: 0, 0
 
 /18
 Name: Друид;
@@ -141,6 +158,7 @@ Talent2: 983, 25
 Talent3: 994, 4
 Talent4: 95, 2
 Talent5: 960, 252
+Talent6: 0, 0
 
 /19
 Name: Некромант;
@@ -149,6 +167,7 @@ Talent2: 910, 1
 Talent3: 906, 1
 Talent4: 960, 253
 Talent5: 0, 0
+Talent6: 0, 0
 
 /20
 Name: Маг;
@@ -157,6 +176,7 @@ Talent2: 960, 250
 Talent3: 0, 0
 Talent4: 0, 0
 Talent5: 0, 0
+Talent6: 0, 0
 
 /21
 Name: Паладин;
@@ -165,6 +185,7 @@ Talent2: 35, 5
 Talent3: 120, 1
 Talent4: 902, 1
 Talent5: 960, 265
+Talent6: 0, 0
 
 /22
 Name: Мастер-убийца;
@@ -173,6 +194,7 @@ Talent2: 41, 2
 Talent3: 42, 2
 Talent4: 960, 264
 Talent5: 0, 0
+Talent6: 0, 0
 
 /23
 Name: Великий вождь;
@@ -181,6 +203,7 @@ Talent2: 66, 4
 Talent3: 990, 20
 Talent4: 997, 15
 Talent5: 960, 263
+Talent6: 0, 0
 
 /24
 Name: Рыцарь Смерти;
@@ -189,14 +212,16 @@ Talent2: 121, 2
 Talent3: 902, 1
 Talent4: 903, 1
 Talent5: 960, 266
+Talent6: 0, 0
 
 /25
 Name: Головорез;
 Talent1: 23, 6
-Talent2: 999, 2
-Talent3: 987, 50
-Talent4: 960, 268
-Talent5: 0, 0
+Talent2: 127, 2
+Talent3: 999, 2
+Talent4: 987, 50
+Talent5: 960, 268
+Talent6: 0, 0
 
 /26
 Name: Снайпер;
@@ -205,14 +230,16 @@ Talent2: 960, 267
 Talent3: 0, 0
 Talent4: 0, 0
 Talent5: 0, 0
+Talent6: 0, 0
 
 /27
 Name: Атаман;
 Talent1: 992, 3
-Talent2: 1007, 1
+Talent2: 982, 100
 Talent3: 998, 1
-Talent4: 960, 269
-Talent5: 0, 0
+Talent4: 1007, 1
+Talent5: 960, 269
+Talent6: 0, 0
 
 /28
 Name: Следопыт;
@@ -221,6 +248,7 @@ Talent2: 1033, 2
 Talent3: 1034, 2
 Talent4: 999, 1
 Talent5: 960, 270
+Talent6: 0, 0
 
 /29
 Name: Полководец;
@@ -229,6 +257,7 @@ Talent2: 1005, 1
 Talent3: 1021, 1
 Talent4: 1035, 2
 Talent5: 960, 272
+Talent6: 0, 0
 
 /30
 Name: Стратег;
@@ -237,14 +266,16 @@ Talent2: 1003, 2
 Talent3: 960, 273
 Talent4: 0, 0
 Talent5: 0, 0
+Talent6: 0, 0
 
 /31
 Name: Маршал;
-Talent1: 999, 1
+Talent1: 1008, 1
 Talent2: 1010, 1
 Talent3: 960, 271
 Talent4: 0, 0
 Talent5: 0, 0
+Talent6: 0, 0
 
 /32
 Name: Верховный жрец;
@@ -253,6 +284,7 @@ Talent2: 1012, 2
 Talent3: 903, 1
 Talent4: 960, 274
 Talent5: 0, 0
+Talent6: 0, 0
 
 /33
 Name: Боевой чародей;
@@ -261,6 +293,7 @@ Talent2: 905, 1
 Talent3: 908, 3
 Talent4: 960, 276
 Talent5: 0, 0
+Talent6: 0, 0
 
 /34
 Name: Верховный друид;
@@ -269,6 +302,7 @@ Talent2: 983, 25
 Talent3: 994, 4
 Talent4: 95, 2
 Talent5: 960, 277
+Talent6: 0, 0
 
 /35
 Name: Мастер-некромант;
@@ -277,6 +311,7 @@ Talent2: 910, 1
 Talent3: 906, 1
 Talent4: 960, 278
 Talent5: 0, 0
+Talent6: 0, 0
 
 /36
 Name: Архимаг;
@@ -285,3 +320,4 @@ Talent2: 953, 1
 Talent3: 960, 275
 Talent4: 0, 0
 Talent5: 0, 0
+Talent6: 0, 0

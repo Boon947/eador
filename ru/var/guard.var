@@ -1,4 +1,4 @@
-Quantity: 491
+Quantity: 495
 
 /0 Пусто
 Quantity: 5/1
@@ -2624,7 +2624,11 @@ Initiative: 2/1
 Unit1: 153, 3, 1, 1
 Unit2: 154, 3, 1, 1
 Unit3: 118, 3, 0, 1
-Unit4: 155, 3, 0, 1;
+Unit4: 155, 3, 0, 1
+Unit5: 218, 7, 0, 2
+Unit6: 287, 5, 0, 2
+Unit7: 289, 6, 0, 2
+Unit8: 288, 4, 0, 2;
 LootPoss: 5
 MaxLoot: 2
 Power: 5
@@ -2638,7 +2642,11 @@ Initiative: 3/1
 Unit1: 153, 6, 1, 2
 Unit2: 154, 6, 1, 1
 Unit3: 118, 6, 1, 1
-Unit4: 155, 6, 0, 1;
+Unit4: 155, 6, 0, 1
+Unit5: 218, 10, 0, 3
+Unit6: 287, 8, 0, 2
+Unit7: 289, 9, 0, 2
+Unit8: 288, 7, 0, 2;
 LootPoss: 7
 MaxLoot: 3
 Power: 7
@@ -2652,7 +2660,11 @@ Initiative: 2/1
 Unit1: 153, 9, 1, 2
 Unit2: 154, 9, 1, 2
 Unit3: 118, 9, 1, 1
-Unit4: 155, 9, 1, 1;
+Unit4: 155, 9, 1, 1
+Unit5: 218, 13, 0, 3
+Unit6: 287, 11, 0, 3
+Unit7: 289, 12, 0, 2
+Unit8: 288, 10, 0, 2;
 LootPoss: 9
 MaxLoot: 4
 Power: 9
@@ -2666,7 +2678,11 @@ Initiative: 2/1
 Unit1: 153, 12, 2, 1
 Unit2: 154, 12, 1, 1
 Unit3: 118, 12, 2, 1
-Unit4: 155, 12, 1, 1;
+Unit4: 155, 12, 1, 1
+Unit5: 218, 16, 0, 2
+Unit6: 287, 14, 0, 2
+Unit7: 289, 15, 0, 2
+Unit8: 288, 13, 0, 2;
 LootPoss: 11
 MaxLoot: 5
 Power: 12
@@ -3012,7 +3028,7 @@ Unit1: 164, 30, 1, 1
 Unit2: 163, 20, 6, 3;
 LootPoss: 22
 MaxLoot: 3
-Power: 14
+Power: 10
 Item1: 1, 1
 Item2: 17, 1
 Item3: 63, 1;
@@ -3031,7 +3047,7 @@ Unit8: 75, 1, 1, 0
 Unit9: 74, 3, 0, 1;
 LootPoss: 15
 MaxLoot: 1
-Power: 15
+Power: 11
 Item1: 1, 1
 Item2: 17, 1
 Item3: 63, 1;
@@ -3050,7 +3066,7 @@ Unit8: 75, 3, 1, 0
 Unit9: 74, 6, 0, 1;
 LootPoss: 17
 MaxLoot: 2
-Power: 18
+Power: 13
 Item1: 1, 1
 Item2: 17, 1
 Item3: 63, 1;
@@ -3069,7 +3085,7 @@ Unit8: 75, 5, 1, 0
 Unit9: 74, 9, 0, 1;
 LootPoss: 19
 MaxLoot: 3
-Power: 20
+Power: 15
 Item1: 1, 1
 Item2: 17, 1
 Item3: 63, 1;
@@ -3088,7 +3104,7 @@ Unit8: 75, 7, 1, 0
 Unit9: 74, 12, 0, 1;
 LootPoss: 22
 MaxLoot: 3
-Power: 22
+Power: 17
 Item1: 1, 1
 Item2: 17, 1
 Item3: 63, 1;
@@ -3111,7 +3127,7 @@ Unit12: 190, 25, 1, 3
 Unit13: 160, 15, 1, 0;
 LootPoss: 22
 MaxLoot: 3
-Power: 16
+Power: 18
 Item1: 1, 1
 Item2: 17, 1
 Item3: 63, 1;
@@ -3133,7 +3149,7 @@ Initiative: 1/1
 Unit1: 76, 5, 2, 1;
 LootPoss: 15
 MaxLoot: 1
-Power: 8
+Power: 6
 Item1: 1, 1
 Item2: 17, 1
 Item3: 63, 1;
@@ -3144,7 +3160,7 @@ Initiative: 1/2
 Unit1: 76, 8, 3, 1;
 LootPoss: 15
 MaxLoot: 1
-Power: 12
+Power: 10
 Item1: 1, 1
 Item2: 17, 1
 Item3: 63, 1;
@@ -3155,7 +3171,7 @@ Initiative: 2/1
 Unit1: 76, 11, 4, 1;
 LootPoss: 15
 MaxLoot: 1
-Power: 16
+Power: 14
 Item1: 1, 1
 Item2: 17, 1
 Item3: 63, 1;
@@ -3166,7 +3182,7 @@ Initiative: 2/2
 Unit1: 76, 14, 5, 1;
 LootPoss: 15
 MaxLoot: 1
-Power: 20
+Power: 18
 Item1: 1, 1
 Item2: 17, 1
 Item3: 63, 1;
@@ -3827,7 +3843,7 @@ Initiative: 1/1
 Unit1: 220, 8, 1, 1;
 LootPoss: 12
 MaxLoot: 1
-Power: 3
+Power: 4
 Item1: 1, 1
 Item2: 17, 1
 Item3: 63, 1;
@@ -3838,7 +3854,7 @@ Initiative: 1/2
 Unit1: 220, 12, 2, 1;
 LootPoss: 14
 MaxLoot: 1
-Power: 4
+Power: 7
 Item1: 1, 1
 Item2: 17, 1
 Item3: 63, 1;
@@ -3849,7 +3865,7 @@ Initiative: 2/2
 Unit1: 220, 12, 2, 1;
 LootPoss: 17
 MaxLoot: 1
-Power: 6
+Power: 9
 Item1: 1, 1
 Item2: 17, 1
 Item3: 63, 1;
@@ -4182,14 +4198,15 @@ Item2: 17, 1
 Item3: 63, 1;
 
 /294 Культ Огня
-Quantity: 12/4
+Quantity: 10/4
 Initiative: 2/3
-Unit1: 9, 15, 3, 3
-Unit2: 85, 7, 2, 3
+Unit1: 9, 15, 2, 3
+Unit2: 85, 7, 1, 3
 Unit3: 87, 15, 2, 2
-Unit4: 155, 10, 2, 1
-Unit5: 161, 20, 2, 0
-Unit6: 201, 15, 1, 0;
+Unit4: 288, 12, 2, 2
+Unit5: 155, 10, 1, 1
+Unit6: 161, 20, 1, 0
+Unit7: 201, 15, 1, 0;
 LootPoss: 12
 MaxLoot: 1
 Power: 17
@@ -4198,30 +4215,32 @@ Item2: 130, 1
 Item3: 73, 1;
 
 /295 Культ Воды
-Quantity: 12/4
+Quantity: 10/4
 Initiative: 2/2
-Unit1: 69, 15, 3, 3
-Unit2: 68, 7, 2, 3
+Unit1: 69, 15, 2, 3
+Unit2: 68, 7, 1, 3
 Unit3: 211, 15, 2, 2
-Unit4: 118, 10, 2, 1
-Unit5: 161, 20, 2, 0
-Unit6: 201, 15, 1, 0;
+Unit4: 289, 14, 2, 2
+Unit5: 118, 10, 1, 1
+Unit6: 161, 20, 1, 0
+Unit7: 201, 15, 1, 0;
 LootPoss: 12
 MaxLoot: 1
-Power: 18
+Power: 16
 Item1: 4, 2
 Item2: 130, 1
 Item3: 73, 1;
 
 /296 Культ Воздуха
-Quantity: 12/4
+Quantity: 11/4
 Initiative: 3/2
-Unit1: 17, 15, 4, 3
+Unit1: 17, 15, 2, 3
 Unit2: 90, 12, 2, 3
 Unit3: 47, 7, 1, 2
-Unit4: 153, 10, 2, 1
-Unit5: 161, 20, 2, 0
-Unit6: 201, 15, 1, 0;
+Unit4: 218, 18, 3, 2
+Unit5: 153, 10, 1, 1
+Unit6: 161, 20, 1, 0
+Unit7: 201, 15, 1, 0;
 LootPoss: 12
 MaxLoot: 1
 Power: 17
@@ -4230,14 +4249,15 @@ Item2: 130, 1
 Item3: 73, 1;
 
 /297 Культ Земли
-Quantity: 14/2
+Quantity: 10/5
 Initiative: 1/2
-Unit1: 83, 7, 5, 3
-Unit2: 80, 7, 3, 2
-Unit3: 217, 15, 1, 1
-Unit4: 154, 10, 2, 2
-Unit5: 161, 20, 2, 0
-Unit6: 201, 15, 1, 0;
+Unit1: 83, 7, 2, 3
+Unit2: 80, 7, 2, 2
+Unit3: 217, 15, 1, 2
+Unit4: 287, 13, 2, 2
+Unit5: 154, 10, 1, 1
+Unit6: 161, 20, 1, 0
+Unit7: 201, 15, 1, 0;
 LootPoss: 12
 MaxLoot: 1
 Power: 17
@@ -5395,7 +5415,7 @@ Initiative: 0/1
 Unit1: 63, 4, 1, 0;
 LootPoss: 0
 MaxLoot: 0
-Power: 2
+Power: 3
 Item1: 1, 1
 Item2: 17, 1
 Item3: 63, 1;
@@ -5406,7 +5426,7 @@ Initiative: 1/1
 Unit1: 63, 7, 2, 1;
 LootPoss: 0
 MaxLoot: 0
-Power: 4
+Power: 6
 Item1: 1, 1
 Item2: 17, 1
 Item3: 63, 1;
@@ -5417,7 +5437,7 @@ Initiative: 1/2
 Unit1: 63, 10, 3, 2;
 LootPoss: 0
 MaxLoot: 0
-Power: 7
+Power: 9
 Item1: 1, 1
 Item2: 17, 1
 Item3: 63, 1;
@@ -5428,7 +5448,7 @@ Initiative: 2/2
 Unit1: 63, 13, 4, 3;
 LootPoss: 0
 MaxLoot: 0
-Power: 10
+Power: 11
 Item1: 1, 1
 Item2: 17, 1
 Item3: 63, 1;
@@ -6721,7 +6741,7 @@ Unit3: 91, 1, 1, 1
 Unit4: 59, 2, 1, 0;
 LootPoss: 5
 MaxLoot: 1
-Power: 3
+Power: 4
 Item1: 1, 1
 Item2: 17, 1
 Item3: 63, 1;
@@ -6737,7 +6757,7 @@ Unit5: 36, 6, 1, 1
 Unit6: 59, 5, 1, 0;
 LootPoss: 8
 MaxLoot: 1
-Power: 5
+Power: 6
 Item1: 1, 1
 Item2: 17, 1
 Item3: 63, 1;
@@ -6755,7 +6775,7 @@ Unit7: 55, 4, 1, 1
 Unit8: 59, 8, 1, 0;
 LootPoss: 12
 MaxLoot: 1
-Power: 8
+Power: 9
 Item1: 1, 1
 Item2: 17, 1
 Item3: 63, 1;
@@ -6775,7 +6795,7 @@ Unit9: 64, 4, 1, 1
 Unit10: 237, 7, 1, 0;
 LootPoss: 15
 MaxLoot: 2
-Power: 11
+Power: 13
 Item1: 1, 1
 Item2: 17, 1
 Item3: 63, 1;
@@ -7024,3 +7044,59 @@ Power: 10
 Item1: 1, 1
 Item2: 2, 1
 Item3: 3, 1;
+
+/492 Стихийные духи 0
+Quantity: 2/3
+Initiative: 0/2
+Unit1: 218, 4, 1, 3
+Unit2: 287, 3, 1, 2
+Unit3: 288, 2, 0, 1
+Unit4: 289, 3, 0, 3;
+LootPoss: 5
+MaxLoot: 1
+Power: 2
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/493 Стихийные духи 1
+Quantity: 4/3
+Initiative: 1/3
+Unit1: 218, 8, 1, 3
+Unit2: 287, 5, 1, 2
+Unit3: 288, 4, 1, 1
+Unit4: 289, 7, 1, 3;
+LootPoss: 5
+MaxLoot: 1
+Power: 4
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/494 Стихийные духи 2
+Quantity: 6/4
+Initiative: 2/4
+Unit1: 218, 12, 1, 3
+Unit2: 287, 8, 2, 2
+Unit3: 288, 12, 2, 1
+Unit4: 289, 10, 1, 3;
+LootPoss: 5
+MaxLoot: 1
+Power: 6
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/495 Стихийные духи 3
+Quantity: 10/6
+Initiative: 3/5
+Unit1: 218, 18, 2, 3
+Unit2: 287, 11, 3, 2
+Unit3: 288, 15, 3, 1
+Unit4: 289, 16, 2, 3;
+LootPoss: 5
+MaxLoot: 1
+Power: 8
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;

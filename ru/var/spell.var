@@ -5431,15 +5431,15 @@ AntiEffect: (0)
 Effects:
 Smite_Evil: 120
 Power: 2
-Duration: 3
+Duration: 6
 
 Undead_Horror: 288
 Power: 1
-Duration: 3
+Duration: 6
 
 Demon_Horror: 289
 Power: 1
-Duration: 3;
+Duration: 6;
 
 /144
 Name: Благодать;
@@ -10455,7 +10455,7 @@ LifeCost: 0
 StamCost: 1
 ItemLevel: 2
 Level: 1
-PowerMod: 300
+PowerMod: 250
 DurationMod: 0
 Target: 5
 Area: 1
@@ -12911,7 +12911,7 @@ Power: 1
 Duration: 3
 
 Bloodlust: 197
-Power: 2
+Power: 1
 Duration: 3
 
 Resist: 212
@@ -13675,7 +13675,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 272
 UnitKind: (3)
-AntiEffect: (110)
+AntiEffect: (110, 101)
 
 Effects:
 Damage: 1

@@ -1554,8 +1554,8 @@ Items: 204, 235
 Bonus: 1
 
 Items: 2
-Poison_Shot: 42
-Power: 2
+BleedingShot: 156
+Power: 3
 Area: 0;
 
 

@@ -1210,7 +1210,10 @@ Guard: 57
 Poss: 2
 
 Guard: 138
-Poss: 1;
+Poss: 1
+
+Guard: 165
+Poss: 2;
 
 Ability:
 Ability: 3
@@ -3359,7 +3362,10 @@ Guard: 51
 Poss: 5
 
 Guard: 56
-Poss: 2;
+Poss: 2
+
+Guard: 165
+Poss: 3;
 
 Ability:
 Ability: 3
@@ -4972,7 +4978,10 @@ Guard: 84
 Poss: 2
 
 Guard: 91
-Poss: 1;
+Poss: 1
+
+Guard: 165
+Poss: 2;
 
 Ability:
 Ability: 2
@@ -5055,6 +5064,9 @@ Guard: 137
 Poss: 1
 
 Guard: 105
+Poss: 1
+
+Guard: 165
 Poss: 1;
 
 Ability:
@@ -6263,8 +6275,8 @@ Param2: 0;
 
 /126
 Name: Отряд инквизиции;
-MinLevel: 3
-MaxLevel: 8
+MinLevel: 2
+MaxLevel: 5
 Guarded: 0
 Place: 2
 Difficult: 0

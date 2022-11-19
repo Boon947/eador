@@ -1,4 +1,4 @@
-Quantity: 164
+Quantity: 165
 
 /0
 Name: Пусто;
@@ -1484,3 +1484,12 @@ Guard0: 488
 Guard1: 489
 Guard2: 490
 Guard3: 491
+
+/165
+Name: Стихийные духи;
+Power: 2
+Karma: 0
+Guard0: 492
+Guard1: 493
+Guard2: 494
+Guard3: 495

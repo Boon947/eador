@@ -1,4 +1,4 @@
-Quantity: 832
+Quantity: 834
 
 /0
 Name: Пусто;
@@ -3451,7 +3451,7 @@ Quantity: 4;
 /436
 Name: Солнечный взрыв;
 Only Once: 0
-Need: (365)
+Need: (368)
 Upg Type: 2257
 Quantity: 5;
 
@@ -7054,3 +7054,17 @@ Only Once: 1
 Need: (366)
 Upg Type: 2379
 Quantity: 2;
+
+/833
+Name: Владыка мёртвых;
+Only Once: 1
+Need: (0)
+Upg Type: 273
+Quantity: 1;
+
+/834
+Name: Владыка демонов;
+Only Once: 1
+Need: (0)
+Upg Type: 274
+Quantity: 1;
