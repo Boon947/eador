@@ -5118,7 +5118,7 @@ Piercing_shot: 31
 Power: 1
 Area: 0
 
-PoisonShot: 42
+BleedingShot: 156
 Power: 2
 Area: 0
 
@@ -6013,7 +6013,7 @@ Power: 4
 Area: 0
 
 BleedingShot: 156
-Power: 2
+Power: 3
 Area: 0;
 
 
@@ -9389,7 +9389,7 @@ Resourse: (4)
 Effects:
 
 Morale: 12
-Power: 4
+Power: 6
 Area: 0;
 
 
@@ -10026,11 +10026,11 @@ Power: 1
 Area: 0
 
 Attack: 2
-Power: 6
+Power: 7
 Area: 0
 
 CounterAttack: 3
-Power: 4
+Power: 6
 Area: 0;
 
 /399
@@ -11293,7 +11293,7 @@ Area: 0
 
 ExpGain: 991
 Power: 25
-Area: 0;
+Area: 1;
 
 /462
 Name: Oinor's Gloves;

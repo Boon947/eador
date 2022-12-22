@@ -1,4 +1,4 @@
-Quantity: 45
+Quantity: 46
 
 0. Right-click
 #You can view unit and hero statistics along with other game details by right-clicking on their corresponding icon.#
@@ -135,3 +135,6 @@ Website: www.eador.com#
 
 45. Extra turn
 #Some abilities and powerful magic grant an extra turn. Either way, units cannot get more than two turns.#
+
+46. Siege 3
+#Your units versed in siege intricacies or able to repair machines, while in garrison, can fix the damage caused to fortifications by an enemy hero besieging your fortress. Be careful, this ability's effectiveness greatly diminishes as the number of assailants increases!#

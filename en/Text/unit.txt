@@ -132,7 +132,7 @@ The best warriors have a chance to be transferred to an elite squad.#
 
 32. Basilisk
 #Basilisks dwell in moist and shady places, around swamps and underground lakes. These huge lizards have the ability to petrify enemies with their stare. The basilisk's curse wears off quickly, but it gives this slow lizard just enough time to approach the victim and inflict some damage with its sharp, strong teeth. Word has it that the goblins have managed to tame basilisks. Certain human monstrologists also possess the secret of taming the beasts. For the lizard to obey its master, however, it has to be trained from the very moment it hatches.
-For the egg to be turned into a unit for a hero's party it is necessary to build a Swamp Trappers Guild.#
+For the egg to be turned into a unit for a hero's party it is necessary to build the Pathfinders Guild.#
 
 33. Giant Spider
 #Giant spiders usually dwell in thick forests and old crypts. These predators welcome any prey, be it a rabbit, a deer or a human lost in the woods. The spiders wrap their victims inside a strong webbed cocoon, inject poison into their helpless bodies, then leave their prey to «season» for a while. Even the bravest swashbucklers rarely attack spiders alone, as no armor can protect them from the beasts' poison and spiderweb. It's extremely hard to fight spiders in the woods. The eight-legged predators climb the trees effortlessly, hiding behind the branches and hurling their web at unsuspecting victims from above.
@@ -605,7 +605,7 @@ For the egg to be turned into a unit for a hero's party it is necessary to build
 
 151. Swamp Dragonfly
 #Goblins are very well acquainted with the capabilities of these venomous, hovering creatures. It is for good reason that goblins refer to them as "snake-dragons". One bite from a swamp dragonfly can send a young man to an early grave. The strength and speed of the venom's effect is dependent on the swamp dragonfly's age. To tame and breed these creatures is a dangerous and difficult task, especially since one must get hold of the eggs. Not to mention the fact that these creatures are quite rare.
-For the eggs to be turned into a unit for a hero's party it is necessary to build the Swamp Trappers Guild.#
+For the egg to be turned into a unit for a hero's party it is necessary to build the Pathfinders Guild.#
 
 152. Bodyguard
 #Eventually, the most skillful thugs - or perhaps just those lucky enough to stay alive - are noticed by their leader. These men are singled out, given better gear, and assigned more complex tasks. Some are promoted to personal bodyguards.

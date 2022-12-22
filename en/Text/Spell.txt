@@ -406,7 +406,7 @@ The vampire's attributes depend on the caster's Summoning and Necromancy skills.
 62. Pestilence
 #Circle 4.
 School: Necromancy.
-Infects all enemy units with a disease causing them to lose 2 Stamina points each turn. The speed of the infected units is reduced by 1, all types of attack are reduced by 3.
+Infects all enemy units with a disease causing them to lose 2 Stamina points each turn. Speed of the infected units is reduced by 1, all types of Attack are reduced by 3.
 Lasts 6 turns. Duration increases with the caster's Concentration.
 Has no effect on the Undead, Mechanical units, and Ratmen.#
 
@@ -947,14 +947,14 @@ Resistance protects only partially against this spell. Magic immunity does not a
 #Circle 2.
 School: Sacred Magic.
 Grants the target the abilities Smite Evil (2), Bane of Undead, and Bane of Demons.
-Lasts 3 turns.
+Lasts 6 turns.
 The effect slightly increases with the caster's Spellpower.
 The spell has no effect on undead and demons.#
 
 144. Grace
 #Circle 2.
 School: Prayers.
-Increases all types of attacks, all types of defence and resistance of the target by 2. Enchanted creature restores 2 hit points each turn. Lasts 5 turns.
+Increases all types of Attack, all types of Defense, and resistance of the target by 2. Enchanted creature restores 2 hit points each turn. Lasts 5 turns.
 Duration increases with the caster's Concentration.
 The spell has no effect on undead and demons.#
 
@@ -994,7 +994,7 @@ Does not affect demons, undead and mechanical units.#
 150. Divine Light
 #Circle 4.
 School: Sacred Magic.
-Reduces all types of attacks of all enemies within 2 tiles to zero.
+Reduces all types of Attack of all enemies within 2 tiles to zero.
 Resistance protects only partially against this spell.
 Lasts 4 turns. Duration increases with the caster's Concentration.
 Has no effect on Mechanical units and Elementals.#
@@ -1098,7 +1098,7 @@ Damage and burning damage increases slightly with the caster's Spellpower.#
 166. Mass Fire Immunity
 #Circle 2.
 School: Elemental Magic.
-Grants all friendly units immunity to fire and increases ranged defence by 1. Lasts 2 turns.
+Grants all friendly units immunity to fire and increases Ranged Defense by 1. Lasts 2 turns.
 Duration increases significantly with the caster's Concentration.#
 
 167. Cleansing Flame
@@ -1348,7 +1348,7 @@ Has no effect on Animals, and creatures with natural weapons.#
 #Circle 3.
 School: Metamorphosis.
 The effect of this spell is cumulative.
-Increases all types of attacks to all friendly units by 1. Lasts 4 turns.
+Increases all types of Attack of all allies by 1. Lasts 4 turns.
 Replenishes ammo by 4.
 Duration increases with the caster's Concentration.
 Has no effect on Animals.#
@@ -1389,7 +1389,7 @@ Has no effect on the Undead, Mechanical units, and Elementals.#
 #Circle 4.
 School: Shadow Magic.
 A friendly unit needs to be sacrificed for this incantation.
-Reduces all types of attacks of all enemies within 2 tiles to zero. Lasts 4 turns. Resistance protects only partially against this spell.
+Reduces all types of Attack of all enemies within 2 tiles to zero. Lasts 4 turns. Resistance protects only partially against this spell.
 Has no effect on the Undead, Mechanical units, Chaos Lords, and Elementals.#
 
 209. Titan's Strength
@@ -1522,7 +1522,7 @@ Has no effect on intrepid creatures.#
 
 227. Yrden Sign
 #Witcher's Sign.
-Causes the target of the spell to feel severe pain. The unit loses 4 hit points and 1 point of stamina each turn. All types of attacks are reduced by 1.
+Causes the target of the spell to feel severe pain. The unit loses 4 hit points and 1 point of stamina each turn. All types of Attack are reduced by 1.
 Lasts 3 turns. Resistance reduces duration only slightly. Ignores magic immunity.
 Has no effect on the Undead, Mechanical units, and Elementals.#
 
@@ -2272,7 +2272,7 @@ Duration increases with the caster's Concentration.#
 336. Shadow Form Priestess
 #Circle 2.
 School: Shadow Magic.
-The unit is in shadow form. In this state her ranged attack is increased by 6 and her range by 2, and the enemy's resistance only partially protects against it. She becomes incorporeal, gets Bloodlust 2 and each shot reduces the enemy's resistance by 1.
+The unit is in shadow form. In this state her ranged attack is increased by 6 and her range by 2, and the enemy's resistance only partially protects against it. She becomes incorporeal, gets Bloodlust 1 and each shot reduces the enemy's resistance by 1.
 Its resistance is reduced by half and it loses 2 morale points each turn. Her spell duration is reduced by 1 and she loses her healing powers.
 Lasts 3 turns. Duration increases with the caster's Concentration.#
 

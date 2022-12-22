@@ -233,7 +233,7 @@ The unit inflicts additional damage on enemies whose souls are tainted by evil.#
 #Killing an enemy soldier raises it as an obedient undead.
 Raises the creature - %s.
 
-At the extra cost of 1 stamina point the unit can attack with Dark Dominion +3. An enemy soldier killed like this will not be raised, but 1 ammo is restored instead. Additionally, the amount of health stolen from the enemy using Life Leech is doubled.
+At the extra cost of 1 stamina point the unit can attack with Dark Dominion +3. An enemy soldier killed like this will not be raised, but 1 ammo is restored instead. Additionally, doubles the amount of health drained from the enemy by Life Leech and Soul Stealing.
 
 The attack type selection is memorized and kept until an explicit change. When counterattacking, the unit always raises the corpse.#
 
@@ -379,7 +379,7 @@ Ammo units consumed by casting: %d.#
 Ammo units consumed by casting: %d.#
 
 /107 Bless Spell
-#This unit can cast the Bless spell, which improves all types of Attacks and Defenses, and Resistance.
+#This unit can cast the Bless spell, which improves all types of Attack, all types of Defense, and Resistance.
 Ammo units consumed by casting: %d.#
 
 /108 Exorcism Spell
@@ -797,7 +797,7 @@ Ammo units consumed by casting: %d.#
 Ammo units consumed by casting: %d.#
 
 /211 Grace Spell
-#This unit can cast the Grace spell, increasing all types of attack, all types of defense and the resistance of the target by 2. The target recovers 2 hit points each turn.
+#This unit can cast the Grace spell, increasing all types of Attack, all types of Defense, and Resistance of the target by 2. The target recovers 2 hit points each turn.
 Ammo units consumed by casting: %d.#
 
 /212 Divine Seal Spell
@@ -822,7 +822,7 @@ Ammo units consumed by casting: %d.#
 Ammo units consumed by casting: %d.#
 
 /217 Divine Light Spell
-#This unit can cast the Divine Light spell, reducing all types of attack of all enemies within 2 tiles to zero. Resistance protects only partially against this spell.
+#This unit can cast the Divine Light spell, reducing all types of Attack of all enemies within 2 tiles to zero. Resistance protects only partially against this spell.
 Ammo units consumed by casting: %d.#
 
 /218 Holy Word Spell
@@ -949,7 +949,7 @@ Ammo units consumed by casting: %d.#
 Ammo units consumed by casting: %d.#
 
 /249 Fire Blade Spell
-#This unit can cast the Fire Blade spell, increasing all types of attack of a friendly unit by 4 and turning them into magical attacks.
+#This unit can cast the Fire Blade spell, increasing all types of Attack of an ally by 4, and turning them into magical attacks.
 Ammo units consumed by casting: %d.#
 
 /250 Mass Dispel Spell
@@ -1060,7 +1060,7 @@ In this state, she loses Vigilance, Counterattack is reduced by 5 and resistance
 
 /278 Shadow Form Priestess Spell
 #A Dark Priestess can cast this Shadow Form spell to give it special powers:
-In this state her ranged attack is increased by 6 and her range by 2, and the enemy's resistance only partially protects against it. She becomes incorporeal, gets Bloodlust 2 and each shot reduces the enemy's resistance by 1.
+In this state her ranged attack is increased by 6 and her range by 2, and the enemy's resistance only partially protects against it. She becomes incorporeal, gets Bloodlust 1 and each shot reduces the enemy's Resistance by 1.
 Her resistance is reduced by half and she loses 2 morale points each turn. Her spell duration is reduced by 1 and she loses her healing powers.#
 
 /279 Summon Beholder Spell
@@ -1104,7 +1104,7 @@ Ammo units consumed by casting: %d.#
 Ammo units consumed by casting: %d.#
 
 /289 Cloud of Darkness Spell
-#This unit can cast the Cloud of Darkness spell, reducing all types of attack of all enemies within 2 tiles to zero.
+#This unit can cast the Cloud of Darkness spell, reducing all types of Attack of all enemies within 2 tiles to zero.
 Ammo units consumed by casting: %d.#
 
 /290 Raise Reaper Spell
@@ -1132,7 +1132,7 @@ Ammo units consumed by casting: %d.#
 Ammo units consumed by casting: %d.#
 
 /296 Yrden Sign
-#Causes the target of the spell to feel severe pain. Enchanted unit loses 4 hit points and 1 point of stamina each turn. All types of attacks are reduced by 1.
+#Causes the target of the spell to feel severe pain. Enchanted unit loses 4 hit points and 1 point of stamina each turn. All types of Attack are reduced by 1.
 Ignores magic immunity.
 Ammo units consumed by casting: %d.#
 
@@ -1161,7 +1161,7 @@ Ammo units consumed by casting: %d.#
 Ammo units consumed by casting: %d.#
 
 /303 Death Cloud Spell
-#This unit can cast the Death Cloud spell, poisoning all living creatures within 2 tiles. Poisoned units lose hit points, stamina and morale each turn. All types of attack are reduced. Lasts 3 turns.
+#This unit can cast the Death Cloud spell, poisoning all living creatures within 2 tiles. Poisoned units lose Health, Stamina, and Morale each turn. All types of Attack are reduced. Lasts 3 turns.
 Ammo units consumed by casting: %d.#
 
 /304 Mass Life Drain Spell
@@ -1432,7 +1432,7 @@ Ammo units consumed by casting: %d.#
 
 /374 Fix
 #This unit has the special ability to repair a friendly mechanical unit within shooting range. Restores %d of health, and reduces the duration of damaging effects on armor and weapons. The repair expends 1 ammo unit.
-Out of combat the hit points restoration rate for all mechanical units in the party is increased when a repairer is present.
+Out of combat the hit points restoration rate for all mechanical units in the party is increased when a repairer is present. Increases siege time, if the unit is in a garrison under siege.
 This ability only works on Mechanical units.#
 
 /375 Mobility Spell
@@ -1668,7 +1668,7 @@ Ammo units consumed by casting: %d.#
 Ammo units consumed by casting: %d.#
 
 /435 Rune Weapon Spell
-#This unit can cast the "Rune Weapon" spell, increasing all types of attack of friendly units within 1 tile around the caster.
+#This unit can cast the "Rune Weapon" spell, increasing all types of Attack of allies within 1 tile around the caster.
 Ammo units consumed by casting: %d.#
 
 /436 Rune Amulet Spell
@@ -2013,16 +2013,16 @@ If the unit dies before digestion is complete, it will perish forever, and the s
 
 It is not possible to swallow multiple units, enemy must be fully digested before unit may swallow another unit.
 
-To use the ability, unit must be immobile and have more than 3 Stamina.#
+To use the ability, unit must have more than 3 Stamina.#
 
 /529 Forest Protection Spell
 #Unit can cast the Forest Protection spell on itself, increasing by 2 Defense and Ranged Defense of all nearby allies.#
 
 /530 Forest Might Spell
-#This unit can cast the Forest Might spell on himself, increasing by 2 all types of Attack and Armor of all allied units nearby.#
+#This unit can cast the Forest Might spell on himself, increasing by 2 all types of Attack and Armor of all allies nearby.#
 
 /531 Forest Blessing Spell
-#This unit can cast the Forest Blessing spell on himself, increasing by 2 all types of Attack and Armor of all allied units nearby, and also enabling them to recover additional health and stamina when resting.#
+#This unit can cast the Forest Blessing spell on himself, increasing by 2 all types of Attack and Armor of all allies nearby, and also enabling them to recover additional health and stamina when resting.#
 
 /532 Improved Charm Spell
 #This unit can cast the Improved Charm spell, which increases the duration of positive spells on an ally, or negative spells on an enemy by 2.
@@ -2070,7 +2070,7 @@ Ammo units consumed by casting: %d.#
 #Unit chose the Path of Tenacity. Defense and Ranged Defense increased by 2.#
 
 /545 Path of the Warrior
-#Pathfinder chose Path of the Warrior. Ranged Attack and Ammo increased by 1, Precise Shot by 2.#
+#Pathfinder chose Path of the Warrior. Ranged Attack is increased by 1, Precise Shot by 2.#
 
 /546 Path of the Hunter
 #Pathfinder chose Path of the Hunter. Unit's gold and gem upkeep decreased by 40~. First Aid increased by 2.#
@@ -2107,7 +2107,7 @@ Ammo units consumed by casting: %d.#
 by %d~.#
 
 /556 Wizard Mastery
-#Unit can use a spell ability on himself without spending a turn for it.#
+#Unit can use a spell ability on himself without spending a turn for it. When using the ability, Speed will be reduced.#
 
 /557 Mobility
 #Unit does not expend extra Stamina when attacking after moving.#
@@ -2185,3 +2185,9 @@ If the unit has Rebirth, each ability level increases the power of the new creat
 /579 Summon Eagle Spell
 #Unit can cast Summon Eagle spell, to summon an Eagle next to the caster.
 Ammo units consumed by casting: %d.#
+
+/580 Lord of the Dead
+#Unit has power over Death itself. All Undead raised by the unit are his level or higher.#
+
+/581 Lord of Demons
+#Unit has power over Chaos itself. All Demons raised by the unit are his level or higher.#

@@ -878,7 +878,7 @@ Upgrade: 25
 Hidden: 0
 Level: 1
 
-Buildings: (25, 36)
+Buildings: (25, 36, 42)
 Resource: (2, 2, 3, 3, 3, 3)
 
 Ability:
@@ -986,6 +986,10 @@ Buildings: (31, 32, 1005)
 Resource: (1, 2, 3, 3, 3, 4)
 
 Ability:
+Ability: 48
+Param1: 1912
+Param2: 3
+
 Ability: 5
 Param1: 5
 Param2: 0
@@ -1300,7 +1304,15 @@ Param2: 0
 
 Ability: 26
 Param1: 2
-Param2: 0;
+Param2: 0
+
+Ability: 31
+Param1: 392
+Param2: 1
+
+Ability: 31
+Param1: 447
+Param2: 1;
 
 /55
 Name: Geologists Guild;
@@ -2350,15 +2362,7 @@ Param1: 494
 Param2: 1
 
 Ability: 31
-Param1: 392
-Param2: 1
-
-Ability: 31
 Param1: 395
-Param2: 1
-
-Ability: 31
-Param1: 447
 Param2: 1;
 
 /98
@@ -2516,7 +2520,7 @@ Param1: 3
 Param2: 3
 
 Ability: 35
-Param1: 100
+Param1: 125
 Param2: 0
 
 Ability: 36
@@ -2524,8 +2528,8 @@ Param1: 1
 Param2: 0
 
 Ability: 30
-Param1: 1
-Param2: 3;
+Param1: 2
+Param2: 5;
 
 /105
 Name: Court;
@@ -3039,7 +3043,7 @@ Param2: 0
 
 Ability: 52
 Param1: 12
-Param2: 7;
+Param2: 8;
 
 /124
 Name: Hippodrome;
@@ -3670,11 +3674,11 @@ Param1: 4
 Param2: 2
 
 Ability: 30
-Param1: 1
-Param2: 3
+Param1: 3
+Param2: 5
 
 Ability: 35
-Param1: 100
+Param1: 150
 Param2: 0
 
 Ability: 36
@@ -3931,7 +3935,7 @@ Param2: 0
 
 Ability: 52
 Param1: 17
-Param2: 8
+Param2: 11
 
 Ability: 31
 Param1: 433
@@ -4229,7 +4233,7 @@ Param2: 0
 
 Ability: 52
 Param1: 12
-Param2: 10;
+Param2: 12;
 
 /169
 Name: Great Eagle Chapel;
@@ -4776,11 +4780,11 @@ Param1: 1
 Param2: 0
 
 Ability: 30
-Param1: 1
-Param2: 4
+Param1: 4
+Param2: 6
 
 Ability: 35
-Param1: 100
+Param1: 175
 Param2: 0
 
 Ability: 36
@@ -5527,10 +5531,6 @@ Resource: (1, 1, 7, 7, 7, 7)
 
 Ability:
 Ability: 59
-Param1: 104
-Param2: 0
-
-Ability: 59
 Param1: 258
 Param2: 0
 
@@ -5540,7 +5540,11 @@ Param2: 1
 
 Ability: 15
 Param1: 83
-Param2: 0;
+Param2: 0
+
+Ability: 48
+Param1: 1909
+Param2: 2;
 
 /219
 Name: Goblin Hut;
@@ -6501,7 +6505,7 @@ Upgrade: 258
 Hidden: 0
 Level: 0
 
-Buildings: (258, 159, 102, 149)
+Buildings: (258, 107, 102, 149)
 Resource: (5, 6, 8, 9)
 
 Ability:
@@ -6549,7 +6553,7 @@ Upgrade: 256
 Hidden: 1
 Level: 0
 
-Buildings: (256, 107)
+Buildings: (256, 103)
 Resource: (4, 9)
 
 Ability:
@@ -6800,7 +6804,7 @@ Hidden: 1
 Level: -1
 
 Buildings: (71, 72, 100)
-Resource: (1, 7, 7, 8, 8)
+Resource: (1, 1, 3, 7, 8)
 
 *Ability*:
 Ability: 48

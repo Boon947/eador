@@ -7,8 +7,8 @@
 Lvl 1: Gold Upkeep -10~, Gems -5~, Siege +10
 Lvl 2: Gold Upkeep -10~, Gems -5~, Siege +10
 Lvl 3: Gold Upkeep -10~, Gems -5~, Siege +10
-Lvl 4: Gold Upkeep -10~, Gems -5~, Siege +20
-Lvl 5: Gold Upkeep -10~, Gems -5~, Siege +30#
+Lvl 4: Gold Upkeep -10~, Gems -5~, Siege +15
+Lvl 5: Gold Upkeep -10~, Gems -5~, Siege +15#
 
 /2 Discipline
 #The skill of discipline increases the units' vitality and raises their magic resistance.

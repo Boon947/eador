@@ -38,7 +38,7 @@
 #A Commander who has mastered the art of fighting becomes a Warlord, able to efficiently increase the defense of his units. A Commander's troops slowly recover health in battle.#
 
 /14 Tactician
-#A Commander who has mastered scouting skills becomes a Tactician, able to increase the Attack of their units, and skillfully navigate rough terrain.#
+#A Commander who has mastered scouting skills becomes a Tactician, able to increase Attack and CounterAttack of their units, and skillfully navigate rough terrain.#
 
 /15 General
 #Once the path of the Commander is completed, the hero becomes a General, able to increase the Ranged Attack and Ammo of his marksmen.#

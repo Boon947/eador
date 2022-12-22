@@ -1,4 +1,4 @@
-Quantity: 2430
+Quantity: 2436
 
 /0
 Window: 0;
@@ -13645,7 +13645,7 @@ Window: 2;
 Bitmap: 146;
 Text: #In the province of %s, dark elves are seen clashing openly with one another. We found out that the reason for this is the death of a senior Darkness Chosen. The Dark Council should elect a new member, who must be chosen from among the Darkness Cravers. And now the two largest groups, in the hope of being elevated to "Chosen", will do anything. 
 What is your decision, Master?#
-Answer1: Forbid this bloodshed! They should negotiate peacefully.;
+Answer1: Forbid this bloodshed! They must negotiate peacefully.;
 Answer2: Let them do as they please.;#####
 
 /1784 Альвары (ссора), запретить резню, подчинились
@@ -15015,7 +15015,8 @@ Answer2: A pity, but what can you do?;#####
 /1959 Атака Братства (по своей страже)
 Window: 2;
 Bitmap: 172;
-Text: #Per your order, under cover of night, a squad of Twilight Brotherhood assassins attacks the guards in the %s province. They, along with a few nearby residents, are slain.#
+Text: #Per your order, under cover of night, a squad of Twilight Brotherhood assassins attacks the guards in the %s province. A few bystanders witnessed, and had to be captured.
+The captives were all sacrificed on the altar, to the glory of the Great Mother, for a reward of %d crystals.#
 Answer1: Damn it.;
 Answer2: Forgive me...;#####
 
@@ -18624,3 +18625,53 @@ Text: #Your advisors report that the realm has reached such a size that, from no
 Answer1: I see.;
 Answer2: Got it.;
 Answer3: I do not care...;#####
+
+/2431 Изготовление сотрясателя тверди, диалог
+Window: 2;
+Bitmap: 39;
+Text: #Dwarven Craftsmen report that they have accumulated enough materials to build a true marvel of Dwarven engineering, the Earthshaker. They are willing to assemble it immediately, and deliver it to the castle, if you so desire.#
+Answer1: Why are you even asking?! Yes. (-1635 $ , -285 & );
+Answer2: Perhaps sometime later.;#####
+
+/2432 (Запуск торгового каравана - основной диалог, размер)
+Window: 2;
+Bitmap: 33;
+Text: #Your advisers report that local merchants are assembling a trade caravan. You may invest some funds in this enterprise, which will undoubtedly pay dividends.
+You may dispatch a small, medium, or large caravan - to either local, adjacent, or distant lands.
+The larger the caravan, the greater the profit, and the safer it will travel to the most remote corners of the shard.
+What is your decision?#
+Answer1: Invest the minimum. (-200 $ );
+Answer2: Invest a reasonable amount. (-450 $ );
+Answer3: Invest much gold! (-1000 $ );
+Answer4: What am I doing here? Let them guide you.;#####
+
+/2433 (Запуск торгового каравана - основной диалог, путь)
+Window: 2;
+Bitmap: 33;
+Text: #How far do you want to send this caravan?
+The larger the caravan, the safer the journey to remote corners of the shard, and the longer it takes.#
+Answer1: Send a caravan to our border.;
+Answer2: Send a caravan to neighboring lands.;
+Answer3: Send a caravan to distant lands.;#####
+
+/2434 (Запуск торгового каравана - вернулся с крит. успехом)
+Window: 2;
+Bitmap: 33;
+Text: #The caravan you sent has finally returned, and turned a great profit - %d gold!#
+Answer1: Not bad!;
+Answer2: That's all?;#####
+
+/2435 (Запуск торгового каравана - вернулся с успехом)
+Window: 2;
+Bitmap: 33;
+Text: #The caravan you sent has finally returned, and turned a nice profit - %d gold.#
+Answer1: Not bad!;
+Answer2: That's all?;#####
+
+/2436 (Запуск торгового каравана - неудача)
+Window: 2;
+Bitmap: 33;
+Text: #You learn that the caravan you sent has been plundered.#
+Answer1: I knew it...;
+Answer2: Well, such is life.;
+Answer3: Stingy hucksters, they skimped on protection!;#####

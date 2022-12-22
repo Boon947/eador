@@ -55,7 +55,7 @@ Can learn scout skills up to Mastery Level 5.#
 
 /11 Ringleader
 #Can use the following type of items: Common, Melee Weapon, Ranged Weapon, Banner, Light Armor, Medium Armor, Shield.
-Looting skill is increased by 3. Receives 50~ more gold while plundering provinces. Mobility is increased by 1. Possesses the skill %s.
+Looting skill is increased by 3. Receives twice as much gold from plundering provinces. Mobility is increased by 1. Possesses the skill %s.
 Can learn scout and commander skills up to Mastery Level 3.#
 
 /12 Ranger
@@ -71,14 +71,13 @@ Can learn commander and warrior skills up to Mastery Level 3.#
 
 /14 Tactician
 #Can use the following type of items: Common, Melee Weapon, Ranged Weapon, Banner, Light Armor, Medium Armor, Shield.
-Possesses the skill %s. Increases party units' Attack by 2.
+Possesses the skill %s. Increases party units' Attack by 2, Counterattack by 1.
 Tactician grants Terrain Knowledge +1 to allied units.
 Can learn commander and scout skills up to Mastery Level 3.#
 
 /15 General
 #Can use the following type of items: Common, Melee Weapon, Banner, Light Armor, Medium Armor, Shield.
-Possesses the skill %s. Increases the units' missile attack by 2 (does not affect units using the Magic Shot).
-Increases Ammo for units in the party by 1.
+Possesses the skill %s. Increases the party units' Ranged Attack and Ammo by 1 (does not affect units using Magic Shot).
 Initiative is increased by 1.
 Can learn commander skills up to Mastery Level 5.#
 
@@ -148,7 +147,7 @@ Can learn scout skills up to Mastery Level 5.#
 
 /27 Gang Leader
 #Can use the following type of items: Common, Melee Weapon, Ranged Weapon, Banner, Light Armor, Medium Armor, Shield.
-Looting skill is increased by 6. Receives 50~ more gold while plundering provinces. Mobility is increased by 2. Possesses the skill %s. Increases Speed of allies by 1.
+Looting skill is increased by 6. Receives thrice as much gold from plundering provinces. Mobility is increased by 2. Possesses the skill %s. Increases Speed of allies by 1.
 Can learn scout and commander skills up to Mastery Level 3.#
 
 /28 Pathfinder
@@ -164,15 +163,14 @@ Can learn commander and warrior skills up to Mastery Level 3.#
 
 /30 Strategist
 #Can use the following type of items: Common, Melee Weapon, Ranged Weapon, Banner, Light Armor, Medium Armor, Shield.
-Possesses the skill %s. Increases party units' Attack by 3, Counterattack by 2.
+Possesses the skill %s. Increases Attack and Counterattack of party units by 3.
 Strategist grants Terrain Knowledge +1 to allied units.
 Can learn commander and scout skills up to Mastery Level 3.#
 
 /31 Marshall
 #Can use the following type of items: Common, Melee Weapon, Banner, Light Armor, Medium Armor, Shield.
-Possesses the skill %s. Increases the units' missile attack by 2 (does not affect units using the Magic Shot).
-Increases Ammo for units by 2.
-Initiative is increased by 2.
+Possesses the skill %s. Increases the party units' Ranged Attack and Ammo by 2 (does not affect units using Magic Shot).
+Initiative is increased by 1.
 Can learn commander skills up to Mastery Level 5.#
 
 /32 High Priest

@@ -4644,7 +4644,7 @@ GoldPrice: 700
 GemPrice: 0
 GoldPayment: 140
 GemPayment: 0
-Subtype: (1, 19)
+Subtype: (1, 19, 24)
 Analogs: (235)
 UnitClass: 6
 Upgraded: (235, 18)
@@ -5240,14 +5240,14 @@ Lvl 05 upgrades: (36, 4; 4, 4; 13, 4; 131, 4)
 Lvl 06 upgrades: (31, 4; 7, 4; 16, 4; 21, 4; 326, 5)
 Lvl 07 upgrades: (3, 4; 4, 4; 10, 4; 131, 4; 570, 4)
 Lvl 08 upgrades: (36, 4; 7, 4; 13, 4; 27, 4)
-Lvl 09 upgrades: (3, 4; 38, 4; 16, 4)
+Lvl 09 upgrades: (3, 4; 38, 4; 16, 4; 364, 6)
 Lvl 10 upgrades: (31, 4; 7, 4; 10, 4; 21, 4; 323, 5)
 Lvl 11 upgrades: (36, 4; 5, 4; 13, 4; 131, 4)
 Lvl 12 upgrades: (32, 4; 38, 4; 17, 4; 131, 4)
 Lvl 13 upgrades: (25, 4; 5, 4; 10, 4; 27, 4)
 Lvl 14 upgrades: (37, 4; 8, 4; 13, 4; 21, 4; 570, 4)
 Lvl 15 upgrades: (25, 4; 38, 4; 34, 4; 17, 4)
-Lvl 16 upgrades: (32, 4; 6, 4; 40, 4; 131, 4)
+Lvl 16 upgrades: (32, 4; 6, 4; 40, 4; 131, 4; 834, 6)
 Lvl 17 upgrades: (37, 4; 8, 4; 14, 4; 131, 4)
 Lvl 18 upgrades: (32, 4; 38, 4; 17, 4; 21, 4)
 Lvl 19 upgrades: (25, 4; 8, 4; 14, 4; 27, 4)
@@ -5961,7 +5961,8 @@ Magic_shot: 58
 Undead: 61
 Energy_Control: 149
 Undead_restoration: 159
-Death_Touched_skill: 161;
+Death_Touched_skill: 161
+Undead_Lord: 833;
 		
 Lvl 01 upgrades: (1, 4; 16, 4; 27, 1; 122, 7)
 Lvl 02 upgrades: (27, 3; 57, 4; 14, 4)
@@ -6700,7 +6701,7 @@ Lvl 03 upgrades: (3, 3; 30, 4; 34, 3)
 Lvl 04 upgrades: (3, 3; 5, 2; 14, 2)
 Lvl 05 upgrades: (37, 2; 11, 2; 51, 4)
 Lvl 06 upgrades: (2, 10; 8, 4; 81, 3)
-Lvl 07 upgrades: (3, 3; 65, 3; 80, 3)
+Lvl 07 upgrades: (3, 3; 65, 3; 80, 2)
 Lvl 08 upgrades: (59, 4; 51, 4; 591, 4)
 Lvl 09 upgrades: (5, 3; 8, 4; 395, 5)
 Lvl 10 upgrades: (2, 3; 51, 4; 13, 3)
@@ -6708,7 +6709,7 @@ Lvl 11 upgrades: (37, 4; 16, 3; 56, 5)
 Lvl 12 upgrades: (34, 4; 8, 4; 11, 3)
 Lvl 13 upgrades: (3, 3; 65, 3; 535, 3)
 Lvl 14 upgrades: (5, 3; 51, 4; 27, 3)
-Lvl 15 upgrades: (34, 4; 8, 4; 80, 3)
+Lvl 15 upgrades: (34, 4; 8, 4; 80, 1)
 Lvl 16 upgrades: (3, 3; 51, 4; 591, 4)
 Lvl 17 upgrades: (37, 4; 65, 3)
 Lvl 18 upgrades: (35, 4; 8, 4)
@@ -7918,7 +7919,7 @@ Lvl 07 upgrades: (2, 4; 4, 4; 10, 4; 27, 4; 187, 6)
 Lvl 08 upgrades: (36, 4; 7, 4; 13, 4; 28, 2; 190, 6)
 Lvl 09 upgrades: (2, 4; 38, 4; 16, 4; 547, 4)
 Lvl 10 upgrades: (31, 4; 7, 4; 10, 4; 21, 4; 189, 6)
-Lvl 11 upgrades: (36, 4; 5, 4; 13, 4; 28, 3)
+Lvl 11 upgrades: (36, 4; 5, 4; 13, 4; 28, 3; 790, 8)
 Lvl 12 upgrades: (32, 4; 38, 4; 17, 4; 2, 4; 687, 4)
 Lvl 13 upgrades: (25, 4; 5, 4; 10, 4; 28, 4; 566, 5)
 Lvl 14 upgrades: (37, 4; 8, 4; 13, 4; 21, 4; 547, 4)
@@ -12231,7 +12232,7 @@ Poison: 71;
 Lvl 01 upgrades: (2, 4; 4, 4; 10, 4; 34, 4)
 Lvl 02 upgrades: (31, 4; 7, 4; 16, 4; 56, 4)
 Lvl 03 upgrades: (2, 4; 4, 4; 13, 4; 73, 3)
-Lvl 04 upgrades: (31, 4; 7, 4; 10, 4)
+Lvl 04 upgrades: (31, 4; 7, 4; 10, 4; 797, 3)
 Lvl 05 upgrades: (36, 4; 4, 4; 13, 4)
 Lvl 06 upgrades: (31, 4; 7, 4; 16, 4; 19, 4)
 Lvl 07 upgrades: (2, 4; 4, 4; 10, 4; 34, 4)
@@ -12966,7 +12967,7 @@ Lvl 05 upgrades: (36, 4; 4, 4; 13, 4; 131, 4; 364, 5)
 Lvl 06 upgrades: (31, 4; 7, 4; 16, 4; 27, 5)
 Lvl 07 upgrades: (3, 4; 4, 4; 10, 4; 131, 4)
 Lvl 08 upgrades: (36, 4; 7, 4; 13, 4; 21, 4; 700, 5)
-Lvl 09 upgrades: (3, 4; 38, 4; 34, 4; 16, 4)
+Lvl 09 upgrades: (3, 4; 38, 4; 34, 4; 16, 4; 834, 6)
 Lvl 10 upgrades: (31, 4; 7, 4; 10, 4; 21, 4; 325, 6)
 Lvl 11 upgrades: (36, 4; 5, 4; 13, 4; 131, 4)
 Lvl 12 upgrades: (32, 4; 38, 4; 17, 4; 131, 4)
@@ -14236,10 +14237,10 @@ Stamina: 14
 Morale: 10
 Exp: 35
 ExpMod: 100
-GoldPrice: 80
-GemPrice: 10
-GoldPayment: 16
-GemPayment: 2
+GoldPrice: 120
+GemPrice: 15
+GoldPayment: 21
+GemPayment: 4
 Subtype: (1, 14)
 Analogs: (181)
 UnitClass: 1
@@ -14503,7 +14504,7 @@ Injure_strike: 81
 Stunning_shot: 641
 Cast_SummonKoboldSlave: 667;
 		
-Lvl 01 upgrades: (1, 4; 4, 4; 34, 4; 16, 4; 27, 4)
+Lvl 01 upgrades: (1, 4; 34, 4; 16, 4; 27, 4; 83, 4)
 Lvl 02 upgrades: (30, 4; 10, 4; 20, 4; 641, 4)
 Lvl 03 upgrades: (1, 4; 4, 4; 7, 4; 669, 5)
 Lvl 04 upgrades: (30, 4; 13, 3; 27, 4; 59, 4)
@@ -14548,24 +14549,24 @@ Lvl 20 loot: (0, 0)
 /180
 Name: Nocturnal Hunter;
 Level: 2
-Life: 17
+Life: 18
 Attack: 7
 CounterAttack: 7
 Defence: 2
-RangedDefence: 4
+RangedDefence: 5
 Resist: 6
 Speed: 2
 RangedAttack: 8
-ShootingRange: 5
+ShootingRange: 6
 Ammo: 6
 Stamina: 12
-Morale: 12
+Morale: 14
 Exp: 35
 ExpMod: 130
-GoldPrice: 110
-GemPrice: 10
-GoldPayment: 27
-GemPayment: 1
+GoldPrice: 70
+GemPrice: 5
+GoldPayment: 17
+GemPayment: 0
 Subtype: (1, 14)
 Analogs: (179)
 UnitClass: 2
@@ -14584,18 +14585,18 @@ Marksman: 130
 Reinvigoration: 51
 InjureShot: 626;
 		
-Lvl 01 upgrades: (30, 4; 20, 4; 84, 1)
+Lvl 01 upgrades: (30, 4; 293, 4; 84, 1)
 Lvl 02 upgrades: (1, 4; 10, 4; 27, 4)
 Lvl 03 upgrades: (30, 4; 13, 4; 670, 5)
 Lvl 04 upgrades: (1, 4; 4, 4; 16, 4; 84, 4)
-Lvl 05 upgrades: (31, 4; 20, 4; 34, 4; 7, 4)
+Lvl 05 upgrades: (31, 4; 293, 4; 34, 4; 7, 4)
 Lvl 06 upgrades: (1, 4; 10, 4; 27, 4; 671, 4)
 Lvl 07 upgrades: (36, 4; 13, 4; 128, 4)
 Lvl 08 upgrades: (1, 4; 16, 4; 257, 4; 796, 5)
-Lvl 09 upgrades: (31, 4; 293, 4; 23, 4)
+Lvl 09 upgrades: (31, 4; 293, 4)
 Lvl 10 upgrades: (1, 4; 4, 4; 27, 4)
 Lvl 11 upgrades: (36, 4; 34, 4; 16, 4)
-Lvl 12 upgrades: (7, 4; 14, 4)
+Lvl 12 upgrades: (7, 4; 14, 4; 23, 4)
 Lvl 13 upgrades: (31, 4; 293, 4; 10, 4)
 Lvl 14 upgrades: (84, 4; 672, 4; 257, 4)
 Lvl 15 upgrades: (36, 4; 42, 4; 14, 4)
@@ -14808,11 +14809,11 @@ Ammo: 4
 Stamina: 10
 Morale: 12
 Exp: 35
-ExpMod: 170
-GoldPrice: 250
-GemPrice: 15
-GoldPayment: 25
-GemPayment: 7
+ExpMod: 160
+GoldPrice: 280
+GemPrice: 20
+GoldPayment: 28
+GemPayment: 14
 Subtype: (1, 14)
 Analogs: (177, 178)
 UnitClass: 4
@@ -15315,6 +15316,7 @@ Liches_ability: 391
 Reincarnation: 152
 Vampiric_Shot: 637
 UndeadPower: 575
+Undead_Lord: 833
 SpellPower: 547;
 		
 Lvl 01 upgrades: (2, 4; 4, 4; 150, 4; 432, 5)
@@ -15419,7 +15421,7 @@ Lvl 16 upgrades: (31, 4; 21, 4; 13, 3; 526, 5)
 Lvl 17 upgrades: (2, 4; 17, 4; 7, 3; 34, 4)
 Lvl 18 upgrades: (31, 4; 27, 4; 10, 3; 639, 5)
 Lvl 19 upgrades: (2, 4; 21, 4; 4, 3; 403, 8)
-Lvl 20 upgrades: (31, 4; 17, 4; 13, 3; 150, 6)
+Lvl 20 upgrades: (31, 4; 17, 4; 13, 3; 150, 6; 834, 2)
 
 Lvl 01 loot: (2, 3; 6, 4; 64, 2; 585, 15)
 Lvl 02 loot: (38, 4; 68, 2)
@@ -17571,14 +17573,14 @@ Level: 3
 Life: 46
 Attack: 19
 CounterAttack: 12
-Defence: 10
-RangedDefence: 20
+Defence: 6
+RangedDefence: 14
 Resist: 2
 Speed: 2
 RangedAttack: 0
 ShootingRange: 0
 Ammo: 0
-Stamina: 18
+Stamina: 16
 Morale: 14
 Exp: 120
 ExpMod: 200
@@ -19473,7 +19475,7 @@ Missile: 0
 Resource: (0)
 
 Abilityes:
-HeavenlyArmor: 799;
+None: 0;
 		
 Lvl 01 upgrades: (1, 10; 2, 10)
 Lvl 02 upgrades: (1, 10; 2, 10)
@@ -19707,7 +19709,7 @@ Missile: 0
 Resource: (0)
 
 Abilityes:
-Cripple_shot: 626;
+None: 0;
 		
 Lvl 01 upgrades: (1, 10; 2, 10)
 Lvl 02 upgrades: (1, 10; 2, 10)
@@ -20571,7 +20573,8 @@ Chaos_gates_1: 557
 Chaos_gates_2: 558
 Summon_Imp: 559
 Summon_pitfiend: 560
-Bleeding_immunity: 685;
+Bleeding_immunity: 685
+Daemon_Lord: 834;
 		
 Lvl 01 upgrades: (3, 4; 11, 4)
 Lvl 02 upgrades: (10, 4; 52, 3)
@@ -20579,7 +20582,7 @@ Lvl 03 upgrades: (3, 4; 27, 4)
 Lvl 04 upgrades: (11, 4; 364, 4)
 Lvl 05 upgrades: (3, 4; 52, 4; 561, 10)
 Lvl 06 upgrades: (10, 4; 562, 9)
-Lvl 07 upgrades: (3, 4; 11, 4; 364, 4; 565, 6)
+Lvl 07 upgrades: (3, 4; 11, 4; 565, 6)
 Lvl 08 upgrades: (27, 4; 52, 3; 563, 8)
 Lvl 09 upgrades: (3, 4; 564, 7)
 Lvl 10 upgrades: (10, 4; 11, 4)
@@ -20588,10 +20591,10 @@ Lvl 12 upgrades: (27, 4; 364, 4; 566, 5)
 Lvl 13 upgrades: (3, 4; 12, 4)
 Lvl 14 upgrades: (10, 4; 52, 3)
 Lvl 15 upgrades: (25, 4; 567, 4)
-Lvl 16 upgrades: (12, 4; 28, 4; 364, 4)
+Lvl 16 upgrades: (12, 4; 28, 4)
 Lvl 17 upgrades: (25, 4; 52, 4)
 Lvl 18 upgrades: (11, 4; 568, 3)
-Lvl 19 upgrades: (25, 4; 12, 4; 373, 2)
+Lvl 19 upgrades: (25, 4; 12, 4; 364, 4)
 Lvl 20 upgrades: (28, 4; 52, 5; 373, 5)
 		
 Lvl 01 loot: (149, 3; 200, 3)
@@ -20868,24 +20871,24 @@ Lvl 20 loot: (0, 0)
 Name: Colossus;
 Level: 4
 Life: 100
-Attack: 25
+Attack: 20
 CounterAttack: 20
-Defence: 12
-RangedDefence: 15
-Resist: 1
+Defence: 10
+RangedDefence: 12
+Resist: 2
 Speed: 1
 RangedAttack: 0
 ShootingRange: 0
 Ammo: 0
-Stamina: 30
+Stamina: 10
 Morale: 10
 Exp: 200
 ExpMod: 280
-GoldPrice: 250
+GoldPrice: 300
 GemPrice: 100
-GoldPayment: 50
+GoldPayment: 60
 GemPayment: 20
-Subtype: (4, 23, 24)
+Subtype: (4, 24)
 Analogs: (0)
 UnitClass: 6
 Upgraded: (0, 0)
@@ -20899,30 +20902,29 @@ Resource: (7, 7, 5)
 
 Abilityes:
 Golem: 411
-Piercing_Strike: 69
 Stunning_blow: 70
 Immune_to_magic: 60;
 		
 Lvl 01 upgrades: (3, 4; 4, 4; 13, 4)
-Lvl 02 upgrades: (7, 4; 10, 4)
+Lvl 02 upgrades: (7, 4; 10, 4; 16, 4)
 Lvl 03 upgrades: (3, 4; 4, 4; 13, 4)
 Lvl 04 upgrades: (7, 4; 10, 4; 70, 4)
-Lvl 05 upgrades: (3, 4; 4, 4; 13, 4)
-Lvl 06 upgrades: (7, 4; 10, 4; 16, 4)
-Lvl 07 upgrades: (3, 4; 4, 4; 13, 4; 89, 8)
-Lvl 08 upgrades: (7, 4; 10, 4; 70, 4)
+Lvl 05 upgrades: (3, 4; 4, 4; 14, 4)
+Lvl 06 upgrades: (8, 4; 11, 4; 16, 4)
+Lvl 07 upgrades: (3, 4; 4, 4; 14, 4)
+Lvl 08 upgrades: (8, 4; 11, 4; 69, 5)
 Lvl 09 upgrades: (3, 4; 5, 4; 14, 4)
-Lvl 10 upgrades: (38, 4; 40, 4)
+Lvl 10 upgrades: (38, 4; 40, 4; 70, 3)
 Lvl 11 upgrades: (3, 4; 5, 4; 14, 4)
-Lvl 12 upgrades: (8, 4; 11, 4; 70, 3)
-Lvl 13 upgrades: (3, 4; 5, 4; 14, 4)
-Lvl 14 upgrades: (8, 4; 11, 4; 346, 8)
-Lvl 15 upgrades: (3, 4; 5, 4; 14, 4)
-Lvl 16 upgrades: (8, 4; 11, 4; 70, 3)
-Lvl 17 upgrades: (3, 4; 5, 4; 14, 4)
+Lvl 12 upgrades: (8, 4; 11, 4; 89, 3)
+Lvl 13 upgrades: (3, 4; 5, 4; 16, 4)
+Lvl 14 upgrades: (8, 4; 11, 4; 111, 8)
+Lvl 15 upgrades: (3, 4; 5, 4; 15, 4)
+Lvl 16 upgrades: (9, 4; 12, 4; 70, 3)
+Lvl 17 upgrades: (3, 4; 5, 4; 15, 4)
 Lvl 18 upgrades: (38, 4; 16, 4; 40, 4)
 Lvl 19 upgrades: (3, 4; 6, 4; 15, 4)
-Lvl 20 upgrades: (9, 4; 12, 4; 70, 3)
+Lvl 20 upgrades: (9, 4; 12, 4; 70, 5)
 
 Lvl 01 loot: (0, 0)
 Lvl 02 loot: (0, 0)
@@ -21698,8 +21700,7 @@ Missile: 0
 Resource: (0)
 
 Abilityes:
-Cripple: 81
-Cripple_shot: 626;
+None: 0;
 		
 Lvl 01 upgrades: (1, 10; 2, 10)
 Lvl 02 upgrades: (1, 10; 2, 10)
@@ -23381,7 +23382,8 @@ Abilityes:
 Elemental: 305
 Cold_immunity: 299
 Healing_7: 94
-Bodyless: 552;
+Bodyless: 552
+Swamp_dweller: 595;
 
 Lvl 01 upgrades: (1, 4; 7, 3; 26, 2)
 Lvl 02 upgrades: (30, 4; 16, 4; 10, 3)

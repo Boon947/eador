@@ -231,7 +231,7 @@ Click on this scroll...#
 #Remember that Danur gave you a task - build a Recruiting Station, a Forge, and a Pottery in your Stronghold.#
 
 67. Mercenary
-#You've got a mercenary available for hire. Mercenaries are always shown in the top right corner of the hire window. They demand double pay, but they tend to be experienced warriors. After a while, the current mercenary will be replaced with a new one.#
+#You've got a mercenary available for hire. Mercenaries are always shown in the top right corner of the hire window. They require higher pay, but they tend to be experienced warriors. After a while, the current mercenary will be replaced with a new one.#
 
 68. Garrison
 #The hero can leave a part of his army in the castle garrison. This makes sense if, for instance, the hero prepares for a battle and doesn't want to lose wounded units. Keep in mind that units stationed in the garrison still cost upkeep.#

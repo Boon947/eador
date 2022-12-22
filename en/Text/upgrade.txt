@@ -353,7 +353,7 @@
 #The unit learns the Blast spell, which inflicts magic damage to several enemies.#
 
 /118 Bless Spell
-#The unit learns the Bless spell, which improves all types of Attacks and Defenses, and Resistance.#
+#The unit learns the Bless spell, which improves all types of Attack, all types of Defense, and Resistance.#
 
 /119 Exorcism Spell
 #The unit learns the Exorcism spell, which damages Demons and Undead, and briefly immobilizes them.#
@@ -1295,7 +1295,7 @@ Does not affect the undead, mechanical units and heroes.#
 #The unit is taught to cast the "Dark Redemption" spell, which increases the magical abilities of all friendly creatures, and gives a small boost to morale.#
 
 /430 Siege Mode
-#The unit can switch to siege mode, increasing its ranged attack by 10. In that case, shooting Range cannot exceed 3.#
+#The unit can switch to siege mode, doubling its Ranged Attack. In that case, shooting Range cannot exceed 3.#
 
 /431 Change Ammo - Magic Shot
 #The unit changes to its second missile, dealing magical damage.#
@@ -1804,7 +1804,7 @@ Bloodsucker +10.#
 #The unit is taught to cast the "Rune Armor" spell, increasing the armor of friendly units within 1 tile around the caster.#
 
 /585 Rune Weapon Spell
-#The unit is taught to cast the "Rune Weapon" spell, increasing all types of attack of friendly units within 1 tile around the caster.#
+#The unit is taught to cast the "Rune Weapon" spell, increasing all types of Attack of allies within 1 tile around the caster.#
 
 /586 Rune Amulet Spell
 #The unit is taught to cast the "Rune Amulet" spell, increasing the resistance of friendly units within 1 tile around the caster.#
@@ -2317,10 +2317,10 @@ Bloodsucker +10.#
 #Unit can cast the Forest Blessing spell on himself, increasing all types of Attack and Armor of all allies around him by 2, and also enabling them to recover additional health and stamina when resting.#
 
 /756 Path of Power
-#Choose Grunas as yout battle form. This powerful, heavy beast, part bear, part white tiger, has tremendous strength and endurance.#
+#Choose Grunas as your battle form. This powerful, heavy beast, part bear, part white tiger, has tremendous strength and endurance.#
 
 /757 Path of Agility
-#Choose Hippogryph as yout battle form. This winged monster has great speed and is capable of flying.#
+#Choose Hippogryph as your battle form. This winged monster has great speed and is capable of flying.#
 
 /758 Improved Charm Spell
 #Teach unit Improved Charm spell, which increases the duration of positive spells on an ally, or negative spells on an enemy, and heals summoned creatures.#
@@ -2398,7 +2398,7 @@ Bloodsucker +10.#
 #By choosing the Path of Tenacity, unit will increase Defense and Ranged Defense by 2.#
 
 /783 Path of the Warrior
-#By choosing the Path of the Warrior, Pathfinder will increase his Ranged Attack and Ammo by 1, and Precise Shot by 2.#
+#By choosing the Path of the Warrior, Pathfinder will increase Ranged Attack by 1, and Precise Shot by 2.#
 
 /784 Path of the Hunter
 #By choosing the Path of the Hunter, Pathfinder will reduce Upkeep by 40~. First Aid will increase by 2.#
@@ -2546,3 +2546,9 @@ Bloodsucker +10.#
 
 /832 Summon Eagle Spell
 #Teach unit to cast Summon Eagle spell, to summon an Eagle next to the caster.#
+
+/833 Lord of the Dead
+#Henceforth, all Undead raised by the unit will be his level or higher.#
+
+/834 Lord of Demons
+#Henceforth, all Demons raised by the unit will be his level or higher.#

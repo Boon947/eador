@@ -98,11 +98,12 @@ There must be enough space in the hero's army.#
 Can be performed in a friendly province only (except in the capital).#
 
 29. Target of Brotherhood
-#Inflicts 12 points of magic damage to all the units stationed in the province. Kills part of the population, lowers its mood, and decreases its growth for 10 turns.
+#Inflicts 20 points of magic damage to all the units stationed in the province. Kills part of the population, lowers its mood, and decreases its growth for 10 turns.
 Can only be performed in an enemy populated province.#
 
 30. Bloody Hand
-#Inflicts 20 points of magic damage to all the units stationed in the province.
+#Inflicts 25 points of magic damage to all the units stationed in the province.
+Such a sacrifice is repaid in crystals.
 Can only be performed in a friendly province.#
 
 31. Astral Spy

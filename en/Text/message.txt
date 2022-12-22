@@ -104,7 +104,17 @@ Turns remaining: %d.#
 #The population's mood determines their working capacity and growth rate. If the population is unhappy, unrest starts to accumulate in the province (red bar). When unrest reaches its limit, a rebellion will begin. If the population is calm and content, the accumulated unrest will slowly dissipate.#
 
 32. Province level
-#The province population size determines the income it generates to a large extent. The green bar shows the population above the current level. When the green bar reaches the end, the province will achieve a new level. Dead lands have no population, the green bar shows how soon these lands will become habitable again. For cursed lands, the bar shows the duration of the curse - after the curse expires, they turn into a dead land.#
+#The province population size determines the income it generates to a large extent. The green bar shows the population above the current level. When the green bar reaches the end, the province will achieve a new level. Dead lands have no population, the green bar shows how soon these lands will become habitable again. For cursed lands, the bar shows the duration of the curse - after the curse expires, they turn into a dead land.
+Province size (in ascending order)
+New Land
+Dwelling
+Hamlet
+Village
+Large Village
+Town
+Large Town
+City
+Large City#
 
 33. Province type
 #There are various neutral provinces in the game. Province type determines its population, exploration percentage, and potential guards. In addition, certain types of provinces may contain special secret locations.#
@@ -362,7 +372,7 @@ Your world is the main source of Energy income. Each Shard joined to your world 
 #Try powerful spells and rituals, train elite warriors and fight huge monsters. Obtain legendary artifacts and collect rare armor sets.#
 
 113. Hint Miscellaneous
-# New Horizons 21.0630_f01.a#
+# New Horizons 22.0630.a#
 
 114. No lottery
 #  

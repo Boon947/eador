@@ -1,4 +1,4 @@
-Quantity: 579
+Quantity: 581
 
 /0
 Name: Empty;
@@ -4058,4 +4058,18 @@ Name: Summon Eagle Spell;
 Number: 2379
 Numeric: 1
 Effect: 0
+Percent: 0
+
+/580
+Name: Lord of the Dead;
+Number: 273
+Numeric: 0
+Effect: 1
+Percent: 0
+
+/581
+Name: Lord of Demons;
+Number: 274
+Numeric: 0
+Effect: 1
 Percent: 0

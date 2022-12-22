@@ -887,7 +887,7 @@ Coastal: 0
 Port: 0
 Wall: 0
 TowerHealth: 10
-TowerShoot: 6
+TowerShoot: 7
 TowerType: 17
 Library: 1
 Shop: 0
@@ -928,7 +928,7 @@ Karma: 0
 Heal: 0
 Coastal: 0
 Port: 0
-Wall: 200
+Wall: 125
 TowerHealth: 0
 TowerShoot: 0
 TowerType: 0
@@ -971,9 +971,9 @@ Karma: 0
 Heal: 0
 Coastal: 0
 Port: 0
-Wall: 300
+Wall: 200
 TowerHealth: 10
-TowerShoot: 5
+TowerShoot: 6
 TowerType: 1
 Library: 0
 Shop: 0
@@ -1026,9 +1026,9 @@ Karma: 0
 Heal: 0
 Coastal: 0
 Port: 0
-Wall: 400
+Wall: 300
 TowerHealth: 12
-TowerShoot: 6
+TowerShoot: 10
 TowerType: 2
 Library: 0
 Shop: 0
@@ -1089,9 +1089,9 @@ Karma: 0
 Heal: 0
 Coastal: 0
 Port: 0
-Wall: 500
+Wall: 450
 TowerHealth: 15
-TowerShoot: 7
+TowerShoot: 14
 TowerType: 3
 Library: 0
 Shop: 0
@@ -1158,7 +1158,7 @@ Coastal: 0
 Port: 0
 Wall: 600
 TowerHealth: 17
-TowerShoot: 8
+TowerShoot: 18
 TowerType: 4
 Library: 0
 Shop: 0

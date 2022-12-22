@@ -99,14 +99,14 @@ Fires Magic Shots at the enemies when defending this province in battle.
 Increases spotting range.#
 
 19. Outpost
-#Fortification (200).
+#Fortification (125).
 First rank garrison.
 Allows heroes to recruit troops in this province.
 Guards in this province are incorruptible.#
 
 20. Fort
 #Outpost Upgrade.
-Fortification (300).
+Fortification (200).
 1 Tower.
 Second rank garrison.
 Increases spotting range.
@@ -116,7 +116,7 @@ Guards in this province are incorruptible.#
 
 21. Citadel
 #Fort Upgrade.
-Fortification (400).
+Fortification (300).
 2 Towers.
 Third rank garrison.
 Increases spotting range.
@@ -126,7 +126,7 @@ Guards in this province are incorruptible and fearless.#
 
 22. Fortress
 #Citadel Upgrade.
-Fortification (500).
+Fortification (450).
 3 Towers.
 Fourth rank garrison.
 Increases spotting range.

@@ -1,4 +1,4 @@
-Quantity: 1908
+Quantity: 2140
 
 /0
 Type: 0
@@ -38507,7 +38507,7 @@ Param1: 1
 Param2: 250
 
 Index: 29
-Power: -12
+Power: -20
 Param1: 0
 Param2: 0;
 
@@ -38614,7 +38614,7 @@ Type: 0
 Possibility: 0
 Dialog: 1959
 DlgParam1: 1
-DlgParam2: 0
+DlgParam2: 2
 Attacker: 0
 EventWin: 0
 EventLose: 0
@@ -38627,8 +38627,13 @@ Answer1: 13
 Answer2: 0;
 
 *Effects*:
+Index: 6
+Power: 30
+Param1: 25
+Param2: 0
+
 Index: 29
-Power: -20
+Power: -25
 Param1: 0
 Param2: 0
 
@@ -53641,4 +53646,5621 @@ Param2: 0
 Index: 18
 Power: 1908
 Param1: 2
+Param2: 0;
+
+/1909 Изготовление Сотрясателя Тверди, начало
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 1910
+Param1: 20
+Param2: 35
+
+Index: 18
+Power: 1910
+Param1: 2
+Param2: 0;
+
+/1910 Изготовление Сотрясателя Тверди, предложение
+Type: 0
+Possibility: 0
+Dialog: 2431
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1911
+Answer2: 1909;
+
+*Effects*:
+Index: 4
+Power: 1
+Param1: 1
+Param2: 1635
+
+Index: 4
+Power: 1
+Param1: 2
+Param2: 285;
+
+/1911 Изготовление Сотрясателя Тверди, покупка
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 1
+Power: -1635
+Param1: 0
+Param2: 0
+
+Index: 6
+Power: -285
+Param1: 0
+Param2: 0
+
+Index: 36
+Power: 104
+Param1: 1
+Param2: 0
+
+Index: 11
+Power: 1909
+Param1: 0
+Param2: 0;
+
+/1912 Запуск торгового каравана, главное
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 55
+Power: 58
+Param1: 2028
+Param2: 1913;
+
+/1913 Запуск торгового каравана, базовый шанс на успех
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 1914
+Param1: 3
+Param2: 8
+
+Index: 18
+Power: 1914
+Param1: 2
+Param2: 0;
+
+/1914 Запуск торгового каравана, базовый шанс на успех, выбор размера каравана
+Type: 0
+Possibility: 0
+Dialog: 2432
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1915
+Answer1: 1954
+Answer1: 1991
+Answer4: 1912;
+
+*Effects*:
+Index: 4
+Power: 1
+Param1: 1
+Param2: 200
+
+Index: 4
+Power: 2
+Param1: 1
+Param2: 450
+
+Index: 4
+Power: 3
+Param1: 1
+Param2: 1000;
+
+/1915 Запуск торгового каравана, базовый шанс на успех, минимальные вложения, выбор дистанции
+Type: 0
+Possibility: 0
+Dialog: 2433
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1916
+Answer1: 1928
+Answer1: 1940;
+
+*Effects*:
+Index: 1
+Power: -200
+Param1: 0
+Param2: 0;
+
+/1916 Запуск торгового каравана, базовый шанс на успех, минимальные вложения, приграничье, вилка успех/неудача
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1952
+Param1: 1917
+Param2: 30;
+
+/1917 Запуск торгового каравана, базовый шанс на успех, минимальные вложения, приграничье, вилка критический успех/успех
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1923
+Param1: 1918
+Param2: 70;
+
+/1918 Запуск торгового каравана, базовый шанс на успех, минимальные вложения, приграничье, крит.успех, вилка бонус/нет
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 55
+Power: 98
+Param1: 1919
+Param2: 1921;
+
+/1919 Запуск торгового каравана, базовый шанс на успех, минимальные вложения, приграничье, критический успех с бонусом здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 1920
+Param1: 3
+Param2: 3
+
+Index: 18
+Power: 1920
+Param1: 2
+Param2: 0;
+
+/1920 Запуск торгового каравана, базовый шанс на успех, минимальные вложения, приграничье, критический успех с бонусом здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2434
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 350
+Param1: 150
+Param2: 0;
+
+/1921 Запуск торгового каравана, базовый шанс на успех, минимальные вложения, приграничье, критический успех без бонуса здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 1922
+Param1: 3
+Param2: 3
+
+Index: 18
+Power: 1922
+Param1: 2
+Param2: 0;
+
+/1922 Запуск торгового каравана, базовый шанс на успех, минимальные вложения, приграничье, критический успех без бонуса здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2434
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 300
+Param1: 100
+Param2: 0;
+
+/1923 Запуск торгового каравана, базовый шанс на успех, минимальные вложения, приграничье, успех, вилка
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 55
+Power: 98
+Param1: 1924
+Param2: 1926;
+
+/1924 Запуск торгового каравана, базовый шанс на успех, минимальные вложения, приграничье, успех с бонусом здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 1925
+Param1: 3
+Param2: 3
+
+Index: 18
+Power: 1925
+Param1: 2
+Param2: 0;
+
+/1925 Запуск торгового каравана, базовый шанс на успех, минимальные вложения, приграничье, успех с бонусом здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2435
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 300
+Param1: 150
+Param2: 0;
+
+/1926 Запуск торгового каравана, базовый шанс на успех, минимальные вложения, приграничье, успех без бонуса здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 1927
+Param1: 3
+Param2: 3
+
+Index: 18
+Power: 1927
+Param1: 2
+Param2: 0;
+
+/1927 Запуск торгового каравана, базовый шанс на успех, минимальные вложения, приграничье, успех без бонуса здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2435
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 250
+Param1: 100
+Param2: 0;
+
+/1928 Запуск торгового каравана, базовый шанс на успех, минимальные вложения, соседи, вилка успех/неудача
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1952
+Param1: 1929
+Param2: 50;
+
+/1929 Запуск торгового каравана, базовый шанс на успех, минимальные вложения, соседи, вилка критический успех/успех
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1935
+Param1: 1930
+Param2: 70;
+
+/1930 Запуск торгового каравана, базовый шанс на успех, минимальные вложения, соседи, крит.успех, вилка бонус/нет
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 55
+Power: 98
+Param1: 1931
+Param2: 1933;
+
+/1931 Запуск торгового каравана, базовый шанс на успех, минимальные вложения, соседи, критический успех с бонусом здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 1932
+Param1: 6
+Param2: 5
+
+Index: 18
+Power: 1932
+Param1: 2
+Param2: 0;
+
+/1932 Запуск торгового каравана, базовый шанс на успех, минимальные вложения, соседи, критический успех с бонусом здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2434
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 450
+Param1: 150
+Param2: 0;
+
+/1933 Запуск торгового каравана, базовый шанс на успех, минимальные вложения, соседи, критический успех без бонуса здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 1934
+Param1: 6
+Param2: 5
+
+Index: 18
+Power: 1934
+Param1: 2
+Param2: 0;
+
+/1934 Запуск торгового каравана, базовый шанс на успех, минимальные вложения, соседи, критический успех без бонуса здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2434
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 400
+Param1: 100
+Param2: 0;
+
+/1935 Запуск торгового каравана, базовый шанс на успех, минимальные вложения, соседи, успех, вилка
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 55
+Power: 98
+Param1: 1936
+Param2: 1938;
+
+/1936 Запуск торгового каравана, базовый шанс на успех, минимальные вложения, соседи, успех с бонусом здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 1937
+Param1: 6
+Param2: 5
+
+Index: 18
+Power: 1937
+Param1: 2
+Param2: 0;
+
+/1937 Запуск торгового каравана, базовый шанс на успех, минимальные вложения, соседи, успех с бонусом здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2435
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 400
+Param1: 150
+Param2: 0;
+
+/1938 Запуск торгового каравана, базовый шанс на успех, минимальные вложения, соседи, успех без бонуса здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 1939
+Param1: 6
+Param2: 5
+
+Index: 18
+Power: 1939
+Param1: 2
+Param2: 0;
+
+/1939 Запуск торгового каравана, базовый шанс на успех, минимальные вложения, соседи, успех без бонуса здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2435
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 350
+Param1: 100
+Param2: 0;
+
+/1940 Запуск торгового каравана, базовый шанс на успех, минимальные вложения, дальние земли, вилка успех/неудача
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1952
+Param1: 1941
+Param2: 70;
+
+/1941 Запуск торгового каравана, базовый шанс на успех, минимальные вложения, дальние земли, вилка критический успех/успех
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1947
+Param1: 1942
+Param2: 70;
+
+/1942 Запуск торгового каравана, базовый шанс на успех, минимальные вложения, дальние земли, крит.успех, вилка бонус/нет
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 55
+Power: 98
+Param1: 1943
+Param2: 1945;
+
+/1943 Запуск торгового каравана, базовый шанс на успех, минимальные вложения, дальние земли, критический успех с бонусом здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 1944
+Param1: 9
+Param2: 7
+
+Index: 18
+Power: 1944
+Param1: 2
+Param2: 0;
+
+/1944 Запуск торгового каравана, базовый шанс на успех, минимальные вложения, дальние земли, критический успех с бонусом здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2434
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 550
+Param1: 150
+Param2: 0;
+
+/1945 Запуск торгового каравана, базовый шанс на успех, минимальные вложения, дальние земли, критический успех без бонуса здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 1946
+Param1: 9
+Param2: 7
+
+Index: 18
+Power: 1946
+Param1: 2
+Param2: 0;
+
+/1946 Запуск торгового каравана, базовый шанс на успех, минимальные вложения, дальние земли, критический успех без бонуса здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2434
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 500
+Param1: 100
+Param2: 0;
+
+/1947 Запуск торгового каравана, базовый шанс на успех, минимальные вложения, дальние земли, успех, вилка
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 55
+Power: 98
+Param1: 1948
+Param2: 1950;
+
+/1948 Запуск торгового каравана, базовый шанс на успех, минимальные вложения, дальние земли, успех с бонусом здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 1949
+Param1: 9
+Param2: 7
+
+Index: 18
+Power: 1949
+Param1: 2
+Param2: 0;
+
+/1949 Запуск торгового каравана, базовый шанс на успех, минимальные вложения, дальние земли, успех с бонусом здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2435
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 500
+Param1: 150
+Param2: 0;
+
+/1950 Запуск торгового каравана, базовый шанс на успех, минимальные вложения, дальние земли, успех без бонуса здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 1951
+Param1: 9
+Param2: 7
+
+Index: 18
+Power: 1951
+Param1: 2
+Param2: 0;
+
+/1951 Запуск торгового каравана, базовый шанс на успех, минимальные вложения, дальние земли, успех без бонуса здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2435
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 450
+Param1: 100
+Param2: 0;
+
+/1952 Запуск торгового каравана, неудача, ожидание
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 1953
+Param1: 7
+Param2: 5
+
+Index: 18
+Power: 1953
+Param1: 2
+Param2: 0;
+
+/1953 Запуск торгового каравана, неудача
+Type: 0
+Possibility: 0
+Dialog: 2436
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912
+Answer3: 1912;
+
+*Effects*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/1954 Запуск торгового каравана, базовый шанс на успех, средние вложения, выбор дистанции
+Type: 0
+Possibility: 0
+Dialog: 2433
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1955
+Answer1: 1967
+Answer1: 1979;
+
+*Effects*:
+Index: 1
+Power: -450
+Param1: 0
+Param2: 0;
+
+/1955 Запуск торгового каравана, базовый шанс на успех, средние вложения, приграничье, вилка успех/неудача
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1952
+Param1: 1956
+Param2: 20;
+
+/1956 Запуск торгового каравана, базовый шанс на успех, средние вложения, приграничье, вилка критический успех/успех
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1962
+Param1: 1957
+Param2: 80;
+
+/1957 Запуск торгового каравана, базовый шанс на успех, средние вложения, приграничье, крит.успех, вилка бонус/нет
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 55
+Power: 98
+Param1: 1958
+Param2: 1960;
+
+/1958 Запуск торгового каравана, базовый шанс на успех, средние вложения, приграничье, критический успех с бонусом здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 1959
+Param1: 4
+Param2: 3
+
+Index: 18
+Power: 1959
+Param1: 2
+Param2: 0;
+
+/1959 Запуск торгового каравана, базовый шанс на успех, средние вложения, приграничье, критический успех с бонусом здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2434
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 700
+Param1: 200
+Param2: 0;
+
+/1960 Запуск торгового каравана, базовый шанс на успех, средние вложения, приграничье, критический успех без бонуса здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 1961
+Param1: 4
+Param2: 3
+
+Index: 18
+Power: 1961
+Param1: 2
+Param2: 0;
+
+/1961 Запуск торгового каравана, базовый шанс на успех, средние вложения, приграничье, критический успех без бонуса здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2434
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 600
+Param1: 100
+Param2: 0;
+
+/1962 Запуск торгового каравана, базовый шанс на успех, средние вложения, приграничье, успех, вилка
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 55
+Power: 98
+Param1: 1963
+Param2: 1965;
+
+/1963 Запуск торгового каравана, базовый шанс на успех, средние вложения, приграничье, успех с бонусом здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 1964
+Param1: 4
+Param2: 3
+
+Index: 18
+Power: 1964
+Param1: 2
+Param2: 0;
+
+/1964 Запуск торгового каравана, базовый шанс на успех, средние вложения, приграничье, успех с бонусом здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2435
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 600
+Param1: 200
+Param2: 0;
+
+/1965 Запуск торгового каравана, базовый шанс на успех, средние вложения, приграничье, успех без бонуса здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 1966
+Param1: 4
+Param2: 3
+
+Index: 18
+Power: 1966
+Param1: 2
+Param2: 0;
+
+/1966 Запуск торгового каравана, базовый шанс на успех, средние вложения, приграничье, успех без бонуса здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2435
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 500
+Param1: 100
+Param2: 0;
+
+/1967 Запуск торгового каравана, базовый шанс на успех, средние вложения, соседи, вилка успех/неудача
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1952
+Param1: 1968
+Param2: 35;
+
+/1968 Запуск торгового каравана, базовый шанс на успех, средние вложения, соседи, вилка критический успех/успех
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1974
+Param1: 1969
+Param2: 80;
+
+/1969 Запуск торгового каравана, базовый шанс на успех, средние вложения, соседи, крит.успех, вилка бонус/нет
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 55
+Power: 98
+Param1: 1970
+Param2: 1972;
+
+/1970 Запуск торгового каравана, базовый шанс на успех, средние вложения, соседи, критический успех с бонусом здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 1971
+Param1: 7
+Param2: 5
+
+Index: 18
+Power: 1971
+Param1: 2
+Param2: 0;
+
+/1971 Запуск торгового каравана, базовый шанс на успех, средние вложения, соседи, критический успех с бонусом здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2434
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 900
+Param1: 200
+Param2: 0;
+
+/1972 Запуск торгового каравана, базовый шанс на успех, средние вложения, соседи, критический успех без бонуса здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 1973
+Param1: 7
+Param2: 5
+
+Index: 18
+Power: 1973
+Param1: 2
+Param2: 0;
+
+/1973 Запуск торгового каравана, базовый шанс на успех, средние вложения, соседи, критический успех без бонуса здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2434
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 800
+Param1: 100
+Param2: 0;
+
+/1974 Запуск торгового каравана, базовый шанс на успех, средние вложения, соседи, успех, вилка
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 55
+Power: 98
+Param1: 1975
+Param2: 1977;
+
+/1975 Запуск торгового каравана, базовый шанс на успех, средние вложения, соседи, успех с бонусом здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 1976
+Param1: 7
+Param2: 5
+
+Index: 18
+Power: 1976
+Param1: 2
+Param2: 0;
+
+/1976 Запуск торгового каравана, базовый шанс на успех, средние вложения, соседи, успех с бонусом здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2435
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 800
+Param1: 200
+Param2: 0;
+
+/1977 Запуск торгового каравана, базовый шанс на успех, средние вложения, соседи, успех без бонуса здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 1978
+Param1: 7
+Param2: 5
+
+Index: 18
+Power: 1978
+Param1: 2
+Param2: 0;
+
+/1978 Запуск торгового каравана, базовый шанс на успех, средние вложения, соседи, успех без бонуса здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2435
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 700
+Param1: 100
+Param2: 0;
+
+/1979 Запуск торгового каравана, базовый шанс на успех, средние вложения, дальние земли, вилка успех/неудача
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1952
+Param1: 1980
+Param2: 50;
+
+/1980 Запуск торгового каравана, базовый шанс на успех, средние вложения, дальние земли, вилка критический успех/успех
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1986
+Param1: 1981
+Param2: 80;
+
+/1981 Запуск торгового каравана, базовый шанс на успех, средние вложения, дальние земли, крит.успех, вилка бонус/нет
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 55
+Power: 98
+Param1: 1982
+Param2: 1984;
+
+/1982 Запуск торгового каравана, базовый шанс на успех, средние вложения, дальние земли, критический успех с бонусом здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 1983
+Param1: 10
+Param2: 7
+
+Index: 18
+Power: 1983
+Param1: 2
+Param2: 0;
+
+/1983 Запуск торгового каравана, базовый шанс на успех, средние вложения, дальние земли, критический успех с бонусом здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2434
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 1100
+Param1: 200
+Param2: 0;
+
+/1984 Запуск торгового каравана, базовый шанс на успех, средние вложения, дальние земли, критический успех без бонуса здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 1985
+Param1: 10
+Param2: 7
+
+Index: 18
+Power: 1985
+Param1: 2
+Param2: 0;
+
+/1985 Запуск торгового каравана, базовый шанс на успех, средние вложения, дальние земли, критический успех без бонуса здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2434
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 1000
+Param1: 100
+Param2: 0;
+
+/1986 Запуск торгового каравана, базовый шанс на успех, средние вложения, дальние земли, успех, вилка
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 55
+Power: 98
+Param1: 1987
+Param2: 1989;
+
+/1987 Запуск торгового каравана, базовый шанс на успех, средние вложения, дальние земли, успех с бонусом здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 1988
+Param1: 10
+Param2: 7
+
+Index: 18
+Power: 1988
+Param1: 2
+Param2: 0;
+
+/1988 Запуск торгового каравана, базовый шанс на успех, средние вложения, дальние земли, успех с бонусом здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2435
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 1000
+Param1: 200
+Param2: 0;
+
+/1989 Запуск торгового каравана, базовый шанс на успех, средние вложения, дальние земли, успех без бонуса здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 1990
+Param1: 10
+Param2: 7
+
+Index: 18
+Power: 1990
+Param1: 2
+Param2: 0;
+
+/1990 Запуск торгового каравана, базовый шанс на успех, средние вложения, дальние земли, успех без бонуса здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2435
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 900
+Param1: 100
+Param2: 0;
+
+/1991 Запуск торгового каравана, базовый шанс на успех, большие вложения, выбор дистанции
+Type: 0
+Possibility: 0
+Dialog: 2433
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1992
+Answer1: 2004
+Answer1: 2016;
+
+*Effects*:
+Index: 1
+Power: -1000
+Param1: 0
+Param2: 0;
+
+/1992 Запуск торгового каравана, базовый шанс на успех, большие вложения, приграничье, вилка успех/неудача
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1952
+Param1: 1993
+Param2: 10;
+
+/1993 Запуск торгового каравана, базовый шанс на успех, большие вложения, приграничье, вилка критический успех/успех
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1999
+Param1: 1994
+Param2: 90;
+
+/1994 Запуск торгового каравана, базовый шанс на успех, большие вложения, приграничье, крит.успех, вилка бонус/нет
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 55
+Power: 98
+Param1: 1995
+Param2: 1997;
+
+/1995 Запуск торгового каравана, базовый шанс на успех, большие вложения, приграничье, критический успех с бонусом здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 1996
+Param1: 5
+Param2: 3
+
+Index: 18
+Power: 1996
+Param1: 2
+Param2: 0;
+
+/1996 Запуск торгового каравана, базовый шанс на успех, большие вложения, приграничье, критический успех с бонусом здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2434
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 1400
+Param1: 250
+Param2: 0;
+
+/1997 Запуск торгового каравана, базовый шанс на успех, большие вложения, приграничье, критический успех без бонуса здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 1998
+Param1: 5
+Param2: 3
+
+Index: 18
+Power: 1998
+Param1: 2
+Param2: 0;
+
+/1998 Запуск торгового каравана, базовый шанс на успех, большие вложения, приграничье, критический успех без бонуса здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2434
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 1200
+Param1: 100
+Param2: 0;
+
+/1999 Запуск торгового каравана, базовый шанс на успех, большие вложения, приграничье, успех, вилка
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 55
+Power: 98
+Param1: 2000
+Param2: 2002;
+
+/2000 Запуск торгового каравана, базовый шанс на успех, большие вложения, приграничье, успех с бонусом здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2001
+Param1: 5
+Param2: 3
+
+Index: 18
+Power: 2001
+Param1: 2
+Param2: 0;
+
+/2001 Запуск торгового каравана, базовый шанс на успех, большие вложения, приграничье, успех с бонусом здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2435
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 1200
+Param1: 250
+Param2: 0;
+
+/2002 Запуск торгового каравана, базовый шанс на успех, большие вложения, приграничье, успех без бонуса здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2003
+Param1: 5
+Param2: 3
+
+Index: 18
+Power: 2003
+Param1: 2
+Param2: 0;
+
+/2003 Запуск торгового каравана, базовый шанс на успех, большие вложения, приграничье, успех без бонуса здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2435
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 1000
+Param1: 100
+Param2: 0;
+
+/2004 Запуск торгового каравана, базовый шанс на успех, большие вложения, соседи, вилка успех/неудача
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1952
+Param1: 2005
+Param2: 20;
+
+/2005 Запуск торгового каравана, базовый шанс на успех, большие вложения, соседи, вилка критический успех/успех
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 2011
+Param1: 2006
+Param2: 90;
+
+/2006 Запуск торгового каравана, базовый шанс на успех, большие вложения, соседи, крит.успех, вилка бонус/нет
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 55
+Power: 98
+Param1: 2007
+Param2: 2009;
+
+/2007 Запуск торгового каравана, базовый шанс на успех, большие вложения, соседи, критический успех с бонусом здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2008
+Param1: 8
+Param2: 5
+
+Index: 18
+Power: 2008
+Param1: 2
+Param2: 0;
+
+/2008 Запуск торгового каравана, базовый шанс на успех, большие вложения, соседи, критический успех с бонусом здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2434
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 1800
+Param1: 250
+Param2: 0;
+
+/2009 Запуск торгового каравана, базовый шанс на успех, большие вложения, соседи, критический успех без бонуса здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2010
+Param1: 8
+Param2: 5
+
+Index: 18
+Power: 2010
+Param1: 2
+Param2: 0;
+
+/2010 Запуск торгового каравана, базовый шанс на успех, большие вложения, соседи, критический успех без бонуса здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2434
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 1600
+Param1: 100
+Param2: 0;
+
+/2011 Запуск торгового каравана, базовый шанс на успех, большие вложения, соседи, успех, вилка
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 55
+Power: 98
+Param1: 2012
+Param2: 2014;
+
+/2012 Запуск торгового каравана, базовый шанс на успех, большие вложения, соседи, успех с бонусом здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2013
+Param1: 8
+Param2: 5
+
+Index: 18
+Power: 2013
+Param1: 2
+Param2: 0;
+
+/2013 Запуск торгового каравана, базовый шанс на успех, большие вложения, соседи, успех с бонусом здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2435
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 1600
+Param1: 250
+Param2: 0;
+
+/2014 Запуск торгового каравана, базовый шанс на успех, большие вложения, соседи, успех без бонуса здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2015
+Param1: 8
+Param2: 5
+
+Index: 18
+Power: 2015
+Param1: 2
+Param2: 0;
+
+/2015 Запуск торгового каравана, базовый шанс на успех, большие вложения, соседи, успех без бонуса здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2435
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 1400
+Param1: 100
+Param2: 0;
+
+/2016 Запуск торгового каравана, базовый шанс на успех, большие вложения, дальние земли, вилка успех/неудача
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1952
+Param1: 2017
+Param2: 30;
+
+/2017 Запуск торгового каравана, базовый шанс на успех, большие вложения, дальние земли, вилка критический успех/успех
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 2023
+Param1: 2018
+Param2: 90;
+
+/2018 Запуск торгового каравана, базовый шанс на успех, большие вложения, дальние земли, крит.успех, вилка бонус/нет
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 55
+Power: 98
+Param1: 2019
+Param2: 2021;
+
+/2019 Запуск торгового каравана, базовый шанс на успех, большие вложения, дальние земли, критический успех с бонусом здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2020
+Param1: 11
+Param2: 7
+
+Index: 18
+Power: 2020
+Param1: 2
+Param2: 0;
+
+/2020 Запуск торгового каравана, базовый шанс на успех, большие вложения, дальние земли, критический успех с бонусом здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2434
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 2200
+Param1: 250
+Param2: 0;
+
+/2021 Запуск торгового каравана, базовый шанс на успех, большие вложения, дальние земли, критический успех без бонуса здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2022
+Param1: 11
+Param2: 7
+
+Index: 18
+Power: 2022
+Param1: 2
+Param2: 0;
+
+/2022 Запуск торгового каравана, базовый шанс на успех, большие вложения, дальние земли, критический успех без бонуса здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2434
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 2000
+Param1: 100
+Param2: 0;
+
+/2023 Запуск торгового каравана, базовый шанс на успех, большие вложения, дальние земли, успех, вилка
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 55
+Power: 98
+Param1: 2024
+Param2: 2026;
+
+/2024 Запуск торгового каравана, базовый шанс на успех, большие вложения, дальние земли, успех с бонусом здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2025
+Param1: 11
+Param2: 7
+
+Index: 18
+Power: 2025
+Param1: 2
+Param2: 0;
+
+/2025 Запуск торгового каравана, базовый шанс на успех, большие вложения, дальние земли, успех с бонусом здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2435
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 2000
+Param1: 250
+Param2: 0;
+
+/2026 Запуск торгового каравана, базовый шанс на успех, большие вложения, дальние земли, успех без бонуса здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2027
+Param1: 11
+Param2: 7
+
+Index: 18
+Power: 2027
+Param1: 2
+Param2: 0;
+
+/2027 Запуск торгового каравана, базовый шанс на успех, большие вложения, дальние земли, успех без бонуса здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2435
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 1800
+Param1: 100
+Param2: 0;
+
+/2028 Запуск торгового каравана, повышенный шанс на успех
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2029
+Param1: 3
+Param2: 8
+
+Index: 18
+Power: 2029
+Param1: 2
+Param2: 0;
+
+/2029 Запуск торгового каравана, повышенный шанс на успех, выбор размера каравана
+Type: 0
+Possibility: 0
+Dialog: 2432
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 2030
+Answer1: 2067
+Answer1: 2104
+Answer4: 1912;
+
+*Effects*:
+Index: 4
+Power: 1
+Param1: 1
+Param2: 200
+
+Index: 4
+Power: 2
+Param1: 1
+Param2: 450
+
+Index: 4
+Power: 3
+Param1: 1
+Param2: 1000;
+
+/2030 Запуск торгового каравана, повышенный шанс на успех, минимальные вложения, выбор дистанции
+Type: 0
+Possibility: 0
+Dialog: 2433
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 2031
+Answer1: 2043
+Answer1: 2055;
+
+*Effects*:
+Index: 1
+Power: -200
+Param1: 0
+Param2: 0;
+
+/2031 Запуск торгового каравана, повышенный шанс на успех, минимальные вложения, приграничье, вилка успех/неудача
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1952
+Param1: 2032
+Param2: 20;
+
+/2032 Запуск торгового каравана, повышенный шанс на успех, минимальные вложения, приграничье, вилка критический успех/успех
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 2038
+Param1: 2033
+Param2: 65;
+
+/2033 Запуск торгового каравана, повышенный шанс на успех, минимальные вложения, приграничье, крит.успех, вилка бонус/нет
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 55
+Power: 98
+Param1: 2034
+Param2: 2036;
+
+/2034 Запуск торгового каравана, повышенный шанс на успех, минимальные вложения, приграничье, критический успех с бонусом здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2035
+Param1: 3
+Param2: 3
+
+Index: 18
+Power: 2035
+Param1: 2
+Param2: 0;
+
+/2035 Запуск торгового каравана, повышенный шанс на успех, минимальные вложения, приграничье, критический успех с бонусом здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2434
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 350
+Param1: 150
+Param2: 0;
+
+/2036 Запуск торгового каравана, повышенный шанс на успех, минимальные вложения, приграничье, критический успех без бонуса здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2037
+Param1: 3
+Param2: 3
+
+Index: 18
+Power: 2037
+Param1: 2
+Param2: 0;
+
+/2037 Запуск торгового каравана, повышенный шанс на успех, минимальные вложения, приграничье, критический успех без бонуса здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2434
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 300
+Param1: 100
+Param2: 0;
+
+/2038 Запуск торгового каравана, повышенный шанс на успех, минимальные вложения, приграничье, успех, вилка
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 55
+Power: 98
+Param1: 2039
+Param2: 2041;
+
+/2039 Запуск торгового каравана, повышенный шанс на успех, минимальные вложения, приграничье, успех с бонусом здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2040
+Param1: 3
+Param2: 3
+
+Index: 18
+Power: 2040
+Param1: 2
+Param2: 0;
+
+/2040 Запуск торгового каравана, повышенный шанс на успех, минимальные вложения, приграничье, успех с бонусом здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2435
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 300
+Param1: 150
+Param2: 0;
+
+/2041 Запуск торгового каравана, повышенный шанс на успех, минимальные вложения, приграничье, успех без бонуса здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2042
+Param1: 3
+Param2: 3
+
+Index: 18
+Power: 2042
+Param1: 2
+Param2: 0;
+
+/2042 Запуск торгового каравана, повышенный шанс на успех, минимальные вложения, приграничье, успех без бонуса здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2435
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 250
+Param1: 100
+Param2: 0;
+
+/2043 Запуск торгового каравана, повышенный шанс на успех, минимальные вложения, соседи, вилка успех/неудача
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1952
+Param1: 2044
+Param2: 40;
+
+/2044 Запуск торгового каравана, повышенный шанс на успех, минимальные вложения, соседи, вилка критический успех/успех
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 2050
+Param1: 2045
+Param2: 65;
+
+/2045 Запуск торгового каравана, повышенный шанс на успех, минимальные вложения, соседи, крит.успех, вилка бонус/нет
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 55
+Power: 98
+Param1: 2046
+Param2: 2048;
+
+/2046 Запуск торгового каравана, повышенный шанс на успех, минимальные вложения, соседи, критический успех с бонусом здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2047
+Param1: 6
+Param2: 5
+
+Index: 18
+Power: 2047
+Param1: 2
+Param2: 0;
+
+/2047 Запуск торгового каравана, повышенный шанс на успех, минимальные вложения, соседи, критический успех с бонусом здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2434
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 450
+Param1: 150
+Param2: 0;
+
+/2048 Запуск торгового каравана, повышенный шанс на успех, минимальные вложения, соседи, критический успех без бонуса здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2049
+Param1: 6
+Param2: 5
+
+Index: 18
+Power: 2049
+Param1: 2
+Param2: 0;
+
+/2049 Запуск торгового каравана, повышенный шанс на успех, минимальные вложения, соседи, критический успех без бонуса здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2434
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 400
+Param1: 100
+Param2: 0;
+
+/2050 Запуск торгового каравана, повышенный шанс на успех, минимальные вложения, соседи, успех, вилка
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 55
+Power: 98
+Param1: 2051
+Param2: 2053;
+
+/2051 Запуск торгового каравана, повышенный шанс на успех, минимальные вложения, соседи, успех с бонусом здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2052
+Param1: 6
+Param2: 5
+
+Index: 18
+Power: 2052
+Param1: 2
+Param2: 0;
+
+/2052 Запуск торгового каравана, повышенный шанс на успех, минимальные вложения, соседи, успех с бонусом здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2435
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 400
+Param1: 150
+Param2: 0;
+
+/2053 Запуск торгового каравана, повышенный шанс на успех, минимальные вложения, соседи, успех без бонуса здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2054
+Param1: 6
+Param2: 5
+
+Index: 18
+Power: 2054
+Param1: 2
+Param2: 0;
+
+/2054 Запуск торгового каравана, повышенный шанс на успех, минимальные вложения, соседи, успех без бонуса здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2435
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 350
+Param1: 100
+Param2: 0;
+
+/2055 Запуск торгового каравана, повышенный шанс на успех, минимальные вложения, дальние земли, вилка успех/неудача
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1952
+Param1: 2056
+Param2: 60;
+
+/2056 Запуск торгового каравана, повышенный шанс на успех, минимальные вложения, дальние земли, вилка критический успех/успех
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 2062
+Param1: 2057
+Param2: 65;
+
+/2057 Запуск торгового каравана, повышенный шанс на успех, минимальные вложения, дальние земли, крит.успех, вилка бонус/нет
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 55
+Power: 98
+Param1: 2058
+Param2: 2060;
+
+/2058 Запуск торгового каравана, повышенный шанс на успех, минимальные вложения, дальние земли, критический успех с бонусом здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2059
+Param1: 9
+Param2: 7
+
+Index: 18
+Power: 2059
+Param1: 2
+Param2: 0;
+
+/2059 Запуск торгового каравана, повышенный шанс на успех, минимальные вложения, дальние земли, критический успех с бонусом здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2434
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 550
+Param1: 150
+Param2: 0;
+
+/2060 Запуск торгового каравана, повышенный шанс на успех, минимальные вложения, дальние земли, критический успех без бонуса здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2061
+Param1: 9
+Param2: 7
+
+Index: 18
+Power: 2061
+Param1: 2
+Param2: 0;
+
+/2061 Запуск торгового каравана, повышенный шанс на успех, минимальные вложения, дальние земли, критический успех без бонуса здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2434
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 500
+Param1: 100
+Param2: 0;
+
+/2062 Запуск торгового каравана, повышенный шанс на успех, минимальные вложения, дальние земли, успех, вилка
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 55
+Power: 98
+Param1: 2063
+Param2: 2065;
+
+/2063 Запуск торгового каравана, повышенный шанс на успех, минимальные вложения, дальние земли, успех с бонусом здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2064
+Param1: 9
+Param2: 7
+
+Index: 18
+Power: 2064
+Param1: 2
+Param2: 0;
+
+/2064 Запуск торгового каравана, повышенный шанс на успех, минимальные вложения, дальние земли, успех с бонусом здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2435
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 500
+Param1: 150
+Param2: 0;
+
+/2065 Запуск торгового каравана, повышенный шанс на успех, минимальные вложения, дальние земли, успех без бонуса здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2066
+Param1: 9
+Param2: 7
+
+Index: 18
+Power: 2066
+Param1: 2
+Param2: 0;
+
+/2066 Запуск торгового каравана, повышенный шанс на успех, минимальные вложения, дальние земли, успех без бонуса здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2435
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 450
+Param1: 100
+Param2: 0;
+
+/2067 Запуск торгового каравана, повышенный шанс на успех, средние вложения, выбор дистанции
+Type: 0
+Possibility: 0
+Dialog: 2433
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 2068
+Answer1: 2080
+Answer1: 2092;
+
+*Effects*:
+Index: 1
+Power: -450
+Param1: 0
+Param2: 0;
+
+/2068 Запуск торгового каравана, повышенный шанс на успех, средние вложения, приграничье, вилка успех/неудача
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1952
+Param1: 2069
+Param2: 10;
+
+/2069 Запуск торгового каравана, повышенный шанс на успех, средние вложения, приграничье, вилка критический успех/успех
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 2075
+Param1: 2070
+Param2: 75;
+
+/2070 Запуск торгового каравана, повышенный шанс на успех, средние вложения, приграничье, крит.успех, вилка бонус/нет
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 55
+Power: 98
+Param1: 2071
+Param2: 2073;
+
+/2071 Запуск торгового каравана, повышенный шанс на успех, средние вложения, приграничье, критический успех с бонусом здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2072
+Param1: 4
+Param2: 3
+
+Index: 18
+Power: 2072
+Param1: 2
+Param2: 0;
+
+/2072 Запуск торгового каравана, повышенный шанс на успех, средние вложения, приграничье, критический успех с бонусом здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2434
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 700
+Param1: 200
+Param2: 0;
+
+/2073 Запуск торгового каравана, повышенный шанс на успех, средние вложения, приграничье, критический успех без бонуса здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2074
+Param1: 4
+Param2: 3
+
+Index: 18
+Power: 2074
+Param1: 2
+Param2: 0;
+
+/2074 Запуск торгового каравана, повышенный шанс на успех, средние вложения, приграничье, критический успех без бонуса здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2434
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 600
+Param1: 100
+Param2: 0;
+
+/2075 Запуск торгового каравана, повышенный шанс на успех, средние вложения, приграничье, успех, вилка
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 55
+Power: 98
+Param1: 2076
+Param2: 2078;
+
+/2076 Запуск торгового каравана, повышенный шанс на успех, средние вложения, приграничье, успех с бонусом здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2077
+Param1: 4
+Param2: 3
+
+Index: 18
+Power: 2077
+Param1: 2
+Param2: 0;
+
+/2077 Запуск торгового каравана, повышенный шанс на успех, средние вложения, приграничье, успех с бонусом здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2435
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 600
+Param1: 200
+Param2: 0;
+
+/2078 Запуск торгового каравана, базовый шанс на успех, средние вложения, приграничье, успех без бонуса здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2079
+Param1: 4
+Param2: 3
+
+Index: 18
+Power: 2079
+Param1: 2
+Param2: 0;
+
+/2079 Запуск торгового каравана, повышенный шанс на успех, средние вложения, приграничье, успех без бонуса здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2435
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 500
+Param1: 100
+Param2: 0;
+
+/2080 Запуск торгового каравана, повышенный шанс на успех, средние вложения, соседи, вилка успех/неудача
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1952
+Param1: 2081
+Param2: 25;
+
+/2081 Запуск торгового каравана, повышенный шанс на успех, средние вложения, соседи, вилка критический успех/успех
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 2087
+Param1: 2082
+Param2: 75;
+
+/2082 Запуск торгового каравана, повышенный шанс на успех, средние вложения, соседи, крит.успех, вилка бонус/нет
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 55
+Power: 98
+Param1: 2083
+Param2: 2085;
+
+/2083 Запуск торгового каравана, повышенный шанс на успех, средние вложения, соседи, критический успех с бонусом здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2084
+Param1: 7
+Param2: 5
+
+Index: 18
+Power: 2084
+Param1: 2
+Param2: 0;
+
+/2084 Запуск торгового каравана, повышенный шанс на успех, средние вложения, соседи, критический успех с бонусом здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2434
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 900
+Param1: 200
+Param2: 0;
+
+/2085 Запуск торгового каравана, повышенный шанс на успех, средние вложения, соседи, критический успех без бонуса здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2086
+Param1: 7
+Param2: 5
+
+Index: 18
+Power: 2086
+Param1: 2
+Param2: 0;
+
+/2086 Запуск торгового каравана, повышенный шанс на успех, средние вложения, соседи, критический успех без бонуса здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2434
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 800
+Param1: 100
+Param2: 0;
+
+/2087 Запуск торгового каравана, повышенный шанс на успех, средние вложения, соседи, успех, вилка
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 55
+Power: 98
+Param1: 2088
+Param2: 2090;
+
+/2088 Запуск торгового каравана, повышенный шанс на успех, средние вложения, соседи, успех с бонусом здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2089
+Param1: 7
+Param2: 5
+
+Index: 18
+Power: 2089
+Param1: 2
+Param2: 0;
+
+/2089 Запуск торгового каравана, повышенный шанс на успех, средние вложения, соседи, успех с бонусом здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2435
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 800
+Param1: 200
+Param2: 0;
+
+/2090 Запуск торгового каравана, повышенный шанс на успех, средние вложения, соседи, успех без бонуса здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2091
+Param1: 7
+Param2: 5
+
+Index: 18
+Power: 2091
+Param1: 2
+Param2: 0;
+
+/2091 Запуск торгового каравана, базовый шанс на успех, средние вложения, соседи, успех без бонуса здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2435
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 700
+Param1: 100
+Param2: 0;
+
+/2092 Запуск торгового каравана, повышенный шанс на успех, средние вложения, дальние земли, вилка успех/неудача
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1952
+Param1: 2093
+Param2: 40;
+
+/2093 Запуск торгового каравана, повышенный шанс на успех, средние вложения, дальние земли, вилка критический успех/успех
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 2099
+Param1: 2094
+Param2: 75;
+
+/2094 Запуск торгового каравана, повышенный шанс на успех, средние вложения, дальние земли, крит.успех, вилка бонус/нет
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 55
+Power: 98
+Param1: 2095
+Param2: 2097;
+
+/2095 Запуск торгового каравана, повышенный шанс на успех, средние вложения, дальние земли, критический успех с бонусом здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2096
+Param1: 10
+Param2: 7
+
+Index: 18
+Power: 2096
+Param1: 2
+Param2: 0;
+
+/2096 Запуск торгового каравана, повышенный шанс на успех, средние вложения, дальние земли, критический успех с бонусом здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2434
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 1100
+Param1: 200
+Param2: 0;
+
+/2097 Запуск торгового каравана, повышенный шанс на успех, средние вложения, дальние земли, критический успех без бонуса здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2098
+Param1: 10
+Param2: 7
+
+Index: 18
+Power: 2098
+Param1: 2
+Param2: 0;
+
+/2098 Запуск торгового каравана, повышенный шанс на успех, средние вложения, дальние земли, критический успех без бонуса здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2434
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 1000
+Param1: 100
+Param2: 0;
+
+/2099 Запуск торгового каравана, повышенный шанс на успех, средние вложения, дальние земли, успех, вилка
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 55
+Power: 98
+Param1: 2100
+Param2: 2102;
+
+/2100 Запуск торгового каравана, повышенный шанс на успех, средние вложения, дальние земли, успех с бонусом здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2101
+Param1: 10
+Param2: 7
+
+Index: 18
+Power: 2101
+Param1: 2
+Param2: 0;
+
+/2101 Запуск торгового каравана, повышенный шанс на успех, средние вложения, дальние земли, успех с бонусом здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2435
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 1000
+Param1: 200
+Param2: 0;
+
+/2102 Запуск торгового каравана, повышенный шанс на успех, средние вложения, дальние земли, успех без бонуса здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2103
+Param1: 10
+Param2: 7
+
+Index: 18
+Power: 2103
+Param1: 2
+Param2: 0;
+
+/2103 Запуск торгового каравана, повышенный шанс на успех, средние вложения, дальние земли, успех без бонуса здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2435
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 900
+Param1: 100
+Param2: 0;
+
+/2104 Запуск торгового каравана, повышенный шанс на успех, большие вложения, выбор дистанции
+Type: 0
+Possibility: 0
+Dialog: 2433
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 2105
+Answer1: 2117
+Answer1: 2129;
+
+*Effects*:
+Index: 1
+Power: -1000
+Param1: 0
+Param2: 0;
+
+/2105 Запуск торгового каравана, повышенный шанс на успех, большие вложения, приграничье, вилка успех/неудача
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1952
+Param1: 2106
+Param2: 0;
+
+/2106 Запуск торгового каравана, повышенный шанс на успех, большие вложения, приграничье, вилка критический успех/успех
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 2112
+Param1: 2107
+Param2: 85;
+
+/2107 Запуск торгового каравана, повышенный шанс на успех, большие вложения, приграничье, крит.успех, вилка бонус/нет
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 55
+Power: 98
+Param1: 2108
+Param2: 2110;
+
+/2108 Запуск торгового каравана, повышенный шанс на успех, большие вложения, приграничье, критический успех с бонусом здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2109
+Param1: 5
+Param2: 3
+
+Index: 18
+Power: 2109
+Param1: 2
+Param2: 0;
+
+/2109 Запуск торгового каравана, повышенный шанс на успех, большие вложения, приграничье, критический успех с бонусом здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2434
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 1400
+Param1: 250
+Param2: 0;
+
+/2110 Запуск торгового каравана, повышенный шанс на успех, большие вложения, приграничье, критический успех без бонуса здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2111
+Param1: 5
+Param2: 3
+
+Index: 18
+Power: 2111
+Param1: 2
+Param2: 0;
+
+/2111 Запуск торгового каравана, повышенный шанс на успех, большие вложения, приграничье, критический успех без бонуса здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2434
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 1200
+Param1: 100
+Param2: 0;
+
+/2112 Запуск торгового каравана, повышенный шанс на успех, большие вложения, приграничье, успех, вилка
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 55
+Power: 98
+Param1: 2113
+Param2: 2115;
+
+/2113 Запуск торгового каравана, повышенный шанс на успех, большие вложения, приграничье, успех с бонусом здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2114
+Param1: 5
+Param2: 3
+
+Index: 18
+Power: 2114
+Param1: 2
+Param2: 0;
+
+/2114 Запуск торгового каравана, повышенный шанс на успех, большие вложения, приграничье, успех с бонусом здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2435
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 1200
+Param1: 250
+Param2: 0;
+
+/2115 Запуск торгового каравана, повышенный шанс на успех, большие вложения, приграничье, успех без бонуса здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2116
+Param1: 5
+Param2: 3
+
+Index: 18
+Power: 2116
+Param1: 2
+Param2: 0;
+
+/2116 Запуск торгового каравана, повышенный шанс на успех, большие вложения, приграничье, успех без бонуса здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2435
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 1000
+Param1: 100
+Param2: 0;
+
+/2117 Запуск торгового каравана, повышенный шанс на успех, большие вложения, соседи, вилка успех/неудача
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1952
+Param1: 2118
+Param2: 10;
+
+/2118 Запуск торгового каравана, повышенный шанс на успех, большие вложения, соседи, вилка критический успех/успех
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 2124
+Param1: 2119
+Param2: 85;
+
+/2119 Запуск торгового каравана, повышенный шанс на успех, большие вложения, соседи, крит.успех, вилка бонус/нет
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 55
+Power: 98
+Param1: 2120
+Param2: 2122;
+
+/2120 Запуск торгового каравана, повышенный шанс на успех, большие вложения, соседи, критический успех с бонусом здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2121
+Param1: 8
+Param2: 5
+
+Index: 18
+Power: 2121
+Param1: 2
+Param2: 0;
+
+/2121 Запуск торгового каравана, повышенный шанс на успех, большие вложения, соседи, критический успех с бонусом здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2434
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 1800
+Param1: 250
+Param2: 0;
+
+/2122 Запуск торгового каравана, повышенный шанс на успех, большие вложения, соседи, критический успех без бонуса здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2123
+Param1: 8
+Param2: 5
+
+Index: 18
+Power: 2123
+Param1: 2
+Param2: 0;
+
+/2123 Запуск торгового каравана, повышенный шанс на успех, большие вложения, соседи, критический успех без бонуса здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2434
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 1600
+Param1: 100
+Param2: 0;
+
+/2124 Запуск торгового каравана, повышенный шанс на успех, большие вложения, соседи, успех, вилка
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 55
+Power: 98
+Param1: 2125
+Param2: 2127;
+
+/2125 Запуск торгового каравана, повышенный шанс на успех, большие вложения, соседи, успех с бонусом здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2126
+Param1: 8
+Param2: 5
+
+Index: 18
+Power: 2126
+Param1: 2
+Param2: 0;
+
+/2126 Запуск торгового каравана, повышенный шанс на успех, большие вложения, соседи, успех с бонусом здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2435
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 1600
+Param1: 250
+Param2: 0;
+
+/2127 Запуск торгового каравана, повышенный шанс на успех, большие вложения, соседи, успех без бонуса здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2128
+Param1: 8
+Param2: 5
+
+Index: 18
+Power: 2128
+Param1: 2
+Param2: 0;
+
+/2128 Запуск торгового каравана, повышенный шанс на успех, большие вложения, соседи, успех без бонуса здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2435
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 1400
+Param1: 100
+Param2: 0;
+
+/2129 Запуск торгового каравана, повышенный шанс на успех, большие вложения, дальние земли, вилка успех/неудача
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 1952
+Param1: 2130
+Param2: 20;
+
+/2130 Запуск торгового каравана, повышенный шанс на успех, большие вложения, дальние земли, вилка критический успех/успех
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 2136
+Param1: 2131
+Param2: 85;
+
+/2131 Запуск торгового каравана, повышенный шанс на успех, большие вложения, дальние земли, крит.успех, вилка бонус/нет
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 55
+Power: 98
+Param1: 2132
+Param2: 2134;
+
+/2132 Запуск торгового каравана, повышенный шанс на успех, большие вложения, дальние земли, критический успех с бонусом здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2133
+Param1: 11
+Param2: 7
+
+Index: 18
+Power: 2133
+Param1: 2
+Param2: 0;
+
+/2133 Запуск торгового каравана, повышенный шанс на успех, большие вложения, дальние земли, критический успех с бонусом здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2434
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 2200
+Param1: 250
+Param2: 0;
+
+/2134 Запуск торгового каравана, повышенный шанс на успех, большие вложения, дальние земли, критический успех без бонуса здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2135
+Param1: 11
+Param2: 7
+
+Index: 18
+Power: 2135
+Param1: 2
+Param2: 0;
+
+/2135 Запуск торгового каравана, повышенный шанс на успех, большие вложения, дальние земли, критический успех без бонуса здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2434
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 2000
+Param1: 100
+Param2: 0;
+
+/2136 Запуск торгового каравана, повышенный шанс на успех, большие вложения, дальние земли, успех, вилка
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 55
+Power: 98
+Param1: 2137
+Param2: 2139;
+
+/2137 Запуск торгового каравана, повышенный шанс на успех, большие вложения, дальние земли, успех с бонусом здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2138
+Param1: 11
+Param2: 7
+
+Index: 18
+Power: 2138
+Param1: 2
+Param2: 0;
+
+/2138 Запуск торгового каравана, повышенный шанс на успех, большие вложения, дальние земли, успех с бонусом здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2435
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 2000
+Param1: 250
+Param2: 0;
+
+/2139 Запуск торгового каравана, повышенный шанс на успех, большие вложения, дальние земли, успех без бонуса здания
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2140
+Param1: 11
+Param2: 7
+
+Index: 18
+Power: 2140
+Param1: 2
+Param2: 0;
+
+/2140 Запуск торгового каравана, повышенный шанс на успех, большие вложения, дальние земли, успех без бонуса здания (прибытие)
+Type: 0
+Possibility: 0
+Dialog: 2435
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 1912
+Answer2: 1912;
+
+*Effects*:
+Index: 1
+Power: 1800
+Param1: 100
 Param2: 0;

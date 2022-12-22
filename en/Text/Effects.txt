@@ -38,7 +38,7 @@
 #The unit's armor is enchanted. This spell increases his defense and ranged defense by 3.#
 
 13. Magic Weapon
-#The unit's weapon is enchanted. This spell increases all types of attack by 2.#
+#The unit's weapon is enchanted. This spell increases all types of Attack by 2.#
 
 14. Head Wind
 #A strong head wind impedes shooting and movement. The unit's Range and Ranged Attack are reduced by 1, Speed by 2.#
@@ -125,7 +125,7 @@
 #The unit's armor and resistance are increased by 20.#
 
 42. Pestilence
-#The unit is infected with a disease, and gradually loses stamina. The unit's speed is decreased by 1, and all types of attack are decreased by 3.#
+#The unit is infected with a disease, and gradually loses stamina. The unit's speed is decreased by 1, and all types of Attack are decreased by 3.#
 
 43. Corrupt
 #All of the unit's parameters are decreased by 4.#
@@ -188,7 +188,7 @@
 #Unit's speed is reduced by 2 and armor by 1 under the effect of the spell. Unit loses one Stamina each turn.#
 
 63. Weakness
-#This spell decreases all types of attack by 3.#
+#This spell decreases all types of Attack by 3.#
 
 64. Armor Break
 #This spell decreases defense by 6.#
@@ -197,7 +197,7 @@
 #The unit is infected with a disease. It loses hit points and stamina each turn and its attack and speed are reduced.#
 
 66. Power Word - Curse
-#Unit forgotten how to fight. All types of attack are set to 0.#
+#Unit forgotten how to fight. All types of Attack are set to 0.#
 
 67. Power Word - Hold
 #The unit is paralyzed. It cannot act.#
@@ -263,7 +263,7 @@
 #This spell increases Attack and Defense attributes by 2, and reduces damage from Undead and Demons by 50~.#
 
 88. Divine Light
-#The unit is blinded. All types of attack are set to 0.#
+#The unit is blinded. All types of Attack are set to 0.#
 
 89. Divine Seal
 #The unit is unable to use spells.#
@@ -353,7 +353,7 @@
 #Undead unit is under control of enemy spell.#
 
 118. Enchanted Weapon
-#The unit's weapon is enchanted. This spell increases all types of attack by 1.#
+#The unit's weapon is enchanted. This spell increases all types of Attack by 1.#
 
 119. Quen Sign
 #Invisible but touchable barrier protects the Witcher. His defense, ranged defense and resistance is increased by 2.#
@@ -371,7 +371,7 @@
 #The unit is able to move freely on any terrain.#
 
 124. Word of Peace
-#The unit has become less vulnerable, but his fighting capabilities is worse. All types of defense and resistance is increased by 5, all types of attack are reduced by 10.#
+#The unit has become less vulnerable, but his fighting capabilities is worse. All types of Defense and Resistance are increased by 5, all types of Attack are reduced by 10.#
 
 125. Fever
 #The unit is infected with a disease. It loses 1 stamina each turn, and all its attributes are reduced by 1.#
@@ -436,7 +436,7 @@ It loses 3 points of stamina and morale each turn.#
 #Earth is burning under the feet of the unit. It is taking damage with every move, its speed is decreased by 1.#
 
 145. Natural Weapon.
-#The unit wields weapons with natural enchantment. This spell increases all types of attack by 5.#
+#The unit wields weapons with natural enchantment. This spell increases all types of Attack by 5.#
 
 146. Enchanted Fang
 #The unit's Attacks are increased at least by 1, and it deals magic damage.#
@@ -523,7 +523,7 @@ It loses 3 points of stamina and morale each turn.#
 #The unit is paralyzed. It cannot act.#
 
 174. Eternal Light
-#All types of attacks, defense and resistance of the unit increased by 1. The unit suffers 2 points of damage each turn.#
+#All types of Attack, Defense, and Resistance of the unit increased by 1. The unit suffers 2 points of damage each turn.#
 
 175. Heaven's Rage
 #The unit suffers 5 points of damage by divine power each turn.#
@@ -571,7 +571,7 @@ It loses 3 points of stamina and morale each turn.#
 #This spell makes the unit intrepid.#
 
 190. Shadow Form Priestess
-#The unit is in shadow form. The unit's ranged attack is increased by 6, its range by 2, but its resistance protects only partially against spells. The unit is incorporeal and is able to reduce the enemy's resistance by 1 with each shot. It  possesses bloodlust 2. The unit's resistance is reduced by half and it loses 2 morale points each turn. Spell duration is reduced by 1, and it loses its healing power.#
+#The unit is in shadow form. The unit's ranged attack is increased by 6, its range by 2, but its resistance protects only partially against spells. The unit is incorporeal and is able to reduce the enemy's resistance by 1 with each shot. It  possesses Bloodlust 1. The unit's resistance is reduced by half and it loses 2 morale points each turn. Spell duration is reduced by 1, and it loses its healing power.#
 
 191. Drow Rage
 #The unit's melee and ranged attack is increased by 2, speed by 1. The unit gets 2 additional morale points for killing the enemy in melee combat.#

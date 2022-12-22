@@ -177,7 +177,8 @@ Allows hiring the Local Militia guard.#
 #Reduces the cost of construction in the castle by 10~. Allows upgrading an Outpost in provinces to a Fort.#
 
 42. Market
-#Income +5. Reduces the cost of buying resources by 10~. Allows building a Storehouse in provinces.#
+#Income +5. Reduces the cost of buying resources by 10~. Allows building a Storehouse in provinces.
+Periodically sends trade caravans from the Capital.#
 
 43. Sages Guild
 #Allows building a Library in provinces.
@@ -218,7 +219,8 @@ Provides 1 contract with the Vassal guard.#
 #Attracts better mercenaries to the castle. Increases the probability of employing the services of Adventurers. Allows hiring the Mercenary guard.#
 
 54. Pathfinders Guild
-#Speeds up province exploration by 25~. Reveals hidden deposits in forest provinces.#
+#Speeds up province exploration by 25~. Reveals hidden deposits in forest provinces.
+Allows the recruitment of Basilisks and Swamp Dragonflies, if their eggs are present in the treasury.#
 
 55. Geologists Guild
 #Increases income from hilly provinces by 1. Reveals hidden deposits in hilly provinces. Allows you to build a Crystal Mine.#
@@ -230,7 +232,8 @@ Provides 1 contract with the Vassal guard.#
 #Yields 1 gem per turn. Allows hiring the Forest Spirits guard. Reduces the delay between rituals by 1.#
 
 58. Traders Guild
-#Income +15.  Reduces the cost of buying resources by 10~. Allows upgrading a Storehouse in provinces to a Mall.#
+#Income +15.  Reduces the cost of buying resources by 10~. Allows upgrading a Storehouse in provinces to a Mall.
+Increases the probability of trade caravans returning successfully.#
 
 59. Winery
 #Improves population mood in the capital by 1. Increases morale of the stronghold's garrison by 2. Allows upgrading a Mill in provinces to a Brewery.#
@@ -255,10 +258,10 @@ Allows the hero to purchase the spell scrolls Eternal Light.#
 #Opponents' income -10. Allows hiring the Gang of Thieves guard.#
 
 66. Lookout Tower
-#Increases the attack of the stronghold's towers by 2. Allows hiring the Guards guard.#
+#Increases the attack of the stronghold's towers. Allows hiring the Guards guard.#
 
 67. Watchtower
-#Increases the attack of the stronghold's towers by 1. Allows hiring the Watchmen guard.#
+#Increases the attack of the stronghold's towers. Allows hiring the Watchmen guard.#
 
 68. Warriors Guild
 #Increases recruits' experience by 20. Allows hiring the Patrolmen guard.#
@@ -409,10 +412,11 @@ The castle cannot have more than 4 buildings of this type.#
 #Yields 2 gems per turn.#
 
 97. Swamp Trappers Guild
-#Allows the recruitment of Giant Spiders, Birdeaters, Basilisks, Giant Slugs and Swamp Dragonflies, if their eggs are present in the treasury.#
+#Allows the recruitment of Giant Spiders, Birdeaters, and Giant Slugs, if their eggs are present in the treasury.#
 
 98. Chamber of Commerce
-#Income +20.  Reduces the cost of buying resources by 10~. Allows upgrading a Tavern in provinces to an Inn.#
+#Income +20.  Reduces the cost of buying resources by 10~. Allows upgrading a Tavern in provinces to an Inn.
+Increases gold income from trade caravans.#
 
 99. Finance House
 #Income +3~ of gold already available.#
@@ -431,7 +435,7 @@ The castle cannot have more than 4 buildings of this type.#
 Allows heroes to purchase Magical Arrows.#
 
 104. Citadel
-#Adds space for third rank units in the garrison. Increases the wall strength of the stronghold and adds one battle tower. Increases the attack of the stronghold's towers by 1 and adds to their protection.#
+#Adds space for third rank units in the garrison. Increases the wall strength of the stronghold and adds one battle tower. Increases the attack of the stronghold's towers, and enhances their toughness.#
 
 105. Court
 #Slows unrest growth in the capital. Allows upgrading a Deputy's House in provinces to a Judge's House. Reduces corruption by 20~.#
@@ -626,7 +630,7 @@ The castle cannot have more than 3 buildings of this type.#
 #Speeds up province exploration by 30~. Allows upgrading a Port in provinces to a Lighthouse.#
 
 149. Castle
-#Adds space for fourth rank units in the garrison. Increases the wall strength of the stronghold and adds one battle tower. Increases the attack of the stronghold's towers by 1 and adds to their protection.#
+#Adds space for fourth rank units in the garrison. Increases the wall strength of the stronghold and adds one battle tower. Increases the attack of the stronghold's towers, and enhances their toughness.#
 
 150. Artifact Market
 #Allows heroes to purchase simple magic items. Allows hiring the Gargoyles guard.
@@ -811,7 +815,7 @@ Reduces the gem upkeep of garrison units by 20~.#
 #Increases population growth in all provinces.#
 
 190. Palace
-#Improves diplomatic relations. Increases the strength of castle walls. Adds a tower to castle fortifications and increases their strength. Increases the stronghold's towers attack by 1. Attracts better mercenaries to the castle. Allows upgrading a Fortress in provinces to a Castle. Reduces corruption by 30~.#
+#Improves diplomatic relations. Increases the strength of castle walls. Adds a tower to castle fortifications and increases their strength. Increases Attack of towers. Attracts better mercenaries to the castle. Allows upgrading a Fortress in provinces to a Castle. Reduces corruption by 30~.#
 
 191. Elven Quarter 
 #Allows the recruitment of Elves. Allows building Elven Gardens in forest provinces.#
@@ -905,7 +909,8 @@ Provides 3 contract with the Lord of the Undead guard.#
 #Allows recruiting Runemasters and Dwarven Scorpions.#
 
 218. Great Hall
-#Allows recruiting Earthshakers and Colossus. Allows the recruitment of Dwarven Cannons, if you have the proper scroll. Allows recruiting the Dwarven Army guards.#
+#Allows recruiting Colossus. Allows the recruitment of Dwarven Cannons, if you have the proper scroll. Allows recruiting the Dwarven Army guards.
+Periodically, craftsmen will build Earthshakers, and put them on sale.#
 
 219. Goblin Hut
 #Allows recruiting Trappers.#
