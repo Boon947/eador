@@ -3893,3 +3893,4 @@ Mеню (Esc)	Menu (Esc)
 Мощь	Might
 квазит	Quasit
 Наяда	Naiad
+направляемых караванов	trade caravans
