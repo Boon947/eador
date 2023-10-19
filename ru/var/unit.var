@@ -95,7 +95,7 @@ Stamina: 10
 Morale: 9
 Exp: 10
 ExpMod: 35
-GoldPrice: 10
+GoldPrice: 13
 GemPrice: 0
 GoldPayment: 2
 GemPayment: 0
@@ -408,9 +408,9 @@ Stamina: 10
 Morale: 10
 Exp: 20
 ExpMod: 90
-GoldPrice: 45
+GoldPrice: 55
 GemPrice: 0
-GoldPayment: 9
+GoldPayment: 11
 GemPayment: 0
 Subtype: (1, 6)
 Analogs: (81)
@@ -488,9 +488,9 @@ Stamina: 10
 Morale: 10
 Exp: 20
 ExpMod: 85
-GoldPrice: 40
+GoldPrice: 45
 GemPrice: 0
-GoldPayment: 8
+GoldPayment: 9
 GemPayment: 0
 Subtype: (1, 6)
 Analogs: (120)
@@ -570,9 +570,9 @@ Stamina: 10
 Morale: 10
 Exp: 23
 ExpMod: 90
-GoldPrice: 55
+GoldPrice: 60
 GemPrice: 0
-GoldPayment: 11
+GoldPayment: 12
 GemPayment: 0
 Subtype: (1, 6)
 Analogs: (84)
@@ -726,9 +726,9 @@ Stamina: 12
 Morale: 10
 Exp: 20
 ExpMod: 65
-GoldPrice: 30
+GoldPrice: 25
 GemPrice: 0
-GoldPayment: 6
+GoldPayment: 5
 GemPayment: 0
 Subtype: (1, 6)
 Analogs: (85)
@@ -960,14 +960,14 @@ Resist: 3
 Speed: 2
 RangedAttack: 6
 ShootingRange: 4
-Ammo: 4
+Ammo: 5
 Stamina: 10
 Morale: 10
 Exp: 22
 ExpMod: 90
-GoldPrice: 25
-GemPrice: 10
-GoldPayment: 5
+GoldPrice: 15
+GemPrice: 4
+GoldPayment: 3
 GemPayment: 1
 Subtype: (1, 6)
 Analogs: (87)
@@ -1044,9 +1044,9 @@ Stamina: 10
 Morale: 6
 Exp: 11
 ExpMod: 50
-GoldPrice: 5
+GoldPrice: 10
 GemPrice: 0
-GoldPayment: 1
+GoldPayment: 2
 GemPayment: 0
 Subtype: (1, 9)
 Analogs: (77, 96, 129, 130)
@@ -1110,7 +1110,7 @@ Lvl 20 loot: (0, 0)
 /14
 Name: Орк;
 Level: 1
-Life: 28
+Life: 32
 Attack: 8
 CounterAttack: 8
 Defence: 2
@@ -1124,9 +1124,9 @@ Stamina: 12
 Morale: 8
 Exp: 18
 ExpMod: 75
-GoldPrice: 35
+GoldPrice: 20
 GemPrice: 0
-GoldPayment: 7
+GoldPayment: 4
 GemPayment: 0
 Subtype: (1, 10)
 Analogs: (73, 100, 109, 110, 195)
@@ -1529,8 +1529,8 @@ Stamina: 10
 Morale: 10
 Exp: 17
 ExpMod: 70
-GoldPrice: 5
-GemPrice: 4
+GoldPrice: 4
+GemPrice: 2
 GoldPayment: 0
 GemPayment: 1
 Subtype: (2, 25)
@@ -1599,7 +1599,7 @@ Attack: 7
 CounterAttack: 7
 Defence: 0
 RangedDefence: 2
-Resist: 1
+Resist: 2
 Speed: 1
 RangedAttack: 0
 ShootingRange: 0
@@ -1608,10 +1608,10 @@ Stamina: 10
 Morale: 10
 Exp: 20
 ExpMod: 80
-GoldPrice: 10
-GemPrice: 8
+GoldPrice: 6
+GemPrice: 2
 GoldPayment: 0
-GemPayment: 2
+GemPayment: 1
 Subtype: (2)
 Analogs: (92)
 UnitClass: 1
@@ -1686,8 +1686,8 @@ Stamina: 10
 Morale: 10
 Exp: 16
 ExpMod: 110
-GoldPrice: 25
-GemPrice: 5
+GoldPrice: 20
+GemPrice: 4
 GoldPayment: 0
 GemPayment: 1
 Subtype: (3, 28)
@@ -1798,7 +1798,7 @@ Lvl 07 upgrades: (1, 4; 26, 4; 4, 4; 141, 5)
 Lvl 08 upgrades: (30, 4; 13, 4)
 Lvl 09 upgrades: (1, 4; 16, 4; 7, 4)
 Lvl 10 upgrades: (30, 4; 26, 4; 20, 4; 65, 3)
-Lvl 11 upgrades: (1, 4; 34, 4; 4, 4; 548, 3)
+Lvl 11 upgrades: (1, 4; 34, 4; 4, 4; 547, 3)
 Lvl 12 upgrades: (31, 4; 26, 4; 10, 4)
 Lvl 13 upgrades: (2, 4; 16, 4; 7, 4)
 Lvl 14 upgrades: (31, 4; 42, 4; 20, 4)
@@ -1929,7 +1929,7 @@ Stamina: 11
 Morale: 11
 Exp: 30
 ExpMod: 100
-GoldPrice: 80
+GoldPrice: 90
 GemPrice: 10
 GoldPayment: 16
 GemPayment: 2
@@ -2232,8 +2232,8 @@ Lvl 20 loot: (0, 0)
 /28
 Name: Громила;
 Level: 2
-Life: 35
-Attack: 14
+Life: 32
+Attack: 13
 CounterAttack: 9
 Defence: 2
 RangedDefence: 2
@@ -2246,9 +2246,9 @@ Stamina: 12
 Morale: 9
 Exp: 30
 ExpMod: 100
-GoldPrice: 60
+GoldPrice: 80
 GemPrice: 0
-GoldPayment: 12
+GoldPayment: 16
 GemPayment: 0
 Subtype: (1, 6)
 Analogs: (152)
@@ -2485,9 +2485,9 @@ Stamina: 10
 Morale: 10
 Exp: 30
 ExpMod: 100
-GoldPrice: 70
+GoldPrice: 60
 GemPrice: 0
-GoldPayment: 14
+GoldPayment: 12
 GemPayment: 0
 Subtype: (1)
 Analogs: (0)
@@ -2504,26 +2504,27 @@ Resource: (0)
 Abilityes:
 Flying: 44
 Steal_Ammo: 74
+Maradeur10: 86
 Strike_and_return: 274;
 		
-Lvl 01 upgrades: (1, 4; 4, 4; 34, 4; 10, 4)
-Lvl 02 upgrades: (30, 4; 7, 4; 16, 4)
-Lvl 03 upgrades: (1, 4; 13, 4)
-Lvl 04 upgrades: (30, 4; 4, 4; 720, 3)
+Lvl 01 upgrades: (1, 4; 4, 4; 34, 3; 10, 4)
+Lvl 02 upgrades: (31, 4; 7, 4; 16, 4)
+Lvl 03 upgrades: (1, 4; 13, 4; 34, 3)
+Lvl 04 upgrades: (31, 4; 4, 4; 720, 3)
 Lvl 05 upgrades: (1, 4; 7, 4; 10, 4)
-Lvl 06 upgrades: (31, 4; 34, 4; 16, 4)
+Lvl 06 upgrades: (31, 4; 34, 3; 16, 4)
 Lvl 07 upgrades: (2, 4; 4, 4; 13, 4)
-Lvl 08 upgrades: (31, 4; 7, 4)
-Lvl 09 upgrades: (36, 4; 10, 4; 56, 4)
+Lvl 08 upgrades: (31, 4; 7, 4; 550, 4)
+Lvl 09 upgrades: (36, 4; 10, 4; 34, 3; 56, 4)
 Lvl 10 upgrades: (31, 4; 4, 4; 16, 4)
 Lvl 11 upgrades: (2, 4; 7, 4; 13, 4)
-Lvl 12 upgrades: (36, 4; 34, 4)
+Lvl 12 upgrades: (36, 4; 34, 3)
 Lvl 13 upgrades: (2, 4; 4, 4; 10, 4)
 Lvl 14 upgrades: (31, 4; 7, 4; 16, 4)
-Lvl 15 upgrades: (36, 4; 13, 4)
+Lvl 15 upgrades: (36, 4; 13, 4; 35, 3; 550, 3)
 Lvl 16 upgrades: (31, 4; 5, 4; 720, 3)
 Lvl 17 upgrades: (2, 4; 38, 4; 11, 4)
-Lvl 18 upgrades: (36, 4; 35, 4; 17, 4)
+Lvl 18 upgrades: (36, 4; 35, 3; 17, 4)
 Lvl 19 upgrades: (2, 4; 5, 4; 13, 4)
 Lvl 20 upgrades: (37, 4; 38, 4)
 
@@ -2567,8 +2568,8 @@ Exp: 33
 ExpMod: 120
 GoldPrice: 75
 GemPrice: 0
-GoldPayment: 15
-GemPayment: 0
+GoldPayment: 12
+GemPayment: 1
 Subtype: (1, 19)
 Analogs: (0)
 UnitClass: 6
@@ -2631,7 +2632,7 @@ Lvl 20 loot: (0, 0)
 /33
 Name: Паук;
 Level: 2
-Life: 29
+Life: 28
 Attack: 9
 CounterAttack: 8
 Defence: 1
@@ -2645,9 +2646,9 @@ Stamina: 10
 Morale: 10
 Exp: 40
 ExpMod: 140
-GoldPrice: 100
+GoldPrice: 90
 GemPrice: 0
-GoldPayment: 25
+GoldPayment: 20
 GemPayment: 2
 Subtype: (1, 19)
 Analogs: (0)
@@ -2709,16 +2710,16 @@ Lvl 19 loot: (0, 0)
 Lvl 20 loot: (0, 0)
 
 /34
-Name: Кентавр;
+Name: Бегущий-с-ветром;
 Level: 2
-Life: 30
+Life: 32
 Attack: 12
 CounterAttack: 8
 Defence: 1
 RangedDefence: 2
 Resist: 2
 Speed: 4
-RangedAttack: 7
+RangedAttack: 6
 ShootingRange: 4
 Ammo: 6
 Stamina: 12
@@ -2744,28 +2745,30 @@ Resource: (0)
 Abilityes:
 Rejuveration: 51
 Forester: 486
-FastRest: 629;
+FastRest: 629
+Support_Fire_centaur: 843
+Centaur_accuracy: 849;
 		
-Lvl 01 upgrades: (30, 4; 34, 4; 4, 4; 20, 4)
-Lvl 02 upgrades: (2, 4; 13, 4; 16, 4)
+Lvl 01 upgrades: (30, 4; 34, 4; 4, 4; 27, 4)
+Lvl 02 upgrades: (2, 4; 13, 4; 16, 4; 20, 4)
 Lvl 03 upgrades: (30, 4; 7, 4; 591, 4)
-Lvl 04 upgrades: (2, 4; 10, 4; 20, 4)
-Lvl 05 upgrades: (31, 4; 4, 4; 27, 4)
-Lvl 06 upgrades: (2, 4; 13, 4; 34, 4)
+Lvl 04 upgrades: (2, 4; 10, 4; 27, 4)
+Lvl 05 upgrades: (31, 4; 4, 4; 34, 4)
+Lvl 06 upgrades: (2, 4; 13, 4; 20, 4)
 Lvl 07 upgrades: (36, 4; 7, 4; 16, 4)
-Lvl 08 upgrades: (2, 4; 10, 4; 20, 4; 27, 4)
-Lvl 09 upgrades: (31, 4; 4, 4)
-Lvl 10 upgrades: (2, 4; 13, 4; 16, 4; 629, 4)
-Lvl 11 upgrades: (36, 4; 7, 4; 20, 4)
-Lvl 12 upgrades: (2, 4; 10, 4; 35, 4)
+Lvl 08 upgrades: (2, 4; 10, 4; 27, 4)
+Lvl 09 upgrades: (31, 4; 4, 4; 845, 9)
+Lvl 10 upgrades: (2, 4; 13, 4; 16, 4; 20, 4; 629, 4)
+Lvl 11 upgrades: (36, 4; 7, 4; 849, 5)
+Lvl 12 upgrades: (2, 4; 10, 4; 20, 4; 27, 4; 35, 4)
 Lvl 13 upgrades: (31, 4; 5, 4; 42, 4)
-Lvl 14 upgrades: (2, 4; 13, 4; 27, 4)
-Lvl 15 upgrades: (36, 4; 38, 4; 591, 4)
-Lvl 16 upgrades: (2, 4; 10, 4; 21, 4)
+Lvl 14 upgrades: (2, 4; 13, 4; 698, 8)
+Lvl 15 upgrades: (36, 4; 38, 4; 20, 4; 591, 4)
+Lvl 16 upgrades: (2, 4; 10, 4; 27, 4)
 Lvl 17 upgrades: (31, 4; 5, 4; 42, 4)
 Lvl 18 upgrades: (2, 4; 13, 4; 35, 4)
-Lvl 19 upgrades: (36, 4; 38, 4; 27, 4)
-Lvl 20 upgrades: (2, 4; 10, 4; 21, 4)
+Lvl 19 upgrades: (36, 4; 38, 4; 21, 4)
+Lvl 20 upgrades: (2, 4; 10, 4; 27, 4)
 
 Lvl 01 loot: (30, 5)
 Lvl 02 loot: (48, 3)
@@ -2872,11 +2875,11 @@ Lvl 20 loot: (0, 0)
 /36
 Name: Упырь;
 Level: 2
-Life: 28
+Life: 32
 Attack: 9
 CounterAttack: 8
-Defence: 0
-RangedDefence: 0
+Defence: 1
+RangedDefence: 2
 Resist: 2
 Speed: 2
 RangedAttack: 0
@@ -2886,10 +2889,10 @@ Stamina: 10
 Morale: 10
 Exp: 30
 ExpMod: 100
-GoldPrice: 20
-GemPrice: 16
+GoldPrice: 30
+GemPrice: 10
 GoldPayment: 0
-GemPayment: 4
+GemPayment: 3
 Subtype: (2)
 Analogs: (171)
 UnitClass: 1
@@ -2966,10 +2969,10 @@ Stamina: 12
 Morale: 10
 Exp: 30
 ExpMod: 100
-GoldPrice: 250
-GemPrice: 5
+GoldPrice: 240
+GemPrice: 15
 GoldPayment: 0
-GemPayment: 4
+GemPayment: 3
 Subtype: (3)
 Analogs: (191)
 UnitClass: 1
@@ -3031,7 +3034,7 @@ Lvl 20 loot: (0, 0)
 /38
 Name: Адская гончая;
 Level: 2
-Life: 25
+Life: 26
 Attack: 10
 CounterAttack: 6
 Defence: 2
@@ -3041,12 +3044,12 @@ Speed: 3
 RangedAttack: 0
 ShootingRange: 0
 Ammo: 0
-Stamina: 10
+Stamina: 11
 Morale: 10
 Exp: 30
 ExpMod: 110
-GoldPrice: 200
-GemPrice: 5
+GoldPrice: 220
+GemPrice: 12
 GoldPayment: 0
 GemPayment: 3
 Subtype: (3, 19)
@@ -3079,7 +3082,7 @@ Lvl 11 upgrades: (36, 4; 4, 4; 535, 4)
 Lvl 12 upgrades: (31, 4; 10, 4; 13, 4)
 Lvl 13 upgrades: (2, 4; 4, 4; 16, 4)
 Lvl 14 upgrades: (36, 4; 38, 4)
-Lvl 15 upgrades: (2, 4; 5, 4)
+Lvl 15 upgrades: (2, 4; 5, 4; 545, 2)
 Lvl 16 upgrades: (31, 4; 10, 4; 13, 4)
 Lvl 17 upgrades: (36, 4; 5, 4; 16, 4)
 Lvl 18 upgrades: (31, 4; 38, 4; 34, 4)
@@ -3120,14 +3123,14 @@ Speed: 3
 RangedAttack: 0
 ShootingRange: 0
 Ammo: 0
-Stamina: 13
+Stamina: 10
 Morale: 10
 Exp: 30
 ExpMod: 140
-GoldPrice: 100
-GemPrice: 15
-GoldPayment: 0
-GemPayment: 5
+GoldPrice: 110
+GemPrice: 10
+GoldPayment: 5
+GemPayment: 3
 Subtype: (23)
 Analogs: (0)
 UnitClass: 7
@@ -3597,10 +3600,10 @@ Stamina: 12
 Morale: 10
 Exp: 70
 ExpMod: 190
-GoldPrice: 300
-GemPrice: 50
-GoldPayment: 60
-GemPayment: 8
+GoldPrice: 400
+GemPrice: 75
+GoldPayment: 80
+GemPayment: 14
 Subtype: (1, 6)
 Analogs: (149)
 UnitClass: 4
@@ -3759,9 +3762,9 @@ Stamina: 18
 Morale: 10
 Exp: 60
 ExpMod: 190
-GoldPrice: 300
+GoldPrice: 350
 GemPrice: 15
-GoldPayment: 60
+GoldPayment: 80
 GemPayment: 4
 Subtype: (1, 19)
 Analogs: (135)
@@ -3997,9 +4000,9 @@ Stamina: 23
 Morale: 9
 Exp: 90
 ExpMod: 170
-GoldPrice: 200
+GoldPrice: 275
 GemPrice: 0
-GoldPayment: 40
+GoldPayment: 55
 GemPayment: 0
 Subtype: (1, 24)
 Analogs: (63, 66, 111)
@@ -4077,9 +4080,9 @@ Stamina: 18
 Morale: 12
 Exp: 80
 ExpMod: 160
-GoldPrice: 250
+GoldPrice: 390
 GemPrice: 10
-GoldPayment: 50
+GoldPayment: 77
 GemPayment: 3
 Subtype: (1, 24)
 Analogs: (0)
@@ -4143,7 +4146,7 @@ Name: Мантикора;
 Level: 3
 Life: 50
 Attack: 19
-CounterAttack: 14
+CounterAttack: 12
 Defence: 3
 RangedDefence: 1
 Resist: 3
@@ -4155,9 +4158,9 @@ Stamina: 17
 Morale: 10
 Exp: 70
 ExpMod: 190
-GoldPrice: 170
-GemPrice: 15
-GoldPayment: 35
+GoldPrice: 365
+GemPrice: 10
+GoldPayment: 85
 GemPayment: 3
 Subtype: (1, 19)
 Analogs: (0)
@@ -4234,10 +4237,10 @@ Stamina: 16
 Morale: 12
 Exp: 70
 ExpMod: 180
-GoldPrice: 150
+GoldPrice: 400
 GemPrice: 20
-GoldPayment: 30
-GemPayment: 4
+GoldPayment: 40
+GemPayment: 13
 Subtype: (1, 19)
 Analogs: (220)
 UnitClass: 3
@@ -4395,10 +4398,10 @@ Stamina: 10
 Morale: 10
 Exp: 90
 ExpMod: 170
-GoldPrice: 50
-GemPrice: 10
+GoldPrice: 200
+GemPrice: 100
 GoldPayment: 0
-GemPayment: 13
+GemPayment: 25
 Subtype: (2)
 Analogs: (172, 194)
 UnitClass: 7
@@ -4477,7 +4480,7 @@ Stamina: 15
 Morale: 10
 Exp: 70
 ExpMod: 180
-GoldPrice: 500
+GoldPrice: 550
 GemPrice: 10
 GoldPayment: 0
 GemPayment: 8
@@ -4579,28 +4582,29 @@ Resource: (3, 7, 8)
 Abilityes:
 Charge_3: 707
 Smite_evil: 103
-Heal: 94;
+Heal: 94
+Unfeared: 835;
 		
 Lvl 01 upgrades: (2, 4; 4, 4; 10, 4; 35, 4)
 Lvl 02 upgrades: (31, 4; 7, 4; 13, 4; 26, 4)
-Lvl 03 upgrades: (2, 4; 4, 4; 16, 4)
+Lvl 03 upgrades: (2, 4; 4, 4; 16, 4; 278, 1)
 Lvl 04 upgrades: (31, 4; 7, 4; 10, 4; 661, 4)
 Lvl 05 upgrades: (36, 4; 4, 4; 40, 4; 35, 4)
 Lvl 06 upgrades: (31, 4; 7, 4; 16, 4; 46, 4)
-Lvl 07 upgrades: (2, 4; 5, 4; 10, 4; 278, 3)
-Lvl 08 upgrades: (36, 4; 8, 4; 13, 4; 661, 4)
+Lvl 07 upgrades: (2, 4; 5, 4; 10, 4; 797, 7)
+Lvl 08 upgrades: (36, 4; 8, 4; 13, 4; 27, 1)
 Lvl 09 upgrades: (2, 4; 38, 4; 17, 4; 35, 4)
-Lvl 10 upgrades: (31, 4; 8, 4; 40, 4; 797, 7)
+Lvl 10 upgrades: (31, 4; 8, 4; 40, 4; 800, 1)
 Lvl 11 upgrades: (36, 4; 5, 4; 14, 4; 35, 4)
 Lvl 12 upgrades: (32, 4; 38, 4; 42, 4; 661, 4)
 Lvl 13 upgrades: (3, 4; 5, 4; 11, 4; 35, 4)
-Lvl 14 upgrades: (37, 4; 8, 4; 40, 4; 279, 3)
-Lvl 15 upgrades: (3, 4; 38, 4; 43, 4; 35, 4)
+Lvl 14 upgrades: (37, 4; 8, 4; 40, 4; 279, 2)
+Lvl 15 upgrades: (3, 4; 38, 4; 42, 4; 35, 4)
 Lvl 16 upgrades: (32, 4; 6, 4; 41, 3; 661, 4)
 Lvl 17 upgrades: (37, 4; 8, 4; 42, 4; 35, 4)
 Lvl 18 upgrades: (32, 4; 38, 4; 11, 4; 658, 4)
 Lvl 19 upgrades: (3, 4; 8, 4; 14, 4; 35, 4)
-Lvl 20 upgrades: (37, 4; 6, 4; 41, 4; 661, 4)
+Lvl 20 upgrades: (37, 4; 6, 4; 41, 4; 27, 2)
 
 Lvl 01 loot: (24, 6; 45, 5; 91, 1; 259, 3)
 Lvl 02 loot: (62, 3; 79, 2; 92, 2; 280, 3)
@@ -4626,9 +4630,9 @@ Lvl 20 loot: (0, 0)
 /58
 Name: Боевой слон;
 Level: 4
-Life: 120
-Attack: 33
-CounterAttack: 22
+Life: 128
+Attack: 34
+CounterAttack: 23
 Defence: 2
 RangedDefence: 4
 Resist: 2
@@ -4636,7 +4640,7 @@ Speed: 2
 RangedAttack: 0
 ShootingRange: 0
 Ammo: 0
-Stamina: 16
+Stamina: 20
 Morale: 11
 Exp: 130
 ExpMod: 320
@@ -4719,10 +4723,10 @@ Stamina: 13
 Morale: 10
 Exp: 130
 ExpMod: 340
-GoldPrice: 450
-GemPrice: 100
-GoldPayment: 90
-GemPayment: 15
+GoldPrice: 400
+GemPrice: 80
+GoldPayment: 80
+GemPayment: 16
 Subtype: (1, 6)
 Analogs: (237)
 UnitClass: 4
@@ -4748,8 +4752,8 @@ Lvl 03 upgrades: (1, 4; 20, 4; 7, 4; 637, 5; 547, 4)
 Lvl 04 upgrades: (30, 4; 13, 4; 16, 4; 150, 4)
 Lvl 05 upgrades: (1, 4; 20, 4; 144, 5; 573, 4)
 Lvl 06 upgrades: (30, 4; 27, 4; 4, 4; 49, 4; 548, 4)
-Lvl 07 upgrades: (1, 4; 20, 4; 17, 4; 153, 6)
-Lvl 08 upgrades: (31, 4; 10, 4; 34, 4; 150, 4; 573, 4)
+Lvl 07 upgrades: (1, 4; 20, 4; 16, 4; 153, 6)
+Lvl 08 upgrades: (31, 4; 10, 4; 34, 4; 150, 4; 574, 4)
 Lvl 09 upgrades: (2, 4; 20, 4; 7, 4; 52, 4; 384, 6)
 Lvl 10 upgrades: (31, 4; 27, 4; 16, 4; 23, 4)
 Lvl 11 upgrades: (2, 4; 21, 4; 150, 4; 547, 4)
@@ -4826,20 +4830,20 @@ Immune_to_roots: 546;
 		
 Lvl 01 upgrades: (3, 4; 4, 4; 13, 4; 31, 4)
 Lvl 02 upgrades: (31, 4; 7, 4; 10, 4; 21, 4)
-Lvl 03 upgrades: (3, 4; 4, 4)
+Lvl 03 upgrades: (3, 4; 4, 4; 80, 3)
 Lvl 04 upgrades: (31, 4; 7, 4; 10, 4)
 Lvl 05 upgrades: (36, 4; 4, 4; 13, 4; 28, 4)
 Lvl 06 upgrades: (31, 4; 7, 4; 16, 4; 21, 4)
-Lvl 07 upgrades: (3, 4; 4, 4; 10, 4; 80, 3)
+Lvl 07 upgrades: (3, 4; 4, 4; 10, 4)
 Lvl 08 upgrades: (36, 4; 7, 4; 13, 4)
-Lvl 09 upgrades: (3, 4; 38, 4; 34, 4)
+Lvl 09 upgrades: (3, 4; 38, 4; 34, 4; 80, 3)
 Lvl 10 upgrades: (31, 4; 7, 4; 10, 4; 21, 4)
 Lvl 11 upgrades: (36, 4; 5, 4; 13, 4; 28, 4)
 Lvl 12 upgrades: (32, 4; 38, 4; 16, 4)
-Lvl 13 upgrades: (25, 4; 5, 4; 10, 4; 23, 3)
+Lvl 13 upgrades: (25, 4; 5, 4; 10, 4; 23, 2)
 Lvl 14 upgrades: (37, 4; 8, 4; 13, 4; 22, 4)
-Lvl 15 upgrades: (25, 4; 38, 4; 34, 4)
-Lvl 16 upgrades: (32, 4; 6, 4; 40, 4)
+Lvl 15 upgrades: (25, 4; 38, 4; 34, 4; 838, 3)
+Lvl 16 upgrades: (32, 4; 6, 4; 40, 4; 80, 3)
 Lvl 17 upgrades: (37, 4; 8, 4; 14, 4; 22, 4)
 Lvl 18 upgrades: (32, 4; 38, 4; 16, 4; 28, 4)
 Lvl 19 upgrades: (25, 4; 8, 4; 14, 4; 42, 4)
@@ -4870,10 +4874,10 @@ Lvl 20 loot: (0, 0)
 Name: Древочеловек;
 Level: 4
 Life: 130
-Attack: 19
+Attack: 18
 CounterAttack: 28
 Defence: 12
-RangedDefence: 18
+RangedDefence: 16
 Resist: 6
 Speed: 1
 RangedAttack: 0
@@ -4883,32 +4887,33 @@ Stamina: 28
 Morale: 12
 Exp: 200
 ExpMod: 280
-GoldPrice: 350
-GemPrice: 30
-GoldPayment: 70
-GemPayment: 6
+GoldPrice: 650
+GemPrice: 60
+GoldPayment: 100
+GemPayment: 23
 Subtype: (1, 24)
 Analogs: (0)
 UnitClass: 6
 Upgraded: (0, 0)
 Karma: 3
 SoundHit: 143
-SoundShoot: 0
-SoundShootHit: 5
+SoundShoot: 380
+SoundShootHit: 381
 SoundDeath: 144
-Missile: 0
+Missile: 23
 Resource: (0)
 
 Abilityes:
 Entangle: 109
-First_Aid: 110
-Siege: 99
-Forest_dweller: 62
+First_Aid_3: 96
+First_Aid_6: 110
+Siege_8: 183
+Forest_dweller_4: 62
 Immune_to_roots: 546
 Bleeding_immunity: 685;
 		
 Lvl 01 upgrades: (3, 4; 4, 4; 13, 4; 31, 4)
-Lvl 02 upgrades: (31, 4; 7, 4; 10, 4)
+Lvl 02 upgrades: (31, 4; 7, 4; 10, 4; 836, 2)
 Lvl 03 upgrades: (3, 4; 4, 4; 34, 4)
 Lvl 04 upgrades: (31, 4; 7, 4; 10, 4; 65, 4)
 Lvl 05 upgrades: (36, 4; 4, 4; 13, 4; 100, 4)
@@ -4919,7 +4924,7 @@ Lvl 09 upgrades: (3, 4; 38, 4; 65, 4)
 Lvl 10 upgrades: (31, 4; 7, 4; 10, 4; 100, 4)
 Lvl 11 upgrades: (36, 4; 5, 4; 13, 4)
 Lvl 12 upgrades: (32, 4; 38, 4; 16, 4)
-Lvl 13 upgrades: (25, 4; 5, 4; 10, 4)
+Lvl 13 upgrades: (25, 4; 5, 4; 10, 4; 837, 1)
 Lvl 14 upgrades: (37, 4; 8, 4; 13, 4; 65, 4)
 Lvl 15 upgrades: (25, 4; 38, 4; 34, 4; 100, 4)
 Lvl 16 upgrades: (32, 4; 6, 4; 40, 4)
@@ -4966,10 +4971,10 @@ Stamina: 25
 Morale: 11
 Exp: 400
 ExpMod: 320
-GoldPrice: 800
+GoldPrice: 700
 GemPrice: 40
-GoldPayment: 160
-GemPayment: 8
+GoldPayment: 140
+GemPayment: 9
 Subtype: (1, 19, 24)
 Analogs: (0)
 UnitClass: 6
@@ -5049,9 +5054,9 @@ Stamina: 25
 Morale: 11
 Exp: 180
 ExpMod: 260
-GoldPrice: 400
+GoldPrice: 750
 GemPrice: 0
-GoldPayment: 80
+GoldPayment: 150
 GemPayment: 0
 Subtype: (1, 24)
 Analogs: (66)
@@ -5114,12 +5119,12 @@ Lvl 20 loot: (0, 0)
 /64
 Name: Вампир;
 Level: 4
-Life: 55
+Life: 65
 Attack: 22
-CounterAttack: 15
+CounterAttack: 18
 Defence: 5
-RangedDefence: 3
-Resist: 6
+RangedDefence: 5
+Resist: 5
 Speed: 4
 RangedAttack: 0
 ShootingRange: 0
@@ -5128,10 +5133,10 @@ Stamina: 10
 Morale: 10
 Exp: 180
 ExpMod: 230
-GoldPrice: 60
-GemPrice: 15
-GoldPayment: 0
-GemPayment: 15
+GoldPrice: 360
+GemPrice: 180
+GoldPayment: 30
+GemPayment: 45
 Subtype: (2)
 Analogs: (0)
 UnitClass: 7
@@ -5151,21 +5156,21 @@ Undead: 61;
 		
 Lvl 01 upgrades: (2, 4; 10, 4)
 Lvl 02 upgrades: (4, 4; 16, 4)
-Lvl 03 upgrades: (2, 4; 7, 4; 13, 4)
+Lvl 03 upgrades: (3, 4; 7, 4; 13, 4)
 Lvl 04 upgrades: (4, 4; 10, 4; 631, 4)
 Lvl 05 upgrades: (2, 4; 16, 4)
 Lvl 06 upgrades: (4, 4; 7, 4)
-Lvl 07 upgrades: (2, 4; 10, 4; 13, 4)
+Lvl 07 upgrades: (3, 4; 10, 4; 13, 4)
 Lvl 08 upgrades: (4, 4; 16, 4)
 Lvl 09 upgrades: (2, 4; 7, 4; 579, 6)
 Lvl 10 upgrades: (4, 4; 56, 4)
-Lvl 11 upgrades: (2, 4; 16, 4; 13, 4)
+Lvl 11 upgrades: (3, 4; 16, 4; 13, 4)
 Lvl 12 upgrades: (5, 4; 7, 7; 631, 4)
 Lvl 13 upgrades: (2, 4; 10, 4)
 Lvl 14 upgrades: (5, 4; 17, 4)
 Lvl 15 upgrades: (3, 4; 8, 4; 13, 4)
 Lvl 16 upgrades: (5, 4; 11, 4)
-Lvl 17 upgrades: (3, 4; 17, 4)
+Lvl 17 upgrades: (2, 4; 17, 4)
 Lvl 18 upgrades: (5, 4; 8, 4; 631, 4)
 Lvl 19 upgrades: (3, 4; 11, 4; 13, 4)
 Lvl 20 upgrades: (5, 4; 17, 4)
@@ -5208,10 +5213,10 @@ Stamina: 19
 Morale: 11
 Exp: 200
 ExpMod: 220
-GoldPrice: 1500
-GemPrice: 50
+GoldPrice: 1700
+GemPrice: 100
 GoldPayment: 0
-GemPayment: 20
+GemPayment: 65
 Subtype: (3, 21, 24)
 Analogs: (0)
 UnitClass: 4
@@ -5232,23 +5237,23 @@ Fear_3: 113
 Fire_Immunity: 192
 Self_Teleport: 377;
 		
-Lvl 01 upgrades: (3, 4; 4, 4; 13, 4; 31, 4)
+Lvl 01 upgrades: (3, 4; 4, 4; 13, 4; 31, 4; 356, 4)
 Lvl 02 upgrades: (31, 4; 7, 4; 10, 4; 21, 4)
 Lvl 03 upgrades: (3, 4; 4, 4; 34, 4; 16, 4)
 Lvl 04 upgrades: (31, 4; 7, 4; 10, 4; 416, 6)
-Lvl 05 upgrades: (36, 4; 4, 4; 13, 4; 131, 4)
-Lvl 06 upgrades: (31, 4; 7, 4; 16, 4; 21, 4; 326, 5)
-Lvl 07 upgrades: (3, 4; 4, 4; 10, 4; 131, 4; 570, 4)
+Lvl 05 upgrades: (36, 4; 4, 4; 13, 4)
+Lvl 06 upgrades: (31, 4; 7, 4; 16, 4; 21, 4; 356, 4)
+Lvl 07 upgrades: (3, 4; 4, 4; 10, 4; 570, 4)
 Lvl 08 upgrades: (36, 4; 7, 4; 13, 4; 27, 4)
 Lvl 09 upgrades: (3, 4; 38, 4; 16, 4; 364, 6)
-Lvl 10 upgrades: (31, 4; 7, 4; 10, 4; 21, 4; 323, 5)
-Lvl 11 upgrades: (36, 4; 5, 4; 13, 4; 131, 4)
-Lvl 12 upgrades: (32, 4; 38, 4; 17, 4; 131, 4)
+Lvl 10 upgrades: (31, 4; 7, 4; 10, 4; 21, 4)
+Lvl 11 upgrades: (36, 4; 5, 4; 13, 4; 801, 2)
+Lvl 12 upgrades: (32, 4; 38, 4; 17, 4; 356, 4)
 Lvl 13 upgrades: (25, 4; 5, 4; 10, 4; 27, 4)
 Lvl 14 upgrades: (37, 4; 8, 4; 13, 4; 21, 4; 570, 4)
 Lvl 15 upgrades: (25, 4; 38, 4; 34, 4; 17, 4)
-Lvl 16 upgrades: (32, 4; 6, 4; 40, 4; 131, 4; 834, 6)
-Lvl 17 upgrades: (37, 4; 8, 4; 14, 4; 131, 4)
+Lvl 16 upgrades: (32, 4; 6, 4; 40, 4; 834, 5)
+Lvl 17 upgrades: (37, 4; 8, 4; 14, 4; 356, 4)
 Lvl 18 upgrades: (32, 4; 38, 4; 17, 4; 21, 4)
 Lvl 19 upgrades: (25, 4; 8, 4; 14, 4; 27, 4)
 Lvl 20 upgrades: (37, 4; 6, 4; 11, 4; 364, 10)
@@ -5291,9 +5296,9 @@ Stamina: 24
 Morale: 11
 Exp: 200
 ExpMod: 300
-GoldPrice: 450
+GoldPrice: 900
 GemPrice: 0
-GoldPayment: 90
+GoldPayment: 195
 GemPayment: 0
 Subtype: (1, 24)
 Analogs: (63)
@@ -5371,9 +5376,9 @@ Stamina: 16
 Morale: 10
 Exp: 65
 ExpMod: 220
-GoldPrice: 300
+GoldPrice: 420
 GemPrice: 40
-GoldPayment: 60
+GoldPayment: 74
 GemPayment: 8
 Subtype: (1, 28)
 Analogs: (165)
@@ -5451,10 +5456,10 @@ Stamina: 12
 Morale: 10
 Exp: 35
 ExpMod: 120
-GoldPrice: 80
+GoldPrice: 90
 GemPrice: 0
-GoldPayment: 16
-GemPayment: 0
+GoldPayment: 14
+GemPayment: 2
 Subtype: (1, 19)
 Analogs: (0)
 UnitClass: 1
@@ -5533,9 +5538,9 @@ Stamina: 12
 Morale: 10
 Exp: 20
 ExpMod: 100
-GoldPrice: 30
+GoldPrice: 20
 GemPrice: 0
-GoldPayment: 6
+GoldPayment: 4
 GemPayment: 0
 Subtype: (1, 13)
 Analogs: (113, 114, 115, 116, 117)
@@ -5614,7 +5619,7 @@ Morale: 16
 Exp: 800
 ExpMod: 400
 GoldPrice: 2000
-GemPrice: 80
+GemPrice: 90
 GoldPayment: 400
 GemPayment: 15
 Subtype: (1, 24)
@@ -5684,21 +5689,21 @@ Level: 3
 Life: 55
 Attack: 13
 CounterAttack: 13
-Defence: 7
-RangedDefence: 7
+Defence: 8
+RangedDefence: 10
 Resist: 1
 Speed: 1
 RangedAttack: 0
 ShootingRange: 0
 Ammo: 0
-Stamina: 20
+Stamina: 10
 Morale: 10
 Exp: 100
 ExpMod: 160
-GoldPrice: 200
-GemPrice: 50
-GoldPayment: 0
-GemPayment: 10
+GoldPrice: 300
+GemPrice: 35
+GoldPayment: 18
+GemPayment: 20
 Subtype: (23, 24)
 Analogs: (159)
 UnitClass: 6
@@ -5777,10 +5782,10 @@ Stamina: 18
 Morale: 10
 Exp: 80
 ExpMod: 160
-GoldPrice: 350
+GoldPrice: 400
 GemPrice: 20
-GoldPayment: 50
-GemPayment: 6
+GoldPayment: 58
+GemPayment: 8
 Subtype: (1, 6)
 Analogs: (0)
 UnitClass: 1
@@ -5843,7 +5848,7 @@ Lvl 20 loot: (0, 0)
 /73
 Name: Рубака;
 Level: 2
-Life: 36
+Life: 40
 Attack: 11
 CounterAttack: 12
 Defence: 5
@@ -5859,7 +5864,7 @@ Exp: 30
 ExpMod: 110
 GoldPrice: 75
 GemPrice: 0
-GoldPayment: 15
+GoldPayment: 17
 GemPayment: 0
 Subtype: (1, 10)
 Analogs: (110, 195, 111)
@@ -5940,10 +5945,10 @@ Stamina: 10
 Morale: 10
 Exp: 100
 ExpMod: 170
-GoldPrice: 300
-GemPrice: 100
-GoldPayment: 30
-GemPayment: 20
+GoldPrice: 170
+GemPrice: 120
+GoldPayment: 0
+GemPayment: 30
 Subtype: (2)
 Analogs: (0)
 UnitClass: 4
@@ -6009,12 +6014,12 @@ Lvl 20 loot: (0, 0)
 /75
 Name: Драколич;
 Level: 4
-Life: 150
-Attack: 45
+Life: 140
+Attack: 40
 CounterAttack: 40
 Defence: 12
-RangedDefence: 12
-Resist: 12
+RangedDefence: 15
+Resist: 16
 Speed: 4
 RangedAttack: 0
 ShootingRange: 0
@@ -6023,10 +6028,10 @@ Stamina: 10
 Morale: 10
 Exp: 1250
 ExpMod: 600
-GoldPrice: 2500
-GemPrice: 500
-GoldPayment: 250
-GemPayment: 130
+GoldPrice: 2000
+GemPrice: 200
+GoldPayment: 160
+GemPayment: 120
 Subtype: (2, 18, 24)
 Analogs: (60, 162)
 UnitClass: 7
@@ -6041,31 +6046,33 @@ Resource: (5, 9, 9)
 
 Abilityes:
 Fly: 44
-Cannibalize: 79
 Undead: 61
+Cannibalize_10: 79
+Cannibalize_5: 535
+Fear_2: 464
 Immune_to_web: 544
 Immune_to_roots: 546;
 
-Lvl 01 upgrades: (25, 4; 4, 4; 13, 4)
+Lvl 01 upgrades: (25, 4; 4, 4; 13, 4; 80, 1)
 Lvl 02 upgrades: (7, 4; 10, 4; 16, 4)
-Lvl 03 upgrades: (25, 4; 4, 4; 13, 4; 113, 4)
+Lvl 03 upgrades: (25, 4; 4, 4; 13, 4)
 Lvl 04 upgrades: (7, 4; 10, 4; 16, 4)
 Lvl 05 upgrades: (25, 4; 4, 4; 13, 4; 535, 4)
 Lvl 06 upgrades: (7, 4; 10, 4; 16, 4; 81, 4)
-Lvl 07 upgrades: (25, 4; 4, 4; 13, 4; 80, 3)
+Lvl 07 upgrades: (25, 4; 4, 4; 13, 4; 80, 2)
 Lvl 08 upgrades: (7, 4; 10, 4; 16, 4)
 Lvl 09 upgrades: (25, 4; 4, 4; 13, 4)
 Lvl 10 upgrades: (7, 4; 10, 4; 16, 4; 38, 4)
-Lvl 11 upgrades: (25, 4; 4, 4; 13, 4; 79, 4)
+Lvl 11 upgrades: (25, 4; 4, 4; 13, 4; 535, 4)
 Lvl 12 upgrades: (7, 4; 10, 4; 16, 4; 40, 4)
 Lvl 13 upgrades: (25, 4; 5, 4; 13, 4; 80, 3)
 Lvl 14 upgrades: (8, 4; 11, 4; 16, 4; 38, 4)
 Lvl 15 upgrades: (25, 4; 5, 4; 14, 4)
 Lvl 16 upgrades: (8, 4; 11, 4; 16, 4; 40, 4)
 Lvl 17 upgrades: (25, 4; 5, 4; 14, 4; 39, 4)
-Lvl 18 upgrades: (8, 4; 11, 4; 16, 4)
+Lvl 18 upgrades: (8, 4; 11, 4; 16, 4; 80, 4)
 Lvl 19 upgrades: (25, 4; 5, 4; 14, 4; 41, 4)
-Lvl 20 upgrades: (8, 4; 11, 4; 16, 4; 79, 4)
+Lvl 20 upgrades: (8, 4; 11, 4; 16, 4; 535, 4)
 
 Lvl 01 loot: (149, 3; 200, 3; 407, 5)
 Lvl 02 loot: (150, 2; 201, 2)
@@ -6091,10 +6098,10 @@ Lvl 20 loot: (0, 0)
 /76
 Name: Чудовище;
 Level: 4
-Life: 100
+Life: 116
 Attack: 38
-CounterAttack: 29
-Defence: 8
+CounterAttack: 30
+Defence: 6
 RangedDefence: 5
 Resist: 4
 Speed: 2
@@ -6105,10 +6112,10 @@ Stamina: 20
 Morale: 15
 Exp: 250
 ExpMod: 280
-GoldPrice: 950
-GemPrice: 50
-GoldPayment: 190
-GemPayment: 5
+GoldPrice: 800
+GemPrice: 15
+GoldPayment: 160
+GemPayment: 4
 Subtype: (1, 19, 24)
 Analogs: (0)
 UnitClass: 6
@@ -6126,6 +6133,7 @@ Piercing_Strike: 69
 Crush_Armor: 75
 Cripple: 81
 Cause_fear: 113
+Extra_Healing: 344
 Web_Immunity: 544;
 		
 Lvl 01 upgrades: (3, 4; 4, 4; 13, 4; 31, 4)
@@ -6136,7 +6144,7 @@ Lvl 05 upgrades: (36, 4; 4, 4; 13, 4)
 Lvl 06 upgrades: (31, 4; 7, 4; 16, 4)
 Lvl 07 upgrades: (3, 4; 4, 4; 10, 4)
 Lvl 08 upgrades: (36, 4; 7, 4; 13, 4)
-Lvl 09 upgrades: (3, 4; 38, 4)
+Lvl 09 upgrades: (3, 4; 38, 4; 345, 2)
 Lvl 10 upgrades: (31, 4; 7, 4; 10, 4)
 Lvl 11 upgrades: (36, 4; 5, 4; 13, 4)
 Lvl 12 upgrades: (32, 4; 38, 4; 16, 4)
@@ -6187,9 +6195,9 @@ Stamina: 10
 Morale: 6
 Exp: 13
 ExpMod: 80
-GoldPrice: 30
+GoldPrice: 20
 GemPrice: 0
-GoldPayment: 6
+GoldPayment: 4
 GemPayment: 0
 Subtype: (1, 9)
 Analogs: (13, 96, 129, 130)
@@ -6256,7 +6264,7 @@ Life: 42
 Attack: 15
 CounterAttack: 14
 Defence: 6
-RangedDefence: 10
+RangedDefence: 8
 Resist: 2
 Speed: 2
 RangedAttack: 0
@@ -6266,9 +6274,9 @@ Stamina: 14
 Morale: 13
 Exp: 80
 ExpMod: 170
-GoldPrice: 400
+GoldPrice: 375
 GemPrice: 0
-GoldPayment: 80
+GoldPayment: 75
 GemPayment: 0
 Subtype: (1, 6)
 Analogs: (142)
@@ -6338,21 +6346,21 @@ Level: 4
 Life: 45
 Attack: 0
 CounterAttack: 0
-Defence: 3
-RangedDefence: 13
+Defence: 2
+RangedDefence: 12
 Resist: 3
 Speed: 1
-RangedAttack: 22
+RangedAttack: 30
 ShootingRange: 5
-Ammo: 4
-Stamina: 15
+Ammo: 5
+Stamina: 10
 Morale: 10
 Exp: 240
 ExpMod: 350
-GoldPrice: 1850
+GoldPrice: 1000
 GemPrice: 0
-GoldPayment: 350
-GemPayment: 4
+GoldPayment: 200
+GemPayment: 10
 Subtype: (4, 27)
 Analogs: (0)
 UnitClass: 2
@@ -6368,7 +6376,8 @@ Resource: (2, 7, 7)
 Abilityes:
 Armor_Pierce: 47
 Mechanical: 287
-Siege: 183
+Siege_8: 183
+Siege_8: 183
 CrippleShot: 626
 Siege_Mode_2: 716
 Ground_Shock: 350;
@@ -6380,13 +6389,13 @@ Lvl 04 upgrades: (21, 4; 461, 4)
 Lvl 05 upgrades: (2, 4; 27, 5)
 Lvl 06 upgrades: (14, 2; 461, 4; 16, 4)
 Lvl 07 upgrades: (2, 4; 21, 4)
-Lvl 08 upgrades: (21, 4; 10, 4; 23, 4)
+Lvl 08 upgrades: (21, 4; 10, 4)
 Lvl 09 upgrades: (2, 4; 461, 4)
-Lvl 10 upgrades: (14, 3; 27, 5)
+Lvl 10 upgrades: (14, 3; 23, 5)
 Lvl 11 upgrades: (2, 4; 22, 4)
 Lvl 12 upgrades: (16, 4; 461, 4)
-Lvl 13 upgrades: (2, 4; 22, 4)
-Lvl 14 upgrades: (10, 4; 14, 3)
+Lvl 13 upgrades: (2, 4; 27, 4)
+Lvl 14 upgrades: (10, 4; 14, 3; 22, 4)
 Lvl 15 upgrades: (3, 4; 461, 4)
 Lvl 16 upgrades: (25, 4; 10, 4)
 Lvl 17 upgrades: (3, 4; 22, 4)
@@ -6432,9 +6441,9 @@ Stamina: 11
 Morale: 11
 Exp: 30
 ExpMod: 120
-GoldPrice: 100
+GoldPrice: 75
 GemPrice: 0
-GoldPayment: 20
+GoldPayment: 15
 GemPayment: 0
 Subtype: (1, 6)
 Analogs: (0)
@@ -6509,12 +6518,12 @@ RangedAttack: 0
 ShootingRange: 0
 Ammo: 0
 Stamina: 12
-Morale: 10
+Morale: 11
 Exp: 30
 ExpMod: 135
-GoldPrice: 90
+GoldPrice: 80
 GemPrice: 0
-GoldPayment: 18
+GoldPayment: 16
 GemPayment: 0
 Subtype: (1, 6)
 Analogs: (0)
@@ -6595,10 +6604,10 @@ Stamina: 12
 Morale: 10
 Exp: 30
 ExpMod: 100
-GoldPrice: 75
+GoldPrice: 60
 GemPrice: 0
-GoldPayment: 15
-GemPayment: 0
+GoldPayment: 9
+GemPayment: 1
 Subtype: (1, 19)
 Analogs: (0)
 UnitClass: 7
@@ -6693,28 +6702,29 @@ Resource: (0)
 Abilityes:
 Cause_fear: 80
 Forester: 486
-Cannibalise: 79;
+Cannibalise: 79
+WolfPack: 842;
 		
-Lvl 01 upgrades: (2, 4; 30, 4; 34, 3; 8, 1)
-Lvl 02 upgrades: (2, 4; 16, 3; 8, 2)
+Lvl 01 upgrades: (30, 4; 34, 3; 8, 1)
+Lvl 02 upgrades: (2, 4; 16, 3; 5, 3)
 Lvl 03 upgrades: (3, 3; 30, 4; 34, 3)
-Lvl 04 upgrades: (3, 3; 5, 2; 14, 2)
+Lvl 04 upgrades: (3, 3; 5, 3; 14, 2)
 Lvl 05 upgrades: (37, 2; 11, 2; 51, 4)
-Lvl 06 upgrades: (2, 10; 8, 4; 81, 3)
+Lvl 06 upgrades: (2, 3; 8, 4; 81, 3)
 Lvl 07 upgrades: (3, 3; 65, 3; 80, 2)
 Lvl 08 upgrades: (59, 4; 51, 4; 591, 4)
-Lvl 09 upgrades: (5, 3; 8, 4; 395, 5)
+Lvl 09 upgrades: (5, 3; 16, 3; 395, 5)
 Lvl 10 upgrades: (2, 3; 51, 4; 13, 3)
-Lvl 11 upgrades: (37, 4; 16, 3; 56, 5)
-Lvl 12 upgrades: (34, 4; 8, 4; 11, 3)
-Lvl 13 upgrades: (3, 3; 65, 3; 535, 3)
-Lvl 14 upgrades: (5, 3; 51, 4; 27, 3)
-Lvl 15 upgrades: (34, 4; 8, 4; 80, 1)
-Lvl 16 upgrades: (3, 3; 51, 4; 591, 4)
-Lvl 17 upgrades: (37, 4; 65, 3)
-Lvl 18 upgrades: (35, 4; 8, 4)
-Lvl 19 upgrades: (5, 3; 3, 3; 27, 3)
-Lvl 20 upgrades: (37, 9; 17, 9)
+Lvl 11 upgrades: (37, 4; 5, 4; 56, 5)
+Lvl 12 upgrades: (34, 4; 7, 4; 11, 3)
+Lvl 13 upgrades: (1, 5; 65, 3; 535, 3)
+Lvl 14 upgrades: (5, 4; 51, 4; 27, 1)
+Lvl 15 upgrades: (34, 4; 4, 4; 80, 3)
+Lvl 16 upgrades: (1, 8; 51, 4; 16, 4)
+Lvl 17 upgrades: (65, 3; 591, 4)
+Lvl 18 upgrades: (35, 4; 7, 4; 4, 4)
+Lvl 19 upgrades: (5, 3; 3, 3; 27, 2)
+Lvl 20 upgrades: (1, 10; 17, 9)
 
 Lvl 01 loot: (1, 5; 63, 3; 5, 3)
 Lvl 02 loot: (67, 3; 80, 3)
@@ -6754,9 +6764,9 @@ Stamina: 12
 Morale: 10
 Exp: 30
 ExpMod: 135
-GoldPrice: 110
+GoldPrice: 85
 GemPrice: 0
-GoldPayment: 22
+GoldPayment: 17
 GemPayment: 0
 Subtype: (1, 6)
 Analogs: (0)
@@ -6833,9 +6843,9 @@ Stamina: 14
 Morale: 13
 Exp: 30
 ExpMod: 110
-GoldPrice: 60
+GoldPrice: 45
 GemPrice: 0
-GoldPayment: 12
+GoldPayment: 9
 GemPayment: 0
 Subtype: (1, 6)
 Analogs: (0)
@@ -6901,21 +6911,21 @@ Name: Ветеран-копейщик;
 Level: 1
 Life: 24
 Attack: 8
-CounterAttack: 8
+CounterAttack: 9
 Defence: 3
-RangedDefence: 3
-Resist: 3
+RangedDefence: 4
+Resist: 2
 Speed: 2
-RangedAttack: 8
+RangedAttack: 9
 ShootingRange: 2
 Ammo: 2
-Stamina: 13
+Stamina: 14
 Morale: 10
 Exp: 22
 ExpMod: 60
-GoldPrice: 50
+GoldPrice: 35
 GemPrice: 0
-GoldPayment: 10
+GoldPayment: 7
 GemPayment: 0
 Subtype: (1, 6)
 Analogs: (0)
@@ -6980,22 +6990,22 @@ Lvl 20 loot: (0, 0)
 Name: Кудесник;
 Level: 1
 Life: 14
-Attack: 4
-CounterAttack: 5
+Attack: 5
+CounterAttack: 6
 Defence: 1
 RangedDefence: 2
 Resist: 6
 Speed: 2
 RangedAttack: 9
 ShootingRange: 4
-Ammo: 6
+Ammo: 7
 Stamina: 11
-Morale: 10
+Morale: 11
 Exp: 33
 ExpMod: 135
-GoldPrice: 50
-GemPrice: 20
-GoldPayment: 10
+GoldPrice: 30
+GemPrice: 8
+GoldPayment: 6
 GemPayment: 2
 Subtype: (1, 6)
 Analogs: (0)
@@ -7071,14 +7081,14 @@ Resist: 3
 Speed: 2
 RangedAttack: 9
 ShootingRange: 2
-Ammo: 5
+Ammo: 4
 Stamina: 12
 Morale: 10
 Exp: 45
 ExpMod: 150
-GoldPrice: 140
+GoldPrice: 95
 GemPrice: 0
-GoldPayment: 28
+GoldPayment: 19
 GemPayment: 0
 Subtype: (1, 6)
 Analogs: (0)
@@ -7160,9 +7170,9 @@ Stamina: 14
 Morale: 11
 Exp: 60
 ExpMod: 135
-GoldPrice: 120
+GoldPrice: 85
 GemPrice: 0
-GoldPayment: 24
+GoldPayment: 16
 GemPayment: 0
 Subtype: (1, 6)
 Analogs: (0)
@@ -7240,10 +7250,10 @@ Stamina: 14
 Morale: 12
 Exp: 60
 ExpMod: 160
-GoldPrice: 160
-GemPrice: 20
-GoldPayment: 32
-GemPayment: 4
+GoldPrice: 135
+GemPrice: 15
+GoldPayment: 27
+GemPayment: 3
 Subtype: (1, 6)
 Analogs: (0)
 UnitClass: 7
@@ -7322,8 +7332,8 @@ Stamina: 10
 Morale: 10
 Exp: 25
 ExpMod: 140
-GoldPrice: 10
-GemPrice: 8
+GoldPrice: 8
+GemPrice: 4
 GoldPayment: 0
 GemPayment: 2
 Subtype: (2, 25)
@@ -7401,10 +7411,10 @@ Stamina: 10
 Morale: 10
 Exp: 40
 ExpMod: 160
-GoldPrice: 20
-GemPrice: 16
+GoldPrice: 12
+GemPrice: 5
 GoldPayment: 0
-GemPayment: 4
+GemPayment: 3
 Subtype: (2)
 Analogs: (0)
 UnitClass: 1
@@ -7480,13 +7490,13 @@ Speed: 3
 RangedAttack: 0
 ShootingRange: 0
 Ammo: 0
-Stamina: 20
+Stamina: 19
 Morale: 15
 Exp: 120
 ExpMod: 230
-GoldPrice: 800
+GoldPrice: 600
 GemPrice: 0
-GoldPayment: 160
+GoldPayment: 120
 GemPayment: 0
 Subtype: (1, 6)
 Analogs: (0)
@@ -7551,7 +7561,7 @@ Lvl 20 loot: (0, 0)
 Name: Цербер;
 Level: 2
 Life: 32
-Attack: 14
+Attack: 13
 CounterAttack: 9
 Defence: 4
 RangedDefence: 8
@@ -7560,14 +7570,14 @@ Speed: 4
 RangedAttack: 0
 ShootingRange: 0
 Ammo: 0
-Stamina: 11
-Morale: 12
+Stamina: 12
+Morale: 11
 Exp: 60
 ExpMod: 190
-GoldPrice: 90
-GemPrice: 10
+GoldPrice: 330
+GemPrice: 25
 GoldPayment: 0
-GemPayment: 6
+GemPayment: 4
 Subtype: (3, 19)
 Analogs: (0)
 UnitClass: 1
@@ -7583,23 +7593,24 @@ Resource: (3, 4)
 Abilityes:
 Cripple: 81
 Multiply_attack: 184
-Fire_Immunity: 192;
+Fire_Immunity: 192
+EatCorpse_10: 79;
 		
 Lvl 01 upgrades: (1, 4; 4, 4; 13, 4)
 Lvl 02 upgrades: (30, 4; 7, 4; 16, 4)
-Lvl 03 upgrades: (1, 4; 4, 4; 535, 4)
-Lvl 04 upgrades: (31, 4; 10, 4)
+Lvl 03 upgrades: (1, 4; 4, 4)
+Lvl 04 upgrades: (31, 4; 10, 4; 545, 4)
 Lvl 05 upgrades: (2, 4; 4, 4; 13, 4)
 Lvl 06 upgrades: (31, 4; 7, 4; 16, 4)
 Lvl 07 upgrades: (2, 4; 4, 4; 34, 4)
-Lvl 08 upgrades: (31, 4; 10, 4)
+Lvl 08 upgrades: (31, 4; 10, 4; 535, 4)
 Lvl 09 upgrades: (2, 4; 4, 4; 13, 4)
 Lvl 10 upgrades: (31, 4; 7, 4; 16, 4)
-Lvl 11 upgrades: (36, 4; 4, 4; 79, 4)
+Lvl 11 upgrades: (36, 4; 4, 4)
 Lvl 12 upgrades: (31, 4; 10, 4; 13, 4)
 Lvl 13 upgrades: (2, 4; 4, 4; 16, 4)
-Lvl 14 upgrades: (36, 4; 38, 4; 545, 4)
-Lvl 15 upgrades: (2, 4; 5, 4; 658, 4)
+Lvl 14 upgrades: (36, 4; 38, 4; 535, 4)
+Lvl 15 upgrades: (2, 4; 5, 4; 658, 5)
 Lvl 16 upgrades: (31, 4; 10, 4; 13, 4)
 Lvl 17 upgrades: (36, 4; 5, 4; 16, 4)
 Lvl 18 upgrades: (31, 4; 38, 4; 34, 4)
@@ -7630,24 +7641,24 @@ Lvl 20 loot: (0, 0)
 /95
 Name: Суккуб;
 Level: 2
-Life: 14
+Life: 13
 Attack: 6
 CounterAttack: 7
 Defence: 1
 RangedDefence: 2
 Resist: 5
 Speed: 2
-RangedAttack: 9
+RangedAttack: 8
 ShootingRange: 4
 Ammo: 4
-Stamina: 12
-Morale: 10
+Stamina: 10
+Morale: 11
 Exp: 40
 ExpMod: 150
-GoldPrice: 250
+GoldPrice: 390
 GemPrice: 40
 GoldPayment: 0
-GemPayment: 12
+GemPayment: 9
 Subtype: (3)
 Analogs: (0)
 UnitClass: 4
@@ -7793,23 +7804,23 @@ Lvl 20 loot: (0, 0)
 Name: Разрушитель;
 Level: 3
 Life: 60
-Attack: 22
-CounterAttack: 18
-Defence: 6
-RangedDefence: 6
+Attack: 18
+CounterAttack: 16
+Defence: 3
+RangedDefence: 4
 Resist: 2
 Speed: 2
 RangedAttack: 0
 ShootingRange: 0
 Ammo: 0
-Stamina: 15
-Morale: 12
+Stamina: 17
+Morale: 10
 Exp: 90
 ExpMod: 200
-GoldPrice: 750
+GoldPrice: 600
 GemPrice: 15
 GoldPayment: 0
-GemPayment: 12
+GemPayment: 9
 Subtype: (3, 24)
 Analogs: (0)
 UnitClass: 6
@@ -7874,22 +7885,22 @@ Name: Владыка бездны;
 Level: 4
 Life: 42
 Attack: 18
-CounterAttack: 24
+CounterAttack: 28
 Defence: 3
 RangedDefence: 4
 Resist: 7
 Speed: 1
-RangedAttack: 12
-ShootingRange: 3
+RangedAttack: 18
+ShootingRange: 4
 Ammo: 6
 Stamina: 16
 Morale: 10
 Exp: 180
 ExpMod: 300
-GoldPrice: 1500
-GemPrice: 100
+GoldPrice: 1300
+GemPrice: 120
 GoldPayment: 0
-GemPayment: 30
+GemPayment: 55
 Subtype: (3, 21, 24)
 Analogs: (0)
 UnitClass: 4
@@ -7910,23 +7921,23 @@ Fire_Immunity: 192
 Burning_Tough: 749;
 		
 Lvl 01 upgrades: (2, 4; 4, 4; 13, 4; 31, 4; 570, 1)
-Lvl 02 upgrades: (31, 4; 7, 4; 10, 4; 21, 4; 377, 6)
+Lvl 02 upgrades: (31, 4; 7, 4; 10, 4; 22, 4; 377, 6)
 Lvl 03 upgrades: (2, 4; 4, 4; 34, 4; 16, 4; 547, 4)
 Lvl 04 upgrades: (31, 4; 7, 4; 10, 4; 27, 4; 188, 6)
 Lvl 05 upgrades: (36, 4; 4, 4; 13, 4; 2, 4; 570, 4)
-Lvl 06 upgrades: (31, 4; 7, 4; 16, 4; 21, 4; 687, 4)
+Lvl 06 upgrades: (31, 4; 7, 4; 16, 4; 22, 4; 687, 4)
 Lvl 07 upgrades: (2, 4; 4, 4; 10, 4; 27, 4; 187, 6)
-Lvl 08 upgrades: (36, 4; 7, 4; 13, 4; 28, 2; 190, 6)
-Lvl 09 upgrades: (2, 4; 38, 4; 16, 4; 547, 4)
-Lvl 10 upgrades: (31, 4; 7, 4; 10, 4; 21, 4; 189, 6)
+Lvl 08 upgrades: (36, 4; 7, 4; 13, 4; 190, 6; 702, 10)
+Lvl 09 upgrades: (2, 4; 38, 4; 16, 4; 23, 4; 547, 4)
+Lvl 10 upgrades: (31, 4; 7, 4; 10, 4; 22, 4; 189, 6)
 Lvl 11 upgrades: (36, 4; 5, 4; 13, 4; 28, 3; 790, 8)
 Lvl 12 upgrades: (32, 4; 38, 4; 17, 4; 2, 4; 687, 4)
 Lvl 13 upgrades: (25, 4; 5, 4; 10, 4; 28, 4; 566, 5)
-Lvl 14 upgrades: (37, 4; 8, 4; 13, 4; 21, 4; 547, 4)
+Lvl 14 upgrades: (37, 4; 8, 4; 13, 4; 22, 4; 547, 4)
 Lvl 15 upgrades: (25, 4; 38, 4; 34, 4; 17, 4; 570, 4)
-Lvl 16 upgrades: (32, 4; 6, 4; 40, 4; 28, 4; 549, 2)
+Lvl 16 upgrades: (32, 4; 6, 4; 40, 4; 549, 2; 702, 10)
 Lvl 17 upgrades: (37, 4; 8, 4; 14, 4; 29, 4)
-Lvl 18 upgrades: (32, 4; 38, 4; 17, 4; 21, 4; 687, 4)
+Lvl 18 upgrades: (32, 4; 38, 4; 17, 4; 22, 4; 687, 4)
 Lvl 19 upgrades: (25, 4; 8, 4; 14, 4; 29, 4; 460, 5)
 Lvl 20 upgrades: (37, 4; 6, 4; 11, 4; 415, 5; 547, 4) 
 
@@ -7968,10 +7979,10 @@ Stamina: 12
 Morale: 10
 Exp: 16
 ExpMod: 90
-GoldPrice: 30
-GemPrice: 5
+GoldPrice: 15
+GemPrice: 2
 GoldPayment: 0
-GemPayment: 2
+GemPayment: 1
 Subtype: (1, 26)
 Analogs: (0)
 UnitClass: 1
@@ -8033,9 +8044,9 @@ Lvl 20 loot: (0, 0)
 /100
 Name: Бука;
 Level: 1
-Life: 18
-Attack: 4
-CounterAttack: 3
+Life: 20
+Attack: 5
+CounterAttack: 4
 Defence: 1
 RangedDefence: 3
 Resist: 0
@@ -8043,13 +8054,13 @@ Speed: 2
 RangedAttack: 6
 ShootingRange: 3
 Ammo: 5
-Stamina: 11
+Stamina: 10
 Morale: 8
 Exp: 16
 ExpMod: 70
-GoldPrice: 20
+GoldPrice: 15
 GemPrice: 0
-GoldPayment: 4
+GoldPayment: 3
 GemPayment: 0
 Subtype: (1, 10)
 Analogs: (14)
@@ -8123,13 +8134,13 @@ Speed: 1
 RangedAttack: 10
 ShootingRange: 5
 Ammo: 4
-Stamina: 15
+Stamina: 10
 Morale: 10
 Exp: 60
 ExpMod: 180
-GoldPrice: 250
+GoldPrice: 155
 GemPrice: 0
-GoldPayment: 50
+GoldPayment: 31
 GemPayment: 0
 Subtype: (4, 27)
 Analogs: (102)
@@ -8198,7 +8209,7 @@ Life: 34
 Attack: 0
 CounterAttack: 0
 Defence: 3
-RangedDefence: 12
+RangedDefence: 10
 Resist: 1
 Speed: 1
 RangedAttack: 14
@@ -8208,9 +8219,9 @@ Stamina: 15
 Morale: 10
 Exp: 120
 ExpMod: 250
-GoldPrice: 750
+GoldPrice: 540
 GemPrice: 0
-GoldPayment: 150
+GoldPayment: 108
 GemPayment: 0
 Subtype: (4, 27)
 Analogs: (0)
@@ -8278,21 +8289,21 @@ Level: 3
 Life: 45
 Attack: 7
 CounterAttack: 9
-Defence: 8
-RangedDefence: 12
-Resist: 5
+Defence: 6
+RangedDefence: 9
+Resist: 4
 Speed: 1
 RangedAttack: 0
 ShootingRange: 5
 Ammo: 5
-Stamina: 18
+Stamina: 17
 Morale: 13
 Exp: 60
 ExpMod: 180
-GoldPrice: 300
-GemPrice: 20
-GoldPayment: 50
-GemPayment: 6
+GoldPrice: 400
+GemPrice: 30
+GoldPayment: 60
+GemPayment: 13
 Subtype: (1, 8)
 Analogs: (0)
 UnitClass: 1
@@ -8356,23 +8367,23 @@ Lvl 20 loot: (0, 0)
 /104
 Name: Сотрясатель Тверди;
 Level: 4
-Life: 45
+Life: 50
 Attack: 0
 CounterAttack: 0
 Defence: 3
 RangedDefence: 13
 Resist: 3
 Speed: 0
-RangedAttack: 24
-ShootingRange: 7
+RangedAttack: 26
+ShootingRange: 6
 Ammo: 4
-Stamina: 15
+Stamina: 10
 Morale: 10
 Exp: 240
 ExpMod: 350
-GoldPrice: 1500
+GoldPrice: 650
 GemPrice: 0
-GoldPayment: 275
+GoldPayment: 120
 GemPayment: 5
 Subtype: (4, 27)
 Analogs: (0)
@@ -8388,7 +8399,8 @@ Resource: (7, 7, 6)
 
 Abilityes:
 Armor_Pierce: 47
-Siege: 183
+Siege_8: 183
+Siege_4: 461
 Mechanical: 287
 DontMove: 352
 Bombing: 523;
@@ -8410,7 +8422,7 @@ Lvl 14 upgrades: (10, 4; 14, 3)
 Lvl 15 upgrades: (3, 4; 461, 4)
 Lvl 16 upgrades: (25, 4; 10, 4)
 Lvl 17 upgrades: (3, 4; 22, 4)
-Lvl 18 upgrades: (14, 4; 461, 4)
+Lvl 18 upgrades: (14, 4; 461, 4; 23, 5)
 Lvl 19 upgrades: (3, 4; 22, 4)
 Lvl 20 upgrades: (16, 4; 27, 5)
 
@@ -8445,17 +8457,17 @@ Defence: 2
 RangedDefence: 4
 Resist: 4
 Speed: 2
-RangedAttack: 8
+RangedAttack: 9
 ShootingRange: 5
 Ammo: 5
-Stamina: 11
+Stamina: 10
 Morale: 13
 Exp: 40
 ExpMod: 250
-GoldPrice: 185
-GemPrice: 10
-GoldPayment: 35
-GemPayment: 3
+GoldPrice: 170
+GemPrice: 12
+GoldPayment: 34
+GemPayment: 0
 Subtype: (1, 7)
 Analogs: (106, 107, 126, 127)
 UnitClass: 2
@@ -8533,9 +8545,9 @@ Stamina: 10
 Morale: 13
 Exp: 40
 ExpMod: 180
-GoldPrice: 170
+GoldPrice: 150
 GemPrice: 25
-GoldPayment: 34
+GoldPayment: 30
 GemPayment: 5
 Subtype: (1, 7)
 Analogs: (105, 107, 127)
@@ -8613,10 +8625,10 @@ Stamina: 12
 Morale: 10
 Exp: 70
 ExpMod: 190
-GoldPrice: 300
+GoldPrice: 355
 GemPrice: 70
-GoldPayment: 60
-GemPayment: 10
+GoldPayment: 70
+GemPayment: 11
 Subtype: (1, 7)
 Analogs: (127)
 UnitClass: 4
@@ -8760,7 +8772,7 @@ Lvl 20 loot: (0, 0)
 /109
 Name: Видящий духов;
 Level: 1
-Life: 17
+Life: 22
 Attack: 7
 CounterAttack: 5
 Defence: 0
@@ -8774,9 +8786,9 @@ Stamina: 11
 Morale: 10
 Exp: 22
 ExpMod: 90
-GoldPrice: 25
-GemPrice: 10
-GoldPayment: 5
+GoldPrice: 20
+GemPrice: 5
+GoldPayment: 4
 GemPayment: 1
 Subtype: (1, 10)
 Analogs: (110)
@@ -8855,10 +8867,10 @@ Stamina: 14
 Morale: 11
 Exp: 70
 ExpMod: 155
-GoldPrice: 300
-GemPrice: 50
-GoldPayment: 60
-GemPayment: 10
+GoldPrice: 230
+GemPrice: 45
+GoldPayment: 47
+GemPayment: 9
 Subtype: (1, 10)
 Analogs: (0)
 UnitClass: 4
@@ -8939,9 +8951,9 @@ Stamina: 23
 Morale: 12
 Exp: 130
 ExpMod: 300
-GoldPrice: 600
+GoldPrice: 700
 GemPrice: 0
-GoldPayment: 120
+GoldPayment: 130
 GemPayment: 0
 Subtype: (1, 10, 24)
 Analogs: (0)
@@ -9024,9 +9036,9 @@ Stamina: 13
 Morale: 9
 Exp: 35
 ExpMod: 115
-GoldPrice: 45
+GoldPrice: 40
 GemPrice: 0
-GoldPayment: 9
+GoldPayment: 8
 GemPayment: 0
 Subtype: (1, 6)
 Analogs: (0)
@@ -9110,9 +9122,9 @@ Stamina: 11
 Morale: 10
 Exp: 25
 ExpMod: 90
-GoldPrice: 60
+GoldPrice: 40
 GemPrice: 0
-GoldPayment: 13
+GoldPayment: 8
 GemPayment: 0
 Subtype: (1, 13)
 Analogs: (69, 115, 116)
@@ -9132,18 +9144,18 @@ Regeneration: 98
 Swamp_dweller: 488
 Lizarmen_1: 164;
 		
-Lvl 01 upgrades: (1, 4; 30, 4; 20, 4; 7, 3)
+Lvl 01 upgrades: (1, 4; 30, 4; 20, 4; 7, 3; 27, 3)
 Lvl 02 upgrades: (13, 3; 34, 4; 10, 3)
 Lvl 03 upgrades: (1, 4; 2, 10; 13, 3; 488, 4)
 Lvl 04 upgrades: (30, 4; 4, 4; 51, 4)
 Lvl 05 upgrades: (2, 4; 20, 4; 98, 4)
 Lvl 06 upgrades: (30, 4; 16, 4; 10, 3)
-Lvl 07 upgrades: (2, 4; 13, 3; 27, 3)
+Lvl 07 upgrades: (2, 4; 13, 3; 27, 4)
 Lvl 08 upgrades: (31, 4; 7, 4; 16, 4; 569, 5)
 Lvl 09 upgrades: (2, 4; 20, 4; 139, 4)
 Lvl 10 upgrades: (36, 4; 4, 4; 10, 3)
 Lvl 11 upgrades: (2, 4; 13, 3; 34, 4)
-Lvl 12 upgrades: (31, 4; 16, 4; 28, 3)
+Lvl 12 upgrades: (31, 4; 16, 4; 28, 5)
 Lvl 13 upgrades: (2, 4; 51, 4; 23, 3)
 Lvl 14 upgrades: (36, 4; 21, 4; 7, 4; 10, 3)
 Lvl 15 upgrades: (2, 4; 13, 3; 98, 4)
@@ -9151,7 +9163,7 @@ Lvl 16 upgrades: (31, 4; 5, 4; 42, 4; 488, 4)
 Lvl 17 upgrades: (3, 4; 38, 4; 16, 4)
 Lvl 18 upgrades: (32, 4; 16, 2; 10, 3)
 Lvl 19 upgrades: (3, 4; 21, 4; 13, 3; 34, 4)
-Lvl 20 upgrades: (36, 4; 38, 4; 42, 4)
+Lvl 20 upgrades: (36, 4; 38, 4; 42, 4; 28, 6)
 
 Lvl 01 loot: (17, 6; 41, 4; 51, 3)
 Lvl 02 loot: (0, 0)
@@ -9212,27 +9224,28 @@ Magic_Shot: 58
 Regeneration: 98
 Swamp_dweller: 488
 Swamp: 214
-Lizarmen_1: 164;
+Lizarmen_1: 164
+Summon_naiad: 839;
 		
 Lvl 01 upgrades: (1, 4; 20, 4; 7, 3; 34, 4)
-Lvl 02 upgrades: (30, 4; 16, 4; 10, 3)
-Lvl 03 upgrades: (1, 4; 27, 4; 4, 3; 548, 1)
-Lvl 04 upgrades: (30, 4; 20, 4; 13, 3; 488, 4)
-Lvl 05 upgrades: (1, 4; 16, 4; 7, 3)
-Lvl 06 upgrades: (30, 4; 10, 3; 215, 5)
+Lvl 02 upgrades: (30, 4; 16, 4; 10, 3; 488, 4)
+Lvl 03 upgrades: (1, 4; 28, 4; 4, 3; 548, 1)
+Lvl 04 upgrades: (30, 4; 20, 4; 13, 3)
+Lvl 05 upgrades: (1, 4; 16, 4; 7, 3; 215, 5)
+Lvl 06 upgrades: (30, 4; 10, 3; 549, 1)
 Lvl 07 upgrades: (1, 4; 20, 4; 4, 3; 57, 4)
-Lvl 08 upgrades: (30, 4; 16, 4; 13, 3; 150, 4)
-Lvl 09 upgrades: (1, 4; 27, 4; 7, 3; 34, 4)
+Lvl 08 upgrades: (30, 4; 16, 4; 13, 3; 488, 4)
+Lvl 09 upgrades: (1, 4; 28, 4; 7, 3; 34, 4)
 Lvl 10 upgrades: (30, 4; 20, 4; 10, 3; 23, 4)
-Lvl 11 upgrades: (1, 4; 16, 4; 4, 3; 549, 1)
-Lvl 12 upgrades: (30, 4; 13, 3; 216, 5)
-Lvl 13 upgrades: (1, 4; 20, 4; 7, 3; 139, 4)
+Lvl 11 upgrades: (1, 4; 16, 4; 4, 3; 216, 5)
+Lvl 12 upgrades: (30, 4; 13, 3; 139, 4)
+Lvl 13 upgrades: (1, 4; 20, 4; 7, 3; 488, 4)
 Lvl 14 upgrades: (31, 4; 16, 4; 10, 3)
-Lvl 15 upgrades: (2, 4; 27, 4; 4, 3; 548, 3)
+Lvl 15 upgrades: (2, 4; 28, 4; 4, 3; 548, 3)
 Lvl 16 upgrades: (31, 4; 21, 4; 13, 3)
 Lvl 17 upgrades: (2, 4; 17, 4; 7, 3; 34, 4)
-Lvl 18 upgrades: (31, 4; 10, 3; 150, 4)
-Lvl 19 upgrades: (2, 4; 21, 4; 4, 3; 488, 4)
+Lvl 18 upgrades: (31, 4; 10, 3; 488, 4)
+Lvl 19 upgrades: (2, 4; 21, 4; 4, 3)
 Lvl 20 upgrades: (31, 4; 17, 4; 13, 3)
 
 Lvl 01 loot: (2, 3; 6, 4; 64, 2)
@@ -9433,10 +9446,10 @@ Stamina: 15
 Morale: 12
 Exp: 140
 ExpMod: 310
-GoldPrice: 800
-GemPrice: 120
-GoldPayment: 135
-GemPayment: 15
+GoldPrice: 360
+GemPrice: 90
+GoldPayment: 70
+GemPayment: 16
 Subtype: (1, 13)
 Analogs: (0)
 UnitClass: 4
@@ -9452,9 +9465,10 @@ Resource: (5, 5, 9)
 Abilityes:
 Magic_shot: 58
 Regeneration: 98
-Swamp_dweller: 488
-Geyzer: 218
-Lizarmen_2: 165;
+Lizarmen_2: 165
+Geyser: 218
+Summon_WaterElem: 222
+Swamp_dweller: 488;
 
 Lvl 01 upgrades: (1, 4; 20, 4; 16, 4; 27, 3; 150, 4)
 Lvl 02 upgrades: (30, 4; 27, 4; 34, 4; 57, 4; 488, 4)
@@ -9463,8 +9477,8 @@ Lvl 04 upgrades: (30, 4; 13, 4; 16, 4; 150, 4)
 Lvl 05 upgrades: (1, 4; 20, 4; 139, 4; 547, 4)
 Lvl 06 upgrades: (30, 4; 27, 4; 4, 4; 219, 6)
 Lvl 07 upgrades: (1, 4; 20, 4; 17, 4; 150, 4)
-Lvl 08 upgrades: (31, 4; 10, 4; 34, 4; 222, 6)
-Lvl 09 upgrades: (2, 4; 21, 4; 4, 4; 52, 4; 548, 2)
+Lvl 08 upgrades: (31, 4; 10, 4; 34, 4; 548, 2)
+Lvl 09 upgrades: (2, 4; 21, 4; 4, 4; 52, 4)
 Lvl 10 upgrades: (31, 4; 27, 4; 16, 4; 220, 6)
 Lvl 11 upgrades: (2, 4; 21, 4; 150, 4; 139, 4)
 Lvl 12 upgrades: (31, 4; 13, 4; 4, 4; 23, 4; 488, 4)
@@ -9473,7 +9487,7 @@ Lvl 14 upgrades: (31, 4; 28, 4; 42, 4; 150, 4)
 Lvl 15 upgrades: (2, 4; 21, 4; 7, 4; 52, 4)
 Lvl 16 upgrades: (31, 4; 10, 4; 42, 4; 548, 4)
 Lvl 17 upgrades: (2, 4; 21, 4; 34, 4; 150, 4)
-Lvl 18 upgrades: (31, 4; 28, 4; 4, 4; 549, 1; 488, 4)
+Lvl 18 upgrades: (31, 4; 28, 4; 4, 4; 549, 2; 488, 4)
 Lvl 19 upgrades: (2, 4; 22, 4; 17, 4; 547, 4)
 Lvl 20 upgrades: (31, 4; 13, 4; 43, 4; 150, 4)
 
@@ -9597,9 +9611,9 @@ Stamina: 12
 Morale: 10
 Exp: 25
 ExpMod: 90
-GoldPrice: 40
+GoldPrice: 30
 GemPrice: 0
-GoldPayment: 8
+GoldPayment: 7
 GemPayment: 0
 Subtype: (1, 6)
 Analogs: (0)
@@ -9674,12 +9688,12 @@ RangedAttack: 0
 ShootingRange: 0
 Ammo: 0
 Stamina: 12
-Morale: 10
+Morale: 11
 Exp: 30
 ExpMod: 105
-GoldPrice: 80
+GoldPrice: 65
 GemPrice: 0
-GoldPayment: 16
+GoldPayment: 12
 GemPayment: 0
 Subtype: (1, 6)
 Analogs: (0)
@@ -9763,9 +9777,9 @@ Stamina: 10
 Morale: 11
 Exp: 23
 ExpMod: 115
-GoldPrice: 60
+GoldPrice: 50
 GemPrice: 10
-GoldPayment: 12
+GoldPayment: 10
 GemPayment: 2
 Subtype: (1, 6)
 Analogs: (0)
@@ -9827,18 +9841,18 @@ Lvl 19 loot: (0, 0)
 Lvl 20 loot: (0, 0)
 
 /122
-Name: Юный кентавр;
+Name: Искатель ветра;
 Level: 1
 Life: 16
 Attack: 5
 CounterAttack: 6
-Defence: 0
+Defence: 1
 RangedDefence: 1
 Resist: 1
 Speed: 3
 RangedAttack: 5
 ShootingRange: 4
-Ammo: 5
+Ammo: 6
 Stamina: 11
 Morale: 10
 Exp: 20
@@ -9860,28 +9874,30 @@ Missile: 0
 Resource: (0)
 
 Abilityes:
-Forester: 486;
+Forester: 486
+FastRest: 629
+Support_Fire_centaur: 843;
 		
-Lvl 01 upgrades: (30, 4; 34, 4; 4, 4; 20, 4)
-Lvl 02 upgrades: (1, 4; 13, 4; 16, 4)
-Lvl 03 upgrades: (30, 4; 7, 4)
-Lvl 04 upgrades: (1, 4; 10, 4; 20, 4; 591, 4)
+Lvl 01 upgrades: (30, 4; 34, 4; 4, 4; 27, 4)
+Lvl 02 upgrades: (1, 4; 13, 4; 16, 4; 20, 4)
+Lvl 03 upgrades: (30, 4; 7, 4; 849, 1)
+Lvl 04 upgrades: (1, 4; 10, 4; 591, 4)
 Lvl 05 upgrades: (31, 4; 4, 4; 27, 4; 84, 3)
-Lvl 06 upgrades: (1, 4; 13, 4; 34, 4)
+Lvl 06 upgrades: (1, 4; 13, 4; 20, 4; 34, 4)
 Lvl 07 upgrades: (36, 4; 7, 4; 16, 4)
-Lvl 08 upgrades: (1, 4; 10, 4; 20, 4)
-Lvl 09 upgrades: (31, 4; 4, 4)
-Lvl 10 upgrades: (1, 4; 13, 4; 16, 4; 629, 4)
+Lvl 08 upgrades: (1, 4; 10, 4; 845, 5) 
+Lvl 09 upgrades: (31, 4; 4, 4; 27, 4)
+Lvl 10 upgrades: (1, 4; 13, 4; 16, 4; 629, 3)
 Lvl 11 upgrades: (36, 4; 7, 4; 20, 4)
 Lvl 12 upgrades: (2, 4; 10, 4; 34, 4; 591, 4)
-Lvl 13 upgrades: (31, 4; 4, 4; 42, 4)
-Lvl 14 upgrades: (2, 4; 13, 4; 27, 4)
-Lvl 15 upgrades: (36, 4; 38, 4; 34, 4)
-Lvl 16 upgrades: (2, 4; 10, 4; 21, 4; 84, 3)
-Lvl 17 upgrades: (31, 4; 5, 4; 42, 4)
-Lvl 18 upgrades: (2, 4; 13, 4; 34, 4)
-Lvl 19 upgrades: (36, 4; 38, 4; 27, 4)
-Lvl 20 upgrades: (2, 4; 10, 4; 21, 4)
+Lvl 13 upgrades: (31, 4; 4, 4; 27, 4; 42, 4)
+Lvl 14 upgrades: (2, 4; 13, 4; 84, 3)
+Lvl 15 upgrades: (36, 4; 38, 4; 20, 4)
+Lvl 16 upgrades: (2, 4; 10, 4; 42, 4)
+Lvl 17 upgrades: (31, 4; 5, 4; 27, 4)
+Lvl 18 upgrades: (2, 4; 13, 4; 34, 4; 698, 4)
+Lvl 19 upgrades: (36, 4; 20, 4; 38, 4)
+Lvl 20 upgrades: (2, 4; 10, 4; 27, 4)
 
 Lvl 01 loot: (30, 5)
 Lvl 02 loot: (48, 3)
@@ -9905,10 +9921,10 @@ Lvl 19 loot: (0, 0)
 Lvl 20 loot: (0, 0)
 
 /123
-Name: Кентавр-воин;
+Name: Обгоняющий-ветер;
 Level: 2
-Life: 34
-Attack: 15
+Life: 36
+Attack: 16
 CounterAttack: 10
 Defence: 2
 RangedDefence: 2
@@ -9941,11 +9957,13 @@ Abilityes:
 Rejuveration: 51
 Armor_Damage: 75
 Forester: 486
-FastRest: 629;
+FastRest: 629
+Support_Strike_centaur: 844
+Centaur_Might: 846;
 		
-Lvl 01 upgrades: (30, 4; 34, 4; 4, 4; 51, 4)
+Lvl 01 upgrades: (10, 1; 30, 4; 34, 4; 4, 4; 51, 4)
 Lvl 02 upgrades: (2, 4; 13, 4; 16, 4)
-Lvl 03 upgrades: (30, 4; 7, 4)
+Lvl 03 upgrades: (30, 4; 7, 4; 847, 1)
 Lvl 04 upgrades: (2, 4; 10, 4; 7, 4; 67, 3)
 Lvl 05 upgrades: (31, 4; 4, 4; 13, 4; 51, 4)
 Lvl 06 upgrades: (2, 4; 13, 4; 34, 4; 629, 4)
@@ -9995,17 +10013,17 @@ Defence: 2
 RangedDefence: 4
 Resist: 5
 Speed: 3
-RangedAttack: 10
+RangedAttack: 8
 ShootingRange: 5
 Ammo: 6
 Stamina: 14
 Morale: 11
 Exp: 75
 ExpMod: 190
-GoldPrice: 350
-GemPrice: 70
-GoldPayment: 70
-GemPayment: 10
+GoldPrice: 280
+GemPrice: 65
+GoldPayment: 56
+GemPayment: 11
 Subtype: (1, 12)
 Analogs: (0)
 UnitClass: 4
@@ -10021,25 +10039,27 @@ Resource: (4, 5)
 Abilityes:
 Magic_shot: 58
 Forester: 486
-Magic_Arrow: 242;
+Resist_Pierce: 628
+Magic_Arrow: 242
+Centaur_Resist: 848;
 		
-Lvl 01 upgrades: (1, 4; 20, 4; 16, 4)
+Lvl 01 upgrades: (1, 4; 20, 4; 16, 4; 239, 5)
 Lvl 02 upgrades: (30, 4; 27, 4; 34, 4; 57, 4)
-Lvl 03 upgrades: (1, 4; 20, 4; 7, 4; 547, 2)
-Lvl 04 upgrades: (30, 4; 13, 4; 16, 4; 239, 5)
-Lvl 05 upgrades: (1, 4; 20, 4; 150, 4)
+Lvl 03 upgrades: (1, 4; 7, 4; 547, 2)
+Lvl 04 upgrades: (30, 4; 13, 4; 52, 4)
+Lvl 05 upgrades: (1, 4; 20, 4; 241, 5)
 Lvl 06 upgrades: (30, 4; 27, 4; 4, 4; 591, 4)
-Lvl 07 upgrades: (1, 4; 20, 4; 16, 4; 548, 3)
-Lvl 08 upgrades: (30, 4; 10, 4; 34, 4; 241, 5)
+Lvl 07 upgrades: (1, 4; 16, 4; 548, 3)
+Lvl 08 upgrades: (30, 4; 10, 4; 34, 4; 848, 3)
 Lvl 09 upgrades: (1, 4; 20, 4; 7, 4; 547, 4)
-Lvl 10 upgrades: (31, 4; 27, 4; 16, 4; 23, 4)
-Lvl 11 upgrades: (1, 4; 21, 4; 150, 4)
-Lvl 12 upgrades: (31, 4; 13, 4; 4, 4; 240, 5)
-Lvl 13 upgrades: (2, 4; 21, 4; 17, 4; 591, 4)
-Lvl 14 upgrades: (31, 4; 27, 4; 42, 4; 318, 5)
-Lvl 15 upgrades: (2, 4; 21, 4; 7, 4; 52, 4)
-Lvl 16 upgrades: (31, 4; 10, 4; 42, 4; 150, 4)
-Lvl 17 upgrades: (2, 4; 21, 4; 34, 4; 547, 6)
+Lvl 10 upgrades: (31, 4; 27, 4; 16, 4; 240, 8)
+Lvl 11 upgrades: (1, 4; 21, 4; 23, 4)
+Lvl 12 upgrades: (31, 4; 13, 4; 4, 4)
+Lvl 13 upgrades: (2, 4; 17, 4; 591, 4)
+Lvl 14 upgrades: (31, 4; 27, 4; 42, 4; 318, 3)
+Lvl 15 upgrades: (2, 4; 21, 4; 7, 4)
+Lvl 16 upgrades: (31, 4; 10, 4; 42, 4)
+Lvl 17 upgrades: (2, 4; 34, 4; 547, 6)
 Lvl 18 upgrades: (31, 4; 27, 4; 4, 4)
 Lvl 19 upgrades: (2, 4; 21, 4; 17, 4; 548, 5)
 Lvl 20 upgrades: (31, 4; 13, 4; 43, 4)
@@ -10066,7 +10086,7 @@ Lvl 19 loot: (0, 0)
 Lvl 20 loot: (0, 0)
 
 /125
-Name: Кентавр-вождь;
+Name: Рокот Ветра;
 Level: 4
 Life: 82
 Attack: 32
@@ -10083,9 +10103,9 @@ Morale: 14
 Exp: 145
 ExpMod: 300
 GoldPrice: 600
-GemPrice: 10
-GoldPayment: 80
-GemPayment: 1
+GemPrice: 20
+GoldPayment: 120
+GemPayment: 5
 Subtype: (1, 12, 24)
 Analogs: (0)
 UnitClass: 1
@@ -10102,7 +10122,9 @@ Abilityes:
 Rejuveration: 51
 Forester: 486
 Ancients_Rage: 243
-FastRest: 629;
+FastRest: 629
+Support_Strike_centaur: 844
+Centaur_Imba: 850;
 		
 Lvl 01 upgrades: (3, 4; 4, 4; 13, 4; 31, 4)
 Lvl 02 upgrades: (31, 4; 7, 4; 10, 4)
@@ -10111,8 +10133,8 @@ Lvl 04 upgrades: (31, 4; 7, 4; 10, 4)
 Lvl 05 upgrades: (36, 4; 4, 4; 13, 4; 27, 4)
 Lvl 06 upgrades: (31, 4; 7, 4; 16, 4; 629, 4)
 Lvl 07 upgrades: (3, 4; 4, 4; 10, 4; 548, 1)
-Lvl 08 upgrades: (36, 4; 7, 4; 13, 4; 244, 5)
-Lvl 09 upgrades: (3, 4; 38, 4)
+Lvl 08 upgrades: (36, 4; 7, 4; 13, 4; 244, 8)
+Lvl 09 upgrades: (3, 4; 38, 4; 850, 2)
 Lvl 10 upgrades: (31, 4; 7, 4; 10, 4)
 Lvl 11 upgrades: (36, 4; 5, 4; 13, 4)
 Lvl 12 upgrades: (32, 4; 38, 4; 16, 4; 27, 4)
@@ -10241,14 +10263,14 @@ Speed: 2
 RangedAttack: 10
 ShootingRange: 5
 Ammo: 5
-Stamina: 15
+Stamina: 14
 Morale: 12
 Exp: 130
 ExpMod: 310
-GoldPrice: 450
+GoldPrice: 350
 GemPrice: 100
-GoldPayment: 90
-GemPayment: 15
+GoldPayment: 70
+GemPayment: 16
 Subtype: (1, 7)
 Analogs: (0)
 UnitClass: 4
@@ -10267,25 +10289,25 @@ First_Aid: 65
 Magic_fight: 289
 Spell_Buff: 758;
 		
-Lvl 01 upgrades: (1, 4; 780, 4; 16, 4; 27, 3; 776, 2)
+Lvl 01 upgrades: (1, 4; 779, 4; 16, 4; 27, 3; 776, 2)
 Lvl 02 upgrades: (30, 4; 34, 4; 774, 4; 4, 4)
-Lvl 03 upgrades: (1, 4; 780, 4; 7, 4; 246, 6)
+Lvl 03 upgrades: (1, 4; 779, 4; 7, 4; 246, 6)
 Lvl 04 upgrades: (30, 4; 13, 4; 16, 4; 150, 4; 486, 4)
-Lvl 05 upgrades: (1, 4; 780, 4; 776, 4; 52, 4)
+Lvl 05 upgrades: (1, 4; 779, 4; 776, 4; 52, 4)
 Lvl 06 upgrades: (30, 4; 27, 4; 774, 4; 4, 4; 7, 4)
-Lvl 07 upgrades: (1, 4; 780, 4; 16, 4; 150, 4)
+Lvl 07 upgrades: (1, 4; 779, 4; 16, 4; 150, 4)
 Lvl 08 upgrades: (31, 4; 10, 4; 34, 4; 247, 6)
-Lvl 09 upgrades: (2, 4; 780, 4; 7, 4; 780, 4)
+Lvl 09 upgrades: (2, 4; 779, 4; 7, 4; 780, 4)
 Lvl 10 upgrades: (31, 4; 27, 4; 774, 4; 17, 4; 788, 4)
-Lvl 11 upgrades: (2, 4; 780, 4; 150, 4; 776, 4)
+Lvl 11 upgrades: (2, 4; 779, 4; 150, 4; 776, 4)
 Lvl 12 upgrades: (31, 4; 13, 4; 4, 4; 7, 4; 486, 4)
-Lvl 13 upgrades: (2, 4; 780, 4; 17, 4; 348, 5; 436, 10)
-Lvl 14 upgrades: (31, 4; 28, 4; 774, 4; 42, 4; 150, 4)
-Lvl 15 upgrades: (2, 4; 780, 4; 7, 4; 23, 4; 778, 8)
+Lvl 13 upgrades: (2, 4; 779, 4; 17, 4; 348, 5; 436, 10)
+Lvl 14 upgrades: (31, 4; 28, 4; 775, 4; 42, 4; 150, 4)
+Lvl 15 upgrades: (2, 4; 779, 4; 7, 4; 23, 4; 778, 8)
 Lvl 16 upgrades: (31, 4; 10, 4; 42, 4; 776, 4)
-Lvl 17 upgrades: (2, 4; 780, 4; 34, 4; 150, 4)
+Lvl 17 upgrades: (2, 4; 779, 4; 34, 4; 150, 4)
 Lvl 18 upgrades: (31, 4; 28, 4; 775, 4; 4, 4; 777, 7)
-Lvl 19 upgrades: (2, 4; 780, 4; 17, 4; 486, 4)
+Lvl 19 upgrades: (2, 4; 779, 4; 17, 4; 486, 4)
 Lvl 20 upgrades: (31, 4; 13, 4; 43, 4; 150, 4)
 
 Lvl 01 loot: (8, 4; 40, 4; 66, 3)
@@ -10326,9 +10348,9 @@ Stamina: 11
 Morale: 9
 Exp: 30
 ExpMod: 90
-GoldPrice: 40
+GoldPrice: 30
 GemPrice: 0
-GoldPayment: 8
+GoldPayment: 6
 GemPayment: 0
 Subtype: (1, 6)
 Analogs: (0)
@@ -10402,13 +10424,13 @@ Speed: 2
 RangedAttack: 0
 ShootingRange: 0
 Ammo: 2
-Stamina: 12
+Stamina: 11
 Morale: 9
 Exp: 35
 ExpMod: 110
 GoldPrice: 80
 GemPrice: 0
-GoldPayment: 16
+GoldPayment: 10
 GemPayment: 0
 Subtype: (1, 9)
 Analogs: (96, 130)
@@ -10430,10 +10452,10 @@ Landstalker: 257
 Panic: 277
 Summon_distance: 213;
 		
-Lvl 01 upgrades: (1, 4; 4, 4; 13, 4; 250, 4)
+Lvl 01 upgrades: (1, 4; 4, 4; 13, 4; 250, 8)
 Lvl 02 upgrades: (30, 4; 7, 4; 16, 4; 256, 4)
 Lvl 03 upgrades: (1, 4; 4, 4; 27, 4; 140, 4)
-Lvl 04 upgrades: (30, 4; 10, 4; 127, 4; 252, 4)
+Lvl 04 upgrades: (30, 4; 10, 4; 127, 4; 252, 8)
 Lvl 05 upgrades: (1, 4; 4, 4; 13, 4; 83, 4)
 Lvl 06 upgrades: (30, 4; 7, 4; 16, 4; 140, 4)
 Lvl 07 upgrades: (1, 4; 4, 4; 34, 4; 56, 5)
@@ -10489,10 +10511,10 @@ Stamina: 13
 Morale: 10
 Exp: 70
 ExpMod: 160
-GoldPrice: 160
-GemPrice: 20
-GoldPayment: 37
-GemPayment: 3
+GoldPrice: 200
+GemPrice: 45
+GoldPayment: 40
+GemPayment: 10
 Subtype: (1, 9)
 Analogs: (0)
 UnitClass: 4
@@ -10560,22 +10582,22 @@ Name: Эрикуба;
 Level: 4
 Life: 120
 Attack: 28
-CounterAttack: 28
-Defence: 3
-RangedDefence: 3
+CounterAttack: 22
+Defence: 2
+RangedDefence: 4
 Resist: 3
 Speed: 2
 RangedAttack: 8
 ShootingRange: 2
-Ammo: 2
+Ammo: 3
 Stamina: 22
 Morale: 10
 Exp: 250
 ExpMod: 300
-GoldPrice: 750
-GemPrice: 20
-GoldPayment: 150
-GemPayment: 4
+GoldPrice: 700
+GemPrice: 25
+GoldPayment: 130
+GemPayment: 6
 Subtype: (1, 19, 24)
 Analogs: (0)
 UnitClass: 6
@@ -10590,11 +10612,12 @@ Resource: (0)
 
 Abilityes:
 Agility: 56
-Regeneration: 98
-Poison: 78
-Swamp_dweller: 64
+Swamp_dweller_4: 64
+Poison_2: 78
 Eat_friends: 255
-Furious_Rage_10: 515;
+Regeneration_2: 475
+Furious_Rage_10: 515
+CrippleShot: 626;
 		
 Lvl 01 upgrades: (3, 4; 4, 4; 151, 6; 31, 4)
 Lvl 02 upgrades: (31, 4; 7, 4; 10, 4; 13, 4)
@@ -10605,12 +10628,12 @@ Lvl 06 upgrades: (31, 4; 7, 4; 16, 4; 132, 4)
 Lvl 07 upgrades: (3, 4; 4, 4; 10, 4; 488, 4)
 Lvl 08 upgrades: (36, 4; 7, 4; 13, 4; 98, 4)
 Lvl 09 upgrades: (3, 4; 38, 4; 27, 3; 623, 2)
-Lvl 10 upgrades: (31, 4; 7, 4; 10, 4; 140, 4)
+Lvl 10 upgrades: (31, 4; 7, 4; 10, 4; 627, 3)
 Lvl 11 upgrades: (36, 4; 5, 4; 13, 4; 132, 4)
 Lvl 12 upgrades: (32, 4; 38, 4; 16, 4; 98, 4)
-Lvl 13 upgrades: (25, 4; 5, 4; 10, 4; 178, 4)
+Lvl 13 upgrades: (25, 4; 5, 4; 10, 4; 140, 4)
 Lvl 14 upgrades: (37, 4; 8, 4; 13, 4; 113, 3)
-Lvl 15 upgrades: (25, 4; 38, 4; 34, 4; 140, 4)
+Lvl 15 upgrades: (25, 4; 38, 4; 34, 4; 178, 4)
 Lvl 16 upgrades: (32, 4; 6, 4; 40, 4; 98, 4)
 Lvl 17 upgrades: (37, 4; 8, 4; 14, 4; 27, 3)
 Lvl 18 upgrades: (32, 4; 38, 4; 16, 4; 132, 4)
@@ -10646,7 +10669,7 @@ Attack: 7
 CounterAttack: 7
 Defence: 3
 RangedDefence: 5
-Resist: 4
+Resist: 3
 Speed: 2
 RangedAttack: 6
 ShootingRange: 3
@@ -10655,9 +10678,9 @@ Stamina: 10
 Morale: 10
 Exp: 30
 ExpMod: 100
-GoldPrice: 60
-GemPrice: 0
-GoldPayment: 12
+GoldPrice: 70
+GemPrice: 5
+GoldPayment: 14
 GemPayment: 0
 Subtype: (1, 11)
 Analogs: (261)
@@ -10737,9 +10760,9 @@ Stamina: 12
 Morale: 10
 Exp: 60
 ExpMod: 180
-GoldPrice: 250
+GoldPrice: 350
 GemPrice: 0
-GoldPayment: 50
+GoldPayment: 70
 GemPayment: 0
 Subtype: (1, 6)
 Analogs: (0)
@@ -10818,9 +10841,9 @@ Morale: 12
 Exp: 120
 ExpMod: 320
 GoldPrice: 400
-GemPrice: 80
+GemPrice: 40
 GoldPayment: 80
-GemPayment: 12
+GemPayment: 8
 Subtype: (1, 6)
 Analogs: (0)
 UnitClass: 4
@@ -10886,18 +10909,18 @@ Lvl 20 loot: (0, 0)
 /135
 Name: Боевой грифон;
 Level: 3
-Life: 48
-Attack: 22
-CounterAttack: 17
-Defence: 5
-RangedDefence: 4
+Life: 52
+Attack: 24
+CounterAttack: 18
+Defence: 6
+RangedDefence: 5
 Resist: 6
 Speed: 4
 RangedAttack: 0
 ShootingRange: 0
 Ammo: 0
-Stamina: 20
-Morale: 10
+Stamina: 22
+Morale: 11
 Exp: 90
 ExpMod: 250
 GoldPrice: 700
@@ -10980,9 +11003,9 @@ Stamina: 22
 Morale: 11
 Exp: 90
 ExpMod: 235
-GoldPrice: 500
+GoldPrice: 400
 GemPrice: 0
-GoldPayment: 100
+GoldPayment: 80
 GemPayment: 0
 Subtype: (1, 6)
 Analogs: (0)
@@ -11047,8 +11070,8 @@ Lvl 20 loot: (0, 0)
 Name: Ревнитель веры;
 Level: 2
 Life: 24
-Attack: 13
-CounterAttack: 12
+Attack: 12
+CounterAttack: 9
 Defence: 5
 RangedDefence: 4
 Resist: 5
@@ -11057,13 +11080,13 @@ RangedAttack: 0
 ShootingRange: 4
 Ammo: 5
 Stamina: 12
-Morale: 10
+Morale: 11
 Exp: 50
 ExpMod: 150
-GoldPrice: 150
-GemPrice: 20
-GoldPayment: 30
-GemPayment: 4
+GoldPrice: 110
+GemPrice: 15
+GoldPayment: 22
+GemPayment: 3
 Subtype: (1, 6)
 Analogs: (0)
 UnitClass: 4
@@ -11089,7 +11112,7 @@ Lvl 04 upgrades: (30, 4; 26, 4; 10, 4)
 Lvl 05 upgrades: (1, 4; 34, 4; 7, 4; 65, 3; 547, 4)
 Lvl 06 upgrades: (30, 4; 4, 4; 26, 4)
 Lvl 07 upgrades: (1, 4; 4, 4; 16, 4)
-Lvl 08 upgrades: (7, 4; 30, 4; 13, 4)
+Lvl 08 upgrades: (7, 4; 30, 4; 13, 4; 835, 3)
 Lvl 09 upgrades: (1, 4; 4, 4; 16, 4; 7, 4; 38, 4)
 Lvl 10 upgrades: (30, 4; 26, 4; 65, 3; 547, 4)
 Lvl 11 upgrades: (1, 4; 34, 4; 4, 4; 27, 4)
@@ -11138,12 +11161,12 @@ RangedAttack: 10
 ShootingRange: 4
 Ammo: 10
 Stamina: 12
-Morale: 11
+Morale: 12
 Exp: 60
 ExpMod: 165
-GoldPrice: 140
+GoldPrice: 95
 GemPrice: 0
-GoldPayment: 28
+GoldPayment: 19
 GemPayment: 0
 Subtype: (1, 6)
 Analogs: (0)
@@ -11260,7 +11283,7 @@ Lvl 16 upgrades: (8, 4; 17, 4; 32, 4; 627, 4)
 Lvl 17 upgrades: (21, 4; 37, 4; 42, 4; 127, 4)
 Lvl 18 upgrades: (5, 4; 14, 4; 32, 4; 680, 4)
 Lvl 19 upgrades: (11, 4; 35, 4; 37, 4)
-Lvl 20 upgrades: (17, 4; 27, 4; 32, 4; 38, 4)
+Lvl 20 upgrades: (17, 4; 27, 4; 32, 4; 38, 4; 835, 1)
 
 Lvl 01 loot: (9, 6; 41, 5; 55, 3)
 Lvl 02 loot: (42, 5)
@@ -11286,7 +11309,7 @@ Lvl 20 loot: (0, 0)
 /140
 Name: Инквизитор;
 Level: 2
-Life: 16
+Life: 14
 Attack: 6
 CounterAttack: 6
 Defence: 1
@@ -11300,10 +11323,10 @@ Stamina: 10
 Morale: 12
 Exp: 40
 ExpMod: 110
-GoldPrice: 75
-GemPrice: 10
-GoldPayment: 15
-GemPayment: 2
+GoldPrice: 110
+GemPrice: 15
+GoldPayment: 22
+GemPayment: 3
 Subtype: (1, 6)
 Analogs: (137, 141)
 UnitClass: 4
@@ -11372,20 +11395,20 @@ Life: 18
 Attack: 6
 CounterAttack: 8
 Defence: 2
-RangedDefence: 2
+RangedDefence: 3
 Resist: 6
 Speed: 2
 RangedAttack: 1
 ShootingRange: 7
-Ammo: 5
+Ammo: 6
 Stamina: 12
 Morale: 12
 Exp: 80
 ExpMod: 220
-GoldPrice: 400
-GemPrice: 60
-GoldPayment: 80
-GemPayment: 10
+GoldPrice: 300
+GemPrice: 50
+GoldPayment: 60
+GemPayment: 9
 Subtype: (1, 6)
 Analogs: (149)
 UnitClass: 4
@@ -11455,7 +11478,7 @@ Life: 48
 Attack: 17
 CounterAttack: 16
 Defence: 8
-RangedDefence: 12
+RangedDefence: 10
 Resist: 3
 Speed: 2
 RangedAttack: 0
@@ -11465,10 +11488,10 @@ Stamina: 16
 Morale: 15
 Exp: 120
 ExpMod: 220
-GoldPrice: 800
+GoldPrice: 550
 GemPrice: 0
-GoldPayment: 160
-GemPayment: 0
+GoldPayment: 100
+GemPayment: 3
 Subtype: (1, 6)
 Analogs: (0)
 UnitClass: 1
@@ -11502,8 +11525,8 @@ Lvl 07 upgrades: (2, 4; 4, 4; 10, 4; 34, 4)
 Lvl 08 upgrades: (36, 4; 7, 4; 13, 4; 85, 4)
 Lvl 09 upgrades: (2, 4; 38, 4; 16, 4; 34, 4)
 Lvl 10 upgrades: (31, 4; 7, 4; 40, 4; 51, 4)
-Lvl 11 upgrades: (36, 4; 5, 4; 14, 4; 35, 4)
-Lvl 12 upgrades: (32, 4; 38, 4; 42, 4; 59, 3)
+Lvl 11 upgrades: (36, 4; 5, 4; 14, 4; 59, 3)
+Lvl 12 upgrades: (32, 4; 38, 4; 42, 4; 835, 2)
 Lvl 13 upgrades: (3, 4; 5, 4; 11, 4; 35, 4)
 Lvl 14 upgrades: (37, 4; 8, 4; 40, 4; 85, 4)
 Lvl 15 upgrades: (3, 4; 38, 4; 43, 4; 35, 4)
@@ -11538,27 +11561,27 @@ Lvl 20 loot: (0, 0)
 Name: Фанатик веры;
 Level: 4
 Life: 65
-Attack: 22
-CounterAttack: 22
+Attack: 24
+CounterAttack: 23
 Defence: 8
-RangedDefence: 8
+RangedDefence: 10
 Resist: 10
 Speed: 2
 RangedAttack: 0
 ShootingRange: 0
 Ammo: 0
-Stamina: 18
-Morale: 15
+Stamina: 16
+Morale: 18
 Exp: 120
 ExpMod: 330
-GoldPrice: 450
+GoldPrice: 600
 GemPrice: 30
-GoldPayment: 90
+GoldPayment: 120
 GemPayment: 6
 Subtype: (1, 6)
 Analogs: (57, 236)
 UnitClass: 1
-Upgraded: (0, 0)
+Upgraded: (-681, -683)
 Karma: 3
 SoundHit: 214
 SoundShoot: 0
@@ -11572,28 +11595,29 @@ First_Strike: 46
 Smite_evil_3: 279
 Undead_hunter: 680
 Demon_hunter: 682
-HeavenlyArmor: 527;
+HeavenlyArmor: 527
+Unfeared: 835;
 		
-Lvl 01 upgrades: (2, 4; 4, 4; 10, 4; 34, 4)
-Lvl 02 upgrades: (31, 4; 7, 4; 13, 4)
-Lvl 03 upgrades: (2, 4; 4, 4; 16, 4; 34, 4)
+Lvl 01 upgrades: (2, 4; 4, 4; 10, 4; 35, 4)
+Lvl 02 upgrades: (31, 4; 7, 4; 13, 4; 840, 4)
+Lvl 03 upgrades: (2, 4; 4, 4; 16, 4; 841, 4)
 Lvl 04 upgrades: (31, 4; 7, 4; 10, 4; 103, 4)
-Lvl 05 upgrades: (36, 4; 4, 4; 40, 4; 34, 4)
+Lvl 05 upgrades: (36, 4; 4, 4; 40, 4; 35, 4)
 Lvl 06 upgrades: (31, 4; 7, 4; 16, 4; 59, 4)
-Lvl 07 upgrades: (2, 4; 5, 4; 10, 4; 34, 4)
-Lvl 08 upgrades: (36, 4; 8, 4; 13, 4; 682, 4)
-Lvl 09 upgrades: (2, 4; 38, 4; 17, 4; 34, 4)
+Lvl 07 upgrades: (2, 4; 5, 4; 10, 4)
+Lvl 08 upgrades: (36, 4; 8, 4; 13, 4)
+Lvl 09 upgrades: (2, 4; 38, 4; 17, 4; 35, 4)
 Lvl 10 upgrades: (31, 4; 8, 4; 40, 4; 69, 4)
-Lvl 11 upgrades: (36, 4; 5, 4; 14, 4; 35, 4)
-Lvl 12 upgrades: (32, 4; 38, 4; 42, 4; 680, 4)
-Lvl 13 upgrades: (3, 4; 5, 4; 11, 4; 35, 4)
-Lvl 14 upgrades: (37, 4; 8, 4; 40, 4)
-Lvl 15 upgrades: (3, 4; 38, 4; 43, 4; 35, 4)
+Lvl 11 upgrades: (36, 4; 5, 4; 14, 4; 840, 4)
+Lvl 12 upgrades: (32, 4; 38, 4; 42, 4; 841, 4)
+Lvl 13 upgrades: (2, 4; 5, 4; 11, 4; 35, 4)
+Lvl 14 upgrades: (37, 4; 8, 4; 40, 4; 658, 3)
+Lvl 15 upgrades: (2, 4; 38, 4; 43, 4)
 Lvl 16 upgrades: (32, 4; 6, 4; 41, 3)
 Lvl 17 upgrades: (37, 4; 8, 4; 42, 4; 35, 4)
-Lvl 18 upgrades: (32, 4; 38, 4; 11, 4)
-Lvl 19 upgrades: (3, 4; 8, 4; 14, 4; 35, 4)
-Lvl 20 upgrades: (37, 4; 6, 4; 41, 4)
+Lvl 18 upgrades: (32, 4; 38, 4; 11, 4; 840, 4)
+Lvl 19 upgrades: (2, 4; 8, 4; 14, 4; 841, 4)
+Lvl 20 upgrades: (37, 4; 6, 4; 41, 4; 35, 4)
 
 Lvl 01 loot: (24, 6; 45, 5; 91, 1; 259, 3)
 Lvl 02 loot: (62, 3; 79, 2; 92, 2; 280, 3)
@@ -11619,7 +11643,7 @@ Lvl 20 loot: (0, 0)
 /144
 Name: Некромант;
 Level: 2
-Life: 16
+Life: 14
 Attack: 6
 CounterAttack: 7
 Defence: 2
@@ -11633,10 +11657,10 @@ Stamina: 13
 Morale: 11
 Exp: 50
 ExpMod: 200
-GoldPrice: 180
-GemPrice: 30
-GoldPayment: 30
-GemPayment: 6
+GoldPrice: 115
+GemPrice: 20
+GoldPayment: 20
+GemPayment: 5
 Subtype: (1, 6)
 Analogs: (0)
 UnitClass: 4
@@ -11656,25 +11680,25 @@ UndeadMastery2: 574
 Cast_Fear: 121
 Cast_Raise_Skeleton: 122;
 		
-Lvl 01 upgrades: (1, 4; 20, 4; 7, 3; 34, 4)
+Lvl 01 upgrades: (1, 4; 20, 4; 7, 3; 34, 4; 136, 8)
 Lvl 02 upgrades: (10, 3; 16, 4; 364, 2; 30, 4)
 Lvl 03 upgrades: (1, 4; 27, 4; 4, 3; 150, 4; 159, 6)
 Lvl 04 upgrades: (30, 4; 20, 4; 13, 3; 573, 4)
-Lvl 05 upgrades: (1, 4; 16, 4; 7, 3; 136, 5)
-Lvl 06 upgrades: (30, 4; 27, 4; 10, 3; 23, 4)
-Lvl 07 upgrades: (1, 4; 20, 4; 4, 3; 548, 5)
-Lvl 08 upgrades: (30, 4; 16, 4; 13, 3; 150, 4)
+Lvl 05 upgrades: (1, 4; 16, 4; 7, 3; 548, 5)
+Lvl 06 upgrades: (30, 4; 27, 4; 10, 3; 23, 3)
+Lvl 07 upgrades: (1, 4; 20, 4; 4, 3; 153, 6)
+Lvl 08 upgrades: (30, 4; 16, 4; 13, 3; 150, 4; 643, 3)
 Lvl 09 upgrades: (1, 4; 27, 4; 7, 3; 34, 4)
 Lvl 10 upgrades: (30, 4; 20, 4; 10, 3; 573, 4)
 Lvl 11 upgrades: (1, 4; 16, 4; 4, 3; 364, 4)
 Lvl 12 upgrades: (30, 4; 27, 4; 13, 3; 549, 3)
-Lvl 13 upgrades: (1, 4; 20, 4; 7, 3; 637, 5)
+Lvl 13 upgrades: (1, 4; 20, 4; 7, 3; 388, 5)
 Lvl 14 upgrades: (31, 4; 16, 4; 10, 3; 150, 4)
 Lvl 15 upgrades: (2, 4; 27, 4; 4, 3; 574, 4)
 Lvl 16 upgrades: (31, 4; 20, 4; 13, 3; 578, 5)
-Lvl 17 upgrades: (2, 4; 17, 4; 7, 3; 34, 4; 153, 6)
+Lvl 17 upgrades: (2, 4; 17, 4; 7, 3; 34, 4; 643, 3)
 Lvl 18 upgrades: (31, 4; 27, 4; 10, 3; 573, 4)
-Lvl 19 upgrades: (2, 4; 21, 4; 4, 3; 388, 5)
+Lvl 19 upgrades: (2, 4; 21, 4; 4, 3; 364, 4)
 Lvl 20 upgrades: (31, 4; 17, 4; 13, 3; 150, 4)
 
 Lvl 01 loot: (2, 4; 6, 5; 64, 3)
@@ -11715,9 +11739,9 @@ Stamina: 10
 Morale: 10
 Exp: 50
 ExpMod: 185
-GoldPrice: 250
+GoldPrice: 195
 GemPrice: 0
-GoldPayment: 50
+GoldPayment: 39
 GemPayment: 0
 Subtype: (4, 27)
 Analogs: (0)
@@ -11783,8 +11807,8 @@ Lvl 20 loot: (0, 0)
 Name: Карающая длань;
 Level: 2
 Life: 28
-Attack: 10
-CounterAttack: 12
+Attack: 12
+CounterAttack: 10
 Defence: 7
 RangedDefence: 11
 Resist: 4
@@ -11792,18 +11816,18 @@ Speed: 1
 RangedAttack: 0
 ShootingRange: 0
 Ammo: 0
-Stamina: 14
-Morale: 14
+Stamina: 13
+Morale: 15
 Exp: 50
 ExpMod: 180
-GoldPrice: 180
-GemPrice: 0
-GoldPayment: 36
-GemPayment: 0
+GoldPrice: 110
+GemPrice: 10
+GoldPayment: 16
+GemPayment: 1
 Subtype: (1, 6)
 Analogs: (142, 143)
 UnitClass: 1
-Upgraded: (0, 0)
+Upgraded: (-681, -683)
 Karma: 1
 SoundHit: 48
 SoundShoot: 0
@@ -11818,29 +11842,28 @@ Reinvigoration: 51
 First_Strike: 46
 Battle_March: 59
 HoldGround: 493
-Preparation: 658
-Demon_hunter: 683;
+Preparation: 658;
 		
 Lvl 01 upgrades: (1, 4; 7, 4; 13, 4; 34, 4)
-Lvl 02 upgrades: (4, 4; 16, 4; 30, 4)
-Lvl 03 upgrades: (1, 4; 7, 4; 13, 4)
-Lvl 04 upgrades: (30, 4; 4, 4; 10, 4; 682, 4)
+Lvl 02 upgrades: (4, 4; 16, 4; 30, 4; 840, 4)
+Lvl 03 upgrades: (1, 4; 7, 4; 13, 4; 841, 4)
+Lvl 04 upgrades: (30, 4; 4, 4; 10, 4)
 Lvl 05 upgrades: (1, 4; 7, 4; 13, 4; 34, 4)
 Lvl 06 upgrades: (31, 4; 4, 4; 10, 8; 16, 4)
-Lvl 07 upgrades: (2, 4; 7, 4; 13, 4)
+Lvl 07 upgrades: (2, 4; 7, 4; 13, 4; 840, 4)
 Lvl 08 upgrades: (31, 4; 4, 4; 10, 4; 51, 4)
-Lvl 09 upgrades: (2, 4; 7, 4; 13, 4; 35, 4)
-Lvl 10 upgrades: (31, 4; 4, 4; 10, 4; 16, 4; 682, 4)
-Lvl 11 upgrades: (2, 4; 38, 4; 40, 4)
+Lvl 09 upgrades: (2, 4; 7, 4; 13, 4; 841, 4)
+Lvl 10 upgrades: (31, 4; 4, 4; 10, 4; 16, 4)
+Lvl 11 upgrades: (2, 4; 38, 4; 40, 4; 35, 4)
 Lvl 12 upgrades: (36, 4; 8, 4; 14, 4; 51, 4)
-Lvl 13 upgrades: (36, 4; 5, 4; 11, 4; 35, 4)
-Lvl 14 upgrades: (31, 4; 38, 4; 40, 4; 16, 4)
-Lvl 15 upgrades: (2, 4; 8, 4; 14, 4)
-Lvl 16 upgrades: (36, 4; 5, 4; 11, 4; 682, 4)
+Lvl 13 upgrades: (36, 4; 5, 4; 11, 4; 16, 4)
+Lvl 14 upgrades: (31, 4; 38, 4; 40, 4; 840, 4)
+Lvl 15 upgrades: (2, 4; 8, 4; 14, 4; 35, 4)
+Lvl 16 upgrades: (36, 4; 5, 4; 11, 4; 841, 4)
 Lvl 17 upgrades: (3, 4; 38, 4; 40, 4; 35, 4)
 Lvl 18 upgrades: (36, 4; 8, 4; 14, 4; 17, 4)
 Lvl 19 upgrades: (32, 4; 5, 4; 11, 4; 42, 4)
-Lvl 20 upgrades: (37, 4; 39, 4; 41, 4)
+Lvl 20 upgrades: (37, 4; 39, 4; 41, 4; 835, 2)
 
 Lvl 01 loot: (18, 7; 60, 5)
 Lvl 02 loot: (77, 3; 90, 3)
@@ -11866,23 +11889,23 @@ Lvl 20 loot: (0, 0)
 /147
 Name: Камнемёт;
 Level: 3
-Life: 36
+Life: 34
 Attack: 0
 CounterAttack: 0
 Defence: 4
 RangedDefence: 12
 Resist: 1
 Speed: 1
-RangedAttack: 15
+RangedAttack: 13
 ShootingRange: 7
 Ammo: 5
 Stamina: 10
 Morale: 10
 Exp: 120
 ExpMod: 240
-GoldPrice: 900
+GoldPrice: 595
 GemPrice: 0
-GoldPayment: 180
+GoldPayment: 120
 GemPayment: 0
 Subtype: (4, 27)
 Analogs: (0)
@@ -11962,10 +11985,10 @@ Stamina: 13
 Morale: 11
 Exp: 120
 ExpMod: 260
-GoldPrice: 600
-GemPrice: 140
-GoldPayment: 90
-GemPayment: 26
+GoldPrice: 400
+GemPrice: 100
+GoldPayment: 80
+GemPayment: 20
 Subtype: (1, 6)
 Analogs: (200)
 UnitClass: 4
@@ -12032,24 +12055,24 @@ Lvl 20 loot: (0, 0)
 /149
 Name: Патриарх;
 Level: 3
-Life: 20
-Attack: 6
-CounterAttack: 8
-Defence: 3
-RangedDefence: 4
-Resist: 8
+Life: 24
+Attack: 7
+CounterAttack: 9
+Defence: 4
+RangedDefence: 7
+Resist: 9
 Speed: 2
-RangedAttack: 8
+RangedAttack: 9
 ShootingRange: 7
-Ammo: 6
-Stamina: 13
+Ammo: 7
+Stamina: 14
 Morale: 11
 Exp: 110
 ExpMod: 250
-GoldPrice: 600
-GemPrice: 100
-GoldPayment: 120
-GemPayment: 16
+GoldPrice: 500
+GemPrice: 90
+GoldPayment: 100
+GemPayment: 18
 Subtype: (1, 6)
 Analogs: (141)
 UnitClass: 4
@@ -12115,17 +12138,17 @@ Lvl 20 loot: (0, 0)
 /150
 Name: Виверна;
 Level: 3
-Life: 75
-Attack: 19
-CounterAttack: 14
-Defence: 4
+Life: 70
+Attack: 14
+CounterAttack: 10
+Defence: 3
 RangedDefence: 3
 Resist: 4
 Speed: 3
 RangedAttack: 0
 ShootingRange: 0
 Ammo: 0
-Stamina: 18
+Stamina: 16
 Morale: 10
 Exp: 70
 ExpMod: 190
@@ -12133,7 +12156,7 @@ GoldPrice: 170
 GemPrice: 15
 GoldPayment: 35
 GemPayment: 3
-Subtype: (1, 19)
+Subtype: (1, 19, 24)
 Analogs: (0)
 UnitClass: 7
 Upgraded: (0, 0)
@@ -12147,27 +12170,28 @@ Resource: (0)
 
 Abilityes:
 Fly: 44
-Poison: 133
-Corpse_Eat: 79;
+Poison_2: 78
+Poison_4: 133
+Corpse_Eat_10: 79;
 		
 Lvl 01 upgrades: (2, 4; 4, 4; 10, 4; 34, 4)
-Lvl 02 upgrades: (31, 4; 7, 4; 16, 4)
+Lvl 02 upgrades: (31, 4; 7, 4; 16, 4; 535, 3)
 Lvl 03 upgrades: (2, 4; 4, 4; 13, 4; 140, 4)
 Lvl 04 upgrades: (31, 4; 7, 4; 10, 4)
-Lvl 05 upgrades: (36, 4; 4, 4; 13, 4)
+Lvl 05 upgrades: (36, 4; 4, 4; 13, 4; 148, 3)
 Lvl 06 upgrades: (31, 4; 7, 4; 16, 4; 81, 4)
 Lvl 07 upgrades: (2, 4; 4, 4; 10, 4; 34, 4)
 Lvl 08 upgrades: (36, 4; 7, 4; 13, 4; 140, 4)
-Lvl 09 upgrades: (2, 4; 38, 4; 16, 4; 535, 3)
+Lvl 09 upgrades: (2, 4; 38, 4; 16, 4; 535, 4)
 Lvl 10 upgrades: (31, 4; 7, 4; 10, 4; 70, 4)
 Lvl 11 upgrades: (36, 4; 5, 4; 13, 4; 34, 4)
 Lvl 12 upgrades: (32, 4; 38, 4; 42, 4; 19, 4)
-Lvl 13 upgrades: (3, 4; 5, 4; 10, 4)
-Lvl 14 upgrades: (37, 4; 8, 4; 13, 4)
+Lvl 13 upgrades: (3, 4; 5, 4; 10, 4; 140, 4)
+Lvl 14 upgrades: (37, 4; 8, 4; 13, 4; 148, 3)
 Lvl 15 upgrades: (3, 4; 38, 4; 42, 4; 34, 4)
 Lvl 16 upgrades: (32, 4; 6, 4; 10, 4; 140, 4)
-Lvl 17 upgrades: (37, 4; 8, 4; 13, 4; 535, 3)
-Lvl 18 upgrades: (32, 4; 38, 4; 17, 4)
+Lvl 17 upgrades: (37, 4; 8, 4; 13, 4; 535, 5)
+Lvl 18 upgrades: (32, 4; 38, 4; 17, 4; 70, 4)
 Lvl 19 upgrades: (3, 4; 8, 4; 14, 4; 34,4)
 Lvl 20 upgrades: (37, 4; 6, 4; 41, 4; 140, 4)
 
@@ -12195,23 +12219,23 @@ Lvl 20 loot: (0, 0)
 /151
 Name: Болотная стрекоза;
 Level: 2
-Life: 20
+Life: 21
 Attack: 9
 CounterAttack: 6
 Defence: 1
 RangedDefence: 3
-Resist: 1
+Resist: 2
 Speed: 3
 RangedAttack: 0
 ShootingRange: 0
 Ammo: 0
-Stamina: 10
+Stamina: 11
 Morale: 10
 Exp: 30
 ExpMod: 120
-GoldPrice: 70
-GemPrice: 5
-GoldPayment: 14
+GoldPrice: 55
+GemPrice: 0
+GoldPayment: 8
 GemPayment: 1
 Subtype: (1, 19)
 Analogs: (0)
@@ -12227,26 +12251,26 @@ Resource: (0)
 
 Abilityes:
 Float: 45
-Poison: 71;
+Poison_1: 71;
 		
 Lvl 01 upgrades: (2, 4; 4, 4; 10, 4; 34, 4)
 Lvl 02 upgrades: (31, 4; 7, 4; 16, 4; 56, 4)
 Lvl 03 upgrades: (2, 4; 4, 4; 13, 4; 73, 3)
 Lvl 04 upgrades: (31, 4; 7, 4; 10, 4; 797, 3)
-Lvl 05 upgrades: (36, 4; 4, 4; 13, 4)
-Lvl 06 upgrades: (31, 4; 7, 4; 16, 4; 19, 4)
+Lvl 05 upgrades: (36, 4; 4, 4; 13, 4; 140, 4)
+Lvl 06 upgrades: (31, 4; 7, 4; 19, 4)
 Lvl 07 upgrades: (2, 4; 4, 4; 10, 4; 34, 4)
-Lvl 08 upgrades: (36, 4; 7, 4; 13, 4; 140, 4)
+Lvl 08 upgrades: (36, 4; 7, 4; 13, 4)
 Lvl 09 upgrades: (2, 4; 38, 4; 16, 4; 535, 4)
 Lvl 10 upgrades: (31, 4; 7, 4; 10, 4; 184, 5)
 Lvl 11 upgrades: (36, 4; 5, 4; 13, 4)
 Lvl 12 upgrades: (32, 4; 38, 4; 42, 4)
-Lvl 13 upgrades: (3, 4; 5, 4; 10, 4)
-Lvl 14 upgrades: (37, 4; 8, 4; 13, 4)
+Lvl 13 upgrades: (3, 4; 5, 4; 10, 4; 140, 4)
+Lvl 14 upgrades: (37, 4; 8, 4; 13, 4; 16, 4)
 Lvl 15 upgrades: (3, 4; 38, 4; 42, 4; 34, 4)
 Lvl 16 upgrades: (32, 4; 6, 4; 10, 4; 19, 3)
 Lvl 17 upgrades: (37, 4; 8, 4; 13, 4)
-Lvl 18 upgrades: (32, 4; 38, 4; 17, 4)
+Lvl 18 upgrades: (32, 4; 38, 4; 16, 4; 535, 4)
 Lvl 19 upgrades: (3, 4; 8, 4; 14, 4; 34, 4)
 Lvl 20 upgrades: (37, 4; 6, 4; 41, 4; 140, 4)
 
@@ -12288,9 +12312,9 @@ Stamina: 15
 Morale: 10
 Exp: 50
 ExpMod: 150
-GoldPrice: 120
+GoldPrice: 115
 GemPrice: 0
-GoldPayment: 24
+GoldPayment: 23
 GemPayment: 0
 Subtype: (1, 6)
 Analogs: (0)
@@ -12599,8 +12623,8 @@ Lvl 20 loot: (0, 0)
 Name: Рунный кузнец;
 Level: 2
 Life: 26
-Attack: 10
-CounterAttack: 8
+Attack: 9
+CounterAttack: 7
 Defence: 4
 RangedDefence: 4
 Resist: 4
@@ -12608,13 +12632,13 @@ Speed: 1
 RangedAttack: 0
 ShootingRange: 1
 Ammo: 3
-Stamina: 15
-Morale: 13
+Stamina: 13
+Morale: 12
 Exp: 45
 ExpMod: 100
-GoldPrice: 90
+GoldPrice: 120
 GemPrice: 10
-GoldPayment: 18
+GoldPayment: 28
 GemPayment: 2
 Subtype: (1, 8)
 Analogs: (103)
@@ -12692,10 +12716,10 @@ Stamina: 25
 Morale: 15
 Exp: 800
 ExpMod: 400
-GoldPrice: 2000
-GemPrice: 300
-GoldPayment: 400
-GemPayment: 80
+GoldPrice: 1600
+GemPrice: 100
+GoldPayment: 260
+GemPayment: 40
 Subtype: (1, 28)
 Analogs: (0)
 UnitClass: 7
@@ -12922,8 +12946,8 @@ Lvl 20 loot: (0, 0)
 /160
 Name: Ахерон;
 Level: 4
-Life: 140
-Attack: 35
+Life: 125
+Attack: 40
 CounterAttack: 30
 Defence: 8
 RangedDefence: 10
@@ -12931,15 +12955,15 @@ Resist: 10
 Speed: 2
 RangedAttack: 25
 ShootingRange: 4
-Ammo: 2
+Ammo: 3
 Stamina: 25
-Morale: 13
+Morale: 16
 Exp: 900
 ExpMod: 450
-GoldPrice: 4000
-GemPrice: 300
-GoldPayment: 200
-GemPayment: 80
+GoldPrice: 2400
+GemPrice: 200
+GoldPayment: 0
+GemPayment: 100
 Subtype: (3, 21, 24)
 Analogs: (0)
 UnitClass: 4
@@ -12949,36 +12973,37 @@ SoundHit: 146
 SoundShoot: 147
 SoundShootHit: 148
 SoundDeath: 149
-Missile: 10
+Missile: 20
 Resource: (0)
 
 Abilityes:
 Magic_shot: 58
 ArmorPierce: 69
 Fear: 113
+Fire_Immunity: 192
 Greater_Demon: 327
-Fire_Immunity: 192;
+Bloodlust_1: 652;
 		
 Lvl 01 upgrades: (3, 4; 4, 4; 13, 4; 31, 4; 416, 6)
-Lvl 02 upgrades: (31, 4; 7, 4; 10, 4; 21, 4; 27, 3)
+Lvl 02 upgrades: (31, 4; 7, 4; 10, 4; 21, 4)
 Lvl 03 upgrades: (3, 4; 4, 4; 16, 4; 570, 4)
-Lvl 04 upgrades: (31, 4; 7, 4; 10, 4; 131, 4)
-Lvl 05 upgrades: (36, 4; 4, 4; 13, 4; 131, 4; 364, 5)
-Lvl 06 upgrades: (31, 4; 7, 4; 16, 4; 27, 5)
-Lvl 07 upgrades: (3, 4; 4, 4; 10, 4; 131, 4)
-Lvl 08 upgrades: (36, 4; 7, 4; 13, 4; 21, 4; 700, 5)
-Lvl 09 upgrades: (3, 4; 38, 4; 34, 4; 16, 4; 834, 6)
-Lvl 10 upgrades: (31, 4; 7, 4; 10, 4; 21, 4; 325, 6)
-Lvl 11 upgrades: (36, 4; 5, 4; 13, 4; 131, 4)
-Lvl 12 upgrades: (32, 4; 38, 4; 17, 4; 131, 4)
-Lvl 13 upgrades: (25, 4; 5, 4; 10, 4; 27, 6; 364, 5)
-Lvl 14 upgrades: (37, 4; 8, 4; 13, 4; 21, 4; 570, 4)
+Lvl 04 upgrades: (31, 4; 7, 4; 10, 4; 602, 4)
+Lvl 05 upgrades: (36, 4; 4, 4; 13, 4; 652, 1)
+Lvl 06 upgrades: (31, 4; 7, 4; 16, 4; 28, 5; 464, 3)
+Lvl 07 upgrades: (3, 4; 4, 4; 10, 4; 700, 3)
+Lvl 08 upgrades: (36, 4; 7, 4; 13, 4; 21, 4)
+Lvl 09 upgrades: (3, 4; 38, 4; 34, 4; 16, 4)
+Lvl 10 upgrades: (31, 4; 7, 4; 10, 4; 570, 4; 323, 5)
+Lvl 11 upgrades: (36, 4; 5, 4; 13, 4; 602, 4)
+Lvl 12 upgrades: (32, 4; 38, 4; 17, 4; 325, 6)
+Lvl 13 upgrades: (25, 4; 5, 4; 10, 4; 652, 2)
+Lvl 14 upgrades: (37, 4; 8, 4; 13, 4; 21, 4)
 Lvl 15 upgrades: (25, 4; 38, 4; 34, 4; 17, 4)
-Lvl 16 upgrades: (32, 4; 6, 4; 40, 4; 131, 4)
-Lvl 17 upgrades: (37, 4; 8, 4; 14, 4; 131, 4)
-Lvl 18 upgrades: (32, 4; 38, 4; 17, 4; 27, 6)
-Lvl 19 upgrades: (25, 4; 8, 4; 14, 4; 21, 4; 460, 5)
-Lvl 20 upgrades: (37, 4; 6, 4; 11, 4; 364, 5; 570, 4)
+Lvl 16 upgrades: (32, 4; 6, 4; 40, 4; 460, 5)
+Lvl 17 upgrades: (37, 4; 8, 4; 14, 4; 602, 4; 464, 3)
+Lvl 18 upgrades: (32, 4; 38, 4; 17, 4; 28, 5)
+Lvl 19 upgrades: (25, 4; 8, 4; 14, 4; 21, 4)
+Lvl 20 upgrades: (37, 4; 6, 4; 11, 4; 570, 4)
 
 Lvl 01 loot: (133, 3; 155, 2; 215, 2)
 Lvl 02 loot: (207, 2; 336, 2)
@@ -13018,10 +13043,10 @@ Stamina: 14
 Morale: 11
 Exp: 120
 ExpMod: 300
-GoldPrice: 1000
-GemPrice: 210
-GoldPayment: 200
-GemPayment: 30
+GoldPrice: 450
+GemPrice: 90
+GoldPayment: 45
+GemPayment: 27
 Subtype: (1, 6)
 Analogs: (0)
 UnitClass: 4
@@ -13086,24 +13111,24 @@ Lvl 20 loot: (0, 0)
 /162
 Name: Волшебный дракон;
 Level: 4
-Life: 80
-Attack: 24
-CounterAttack: 17
+Life: 110
+Attack: 30
+CounterAttack: 30
 Defence: 5
-RangedDefence: 6
+RangedDefence: 8
 Resist: 20
 Speed: 4
 RangedAttack: 0
 ShootingRange: 0
 Ammo: 5
-Stamina: 20
+Stamina: 24
 Morale: 15
 Exp: 800
-ExpMod: 400
-GoldPrice: 5000
-GemPrice: 200
-GoldPayment: 500
-GemPayment: 40
+ExpMod: 350
+GoldPrice: 1600
+GemPrice: 100
+GoldPayment: 320
+GemPayment: 20
 Subtype: (22, 24, 28)
 Analogs: (60, 75)
 UnitClass: 7
@@ -13248,24 +13273,24 @@ Lvl 20 loot: (0, 0)
 /164
 Name: Псион;
 Level: 4
-Life: 26
-Attack: 10
-CounterAttack: 10
+Life: 40
+Attack: 16
+CounterAttack: 12
 Defence: 8
-RangedDefence: 15
-Resist: 12
+RangedDefence: 12
+Resist: 16
 Speed: 2
-RangedAttack: 16
-ShootingRange: 6
-Ammo: 6
-Stamina: 14
-Morale: 12
+RangedAttack: 18
+ShootingRange: 5
+Ammo: 8
+Stamina: 18
+Morale: 15
 Exp: 140
 ExpMod: 330
-GoldPrice: 750
-GemPrice: 150
-GoldPayment: 180
-GemPayment: 40
+GoldPrice: 500
+GemPrice: 100
+GoldPayment: 130
+GemPayment: 10
 Subtype: (1, 6)
 Analogs: (200)
 UnitClass: 4
@@ -13280,7 +13305,7 @@ Resource: (5, 9, 9)
 
 Abilityes:
 Magic_fight: 289
-Energy_control: 149
+Resist_Pierce: 628
 Mind_immunity: 304
 Summon_Phantom: 334
 Deadly_Horror: 336
@@ -13301,7 +13326,7 @@ Lvl 12 upgrades: (31, 4; 7, 4; 10, 4; 13, 4)
 Lvl 13 upgrades: (2, 4; 21, 4; 17, 4; 549, 4)
 Lvl 14 upgrades: (31, 4; 5, 4; 27, 4; 42, 4)
 Lvl 15 upgrades: (2, 4; 21, 4; 8, 4; 23, 4)
-Lvl 16 upgrades: (31, 4; 10, 4; 14, 4; 42, 4; 150, 4)
+Lvl 16 upgrades: (31, 4; 10, 4; 14, 4; 150, 4)
 Lvl 17 upgrades: (2, 4; 5, 4; 21, 4; 34, 4)
 Lvl 18 upgrades: (31, 4; 27, 4; 8, 4; 43, 4)
 Lvl 19 upgrades: (3, 4; 21, 4; 17, 4; 549, 5)
@@ -13345,10 +13370,10 @@ Stamina: 16
 Morale: 10
 Exp: 100
 ExpMod: 310
-GoldPrice: 500
-GemPrice: 60
-GoldPayment: 100
-GemPayment: 20
+GoldPrice: 425
+GemPrice: 75
+GoldPayment: 85
+GemPayment: 15
 Subtype: (1, 28)
 Analogs: (0)
 UnitClass: 4
@@ -13362,10 +13387,11 @@ Missile: 8
 Resource: (4, 5)
 
 Abilityes:
-Stoning_eye: 145
-Stoning_eye: 146
-Poisonous_bite: 133
-Swamp_Dweller: 488
+Magic_strike: 57
+Poisonous_bite_4: 133
+Stoning_eye_6: 145
+Stoning_eye_1: 146
+Swamp_Dweller_2: 488
 Mind_immunity: 304
 Panic: 337;
 		
@@ -13414,11 +13440,11 @@ Lvl 20 loot: (0, 0)
 /166
 Name: Птицелов;
 Level: 2
-Life: 30
+Life: 32
 Attack: 10
-CounterAttack: 8
+CounterAttack: 9
 Defence: 2
-RangedDefence: 2
+RangedDefence: 3
 Resist: 1
 Speed: 2
 RangedAttack: 0
@@ -13428,10 +13454,10 @@ Stamina: 10
 Morale: 10
 Exp: 35
 ExpMod: 100
-GoldPrice: 90
+GoldPrice: 60
 GemPrice: 0
-GoldPayment: 20
-GemPayment: 2
+GoldPayment: 12
+GemPayment: 1
 Subtype: (1, 19)
 Analogs: (167, 168)
 UnitClass: 6
@@ -13493,24 +13519,24 @@ Lvl 20 loot: (0, 0)
 /167
 Name: Потрошитель;
 Level: 2
-Life: 45
-Attack: 15
-CounterAttack: 12
+Life: 42
+Attack: 12
+CounterAttack: 10
 Defence: 3
-RangedDefence: 3
-Resist: 2
+RangedDefence: 4
+Resist: 3
 Speed: 2
 RangedAttack: 0
 ShootingRange: 0
 Ammo: 0
-Stamina: 14
-Morale: 10
+Stamina: 16
+Morale: 14
 Exp: 50
-ExpMod: 150
-GoldPrice: 300
+ExpMod: 130
+GoldPrice: 120
 GemPrice: 0
-GoldPayment: 75
-GemPayment: 5
+GoldPayment: 24
+GemPayment: 2
 Subtype: (1, 19)
 Analogs: (168)
 UnitClass: 6
@@ -13528,8 +13554,8 @@ Armor_Pierce: 69
 Forester: 62
 Corpse_Eat: 79;
 		
-Lvl 01 upgrades: (1, 4; 4, 4; 10, 4)
-Lvl 02 upgrades: (30, 4; 7, 4; 13, 4)
+Lvl 01 upgrades: (2, 4; 4, 4; 10, 4)
+Lvl 02 upgrades: (31, 4; 7, 4; 13, 4)
 Lvl 03 upgrades: (2, 4; 34, 4; 16, 4)
 Lvl 04 upgrades: (31, 4; 4, 4)
 Lvl 05 upgrades: (2, 4; 7, 4; 10, 4)
@@ -13573,24 +13599,24 @@ Lvl 20 loot: (0, 0)
 /168
 Name: Живоглот;
 Level: 2
-Life: 67
-Attack: 22
-CounterAttack: 18
+Life: 60
+Attack: 20
+CounterAttack: 14
 Defence: 5
-RangedDefence: 4
-Resist: 3
+RangedDefence: 5
+Resist: 4
 Speed: 2
 RangedAttack: 0
 ShootingRange: 0
 Ammo: 0
 Stamina: 18
-Morale: 10
+Morale: 16
 Exp: 100
-ExpMod: 225
-GoldPrice: 600
+ExpMod: 180
+GoldPrice: 240
 GemPrice: 0
-GoldPayment: 100
-GemPayment: 10
+GoldPayment: 48
+GemPayment: 4
 Subtype: (1, 19, 24)
 Analogs: (0)
 UnitClass: 6
@@ -13609,7 +13635,7 @@ Forester: 62
 Corpse_Eat: 79
 Swallow_20: 751;
 		
-Lvl 01 upgrades: (1, 4; 4, 4; 10, 4)
+Lvl 01 upgrades: (2, 4; 4, 4; 10, 4)
 Lvl 02 upgrades: (30, 4; 7, 4; 13, 4)
 Lvl 03 upgrades: (2, 4; 34, 4; 16, 4)
 Lvl 04 upgrades: (31, 4; 4, 4; 19, 4)
@@ -13618,12 +13644,12 @@ Lvl 06 upgrades: (31, 4; 13, 4; 753, 3)
 Lvl 07 upgrades: (38, 4; 4, 4; 16, 4)
 Lvl 08 upgrades: (31, 4; 7, 4; 535, 3)
 Lvl 09 upgrades: (2, 4; 34, 4; 10, 4)
-Lvl 10 upgrades: (38, 4; 4, 4; 13, 4)
-Lvl 11 upgrades: (2, 4; 7, 4; 16, 4)
+Lvl 10 upgrades: (38, 4; 5, 4; 13, 4)
+Lvl 11 upgrades: (3, 4; 8, 4; 16, 4)
 Lvl 12 upgrades: (31, 4; 486, 4; 752, 4)
-Lvl 13 upgrades: (38, 4; 4, 4; 10, 4)
-Lvl 14 upgrades: (31, 4; 7, 4; 13, 4)
-Lvl 15 upgrades: (2, 4; 34, 4; 16, 4)
+Lvl 13 upgrades: (38, 4; 5, 4; 11, 4)
+Lvl 14 upgrades: (31, 4; 8, 4; 14, 4)
+Lvl 15 upgrades: (3, 4; 34, 4; 16, 4)
 Lvl 16 upgrades: (38, 4; 5, 4; 535, 3)
 Lvl 17 upgrades: (3, 4; 38, 4; 11, 4)
 Lvl 18 upgrades: (32, 4; 35, 4; 14, 4)
@@ -13749,10 +13775,10 @@ Stamina: 10
 Morale: 10
 Exp: 30
 ExpMod: 150
-GoldPrice: 20
-GemPrice: 16
+GoldPrice: 12
+GemPrice: 10
 GoldPayment: 0
-GemPayment: 5
+GemPayment: 3
 Subtype: (2, 25)
 Analogs: (91)
 UnitClass: 1
@@ -13815,7 +13841,7 @@ Lvl 20 loot: (0, 0)
 /171
 Name: Кадавр;
 Level: 2
-Life: 38
+Life: 40
 Attack: 11
 CounterAttack: 10
 Defence: 3
@@ -13829,10 +13855,10 @@ Stamina: 10
 Morale: 10
 Exp: 60
 ExpMod: 160
-GoldPrice: 40
-GemPrice: 32
+GoldPrice: 60
+GemPrice: 16
 GoldPayment: 0
-GemPayment: 8
+GemPayment: 4
 Subtype: (2)
 Analogs: (0)
 UnitClass: 1
@@ -13897,9 +13923,9 @@ Lvl 20 loot: (0, 0)
 /172
 Name: Баньши;
 Level: 3
-Life: 23
+Life: 22
 Attack: 12
-CounterAttack: 13
+CounterAttack: 12
 Defence: 25
 RangedDefence: 50
 Resist: 5
@@ -13911,10 +13937,10 @@ Stamina: 10
 Morale: 10
 Exp: 180
 ExpMod: 280
-GoldPrice: 80
-GemPrice: 20
+GoldPrice: 300
+GemPrice: 160
 GoldPayment: 0
-GemPayment: 20
+GemPayment: 40
 Subtype: (2, 28)
 Analogs: (194)
 UnitClass: 7
@@ -13991,10 +14017,10 @@ Stamina: 10
 Morale: 10
 Exp: 100
 ExpMod: 220
-GoldPrice: 200
+GoldPrice: 450
 GemPrice: 40
-GoldPayment: 15
-GemPayment: 13
+GoldPayment: 45
+GemPayment: 10
 Subtype: (2)
 Analogs: (0)
 UnitClass: 3
@@ -14070,7 +14096,7 @@ Resist: 10
 Speed: 2
 RangedAttack: 0
 ShootingRange: 0
-Ammo: 10
+Ammo: 11
 Stamina: 10
 Morale: 10
 Exp: 220
@@ -14095,25 +14121,26 @@ Abilityes:
 Float: 45
 Undead: 61
 Death_touch: 417
+Self_check: 533
 Smite_Good: 572
 ColdTouch: 589;
 		
-Lvl 01 upgrades: (2, 4; 10, 4)
+Lvl 01 upgrades: (2, 4; 10, 4; 102, 4)
 Lvl 02 upgrades: (4, 4; 16, 4)
 Lvl 03 upgrades: (2, 4; 7, 4; 13, 4)
 Lvl 04 upgrades: (4, 4; 10, 4)
 Lvl 05 upgrades: (2, 4; 16, 4)
-Lvl 06 upgrades: (4, 4; 7, 4; 102, 4)
+Lvl 06 upgrades: (4, 4; 7, 4; 602, 4)
 Lvl 07 upgrades: (2, 4; 10, 4; 13, 4)
 Lvl 08 upgrades: (4, 4; 16, 4)
-Lvl 09 upgrades: (2, 4; 7, 4)
-Lvl 10 upgrades: (4, 4; 10, 4; 131, 4)
+Lvl 09 upgrades: (2, 4; 7, 4; 790, 4)
+Lvl 10 upgrades: (4, 4; 10, 4; 602, 4)
 Lvl 11 upgrades: (2, 4; 16, 4; 13, 4)
 Lvl 12 upgrades: (5, 4; 7, 7)
 Lvl 13 upgrades: (2, 4; 10, 4)
 Lvl 14 upgrades: (5, 4; 17, 4)
 Lvl 15 upgrades: (3, 4; 8, 4; 13, 4)
-Lvl 16 upgrades: (5, 4; 11, 4; 131, 4)
+Lvl 16 upgrades: (5, 4; 11, 4; 602, 4)
 Lvl 17 upgrades: (3, 4; 17, 4)
 Lvl 18 upgrades: (5, 4; 8, 4)
 Lvl 19 upgrades: (3, 4; 11, 4; 13, 4)
@@ -14157,9 +14184,9 @@ Stamina: 10
 Morale: 10
 Exp: 23
 ExpMod: 70
-GoldPrice: 35
+GoldPrice: 20
 GemPrice: 3
-GoldPayment: 5
+GoldPayment: 4
 GemPayment: 1
 Subtype: (1, 14)
 Analogs: (179, 180)
@@ -14224,8 +14251,8 @@ Lvl 20 loot: (0, 0)
 Name: Кровавый мотылёк;
 Level: 2
 Life: 21
-Attack: 11
-CounterAttack: 11
+Attack: 10
+CounterAttack: 10
 Defence: 2
 RangedDefence: 4
 Resist: 5
@@ -14234,13 +14261,13 @@ RangedAttack: 0
 ShootingRange: 0
 Ammo: 0
 Stamina: 14
-Morale: 10
+Morale: 12
 Exp: 35
 ExpMod: 100
 GoldPrice: 120
 GemPrice: 15
-GoldPayment: 21
-GemPayment: 4
+GoldPayment: 25
+GemPayment: 2
 Subtype: (1, 14)
 Analogs: (181)
 UnitClass: 1
@@ -14257,7 +14284,6 @@ Abilityes:
 First_Strike: 46
 Aimed_Hit1: 129
 Parry: 590
-Preparation: 658
 Strike_and_return: 274
 Round_attack: 108;
 		
@@ -14268,19 +14294,19 @@ Lvl 04 upgrades: (30, 4; 10, 3; 7, 4; 85, 4)
 Lvl 05 upgrades: (1, 4; 34, 4; 16, 4; 127, 4)
 Lvl 06 upgrades: (30, 4; 13, 3; 4, 4; 646, 4)
 Lvl 07 upgrades: (1, 4; 593, 4; 367, 7)
-Lvl 08 upgrades: (31, 4; 4, 4; 10, 3; 7, 4)
+Lvl 08 upgrades: (30, 4; 4, 4; 10, 3; 7, 4)
 Lvl 09 upgrades: (1, 4; 34, 4; 16, 4; 127, 4)
-Lvl 10 upgrades: (31, 4; 13, 3; 646, 4)
+Lvl 10 upgrades: (30, 4; 13, 3; 646, 4; 658, 6)
 Lvl 11 upgrades: (1, 4; 42, 4; 75, 3; 85, 3)
-Lvl 12 upgrades: (31, 4; 10, 3; 7, 4; 59, 4)
-Lvl 13 upgrades: (2, 4; 5, 4; 127, 4)
-Lvl 14 upgrades: (31, 4; 36, 3; 4, 4; 796, 5)
-Lvl 15 upgrades: (2, 4; 42, 4; 646, 4)
-Lvl 16 upgrades: (36, 4; 10, 3; 38, 4)
+Lvl 12 upgrades: (31, 4; 10, 3; 7, 4)
+Lvl 13 upgrades: (1, 4; 4, 4; 127, 4)
+Lvl 14 upgrades: (31, 4; 4, 4; 796, 5)
+Lvl 15 upgrades: (1, 4; 42, 4; 646, 4)
+Lvl 16 upgrades: (36, 4; 10, 3; 38, 4; 59, 4)
 Lvl 17 upgrades: (2, 4; 35, 4; 127, 4)
-Lvl 18 upgrades: (32, 4; 14, 3; 4, 4; 85, 4)
-Lvl 19 upgrades: (37, 4; 35, 4; 17, 4; 8, 4; 5, 4)
-Lvl 20 upgrades: (32, 4; 11, 3; 39, 3; 646, 4)
+Lvl 18 upgrades: (31, 4; 14, 3; 4, 4; 85, 4)
+Lvl 19 upgrades: (36, 4; 35, 4; 17, 4; 7, 4; 4, 4)
+Lvl 20 upgrades: (31, 4; 10, 3; 38, 3; 646, 4)
 
 Lvl 01 loot: (13, 6; 51, 3)
 Lvl 02 loot: (25, 4)
@@ -14400,10 +14426,10 @@ Stamina: 15
 Morale: 15
 Exp: 130
 ExpMod: 320
-GoldPrice: 450
-GemPrice: 90
-GoldPayment: 90
-GemPayment: 18
+GoldPrice: 350
+GemPrice: 95
+GoldPayment: 50
+GemPayment: 30
 Subtype: (1, 14)
 Analogs: (0)
 UnitClass: 4
@@ -14468,14 +14494,14 @@ Lvl 20 loot: (0, 0)
 /179
 Name: Погонщик;
 Level: 2
-Life: 20
+Life: 25
 Attack: 10
 CounterAttack: 7
 Defence: 3
 RangedDefence: 3
 Resist: 4
 Speed: 2
-RangedAttack: 7
+RangedAttack: 6
 ShootingRange: 4
 Ammo: 5
 Stamina: 11
@@ -14499,18 +14525,19 @@ Missile: 0
 Resource: (1, 2, 4)
 
 Abilityes:
+Piercing_shot: 47
 Cause_fear: 80
 Injure_strike: 81
-Stunning_shot: 641
+Stunning_shot_2: 642
 Cast_SummonKoboldSlave: 667;
 		
 Lvl 01 upgrades: (1, 4; 34, 4; 16, 4; 27, 4; 83, 4)
-Lvl 02 upgrades: (30, 4; 10, 4; 20, 4; 641, 4)
+Lvl 02 upgrades: (30, 4; 10, 4; 20, 4; 593, 3; 641, 2)
 Lvl 03 upgrades: (1, 4; 4, 4; 7, 4; 669, 5)
 Lvl 04 upgrades: (30, 4; 13, 3; 27, 4; 59, 4)
 Lvl 05 upgrades: (1, 4; 4, 4; 34, 4; 364, 4)
 Lvl 06 upgrades: (30, 4; 16, 4; 56, 4; 626, 8)
-Lvl 07 upgrades: (1, 4; 4, 4; 7, 4; 641, 4)
+Lvl 07 upgrades: (1, 4; 4, 4; 7, 4; 641, 3)
 Lvl 08 upgrades: (30, 4; 85, 4; 20, 4)
 Lvl 09 upgrades: (1, 4; 4, 4; 35, 4; 27, 4)
 Lvl 10 upgrades: (31, 4; 13, 3; 23, 3; 593, 4)
@@ -14519,7 +14546,7 @@ Lvl 12 upgrades: (31, 4; 16, 4; 364, 4; 641, 4)
 Lvl 13 upgrades: (2, 4; 4, 4; 28, 4)
 Lvl 14 upgrades: (31, 4; 20, 4; 85, 4; 375, 6)
 Lvl 15 upgrades: (2, 4; 5, 4; 35, 4; 7, 4)
-Lvl 16 upgrades: (31, 4; 40, 3; 38, 3; 641, 4)
+Lvl 16 upgrades: (31, 4; 40, 3; 38, 3; 641, 5)
 Lvl 17 upgrades: (2, 4; 5, 4; 42, 4; 21, 4)
 Lvl 18 upgrades: (36, 4; 16, 4; 28, 4; 593, 4)
 Lvl 19 upgrades: (2, 4; 5, 4; 10, 4; 42, 4; 627, 6)
@@ -14550,23 +14577,23 @@ Lvl 20 loot: (0, 0)
 Name: Ночной охотник;
 Level: 2
 Life: 18
-Attack: 7
-CounterAttack: 7
+Attack: 6
+CounterAttack: 5
 Defence: 2
 RangedDefence: 5
-Resist: 6
+Resist: 5
 Speed: 2
 RangedAttack: 8
 ShootingRange: 6
 Ammo: 6
-Stamina: 12
-Morale: 14
+Stamina: 11
+Morale: 12
 Exp: 35
 ExpMod: 130
-GoldPrice: 70
-GemPrice: 5
-GoldPayment: 17
-GemPayment: 0
+GoldPrice: 190
+GemPrice: 10
+GoldPayment: 38
+GemPayment: 1
 Subtype: (1, 14)
 Analogs: (179)
 UnitClass: 2
@@ -14587,17 +14614,17 @@ InjureShot: 626;
 		
 Lvl 01 upgrades: (30, 4; 293, 4; 84, 1)
 Lvl 02 upgrades: (1, 4; 10, 4; 27, 4)
-Lvl 03 upgrades: (30, 4; 13, 4; 670, 5)
+Lvl 03 upgrades: (30, 4; 13, 4; 670, 8)
 Lvl 04 upgrades: (1, 4; 4, 4; 16, 4; 84, 4)
 Lvl 05 upgrades: (31, 4; 293, 4; 34, 4; 7, 4)
 Lvl 06 upgrades: (1, 4; 10, 4; 27, 4; 671, 4)
 Lvl 07 upgrades: (36, 4; 13, 4; 128, 4)
-Lvl 08 upgrades: (1, 4; 16, 4; 257, 4; 796, 5)
+Lvl 08 upgrades: (1, 4; 16, 4; 257, 4)
 Lvl 09 upgrades: (31, 4; 293, 4)
 Lvl 10 upgrades: (1, 4; 4, 4; 27, 4)
 Lvl 11 upgrades: (36, 4; 34, 4; 16, 4)
 Lvl 12 upgrades: (7, 4; 14, 4; 23, 4)
-Lvl 13 upgrades: (31, 4; 293, 4; 10, 4)
+Lvl 13 upgrades: (31, 4; 796, 5; 10, 4)
 Lvl 14 upgrades: (84, 4; 672, 4; 257, 4)
 Lvl 15 upgrades: (36, 4; 42, 4; 14, 4)
 Lvl 16 upgrades: (4, 4; 10, 4; 627, 8)
@@ -14644,9 +14671,9 @@ Stamina: 18
 Morale: 15
 Exp: 70
 ExpMod: 200
-GoldPrice: 330
-GemPrice: 20
-GoldPayment: 60
+GoldPrice: 450
+GemPrice: 25
+GoldPayment: 90
 GemPayment: 5
 Subtype: (1, 14)
 Analogs: (0)
@@ -14728,9 +14755,9 @@ Stamina: 18
 Morale: 12
 Exp: 100
 ExpMod: 180
-GoldPrice: 200
-GemPrice: 70
-GoldPayment: 0
+GoldPrice: 420
+GemPrice: 30
+GoldPayment: 21
 GemPayment: 22
 Subtype: (1, 28)
 Analogs: (0)
@@ -14800,8 +14827,8 @@ Life: 15
 Attack: 5
 CounterAttack: 6
 Defence: 1
-RangedDefence: 1
-Resist: 5
+RangedDefence: 2
+Resist: 6
 Speed: 2
 RangedAttack: 5
 ShootingRange: 4
@@ -14810,10 +14837,10 @@ Stamina: 10
 Morale: 12
 Exp: 35
 ExpMod: 160
-GoldPrice: 280
-GemPrice: 20
-GoldPayment: 28
-GemPayment: 14
+GoldPrice: 220
+GemPrice: 14
+GoldPayment: 14
+GemPayment: 15
 Subtype: (1, 14)
 Analogs: (177, 178)
 UnitClass: 4
@@ -14890,10 +14917,10 @@ Stamina: 10
 Morale: 10
 Exp: 100
 ExpMod: 240
-GoldPrice: 500
+GoldPrice: 505
 GemPrice: 10
-GoldPayment: 85
-GemPayment: 5
+GoldPayment: 99
+GemPayment: 3
 Subtype: (4, 27)
 Analogs: (0)
 UnitClass: 2
@@ -14971,10 +14998,10 @@ Stamina: 10
 Morale: 12
 Exp: 140
 ExpMod: 320
-GoldPrice: 750
-GemPrice: 150
-GoldPayment: 150
-GemPayment: 30
+GoldPrice: 300
+GemPrice: 80
+GoldPayment: 60
+GemPayment: 33
 Subtype: (1)
 Analogs: (0)
 UnitClass: 4
@@ -15364,23 +15391,23 @@ Lvl 20 loot: (0, 0)
 /190
 Name: Демонолог;
 Level: 2
-Life: 15
-Attack: 5
+Life: 17
+Attack: 7
 CounterAttack: 6
-Defence: 0
+Defence: 1
 RangedDefence: 2
-Resist: 5
+Resist: 6
 Speed: 2
-RangedAttack: 6
+RangedAttack: 7
 ShootingRange: 4
-Ammo: 6
-Stamina: 10
+Ammo: 7
+Stamina: 11
 Morale: 10
 Exp: 33
 ExpMod: 120
-GoldPrice: 180
-GemPrice: 30
-GoldPayment: 30
+GoldPrice: 110
+GemPrice: 20
+GoldPayment: 16
 GemPayment: 6
 Subtype: (1, 6, 26)
 Analogs: (0)
@@ -15410,12 +15437,12 @@ Lvl 05 upgrades: (1, 4; 16, 4; 7, 3; 638, 5)
 Lvl 06 upgrades: (30, 4; 27, 4; 10, 3; 57, 4)
 Lvl 07 upgrades: (1, 4; 20, 4; 4, 3; 624, 3)
 Lvl 08 upgrades: (30, 4; 16, 4; 13, 3; 23, 4)
-Lvl 09 upgrades: (1, 4; 27, 4; 7, 3; 402, 7)
+Lvl 09 upgrades: (1, 4; 27, 4; 7, 3; 402, 9)
 Lvl 10 upgrades: (30, 4; 20, 4; 10, 3; 34, 4)
 Lvl 11 upgrades: (1, 4; 16, 4; 4, 3; 150, 3)
-Lvl 12 upgrades: (30, 4; 27, 4; 13, 3; 409, 7)
+Lvl 12 upgrades: (30, 4; 27, 4; 13, 3; 409, 8)
 Lvl 13 upgrades: (1, 4; 20, 4; 7, 3; 624, 4)
-Lvl 14 upgrades: (31, 4; 16, 4; 10, 3; 405, 6)
+Lvl 14 upgrades: (31, 4; 16, 4; 10, 3; 405, 7)
 Lvl 15 upgrades: (2, 4; 27, 4; 4, 3; 638, 6)
 Lvl 16 upgrades: (31, 4; 21, 4; 13, 3; 526, 5)
 Lvl 17 upgrades: (2, 4; 17, 4; 7, 3; 34, 4)
@@ -15461,10 +15488,10 @@ Stamina: 16
 Morale: 12
 Exp: 45
 ExpMod: 175
-GoldPrice: 500
-GemPrice: 10
+GoldPrice: 345
+GemPrice: 28
 GoldPayment: 0
-GemPayment: 8
+GemPayment: 5
 Subtype: (3)
 Analogs: (0)
 UnitClass: 1
@@ -15527,7 +15554,7 @@ Lvl 20 loot: (0, 0)
 /192
 Name: Проповедник;
 Level: 2
-Life: 20
+Life: 18
 Attack: 6
 CounterAttack: 7
 Defence: 2
@@ -15537,8 +15564,8 @@ Speed: 2
 RangedAttack: 7
 ShootingRange: 4
 Ammo: 5
-Stamina: 15
-Morale: 13
+Stamina: 12
+Morale: 11
 Exp: 45
 ExpMod: 150
 GoldPrice: 150
@@ -15624,10 +15651,10 @@ Stamina: 10
 Morale: 10
 Exp: 35
 ExpMod: 110
-GoldPrice: 30
-GemPrice: 20
+GoldPrice: 40
+GemPrice: 15
 GoldPayment: 0
-GemPayment: 6
+GemPayment: 4
 Subtype: (2, 25)
 Analogs: (207)
 UnitClass: 1
@@ -15693,10 +15720,10 @@ Lvl 20 loot: (0, 0)
 Name: Спектр;
 Level: 3
 Life: 24
-Attack: 10
+Attack: 12
 CounterAttack: 10
-Defence: 7
-RangedDefence: 14
+Defence: 9
+RangedDefence: 18
 Resist: 3
 Speed: 3
 RangedAttack: 12
@@ -15706,10 +15733,10 @@ Stamina: 10
 Morale: 10
 Exp: 100
 ExpMod: 240
-GoldPrice: 40
-GemPrice: 10
+GoldPrice: 300
+GemPrice: 120
 GoldPayment: 0
-GemPayment: 14
+GemPayment: 30
 Subtype: (2, 18)
 Analogs: (172)
 UnitClass: 7
@@ -15731,18 +15758,18 @@ Bodyless: 552;
 		
 Lvl 01 upgrades: (1, 4; 20, 4; 98, 4)
 Lvl 02 upgrades: (4, 4; 16, 4; 570, 6)
-Lvl 03 upgrades: (1, 4; 7, 4; 27, 3)
+Lvl 03 upgrades: (1, 4; 7, 4; 14, 4; 27, 3)
 Lvl 04 upgrades: (4, 4; 11, 4; 150, 3)
-Lvl 05 upgrades: (1, 4; 20, 4)
+Lvl 05 upgrades: (1, 4; 20, 4; 98, 4)
 Lvl 06 upgrades: (4, 4; 7, 4)
-Lvl 07 upgrades: (2, 4; 16, 4; 98, 4)
+Lvl 07 upgrades: (2, 4; 14, 4; 16, 4)
 Lvl 08 upgrades: (4, 4; 570, 4)
 Lvl 09 upgrades: (2, 4; 7, 4; 20, 4)
-Lvl 10 upgrades: (4, 4; 15, 4; 150, 3)
+Lvl 10 upgrades: (4, 4; 15, 4; 98, 4)
 Lvl 11 upgrades: (2, 4; 27, 4)
 Lvl 12 upgrades: (5, 4; 16, 4; 7, 7)
-Lvl 13 upgrades: (2, 4; 20, 4; 98, 4)
-Lvl 14 upgrades: (5, 4; 570, 4)
+Lvl 13 upgrades: (2, 4; 20, 4; 15, 3)
+Lvl 14 upgrades: (5, 4; 570, 4; 98, 4)
 Lvl 15 upgrades: (2, 4; 8, 4; 150, 3)
 Lvl 16 upgrades: (5, 4; 11, 4; 15, 4)
 Lvl 17 upgrades: (3, 4; 16, 4; 20, 4)
@@ -15778,13 +15805,13 @@ Life: 55
 Attack: 16
 CounterAttack: 18
 Defence: 4
-RangedDefence: 7
+RangedDefence: 8
 Resist: 1
 Speed: 1
 RangedAttack: 0
 ShootingRange: 0
 Ammo: 0
-Stamina: 18
+Stamina: 22
 Morale: 11
 Exp: 90
 ExpMod: 150
@@ -15954,10 +15981,10 @@ Stamina: 10
 Morale: 10
 Exp: 25
 ExpMod: 110
-GoldPrice: 60
-GemPrice: 12
-GoldPayment: 12
-GemPayment: 3
+GoldPrice: 45
+GemPrice: 8
+GoldPayment: 9
+GemPayment: 2
 Subtype: (1, 6)
 Analogs: (198, 199, 200)
 UnitClass: 4
@@ -16034,10 +16061,10 @@ Stamina: 12
 Morale: 10
 Exp: 50
 ExpMod: 160
-GoldPrice: 200
-GemPrice: 45
-GoldPayment: 30
-GemPayment: 11
+GoldPrice: 100
+GemPrice: 25
+GoldPayment: 20
+GemPayment: 5
 Subtype: (1, 6)
 Analogs: (199, 200)
 UnitClass: 4
@@ -16114,10 +16141,10 @@ Stamina: 13
 Morale: 10
 Exp: 100
 ExpMod: 250
-GoldPrice: 375
-GemPrice: 85
-GoldPayment: 70
-GemPayment: 18
+GoldPrice: 370
+GemPrice: 75
+GoldPayment: 55
+GemPayment: 20
 Subtype: (1, 6)
 Analogs: (200)
 UnitClass: 4
@@ -16195,10 +16222,10 @@ Stamina: 14
 Morale: 12
 Exp: 160
 ExpMod: 350
-GoldPrice: 650
-GemPrice: 150
-GoldPayment: 100
-GemPayment: 35
+GoldPrice: 440
+GemPrice: 100
+GoldPayment: 70
+GemPayment: 26
 Subtype: (1, 6)
 Analogs: (0)
 UnitClass: 4
@@ -16345,11 +16372,11 @@ Lvl 20 loot: (0, 0)
 /202
 Name: Воин Стаи;
 Level: 1
-Life: 24
-Attack: 8
-CounterAttack: 5
+Life: 28
+Attack: 9
+CounterAttack: 6
 Defence: 0
-RangedDefence: 0
+RangedDefence: 1
 Resist: 0
 Speed: 2
 RangedAttack: 0
@@ -16428,7 +16455,7 @@ Lvl 20 loot: (0, 0)
 /203
 Name: Мучитель;
 Level: 2
-Life: 35
+Life: 36
 Attack: 12
 CounterAttack: 8
 Defence: 1
@@ -16512,8 +16539,8 @@ Lvl 20 loot: (0, 0)
 /204
 Name: Тиран;
 Level: 3
-Life: 40
-Attack: 17
+Life: 48
+Attack: 18
 CounterAttack: 10
 Defence: 3
 RangedDefence: 4
@@ -16522,8 +16549,8 @@ Speed: 2
 RangedAttack: 0
 ShootingRange: 0
 Ammo: 0
-Stamina: 18
-Morale: 14
+Stamina: 19
+Morale: 12
 Exp: 50
 ExpMod: 150
 GoldPrice: 200
@@ -16601,19 +16628,19 @@ Level: 1
 Life: 15
 Attack: 8
 CounterAttack: 4
-Defence: 4
-RangedDefence: 5
-Resist: 3
+Defence: 5
+RangedDefence: 6
+Resist: 4
 Speed: 3
 RangedAttack: 0
 ShootingRange: 0
 Ammo: 4
-Stamina: 10
-Morale: 10
+Stamina: 11
+Morale: 11
 Exp: 24
 ExpMod: 160
-GoldPrice: 50
-GemPrice: 10
+GoldPrice: 30
+GemPrice: 6
 GoldPayment: 0
 GemPayment: 3
 Subtype: (3, 28)
@@ -16680,9 +16707,9 @@ Lvl 20 loot: (0, 0)
 /206
 Name: Пожиратель;
 Level: 4
-Life: 70
-Attack: 31
-CounterAttack: 14
+Life: 85
+Attack: 30
+CounterAttack: 22
 Defence: 2
 RangedDefence: 2
 Resist: 2
@@ -16694,11 +16721,11 @@ Stamina: 20
 Morale: 14
 Exp: 220
 ExpMod: 280
-GoldPrice: 500
+GoldPrice: 550
 GemPrice: 0
-GoldPayment: 100
-GemPayment: 0
-Subtype: (1, 15)
+GoldPayment: 110
+GemPayment: 5
+Subtype: (1, 15, 24)
 Analogs: (0)
 UnitClass: 1
 Upgraded: (0, 0)
@@ -16781,10 +16808,10 @@ Stamina: 10
 Morale: 10
 Exp: 80
 ExpMod: 200
-GoldPrice: 50
-GemPrice: 60
-GoldPayment: 10
-GemPayment: 12
+GoldPrice: 140
+GemPrice: 80
+GoldPayment: 0
+GemPayment: 20
 Subtype: (2, 25, 28)
 Analogs: (0)
 UnitClass: 1
@@ -16941,12 +16968,12 @@ RangedAttack: 0
 ShootingRange: 1
 Ammo: 3
 Stamina: 12
-Morale: 10
+Morale: 11
 Exp: 12
 ExpMod: 70
-GoldPrice: 25
+GoldPrice: 30
 GemPrice: 0
-GoldPayment: 5
+GoldPayment: 6
 GemPayment: 0
 Subtype: (1, 6)
 Analogs: (1)
@@ -17009,10 +17036,10 @@ Lvl 20 loot: (0, 0)
 /210
 Name: Ужасный медведь;
 Level: 2
-Life: 43
+Life: 46
 Attack: 17
 CounterAttack: 11
-Defence: 2
+Defence: 3
 RangedDefence: 2
 Resist: 1
 Speed: 2
@@ -17023,10 +17050,10 @@ Stamina: 18
 Morale: 10
 Exp: 60
 ExpMod: 150
-GoldPrice: 250
+GoldPrice: 130
 GemPrice: 0
-GoldPayment: 50
-GemPayment: 0
+GoldPayment: 23
+GemPayment: 1
 Subtype: (1, 19)
 Analogs: (0)
 UnitClass: 1
@@ -17042,7 +17069,7 @@ Resource: (0)
 Abilityes:
 Stun: 70
 Forester: 486
-Cannibalise: 79;
+Eat_Corpse_10: 79;
 		
 Lvl 01 upgrades: (2, 4; 4, 4; 32, 4)
 Lvl 02 upgrades: (7, 4; 13, 4)
@@ -17250,7 +17277,7 @@ Level: 2
 Life: 18
 Attack: 12
 CounterAttack: 8
-Defence: 2
+Defence: 3
 RangedDefence: 5
 Resist: 4
 Speed: 3
@@ -17337,14 +17364,14 @@ Speed: 3
 RangedAttack: 5
 ShootingRange: 3
 Ammo: 2
-Stamina: 10
+Stamina: 11
 Morale: 15
 Exp: 35
 ExpMod: 90
-GoldPrice: 75
+GoldPrice: 85
 GemPrice: 10
-GoldPayment: 19
-GemPayment: 3
+GoldPayment: 16
+GemPayment: 2
 Subtype: (1, 16)
 Analogs: (213)
 UnitClass: 2
@@ -17421,10 +17448,10 @@ Stamina: 10
 Morale: 15
 Exp: 35
 ExpMod: 100
-GoldPrice: 45
-GemPrice: 12
+GoldPrice: 50
+GemPrice: 10
 GoldPayment: 10
-GemPayment: 5
+GemPayment: 4
 Subtype: (1, 16)
 Analogs: (280, 281)
 UnitClass: 4
@@ -17580,14 +17607,14 @@ Speed: 2
 RangedAttack: 0
 ShootingRange: 0
 Ammo: 0
-Stamina: 16
-Morale: 14
+Stamina: 15
+Morale: 12
 Exp: 120
 ExpMod: 200
-GoldPrice: 150
-GemPrice: 75
-GoldPayment: 30
-GemPayment: 15
+GoldPrice: 300
+GemPrice: 50
+GoldPayment: 60
+GemPayment: 11
 Subtype: (1)
 Analogs: (0)
 UnitClass: 1
@@ -17665,7 +17692,7 @@ Stamina: 10
 Morale: 10
 Exp: 10
 ExpMod: 100
-GoldPrice: 30
+GoldPrice: 20
 GemPrice: 2
 GoldPayment: 0
 GemPayment: 2
@@ -17688,26 +17715,26 @@ Steal_Ammo: 74
 Wind_Immunity: 300
 Bodyless: 552;
 
-Lvl 01 upgrades: (1, 4; 4, 4; 7, 3)
+Lvl 01 upgrades: (1, 4; 4, 4; 7, 3; 19, 3)
 Lvl 02 upgrades: (30, 4; 16, 4; 720, 5)
 Lvl 03 upgrades: (1, 4; 4, 3; 10, 3)
-Lvl 04 upgrades: (30, 4; 4, 4; 13, 3)
+Lvl 04 upgrades: (30, 4; 4, 4; 13, 5)
 Lvl 05 upgrades: (1, 4; 16, 4; 7, 3)
 Lvl 06 upgrades: (30, 4; 10, 3; 720, 5)
 Lvl 07 upgrades: (1, 4; 4, 4; 4, 3)
-Lvl 08 upgrades: (30, 4; 16, 4; 13, 3)
-Lvl 09 upgrades: (1, 4; 7, 3; 19, 4)
+Lvl 08 upgrades: (30, 4; 16, 4; 13, 5)
+Lvl 09 upgrades: (1, 4; 7, 3; 19, 6)
 Lvl 10 upgrades: (30, 4; 4, 4; 10, 3; 274, 5)
 Lvl 11 upgrades: (1, 4; 16, 4; 4, 3)
-Lvl 12 upgrades: (30, 4; 13, 3; 720, 5)
+Lvl 12 upgrades: (30, 4; 13, 5; 720, 5)
 Lvl 13 upgrades: (1, 4; 4, 4; 7, 3)
 Lvl 14 upgrades: (31, 4; 16, 4; 10, 3)
-Lvl 15 upgrades: (2, 4; 4, 3; 19, 4)
-Lvl 16 upgrades: (31, 4; 5, 4; 13, 3)
-Lvl 17 upgrades: (2, 4; 17, 4; 7, 3; 720, 5)
+Lvl 15 upgrades: (1, 4; 4, 3; 19, 10)
+Lvl 16 upgrades: (31, 4; 5, 4; 13, 5)
+Lvl 17 upgrades: (1, 4; 17, 4; 7, 3; 720, 5)
 Lvl 18 upgrades: (31, 4; 10, 3; 823, 7)
-Lvl 19 upgrades: (2, 4; 5, 4; 4, 3)
-Lvl 20 upgrades: (31, 4; 17, 4; 13, 3)
+Lvl 19 upgrades: (1, 4; 5, 4; 4, 3)
+Lvl 20 upgrades: (31, 4; 17, 4; 13, 5)
 
 Lvl 01 loot: (0, 0)
 Lvl 02 loot: (0, 0)
@@ -17826,10 +17853,10 @@ Stamina: 19
 Morale: 14
 Exp: 95
 ExpMod: 260
-GoldPrice: 300
-GemPrice: 40
-GoldPayment: 60
-GemPayment: 8
+GoldPrice: 555
+GemPrice: 55
+GoldPayment: 111
+GemPayment: 11
 Subtype: (1, 19)
 Analogs: (0)
 UnitClass: 3
@@ -17907,7 +17934,7 @@ Morale: 6
 Exp: 20
 ExpMod: 70
 GoldPrice: 10
-GemPrice: 0
+GemPrice: 4
 GoldPayment: 2
 GemPayment: 0
 Subtype: (1, 17)
@@ -18061,13 +18088,13 @@ Speed: 2
 RangedAttack: 0
 ShootingRange: 0
 Ammo: 5
-Stamina: 10
-Morale: 8
+Stamina: 9
+Morale: 11
 Exp: 23
 ExpMod: 100
-GoldPrice: 80
+GoldPrice: 70
 GemPrice: 10
-GoldPayment: 16
+GoldPayment: 15
 GemPayment: 2
 Subtype: (1, 17)
 Analogs: (225, 232, 233)
@@ -18079,7 +18106,7 @@ SoundShoot: 0
 SoundShootHit: 5
 SoundDeath: 307
 Missile: 0
-Resource: (4)
+Resource: (4, 4)
 
 Abilityes:
 Rat_man: 489
@@ -18091,7 +18118,7 @@ Lvl 01 upgrades: (1, 4; 4, 4; 34, 3)
 Lvl 02 upgrades: (7, 4; 30, 4; 140, 4)
 Lvl 03 upgrades: (1, 4; 13, 3; 27, 4)
 Lvl 04 upgrades: (4, 4; 16, 4; 501, 5)
-Lvl 05 upgrades: (1, 4; 7, 4) 
+Lvl 05 upgrades: (1, 4; 7, 4; 548, 5) 
 Lvl 06 upgrades: (4, 4; 10, 3; 72, 5)
 Lvl 07 upgrades: (1, 4; 30, 4; 495, 6)
 Lvl 08 upgrades: (7, 4; 27, 4; 176, 4)
@@ -18100,7 +18127,7 @@ Lvl 10 upgrades: (16, 4; 34, 3)
 Lvl 11 upgrades: (1, 4; 4, 4; 19, 3)
 Lvl 12 upgrades: (7, 4; 30, 4; 501, 5)
 Lvl 13 upgrades: (1, 4; 4, 4; 27, 4)
-Lvl 14 upgrades: (13, 3; 16, 4; 548, 5)
+Lvl 14 upgrades: (13, 3; 16, 4; 548, 6)
 Lvl 15 upgrades: (1, 4; 7, 4; 176, 4)
 Lvl 16 upgrades: (5, 4; 10, 3; 30, 4)
 Lvl 17 upgrades: (2, 4; 34, 3; 140, 4)
@@ -18228,9 +18255,9 @@ Morale: 8
 Exp: 35
 ExpMod: 100
 GoldPrice: 70
-GemPrice: 15
+GemPrice: 10
 GoldPayment: 14
-GemPayment: 3
+GemPayment: 1
 Subtype: (1, 17)
 Analogs: (223, 232, 233)
 UnitClass: 1
@@ -18241,7 +18268,7 @@ SoundShoot: 313
 SoundShootHit: 314
 SoundDeath: 315
 Missile: 19
-Resource: (1, 5)
+Resource: (1, 4)
 
 Abilityes:
 Rat_man: 489
@@ -18311,10 +18338,10 @@ Stamina: 9
 Morale: 7
 Exp: 38
 ExpMod: 100
-GoldPrice: 40
-GemPrice: 5
-GoldPayment: 8
-GemPayment: 1
+GoldPrice: 15
+GemPrice: 4
+GoldPayment: 3
+GemPayment: 0
 Subtype: (1, 17)
 Analogs: (221, 223, 225, 232, 233)
 UnitClass: 2
@@ -18804,9 +18831,9 @@ Stamina: 10
 Morale: 14
 Exp: 70
 ExpMod: 180
-GoldPrice: 320
-GemPrice: 70
-GoldPayment: 60
+GoldPrice: 270
+GemPrice: 65
+GoldPayment: 54
 GemPayment: 11
 Subtype: (1, 17)
 Analogs: (233)
@@ -18818,7 +18845,7 @@ SoundShoot: 335
 SoundShootHit: 336
 SoundDeath: 337
 Missile: 11
-Resource: (4, 5, 5)
+Resource: (4, 4, 5)
 
 Abilityes:
 Magic_Hit: 57
@@ -18888,10 +18915,10 @@ Stamina: 12
 Morale: 14
 Exp: 120
 ExpMod: 300
-GoldPrice: 500
-GemPrice: 50
-GoldPayment: 125
-GemPayment: 5
+GoldPrice: 300
+GemPrice: 40
+GoldPayment: 72
+GemPayment: 4
 Subtype: (1, 17)
 Analogs: (0)
 UnitClass: 4
@@ -18902,7 +18929,7 @@ SoundShoot: 0
 SoundShootHit: 5
 SoundDeath: 339
 Missile: 0
-Resource: (5, 9, 9)
+Resource: (5, 5, 9)
 
 Abilityes:
 Poison_4: 133
@@ -19039,23 +19066,23 @@ Lvl 20 loot: (0, 0)
 /235
 Name: Страж Даокона;
 Level: 4
-Life: 130
-Attack: 37
-CounterAttack: 25
-Defence: 5
+Life: 142
+Attack: 40
+CounterAttack: 26
+Defence: 4
 RangedDefence: 6
-Resist: 6
+Resist: 4
 Speed: 2
 RangedAttack: 0
 ShootingRange: 0
 Ammo: 0
-Stamina: 21
-Morale: 12
+Stamina: 27
+Morale: 13
 Exp: 220
 ExpMod: 385
-GoldPrice: 1400
+GoldPrice: 900
 GemPrice: 0
-GoldPayment: 280
+GoldPayment: 180
 GemPayment: 0
 Subtype: (1, 19, 24)
 Analogs: (0)
@@ -19078,25 +19105,25 @@ Trample_20: 528
 Web_Immunity: 544;
 		
 Lvl 01 upgrades: (4, 4; 13, 4; 31, 4; 104, 4)
-Lvl 02 upgrades: (31, 4; 7, 4; 10, 4)
+Lvl 02 upgrades: (31, 4; 7, 4; 10, 4; 16, 4)
 Lvl 03 upgrades: (3, 4; 4, 4; 34, 4; 461, 4)
 Lvl 04 upgrades: (31, 4; 7, 4; 10, 4)
-Lvl 05 upgrades: (36, 4; 4, 4; 13, 4; 104, 4)
-Lvl 06 upgrades: (31, 4; 7, 4; 16, 4)
+Lvl 05 upgrades: (36, 4; 4, 4; 13, 4)
+Lvl 06 upgrades: (31, 4; 7, 4; 104, 4)
 Lvl 07 upgrades: (3, 4; 4, 4; 10, 4; 461, 4)
-Lvl 08 upgrades: (36, 4; 7, 4; 13, 4)
-Lvl 09 upgrades: (3, 4; 38, 4; 104, 4)
-Lvl 10 upgrades: (31, 4; 7, 4; 10, 4; 59, 3)
+Lvl 08 upgrades: (36, 4; 7, 4; 13, 4; 16, 4)
+Lvl 09 upgrades: (3, 4; 38, 4; 59, 2)
+Lvl 10 upgrades: (31, 4; 7, 4; 10, 4)
 Lvl 11 upgrades: (36, 4; 5, 4; 13, 4; 461, 4)
-Lvl 12 upgrades: (32, 4; 38, 4; 16, 4)
-Lvl 13 upgrades: (25, 4; 5, 4; 10, 4; 104, 4)
+Lvl 12 upgrades: (32, 4; 38, 4; 16, 4; 104, 4)
+Lvl 13 upgrades: (25, 4; 5, 4; 10, 4)
 Lvl 14 upgrades: (37, 4; 8, 4; 13, 4; 461, 4)
 Lvl 15 upgrades: (25, 4; 38, 4; 34, 4)
-Lvl 16 upgrades: (32, 4; 6, 4; 40, 4)
+Lvl 16 upgrades: (32, 4; 6, 4; 40, 4; 16, 4)
 Lvl 17 upgrades: (37, 4; 8, 4; 14, 4; 104, 4)
-Lvl 18 upgrades: (32, 4; 38, 4; 16, 4; 461, 4)
+Lvl 18 upgrades: (32, 4; 38, 4; 461, 4)
 Lvl 19 upgrades: (25, 4; 8, 4; 14, 4)
-Lvl 20 upgrades: (37, 4; 6, 4; 11, 4)
+Lvl 20 upgrades: (37, 4; 6, 4; 11, 4; 16, 4)
 
 Lvl 01 loot: (0, 0)
 Lvl 02 loot: (0, 0)
@@ -19122,24 +19149,24 @@ Lvl 20 loot: (0, 0)
 /236
 Name: Святой воитель;
 Level: 4
-Life: 63
-Attack: 27
+Life: 62
+Attack: 26
 CounterAttack: 26
-Defence: 9
+Defence: 10
 RangedDefence: 14
 Resist: 14
 Speed: 3
 RangedAttack: 0
 ShootingRange: 1
-Ammo: 1
+Ammo: 2
 Stamina: 23
 Morale: 21
 Exp: 220
 ExpMod: 360
-GoldPrice: 1200
-GemPrice: 60
-GoldPayment: 240
-GemPayment: 12
+GoldPrice: 1000
+GemPrice: 55
+GoldPayment: 200
+GemPayment: 10
 Subtype: (1, 6, 28)
 Analogs: (0)
 UnitClass: 3
@@ -19156,28 +19183,31 @@ Abilityes:
 Holy_warrior: 531
 Smite_evil: 279
 Heal: 529
-Absolute_Charge: 797;
+Preparation: 658
+Absolute_Charge: 797
+Heavenly_Armor: 800
+Unfeared: 835;
 		
-Lvl 01 upgrades: (2, 4; 4, 4; 10, 4; 34, 4)
-Lvl 02 upgrades: (31, 4; 7, 4; 13, 4; 661, 4)
-Lvl 03 upgrades: (2, 4; 4, 4; 16, 4; 34, 4)
-Lvl 04 upgrades: (31, 4; 7, 4; 10, 4; 661, 4)
-Lvl 05 upgrades: (36, 4; 4, 4; 40, 4; 34, 4)
-Lvl 06 upgrades: (31, 4; 7, 4; 16, 4; 19, 2)
-Lvl 07 upgrades: (2, 4; 5, 4; 10, 4; 34, 4)
-Lvl 08 upgrades: (36, 4; 8, 4; 13, 4; 661, 4)
-Lvl 09 upgrades: (2, 4; 38, 4; 17, 4; 34, 4)
-Lvl 10 upgrades: (31, 4; 8, 4; 40, 4; 661, 4)
+Lvl 01 upgrades: (2, 4; 4, 4; 10, 4; 35, 4)
+Lvl 02 upgrades: (31, 4; 7, 4; 13, 4)
+Lvl 03 upgrades: (2, 4; 4, 4; 16, 4; 278, 3)
+Lvl 04 upgrades: (31, 4; 7, 4; 10, 4; 54, 4)
+Lvl 05 upgrades: (36, 4; 4, 4; 40, 4; 35, 4)
+Lvl 06 upgrades: (31, 4; 7, 4; 16, 4)
+Lvl 07 upgrades: (2, 4; 5, 4; 10, 4)
+Lvl 08 upgrades: (36, 4; 8, 4; 13, 4; 19, 3)
+Lvl 09 upgrades: (2, 4; 38, 4; 17, 4; 35, 4)
+Lvl 10 upgrades: (31, 4; 8, 4; 40, 4)
 Lvl 11 upgrades: (36, 4; 5, 4; 14, 4; 35, 4)
-Lvl 12 upgrades: (32, 4; 38, 4; 42, 4; 661, 4)
+Lvl 12 upgrades: (32, 4; 38, 4; 42, 4; 54, 4)
 Lvl 13 upgrades: (3, 4; 5, 4; 11, 4; 35, 4)
-Lvl 14 upgrades: (37, 4; 8, 4; 40, 4; 661, 4)
-Lvl 15 upgrades: (3, 4; 38, 4; 43, 4; 35, 4)
+Lvl 14 upgrades: (37, 4; 8, 4; 40, 4; 27, 1)
+Lvl 15 upgrades: (3, 4; 38, 4; 42, 4; 35, 4)
 Lvl 16 upgrades: (32, 4; 6, 4; 41, 3; 54, 4)
 Lvl 17 upgrades: (37, 4; 8, 4; 42, 4; 35, 4)
-Lvl 18 upgrades: (32, 4; 38, 4; 11, 4; 54, 4)
+Lvl 18 upgrades: (32, 4; 38, 4; 11, 4; 279, 4)
 Lvl 19 upgrades: (3, 4; 8, 4; 14, 4; 35, 4)
-Lvl 20 upgrades: (37, 4; 6, 4; 41, 4; 54, 4)
+Lvl 20 upgrades: (37, 4; 6, 4; 41, 4)
 
 Lvl 01 loot: (24, 9; 45, 8; 91, 4; 259, 6)
 Lvl 02 loot: (62, 6; 79, 5; 92, 5; 280, 6)
@@ -19203,24 +19233,24 @@ Lvl 20 loot: (0, 0)
 /237
 Name: Малефикар;
 Level: 4
-Life: 25
+Life: 23
 Attack: 9
 CounterAttack: 9
 Defence: 4
 RangedDefence: 8
-Resist: 16
+Resist: 15
 Speed: 2
-RangedAttack: 22
+RangedAttack: 21
 ShootingRange: 8
-Ammo: 9
+Ammo: 10
 Stamina: 15
 Morale: 12
 Exp: 220
 ExpMod: 410
-GoldPrice: 900
-GemPrice: 200
-GoldPayment: 180
-GemPayment: 30
+GoldPrice: 500
+GemPrice: 100
+GoldPayment: 100
+GemPayment: 20
 Subtype: (1, 6)
 Analogs: (0)
 UnitClass: 4
@@ -19241,18 +19271,19 @@ SpellPower: 547
 Spell_Duration: 548
 Maleficarus_Spellbook: 635
 Vampiric_Shot: 637
-Bleeding_immunity: 685;
+Bleeding_immunity: 685
+Undead_Lord: 833;
 		
-Lvl 01 upgrades: (1, 4; 573, 4; 150, 4)
+Lvl 01 upgrades: (2, 4; 573, 4; 150, 4)
 Lvl 02 upgrades: (27, 4; 16, 4; 384, 10)
-Lvl 03 upgrades: (7, 4; 13, 3; 20, 4)
+Lvl 03 upgrades: (7, 4; 13, 3; 21, 4)
 Lvl 04 upgrades: (2, 2; 4, 4; 573, 4; 639, 4)
-Lvl 05 upgrades: (20, 4; 150, 4; 547, 6)
+Lvl 05 upgrades: (21, 4; 150, 4; 547, 6)
 Lvl 06 upgrades: (16, 4; 154, 8; 548, 6)
-Lvl 07 upgrades: (2, 4; 4, 4; 20, 4; 27, 4)
+Lvl 07 upgrades: (2, 4; 4, 4; 21, 4; 27, 4)
 Lvl 08 upgrades: (7, 4; 10, 4; 150, 4; 574, 4)
 Lvl 09 upgrades: (2, 4; 21, 4; 13, 4; 549, 2)
-Lvl 10 upgrades: (28, 4; 16, 4; 437, 8; 632, 10)
+Lvl 10 upgrades: (28, 4; 16, 4; 437, 8)
 Lvl 11 upgrades: (2, 4; 21, 4; 150, 4; 126, 5)
 Lvl 12 upgrades: (13, 4; 4, 4; 7, 4; 574, 4)
 Lvl 13 upgrades: (2, 4; 21, 4; 17, 4)
@@ -19262,7 +19293,7 @@ Lvl 16 upgrades: (10, 4; 17, 4; 23, 4; 574, 4)
 Lvl 17 upgrades: (2, 4; 21, 4; 150, 4)
 Lvl 18 upgrades: (28, 4; 4, 4; 549, 4)
 Lvl 19 upgrades: (2, 4; 22, 4; 17, 4)
-Lvl 20 upgrades: (13, 4; 150, 4; 575, 4)
+Lvl 20 upgrades: (13, 4; 150, 4; 575, 4; 396, 3)
 
 Lvl 01 loot: (8, 3; 40, 3; 66, 6)
 Lvl 02 loot: (70, 5; 83, 5; 95, 5; 112, 4)
@@ -20717,9 +20748,9 @@ Stamina: 15
 Morale: 12
 Exp: 40
 ExpMod: 130
-GoldPrice: 130
+GoldPrice: 135
 GemPrice: 0
-GoldPayment: 26
+GoldPayment: 27
 GemPayment: 0
 Subtype: (1, 8)
 Analogs: (0)
@@ -20797,10 +20828,10 @@ Stamina: 17
 Morale: 11
 Exp: 120
 ExpMod: 235
-GoldPrice: 1000
-GemPrice: 20
+GoldPrice: 650
+GemPrice: 31
 GoldPayment: 0
-GemPayment: 16
+GemPayment: 12
 Subtype: (3)
 Analogs: (0)
 UnitClass: 7
@@ -20884,9 +20915,9 @@ Stamina: 10
 Morale: 10
 Exp: 200
 ExpMod: 280
-GoldPrice: 300
+GoldPrice: 330
 GemPrice: 100
-GoldPayment: 60
+GoldPayment: 66
 GemPayment: 20
 Subtype: (4, 24)
 Analogs: (0)
@@ -20964,9 +20995,9 @@ Stamina: 10
 Morale: 11
 Exp: 20
 ExpMod: 80
-GoldPrice: 25
+GoldPrice: 35
 GemPrice: 5
-GoldPayment: 5
+GoldPayment: 7
 GemPayment: 1
 Subtype: (1, 11)
 Analogs: (18, 132, 261, 262)
@@ -21112,7 +21143,7 @@ Lvl 20 loot: (0, 0)
 Name: Пограничник;
 Level: 2
 Life: 25
-Attack: 9
+Attack: 8
 CounterAttack: 6
 Defence: 2
 RangedDefence: 2
@@ -21120,14 +21151,14 @@ Resist: 3
 Speed: 2
 RangedAttack: 4
 ShootingRange: 4
-Ammo: 8
+Ammo: 6
 Stamina: 12
 Morale: 10
 Exp: 30
 ExpMod: 100
-GoldPrice: 50
+GoldPrice: 85
 GemPrice: 0
-GoldPayment: 10
+GoldPayment: 17
 GemPayment: 0
 Subtype: (1, 11)
 Analogs: (132)
@@ -21195,22 +21226,22 @@ Lvl 20 loot: (0, 0)
 Name: Бард;
 Level: 1
 Life: 9
-Attack: 3
-CounterAttack: 3
-Defence: 1
+Attack: 4
+CounterAttack: 5
+Defence: 4
 RangedDefence: 3
-Resist: 3
+Resist: 4
 Speed: 2
 RangedAttack: 0
 ShootingRange: 0
 Ammo: 4
-Stamina: 10
+Stamina: 11
 Morale: 10
 Exp: 20
 ExpMod: 80
-GoldPrice: 35
+GoldPrice: 30
 GemPrice: 0
-GoldPayment: 7
+GoldPayment: 6
 GemPayment: 0
 Subtype: (1, 11, 28)
 Analogs: (18, 132, 259, 261)
@@ -22544,10 +22575,10 @@ Stamina: 18
 Morale: 18
 Exp: 70
 ExpMod: 130
-GoldPrice: 240
-GemPrice: 25
-GoldPayment: 75
-GemPayment: 10
+GoldPrice: 280
+GemPrice: 40
+GoldPayment: 70
+GemPayment: 4
 Subtype: (1, 16)
 Analogs: (280, 281)
 UnitClass: 7
@@ -22624,10 +22655,10 @@ Stamina: 12
 Morale: 15
 Exp: 80
 ExpMod: 150
-GoldPrice: 180
+GoldPrice: 230
 GemPrice: 45
-GoldPayment: 50
-GemPayment: 17
+GoldPayment: 45
+GemPayment: 9
 Subtype: (1, 16)
 Analogs: (281)
 UnitClass: 4
@@ -22707,9 +22738,9 @@ Stamina: 15
 Morale: 18
 Exp: 140
 ExpMod: 190
-GoldPrice: 300
+GoldPrice: 400
 GemPrice: 75
-GoldPayment: 85
+GoldPayment: 80
 GemPayment: 28
 Subtype: (1, 16)
 Analogs: (0)
@@ -23018,10 +23049,10 @@ Lvl 20 loot: (0, 0)
 /285
 Name: На'аг;
 Level: 3
-Life: 40
-Attack: 13
-CounterAttack: 12
-Defence: 4
+Life: 42
+Attack: 15
+CounterAttack: 13
+Defence: 5
 RangedDefence: 5
 Resist: 6
 Speed: 2
@@ -23029,13 +23060,13 @@ RangedAttack: 0
 ShootingRange: 0
 Ammo: 1
 Stamina: 14
-Morale: 12
+Morale: 13
 Exp: 140
 ExpMod: 200
-GoldPrice: 500
-GemPrice: 30
+GoldPrice: 400
+GemPrice: 35
 GoldPayment: 0
-GemPayment: 46
+GemPayment: 34
 Subtype: (3, 24)
 Analogs: (0)
 UnitClass: 4
@@ -23101,9 +23132,9 @@ Lvl 20 loot: (0, 0)
 /286
 Name: Сквайр;
 Level: 2
-Life: 28
+Life: 30
 Attack: 9
-CounterAttack: 11
+CounterAttack: 12
 Defence: 8
 RangedDefence: 12
 Resist: 3
@@ -23111,13 +23142,13 @@ Speed: 1
 RangedAttack: 0
 ShootingRange: 0
 Ammo: 0
-Stamina: 13
-Morale: 15
+Stamina: 16
+Morale: 14
 Exp: 50
 ExpMod: 180
-GoldPrice: 180
+GoldPrice: 125
 GemPrice: 0
-GoldPayment: 36
+GoldPayment: 25
 GemPayment: 0
 Subtype: (1, 6)
 Analogs: (146)
@@ -23185,12 +23216,12 @@ Lvl 20 loot: (0, 0)
 /287
 Name: Квазит;
 Level: 5
-Life: 20
+Life: 19
 Attack: 4
 CounterAttack: 7
-Defence: 5
-RangedDefence: 8
-Resist: 4
+Defence: 4
+RangedDefence: 7
+Resist: 3
 Speed: 1
 RangedAttack: 0
 ShootingRange: 0
@@ -23234,11 +23265,11 @@ Lvl 10 upgrades: (4, 4; 10, 3; 98, 4)
 Lvl 11 upgrades: (2, 4; 16, 4; 4, 3)
 Lvl 12 upgrades: (13, 3; 544, 7)
 Lvl 13 upgrades: (2, 4; 5, 4; 8, 3)
-Lvl 14 upgrades: (16, 4; 10, 3; 70, 3)
+Lvl 14 upgrades: (16, 4; 10, 3; 662, 3)
 Lvl 15 upgrades: (3, 4; 4, 3; 31, 4)
 Lvl 16 upgrades: (5, 4; 13, 3; 98, 5)
 Lvl 17 upgrades: (3, 4; 17, 4; 9, 3)
-Lvl 18 upgrades: (10, 3; 89, 4)
+Lvl 18 upgrades: (10, 3; 89, 4; 70, 3)
 Lvl 19 upgrades: (3, 4; 6, 4; 4, 3)
 Lvl 20 upgrades: (17, 4; 13, 3; 9, 3)
 
@@ -23266,7 +23297,7 @@ Lvl 20 loot: (0, 0)
 /288
 Name: Ифрит;
 Level: 5
-Life: 14
+Life: 15
 Attack: 9
 CounterAttack: 4
 Defence: 3
@@ -23318,7 +23349,7 @@ Lvl 12 upgrades: (30, 4; 13, 3; 549, 3)
 Lvl 13 upgrades: (1, 4; 4, 4; 7, 3; 696, 4)
 Lvl 14 upgrades: (31, 4; 16, 4; 10, 3)
 Lvl 15 upgrades: (2, 4; 4, 3; 820, 4)
-Lvl 16 upgrades: (31, 4; 5, 4; 13, 3)
+Lvl 16 upgrades: (31, 4; 5, 4; 13, 3; 152, 3)
 Lvl 17 upgrades: (2, 4; 17, 4; 7, 3)
 Lvl 18 upgrades: (31, 4; 10, 3; 549, 3)
 Lvl 19 upgrades: (2, 4; 5, 4; 4, 3; 696, 4)
@@ -23352,7 +23383,7 @@ Life: 11
 Attack: 4
 CounterAttack: 4
 Defence: 4
-RangedDefence: 5
+RangedDefence: 6
 Resist: 3
 Speed: 2
 RangedAttack: 0
@@ -23362,7 +23393,7 @@ Stamina: 10
 Morale: 10
 Exp: 17
 ExpMod: 100
-GoldPrice: 35
+GoldPrice: 30
 GemPrice: 5
 GoldPayment: 0
 GemPayment: 3
@@ -23387,22 +23418,22 @@ Swamp_dweller: 595;
 
 Lvl 01 upgrades: (1, 4; 7, 3; 26, 2)
 Lvl 02 upgrades: (30, 4; 16, 4; 10, 3)
-Lvl 03 upgrades: (1, 4; 27, 4; 4, 3)
+Lvl 03 upgrades: (1, 4; 27, 6; 4, 3)
 Lvl 04 upgrades: (30, 4; 13, 3; 26, 4)
 Lvl 05 upgrades: (1, 4; 16, 4; 7, 3)
-Lvl 06 upgrades: (30, 4; 27, 4; 10, 3)
+Lvl 06 upgrades: (30, 4; 27, 7; 10, 3)
 Lvl 07 upgrades: (1, 4; 4, 3; 26, 4)
 Lvl 08 upgrades: (30, 4; 16, 4; 13, 3)
-Lvl 09 upgrades: (1, 4; 27, 4; 7, 3)
+Lvl 09 upgrades: (1, 4; 27, 8; 7, 3)
 Lvl 10 upgrades: (30, 4; 10, 3; 824, 10)
 Lvl 11 upgrades: (1, 4; 16, 4; 4, 3)
-Lvl 12 upgrades: (30, 4; 27, 4; 13, 3)
+Lvl 12 upgrades: (30, 4; 27, 9; 13, 3)
 Lvl 13 upgrades: (1, 4; 7, 3; 26, 4)
 Lvl 14 upgrades: (31, 4; 16, 4; 10, 3)
-Lvl 15 upgrades: (2, 4; 27, 4; 4, 3)
+Lvl 15 upgrades: (2, 4; 27, 10; 4, 3)
 Lvl 16 upgrades: (31, 4; 13, 3; 26, 4)
 Lvl 17 upgrades: (2, 4; 17, 4; 7, 3)
-Lvl 18 upgrades: (31, 4; 27, 4; 10, 3)
+Lvl 18 upgrades: (31, 4; 27, 11; 10, 3)
 Lvl 19 upgrades: (2, 4; 4, 3; 26, 4)
 Lvl 20 upgrades: (31, 4; 17, 4; 13, 3)
 

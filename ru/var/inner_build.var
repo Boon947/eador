@@ -1152,7 +1152,15 @@ Param2: 0
 
 Ability: 15
 Param1: 65
-Param2: 0;
+Param2: 0
+
+Ability: 31
+Param1: 409
+Param2: 1
+
+Ability: 48
+Param1: 2147
+Param2: 13;
 
 /49
 Name: Лекарня;
@@ -3407,7 +3415,15 @@ Param2: 0
 
 Ability: 31
 Param1: 407
-Param2: 1;
+Param2: 1
+
+Ability: 31
+Param1: 613
+Param2: 1
+
+Ability: 48
+Param1: 2141
+Param2: 10;
 
 /138
 Name: Умелец ювелир;
@@ -5732,7 +5748,15 @@ Param2: 0
 
 Ability: 27
 Param1: 37
-Param2: 0;
+Param2: 0
+
+Ability: 1
+Param1: 1
+Param2: 1
+
+Ability: 31
+Param1: 432
+Param2: 1;
 
 /227
 Name: Великая Кузня;

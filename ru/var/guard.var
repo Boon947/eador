@@ -1,4 +1,4 @@
-Quantity: 495
+Quantity: 497
 
 /0 Пусто
 Quantity: 5/1
@@ -974,9 +974,9 @@ Item3: 63, 1;
 /65 Кентавры 0
 Quantity: 4/1
 Initiative: 2/2
-Unit1: 122, 6, 1, 3
-Unit2: 34, 3, 2, 2
-Unit3: 123, 4, 1, 1;
+Unit1: 122, 3, 1, 3
+Unit2: 34, 1, 2, 2
+Unit3: 123, 2, 1, 1;
 LootPoss: 7
 MaxLoot: 1
 Power: 4
@@ -987,9 +987,9 @@ Item3: 63, 1;
 /66 Кентавры 1
 Quantity: 6/3
 Initiative: 2/3
-Unit1: 122, 10, 2, 3
-Unit2: 34, 6, 3, 2
-Unit3: 123, 7, 1, 2;
+Unit1: 122, 7, 2, 3
+Unit2: 34, 4, 3, 2
+Unit3: 123, 5, 1, 2;
 LootPoss: 8
 MaxLoot: 1
 Power: 6
@@ -1000,10 +1000,10 @@ Item3: 63, 1;
 /67 Кентавры 2
 Quantity: 7/4
 Initiative: 2/2
-Unit1: 122, 12, 2, 4
-Unit2: 34, 9, 3, 3
-Unit3: 123, 10, 1, 3
-Unit4: 124, 8, 1, 2;
+Unit1: 122, 9, 2, 4
+Unit2: 34, 7, 3, 3
+Unit3: 123, 8, 1, 3
+Unit4: 124, 6, 1, 2;
 LootPoss: 9
 MaxLoot: 1
 Power: 7
@@ -1014,11 +1014,11 @@ Item3: 63, 1;
 /68 Кентавры 3
 Quantity: 8/5
 Initiative: 2/2
-Unit1: 122, 19, 2, 3
-Unit2: 34, 15, 3, 2
-Unit3: 123, 16, 1, 2
-Unit4: 124, 14, 1, 1
-Unit5: 125, 14, 1, 0;
+Unit1: 122, 16, 2, 3
+Unit2: 34, 13, 3, 2
+Unit3: 123, 14, 1, 2
+Unit4: 124, 12, 1, 1
+Unit5: 125, 13, 1, 0;
 LootPoss: 10
 MaxLoot: 1
 Power: 8
@@ -2723,7 +2723,7 @@ Unit3: 91, 20, 2, 4
 Unit4: 193, 5, 1, 1;
 LootPoss: 12
 MaxLoot: 2
-Power: 8
+Power: 9
 Item1: 4, 2
 Item2: 130, 1
 Item3: 73, 1;
@@ -2738,7 +2738,7 @@ Unit4: 193, 10, 1, 3
 Unit5: 194, 6, 0, 2;
 LootPoss: 14
 MaxLoot: 2
-Power: 10
+Power: 14
 Item1: 4, 2
 Item2: 130, 1
 Item3: 73, 1;
@@ -4871,9 +4871,9 @@ Item3: 63, 1;
 /340 Кентавры 0
 Quantity: 4/2
 Initiative: 2/3
-Unit1: 122, 10, 1, 3
-Unit2: 34, 6, 2, 2
-Unit3: 123, 7, 1, 1;
+Unit1: 122, 6, 1, 3
+Unit2: 34, 3, 2, 2
+Unit3: 123, 4, 1, 1;
 LootPoss: 8
 MaxLoot: 1
 Power: 3
@@ -4884,9 +4884,9 @@ Item3: 63, 1;
 /341 Кентавры 1
 Quantity: 6/4
 Initiative: 2/2
-Unit1: 122, 12, 2, 4
-Unit2: 34, 9, 2, 3
-Unit3: 123, 10, 2, 1;
+Unit1: 122, 8, 2, 4
+Unit2: 34, 6, 2, 3
+Unit3: 123, 7, 2, 1;
 LootPoss: 9
 MaxLoot: 1
 Power: 5
@@ -4897,10 +4897,10 @@ Item3: 63, 1;
 /342 Кентавры 2
 Quantity: 9/4
 Initiative: 2/2
-Unit1: 122, 19, 3, 3
-Unit2: 34, 15, 3, 2
-Unit3: 123, 16, 2, 2
-Unit4: 124, 14, 1, 1;
+Unit1: 122, 15, 3, 3
+Unit2: 34, 12, 3, 2
+Unit3: 123, 14, 2, 2
+Unit4: 124, 11, 1, 1;
 LootPoss: 11
 MaxLoot: 1
 Power: 8
@@ -4911,11 +4911,11 @@ Item3: 63, 1;
 /343 Кентавры 3
 Quantity: 12/4
 Initiative: 3/2
-Unit1: 122, 25, 3, 3
-Unit2: 34, 21, 3, 2
-Unit3: 123, 20, 3, 2
-Unit4: 124, 19, 2, 1
-Unit5: 125, 18, 1, 0;
+Unit1: 122, 21, 3, 3
+Unit2: 34, 18, 3, 2
+Unit3: 123, 17, 3, 2
+Unit4: 124, 16, 2, 1
+Unit5: 125, 16, 1, 0;
 LootPoss: 13
 MaxLoot: 1
 Power: 11
@@ -7094,6 +7094,29 @@ Unit1: 218, 18, 2, 3
 Unit2: 287, 11, 3, 2
 Unit3: 288, 15, 3, 1
 Unit4: 289, 16, 2, 3;
+LootPoss: 5
+MaxLoot: 1
+Power: 8
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/496 Убийцы кентавров
+Quantity: 2/0
+Initiative: 0/0
+Unit1: 50, 3, 2, 0;
+LootPoss: 5
+MaxLoot: 1
+Power: 8
+Item1: 1, 1
+Item2: 17, 1
+Item3: 63, 1;
+
+/497 Убийцы кентавров
+Quantity: 4/0
+Initiative: 0/0
+Unit1: 50, 2, 3, 0
+Unit2: 63, 0, 1, 0;
 LootPoss: 5
 MaxLoot: 1
 Power: 8

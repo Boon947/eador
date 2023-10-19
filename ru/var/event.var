@@ -1,4 +1,4 @@
-Quantity: 2140
+Quantity: 2161
 
 /0
 Type: 0
@@ -53667,8 +53667,8 @@ Answer1: 0;
 *Effects*:
 Index: 17
 Power: 1910
-Param1: 20
-Param2: 35
+Param1: 12
+Param2: 18
 
 Index: 18
 Power: 1910
@@ -53696,12 +53696,12 @@ Answer2: 1909;
 Index: 4
 Power: 1
 Param1: 1
-Param2: 1635
+Param2: 850
 
 Index: 4
 Power: 1
 Param1: 2
-Param2: 285;
+Param2: 150;
 
 /1911 Изготовление Сотрясателя Тверди, покупка
 Type: 0
@@ -53721,12 +53721,12 @@ Answer1: 0;
 
 *Effects*:
 Index: 1
-Power: -1635
+Power: -850
 Param1: 0
 Param2: 0
 
 Index: 6
-Power: -285
+Power: -150
 Param1: 0
 Param2: 0
 
@@ -53839,8 +53839,9 @@ Karma: 0
 
 *Answers*:
 Answer1: 1916
-Answer1: 1928
-Answer1: 1940;
+Answer2: 1928
+Answer3: 1940
+Answer4: 2146;
 
 *Effects*:
 Index: 1
@@ -59263,4 +59264,575 @@ Answer2: 1912;
 Index: 1
 Power: 1800
 Param1: 100
+Param2: 0;
+
+/2141 Некромант пришёл
+Type: 1
+Possibility: 0
+Dialog: 2437
+DlgParam1: 1
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 2145
+Answer2: 2142;
+
+*Effects*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/2142 Некромант пришёл, принимаем
+Type: 0
+Possibility: 0
+Dialog: 2438
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+ProvType: 0
+Karma: -1
+
+*Answers*:
+Answer1: 2143
+Answer2: 2144
+Answer3: 2145;
+
+*Effects*:
+Index: 4
+Power: 1
+Param1: 1
+Param2: 350
+
+Index: 4
+Power: 1
+Param1: 2
+Param2: 180;
+
+/2143 Некромант пришёл, нанимаем
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+ProvType: 0
+Karma: -2
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 1
+Power: -350
+Param1: 0
+Param2: 0
+
+Index: 6
+Power: -180
+Param1: 0
+Param2: 0
+
+Index: 16
+Power: 613
+Param1: 1
+Param2: 100
+
+Index: 17
+Power: 2143
+Param1: 0
+Param2: 0;
+
+/2144 Некромант пришёл, наймём позже
+Type: 0
+Possibility: 0
+Dialog: 2439
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer2: 0;
+
+*Effects*:
+Index: 17
+Power: 2141
+Param1: 10
+Param2: 0
+
+Index: 18
+Power: 2141
+Param1: 2
+Param2: 0;
+
+/2145 Некромант пришёл, не принимаем
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+ProvType: 0
+Karma: 2
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2141
+Param1: 0
+Param2: 0;
+
+/2146 Запуск торгового каравана, отмена
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 1912
+Param1: 0
+Param2: 0;
+
+/2147 Сквайр пришёл
+Type: 1
+Possibility: 0
+Dialog: 2440
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 2148
+Answer2: 2150
+Answer3: 2152;
+
+*Effects*:
+Index: 4
+Power: 1
+Param1: 1
+Param2: 250
+
+Index: 4
+Power: 1
+Param1: 2
+Param2: 10;
+
+/2148 Сквайр пришёл, турнир
+Type: 0
+Possibility: 0
+Dialog: 2442
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 2149
+Answer2: 2149;
+
+*Effects*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/2149 Сквайр пришёл, нанимаем
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 1
+Power: -250
+Param1: 0
+Param2: 0
+
+Index: 6
+Power: -10
+Param1: 0
+Param2: 0
+
+Index: 16
+Power: 409
+Param1: 1
+Param2: 100
+
+Index: 17
+Power: 2147
+Param1: 0
+Param2: 0
+
+Index: 17
+Power: 2151
+Param1: 0
+Param2: 0;
+
+/2150 Сквайр пришёл, ожидание
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2151
+Param1: 5
+Param2: 5
+
+Index: 18
+Power: 2151
+Param1: 2
+Param2: 0;
+
+/2151 Сквайр пришёл, напоминание
+Type: 0
+Possibility: 0
+Dialog: 2441
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 2148
+Answer2: 2150
+Answer3: 2152;
+
+*Effects*:
+Index: 4
+Power: 1
+Param1: 1
+Param2: 250
+
+Index: 4
+Power: 1
+Param1: 2
+Param2: 10;
+
+/2152 Сквайр пришёл, отказ
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EncWin: 0
+EncLose: 0
+EncDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2147
+Param1: 0
+Param2: 0
+
+Index: 17
+Power: 2151
+Param1: 0
+Param2: 0;
+
+/2153 Нападение великанов по квесту кентавров 1
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2154
+Param1: 8
+Param2: 4
+
+Index: 18
+Power: 2154
+Param1: 0
+Param2: 0;
+
+/2154 Нападение великанов по квесту кентавров 2
+Type: 0
+Possibility: 0
+Dialog: 2443
+DlgParam1: 1
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer2: 0;
+
+*Effects*:
+Index: 17
+Power: 2155
+Param1: 2
+Param2: 0
+
+Index: 18
+Power: 2155
+Param1: 1
+Param2: 0;
+
+/2155 Нападение великанов по квесту кентавров 3
+Type: 0
+Possibility: 0
+Dialog: 2445
+DlgParam1: 1
+DlgParam2: 0
+Attacker: 166
+EventWin: 2158
+EventLose: 2157
+EventDraw: 2158
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer2: 0;
+
+*Effects*:
+Index: 0
+Power: 0
+Param1: 0
+Param2: 0;
+
+/2156 Нападение великанов закончено
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2153
+Param1: 0
+Param2: 0;
+
+/2157 Нападение великанов, разорение
+Type: 0
+Possibility: 0
+Dialog: 2444
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer2: 0;
+
+*Effects*:
+Index: 3
+Power: -60
+Param1: 20
+Param2: 0
+
+Index: 2
+Power: -2
+Param1: 0
+Param2: 0
+
+Index: 17
+Power: 2153
+Param1: 5
+Param2: 10;
+
+/2158 Нападение великанов, вилка
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 2153
+Param1: 2159
+Param2: 98;
+
+/2159 Нападение великанов по квесту кентавров, сильные 1
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2160
+Param1: 10
+Param2: 5
+
+Index: 18
+Power: 2160
+Param1: 0
+Param2: 0;
+
+/2160 Нападение великанов по квесту кентавров, сильные 2
+Type: 0
+Possibility: 0
+Dialog: 2443
+DlgParam1: 1
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer2: 0;
+
+*Effects*:
+Index: 17
+Power: 2161
+Param1: 2
+Param2: 0
+
+Index: 18
+Power: 2161
+Param1: 1
+Param2: 0;
+
+/2161 Нападение великанов по квесту кентавров, сильные 3
+Type: 0
+Possibility: 0
+Dialog: 2445
+DlgParam1: 1
+DlgParam2: 0
+Attacker: 166
+EventWin: 2156
+EventLose: 2157
+EventDraw: 2153
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer2: 0;
+
+*Effects*:
+Index: 15
+Power: 2
+Param1: 0
 Param2: 0;
