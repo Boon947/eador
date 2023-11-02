@@ -3894,3 +3894,8 @@ Mеню (Esc)	Menu (Esc)
 квазит	Quasit
 Наяда	Naiad
 направляемых караванов	trade caravans
+ветра	Wind
+Обгоняющий	Eclipser
+Рокот	Roar
+восстановит	recover
+племя	Tribe
