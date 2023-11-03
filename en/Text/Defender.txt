@@ -100,7 +100,7 @@ Population mood -1.#
 #A swift cavalry squadron can repel a rather strong enemy army.#
 
 23. Overseers
-#The overseers are good at both preventing and suppressing uprisings. Accustomed to inflicting public reprisals upon the disobedient, overseers invoke fear not only in rebels within but amongst enemies without as well.
+#The overseers are good at both preventing and suppressing uprisings. Accustomed to inflicting public reprisals upon the disobedient, Overseers inspire fear not only to outside enemies but also to local rebels.
 Unrest growth rate reduced by 4.#
 
 24. Siege Engineers
@@ -190,7 +190,8 @@ Does not lower the mood in Orc provinces.#
 #The centaurs are loyal and courageous warriors. They don't use money, so their only maintenance expense is paying for provisions.
 Incorruptible.
 Can only be placed on plains or in forests.
-Improves population mood in the Centaur province by 1.#
+Reduces corruption in this province by 25~.
+Increases Mood in Centaur provinces by 1.#
 
 42. Orcish Patrol
 #A patrol of orcs protects these lands.#
@@ -428,6 +429,7 @@ Improves population mood in the Halfling province by 1.#
 #With a large tribe of centaurs security is very, very high. Few are able to overcome such a strong army. Centaurs are honest and proud beings and will only accept provisions as payment. So you don't need to worry that the enemy will be able to bribe them to his side. That alone is worth such protection. Centaurs can live only in the woods and on the plains.
 Incorruptible.
 Can only be placed on plains or in forests.
+Reduces corruption in this province by 50~.
 Improves population mood in the Centaur province by 1.#
 
 88. Lizardmen army

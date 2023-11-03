@@ -84,25 +84,26 @@ Area: 0;
 Name: Vestment of Illusion;
 ItemsNum: 5
 Items: 238, 265, 285, 305, 355
-Bonus: 3
+Bonus: 4
 
 Items: 2
 RangedDefence: 5
 Power: 2
 Area: 0;
 
-Items: 4
+Items: 3
 SpellDuration: 906
 Power: 1
 Area: 0;
 
-Items: 5
+Items: 4
 RangedDefence: 5
 Power: 2
-Area: 0
+Area: 0;
 
+Items: 5
 SpellDuration: 906
-Power: 1
+Power: 2
 Area: 0;
 
 
@@ -110,18 +111,19 @@ Area: 0;
 Name: Cloth of Incarnation;
 ItemsNum: 5
 Items: 240, 266, 286, 306, 347
-Bonus: 3
+Bonus: 4
 
 Items: 2
 Summon: 907
 Power: 1
 Area: 0;
 
-Items: 4
+Items: 3
 Life: 1
 Power: 8
-Area: 0
+Area: 0;
 
+Items: 4
 Summon: 907
 Power: 1
 Area: 0;
@@ -140,13 +142,14 @@ Area: 0;
 Name: Wraps of Mystery;
 ItemsNum: 5
 Items: 242, 268, 288, 308, 374
-Bonus: 3
+Bonus: 4
 
 Items: 2
 SpellPower: 905
 Power: 1
-Area: 0
+Area: 0;
 
+Items: 3
 Resist: 6
 Power: 1
 Area: 0;
@@ -166,22 +169,28 @@ Area: 0;
 Name: Basilisk Armor;
 ItemsNum: 5
 Items: 247, 271, 291, 311, 369
-Bonus: 2
+Bonus: 4
 
-Items: 3
+Items: 2
 Regeneration: 48
-Power: 2
+Power: 1
 Area: 0;
 
-Items: 5
+Items: 3
 Defence: 4
 Power: 2
 Area: 0
 
 RangedDefence: 5
 Power: 2
-Area: 0
+Area: 0;
 
+Items: 4
+Regeneration: 48
+Power: 1
+Area: 0;
+
+Items: 5
 PoisonImmunity: 108
 Power: 1
 Area: 0;
@@ -191,20 +200,34 @@ Area: 0;
 Name: Manticore Armor;
 ItemsNum: 5
 Items: 248, 272, 292, 312, 350
-Bonus: 2
+Bonus: 4
 
-Items: 3
+Items: 2
 PoisonAttack: 41
-Power: 3
+Power: 1
 Area: 0
 
 PoisonShot: 42
-Power: 3
+Power: 1
+Area: 0;
+
+Items: 3
+PoisonAttack: 41
+Power: 2
+Area: 0
+
+PoisonShot: 42
+Power: 2
+Area: 0;
+
+Items: 4
+Speed: 7
+Power: 1
 Area: 0;
 
 Items: 5
 Speed: 7
-Power: 2
+Power: 1
 Area: 0;
 
 
@@ -212,15 +235,25 @@ Area: 0;
 Name: Unicorn Armor;
 ItemsNum: 5
 Items: 249, 273, 293, 313, 363
-Bonus: 2
+Bonus: 4
+
+Items: 2
+Resist: 6
+Power: 2
+Area: 0;
 
 Items: 3
 Resist: 6
-Power: 3
+Power: 1
 Area: 0
 
 Speed: 7
 Power: 1
+Area: 0;
+
+Items: 4
+RangedAttack: 8
+Power: 2
 Area: 0;
 
 Items: 5
@@ -233,7 +266,7 @@ Power: 4
 Area: 0
 
 RangedAttack: 8
-Power: 4
+Power: 3
 Area: 0;
 
 
@@ -241,11 +274,21 @@ Area: 0;
 Name: Veteran's Armor;
 ItemsNum: 5
 Items: 252, 275, 295, 316, 356
-Bonus: 2
+Bonus: 4
+
+Items: 2
+ExpGain: 991
+Power: 10
+Area: 0;
 
 Items: 3
 ExpGain: 991
-Power: 25
+Power: 15
+Area: 0;
+
+Items: 4
+ExpGain: 991
+Power: 20
 Area: 0;
 
 Items: 5
@@ -318,18 +361,23 @@ Area: 0;
 Name: Paladin's Armor;
 ItemsNum: 5
 Items: 259, 280, 300, 321, 357
-Bonus: 2
+Bonus: 4
+
+Items: 2
+SmiteEvil: 120
+Power: 1
+Area: 0;
 
 Items: 3
 Resist: 6
-Power: 3
-Area: 0
-
-SmiteEvil: 120
 Power: 2
 Area: 0;
 
-Items: 5
+Items: 4
+SmiteEvil: 120
+Power: 2
+Area: 0
+
 Defence: 4
 Power: 2
 Area: 0
@@ -338,21 +386,40 @@ RangedDefence: 5
 Power: 2
 Area: 0;
 
+Items: 5
+HeavenlyArmor: 282
+Power: 1
+Area: 0;
+
 
 /15
 Name: Armor of Valor;
 ItemsNum: 5
 Items: 261, 281, 301, 322, 348
-Bonus: 2
+Bonus: 4
 
-Items: 3
+Items: 2
 Life: 1
-Power: 10
+Power: 5
 Area: 0
 
 Morale: 12
-Power: 3
+Power: 1
 Area: 1;
+
+Items: 3
+Life: 1
+Power: 5
+Area: 0
+
+Morale: 12
+Power: 2
+Area: 1;
+
+Items: 4
+Morale: 12
+Power: 5
+Area: 0;
 
 Items: 5
 Speed: 7
@@ -360,7 +427,7 @@ Power: 1
 Area: 0
 
 Morale: 12
-Power: 10
+Power: 5
 Area: 0;
 
 
@@ -1032,7 +1099,7 @@ Power: 4
 Area: 0
 
 BloodRage: 197
-Power: 3
+Power: 2
 Area: 0;
 
 

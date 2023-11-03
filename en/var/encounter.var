@@ -3875,7 +3875,7 @@ Answer3: 1457;
 Condition: 4
 Power: 3
 Param1: 7
-Param2: 3;
+Param2: 2;
 
 /150 Диалог с кентаврами (переход к получению задания)
 Type: 0
@@ -4009,6 +4009,11 @@ Param2: 0
 
 Flag: 10
 Power: 0
+Param1: 0
+Param2: 0
+
+GetEvent: 8
+Power: 2153
 Param1: 0
 Param2: 0;
 
@@ -34935,7 +34940,7 @@ Answer1: 0;
 Condition: 11
 Power: 1458
 Param1: 1459
-Param2: 60;
+Param2: 35;
 
 /1458 Переговоры с кентаврами (дипломатия, неудача)
 Type: 0

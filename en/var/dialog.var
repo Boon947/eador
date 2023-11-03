@@ -1,4 +1,4 @@
-Quantity: 2436
+Quantity: 2445
 
 /0
 Window: 0;
@@ -1873,7 +1873,7 @@ Answer4: All right, I'm leaving.;#####
 /231 Квест кентавров Месть людоедам (предложение)
 Window: 2;
 Bitmap: 21;
-Text: #«Recently several ogres invaded our lands. They killed many centaurs, then left for the hills. Centaur warriors fight poorly in the hills, the ogres have escaped our just revenge. The spirits of the slain demand vengeance, so I ask that you kill 5 ogres. Then the centaurs will agree to an alliance with twolegs.»#
+Text: #"Recently several giants invaded our lands. They killed many centaurs, then left for the hills. Centaur warriors are poor hill fighters, so the attackers were able to escape just revenge. The spirits of the slain demand vengeance, so I ask you: kill 4 giants, then the Centaurs will agree to an alliance with the bipeds. But if you agree, be careful - these are not just giants huddled in a crowd, they are purposefully prowling in search of centaurs. It is possible that you will become their target."#
 Answer1: All right, I'll avenge your brothers.;
 Answer2: I'd rather kill you instead. Attack!;
 Answer3: I'll think about it.;#####
@@ -1881,14 +1881,14 @@ Answer3: I'll think about it.;#####
 /232 Квест кентавров Месть людоедам (ожидание)
 Window: 2;
 Bitmap: 21;
-Text: #The leader of the Centaur warriors speaks: «The spirits of the slain centaurs have not yet found peace in the Eternal Steppes. Kill more ogres, then return.»#
+Text: #The leader of the Centaur warriors speaks: "The spirits of the slain centaurs have not yet found peace in the Eternal Steppes. Kill more giants, then return."#
 Answer1: All right, I'll be back soon.;
 Answer2: I'd rather kill you instead. Attack!;#####
 
 /233 Квест кентавров Месть людоедам (выполнение)
 Window: 2;
 Bitmap: 21;
-Text: #The leader of the Centaur warriors speaks: «The spirits of the slain centaurs have been avenged! You're truly a great warrior, even though you're a twoleg.»#
+Text: #The leader of the Centaur warriors speaks: «The spirits of the slain centaurs have been avenged! You're truly a great warrior, even though you're a biped. But remember that the giants will most likely not leave you alone!"#
 Answer1: What about an alliance?;#####
 
 /234 Переговоры с кентаврами (союз)
@@ -1924,7 +1924,7 @@ Answer2: Excellent, most excellent.;#####
 /238 Квест кентавров Месть людоедам (условие выполнено)
 Window: 2;
 Bitmap: 21;
-Text: #The hero %s has killed enough ogres to consider the fallen centaurs avenged. You can now return to form an alliance.#
+Text: #The hero %s has killed enough Giants to consider the fallen Centaurs avenged. You can now return to form an alliance.#
 Answer1: Excellent.;#####
 
 /239 Квест кентавров, провинция захвачена
@@ -5596,7 +5596,7 @@ Answer2: See, he didn't deceive me...;#####
 /720 (Заброшенный храм - разрешить2)
 Window: 4;
 Bitmap: 7;
-Text: #The Deadeye  explores the Abandoned Temple and finds a little gold and a few valuable items. He hands over the promised half of the trophies to your treasury.#
+Text: #The Deadeye explores the Abandoned Temple and finds a little gold and a few valuable items. He hands over the promised half of the trophies to your treasury.#
 Answer1: Deceiver!;
 Answer2: So little. What a pity.;
 Answer3: He's lying! Cast him into the dungeon!;
@@ -15251,7 +15251,7 @@ Answer2: They have only themselves to blame!;#####
 /1991 Альвары, ссора, стража проиграла, бунт
 Window: 2;
 Bitmap: 133;
-Text: #Your soldiers were unable to stop the bloodshed. Clashes between the Drow continued, only now in the open. Most of the inhabitants of the province were killed  in battle. Eventually a clique of dark elves came to power, retaining their combat capability, rebelling against your authority.#
+Text: #Your soldiers were unable to stop the bloodshed. Clashes between the Drow continued, only now in the open. Most of the inhabitants of the province were killed in battle. Eventually a clique of dark elves came to power, retaining their combat capability, rebelling against your authority.#
 Answer1: How did that happen?!;
 Answer2: Those bastards!;#####
 
@@ -15907,7 +15907,7 @@ Answer1: A good deal, um... alliance!;#####
 /2077 Переговоры с крысолюдами-союзниками (плохие отношения)
 Window: 2;
 Bitmap: 191;
-Text: #Running from the pack a ratman squeaks: "Man-man, Grand-d-d Rat-t-t open his will to us-us! Get away from here, man-men, or we have ta-taste of your  me-meat!"#
+Text: #Running from the pack a ratman squeaks: "Man-man, Grand-d-d Rat-t-t open his will to us-us! Get away from here, man-men, or we have ta-taste of your me-meat!"#
 Answer1: Okay, I'm leaving, don't get all worked up!;
 Answer2: Die, ratface!;#####
 
@@ -17201,7 +17201,7 @@ Window: 2;
 Bitmap: 24;
 Text: #A strange human has arrived in your castle in the province of %s. In appearance it is clearly a charmer. His clothes are very unusual, and he's decorated with very strange symbols. It is reported to you that he demands you accept him.#
 Answer1: Demand? Throw him out!;
-Answer2: Demand -  accepted.;#####
+Answer2: Demand - accepted.;#####
 
 /2246 Демонолог пришёл, принимаем
 Window: 2;
@@ -17216,7 +17216,7 @@ Answer3: Off with you, scoundrel!;#####
 Window: 2;
 Bitmap: 24;
 Text: #The demonologist is willing to wait as needed. He promises to visit you again in ten days time.#
-Answer1: I'd like to emplay you!;
+Answer1: I'll definitely hire you!;
 Answer2: Let me think about it...;#####
 
 /2248 Ритуал Шпион
@@ -18630,7 +18630,7 @@ Answer3: I do not care...;#####
 Window: 2;
 Bitmap: 39;
 Text: #Dwarven Craftsmen report that they have accumulated enough materials to build a true marvel of Dwarven engineering, the Earthshaker. They are willing to assemble it immediately, and deliver it to the castle, if you so desire.#
-Answer1: Why are you even asking?! Yes. (-1635 $ , -285 & );
+Answer1: Why are you even asking?! Yes. (-850 $ , -150 & );
 Answer2: Perhaps sometime later.;#####
 
 /2432 (Запуск торгового каравана - основной диалог, размер)
@@ -18643,7 +18643,7 @@ What is your decision?#
 Answer1: Invest the minimum. (-200 $ );
 Answer2: Invest a reasonable amount. (-450 $ );
 Answer3: Invest much gold! (-1000 $ );
-Answer4: What am I doing here? Let them guide you.;#####
+Answer4: Why should I care? They can send it themselves.;#####
 
 /2433 (Запуск торгового каравана - основной диалог, путь)
 Window: 2;
@@ -18652,7 +18652,8 @@ Text: #How far do you want to send this caravan?
 The larger the caravan, the safer the journey to remote corners of the shard, and the longer it takes.#
 Answer1: Send a caravan to our border.;
 Answer2: Send a caravan to neighboring lands.;
-Answer3: Send a caravan to distant lands.;#####
+Answer3: Send a caravan to distant lands.;
+Answer4: Don't bother me with such trifling matters again!;#####
 
 /2434 (Запуск торгового каравана - вернулся с крит. успехом)
 Window: 2;
@@ -18675,3 +18676,72 @@ Text: #You learn that the caravan you sent has been plundered.#
 Answer1: I knew it...;
 Answer2: Well, such is life.;
 Answer3: Stingy hucksters, they skimped on protection!;#####
+
+/2437 Некромант пришёл
+Window: 2;
+Bitmap: 24;
+Text: #A strange human has arrived in your castle in the province of %s. In appearance it is clearly a charmer. His clothes are very unusual, and he's decorated with very strange symbols. It is reported to you that he demands you accept him.#
+Answer1: Demand? Throw him out!;
+Answer2: Demand - accepted.;#####
+
+/2438 Некромант пришёл, принимаем
+Window: 2;
+Bitmap: 245;
+Text: #As he enters the room, you immediately see what he is. Before you stands a Death Mage.
+Bowing, he said that he had heard about your experiments with Necromancy, and was ready to perform a powerful ritual to turn one of your servants into a Vampire if you provide him with all the necessary ingredients.#
+Answer1: Deal! (-350 $  -180 & );
+Answer2: I'd like to employ you, but later...;
+Answer3: Off with you, scoundrel!;#####
+
+/2439 Некромант пришёл, наймём позже
+Window: 2;
+Bitmap: 24;
+Text: #The Necromancer agrees to wait as long as necessary. He promises to visit you again in ten days time.#
+Answer1: I'll definitely hire you!;
+Answer2: Let me think about it...;#####
+
+/2440 Сквайр пришёл
+Window: 2;
+Bitmap: 80;
+Text: #Your advisers inform you that the last set of recruits for training in the art of war was especially successful - there are many promising fighters among the recruits. If you wish, you can hold a tournament among them and choose the best one - perhaps it will serve you well in the future.#
+Answer1: A tournament? I love it! (-250 $  -10 & );
+Answer2: Now is not a good time, maybe later.;
+Answer3: To Hell with tournaments! Waste of money...;#####
+
+/2441 Сквайр пришёл, напоминание
+Window: 2;
+Bitmap: 80;
+Text: #As you ordered, your advisers remind you of the tournament among ordinary warriors.
+What is your decision, my Lord?#
+Answer1: Yes, organize the tournament! (-250 $  -10 & );
+Answer2: I will definitely do it, but later.;
+Answer3: No, I've changed my mind - we don't need one.;#####
+
+/2442 Сквайр пришёл, нанимаем
+Window: 2;
+Bitmap: 252;
+Text: #The tournament among ordinary warriors was a great success!
+Each fighter got the opportunity to show their skills. But there can only be one winner - and thus, a young, but skillful and strong fighter was crowned Champion of the tournament! The main prize for the winner was the title of Squire along with premium armor. Of course, the champion has sworn allegiance to you, and will serve you faithfully.#
+Answer1: Excellent!;
+Answer2: Big deal, a Squire...;#####
+
+/2443 Квест кентавров Месть людоедам (атака)
+Window: 2;
+Bitmap: 251;
+Text: #Your scouts in the %s province report that they have discovered traces of a giant camp abandoned no more than a day ago, three days' journey from the castle.#
+Answer1: Aha, here they are!;
+Answer2: What the hell?!;#####
+
+/2444 Вторжение великанов, разорение
+Window: 2;
+Bitmap: 92;
+Text: #With no one to stop them, the giants burst into the settlement and begin to devour the locals. After eating their fill, they begin killing for fun. After killing half the population, and destroying most of the houses, the giants returned home. Your advisers do not exclude the possibility that they might return.#
+Answer1: Damned creatures!;
+Answer2: So sad...;#####
+
+/2445 Атака великанов
+Window: 2;
+Bitmap: 92;
+Text: #A group of giants has attacked the %s province!#
+Answer1: I've been waiting for you, beasts!;
+Answer2: Oh, why so soon?!;#####

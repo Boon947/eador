@@ -372,7 +372,7 @@ Your world is the main source of Energy income. Each Shard joined to your world 
 #Try powerful spells and rituals, train elite warriors and fight huge monsters. Obtain legendary artifacts and collect rare armor sets.#
 
 113. Hint Miscellaneous
-# New Horizons 22.0630.a#
+# New Horizons 23.0710.a#
 
 114. No lottery
 #  

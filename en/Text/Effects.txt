@@ -565,13 +565,13 @@ It loses 3 points of stamina and morale each turn.#
 #The unit's aura has been damaged. Its resistance is decreased by 1.#
 
 188. Stone Statue
-#The gargoyle has turned into an immobile stone statue, and is unable to fight. Armor and resistance are increased by 3, recovers 4 hit points each turn.#
+#Unit has turned into an immobile stone statue, and is unable to fight. Armor and resistance are increased by 3, recovers 4 hit points each turn.#
 
 189. Kiss of Darkness
 #This spell makes the unit intrepid.#
 
 190. Shadow Form Priestess
-#The unit is in shadow form. The unit's ranged attack is increased by 6, its range by 2, but its resistance protects only partially against spells. The unit is incorporeal and is able to reduce the enemy's resistance by 1 with each shot. It  possesses Bloodlust 1. The unit's resistance is reduced by half and it loses 2 morale points each turn. Spell duration is reduced by 1, and it loses its healing power.#
+#The unit is in shadow form. The unit's ranged attack is increased by 6, its range by 2, but its resistance protects only partially against spells. The unit is incorporeal and is able to reduce the enemy's resistance by 1 with each shot. It possesses Bloodlust 1. The unit's resistance is reduced by half and it loses 2 morale points each turn. Spell duration is reduced by 1, and it loses its healing power.#
 
 191. Drow Rage
 #The unit's melee and ranged attack is increased by 2, speed by 1. The unit gets 2 additional morale points for killing the enemy in melee combat.#
@@ -687,10 +687,14 @@ If the unit dies before digestion is complete, it will perish forever, and the s
 #All types of Defense and Attack of nearby allied creatures are increased at least by 2. Unit and all nearby allies at rest recover additional Stamina and Health.#
 
 227. Spiritual Link
-#When unit uses magic, half the Stamina required to cast a spell will be spent by the one who cast this spell. If the spell is cast more than once, the Stamina cost will be equally distributed to everyone.#
+#When unit uses magic, half the Stamina required to cast a spell will be spent by the one who cast this spell. If the spell is cast more than once, the Stamina cost will be equally distributed to everyone.
+Unit recovers some Stamina when caster rests.
+If a spell that restores Stamina is cast on the caster, it will also affect the enchanted unit.#
 
 228. Life Bond
-#When unit receives non-lethal damage, part of the damage will be transfered to the spellcaster, provided it does not kill the caster himself.#
+#When unit receives non-lethal damage, part of the damage will be transfered to the spellcaster, provided it does not kill the caster himself.
+Unit recovers some HP when caster heals from First Aid.
+If a spell that restores Health is cast on the caster, it will also affect the enchanted unit.#
 
 229. Mass Life Drain
 #Unit cannot fight in melee.#

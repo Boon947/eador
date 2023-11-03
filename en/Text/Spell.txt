@@ -90,13 +90,13 @@ Has no effect on intrepid creatures.#
 #Circle 1.
 School: Necromancy.
 Creates a Skeleton from the remains of a fallen.
-The Skeleton's attributes depend on the caster's Summoning and Necromancy skills.#
+Skeleton's attributes depend on Summoning and Necromancy power.#
 
 15. Raise Zombie
 #Circle 1.
 School: Necromancy.
 Creates a Zombie from the remains of a fallen.
-The zombie's attributes depend on the caster's Summoning and Necromancy skills.#
+Zombie's attributes depend on Summoning and Necromancy power.#
 
 16. Dispel
 #Circle 1.
@@ -123,7 +123,7 @@ Duration slightly increases with the caster's Concentration.#
 School: Chaos Magic.
 The caster loses 3 hit points.
 An Imp is summoned in a tile adjacent to the caster.
-The summoning range and the imp's attributes depend on the caster's Summoning skill.#
+Summoning range and Imp's attributes depend on the caster's Summoning Power.#
 
 20. Burn Ammo
 #Circle 1.
@@ -182,7 +182,7 @@ Has no effect on the Undead, Mechanical units, and Elementals.#
 #Circle 2.
 School: Necromancy.
 Creates a Ghoul from the remains of a fallen.
-The ghoul's attributes depend on the caster's Summoning and Necromancy skills.#
+Ghoul's attributes depend on Summoning and Necromancy power.#
 
 29. Vampirism
 #Circle 2.
@@ -202,7 +202,7 @@ Has no effect on the Undead, Mechanical units, Elementals, and Ratmen.#
 #Circle 2.
 School: Elemental Magic.
 A Gargoyle is summoned in a tile adjacent to the caster.
-The summoning range and the gargoyle's attributes depend on the caster's Summoning skill.#
+Summoning range and Gargoyle's attributes depend on the caster's Summoning Power.#
 
 32. Rain of Stones
 #Circle 2.
@@ -222,14 +222,14 @@ Has no effect on Elementals, Golems, Artillery, and incorporeal creatures.#
 School: Chaos Magic.
 The caster loses 6 hit points.
 A Fiend is summoned in a tile next to the caster.
-The summoning range and the fiend's attributes depend on the caster's Summoning skill.#
+Summoning range and Fiend's attributes depend on the caster's Summoning Power.#
 
 35. Summon Hellhound
 #Circle 2.
 School: Chaos Magic.
 The caster loses 5 hit points.
 A Hellhound is summoned in a tile next to the caster.
-The summoning range and the hellhound's attributes depend on the caster's Summoning skill.#
+Summoning range and Hellhound's attributes depend on the caster's Summoning Power.#
 
 36. Blindness
 #Circle 2.
@@ -296,7 +296,7 @@ Does not affect demons.#
 School: Chaos Magic.
 A friendly unit needs to be sacrificed for this incantation.
 A Demon is summoned in a tile next to the caster.
-The summoning range and the demon's attributes depend on the caster's Summoning skill.#
+Summoning range and Demon's attributes depend on the caster's Summoning Power.#
 
 46. Teleport
 #Circle 3.
@@ -360,7 +360,7 @@ Duration is barely affected by the caster's Concentration.#
 #Circle 3.
 School: Necromancy.
 Creates a Ghost from the remains of a fallen.
-The ghost's attributes depend on the caster's Summoning and Necromancy skills.#
+Ghost's attributes depend on Summoning and Necromancy power.#
 
 56. Mass Curse
 #Circle 3.
@@ -401,7 +401,7 @@ The spell has no effect on undead and demons.#
 #Circle 4.
 School: Necromancy.
 Creates a Vampire from the remains of a fallen.
-The vampire's attributes depend on the caster's Summoning and Necromancy skills.#
+Vampire's attributes depend on Summoning and Necromancy power.#
 
 62. Pestilence
 #Circle 4.
@@ -439,7 +439,7 @@ Damage increases significantly with the caster's Spellpower.#
 School: Chaos Magic.
 A friendly unit needs to be sacrificed for this incantation.
 Summons a Devil in a tile next to the caster.
-The summoning range and the Devil's attributes depend slightly on the caster's Summoning skill.#
+Summoning range and Devil's attributes depend on the caster's Summoning Power.#
 
 68. Black Magic
 #Circle 4.
@@ -468,7 +468,7 @@ All friendly units get a second turn. The spell only affects those units who hav
 School: Metamorphosis.
 Turns a friendly unit into a Dragon.
 Lasts 3 turns.
-Duration slightly increases with the caster's Concentration.#
+Duration increases with the caster's Concentration.#
 
 72. Polymorph
 #Circle 4.
@@ -502,14 +502,14 @@ No effect on the undead and mechanical units.#
 #Circle 3.
 School: Metamorphosis.
 A Golem is created in a tile next to the caster.
-The summoning range and the golem's attributes depend on the caster's Summoning skill.
+Summoning range and Golem's attributes depend on the caster's Summoning Power.
 Afterwards the summoner will not be able to cast spells for 2 turns.#
 
 77. Summon Phoenix
 #Circle 4.
 School: Elemental Magic.
 A Phoenix is summoned in a tile next to the caster.
-The summoning range and the Phoenix's attributes depend slightly on the caster's Summoning skill.
+Summoning range and Phoenix's attributes depend on the caster's Summoning Power.
 Afterwards the summoner will not be able to cast spells for 4 turns.#
 
 78. Aard Sign
@@ -604,7 +604,7 @@ Has no effect on the Undead, Mechanical units, and Elementals.#
 #Circle 3.
 School: Natural Magic.
 A Huorn is summoned in a tile next to the caster.
-The summoning range and the huorn's attributes depend on the caster's Summoning skill.#
+Summoning range and Huorn's attributes depend on the caster's Summoning Power.#
 
 93. Magic Shield
 #Circle 1.
@@ -803,7 +803,8 @@ Has no effect on the Undead, Mechanical units, and Elementals.#
 School: Elemental Magic.
 A Water Elemental is summoned in a tile next to the caster.
 Summoned creature knows "Ice Heart", "Freeze" and "Ice Chunk" spells. It also can heal living creatures.
-The summoning range and the Water Elemental's attributes depend on the caster's Summoning ability.#
+Summoning range and Water Elemental's attributes depend on caster's Summoning Power.
+Afterwards the summoner will not be able to cast spells for 2 turns.#
 
 121. Glacial Heart
 #Circle 1.
@@ -848,7 +849,8 @@ Has no effect on units that already have Double Shot, or on Animals.#
 #Circle 1.
 School: Natural Magic.
 Deals 10 physical damage to the target.
-Damage increases with the caster's Spellpower.#
+Damage increases significantly with the caster's Spellpower.
+Armor protects only partially against this spell.#
 
 128. Ancestral Rage
 #Circle 1.
@@ -882,9 +884,9 @@ Deals 16 magic damage to all units within a range of 1 tile. Resistance protects
 Damage increases significantly with the caster's Spellpower.#
 
 133. Poison Claw
-#Circle 2.
+#Circle 1.
 School: Natural Magic.
-Enchants melee attack of a friendly unit with Poison 5. Lasts 4 turns.
+Poisons melee attack of a friendly unit with Poison Strength 3. Lasts 4 turns.
 Duration increases with the caster's Concentration.
 Only works on Animals.#
 
@@ -910,7 +912,7 @@ Does not affect flying, floating, tireless, and incorporeal creatures.#
 137. Hornet swarm
 #School: Natural Magic.
 The effect of this spell is cumulative.
-Poisons an enemy unit, causing them to lose 3 HP and 1 Stamina point each turn. Unit is afflicted with negative effect Itch. Lasts 3 turns. Magic Resistance and Magic Immunity offer no protection from this spell.
+Poisons an enemy unit, causing them to lose 4 HP and 2 Stamina point each turn. Unit is afflicted with negative effect Itch. Lasts 3 turns. Magic Resistance and Magic Immunity offer no protection from this spell.
 Duration increases with the caster's Concentration.
 Has no effect on the Undead, Mechanical units, Elementals, Golems, and Artillery.#
 
@@ -981,7 +983,7 @@ Has no effect on the Undead, Demons, Mechanical units, and Elementals.#
 148. Sanctuary
 #Circle 3.
 School: Prayers.
-Increases an ally's Attacks and Defenses by 2, and bestow Armor of Faith 50~. Lasts 4 turns.
+Increases Attacks and Defenses of all allies within 1 tile by 2, and bestow Armor of Faith 50~. Lasts 4 turns.
 Duration increases with the caster's Concentration.
 The spell has no effect on undead and demons.#
 
@@ -1002,7 +1004,7 @@ Has no effect on Mechanical units and Elementals.#
 151. Holy Word
 #Circle 4.
 School: Prayers.
-The caster loses 10 hit points.
+The caster loses 5 hit points.
 Deals 10 points of magic damage to all enemies on the battlefield. Ignores magic resistance.
 Damage increases with the caster's Spellpower.#
 
@@ -1016,13 +1018,13 @@ Damage increases significantly with the caster's Spellpower.#
 #Circle 2.
 School: Necromancy.
 Summons a skeleton in a tile next to the caster.
-The summoning range and the skeleton's attributes depend on the caster's Summoning ability.#
+Summoning range and Skeleton's attributes depend on caster's Summoning Power.#
 
 154. Summon Wyvern
 #Circle 4.
 School: Natural Magic.
 Summons a Wyvern, slow but powerful swamp creature, to a tile adjacent to the caster.
-The summoning range and the Wyvern's attributes depend on the caster's Summoning ability.#
+Summoning range and Wyvern's attributes depend on caster's Summoning Power.#
 
 155. Fire Storm
 #Circle 4.
@@ -1113,34 +1115,38 @@ Damage and burning damage increases with the caster's Spellpower.#
 School: Elemental Magic.
 Air Elemental is summoned in a tile next to the caster.
 Summoned creature knows "Celestial Thunder", "Chain Lightning" and "Head Wind". spells.
-The summoning range and the Air Elemental's attributes depend on the caster's Summoning ability.#
+Summoning range and Air Elemental's attributes depend on caster's Summoning Power.
+Afterwards the summoner will not be able to cast spells for 2 turns.#
 
 169. Summon Earth Elemental
 #Circle 3.
 School: Elemental Magic.
 Earth Elemental is summoned in a tile next to the caster.
 Summoned creature knows "Sluggishness", "Quicksand" and "Earthquake" spells.
-The summoning range and the Earth Elemental's attributes depend on the caster's Summoning ability.#
+Summoning range and Earth Elemental's attributes depend on caster's Summoning Power.
+Afterwards the summoner will not be able to cast spells for 2 turns.#
 
 170. Summon Fire Elemental
 #Circle 3.
 School: Elemental Magic.
 Fire Elemental is summoned in a tile next to the caster.
 Summoned creature knows "Fire Rain", "Mass Fire Immunity" and "Cleansing Flame" spells.
-The summoning range and the Fire Elemental's attributes depend on the caster's Summoning ability.#
+Summoning range and Fire Elemental's attributes depend on caster's Summoning Power.
+Afterwards the summoner will not be able to cast spells for 2 turns.#
 
 171. Summon Living Armor
 #Circle 3.
 School: Metamorphosis.
 Summons a Living Armor in a tile next to the caster.
-The summoning range and the Living Armor's attributes depend on the caster's Summoning ability.#
+Summoning range and Living Armor's attributes depend on caster's Summoning Power.
+Afterwards the summoner will not be able to cast spells for 2 turns.#
 
 172. Summon Lord of Abyss
 #Circle 4.
 School: Chaos Magic.
 The caster loses 15 hit points.
 Summons a Lord of Abyss in a tile next to the caster.
-The summoning range and the Lord of Abyss's attributes depend on the caster's Summoning ability.#
+Summoning range and Lord of Abyss's attributes depend on caster's Summoning Power.#
 
 173. Anthem Of The Damned
 #Circle 4.
@@ -1176,7 +1182,7 @@ Does not affect heroes.#
 #Circle 3.
 School: Astral Magic.
 A Phantom is summoned in a tile next to the caster.
-The Phantom's attributes depend on the caster's Summoning ability.#
+Phantom's attributes depend on caster's Summoning Power.#
 
 178. Fanaticism
 #Circle 4.
@@ -1304,13 +1310,13 @@ The spell has no effect on undead and demons.#
 School: Shadow Magic.
 A friendly unit needs to be sacrificed for this incantation.
 A Beholder is summoned in a tile next to the caster.
-The summoning range and the Beholder's attributes depend on the caster's Summoning skill.#
+Summoning range and Beholder's attributes depend on the caster's Summoning Power.#
 
 197. Dark Crystal
 #Circle 3.
 School: Shadow Magic.
 A Dark Crystal is summoned in a tile next to the caster.
-The summoning range and the Magic Crystal's attributes depend on the caster's Summoning ability.#
+Summoning range and Dark Crystal's attributes depend on the caster's Summoning Power.#
 
 198. Kiss of Darkness
 #Circle 2.
@@ -1357,25 +1363,25 @@ Has no effect on Animals.#
 #Circle 1.
 School: Necromancy.
 Creates a Reaper from the remains of a fallen.
-The Reaper's attributes depend on the caster's Summoning and Necromancy skills.#
+Reaper's attributes depend on Summoning and Necromancy Power.#
 
 204. Raise Mummy
 #Circle 1.
 School: Necromancy.
 Creates a Mummy from the remains of a fallen.
-The Mummy's attributes depend on the caster's Summoning and Necromancy skills.#
+Mummy's attributes depend on Summoning and Necromancy Power.#
 
 205. Raise Cadaver
 #Circle 2.
 School: Necromancy.
 Creates a Cadaver from the remains of a fallen.
-The Cadaver's attributes depend on the caster's Summoning and Necromancy skills.#
+Cadaver's attributes depend on Summoning and Necromancy Power.#
 
 206. Raise Banshee
 #Circle 3.
 School: Necromancy.
 Creates a Banshee from the remains of a fallen.
-The Banshee's attributes depend on the caster's Summoning and Necromancy skills.#
+Banshee's attributes depend on Summoning and Necromancy Power.#
 
 207. Dark Resurrection
 #Circle 2.
@@ -1505,7 +1511,7 @@ Has no effect on the Undead, Animals, and Elementals.#
 School: Necromancy.
 Decreases target's defense attributes by 4. Lasts 4 turns. Ignores magic resistance.
 Duration increases with the caster's Concentration.
-Has no effect on Chaos Lords and incorporeal creatures.#
+No effect on incorporeal creatures.#
 
 225. Cat's Reflexes
 #Circle 2.
@@ -1537,7 +1543,7 @@ Caster's Concentration and Spellpower doesn't affect this spell.#
 School: Chaos Magic.
 The caster loses 15 hit points.
 Summons a Devil in a tile next to the caster.
-The summoning range and the Devil's attributes depend on the caster's Summoning skill.#
+Summoning range and Devil's attributes depend on caster's Summoning Power.#
 
 230. Death Cloud
 #Circle 3.
@@ -1588,7 +1594,8 @@ Has no effect on the Undead, Mechanical units, and Elementals.#
 School: Chaos Magic.
 The caster loses 13 hit points.
 Summons a Destroyer in a tile next to the caster.
-The summoning range and the Destroyer's attributes depend slightly on the caster's Summoning skill.#
+Summoning range and Destroyer's attributes depend slightly on caster's Summoning Power.
+Afterwards the summoner will not be able to cast spells for 3 turns.#
 
 237. Chaos Distortion
 #Circle 3.
@@ -1631,13 +1638,13 @@ Has no effect on the Undead, Mechanical units, Heroes, Elementals, and Chaos Lor
 #Circle 2.
 School: Necromancy.
 Create Skeleton of Doom from an ally's or enemy's corpse.
-The Skeleton of Doom's attributes depend on the caster's Summoning and Necromancy skills.#
+Skeleton of Doom's attributes depend on Summoning and Necromancy Power.#
 
 243. Raise Spectre
 #Circle 3.
 School: Necromancy.
 Creates a Spectre from the remains of a fallen.
-The Spectre's attributes depend slightly on Summoning and Necromancy skills.#
+Spectre's attributes depend slightly on Summoning and Necromancy Power.#
 
 244. Fearlessness
 #Circle 1.
@@ -1770,14 +1777,15 @@ Has no effect on the Undead, Mechanical units, and Elementals.#
 #Circle 3.
 School: Necromancy.
 Create Lord of Darkness from an ally's corpse.
-The Lord of Darkness attributes depend on the caster's Summoning and Necromancy skills.#
+Lord of Darkness's attributes depend on Summoning and Necromancy Power.#
 
 263. Stone Crust
 #Circle 2.
 School: Elemental Magic.
 Immobilizes an enemy or friendly Mortal unit. The target's Armor increases by 5, Resistance by 2. Active for 5 turns.
 An ally recovers 5 HP each turn, an enemy loses them.
-Duration increases slightly with the caster's Concentration. Enemy resistance reduces the duration of the spell.#
+Duration increases slightly with the caster's Concentration. Resistance reduces spell duration.
+Does not affect heroes.#
 
 264. Mass Cold Immunity
 #Circle 2.
@@ -1793,7 +1801,7 @@ Grants all friendly units immunity to lightning based spells and increases resis
 Duration increases significantly with the caster's Concentration.#
 
 266. Elemental Immunity
-#Circle 4.
+#Circle 3.
 School: Elemental Magic.
 Grants all friendly units immunity to fire, cold and lighting. Increases resistance by 3. The unit restores 1 hit point and 1 stamina point each turn.
 Lasts 5 turns.
@@ -1803,7 +1811,7 @@ Has no effect on the Undead, Mechanical units, and Elementals.#
 267. Confusion
 #Circle 4.
 School: Astral Magic.
-All enemy units within 1 tile forget to attack in close combat. Ranged attack of each target is reduced to zero. The unit is unable to use spells. Lasts 3 turns.
+All enemy units within 1 tile forget to attack in close combat. Ranged Attack of unit is reduced to zero. Units cannot use magic. Lasts 3 turns.
 Magic Resistance only partially protects from this spell.
 Duration increases with the caster's Concentration.
 Has no effect on the Undead, Mechanical units, and Elementals.#
@@ -1811,14 +1819,14 @@ Has no effect on the Undead, Mechanical units, and Elementals.#
 268. Banish
 #Circle 3.
 School: Sacred Magic.
-Deals 15 points of magic damage to all units within 1 tiles. Only works on the Undead, Demons, and Elementals. Does not affect the servants of Death.
-Damage increases significantly with the caster's Spellpower.#
+Deals 15 points of magic damage to all units within 1 tiles. Only affects the Undead, Demons, Elementals, and Phantoms. Does not affect the servants of Death.
+Damage increases significantly with the caster's Spellpower. Resistance protects only partially against this spell. Magic immunity does not apply.#
 
 269. Summon Hnara
 #Circle 1.
 School: Necromancy.
 Summons a Hnara in a tile next to the caster.
-The summoning range and the Hnara's attributes depend on the caster's Summoning ability. A corpse is not required to summon a Hnara.
+Summoning range and Hnara's attributes depend hero's Summoning and Necromancy Power. A corpse is not required to summon a Hnara.
 The unit does not remain after the battle.#
 
 270. Miracle
@@ -1853,17 +1861,17 @@ Only works on Artillery.#
 Replenishes 1 ammo to a friendly mechanism.
 Only works on Artillery.#
 
-275. Summon Wolf
-#Circle 1.
+275. Summon Wolves
+#Circle 2.
 School: Natural Magic.
-Summons a Wolf in a tile next to the caster.
-Summoning range and the Wolf's attributes depend heavily on the caster's Summoning ability.#
+Summons two wolves in an adjacent tile, plus one wolf per level in Summoning skill.
+Summoning range and Wolves' attributes depend slightly on caster's Summoning Power.#
 
-276. Summon Dire Bear
+276. Summon Dire Bears
 #Circle 3.
 School: Natural Magic.
-Summons a Dire Bear in a tile next to the caster.
-The summoning range and the Dire Bear's attributes depend on the caster's Summoning ability.#
+Summons two Dire Bears in an adjacent tile.
+Summoning range and Dire Bears' attributes depend on caster's Summoning Power.#
 
 277. Cleansing Flame
 #Circle 4.
@@ -1894,25 +1902,25 @@ Only affects Alkari.#
 #Circle 1.
 School: Astral Magic.
 Summons an Icarus, a common Alkari warrior, on a tile adjacent to the summoner.
-The Icarus' attributes depend on the caster's Summoning ability.#
+Icarus's attributes depend on caster's Summoning Power.#
 
 281. Summon Stalker
 #Circle 2.
 School: Astral Magic.
 Summons a Stalker, an Alkari hunter, on a tile adjacent to the summoner.
-The Stalker's attributes depend on the caster's Summoning ability.#
+Stalker's attributes depend on caster's Summoning ability.#
 
 282. Summon Luminary
 #Circle 2.
 School: Astral Magic.
 A Luminary is summoned in a tile next to the caster.
-The Luminary's attributes depend on the caster's Summoning ability.#
+Luminary's attributes depend on caster's Summoning Power.#
 
 283. Soul Trap
 #Circle 1.
 School: Necromancy.
 A creature's soul can be trapped as it leaves its corpse. The trapped soul can be used either to curse an enemy, or to buff an ally.
-The trapped soul's attributes depend on the caster's Summoning and Necromancy skills. The unit does not remain after the battle.#
+Trapped Soul's attributes depend on Summoning and Necromancy Power. The unit does not remain after the battle.#
 
 284. Death Bell
 #Circle 1.
@@ -1927,7 +1935,7 @@ Has no effect on the Undead, Mechanical units, and Elementals.#
 #Circle 1.
 School: Elemental Magic.
 Summons a Mephit, a weak Air elemental, to a tile next to the caster.
-Summoning range and the Mephit's attributes depend heavily on the caster's Summoning ability.#
+Summoning range and Mephit's attributes significantly depend on caster's Summoning Power.#
 
 286. Self-Sacrifice
 #Circle 2.
@@ -1954,7 +1962,7 @@ No effect on incorporeal creatures.#
 #Circle 2.
 School: Metamorphosis.
 Invokes a magic crystal in a tile adjacent to the caster.
-The summoning range and the Magic Crystal's attributes depend on the caster's Summoning ability.#
+Summoning range and Dark Crystal's attributes depend on the caster's Summoning Power.#
 
 290. Leprosy
 #Circle 2.
@@ -1988,7 +1996,7 @@ Has no effect on the Undead, Mechanical units, and Elementals.#
 #Circle 1.
 School: Natural Magic.
 Summons a Giant Rat in a tile next to the caster.
-Summoning range and the Giant Rat's attributes depend heavily on the caster's Summoning ability.#
+Summoning range and Giant Rat's attributes depend heavily on caster's Summoning Power.#
 
 295. Fever Hotbed
 #Circle 4.
@@ -2052,61 +2060,61 @@ Has no effect on the Undead, Mechanical units, and Elementals.#
 #Circle 1.
 School: Chaos Magic.
 An Imp is summoned in a tile adjacent to the caster.
-The summoning range and the imp's attributes depend on the caster's Summoning skill.#
+Summoning range and Imp's attributes depend on the caster's Summoning Power.#
 
 304. Summon Spawn
 #Circle 1.
 School: Chaos Magic.
 Summons Spawn in a tile next to the caster.
-Summoning range and the Spawn's attributes depend heavily on the caster's Summoning ability.#
+Summoning range and Spawn's attributes depend heavily on caster's Summoning Power.#
 
 305. Summon Fiend
 #Circle 2.
 School: Chaos Magic.
 A Fiend is summoned in a tile next to the caster.
-The summoning range and the fiend's attributes depend on the caster's Summoning skill.#
+Summoning range and Fiend's attributes depend on the caster's Summoning Power.#
 
 306. Summon Hellhound
 #Circle 2.
 School: Chaos Magic.
 A Hellhound is summoned in a tile next to the caster.
-The summoning range and the hellhound's attributes depend on the caster's Summoning skill.#
+Summoning range and Hellhound's attributes depend on the caster's Summoning Power.#
 
 307. Summon Fiend Lord
 #Circle 2.
 School: Chaos Magic.
 Summons a Fiend Lord in a tile next to the caster.
-The summoning range and the Fiend Lord's attributes depend on the caster's Summoning skill.#
+Summoning range and Fiend Lord's attributes depend on caster's Summoning Power.#
 
 308. Summon Cerberus
 #Circle 2.
 School: Chaos Magic.
 Summons a Cerberus in a tile next to the caster.
-The summoning range and the Cerberus' attributes depend on the caster's Summoning skill.#
+Summoning range and Cerberus's attributes depend on caster's Summoning Power.#
 
 309. Summon Succubus
 #Circle 2.
 School: Chaos Magic.
 Summons a Succubus in a tile next to the caster.
-The summoning range and the Succubus' attributes depend on the caster's Summoning skill.#
+Summoning range and Succubus's attributes depend on caster's Summoning Power.#
 
 310. Summon Demon
 #Circle 3.
 School: Chaos Magic.
 A Demon is summoned in a tile next to the caster.
-The summoning range and the demon's attributes depend on the caster's Summoning skill.#
+Summoning range and Demon's attributes depend on the caster's Summoning Power.#
 
 311. Summon Destroyer
 #Circle 3.
 School: Chaos Magic.
 Summons a Destroyer in a tile next to the caster.
-The summoning range and the Destroyer's attributes depend on the caster's Summoning ability.#
+Summoning range and Destroyer's attributes depend on caster's Summoning Power.#
 
 312. Summon Devil
 #Circle 4.
 School: Chaos Magic.
 Summons a Devil in a tile next to the caster.
-The summoning range and the Devil's attributes depend on the caster's Summoning skill.#
+Summoning range and Devil's attributes depend on caster's Summoning Power.#
 
 313. Black Blood
 #Combat abilities.
@@ -2241,13 +2249,13 @@ Afterwards the summoner will not be able to cast spells for 2 turns.#
 #Circle 3.
 School: Astral Magic.
 Summons an Arisen Luminary, a mighty Alkari warrior, on a tile adjacent to the summoner.
-The Arisen Luminary's attributes depend on the caster's Summoning ability.#
+Arisen Luminary's attributes depend on caster's Summoning Power.#
 
 332. Summon Keeper
 #Circle 3.
 School: Astral Magic.
 Summons a Memory Keeper, a powerful Alkari spellcaster, on a tile adjacent to the summoner.
-The Memory Keeper's attributes depend on the caster's Summoning ability.#
+Memory Keeper's attributes depend on caster's Summoning Power.#
 
 333. Mental Shadow
 #Circle 4.
@@ -2303,7 +2311,7 @@ Has no effect on Animals.#
 #Circle 1.
 School: Shadow Magic.
 Summons a Kobold-slave in a tile next to the caster.
-The summoning range and the slave's attributes depend on the caster's Summoning skill.#
+Summoning range and Kobold-slave's attributes depend on caster's Summoning Power.#
 
 341. Stimulus
 #Circle 1.
@@ -2401,7 +2409,7 @@ Has no effect on Animals.#
 School: Chaos Magic.
 The caster loses 5 hit points.
 A Mocker is summoned in a tile adjacent to the caster.
-The summoning range and the Mocker's attributes depend on the caster's Summoning skill.#
+Summoning range and Mocker's attributes depend on caster's Summoning Power.#
 
 355. Healing Circle
 #Circle 3.
@@ -2462,26 +2470,26 @@ Has no effect on the Undead, Mechanical units, Elementals, and Ratmen.#
 #Circle 1.
 School: Elemental Magic.
 Summons an Earth Totem in a tile next to the caster.
-Summoning range and the totem's attributes depend on the caster's ability.#
+Summoning range and Earth Totem's attributes depend on caster's Summoning Power.#
 
 364. Rage Totem
 #Circle 2.
 School: Chaos Magic.
 The caster loses 2 hit points.
 Summons a Rage Totem in a tile next to the caster.
-Summoning range and the totem's attributes depend on the caster's ability.#
+Summoning range and Earth Totem's attributes depend on caster's Summoning Power.#
 
 365. Fire Totem
 #Circle 3.
 School: Elemental Magic.
 Summons a Fire Totem in a tile next to the caster.
-Summoning range and the totem's attributes depend on the caster's ability.#
+Summoning range and Earth Totem's attributes depend on caster's Summoning Power.#
 
 366. Blood Totem
 #Circle 4.
 School: Necromancy.
 Summons a Blood Totem in a tile next to the caster.
-Summoning range and the totem's attributes depend on the caster's ability.#
+Summoning range and Earth Totem's attributes depend on caster's Summoning Power.#
 
 367. Soothe Spirits
 #Circle 1.
@@ -2503,22 +2511,22 @@ School: Elemental Magic.
 The caster loses 50 hit points.
 Fire Elemental is summoned in a tile next to the caster.
 Summoned creature knows "Fire Rain", "Mass Fire Immunity" and "Cleansing Flame" spells.
-The summoning range and the Fire Elemental's attributes depend on the caster's Summoning ability.#
+Summoning range and Fire Elemental's attributes depend on caster's Summoning Power.#
 
 370. Set Trap
 #Combat abilities.
 Installs a trap in an adjacent tile.
-The summoning range and the trap's attributes depend on the caster's Summoning skill.#
+Summoning range and Trap's attributes depend on caster's Summoning Power.#
 
 371. Set Snare
 #Combat abilities.
 Installs a snare in an adjacent tile.
-The summoning range and the snare's attributes depend on the caster's Summoning skill.#
+Summoning range and Snare's attributes depend on caster's Summoning Power.#
 
 372. Set Hive
 #Combat abilities.
 Installs a hornet's nest in an adjacent tile.
-The summoning range and the hive's attributes depend on the caster's Summoning skill.#
+Summoning range and Hive's attributes depend on caster's Summoning Power.#
 
 373. Subdue Beast
 #Circle 2.
@@ -2546,25 +2554,25 @@ The effect slightly increases with the caster's Spellpower.#
 #Circle 4.
 School: Necromancy.
 Summons 7 Skeletons of Doom in a tile next to the caster.
-The Skeletons of Doom's attributes depend almost entirely on the Summoning and Necromancy skills.#
+Skeletons of Doom's attributes depend almost entirely on Summoning and Necromancy Power.#
 
 377. Enchanted Grove
 #Circle 4.
 School: Natural Magic.
 Summons three Huorns in an adjacent tile.
-Summoning range and the Huorns' attributes depend on the caster's Summoning skill.#
+Summoning range and Enchanted Grove's attributes depend on caster's Summoning Power.#
 
 378. Summon Rat Swarm
 #Circle 3.
 School: Natural Magic.
 Summons six Giant Rats to an adjacent tile.
-Summoning range and the Rats' attributes depend heavily on the caster's Summoning ability.#
+Summoning range and Rats' attributes depend heavily on caster's Summoning Power.#
 
 379. Summon Eagle
 #Circle 2.
 School: Natural Magic.
 Summons a Giant Eagle to an adjacent tile.
-Summoning range and the Eagle's attributes depend heavily on the caster's Summoning ability.#
+Summoning range and Eagle's attributes depend heavily on caster's Summoning Power.#
 
 380. Forest Protection
 #Circle 1.
@@ -2594,15 +2602,17 @@ Only works on Mortals.#
 384. Spiritual Link
 #Circle 2.
 School: Astral Magic.
-When a unit is under this spell's effect, the Stamina cost of spellcasting is evenly distributed between him and all spellcasters that have established a Spiritual Link with him. Lasts 4 turns.
+When a unit is under this spell's effect, the Stamina cost of spellcasting is evenly distributed between him and all spellcasters that have established a Spiritual Link with him.
+When the caster rests, the unit will also recover some Stamina.
+Lasts 4 turns.
 Duration increases with the caster's Concentration.
 Only works on Mortals. Cannot be cast on the caster himself.#
 
 385. Life Bond
 #Circle 2.
 School: Natural Magic.
-When the target takes non-lethal damage, some of it is absorbed by the caster. Transfers 1 HP, the damage cannot kill the caster himself. Effect increases with the caster's Spellpower.
-Lasts 4 turns. May be dispelled by an allied spellcaster.
+When the target takes non-lethal damage, some of it is absorbed by the caster. Transfers 1 HP, the damage cannot kill the caster himself. Effect increases with the caster's Spellpower. When healed by First Aid, the unit will recover some Health.
+Lasts 4 turns.
 Only works on Mortals. Cannot be cast on the caster himself.#
 
 386. Soul Sipping
@@ -2616,16 +2626,16 @@ Has no effect on the Undead, Mechanical units, and Elementals.#
 #Circle 1.
 School: Elemental Magic.
 Summons a Quasit, a weak Earth elemental, to a tile next to the caster.
-Summoning range and the Quasit's attributes depend heavily on the caster's Summoning ability.#
+Summoning range and Quasit's attributes depend on caster's Summoning Power.#
 
 388. Summon Ifrit
 #Circle 1.
 School: Elemental Magic.
 Summons an Ifrit, a weak Fire elemental, to a tile next to the caster.
-Summoning range and the Ifrit's attributes depend on the caster's Summoning skill.#
+Summoning range and Ifrit's attributes significantly depend on caster's Summoning Power.#
 
 389. Summon Naiad
 #Circle 1.
 School: Elemental Magic.
 Summons a Naiad, a weak Water elemental, to a tile next to the caster.
-Summoning range and the Naiad's attributes depend heavily on the caster's Summoning ability.#
+Summoning range and Naiad's attributes depend significantly on caster's Summoning Power.#

@@ -21,7 +21,7 @@ You need to collect 300 gold pieces by plundering your own provinces.#
 4. Revenge on the Ogres
 #Revenge on the Ogres.
 A Centaur from %s province gave your hero the following quest:
-You need to kill 5 Ogres. To complete this quest, you can also kill Cyclops, Giants, and Orcish Chieftains.#
+You need to kill two Ogres. To complete this quest, you can also kill Cyclops, Giants, and Orcish Chieftains.#
 
 5. Troubles with Robbers
 #Troubles with Robbers.

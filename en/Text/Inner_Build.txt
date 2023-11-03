@@ -870,7 +870,7 @@ Income from plains provinces +1.#
 Allows to perform the ritual of Trade Fair.#
 
 206. Centaur Tents
-#Allows the recruitment of Young Centaurs.#
+#Allows recruiting Young Centaurs - Wind Seekers.#
 
 207. Sacred Flame
 #Increases gem income by 3.#
@@ -938,20 +938,21 @@ Allows building a Bakery in plains provinces.#
 
 226. Halfling Post
 #Allows recruiting Rogues.
-Allows to perform the ritual of Harvest Festival.#
+Allows to perform the ritual of Harvest Festival.
+Allows recruiting Border Sentinels via hiring scrolls (one recruitment contract will appear in the store).#
 
 227. Great Forge
 #Income +10. Allows hiring the Mechanicals guard.
 Allows upgrading in provinces a Mine to a Dwarven Mine. Allows upgrading in provinces a Crystal Pit to a Crystal Mine.#
 
 228. Centaur Camp
-#Allows recruiting Centaurs and Centaur Warriors.#
+#Allows recruiting Wind Runners and Wind Eclipsers.#
 
 229. Sacred Flame 
 #Allows recruiting Spirit Talkers.#
 
 230. Centaur Stables
-#Allows recruiting Centaur Chiefs. Allows you to hire Tribe of Centaurs guards.#
+#Allows recruiting Wind Roars. Allows you to hire Tribe of Centaurs guards.#
 
 231. Eternal Spring 
 #Allows recruiting Bog Champions.#
@@ -1172,13 +1173,13 @@ Lowers the population mood in the capital by 1.#
 
 285. Nature's Cloister
 #Type: Teaches spells of the first circle.
-Allows heroes to learn the spells Recovery, Summon Wasp Swarm, Enchanted Fang, and Summon Wolf.
+Allows heroes to learn the spells Recovery, Summon Wasp Swarm, Poison Claw, and Enchanted Fang.
 Allows to perform the ritual of Miracle of Nature.
 The castle cannot have more than 4 buildings of this type.#
 
 286. Leafy Tower
 #Type: Teaches spells of the second circle.
-Allows heroes to learn the spells Poison Claw, Hunter's Vine, Natural Weapon, and Summon Eagle.
+Allows heroes to learn the spells Hunter's Vine, Natural Weapon, Summon Wolves, and Summon Eagle.
 Allows to perform the ritual of Summon Nature.
 The castle cannot have more than 3 buildings of this type.#
 

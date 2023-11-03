@@ -392,7 +392,7 @@ Decreases population growth.#
 Population growth -1.#
 
 124. Drow Town
-#This is the place the  dark elves call home. The Drow will not allow anyone to plunder their home and they're ever vigilant and ready to defend it.#
+#This is the place the dark elves call home. The Drow will not allow anyone to plunder their home and they're ever vigilant and ready to defend it.#
 
 125. Idol
 #Some deity is worshiped here, and not the benevolent kind - regular sacrifices can be observed, from a safe distance of course.

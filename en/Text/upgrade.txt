@@ -808,7 +808,7 @@ Teach a unit to cast the "Quen" sign that increases armor and resistance.#
 #The unit is taught to cast the "True Resurrection" spell, with which you can resurrect fallen friendly units.#
 
 /269 Sanctuary Spell
-#The unit can cast the "Sanctuary" spell, which increases Attack and Defense attributes by 2, and reduces damage from Undead and Demons by 50~. The spell has no effect on undead and demons.#
+#Teach unit to cast the "Sanctuary" spell, which increases Attack and Defense of allies within a radius of 1 tile by 2, and reduces Damage from Undead and Demons by 50~. The spell has no effect on undead and demons.#
 
 /270 Divine Warp Spell
 #The unit is taught to cast "Divine Warp" spell, moving the target unit on free tile. Works only on friendly units. The spell has no effect on undead and demons.#
@@ -1456,8 +1456,8 @@ Unit HP -8.#
 /471 Reload Spell
 #The unit is taught to cast "Reload" spell, restoring 1 ammo to friendly mechanical unit.#
 
-/472 Summon Wolf Spell
-#The unit is taught to cast "Summon Wolf" spell, summoning wolf to summoner's adjacent tile.#
+/472 Summon Wolves Spell
+#Teach unit to cast "Summon Wolves", which summons two wolves plus one per unit rank on tiles adjacent to the unit.#
 
 /473 Summon Dire Bear Spell
 #The unit is taught to cast "Summon Dire Bear" spell, summoning dire bear to summoner's adjacent tile.#
@@ -1630,7 +1630,7 @@ Bloodsucker +10.#
 #Increase the power of summoned units by 4 (Undead just by 1).#
 
 /527 Armor of Faith
-#Reduces damage from Undead and Demons by 50~.#
+#Reduces damage from Undead and Demons by 25~.#
 
 /528 Stomp
 #When attacking an enemy in melee, the unit can trample it down if enemy has 20 or fewer hit points left after the attack. Having made the kill, the unit moves to the tile previously occupied by the enemy.#
@@ -1741,7 +1741,7 @@ Bloodsucker +10.#
 #The unit is taught to cast the "Summon Fiend Lord" spell, summoning a Fiend Lord to a tile adjacent to the summoner.#
 
 /564 Summon Cerberus Spell
-#The unit is taught to cast the "Summon Cerberus" spell, summoning a  Cerberus to a tile adjacent to the summoner.#
+#The unit is taught to cast the "Summon Cerberus" spell, summoning a Cerberus to a tile adjacent to the summoner.#
 
 /565 Summon Succubus Spell
 #The unit is taught to cast the "Summon Succubus" spell, summoning a Succubus to a tile adjacent to the summoner.#
@@ -2035,7 +2035,7 @@ Bloodsucker +10.#
 #Increases the number of hit points healed by the unit.#
 
 /662 Stone Statue Spell
-#Teaches a Gargoyle to cast the "Stone Statue" spell on itself, turning it into a regular stone statue capable of restoring health. In this state its armor and resistance are increased.#
+#Teach unit to cast "Stone Statue" on itself, to turn into an immobile stone statue to recuperate health. In this state its armor and resistance are increased.#
 
 /663 Lord of the Undead
 #Teaches the Lord of Darkness to raise warriors from the corpses of defeated enemies.#
@@ -2197,7 +2197,7 @@ Bloodsucker +10.#
 #The unit can switch to siege mode, increasing its ranged attack by 3 and range by 1.#
 
 /716 Siege Mode
-#The unit can switch to siege mode, increasing its ranged attack by 8 and range by 2. In this attack the unit will inflict permanent damage to the area.#
+#The unit can switch to siege mode, increasing its ranged attack by 10 and range by 2. In this attack the unit will inflict permanent damage to the area.#
 
 /717 Skillful Healer
 #The unit is taught to reduce the duration of poisoning and bleeding by 1 turn.#
@@ -2392,10 +2392,10 @@ Bloodsucker +10.#
 #Increase the maximum firing range.#
 
 /781 Path of Life
-#By chosing the Path of Life, unit will immediately have their health increase by 3.#
+#By choosing the Path of Life, unit will instantly increase Health by 4 and First Aid by 2.#
 
 /782 Path of Tenacity
-#By choosing the Path of Tenacity, unit will increase Defense and Ranged Defense by 2.#
+#By choosing the Path of Tenacity, unit will instantly increase Defense, Ranged Defense, and Regeneration by 2.#
 
 /783 Path of the Warrior
 #By choosing the Path of the Warrior, Pathfinder will increase Ranged Attack by 1, and Precise Shot by 2.#
@@ -2552,3 +2552,51 @@ Bloodsucker +10.#
 
 /834 Lord of Demons
 #Henceforth, all Demons raised by the unit will be his level or higher.#
+
+/835 Resistance to Fear
+#From now on, unit is resistant to fear. They do not lose more than one point of Morale from abilities that reduce Morale.#
+
+/836 Entangling Shot
+#Teach unit to use an Entangling Shot at a distance of two tiles (by shooting at an enemy, the unit entangles them with roots, preventing them from moving for 2 turns).#
+
+/837 Range
+#Increase the maximum firing range.#
+
+/838 Explosive Weapon
+#Teach unit to deal 50~ splash damage to all creatures around the target in a ranged attack.#
+
+/839 Summon Naiad Spell
+#Teach unit to cast the "Summon Naiad" spell, which summons a Naiad, a minor water spirit, to an adjacent tile.#
+
+/840 Hunter of Undead 1
+#The unit is taught to inflict additional damage to the undead.#
+
+/841 Hunter of Demons 1
+#The unit is taught to inflict additional damage to demons.#
+
+/842 Wolf Pack
+##
+
+/843 Ranged Support
+##
+
+/844 Strength in Unity
+##
+
+/845 Improved Support
+#Teach unit to spend less Stamina during Ranged Support.#
+
+/846 Tribe Power
+#Unit improves Attack and Counterattack of adjacent allies by 1.#
+
+/847 Tribe Resilience
+#Unit improves Defense and Ranged Defense of adjacent allies by 1.#
+
+/848 Tribe Wisdom
+#Unit improves Resistance of adjacent allies by 1.#
+
+/849 Tribe Marksmanship
+#Unit improves Ranged Attack of adjacent allies by 1.#
+
+/850 Tribe Might
+#Unit improves Attack, Ranged Attack, Defense, Ranged Defense of adjacent allies by 1.#

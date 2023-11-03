@@ -813,7 +813,7 @@ Ammo units consumed by casting: %d.#
 Ammo units consumed by casting: %d.#
 
 /215 Sanctuary Spell
-#The unit can cast the "Sanctuary" spell, which increases Attack and Defense attributes by 2, and reduces damage from Undead and Demons by 50~.
+#Unit can cast the "Sanctuary" spell, which increases Attack and Defense of allies within a radius of 1 tile by 2, and reduces Damage from Undead and Demons by 50~.
 Does not affect the undead and demons.
 Ammo units consumed by casting: %d.#
 
@@ -1322,7 +1322,7 @@ In this mode the unit cannot move or fight, but his ranged attack is increased b
 
 /345 Siege Mode
 #This unit can switch to siege mode.
-In this mode the unit cannot move or fight, but his ranged attack is increased by 8 and his range by 2. In this attack the unit inflicts permanent damage to the area.#
+In this mode the unit cannot move or fight, but his ranged attack is increased by 10, and his range by 2. In this attack the unit inflicts permanent damage to the area.#
 
 /346 Siege Mode
 #This unit can switch to siege mode.
@@ -1447,8 +1447,8 @@ Ammo units consumed by casting: %d.#
 #This unit can cast the Reload spell, restoring a friendly mechanical unit with 1 ammo.
 Ammo units consumed by casting: %d.#
 
-/378 Summon Wolf Spell
-#This unit can cast the Summon Wolf spell, summoning a wolf to an adjacent tile.
+/378 Summon Wolves Spell
+#Unit can cast "Summon Wolves", which summons two wolves plus one per unit rank on tiles adjacent to the unit.
 Ammo units consumed by casting: %d.#
 
 /379 Summon Dire Bear Spell
@@ -1794,7 +1794,7 @@ Ranged attacks reduce the enemy's Resistance by 1 - no effect on mechanical unit
 #The hero's Diplomacy skill is considered %d points higher.#
 
 /470 Stone Statue Spell
-#A Gargoyle can cast the Stone Statue spell on itself, turning it into a regular stone statue capable of restoring health for 3 turns. In this state its armor and resistance are increased by 3.#
+#Unit can cast the Stone Statue spell on itself, turning into a regular stone statue capable of restoring health for 3 turns. In this state its armor and resistance are increased by 3.#
 
 /471 Raise Skeleton of Doom Spell
 #This unit can cast the Raise Skeleton of Doom spell, creating a Skeleton of Doom from a slain enemy's corpse.
@@ -1945,7 +1945,8 @@ Nearby allies receive Regeneration 3 and Surge of Strength 2, as long as they re
 
 /510 Armor of Faith
 #Damage dealt by Undead and Demons is reduced by %d~. Bonuses for Armor of Faith and Heavenly Armor (if any) stack.
-Armor of Faith only works when a unit's Morale is above 10.#
+Armor of Faith only works when a unit's Morale is above 10. Each time it triggers, Morale is reduced based on the attacker's power, but also, triggering it prevents the effects of other types of Intimidation.
+With Ranged Dfefense, Morale decreases less.#
 
 /511 Panic
 #Stamina consumption: %d.
@@ -1958,7 +1959,7 @@ The unit can, at the cost of extra stamina, retreat faster towards its edge of t
 #Creatures caught in a Snare lose 5 stamina, and cannot deal any damage until the next turn.#
 
 /514 Hornet's Nest
-#Any living creature careless enough to poke a Hornet's Nest will have to face the spiteful insects. Unit loses 3 HP and 1 Stamina each turn, and suffers from Itch.#
+#Any living creature careless enough to poke a Hornet's Nest will have to face the spiteful insects. Unit loses 4 HP and 2 Stamina each turn, and suffers from Itch.#
 
 /515 Itch
 #As long as a living creature itches, it does not receive the benefits of Rest and Self-control. The following abilities are disabled: Recuperation, First Aid, Meditation, Self-control.#
@@ -2064,10 +2065,10 @@ Ammo units consumed by casting: %d.#
 #Unit chose the Path of the Stars, and can use his strngth to create powerful spells. In the future, unit will be able to study other spells.#
 
 /543 Path of Life
-#Unit chose the Path of Life. Health is increased by 3.#
+#Unit chose the Path of Life. Health is increased by 4, First Aid by 2.#
 
 /544 Path of Tenacity
-#Unit chose the Path of Tenacity. Defense and Ranged Defense increased by 2.#
+#Unit chose the Path of Tenacity. Defense, Ranged Defense, and Recuperation are increased by 2.#
 
 /545 Path of the Warrior
 #Pathfinder chose Path of the Warrior. Ranged Attack is increased by 1, Precise Shot by 2.#
@@ -2080,10 +2081,12 @@ Ammo units consumed by casting: %d.#
 
 /548 Spiritual Link Spell
 #Unit can cast the Spiritual Link spell, which allows sharing the Stamina cost of spells cast by the enchanted creature.
+Additionally, resting the caster using Recuperation, and being the target of spells that restore Stamina, will also apply to the enchanted unit.
 Ammo units consumed by casting: %d.#
 
 /549 Life Bond Spell
 #Unit can cast the Life Bond spell, which allows sharing the damage between the caster and the enchanted creature.
+Additionally, resting the caster using First Aid, and being the target of spells that restore Health, will also apply to the enchanted unit.
 Ammo units consumed by casting: %d.#
 
 /550 Decreased Upkeep
@@ -2114,10 +2117,13 @@ by %d~.#
 
 /558 Heavenly Armor
 #Damage dealt to unit by creatures with negative karma is reduced by 10-30~ (depending on their karma) Bonuses for Heavenly Armor and Armor of Faith (if any) stack.
-Heavenly Armor only works when a unit's Morale is above 10.#
+Heavenly Armor only works when a unit's Morale is above 10. Each time it triggers, Morale is reduced based on the attacker's power, but also, triggering it prevents the effects of other types of Intimidation.
+With Ranged Dfefense, Morale decreases less.#
 
 /559 Cursed Armor
-#Damage dealt to unit by creatures with positive karma is reduced by 10-30~ (depending on their karma)#
+#Damage dealt to unit by creatures with positive karma is reduced by 10-30~ (depending on their karma)
+Cursed Armor only works when unit's Morale is above 10. Each time it triggers, Morale is reduced based on the attacker's power, but also, triggering it prevents the effects of other types of Intimidation.
+With Ranged Dfefense, Morale decreases less.#
 
 /560 Commander
 #With this unit alive, all allies on the battlefield receive +%d to all types of Attack and Defense.#
@@ -2191,3 +2197,41 @@ Ammo units consumed by casting: %d.#
 
 /581 Lord of Demons
 #Unit has power over Chaos itself. All Demons raised by the unit are his level or higher.#
+
+/582 Resistance to Fear
+#Unit is resistant to fear. They do not lose more than one point of Morale from abilities that reduce Morale.#
+
+/583 Summon Naiad
+#Unit can cast the "Summon Naiad" spell, which summons a Naiad, a minor water spirit, to an adjacent tile.
+Ammo units consumed by casting: %d.#
+
+/584 Wolf Pack
+#Wolves attack as a pack, when given the opportunity. After a wolf has attacked and survived, wolves adjacent to it and its target, which have already completed their turn, also attack. This attack does not consume Stamina.#
+
+/585 Ranged Support
+#After a Centaur has shot, all adjacent Centaurs able to shoot who have already completed their turn, also fire an arrow at the target, if range and ammo allows, at the cost of two points of Stamina.
+Unit expends two points of Stamina during Ranged Support.#
+
+/586 Strength in Unity
+#After a Centaur has attacked and survived, other Centaurs are inspired to immediately attack the target. Centaurs must be adjacent to the unit and its target, be able to attack, and must have completed their turn by this point.
+This attack consumes one Stamina point.#
+
+/587 Ranged Support
+#After a Centaur has shot, all adjacent Centaurs able to shoot who have already completed their turn, also fire an arrow at the target, if range and ammo allows, at the cost of two points of Stamina.
+Unit expends one point of Stamina during Ranged Support.#
+
+/588 Tribe Power
+#Unit improves Attack and Counterattack of adjacent allies by %d.
+Bonuses from multiple similar buffs from different allies do not stack.#
+
+/589 Tribe Resilience
+#Unit improves Defense and Ranged Defense of adjacent allies by %d.
+Bonuses from multiple similar buffs from different allies do not stack.#
+
+/590 Tribe Marksmanship
+#Unit improves Ranged Attack of adjacent allies by %d.
+Bonuses from multiple similar buffs from different allies do not stack.#
+
+/591 Tribe Might
+#Unit improves Attack, Ranged Attack, Defense, Ranged Defense of adjacent allies by %d.
+Bonuses from multiple similar buffs from different allies do not stack.#

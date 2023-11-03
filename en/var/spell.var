@@ -570,7 +570,7 @@ Duration: -1;
 
 /15
 Name: Raise Zombie;
-Cost: 8
+Cost: 6
 LifeCost: 0
 StamCost: 2
 ItemLevel: 2
@@ -2082,7 +2082,7 @@ Duration: 1;
 
 /55
 Name: Raise Ghost;
-Cost: 40
+Cost: 45
 LifeCost: 0
 StamCost: 5
 ItemLevel: 4
@@ -2440,7 +2440,7 @@ LifeCost: 0
 StamCost: 7
 ItemLevel: 4
 Level: 4
-PowerMod: 500
+PowerMod: 400
 DurationMod: 0
 Target: 0
 Area: 2
@@ -2452,7 +2452,7 @@ Negative: 1
 OnEnemy: 1
 OnAlly: 1
 Sacrifice: 0
-ResistPower: 100
+ResistPower: 250
 ResistDuration: 0
 DefencePower: 0
 RestoreOnly: 0
@@ -2477,7 +2477,7 @@ LifeCost: 0
 StamCost: 5
 ItemLevel: 4
 Level: 4
-PowerMod: 400
+PowerMod: 450
 DurationMod: 0
 Target: 1
 Area: 1
@@ -2581,7 +2581,7 @@ Duration: -1;
 Name: Black Magic;
 Cost: 70
 LifeCost: 10
-StamCost: 6
+StamCost: 5
 ItemLevel: 5
 Level: 4
 PowerMod: 200
@@ -2596,7 +2596,7 @@ Negative: 1
 OnEnemy: 1
 OnAlly: 0
 Sacrifice: 1
-ResistPower: 100
+ResistPower: 50
 ResistDuration: 0
 DefencePower: 0
 RestoreOnly: 0
@@ -2708,7 +2708,7 @@ StamCost: 7
 ItemLevel: 5
 Level: 4
 PowerMod: 0
-DurationMod: 50
+DurationMod: 100
 Target: 1
 Area: 1
 Radius: 0
@@ -3181,6 +3181,10 @@ UnitKind: (0)
 AntiEffect: (19, 104)
 
 Effects:
+UnMagicFear: 114
+FlagEffect: 1
+FlagEffect: 1
+
 Morale: 12
 Power: 3
 Duration: -1;
@@ -4596,7 +4600,11 @@ AntiEffect: (0)
 Effects:
 Summon: 1118
 Power: 0
-Duration: -1;
+Duration: -1
+
+NoCastOnSelf: 149
+Power: 1
+Duration: 2;
 
 /121
 Name: Glacial Heart;
@@ -4827,7 +4835,7 @@ LifeCost: 0
 StamCost: 2
 ItemLevel: 8
 Level: 5
-PowerMod: 100
+PowerMod: 200
 DurationMod: 0
 Target: 1
 Area: 1
@@ -4841,7 +4849,7 @@ OnAlly: 0
 Sacrifice: 0
 ResistPower: 0
 ResistDuration: 0
-DefencePower: 100
+DefencePower: 50
 RestoreOnly: 0
 Cumulative: 0
 Sound: 133
@@ -5052,14 +5060,14 @@ Cost: 8
 LifeCost: 0
 StamCost: 2
 ItemLevel: 2
-Level: 2
+Level: 1
 PowerMod: 0
 DurationMod: 100
 Target: 1
 Area: 1
 Radius: 0
 Karma: 0
-Building: 286
+Building: 285
 Unloot: 0
 Negative: 0
 OnEnemy: 0
@@ -5076,7 +5084,7 @@ AntiEffect: (0)
 
 Effects:
 Poison_Strike: 41
-Power: 5
+Power: 3
 Duration: 4;
 
 /134
@@ -5212,11 +5220,11 @@ AntiEffect: (0)
 
 Effects:
 Poison: 1
-Power: -3
+Power: -4
 Duration: 3
 
 Stamina: 11
-Power: -1
+Power: -2
 Duration: 3
 
 PoisonAnim: 241
@@ -5606,9 +5614,9 @@ ItemLevel: 4
 Level: 3
 PowerMod: 0
 DurationMod: 100
-Target: 1
+Target: 3
 Area: 1
-Radius: 0
+Radius: 1
 Karma: 0
 Building: 0
 Unloot: 0
@@ -5727,7 +5735,7 @@ Duration: 4;
 /151
 Name: Holy Word;
 Cost: 65
-LifeCost: 10
+LifeCost: 5
 StamCost: 7
 ItemLevel: 5
 Level: 4
@@ -5776,7 +5784,7 @@ Negative: 1
 OnEnemy: 1
 OnAlly: 1
 Sacrifice: 0
-ResistPower: 100
+ResistPower: 50
 ResistDuration: 0
 DefencePower: 0
 RestoreOnly: 0
@@ -5853,7 +5861,7 @@ AntiEffect: (0)
 
 Effects:
 Summon: 1150
-Power: 0
+Power: 8
 Duration: -1;
 
 /155
@@ -6368,7 +6376,11 @@ AntiEffect: (0)
 Effects:
 Summon: 1153
 Power: 0
-Duration: -1;
+Duration: -1
+
+NoCastOnSelf: 149
+Power: 1
+Duration: 2;
 
 /169
 Name: Summon Earth Elemental;
@@ -6401,7 +6413,11 @@ AntiEffect: (0)
 Effects:
 Summon: 1154
 Power: 0
-Duration: -1;
+Duration: -1
+
+NoCastOnSelf: 149
+Power: 1
+Duration: 2;
 
 /170
 Name: Summon Fire Elemental;
@@ -6434,7 +6450,11 @@ AntiEffect: (0)
 Effects:
 Summon: 1155
 Power: 0
-Duration: -1;
+Duration: -1
+
+NoCastOnSelf: 149
+Power: 1
+Duration: 2;
 
 /171
 Name: Summon Living Armor;
@@ -6467,11 +6487,15 @@ AntiEffect: (0)
 Effects:
 Summon: 1159
 Power: 0
-Duration: -1;
+Duration: -1
+
+NoCastOnSelf: 149
+Power: 1
+Duration: 2;
 
 /172
 Name: Summon Lord of Abyss;
-Cost: 50
+Cost: 55
 LifeCost: 15
 StamCost: 4
 ItemLevel: 4
@@ -7666,7 +7690,7 @@ Duration: -1;
 
 /203
 Name: Raise Reaper;
-Cost: 18
+Cost: 12
 LifeCost: 0
 StamCost: 5
 ItemLevel: 4
@@ -7699,7 +7723,7 @@ Duration: -1;
 
 /204
 Name: Raise Mummy;
-Cost: 24
+Cost: 18
 LifeCost: 0
 StamCost: 5
 ItemLevel: 4
@@ -7732,7 +7756,7 @@ Duration: -1;
 
 /205
 Name: Raise Cadaver;
-Cost: 36
+Cost: 30
 LifeCost: 0
 StamCost: 6
 ItemLevel: 5
@@ -8486,7 +8510,7 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 21
-UnitKind: (21)
+UnitKind: (0)
 AntiEffect: (110, 80)
 
 Effects:
@@ -9016,7 +9040,11 @@ AntiEffect: (0)
 Effects:
 Summon: 1097
 Power: 0
-Duration: -1;
+Duration: -1
+
+NoCastOnSelf: 149
+Power: 1
+Duration: 3;
 
 /237
 Name: Chaos Distortion;
@@ -10116,8 +10144,8 @@ Name: Elemental Immunity;
 Cost: 45
 LifeCost: 0
 StamCost: 5
-ItemLevel: 5
-Level: 4
+ItemLevel: 3
+Level: 3
 PowerMod: 0
 DurationMod: 100
 Target: 0
@@ -10193,15 +10221,15 @@ UnitKind: (2, 4, 22, 23)
 AntiEffect: (110, 104)
 
 Effects:
-RangedAttack: 8
-Power: -100
-Duration: 3
-
 DontFight: 38
 Power: 1
 Duration: 3
 
 NoCast: 150
+Power: 1
+Duration: 3
+
+NoRangedAttack: 151
 Power: 1
 Duration: 3;
 
@@ -10449,19 +10477,19 @@ Power: 1
 Duration: -1;
 
 /275
-Name: Summon Wolf;
+Name: Summon Wolves;
 Cost: 4
 LifeCost: 0
 StamCost: 1
 ItemLevel: 2
-Level: 1
-PowerMod: 250
+Level: 2
+PowerMod: 25
 DurationMod: 0
 Target: 5
 Area: 1
 Radius: 0
 Karma: 0
-Building: 285
+Building: 286
 Unloot: 0
 Negative: 0
 OnEnemy: 0
@@ -10477,12 +10505,16 @@ UnitKind: (0)
 AntiEffect: (0)
 
 Effects:
+Summon: 253
+Power: 1
+Duration: -1
+
 Summon: 1083
-Power: 3
+Power: 4
 Duration: -1;
 
 /276
-Name: Summon Dire Bear;
+Name: Summon Dire Bears;
 Cost: 35
 LifeCost: 0
 StamCost: 5
@@ -10510,8 +10542,12 @@ UnitKind: (0)
 AntiEffect: (0)
 
 Effects:
+Summon: 251
+Power: 1
+Duration: -1
+
 Summon: 1210
-Power: 0
+Power: 10
 Duration: -1;
 
 /277
@@ -10816,12 +10852,12 @@ Duration: -1;
 
 /285
 Name: Summon Mephit;
-Cost: 5
+Cost: 4
 LifeCost: 0
 StamCost: 1
 ItemLevel: 2
 Level: 1
-PowerMod: 200
+PowerMod: 250
 DurationMod: 0
 Target: 5
 Area: 1
@@ -14950,12 +14986,12 @@ Duration: -1;
 
 /387
 Name: Summon Quasit;
-Cost: 7
+Cost: 8
 LifeCost: 0
 StamCost: 2
 ItemLevel: 2
 Level: 1
-PowerMod: 150
+PowerMod: 100
 DurationMod: 0
 Target: 5
 Area: 1
@@ -14983,12 +15019,12 @@ Duration: -1;
 
 /388
 Name: Summon Ifrit;
-Cost: 8
+Cost: 7
 LifeCost: 0
 StamCost: 2
 ItemLevel: 2
 Level: 1
-PowerMod: 100
+PowerMod: 200
 DurationMod: 0
 Target: 5
 Area: 1
@@ -15021,7 +15057,7 @@ LifeCost: 0
 StamCost: 1
 ItemLevel: 1
 Level: 1
-PowerMod: 200
+PowerMod: 150
 DurationMod: 0
 Target: 5
 Area: 1

@@ -1,4 +1,4 @@
-Quantity: 165
+Quantity: 166
 
 /0
 Name: Empty;
@@ -1493,3 +1493,12 @@ Guard0: 492
 Guard1: 493
 Guard2: 494
 Guard3: 495
+
+/166
+Name: Centaur Assassins;
+Power: 8
+Karma: -2
+Guard0: 496
+Guard1: 496
+Guard2: 497
+Guard3: 497

@@ -1,4 +1,4 @@
-Quantity: 834
+Quantity: 850
 
 /0
 Name: Empty;
@@ -1597,7 +1597,7 @@ Name: Weakness;
 Only Once: 1
 Need: (0)
 Upg Type: 2113
-Quantity: 3;
+Quantity: 2;
 
 /216
 Name: Armor Break;
@@ -1625,14 +1625,14 @@ Name: Power Word - Curse;
 Only Once: 1
 Need: (0)
 Upg Type: 2117
-Quantity: 4;
+Quantity: 3;
 
 /220
 Name: Power Word - Hold;
 Only Once: 1
 Need: (0)
 Upg Type: 2118
-Quantity: 4;
+Quantity: 3;
 
 /221
 Name: Power Word - Pain;
@@ -1783,7 +1783,7 @@ Name: Armor Piercing Shot;
 Only Once: 1
 Need: (0)
 Upg Type: 2124
-Quantity: 2;
+Quantity: 1;
 
 /240
 Name: Thick Fog;
@@ -1804,7 +1804,7 @@ Name: Enchanted Arrow;
 Only Once: 1
 Need: (0)
 Upg Type: 2127
-Quantity: 3;
+Quantity: 2;
 
 /243
 Name: Ancestral Rage;
@@ -2543,13 +2543,16 @@ Upg Type: 2308
 Quantity: 2
 
 Upg Type: 57
-Quantity: 8
+Quantity: 10
 
-Upg Type: 907
-Quantity: 2
+Upg Type: 274
+Quantity: 1
 
 Upg Type: 121
-Quantity: 2;
+Quantity: 2
+
+Upg Type: 283
+Quantity: 1;
 
 /328
 Name: Elementalist Tome;
@@ -3881,11 +3884,11 @@ Upg Type: 2274
 Quantity: 2;
 
 /472
-Name: Summon Wolf;
+Name: Summon Wolves;
 Only Once: 1
 Need: (0)
 Upg Type: 2275
-Quantity: 1;
+Quantity: 2;
 
 /473
 Name: Summon Dire Bear;
@@ -4402,7 +4405,7 @@ Upg Type: 22
 Quantity: 2
 
 Upg Type: 64
-Quantity: 19
+Quantity: 216
 
 Upg Type: 95
 Quantity: 6;
@@ -4781,6 +4784,9 @@ Only Once: 1
 Need: (0)
 Upg Type: 189
 Quantity: 313
+
+Upg Type: 291
+Quantity: 1
 
 Upg Type: 301
 Quantity: 1;
@@ -5349,14 +5355,14 @@ Quantity: 6;
 Name: Maleficar Tome;
 Only Once: 1
 Need: (0)
-Upg Type: 2015
+Upg Type: 2204
 Quantity: 2
 
-Upg Type: 2028
-Quantity: 3
+Upg Type: 2205
+Quantity: 4
 
 Upg Type: 2056
-Quantity: 4
+Quantity: 3
 
 Upg Type: 2081
 Quantity: 1
@@ -5601,7 +5607,7 @@ Name: Summon Slave;
 Only Once: 1
 Need: (0)
 Upg Type: 2340
-Quantity: 2;
+Quantity: 3;
 
 /668
 Name: Vulnerability to a spell;
@@ -6016,7 +6022,7 @@ Upg Type: 170
 Quantity: 1
 
 Upg Type: 171
-Quantity: 8
+Quantity: 10
 
 Upg Type: 172
 Quantity: 2
@@ -6636,7 +6642,10 @@ Name: Path of Life;
 Only Once: 1
 Need: (0)
 Upg Type: 1
-Quantity: 3
+Quantity: 4
+
+Upg Type: 35
+Quantity: 2
 
 Upg Type: 369
 Quantity: 1;
@@ -6649,6 +6658,9 @@ Upg Type: 4
 Quantity: 2
 
 Upg Type: 5
+Quantity: 2
+
+Upg Type: 21
 Quantity: 2
 
 Upg Type: 370
@@ -7067,4 +7079,167 @@ Name: Lord of Demons;
 Only Once: 1
 Need: (0)
 Upg Type: 274
+Quantity: 1;
+
+/835
+Name: Resistance to Fear;
+Only Once: 1
+Need: (0)
+Upg Type: 281
+Quantity: 1;
+
+/836
+Name: Entangling Shot;
+Only Once: 1
+Need: (0)
+Upg Type: 8
+Quantity: 1
+
+Upg Type: 9
+Quantity: 2
+
+Upg Type: 10
+Quantity: 1
+
+Upg Type: 22
+Quantity: 1
+
+Upg Type: 158
+Quantity: 2;
+
+/837
+Name: Range +1;
+Only Once: 0
+Need: (158)
+Upg Type: 9
+Quantity: 1;
+
+/838
+Name: Explosive Weapon;
+Only Once: 1
+Need: (0)
+Upg Type: 147
+Quantity: 1;
+
+/839
+Name: Summon Naiad;
+Only Once: 1
+Need: (0)
+Upg Type: 2389
+Quantity: 2;
+
+/840
+Name: Hunter of Undead;
+Only Once: 0
+Need: (202)
+Upg Type: 202
+Quantity: 1;
+
+/841
+Name: Hunter of Demons;
+Only Once: 0
+Need: (203)
+Upg Type: 203
+Quantity: 1;
+
+/842
+Name: Wolf Pack;
+Only Once: 1
+Need: (0)
+Upg Type: 292
+Quantity: 480
+
+Upg Type: 380
+Quantity: 1;
+
+/843
+Name: Ranged Support;
+Only Once: 1
+Need: (0)
+Upg Type: 293
+Quantity: 12
+
+Upg Type: 390
+Quantity: 1;
+
+/844
+Name: Strength in Unity;
+Only Once: 1
+Need: (0)
+Upg Type: 292
+Quantity: 12
+
+Upg Type: 381
+Quantity: 1;
+
+/845
+Name: Improved Support;
+Only Once: 1
+Need: (390)
+Upg Type: 390
+Quantity: -1
+
+Upg Type: 391
+Quantity: 1;
+
+/846
+Name: Tribe Power;
+Only Once: 0
+Need: (0)
+Upg Type: 3002
+Quantity: 1
+
+Upg Type: 3003
+Quantity: 1
+
+Upg Type: 452
+Quantity: 1;
+
+/847
+Name: Tribe Resilience;
+Only Once: 0
+Need: (0)
+Upg Type: 3004
+Quantity: 1
+
+Upg Type: 3005
+Quantity: 1
+
+Upg Type: 454
+Quantity: 1;
+
+/848
+Name: Tribe Wisdom;
+Only Once: 0
+Need: (0)
+Upg Type: 3006
+Quantity: 1;
+
+/849
+Name: Tribe Marksmanship;
+Only Once: 0
+Need: (0)
+Upg Type: 3008
+Quantity: 1
+
+Upg Type: 458
+Quantity: 1;
+
+/850
+Name: Tribe Might;
+Only Once: 0
+Need: (0)
+Upg Type: 3002
+Quantity: 1
+
+Upg Type: 3004
+Quantity: 1
+
+Upg Type: 3005
+Quantity: 1
+
+Upg Type: 3008
+Quantity: 1
+
+Upg Type: 460
 Quantity: 1;

@@ -410,7 +410,7 @@ Mortals - the most common type. Typically, they can be healed, resurrected, sacr
 
 Animals - mortal creatures, which cannot earn medals, and are unaffected by some spells.
 
-Giants - creatures of huge proportions. They cannot be trampled, and are unaffected by some spells.
+Giants - creatures of huge proportions. They cannot be trampled, and are unaffected by some spells. Giants are unaffected by the effects of Fear.
 
 Cultists - mortal creatures, willingly serving Chaos. Most of the rules for Mortals apply to them as well.
 

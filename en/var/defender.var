@@ -1589,10 +1589,10 @@ Desert: 0
 Tundra: 0
 Resource: (2)
 Units:
-Unit1: 122, 13, 3
-Unit2: 34, 9, 2
-Unit3: 123, 10, 2
-Unit4: 124, 5, 1;
+Unit1: 122, 10, 3
+Unit2: 34, 7, 2
+Unit3: 123, 8, 2
+Unit4: 124, 3, 1;
 Loot:
 Item1: 2, 2
 Item2: 126, 1
@@ -1608,6 +1608,10 @@ Param2: 7
 
 Ability: 12
 Param1: 1
+Param2: 0
+
+Ability: 20
+Param1: -25
 Param2: 0;
 
 /42
@@ -3537,11 +3541,11 @@ Desert: 0
 Tundra: 0
 Resource: (1, 2)
 Units:
-Unit1: 122, 19, 5
-Unit2: 34, 14, 4
-Unit3: 123, 13, 3
-Unit4: 124, 9, 2
-Unit5: 125, 4, 1;
+Unit1: 122, 15, 5
+Unit2: 34, 11, 4
+Unit3: 123, 10, 3
+Unit4: 124, 6, 2
+Unit5: 125, 2, 1;
 Loot:
 Item1: 2, 2
 Item2: 126, 1
@@ -3557,6 +3561,10 @@ Param2: 7
 
 Ability: 12
 Param1: 1
+Param2: 0
+
+Ability: 20
+Param1: -50
 Param2: 0;
 
 /88
@@ -4315,4 +4323,8 @@ Param2: 0
 
 Ability: 12
 Param1: 1
+Param2: 0
+
+Ability: 20
+Param1: -25
 Param2: 0;

@@ -2,13 +2,13 @@
 # #
 
 /1 Logistics
-#Logistics is the ability to supply troops with provisions and to arrange the sieges efficiently.
+#Ability to supply troops with provisions, supplies, and medicine, and to efficiently plan sieges.
 
-Lvl 1: Gold Upkeep -10~, Gems -5~, Siege +10
+Lvl 1: Gold Upkeep -10~, Gems -5~, Unit Restoration +10~, Siege +10
 Lvl 2: Gold Upkeep -10~, Gems -5~, Siege +10
-Lvl 3: Gold Upkeep -10~, Gems -5~, Siege +10
-Lvl 4: Gold Upkeep -10~, Gems -5~, Siege +15
-Lvl 5: Gold Upkeep -10~, Gems -5~, Siege +15#
+Lvl 3: Gold Upkeep -10~, Gems -5~, Unit Restoration +10~, Siege +10
+Lvl 4: Gold Upkeep -10~, Gems -5~, Siege +10
+Lvl 5: Gold Upkeep -10~, Gems -5~, Unit Restoration +10~, Siege +10#
 
 /2 Discipline
 #The skill of discipline increases the units' vitality and raises their magic resistance.
@@ -56,7 +56,7 @@ Lvl 4: Init +1, Stamina +2
 Lvl 5: Init +1, Stamina +2, Mobility +1#
 
 /7 Leadership
-#The troops under a competent leader train faster in their skills, and possess higher morale, as well.
+#A skilled leader's troops have higher morale, and learn faster during battle (the more inexperienced the unit, the greater the experience gain).
 
 Lvl 1: Experience Gained +5~, Morale +2
 Lvl 2: Experience Gained +5~, Morale +1
@@ -85,11 +85,11 @@ Lvl 5: Defense +1, Ranged Defense +1#
 /10 Constitution
 #Constitution increases the hero's hit points and stamina.
 
-Lvl 1: Hit Points +2, Stamina +1
-Lvl 2: Hit Points +2, Stamina +1
-Lvl 3: Hit Points +3, Stamina +1, Regen +1
+Lvl 1: Hit Points +3, Stamina +2
+Lvl 2: Hit Points +3, Stamina +2
+Lvl 3: Hit Points +4, Stamina +2, Regeneration +1
 Lvl 4: Hit Points +4, Stamina +2
-Lvl 5: Hit Points +5, Stamina +2, Regen +1#
+Lvl 5: Hit Points +6, Stamina +2, Regeneration +1#
 
 /11 Willpower
 #Willpower increases the hero's morale and magic resistance.
@@ -121,11 +121,16 @@ Lvl 5: Precise Strike +2, Parry +2#
 /14 Blacksmithing
 #Blacksmithing slows down the degradation of the hero's equipment, and increases the gold income as well.
 
-Lvl 1: Item Wear -10~, Income +10
-Lvl 2: Item Wear -10~, Income +20
-Lvl 3: Item Wear -10~, Stunning Blow +1
-Lvl 4: Item Wear -10~, Income +30
-Lvl 5: Item Wear -10~, Stunning Blow +1#
+Lvl 1: Item Wear -10~,
+Income +10, Stunning Blow +1
+Lvl 2: Item Wear -10~,
+Income +20
+Lvl 3: Item Wear -10~,
+Income +20, Blacksmith +1
+Lvl 4: Item Wear -10~,
+Income +20, Stunning Blow +1
+Lvl 5: Item Wear -10~,
+Income +30, Blacksmith +1#
 
 /15 Magic Power
 #Magic Power increases the spellpower of the hero.

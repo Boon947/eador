@@ -1,4 +1,4 @@
-Quantity: 581
+Quantity: 591
 
 /0
 Name: Empty;
@@ -2647,7 +2647,7 @@ Effect: 0
 Percent: 0
 
 /378
-Name: Summon Wolf Spell;
+Name: Summon Wolves Spell;
 Number: 2275
 Numeric: 1
 Effect: 0
@@ -4071,5 +4071,75 @@ Percent: 0
 Name: Lord of Demons;
 Number: 274
 Numeric: 0
+Effect: 1
+Percent: 0
+
+/582
+Name: Resistance to Fear;
+Number: 281
+Numeric: 0
+Effect: 1
+Percent: 0
+
+/583
+Name: Summon Naiad Spell;
+Number: 2389
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/584
+Name: Wolf Pack;
+Number: 380
+Numeric: 0
+Effect: 1
+Percent: 0
+
+/585
+Name: Ranged Support;
+Number: 390
+Numeric: 0
+Effect: 1
+Percent: 0
+
+/586
+Name: Strength in Unity;
+Number: 381
+Numeric: 0
+Effect: 1
+Percent: 0
+
+/587
+Name: Ranged Support;
+Number: 391
+Numeric: 0
+Effect: 1
+Percent: 0
+
+/588
+Name: Tribe Power;
+Number: 452
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/589
+Name: Tribe Resilience;
+Number: 454
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/590
+Name: Tribe Marksmanship;
+Number: 458
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/591
+Name: Tribe Might;
+Number: 460
+Numeric: 1
 Effect: 1
 Percent: 0

@@ -128,7 +128,7 @@ The best warriors have a chance to be transferred to an elite squad.#
 The best warriors have a chance to be transferred to an elite squad.#
 
 31. Harpy
-#Harpies are known throughout Eador for their intolerable temper and a passion for glittery things. This winged folk lives in nests built on the slopes of steep cliffs and mountains. As a rule, harpies live in flocks, which helps them to fight off enemies together and carry out bold raids on neighboring villages in search for food and glittering trophies. Even during combat the harpies are unable to contain their passion for thieving. They are likely to steal arrows from the quiver of an archer who's left his guard down, or magical crystals from a sorcerer.#
+#Harpies are known throughout Eador for their intolerable temper and a passion for glittery things. This winged folk lives in nests built on the slopes of steep cliffs and mountains. As a rule, harpies live in flocks, which helps them to fight off enemies together and carry out bold raids on neighboring villages in search for food and glittering trophies. Even during combat the harpies are unable to contain their passion for thieving. They are likely to steal arrows from the quiver of an archer who's left his guard down, or magical crystals from a sorcerer. #
 
 32. Basilisk
 #Basilisks dwell in moist and shady places, around swamps and underground lakes. These huge lizards have the ability to petrify enemies with their stare. The basilisk's curse wears off quickly, but it gives this slow lizard just enough time to approach the victim and inflict some damage with its sharp, strong teeth. Word has it that the goblins have managed to tame basilisks. Certain human monstrologists also possess the secret of taming the beasts. For the lizard to obey its master, however, it has to be trained from the very moment it hatches.
@@ -138,7 +138,7 @@ For the egg to be turned into a unit for a hero's party it is necessary to build
 #Giant spiders usually dwell in thick forests and old crypts. These predators welcome any prey, be it a rabbit, a deer or a human lost in the woods. The spiders wrap their victims inside a strong webbed cocoon, inject poison into their helpless bodies, then leave their prey to «season» for a while. Even the bravest swashbucklers rarely attack spiders alone, as no armor can protect them from the beasts' poison and spiderweb. It's extremely hard to fight spiders in the woods. The eight-legged predators climb the trees effortlessly, hiding behind the branches and hurling their web at unsuspecting victims from above.
 For the egg to be turned into a unit for a hero's party it is necessary to build a Swamp Trappers Guild.#
 
-34. Centaur
+34. Wind Runner
 #Centaur warriors are famous for their swiftness and fearlessness. Every centaur is an expert archer. In melee they use heavy hooves, their natural weapons. Unlike human cavalry, centaurs can pass through the woods without losing speed. Their excellent knowledge of secret paths gives them additional protection in the forest.#
 
 35. Dryad
@@ -318,7 +318,8 @@ For a Soul Stone to be turned into a unit for a hero's party, a Blooming Lane is
 
 77. Hunter
 #Life in Goblin society is usually dangerous, so missile weapons and the skills to shoot them provide a significant advantage to those who favor the safety of the rear over the battlefront. Goblin-Hunters roam the swamps, hunting down animals that pose no real threat, and often become bodyguards for wealthier peers. They consider themselves smarter and more cunning than other Goblins, who didn't hone ranged skills, as they have higher odds of surviving battle, due to the distance from the enemy. Should they encounter a foe in melee, however, they instantly lose that confidence.
-Despite their average marksmanship, Goblin-Hunters can still provide some support in small squads of thieves - with missile cover, ambushes and raids are easier and safer, especially in swamps, where all Goblins feel at home.#
+Despite their average marksmanship, Goblin-Hunters can still provide some support in small squads of thieves - with missile cover, ambushes and raids are easier and safer, especially in swamps, where all Goblins feel at home.
+Hunters don't rely too much on their shooting abilities, preferring to coat their arrow tips with various poisons. The best arrows they have are made from the fallen poisonous teeth of the Ericuba.#
 
 78. Swordmaster
 #Service in the Guard is subject to strict selection and rigorous training. Guards that have proven their skills in a trial for ownership of a two-handed sword, by successfully holding it for several minutes in a trial against a master without receiving wounds, are awarded the honorary title of "Swordmaster" and are promoted. Only born fighters are permitted to enter these rigorous trials before they can don their magnificent ironclad platemail - often forged with the rare, but resourceful mithril - and arm themselves with the sharpest weapons. In peacetime, a swordmaster continuously improves his combat skills, and in war they are used as a means to break the enemy's battle formations, turning the tide of battle. On a battlefield, swordmasters can withstand far more than the average man and can easily punch through a foe's defense. A lull in the fighting allows them to rejuvenate and treat wounds. Through intensive training, they can even run in their armor, despite the incredible difficulty. Their weapons, forged by the incomparable craftsmanship of their finest masters, can easily penetrate any armor.#
@@ -486,21 +487,21 @@ Experienced veteran slingers are capable of quickly shooting down their targets,
 121. Grand Healer
 #After receiving the blessing of the Eagle God, a healer can be promoted to grand healer. Their healing capacity increases as a result, both in quality and in reach over distance. Like ordinary healers, however, their vulnerability is evident and they need outside protection.#
 
-122. Young Centaur
+122. Wind Seekers
 #Young centaurs are expected by their parents to learn on the job and accompany the adult warriors and hunters of their tribe. Often times, this results in casualties, which enforces the notion that centaurs must learn from the mistakes of their fallen companions in order to survive the hardships of life.
-Despite the fact that - by Centaur standards - young centaurs are weak and inexperienced, they are no weaker than men. To accommodate a young centaur's still developing muscles, they are provided bows and quivers in order to stay out of danger. Nevertheless, due to their inherent strength and endurance, these archers are able to compete with any human infantry, especially in forests, where their instincts allow them to effortlessly move through the most impenetrable jungle.#
+Although - by Centaur standards - these young centaurs (or "Wind Seekers" as they are called) are weak and inexperienced, they are no weaker than humans. To accommodate a young centaur's still developing muscles, they are provided bows and quivers in order to stay out of danger. Nevertheless, due to their inherent strength and endurance, these archers are able to compete with any human infantry, especially in forests, where their instincts allow them to effortlessly move through the most impenetrable jungle.#
 
-123. Centaur-warrior
+123. Wind Eclipser
 #Most people believe that all centaurs are archers. This is definitely far from the truth, and this false assumption may be due to the fact that for their raids centaurs tend to use cavalry with ranged weapons. Such beliefs often lead to a cruel joke being played on commanders that want to seize land the tribe considers theirs.
-They would encounter an unexpected foe - the Centaur-warrior. He's a powerful warrior, not lacking in speed or muscular strength, enabling him to hold a heavy weapon in each hand. This combination is certain to impress almost any enemy stupid enough to attack a settlement of centaurs. Besides that, these warriors spend all their spare time training and exercising for combat, which means they are experienced and have reached the pinnacle of melee combat skills.#
+They would encounter an unexpected foe - the Centaur-warrior, or Wind Eclipser. A powerful fighter who lacks neither speed nor muscular strength, allowing him to wield heavy melee weapons. This combination is certain to impress almost any enemy stupid enough to attack a settlement of centaurs. Besides that, these warriors spend all their spare time training and exercising for combat, which means they are experienced and have reached the pinnacle of melee combat skills.#
 
 124. Spirit Talker
 #When a centaur is born, they have a light brown skin. As they age, this color shifts to a red and darker brown. In their elder years, the color fades into an albino state. These wise elder centaurs share their wisdom and experience with their tribes. Among them there are those who possess extraordinary powers. They become shamans - known as spirit talkers - who communicate with the ethereal realm. Younger centaurs care for their elders and respect the shamans, protecting them on the battlefield at all cost.
 Given their declining strength, spirit talkers use spellcasting in battle, rather than melee combat. They call upon the souls of their ancestors to assist them.#
 
-125. Centaur-chief
+125. Wind Roar
 #These centaurs are the leaders of their tribes and are markedly different from the others. In the language of the centaurs, these leaders are called "Abar-na-ming" which translates as "Heaven is Might". Like human monarchs, the role of centaur-chief is hereditary. Some believe that the blood of a centaur-chief transcends mortal aptitude. Each generation's centaur-chief is provided the sword and armor of the previous ruler in order to maintain the image of their clan.
-The centaur-chief has the responsibility of proving his gifted strength to his people, so that he may protect them from those who threaten them. The centaur-chief, like shamans, is blessed by his ancestors.#
+With unquestioned authority, the Wind Rumble cares for his tribe like a father cares for his children, and is an example of courage and strength. He wields enormous power, to protect his large "family", and does not hesitate to use it, including - although this happens extremely rarely and is very sad - against other Centaurs. In addition to his excellent fighting skills, he is able, like shamans, of calling on his ancestors to request their blessing.#
 
 126. Medium
 #Elven servants of the Great Forest often escort other warriors on campaigns, patrols, or battles. Able to channel the healing power of the ancient Elven forests, Mediums turn their bodies into a vessel to strengthen the body and mind of their kin, and unfortunately their gift does not affect them.
@@ -523,7 +524,7 @@ Beast Masters, as they call themselves, are tough opponents to face, having many
 131. Ericuba
 #In the swamps, there are many dangerous creatures. Some of them can even be tamed. One of these monsters is the Ericuba - a swamp creature.
 Goblins sometimes manage to sneak an egg out of one's lair, and even get away with it, except when the angry mother catches up with the thief. When such an egg is carefully stored in a warm and damp place, a small worm soon hatches. It grows very quickly, already taller than a goblin after a few days.
-In battle, the Ericuba can spit a weak acid that causes significant damage, as the monster's poison gradually becomes stronger. Its poisonous teeth can shred a man  to pieces, and the ferocity of its attack shocks enemies so much they freeze in horror. If necessary, an Ericuba may devour an ally to restore its own health. Of course, Ericubas feel at home in even the most impenetrable quagmire - they like to lurk, waiting until "dinner" comes too close.
+In battle, the Ericuba can spit out its long, needle-like, poisonous teeth, causing significant damage and maiming the victim. She has nothing to worry about - they grow back very quickly, constantly renewing themselves in this way. Its poisonous teeth can shred a man to pieces, and the ferocity of its attack shocks enemies so much they freeze in horror. If necessary, an Ericuba may devour an ally to restore its own health. Of course, Ericubas feel at home in even the most impenetrable quagmire - they like to lurk, waiting until "dinner" comes too close.
 For the egg to be turned into a unit for a hero's party it is necessary to build the Monstrologists Guild.#
 
 132. Halfling Rogue
@@ -569,7 +570,7 @@ An inquisitor knows no bounds when confronting the "enemies of mankind": Witches
 The extensive training a Grand Inquisitor must endure is relentless and daunting, yet inspiring to the morale of those who follow him. If the founding fathers of the Inquisition are known as the Shield of the Church, the Grand Inquisitor is, without a doubt, its Sword.#
 
 142. Guardian of Souls
-#Sometimes a really good swordmaster, the most talented or lucky one, is invited to change specialization and join the ranks of "guardians of souls", elite warriors whose sole purpose it is to destroy the undead. They get special equipment and special training allowing them to successfully fight not only against living, but also against dead enemies. A Guardian of Souls can often be found in the ranks of inquisitors who oppose necromancers: they are able to successfully deter zombies, mummies  and ghouls, not letting them get to the shooters and healers, and their weapons can strike even ghosts.#
+#Sometimes a really good swordmaster, the most talented or lucky one, is invited to change specialization and join the ranks of "guardians of souls", elite warriors whose sole purpose it is to destroy the undead. They get special equipment and special training allowing them to successfully fight not only against living, but also against dead enemies. A Guardian of Souls can often be found in the ranks of inquisitors who oppose necromancers: they are able to successfully deter zombies, mummies and ghouls, not letting them get to the shooters and healers, and their weapons can strike even ghosts.#
 
 143. Zealot
 #The greatest warriors of the clergy are selected and known as zealots by the inquisition. Zealots are armed with golden hilted swords that have been plunged in holy water, as well as holy relics blessed by the founding fathers. These men are disciplined to sweep away the enemies of the Church the way the wind sweeps away autumn leaves. Empowered and blessed by the Grand Inquisition Tribunal, these servants of light have defenses that are near-impossible to penetrate, conventional or magic. They are determined to purge the minions of Chaos, as well as those whose souls are black as coal.#
@@ -583,7 +584,7 @@ Thanks to its sturdy base, durable chamber mechanism and the use of a dense and 
 
 146. Smiting Hand
 #Some guardsmen who have served out their time and have accumulated enough gold to spend the remainder of their life in comfort, decide to retire and end their military career. Some serve as a mentor to young men aspiring to become mercenaries. And some - the particularly pious and devout - draw the attention of the Church and receive an offer to continue their military career in service to the Church. They are given the special ecclesiastical title of "Smiting Hand". Their high numbers allow them to maintain the Order as a vessel of the Inquisition.
-The superb skills of a Smiting Hand allows him to not only protect his patrons from bandits, but their purpose is to counter the evil creatures of the Underworld. Additional power against the demons is provided by the special weapon they carry: a long-handled hammer. The way these weapons are used is very similar to the technique used with a halberd, which is why the Inquisition is particularly keen to attract former guardsmen, who are experts with this weapon.#
+The excellent skills of the Smiting Hand allow them to successfully protect their patrons both from bandits and from various monsters summoned by evil sorcerers - and they have no shortage of combat experience. Additional power against evil spirits is provided by the special weapon they carry: a long-handled hammer. The way these weapons are used is very similar to the technique used with a halberd, which is why the Inquisition is particularly keen to attract former guardsmen, who are experts with this weapon.#
 
 147. Trebuchet
 #It is a known fact that the Dwarves invented most siege engines used across Eador. And although their creations - catapults and ballistae - have been copied for a long time, the Dwarves remain the best builders. So if someone needs to turn a catapult into a work of art - one must contract the Dwarves.
@@ -598,9 +599,9 @@ The destructive power of a High Mage on the battlefield is almost unequaled. He 
 A patriarch's higher wisdom allows him to use a vast array of prayers and rites. In combat, a patriarch is able to revive fallen allies - an ability much appreciated by his companions.#
 
 150. Wyvern
-#A distant relative to dragons, the wyvern is a dangerous creature. Although a wyvern is considered a lazy creature for its tendency to rest in warm stagnant waters,
-it retains a dragon's legendary sense of hearing and smell. While the creature is slow, its combat capabilities far outweigh its lack of speed.
-It can make full use of its venomous nature. Whichever way you look at it, the chances of surviving an encounter are slim.
+#This thoroughly poisonous, huge winged swamp lizard - a distant relative of dragons - is a dangerous creature, primarily due to its poison. Although the Wyvern is lazy and loves to lie in warm swamp water, it, like a dragon, has a keen hearing and an excellent sense of smell, thanks to which it is able to smell its prey from afar, when the latter is not even aware of its presence.
+Wyverns can smell fresh blood from far away, and it drives them crazy. When enraged, the Wyvern attacks any creature nearby. Goblins often use this...
+The main shortcoming of Wyverns is their slowness. Though, some say it’s a flaw, others say it’s a chance to stay alive.
 For the egg to be turned into a unit for a hero's party it is necessary to build the Trappers Guild.#
 
 151. Swamp Dragonfly
