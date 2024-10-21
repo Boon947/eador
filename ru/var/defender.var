@@ -2471,7 +2471,11 @@ Item3: 67, 1;
 Ability:
 Ability: 10
 Param1: 2
-Param2: 2;
+Param2: 2
+
+Ability: 15
+Param1: 1
+Param2: 0;
 
 /63
 Name: Мастера горгулий;

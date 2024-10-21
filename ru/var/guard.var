@@ -3464,34 +3464,34 @@ Item2: 41, 1
 Item3: 55, 1;
 
 /238 Скелетное охранение 0
-Quantity: 3/1
+Quantity: 2/1
 Initiative: 1/0
 Unit1: 207, 1, 1, 0
-Unit2: 193, 4, 2, 1;
+Unit2: 193, 4, 1, 1;
 LootPoss: 5
 MaxLoot: 1
-Power: 3
+Power: 4
 Item1: 5, 2
 Item2: 42, 1
 Item3: 55, 1;
 
 /239 Скелетное охранение 1
-Quantity: 4/2
+Quantity: 3/2
 Initiative: 1/1
 Unit1: 207, 4, 1, 0
-Unit2: 193, 7, 3, 1;
+Unit2: 193, 7, 2, 1;
 LootPoss: 5
 MaxLoot: 1
-Power: 5
+Power: 6
 Item1: 5, 2
 Item2: 42, 1
 Item3: 55, 1;
 
 /240 Скелетное охранение 2
-Quantity: 5/3
+Quantity: 4/3
 Initiative: 2/1
 Unit1: 207, 7, 1, 0
-Unit2: 193, 10, 4, 1;
+Unit2: 193, 10, 3, 1;
 LootPoss: 5
 MaxLoot: 1
 Power: 7
@@ -3500,10 +3500,10 @@ Item2: 42, 1
 Item3: 55, 1;
 
 /241 Скелетное охранение 3
-Quantity: 6/4
+Quantity: 5/4
 Initiative: 2/2
 Unit1: 207, 11, 1, 0
-Unit2: 193, 14, 5, 1;
+Unit2: 193, 14, 4, 1;
 LootPoss: 5
 MaxLoot: 1
 Power: 9

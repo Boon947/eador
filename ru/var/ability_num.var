@@ -1,4 +1,4 @@
-Quantity: 591
+Quantity: 593
 
 /0
 Name: Пусто;
@@ -4142,4 +4142,18 @@ Name: Могущество племени;
 Number: 460
 Numeric: 1
 Effect: 1
+Percent: 0
+
+/592
+Name: Азарт Охотника;
+Number: 276
+Numeric: 0
+Effect: 1
+Percent: 0
+
+/593
+Name: Заклятье "Призвать волка";
+Number: 2390
+Numeric: 1
+Effect: 0
 Percent: 0
