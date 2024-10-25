@@ -2235,3 +2235,10 @@ Bonuses from multiple similar buffs from different allies do not stack.#
 /591 Tribe Might
 #Unit improves Attack, Ranged Attack, Defense, Ranged Defense of adjacent allies by %d.
 Bonuses from multiple similar buffs from different allies do not stack.#
+
+/592 Hunter's Thrill
+#The unit gets an extra turn whenever it kills an enemy with a ranged attack. Works only once per turn.#
+
+/593 Summon Wolf Spell
+#This unit can cast the Summon Wolf spell, summoning a wolf to an adjacent tile.
+Ammo units consumed by casting: %d.#

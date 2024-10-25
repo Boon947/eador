@@ -225,11 +225,11 @@ Lvl 5: Exploration +10, Scouting and Sabotage 50~ cheaper#
 /25 Archery
 #Archery increases the hero's shooting accuracy and spare ammo. It also helps him to bypass some of the enemy's defense while shooting.
 
-Lvl 1: Precise Shot +1, Ammo +1
-Lvl 2: Precise Shot +1, Ammo +1
-Lvl 3: Precise Shot +1, Ammo +1
-Lvl 4: Precise Shot +1, Ammo +1
-Lvl 5: Precise Shot +1, Ammo +1#
+Lvl 1: Precise Shot +1, Ammo +2
+Lvl 2: Precise Shot +2, Ammo +1
+Lvl 3: Precise Shot +1, Ammo +2
+Lvl 4: Precise Shot +2, Ammo +1
+Lvl 5: Precise Shot +2, Ammo +2#
 
 /26 Pathfinding
 #Pathfinding gives the hero and his army a knowledge of the countryside. Speeds up the global map movement of the army.
@@ -250,10 +250,10 @@ Lvl 4: Rewards +30~, Prices -10~
 Lvl 5: Rewards +30~, Prices -10~#
 
 /28 Looting
-#The Looting skill increases the number of battle trophies and increases a chance of acquiring items from the fallen enemies.
+#The Looting skill improves battle trophies, and increases the odds of getting loot from fallen enemies. Increases the hero's Stamina.
 
-Lvl 1: Spoils +20~
-Lvl 2: Spoils +10~
-Lvl 3: Spoils +20~
-Lvl 4: Spoils +20~
-Lvl 5: Spoils +30~#
+Lvl 1: Spoils +20~, Stamina +1
+Lvl 2: Spoils +10~, Stamina +1
+Lvl 3: Spoils +20~, Stamina +1
+Lvl 4: Spoils +20~, Stamina +2
+Lvl 5: Spoils +30~, Stamina +2#

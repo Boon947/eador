@@ -7334,7 +7334,7 @@ Text: #A local healer in the province of %s has opened up his infirmary. Now dis
 Answer1: Not bad.;
 Answer2: Reward the healer. (-50 $ );
 Answer3: How dare he? Fine the insolent fellow! (+100  $ );
-Answer4: Expand the infirmary with a pharmacy (-200 $ -30 & );#####
+Answer4: Tear it down! Build a Pharmacy! (-200 $ , -30 & );#####
 
 /947 Орден Тьмы
 Window: 2;
@@ -13549,7 +13549,7 @@ Answer4: Perhaps there is another way?;#####
 
 /1770 Переговоры с альварами (покупка союза)
 Window: 3;
-Bitmap: 2132;
+Bitmap: 132;
 Text: #"No way. I do not see it. Even thy Lord cannot turn back the clock and undo an event that has already occurred."#
 Answer1: My Lord knows many things ... but nothing like that. Goblins are known to be very greedy for money. We can use this weakness. You talked about a secret hideout - does it mean they have not yet returned to the boss who sent them? What if we just bribe this gang?;#####
 
@@ -14514,7 +14514,7 @@ Answer3: We're leaving.;#####
 
 /1895 Переговоры с альварами (дипломатия, угроза не сработала, ностальгия)
 Window: 3;
-Bitmap: 2132;
+Bitmap: 132;
 Text: #The dark elf is dumbfounded.
 "Thee knows the ancient name of the sons of my people, the name few people know these days? Maybe you also know its meaning?"#
 Answer1: The meaning is simple - you rest in peace for all eternity! Attack!;

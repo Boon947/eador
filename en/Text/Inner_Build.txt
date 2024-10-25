@@ -1173,7 +1173,7 @@ Lowers the population mood in the capital by 1.#
 
 285. Nature's Cloister
 #Type: Teaches spells of the first circle.
-Allows heroes to learn the spells Recovery, Summon Wasp Swarm, Poison Claw, and Enchanted Fang.
+Allows heroes to learn the spells Recovery, Summon Wasp Swarm, Poison Claw, and Summon Wolf.
 Allows to perform the ritual of Miracle of Nature.
 The castle cannot have more than 4 buildings of this type.#
 

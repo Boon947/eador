@@ -453,11 +453,11 @@ Name: Archery;
 Class: 2
 
 Hero Upgrades:
-Lvl1: (77, 1; 10, 1)
-Lvl2: (77, 1; 10, 1)
-Lvl3: (77, 1; 10, 1)
-Lvl4: (77, 1; 10, 1)
-Lvl5: (77, 1; 10, 1)
+Lvl1: (77, 1; 10, 2)
+Lvl2: (77, 2; 10, 1)
+Lvl3: (77, 1; 10, 2)
+Lvl4: (77, 2; 10, 1)
+Lvl5: (77, 2; 10, 2)
 
 Squad Upgrades:
 Lvl1: (0, 0)
@@ -507,11 +507,11 @@ Name: Looting;
 Class: 2
 
 Hero Upgrades:
-Lvl1: (992, 2)
-Lvl2: (992, 1)
-Lvl3: (992, 2)
-Lvl4: (992, 2)
-Lvl5: (992, 3)
+Lvl1: (992, 2; 11, 1)
+Lvl2: (992, 1; 11, 1)
+Lvl3: (992, 2; 11, 1)
+Lvl4: (992, 2; 11, 2)
+Lvl5: (992, 3; 11, 2)
 
 Squad Upgrades:
 Lvl1: (0, 0)

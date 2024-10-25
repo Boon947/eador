@@ -1302,7 +1302,7 @@ Lasts 3 turns. Duration increases with the caster's Concentration.#
 #Circle 2.
 School: Astral Magic.
 Increases all attack and defense attributes and resistance of all friendly creatures within 1 tile by 1. Lasts 5 turns.
-Duration increases with the caster's Concentration.
+The effect slightly increases with the caster's Spellpower.
 The spell has no effect on undead and demons.#
 
 196. Summon Beholder
@@ -1763,7 +1763,7 @@ Only works on Animals.#
 260. Enchanted Fang
 #Circle 1.
 School: Natural Magic.
-Increase the target's Attacks by 1, and makes them magical. Lasts 6 turns.
+Increase the target's Attacks by 2, and makes them magical. Lasts 6 turns.
 Spell effect increases slightly with the caster's Spellpower.
 Only works on Animals.#
 
@@ -1840,8 +1840,8 @@ Has no effect on the Undead, Mechanical units, and Elementals.#
 #Circle 3.
 School: Elemental Magic.
 Inflicts 15 points of magic damage to an enemy unit or heals a friendly living creature for 15 hit points.
-Damage and healing increase significantly with the caster's Spellpower.
-Has no effect on the Undead, Mechanical units, and Elementals.#
+Damage and healing power increases with the caster's Spellpower.
+Magic immunity does not apply.#
 
 272. Healing Circle
 #Circle 1.
@@ -2132,7 +2132,7 @@ Spell cannot be used if the vampire is already in gaseous form.#
 315. Eternal Light
 #Circle 2.
 School: Sacred Magic.
-Reduces all attack and defense attributes and resistance of all the undead on the battlefield by 1. Each turn the undead receive 2 points of magical damage. Lasts 6 turns.
+Reduces every Undead's Attacks by 2, Armor and Resistance by 1. Each turn the undead receive 4 points of magical damage. Lasts 6 turns.
 Duration increases with the caster's Concentration.
 Only works on the Undead.#
 
@@ -2639,3 +2639,9 @@ Summoning range and Ifrit's attributes significantly depend on caster's Summonin
 School: Elemental Magic.
 Summons a Naiad, a weak Water elemental, to a tile next to the caster.
 Summoning range and Naiad's attributes depend significantly on caster's Summoning Power.#
+
+390. Summon Wolf
+#Circle 1.
+School: Natural Magic.
+Summons a Wolf in a tile next to the caster.
+Summoning range and the Wolf's attributes depend heavily on the caster's Summoning Power.#

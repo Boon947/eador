@@ -1456,8 +1456,8 @@ Unit HP -8.#
 /471 Reload Spell
 #The unit is taught to cast "Reload" spell, restoring 1 ammo to friendly mechanical unit.#
 
-/472 Summon Wolves Spell
-#Teach unit to cast "Summon Wolves", which summons two wolves plus one per unit rank on tiles adjacent to the unit.#
+/472 Summon Wolf Spell
+#The unit is taught to cast "Summon Wolf" spell, summoning wolf to summoner's adjacent tile.#
 
 /473 Summon Dire Bear Spell
 #The unit is taught to cast "Summon Dire Bear" spell, summoning dire bear to summoner's adjacent tile.#
@@ -2600,3 +2600,9 @@ Bloodsucker +10.#
 
 /850 Tribe Might
 #Unit improves Attack, Ranged Attack, Defense, Ranged Defense of adjacent allies by 1.#
+
+/851 Hunter's Thrill
+#When the unit kills an enemy from range, it receives an extra turn.#
+
+/852 Hornet swarm
+#Teach unit to attack an enemy from a distance.#

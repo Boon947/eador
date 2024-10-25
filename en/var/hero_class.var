@@ -63,7 +63,7 @@ Talent6: 0, 0
 
 /8
 Name: Dark Knight;
-Talent1: 57, 3
+Talent1: 57, 6
 Talent2: 121, 1
 Talent3: 902, 1
 Talent4: 960, 241
@@ -81,7 +81,7 @@ Talent6: 960, 243
 
 /10
 Name: Archer;
-Talent1: 20, 5
+Talent1: 20, 4
 Talent2: 960, 242
 Talent3: 0, 0
 Talent4: 0, 0
@@ -128,8 +128,8 @@ Talent6: 960, 248
 Name: General;
 Talent1: 1008, 1
 Talent2: 1010, 1
-Talent3: 999, 1
-Talent4: 960, 246
+Talent3: 960, 246
+Talent4: 0, 0
 Talent5: 0, 0
 Talent6: 0, 0
 
@@ -207,7 +207,7 @@ Talent6: 0, 0
 
 /24
 Name: Death Knight;
-Talent1: 57, 5
+Talent1: 68, 35
 Talent2: 121, 2
 Talent3: 902, 1
 Talent4: 903, 1
@@ -225,7 +225,7 @@ Talent6: 0, 0
 
 /26
 Name: Sniper;
-Talent1: 20, -2
+Talent1: 276, 1
 Talent2: 960, 267
 Talent3: 0, 0
 Talent4: 0, 0

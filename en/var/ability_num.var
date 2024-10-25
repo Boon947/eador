@@ -1,4 +1,4 @@
-Quantity: 591
+Quantity: 593
 
 /0
 Name: Empty;
@@ -4142,4 +4142,18 @@ Name: Tribe Might;
 Number: 460
 Numeric: 1
 Effect: 1
+Percent: 0
+
+/592
+Name: Hunter's Thrill;
+Number: 276
+Numeric: 0
+Effect: 1
+Percent: 0
+
+/593
+Name: Summon Wolf Spell;
+Number: 2390
+Numeric: 1
+Effect: 0
 Percent: 0

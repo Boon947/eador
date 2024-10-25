@@ -68,13 +68,13 @@
 #Reaching the maximum skill on the path of the Chieftain, the hero becomes a Great Chieftain, with unrivaled might and fury on the battlefield, and a skilled commander to his soldiers.#
 
 /24 Death Knight
-#Having mastered the path of the Dark Knight, the hero becomes a Death Knight, able to completely consume the souls of slain creatures and inflict devastating damage to good creatures. A Death Knight gets extra slots for a Circle II and III spell.#
+#Having mastered the path of the Dark Knight, the hero becomes a Death Knight, able to heal himself with the blood of his enemies, and inflict devastating damage to good creatures. A Death Knight gets extra slots for a Circle II and III spell.#
 
 /25 Cutthroat
 #Having attained mastery on the path of the Adventurer, the hero becomes a Cutthroat, able to perform sudden attacks, move with blazing speed and find twice as much gold and gems when exploring. He is able to replenish his ammunition on the battlefield.#
 
 /26 Sniper
-#Having reached the apex of the Archer mastery, the hero becomes a Sniper, able to perform a Double Shot without spending any additional energy.#
+#Having mastered the path of the Archer, the hero becomes a Sniper, whose missiles reach enemies with incredible speed.#
 
 /27 Gang Leader
 #Once the hero achieves perfection as a Ringleader, he becomes a Gang Leader, able to reap enormous rewards from trophies and plunder. A Gang Leader moves with incredible speed on the map. Units under his command can move faster even in battles.#

@@ -439,7 +439,7 @@ It loses 3 points of stamina and morale each turn.#
 #The unit wields weapons with natural enchantment. This spell increases all types of Attack by 5.#
 
 146. Enchanted Fang
-#The unit's Attacks are increased at least by 1, and it deals magic damage.#
+#The unit's Attacks are increased at least by 2, and it deals magic damage.#
 
 147. Stone Crust
 #A thick Stone Crust covers the unit's entire body, increasing Armor by 5 and Resistance by 2, and prevents movement. If the caster is an ally, the unit recovers 5 HP each turn; if an enemy, they lose the health.#
@@ -523,7 +523,7 @@ It loses 3 points of stamina and morale each turn.#
 #The unit is paralyzed. It cannot act.#
 
 174. Eternal Light
-#All types of Attack, Defense, and Resistance of the unit increased by 1. The unit suffers 2 points of damage each turn.#
+#Unit's Attacks are decreased by 2, Armor and Resistance by 1. The unit suffers 4 points of damage each turn.#
 
 175. Heaven's Rage
 #The unit suffers 5 points of damage by divine power each turn.#

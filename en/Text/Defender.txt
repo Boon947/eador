@@ -464,12 +464,14 @@ Incorruptible.#
 
 93. Combat Wing
 #A large group of winged warriors are guarding the borders of the province. The height of their flight allows the Alkari to see very far, so an attack by an enemy is unlikely to surprise them, and the mental power of the accompanying squadron of Witnesses help raise the alarm quickly.
+Can only be placed in the plains, forest and hills provinces.
 The province spotting range is increased.
 Incorruptible.
 Improves population mood in the Alkari province by 1.#
 
 94. Celestial Squadron
-#A large army of Children of Heaven, led by Eternal Mentors and Arisen Luminaries, have vowed to guard the peace and quiet of your province and they never break their vows. By combining minds a Celestial Squadron operates like a single organism. Anyone spotted within the protected area is discovered and eliminated, the enemy spy or troops are crushed. 
+#A large army of Children of Heaven, led by Eternal Mentors and Arisen Luminaries, have vowed to guard the peace and quiet of your province and they never break their vows. By combining minds a Celestial Squadron operates like a single organism. Anyone spotted within the protected area is discovered and eliminated, the enemy spy or troops are crushed.
+Can only be placed in the plains, forest and hills provinces.
 The province spotting range is increased.
 Intrepid. Incorruptible.
 Improves population mood in the Alkari province by 1.#

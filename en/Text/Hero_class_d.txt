@@ -5,6 +5,7 @@ Can learn warrior skills up to Mastery Level 3.#
 
 /2 Scout
 #Can use the following type of items: Common, Melee Weapon, Ranged Weapon, Light Armor.
+The Scout can repair his arrows after battle, restoring some of their durability.
 Possesses the skill %s.
 Can learn scout skills up to Mastery Level 3.#
 
@@ -36,11 +37,12 @@ Can learn warrior and commander skills up to Mastery Level 3.#
 
 /8 Dark Knight
 #Can use the following type of items: Common, Melee Weapon, Heavy Weapon, Wand, Light Armor, Medium Armor, Heavy Armor, Shield.
-Possesses the skills %s, Soul Stealing (3), Dark Dominion (1). A Dark Knight gets an extra slot for a Circle II spell.
+Possesses the skills %s, Soul Stealing (6), Dark Dominion (1). A Dark Knight gets an extra slot for a Circle II spell.
 Can learn warrior and sorcerer skills up to Mastery Level 3.#
 
 /9 Adventurer
 #Can use the following type of items: Common, Melee Weapon, Heavy Weapon, Ranged Weapon, Light Armor, Medium Armor, Heavy Armor, Shield.
+The Adventurer can repair his arrows after battle, restoring some of their durability.
 Possesses the skills %s, Crippling Shot, Surge of Strength (1).
 The Adventurer's speed is increased by 1.
 The Adventurer receives extra shooting bonuses from warrior weapons and skills, and melee combat bonuses from ranged weapons and Scout skills.
@@ -50,16 +52,19 @@ Can learn scout and warrior skills up to Mastery Level 3.#
 
 /10 Archer
 #Can use the following type of items: Common, Melee Weapon, Ranged Weapon, Light Armor.
-Possesses the skills %s, Double Shot (energy consumption 5).
+The Archer can repair his arrows after battle, restoring some of their durability.
+Possesses the skills %s, Double Shot (energy consumption 4).
 Can learn scout skills up to Mastery Level 5.#
 
 /11 Ringleader
 #Can use the following type of items: Common, Melee Weapon, Ranged Weapon, Banner, Light Armor, Medium Armor, Shield.
+The Ringleader can repair his arrows after battle, restoring some of their durability.
 Looting skill is increased by 3. Receives twice as much gold from plundering provinces. Mobility is increased by 1. Possesses the skill %s.
 Can learn scout and commander skills up to Mastery Level 3.#
 
 /12 Ranger
 #Can use the following type of items: Common, Melee Weapon, Ranged Weapon, Wand, Light Armor.
+The Ranger can repair his arrows after battle, restoring some of their durability.
 Initiative +2. Province exploration speed +10. Sabotage efficiency +1. Can perform one act of sabotage more than the skill allows. Possesses the skills %s and Enchanted Arrow (4).
 Ranger grants Terrain Knowledge +1 to allied units.
 Can learn scout and sorcerer skills up to Mastery Level 3.#
@@ -78,7 +83,6 @@ Can learn commander and scout skills up to Mastery Level 3.#
 /15 General
 #Can use the following type of items: Common, Melee Weapon, Banner, Light Armor, Medium Armor, Shield.
 Possesses the skill %s. Increases the party units' Ranged Attack and Ammo by 1 (does not affect units using Magic Shot).
-Initiative is increased by 1.
 Can learn commander skills up to Mastery Level 5.#
 
 /16 Priest
@@ -129,11 +133,12 @@ Can learn warrior and commander skills up to Mastery Level 3.#
 
 /24 Death Knight
 #Can use the following type of items: Common, Melee Weapon, Heavy Weapon, Wand, Light Armor, Medium Armor, Heavy Armor, Shield.
-Possesses the skills %s, Soul Stealing (8), Dark Dominion (3). The Death Knight gets additional spell slots: two Circle II, one Circle III.
+Possesses the skills %s, Soul Stealing (6), Dark Dominion (3), Bloodsucker (35~). The Death Knight gets additional spell slots: two Circle II, one Circle III.
 Can learn warrior and sorcerer skills up to Mastery Level 3.#
 
 /25 Cutthroat
 #Can use the following type of items: Common, Melee Weapon, Heavy Weapon, Ranged Weapon, Light Armor, Medium Armor, Heavy Armor, Shield.
+The Cutthroat can repair his arrows after battle, restoring some of their durability.
 Possesses the skills %s, Crippling Strike, Crippling Shot, Collect Ammo, Surge of Strength (1). The Cutthroat Speed and Initiative are increased by 2.
 The Cutthroat receives double shooting bonuses from warrior weapons and skills, and melee combat bonuses from ranged weapons and Scout skills.
 Finds 100~ more gold and gems while searching locations. Receives twice as much gold for completing quests. Can change weapons without spending a turn in battle.
@@ -142,16 +147,19 @@ Can learn scout and warrior skills up to Mastery Level 3.#
 
 /26 Sniper
 #Can use the following type of items: Common, Melee Weapon, Ranged Weapon, Light Armor.
-Possesses the skills %s, Double Shot (energy consumption 3).
+The Sniper can repair his arrows after battle, restoring some of their durability.
+Possesses the skills %s, Double Shot (energy consumption 4), Hunter's Thrill.
 Can learn scout skills up to Mastery Level 5.#
 
 /27 Gang Leader
 #Can use the following type of items: Common, Melee Weapon, Ranged Weapon, Banner, Light Armor, Medium Armor, Shield.
+The Gang Leader can repair his arrows after battle, restoring some of their durability.
 Looting skill is increased by 6. Receives thrice as much gold from plundering provinces. Mobility is increased by 2. Possesses the skill %s. Increases Speed of allies by 1.
 Can learn scout and commander skills up to Mastery Level 3.#
 
 /28 Pathfinder
 #Can use the following type of items: Common, Melee Weapon, Ranged Weapon, Wand, Light Armor.
+The Pathfinder can repair his arrows after battle, restoring some of their durability.
 Initiative +3. Province exploration speed +20. Sabotage efficiency +2. Can perform two acts of sabotage more than the skill allows. Possesses the skills %s and Enchanted Arrows (8).
 Pathfinder grants Terrain Knowledge +3 to allied units.
 Can learn scout and sorcerer skills up to Mastery Level 3.#
@@ -170,7 +178,6 @@ Can learn commander and scout skills up to Mastery Level 3.#
 /31 Marshall
 #Can use the following type of items: Common, Melee Weapon, Banner, Light Armor, Medium Armor, Shield.
 Possesses the skill %s. Increases the party units' Ranged Attack and Ammo by 2 (does not affect units using Magic Shot).
-Initiative is increased by 1.
 Can learn commander skills up to Mastery Level 5.#
 
 /32 High Priest
