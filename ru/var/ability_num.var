@@ -1,4 +1,4 @@
-Quantity: 593
+Quantity: 597
 
 /0
 Name: Пусто;
@@ -2654,7 +2654,7 @@ Effect: 0
 Percent: 0
 
 /379
-Name: Заклятье "Призвать медведя";
+Name: Заклятье "Призвать медведей";
 Number: 2276
 Numeric: 1
 Effect: 0
@@ -4156,4 +4156,32 @@ Name: Заклятье "Призвать волка";
 Number: 2390
 Numeric: 1
 Effect: 0
+Percent: 0
+
+/594
+Name: Рой шершней;
+Number: 375
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/595
+Name: Заклятье "Подъятие Лорда Мрака";
+Number: 2262
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/596
+Name: Заклятье "Призыв кадавра";
+Number: 2391
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/597
+Name: Двойной удар;
+Number: 279
+Numeric: 0
+Effect: 1
 Percent: 0

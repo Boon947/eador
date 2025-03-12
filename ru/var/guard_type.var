@@ -407,7 +407,7 @@ Guard3: 158
 
 /45
 Name: Культ Гидры;
-Power: 5
+Power: 11
 Karma: 0
 Guard0: 159
 Guard1: 159
@@ -416,7 +416,7 @@ Guard3: 159
 
 /46
 Name: Культ Дракона;
-Power: 5
+Power: 13
 Karma: 0
 Guard0: 160
 Guard1: 160
@@ -425,7 +425,7 @@ Guard3: 160
 
 /47
 Name: Культ Феникса;
-Power: 5
+Power: 12
 Karma: 0
 Guard0: 161
 Guard1: 161
@@ -434,7 +434,7 @@ Guard3: 161
 
 /48
 Name: Культ Гиганта;
-Power: 5
+Power: 11
 Karma: 0
 Guard0: 162
 Guard1: 162
@@ -461,7 +461,7 @@ Guard3: 164
 
 /51
 Name: Стражи Древних;
-Power: 5
+Power: 7
 Karma: 0
 Guard0: 165
 Guard1: 166
@@ -605,7 +605,7 @@ Guard3: 204
 
 /67
 Name: Элементалы;
-Power: 8
+Power: 17
 Karma: 0
 Guard0: 205
 Guard1: 205
@@ -614,7 +614,7 @@ Guard3: 205
 
 /68
 Name: Волшебные драконы;
-Power: 8
+Power: 15
 Karma: 0
 Guard0: 206
 Guard1: 206
@@ -623,7 +623,7 @@ Guard3: 206
 
 /69
 Name: Владыка фантомов;
-Power: 8
+Power: 16
 Karma: 0
 Guard0: 207
 Guard1: 207
@@ -659,7 +659,7 @@ Guard3: 213
 
 /73
 Name: Чудовища;
-Power: 6
+Power: 5
 Karma: 0
 Guard0: 214
 Guard1: 215
@@ -803,7 +803,7 @@ Guard3: 271
 
 /89
 Name: Культ Силы;
-Power: 5
+Power: 11
 Karma: 0
 Guard0: 272
 Guard1: 272
@@ -812,7 +812,7 @@ Guard3: 272
 
 /90
 Name: Наёмники;
-Power: 5
+Power: 4
 Karma: 0
 Guard0: 273
 Guard1: 274
@@ -830,7 +830,7 @@ Guard3: 280
 
 /92
 Name: Культ Дьявола;
-Power: 5
+Power: 11
 Karma: -3
 Guard0: 281
 Guard1: 281
@@ -866,7 +866,7 @@ Guard3: 293
 
 /96
 Name: Культ Огня;
-Power: 5
+Power: 14
 Karma: 0
 Guard0: 294
 Guard1: 294
@@ -875,7 +875,7 @@ Guard3: 294
 
 /97
 Name: Культ Воды;
-Power: 5
+Power: 12
 Karma: 0
 Guard0: 295
 Guard1: 295
@@ -884,7 +884,7 @@ Guard3: 295
 
 /98
 Name: Культ Воздуха;
-Power: 5
+Power: 13
 Karma: 0
 Guard0: 296
 Guard1: 296
@@ -893,7 +893,7 @@ Guard3: 296
 
 /99
 Name: Культ Земли;
-Power: 5
+Power: 12
 Karma: 0
 Guard0: 297
 Guard1: 297
@@ -1136,7 +1136,7 @@ Guard3: 386
 
 /126
 Name: Культ Некруса;
-Power: 12
+Power: 14
 Karma: -3
 Guard0: 387
 Guard1: 387
@@ -1226,7 +1226,7 @@ Guard3: 414
 
 /136
 Name: Стражи Рока;
-Power: 12
+Power: 16
 Karma: -2
 Guard0: 415
 Guard1: 415

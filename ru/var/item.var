@@ -637,11 +637,11 @@ Resourse: (1, 1)
 Effects:
 
 Attack: 2
-Power: 7
+Power: 8
 Area: 0
 
 CounterAttack: 3
-Power: 5
+Power: 6
 Area: 0;
 
 /26
@@ -659,11 +659,11 @@ Resourse: (1, 1)
 Effects:
 
 Attack: 2
-Power: 8
+Power: 9
 Area: 0
 
 CounterAttack: 3
-Power: 6
+Power: 7
 Area: 0;
 
 /27
@@ -681,11 +681,11 @@ Resourse: (1, 1)
 Effects:
 
 Attack: 2
-Power: 10
+Power: 11
 Area: 0
 
 CounterAttack: 3
-Power: 7
+Power: 9
 Area: 0;
 
 /28
@@ -703,11 +703,11 @@ Resourse: (1, 7)
 Effects:
 
 Attack: 2
-Power: 8
+Power: 9
 Area: 0
 
 CounterAttack: 3
-Power: 6
+Power: 7
 Area: 0
 
 Bleeding: 155
@@ -1136,6 +1136,10 @@ Area: 0
 
 RangedDefence: 5
 Power: 2
+Area: 0
+
+Stamina: 11
+Power: -1
 Area: 0;
 
 /45
@@ -1158,6 +1162,10 @@ Area: 0
 
 RangedDefence: 5
 Power: 3
+Area: 0
+
+Stamina: 11
+Power: -1
 Area: 0;
 
 /46
@@ -1169,13 +1177,13 @@ GoldCost: 10
 GemCost: 0
 ShopLevel: 1
 Rarity: 1
-Building: 1
+Building: 0
 Pic: 264
 Resourse: (0)
 Effects:
 
 RangedAttack: 993
-Power: 1
+Power: 2
 Area: 0
 
 Ammo: 10
@@ -1191,7 +1199,7 @@ GoldCost: 10
 GemCost: 0
 ShopLevel: 1
 Rarity: 1
-Building: 37
+Building: 1
 Pic: 265
 Resourse: (0)
 Effects:
@@ -1202,6 +1210,10 @@ Area: 0
 
 Ammo: 10
 Power: 3
+Area: 0
+
+AimedShot: 77
+Power: 1
 Area: 0;
 
 /48
@@ -1213,17 +1225,21 @@ GoldCost: 20
 GemCost: 0
 ShopLevel: 2
 Rarity: 1
-Building: 90
+Building: 37
 Pic: 266
 Resourse: (1)
 Effects:
 
 RangedAttack: 993
-Power: 3
+Power: 2
 Area: 0
 
 Ammo: 10
 Power: 3
+Area: 0
+
+BleedingShot: 156
+Power: 1
 Area: 0;
 
 /49
@@ -1235,7 +1251,7 @@ GoldCost: 40
 GemCost: 0
 ShopLevel: 3
 Rarity: 1
-Building: 142
+Building: 90
 Pic: 267
 Resourse: (1)
 Effects:
@@ -1245,7 +1261,7 @@ Power: 3
 Area: 0
 
 Ammo: 10
-Power: 3
+Power: 2
 Area: 0
 
 HeavyMissile: 69
@@ -1256,12 +1272,12 @@ Area: 0;
 Name: Мифрильные стрелы;
 Slot: 2
 Class: 3
-Durability: 20
+Durability: 30
 GoldCost: 80
 GemCost: 0
 ShopLevel: 4
 Rarity: 1
-Building: 183
+Building: 142
 Pic: 268
 Resourse: (7)
 Effects:
@@ -1271,7 +1287,11 @@ Power: 4
 Area: 0
 
 Ammo: 10
-Power: 4
+Power: 3
+Area: 0
+
+AimedShot: 77
+Power: 1
 Area: 0;
 
 /51
@@ -1381,7 +1401,7 @@ Power: 2
 Area: 0
 
 RangedDefence: 5
-Power: 2
+Power: 1
 Area: 0;
 
 /56
@@ -1399,11 +1419,11 @@ Resourse: (1)
 Effects:
 
 Defence: 4
-Power: 2
+Power: 3
 Area: 0
 
 RangedDefence: 5
-Power: 3
+Power: 2
 Area: 0;
 
 /57
@@ -1447,7 +1467,7 @@ Power: 4
 Area: 0
 
 RangedDefence: 5
-Power: 4
+Power: 3
 Area: 0;
 
 /59
@@ -1476,7 +1496,7 @@ Speed: 7
 Power: -1
 Area: 0
 
-Attack: 2
+Stamina: 11
 Power: -1
 Area: 0;
 
@@ -1506,8 +1526,8 @@ Speed: 7
 Power: -1
 Area: 0
 
-Attack: 2
-Power: -1
+Stamina: 11
+Power: -2
 Area: 0;
 
 /61
@@ -1536,12 +1556,8 @@ Speed: 7
 Power: -1
 Area: 0
 
-Attack: 2
-Power: -2
-Area: 0
-
-CounterAttack: 3
-Power: -1
+Stamina: 11
+Power: -3
 Area: 0;
 
 /62
@@ -1568,6 +1584,10 @@ Area: 0
 
 Speed: 7
 Power: -1
+Area: 0
+
+Stamina: 11
+Power: -2
 Area: 0;
 
 /63
@@ -1861,7 +1881,7 @@ Resourse: (1)
 Effects:
 
 Life: 1
-Power: 5
+Power: 6
 Area: 0;
 
 /78
@@ -1879,7 +1899,7 @@ Resourse: (1)
 Effects:
 
 Life: 1
-Power: 6
+Power: 7
 Area: 0;
 
 /79
@@ -1897,7 +1917,7 @@ Resourse: (1)
 Effects:
 
 Life: 1
-Power: 7
+Power: 8
 Area: 0;
 
 /80
@@ -2103,7 +2123,11 @@ Resourse: (1)
 Effects:
 
 Life: 1
-Power: 5
+Power: 8
+Area: 0
+
+Stamina: 11
+Power: -1
 Area: 0;
 
 /91
@@ -2121,11 +2145,15 @@ Resourse: (1)
 Effects:
 
 Life: 1
-Power: 5
+Power: 8
 Area: 0
 
 Morale: 12
-Power: 1
+Power: 2
+Area: 0
+
+Stamina: 11
+Power: -1
 Area: 0;
 
 /92
@@ -2143,7 +2171,11 @@ Resourse: (7)
 Effects:
 
 Life: 1
-Power: 7
+Power: 10
+Area: 0
+
+Stamina: 11
+Power: -1
 Area: 0;
 
 /93
@@ -2331,7 +2363,7 @@ Resourse: (1)
 Effects:
 
 Life: 1
-Power: 4
+Power: 5
 Area: 0;
 
 /103
@@ -2349,7 +2381,7 @@ Resourse: (1)
 Effects:
 
 Life: 1
-Power: 5
+Power: 6
 Area: 0;
 
 /104
@@ -2443,7 +2475,7 @@ Resourse: (1)
 Effects:
 
 Life: 1
-Power: 3
+Power: 4
 Area: 0;
 
 /109
@@ -2461,7 +2493,7 @@ Resourse: (1)
 Effects:
 
 Life: 1
-Power: 4
+Power: 5
 Area: 0;
 
 /110
@@ -2479,7 +2511,7 @@ Resourse: (1)
 Effects:
 
 Life: 1
-Power: 5
+Power: 6
 Area: 0;
 
 /111
@@ -3860,11 +3892,11 @@ Resourse: (2, 5, 7)
 Effects:
 
 Attack: 2
-Power: 5
+Power: 4
 Area: 0
 
 CounterAttack: 3
-Power: 6
+Power: 7
 Area: 0
 
 First_strike: 16
@@ -3878,7 +3910,6 @@ Area: 0
 Bleeding: 155
 Power: 1
 Area: 0;
-
 
 /165
 Name: Коса Смерти;
@@ -3914,7 +3945,6 @@ LayDisease: 178
 Power: 3
 Area: 0;
 
-
 /166
 Name: Дьявольский трезубец;
 Slot: 100
@@ -3945,7 +3975,6 @@ Burning: 143
 Power: 2
 Area: 0;
 
-
 /167
 Name: Копьё Судьбы;
 Slot: 100
@@ -3960,12 +3989,8 @@ Pic: 22
 Resourse: (7, 8, 9)
 Effects:
 
-First_strike: 16
-Power: 1
-Area: 0
-
 Attack: 2
-Power: 7
+Power: 6
 Area: 0
 
 CounterAttack: 3
@@ -3978,8 +4003,15 @@ Area: 1
 
 CounterAttack: 3
 Power: 2
-Area: 1;
+Area: 1
 
+First_strike: 16
+Power: 1
+Area: 0
+
+Piercing_strike: 30
+Power: 1
+Area: 1;
 
 /168
 Name: Дубина Тролля;
@@ -4209,11 +4241,11 @@ Resourse: (7)
 Effects:
 
 Attack: 2
-Power: 9
+Power: 10
 Area: 0
 
 CounterAttack: 3
-Power: 8
+Power: 9
 Area: 0
 
 Morale: 12
@@ -4240,7 +4272,7 @@ Resourse: (7, 7)
 Effects:
 
 Attack: 2
-Power: 10
+Power: 11
 Area: 0
 
 CounterAttack: 3
@@ -4267,11 +4299,11 @@ Resourse: (7, 7)
 Effects:
 
 Attack: 2
-Power: 11
+Power: 12
 Area: 0
 
 CounterAttack: 3
-Power: 9
+Power: 10
 Area: 0
 
 AimedStrike: 76
@@ -4294,11 +4326,11 @@ Resourse: (7, 7, 4)
 Effects:
 
 Attack: 2
-Power: 13
+Power: 15
 Area: 0
 
 CounterAttack: 3
-Power: 7
+Power: 9
 Area: 0
 
 Berserk: 25
@@ -4329,7 +4361,7 @@ Power: 14
 Area: 0
 
 CounterAttack: 3
-Power: 8
+Power: 11
 Area: 0
 
 StealSoul: 57
@@ -4356,11 +4388,11 @@ Resourse: (7, 9, 9)
 Effects:
 
 Attack: 2
-Power: 12
+Power: 13
 Area: 0
 
 CounterAttack: 3
-Power: 9
+Power: 11
 Area: 0
 
 DrainLife: 68
@@ -4383,7 +4415,7 @@ Resourse: (7, 8, 8)
 Effects:
 
 Attack: 2
-Power: 15
+Power: 14
 Area: 0
 
 CounterAttack: 3
@@ -5660,6 +5692,10 @@ Area: 0
 
 Life: 1
 Power: 5
+Area: 0
+
+Stamina: 11
+Power: -1
 Area: 0;
 
 
@@ -5687,6 +5723,10 @@ Area: 0
 
 CounterAttack: 3
 Power: 1
+Area: 0
+
+Stamina: 11
+Power: -1
 Area: 0;
 
 
@@ -5714,6 +5754,10 @@ Area: 0
 
 Resist: 6
 Power: 1
+Area: 0
+
+Stamina: 11
+Power: -1
 Area: 0;
 
 
@@ -5741,6 +5785,10 @@ Area: 0
 
 Resist: 6
 Power: 2
+Area: 0
+
+Stamina: 11
+Power: -1
 Area: 0;
 
 
@@ -5768,6 +5816,10 @@ Area: 0
 
 BurningFlesh: 146
 Power: 1
+Area: 0
+
+Stamina: 11
+Power: -1
 Area: 0;
 
 
@@ -5795,6 +5847,10 @@ Area: 0
 
 Resist: 6
 Power: 3
+Area: 0
+
+Stamina: 11
+Power: -2
 Area: 0;
 
 
@@ -5829,7 +5885,11 @@ Power: 5
 Area: 0
 
 Recover: 21
-Power: 5
+Power: 3
+Area: 0
+
+Stamina: 11
+Power: -3
 Area: 0;
 
 
@@ -5874,7 +5934,7 @@ Power: 4
 Area: 0
 
 Ammo: 10
-Power: 3
+Power: 2
 Area: 0
 
 Smite Evil: 120
@@ -6460,7 +6520,6 @@ Life: 1
 Power: 5
 Area: 0;
 
-
 /252
 Name: Кольчуга Ветерана;
 Slot: 3
@@ -6491,8 +6550,8 @@ Area: 0;
 Name: Эльфийская кольчуга;
 Slot: 3
 Class: 7
-Durability: 20
-GoldCost: 100
+Durability: 40
+GoldCost: 250
 GemCost: 20
 ShopLevel: 4
 Rarity: 2
@@ -6506,13 +6565,12 @@ Power: 4
 Area: 0
 
 RangedDefence: 5
-Power: 4
+Power: 3
 Area: 0
 
 Resist: 6
 Power: 1
 Area: 0;
-
 
 /254
 Name: Кольчуга Героя;
@@ -6540,7 +6598,6 @@ Morale: 12
 Power: 3
 Area: 0;
 
-
 /255
 Name: Святая кольчуга;
 Slot: 3
@@ -6560,13 +6617,12 @@ Power: 5
 Area: 0
 
 RangedDefence: 5
-Power: 5
+Power: 4
 Area: 0
 
 Resist: 6
 Power: 3
 Area: 0;
-
 
 /256
 Name: Драконья кольчуга;
@@ -6587,13 +6643,12 @@ Power: 6
 Area: 0
 
 RangedDefence: 5
-Power: 6
+Power: 5
 Area: 0
 
 Resist: 6
 Power: 2
 Area: 0;
-
 
 /257
 Name: Кольчуга Древних;
@@ -6614,7 +6669,7 @@ Power: 7
 Area: 0
 
 RangedDefence: 5
-Power: 7
+Power: 6
 Area: 0
 
 Resist: 6
@@ -6641,15 +6696,15 @@ Power: 6
 Area: 0
 
 RangedDefence: 5
-Power: 6
+Power: 8
 Area: 0
 
 Speed: 7
 Power: -1
 Area: 0
 
-Attack: 2
-Power: -2
+Stamina: 11
+Power: -3
 Area: 0;
 
 
@@ -6672,19 +6727,19 @@ Power: 6
 Area: 0
 
 RangedDefence: 5
-Power: 6
+Power: 8
+Area: 0
+
+Smite_Evil: 120
+Power: 1
 Area: 0
 
 Speed: 7
 Power: -1
 Area: 0
 
-Attack: 2
-Power: -1
-Area: 0
-
-Morale: 12
-Power: 2
+Stamina: 11
+Power: -3
 Area: 0;
 
 /260
@@ -6706,15 +6761,19 @@ Power: 6
 Area: 0
 
 RangedDefence: 5
-Power: 6
+Power: 8
+Area: 0
+
+Smite_Good: 121
+Power: 1
 Area: 0
 
 Speed: 7
 Power: -1
 Area: 0
 
-Smite_Good: 121
-Power: 1
+Stamina: 11
+Power: -3
 Area: 0;
 
 
@@ -6737,15 +6796,19 @@ Power: 6
 Area: 0
 
 RangedDefence: 5
-Power: 7
+Power: 9
+Area: 0
+
+Morale: 12
+Power: 8
 Area: 0
 
 Speed: 7
 Power: -1
 Area: 0
 
-Morale: 12
-Power: 3
+Stamina: 11
+Power: -3
 Area: 0;
 
 
@@ -6768,15 +6831,19 @@ Power: 7
 Area: 0
 
 RangedDefence: 5
-Power: 8
+Power: 9
+Area: 0
+
+BloodRage: 197
+Power: 2
 Area: 0
 
 Speed: 7
 Power: -1
 Area: 0
 
-BloodRage: 197
-Power: 2
+Stamina: 11
+Power: -4
 Area: 0;
 
 
@@ -6799,11 +6866,15 @@ Power: 8
 Area: 0
 
 RangedDefence: 5
-Power: 8
+Power: 10
 Area: 0
 
 Speed: 7
 Power: -1
+Area: 0
+
+Stamina: 11
+Power: -4
 Area: 0;
 
 
@@ -6822,15 +6893,19 @@ Resourse: (7, 7, 8, 8)
 Effects:
 
 Defence: 4
-Power: 10
+Power: 9
 Area: 0
 
 RangedDefence: 5
-Power: 10
+Power: 12
 Area: 0
 
 Speed: 7
 Power: -1
+Area: 0
+
+Stamina: 11
+Power: -5
 Area: 0;
 
 
@@ -7228,7 +7303,7 @@ Resourse: (1)
 Effects:
 
 Life: 1
-Power: 6
+Power: 7
 Area: 0
 
 Morale: 12
@@ -7250,7 +7325,7 @@ Resourse: (7)
 Effects:
 
 Life: 1
-Power: 7
+Power: 8
 Area: 0
 
 Attack: 2
@@ -7272,7 +7347,7 @@ Resourse: (7, 7)
 Effects:
 
 Life: 1
-Power: 8
+Power: 9
 Area: 0
 
 Defence: 4
@@ -7281,8 +7356,11 @@ Area: 0
 
 RangedDefence: 5
 Power: 1
-Area: 0;
+Area: 0
 
+Stamina: 11
+Power: -1
+Area: 0;
 
 /283
 Name: Сапоги Величия;
@@ -7299,7 +7377,7 @@ Resourse: (7, 7)
 Effects:
 
 Life: 1
-Power: 8
+Power: 9
 Area: 0
 
 Defence: 4
@@ -7312,8 +7390,11 @@ Area: 0
 
 Resist: 6
 Power: 2
-Area: 0;
+Area: 0
 
+Stamina: 11
+Power: -1
+Area: 0;
 
 /284
 Name: Сапоги Камнекожи;
@@ -7343,6 +7424,10 @@ Area: 0
 
 Resist: 6
 Power: 1
+Area: 0
+
+Stamina: 11
+Power: -2
 Area: 0;
 
 
@@ -7727,13 +7812,16 @@ Resourse: (1)
 Effects:
 
 Life: 1
-Power: 6
+Power: 8
 Area: 0
 
 Morale: 12
 Power: 2
-Area: 0;
+Area: 0
 
+Stamina: 11
+Power: -1
+Area: 0;
 
 /301
 Name: Шлем Доблести;
@@ -7750,13 +7838,16 @@ Resourse: (7)
 Effects:
 
 Life: 1
-Power: 8
+Power: 9
 Area: 0
 
 Attack: 2
 Power: 1
-Area: 0;
+Area: 0
 
+Stamina: 11
+Power: -1
+Area: 0;
 
 /302
 Name: Шлем Бесстрашия;
@@ -7773,13 +7864,16 @@ Resourse: (7)
 Effects:
 
 Life: 1
-Power: 10
+Power: 12
 Area: 0
 
 Morale: 12
 Power: 6
-Area: 0;
+Area: 0
 
+Stamina: 11
+Power: -2
+Area: 0;
 
 /303
 Name: Шлем Величия;
@@ -7796,13 +7890,16 @@ Resourse: (7, 8)
 Effects:
 
 Life: 1
-Power: 10
+Power: 12
 Area: 0
 
 RangedDefence: 5
 Power: 2
-Area: 0;
+Area: 0
 
+Stamina: 11
+Power: -2
+Area: 0;
 
 /304
 Name: Шлем Древних;
@@ -7819,7 +7916,7 @@ Resourse: (7, 8, 9)
 Effects:
 
 Life: 1
-Power: 12
+Power: 14
 Area: 0
 
 Defence: 4
@@ -7832,6 +7929,10 @@ Area: 0
 
 Resistance: 6
 Power: 1
+Area: 0
+
+Stamina: 11
+Power: -3
 Area: 0;
 
 
@@ -8268,7 +8369,6 @@ Parry: 53
 Power: 1
 Area: 0;
 
-
 /322
 Name: Перчатки Доблести;
 Slot: 8
@@ -8294,7 +8394,6 @@ Area: 0
 Parry: 53
 Power: 2
 Area: 0;
-
 
 /323
 Name: Перчатки Воли;
@@ -8326,7 +8425,6 @@ Morale: 12
 Power: 1
 Area: 0;
 
-
 /324
 Name: Перчатки Величия;
 Slot: 8
@@ -8357,7 +8455,6 @@ ArmyPayment: 997
 Power: 10
 Area: 0;
 
-
 /325
 Name: Перчатки Сокрушения;
 Slot: 8
@@ -8382,6 +8479,10 @@ Area: 0
 
 CounterAttack: 3
 Power: 3
+Area: 0
+
+Stamina: 11
+Power: -1
 Area: 0;
 
 
@@ -8775,9 +8876,8 @@ Power: 8
 Area: 0
 
 Stamina: 11
-Power: 3
+Power: 2
 Area: 0;
-
 
 /343
 Name: Обсидиановый наруч;
@@ -8797,14 +8897,13 @@ Life: 1
 Power: 8
 Area: 0
 
-Resist: 6
+Defence: 4
 Power: 1
 Area: 0
 
-Defence: 4
+Resist: 6
 Power: 1
 Area: 0;
-
 
 /344
 Name: Наруч Гор;
@@ -8834,6 +8933,10 @@ Area: 0
 
 HillDweller: 33
 Power: 2
+Area: 0
+
+Stamina: 11
+Power: -1
 Area: 0;
 
 
@@ -9499,8 +9602,8 @@ Resist: 6
 Power: 2
 Area: 0
 
-ExpGain: 991
-Power: 15
+ResistAll: 3006
+Power: 1
 Area: 0;
 
 
@@ -9892,7 +9995,7 @@ GoldCost: 100
 GemCost: 5
 ShopLevel: 3
 Rarity: 2
-Building: 0
+Building: 198
 Pic: 78
 Resourse: (0)
 Effects:
@@ -9992,7 +10095,7 @@ Power: 5
 Area: 0
 
 RangedDefence: 5
-Power: 5
+Power: 4
 Area: 0
 
 Resist: 6
@@ -10030,11 +10133,11 @@ Power: 1
 Area: 0
 
 Attack: 2
-Power: 7
+Power: 9
 Area: 0
 
 CounterAttack: 3
-Power: 6
+Power: 8
 Area: 0;
 
 /399
@@ -10112,12 +10215,12 @@ Power: 8
 Area: 0
 
 Morale: 12
-Power: 6
-Area: 0
+Power: 2
+Area: 1
 
 AimedShot: 77
-Power: 4
-Area: 0;
+Power: 2
+Area: 1;
 
 /402
 Name: Чешуя Хасарта;
@@ -10138,7 +10241,7 @@ Power: 4
 Area: 0
 
 RangedDefence: 5
-Power: 4
+Power: 3
 Area: 0
 
 Resist: 6
@@ -10156,6 +10259,7 @@ Area: 0
 Speed: 7
 Power: -1
 Area: 0;
+
 
 /403
 Name: Знамя Единства;
@@ -10994,7 +11098,7 @@ GoldCost: 100
 GemCost: 10
 ShopLevel: 4
 Rarity: 3
-Building: 0
+Building: 197
 Pic: 450
 Resourse: (0)
 Effects:
@@ -11430,21 +11534,25 @@ Resourse: (7, 7, 7, 8)
 Effects:
 
 Defence: 4
-Power: 11
+Power: 10
 Area: 0
 
 RangedDefence: 5
-Power: 11
+Power: 14
 Area: 0
 
 Speed: 7
 Power: -1
+Area: 0
+
+Stamina: 11
+Power: -5
 Area: 0;
 
 /467
 Name: Пояс Гарроса;
 Slot: 5
-Class: 0
+Class: 8
 Durability: 60
 GoldCost: 1100
 GemCost: 150
@@ -11473,6 +11581,10 @@ Area: 0
 
 Forester: 32
 Power: 2
+Area: 0
+
+Stamina: 11
+Power: -1
 Area: 0;
 
 /468
@@ -11494,11 +11606,11 @@ Power: 10
 Area: 0
 
 Defence: 4
-Power: 2
+Power: 1
 Area: 0
 
 RangedDefence: 5
-Power: 2
+Power: 1
 Area: 0
 
 Resist: 6
@@ -11507,6 +11619,10 @@ Area: 0
 
 Hillwalk: 33
 Power: 2
+Area: 0
+
+Stamina: 11
+Power: -1
 Area: 0;
 
 /469
@@ -11528,15 +11644,19 @@ Power: 10
 Area: 0
 
 Defence: 4
-Power: 3
+Power: 2
 Area: 0
 
 RangedDefence: 5
-Power: 3
+Power: 1
 Area: 0
 
 Smithing: 995
 Power: 10
+Area: 0
+
+Stamina: 11
+Power: -1
 Area: 0;
 
 /470
@@ -11566,11 +11686,15 @@ Power: 2
 Area: 0
 
 Defence: 4
-Power: 2
+Power: 1
 Area: 0
 
 RangedDefence: 5
-Power: 2
+Power: 1
+Area: 0
+
+Stamina: 11
+Power: -1
 Area: 0;
 
 /471
@@ -11588,7 +11712,7 @@ Resourse: (7, 8, 9)
 Effects:
 
 Life: 1
-Power: 10
+Power: 12
 Area: 0
 
 Defence: 4
@@ -11605,6 +11729,10 @@ Area: 0
 
 Morale: 12
 Power: 7
+Area: 0
+
+Stamina: 11
+Power: -2
 Area: 0;
 
 /472
@@ -11644,11 +11772,11 @@ Resourse: (7, 8, 8)
 Effects:
 
 Defence: 4
-Power: 5
+Power: 3
 Area: 0
 
 RangedDefence: 5
-Power: 4
+Power: 5
 Area: 0
 
 Resist: 6
@@ -11661,6 +11789,10 @@ Area: 0
 
 CounterAttack: 3
 Power: 2
+Area: 0
+
+Stamina: 11
+Power: -3
 Area: 0;
 
 /474
@@ -11678,7 +11810,7 @@ Resourse: (7, 9)
 Effects:
 
 Attack: 2
-Power: 9
+Power: 10
 Area: 0
 
 CounterAttack: 3
@@ -11738,7 +11870,7 @@ Power: 5
 Area: 0
 
 Ammo: 10
-Power: 10
+Power: 6
 Area: 0
 
 Piercing_shot: 31
@@ -11748,7 +11880,7 @@ Area: 0;
 /477
 Name: Пояс Дариола;
 Slot: 5
-Class: 0
+Class: 6
 Durability: 60
 GoldCost: 850
 GemCost: 100
@@ -12010,11 +12142,11 @@ Power: 10
 Area: 0
 
 Defence: 4
-Power: 7
+Power: 6
 Area: 0
 
 RangedDefence: 5
-Power: 7
+Power: 5
 Area: 0
 
 Resist: 6
@@ -12024,7 +12156,7 @@ Area: 0;
 /487
 Name: Пояс Герскила;
 Slot: 5
-Class: 0
+Class: 7
 Durability: 60
 GoldCost: 900
 GemCost: 100
@@ -12044,7 +12176,7 @@ Power: 2
 Area: 0
 
 RangedDefence: 5
-Power: 2
+Power: 1
 Area: 0
 
 Resist: 6
@@ -12084,7 +12216,7 @@ Area: 1;
 /489
 Name: Браслеты Герскила;
 Slot: 10
-Class: 0
+Class: 7
 Durability: 1
 GoldCost: 1500
 GemCost: 45
@@ -12100,11 +12232,11 @@ Power: 10
 Area: 0
 
 Attack: 2
-Power: 4
+Power: 2
 Area: 0
 
 CounterAttack: 3
-Power: 3
+Power: 2
 Area: 0;
 
 /490
@@ -12126,11 +12258,11 @@ Power: 10
 Area: 0
 
 Attack: 2
-Power: 3
+Power: 2
 Area: 0
 
 CounterAttack: 3
-Power: 3
+Power: 2
 Area: 0
 
 Economy: 997
@@ -12160,7 +12292,7 @@ Power: 2
 Area: 0
 
 RangedDefence: 5
-Power: 2
+Power: 1
 Area: 1
 
 Initiative: 999
@@ -12727,6 +12859,10 @@ Area: 0
 
 Parry: 53
 Power: 4
+Area: 0
+
+Stamina: 11
+Power: -1
 Area: 0;
 
 /511
@@ -12914,11 +13050,11 @@ Resourse: (7, 5, 5)
 Effects:
 
 Defence: 4
-Power: 6
+Power: 5
 Area: 0
 
 RangedDefence: 5
-Power: 5
+Power: 4
 Area: 0
 
 Attack: 2
@@ -12992,11 +13128,11 @@ Power: 1
 Area: 0
 
 Attack: 2
-Power: 7
+Power: 8
 Area: 0
 
 CounterAttack: 3
-Power: 5
+Power: 7
 Area: 0
 
 Poison: 41
@@ -13331,6 +13467,10 @@ Area: 0
 
 Thorns: 157
 Power: 2
+Area: 0
+
+Stamina: 11
+Power: -1
 Area: 0;
 
 /533
@@ -13357,6 +13497,10 @@ Area: 0
 
 HolyArmor: 232
 Power: 25
+Area: 0
+
+Stamina: 11
+Power: -1
 Area: 0;
 
 /534
@@ -13383,6 +13527,10 @@ Area: 0
 
 Resist: 6
 Power: 3
+Area: 0
+
+Stamina: 11
+Power: -1
 Area: 0;
 
 /535
@@ -13520,11 +13668,15 @@ Power: 5
 Area: 0
 
 RangedDefence: 5
-Power: 5
+Power: 7
 Area: 0
 
 Speed: 7
 Power: -1
+Area: 0
+
+Stamina: 11
+Power: -3
 Area: 0;
 
 /540
@@ -13572,11 +13724,15 @@ Power: 7
 Area: 0
 
 RangedDefence: 5
-Power: 7
+Power: 8
 Area: 0
 
 Speed: 7
 Power: -1
+Area: 0
+
+Stamina: 11
+Power: -4
 Area: 0
 
 BurningFlesh: 146
@@ -13671,6 +13827,10 @@ Area: 0
 
 BurningFlesh: 146
 Power: 1
+Area: 0
+
+Stamina: 11
+Power: -2
 Area: 0;
 
 /545
@@ -13701,6 +13861,10 @@ Area: 0
 
 FireImmunity: 101
 Power: 1
+Area: 0
+
+Stamina: 11
+Power: -2
 Area: 0;
 
 /546
@@ -13718,7 +13882,7 @@ Resourse: (2, 7, 9)
 Effects:
 
 RangedAttack: 8
-Power: 10
+Power: 8
 Area: 0
 
 ShootingRange: 9
@@ -13768,17 +13932,17 @@ GoldCost: 200
 GemCost: 25
 ShopLevel: 5
 Rarity: 4
-Building: 0
+Building: 183
 Pic: 551
 Resourse: (7, 9)
 Effects:
 
 RangedAttack: 993
-Power: 5
+Power: 4
 Area: 0
 
 Ammo: 10
-Power: 5
+Power: 4
 Area: 0
 
 CripplingArrows: 128
@@ -14394,7 +14558,7 @@ Resourse: (7, 7, 7, 9)
 Effects:
 
 Life: 1
-Power: -10
+Power: -8
 Area: 0
 
 Defence: 4
@@ -14402,19 +14566,19 @@ Power: 8
 Area: 0
 
 RangedDefence: 5
-Power: 8
-Area: 0
-
-Speed: 7
-Power: -1
+Power: 10
 Area: 0
 
 DrainLife: 68
 Power: 25
 Area: 0
 
-RangeDrain: 168
-Power: 25
+Speed: 7
+Power: -1
+Area: 0
+
+Stamina: 11
+Power: -4
 Area: 0;
 
 /577
@@ -14432,7 +14596,7 @@ Resourse: (7, 9)
 Effects:
 
 Life: 1
-Power: -5
+Power: -4
 Area: 0
 
 Defence: 4
@@ -14449,6 +14613,10 @@ Area: 0
 
 BloodRage: 197
 Power: 2
+Area: 0
+
+Stamina: 11
+Power: -2
 Area: 0;
 
 /578
@@ -14466,7 +14634,7 @@ Resourse: (7, 7, 8)
 Effects:
 
 Life: 1
-Power: -5
+Power: -3
 Area: 0
 
 Defence: 4
@@ -14516,7 +14684,7 @@ Power: 25
 Area: 0
 
 RangeDrain: 168
-Power: 25
+Power: 50
 Area: 0;
 
 /580
@@ -14551,6 +14719,10 @@ Area: 0
 
 ArmorPiercing: 30
 Power: 1
+Area: 0
+
+Stamina: 11
+Power: -2
 Area: 0;
 
 /581
@@ -14568,7 +14740,7 @@ Resourse: (7, 9, 9)
 Effects:
 
 Attack: 2
-Power: 10
+Power: 11
 Area: 0
 
 CounterAttack: 3
@@ -14714,16 +14886,20 @@ Power: 8
 Area: 0
 
 RangedDefence: 5
-Power: 8
+Power: 10
 Area: 0
+
+Morale: 12
+Power: 3
+Area: 1
 
 Speed: 7
 Power: -1
 Area: 0
 
-Morale: 12
-Power: 3
-Area: 1;
+Stamina: 11
+Power: -4
+Area: 0;
 
 /589
 Name: Наручи экзекутора;
@@ -14770,7 +14946,7 @@ Resourse: (2, 7, 8)
 Effects:
 
 Attack: 2
-Power: 8
+Power: 10
 Area: 0
 
 CounterAttack: 3
@@ -14792,7 +14968,7 @@ Area: 1;
 /591
 Name: Пояс экзекутора;
 Slot: 5
-Class: 0
+Class: 8
 Durability: 20
 GoldCost: 500
 GemCost: 30
@@ -14839,6 +15015,10 @@ Area: 0
 
 Trample: 63
 Power: 5
+Area: 0
+
+Stamina: 11
+Power: -1
 Area: 0;
 
 /593
@@ -14903,7 +15083,11 @@ Area: 0
 
 Defence: 4
 Power: 1
-Area: 1;
+Area: 1
+
+Stamina: 11
+Power: -2
+Area: 0;
 
 /595
 Name: Кольцо экзекутора;
@@ -15146,7 +15330,7 @@ Power: 1
 Area: 0
 
 RangedDefence: 5
-Power: 2
+Power: 1
 Area: 0
 
 Float: 15
@@ -15352,7 +15536,7 @@ Power: 4
 Area: 0
 
 RangedDefence: 5
-Power: 4
+Power: 3
 Area: 0
 
 Resist: 6

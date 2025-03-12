@@ -1,4 +1,4 @@
-Quantity: 230
+Quantity: 232
 
 /0
 Name: Пусто;
@@ -1384,4 +1384,16 @@ Numeric: 0
 Name: Мощь гноллов;
 Ability: 277
 Spell: 0
+Numeric: 0
+
+/231
+Name: Смертельный яд;
+Ability: 0
+Spell: 392
+Numeric: 0
+
+/232
+Name: Обратить в медведя;
+Ability: 0
+Spell: 383
 Numeric: 0

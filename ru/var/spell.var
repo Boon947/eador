@@ -1,4 +1,4 @@
-Quantity: 390
+Quantity: 392
 
 /0
 Name: Пусто;
@@ -63,7 +63,7 @@ AntiEffect: (110, 103)
 
 Effects:
 Damage: 1
-Power: 4
+Power: 5
 Duration: -1
 
 LightningSmall: 248
@@ -142,7 +142,7 @@ Duration: -1;
 
 /4
 Name: Тройное лезвие;
-Cost: 4
+Cost: 3
 LifeCost: 0
 StamCost: 1
 ItemLevel: 2
@@ -170,7 +170,7 @@ AntiEffect: (0)
 
 Effects:
 Damage: 1
-Power: 9
+Power: 10
 Duration: -1;
 
 /5
@@ -411,7 +411,7 @@ Resist: 6
 Power: -1
 Duration: 6
 
-Resist: 136
+Unheal: 136
 Power: 1
 Duration: 6;
 
@@ -772,7 +772,7 @@ Duration: -1;
 
 /21
 Name: Уязвимость;
-Cost: 1
+Cost: 2
 LifeCost: 0
 StamCost: 1
 ItemLevel: 1
@@ -813,7 +813,7 @@ Duration: 6;
 
 /22
 Name: Молния;
-Cost: 4
+Cost: 3
 LifeCost: 0
 StamCost: 1
 ItemLevel: 1
@@ -841,7 +841,7 @@ AntiEffect: (110, 103)
 
 Effects:
 Damage: 1
-Power: 9
+Power: 10
 Duration: -1
 
 Lightning: 244
@@ -850,7 +850,7 @@ Duration: -1;
 
 /23
 Name: Взрыв;
-Cost: 13
+Cost: 11
 LifeCost: 0
 StamCost: 4
 ItemLevel: 3
@@ -878,7 +878,7 @@ AntiEffect: (110, 101)
 
 Effects:
 Damage: 1
-Power: 7
+Power: 9
 Duration: -1
 
 ExplBig: 243
@@ -1164,6 +1164,10 @@ Stamina: 11
 Power: -2
 Duration: 6
 
+Morale: 12
+Power: -1
+Duration: 6
+
 Attack: 2
 Power: -3
 Duration: 6
@@ -1178,6 +1182,10 @@ Duration: 6
 
 Speed: 7
 Power: -1
+Duration: 6
+
+Unheal: 136
+Power: 1
 Duration: 6;
 
 /31
@@ -1256,7 +1264,7 @@ Duration: -1;
 
 /33
 Name: Камнекожа;
-Cost: 4
+Cost: 5
 LifeCost: 0
 StamCost: 1
 ItemLevel: 2
@@ -1297,7 +1305,7 @@ Duration: 4;
 
 /34
 Name: Вызов чёрта;
-Cost: 12
+Cost: 13
 LifeCost: 6
 StamCost: 3
 ItemLevel: 3
@@ -1330,8 +1338,8 @@ Duration: -1;
 
 /35
 Name: Вызов адской гончей;
-Cost: 13
-LifeCost: 5
+Cost: 12
+LifeCost: 4
 StamCost: 3
 ItemLevel: 3
 Level: 2
@@ -1441,7 +1449,7 @@ Duration: -1;
 
 /38
 Name: Экзорцизм;
-Cost: 8
+Cost: 9
 LifeCost: 0
 StamCost: 1
 ItemLevel: 2
@@ -1574,13 +1582,17 @@ RangedDefence: 5
 Power: 2
 Duration: 4
 
+Poison: 1
+Power: -2
+Duration: 4
+
 Damage: 1
 Power: 10
 Duration: -1;
 
 /41
 Name: Кислота;
-Cost: 18
+Cost: 16
 LifeCost: 0
 StamCost: 3
 ItemLevel: 4
@@ -1616,7 +1628,7 @@ Power: -2
 Duration: 3
 
 Damage: 1
-Power: 15
+Power: 16
 Duration: -1;
 
 /42
@@ -1687,7 +1699,7 @@ Duration: 5;
 
 /44
 Name: Пламя Хаоса;
-Cost: 20
+Cost: 18
 LifeCost: 0
 StamCost: 4
 ItemLevel: 3
@@ -1715,7 +1727,7 @@ AntiEffect: (110)
 
 Effects:
 Damage: 1
-Power: 20
+Power: 22
 Duration: -1
 
 ExplNorm: 242
@@ -1724,9 +1736,9 @@ Duration: -1;
 
 /45
 Name: Вызов демона;
-Cost: 25
-LifeCost: 0
-StamCost: 4
+Cost: 30
+LifeCost: 10
+StamCost: 5
 ItemLevel: 4
 Level: 3
 PowerMod: 100
@@ -1740,7 +1752,7 @@ Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 0
-Sacrifice: 1
+Sacrifice: 0
 ResistPower: 0
 ResistDuration: 0
 DefencePower: 0
@@ -1865,7 +1877,7 @@ LifeCost: 0
 StamCost: 4
 ItemLevel: 4
 Level: 3
-PowerMod: 100
+PowerMod: 500
 DurationMod: 0
 Target: 4
 Area: 1
@@ -2037,14 +2049,14 @@ Cost: 20
 LifeCost: 0
 StamCost: 3
 ItemLevel: 5
-Level: 4
+Level: 3
 PowerMod: 0
 DurationMod: 25
 Target: 0
 Area: 2
 Radius: 0
 Karma: 0
-Building: 288
+Building: 287
 Unloot: 0
 Negative: 0
 OnEnemy: 0
@@ -2384,6 +2396,10 @@ Stamina: 11
 Power: -2
 Duration: 6
 
+Stamina: 11
+Power: -1
+Duration: 6
+
 Attack: 2
 Power: -3
 Duration: 6
@@ -2398,6 +2414,10 @@ Duration: 6
 
 Speed: 7
 Power: -1
+Duration: 6
+
+Unheal: 136
+Power: 1
 Duration: 6;
 
 /63
@@ -2435,7 +2455,7 @@ Duration: -1;
 
 /64
 Name: Армагеддон;
-Cost: 70
+Cost: 65
 LifeCost: 0
 StamCost: 7
 ItemLevel: 4
@@ -2463,7 +2483,7 @@ AntiEffect: (110, 101)
 
 Effects:
 Damage: 1
-Power: 15
+Power: 18
 Duration: -1
 
 ExplNorm: 242
@@ -2472,7 +2492,7 @@ Duration: -1;
 
 /65
 Name: Испепеление;
-Cost: 40
+Cost: 37
 LifeCost: 0
 StamCost: 5
 ItemLevel: 4
@@ -2500,7 +2520,7 @@ AntiEffect: (110, 101)
 
 Effects:
 Damage: 1
-Power: 30
+Power: 32
 Duration: -1
 
 ExplNorm: 242
@@ -2509,7 +2529,7 @@ Duration: -1;
 
 /66
 Name: Огненная буря;
-Cost: 80
+Cost: 75
 LifeCost: 0
 StamCost: 9
 ItemLevel: 5
@@ -2579,7 +2599,7 @@ Duration: -1;
 
 /68
 Name: Чёрная магия;
-Cost: 70
+Cost: 65
 LifeCost: 10
 StamCost: 5
 ItemLevel: 5
@@ -2669,7 +2689,7 @@ Duration: -1;
 
 /70
 Name: Остановка времени;
-Cost: 50
+Cost: 60
 LifeCost: 0
 StamCost: 7
 ItemLevel: 5
@@ -2904,11 +2924,7 @@ AntiEffect: (0)
 Effects:
 Summon: 1071
 Power: 0
-Duration: -1
-
-NoCastOnSelf: 149
-Power: 1
-Duration: 2;
+Duration: -1;
 
 /77
 Name: Призыв феникса;
@@ -2945,7 +2961,7 @@ Duration: -1
 
 NoCastOnSelf: 149
 Power: 1
-Duration: 4;
+Duration: 3;
 
 /78
 Name: Знак Аард;
@@ -3193,7 +3209,7 @@ Duration: -1;
 Name: Контроль разума;
 Cost: 18
 LifeCost: 0
-StamCost: 2
+StamCost: 5
 ItemLevel: 8
 Level: 5
 PowerMod: 50
@@ -3537,7 +3553,7 @@ Duration: 4;
 
 /94
 Name: Призвать рой ос;
-Cost: 5
+Cost: 6
 LifeCost: 0
 StamCost: 2
 ItemLevel: 3
@@ -3570,7 +3586,7 @@ Duration: 3;
 
 /95
 Name: Призвать тучу ос;
-Cost: 19
+Cost: 22
 LifeCost: 0
 StamCost: 2
 ItemLevel: 4
@@ -3581,7 +3597,7 @@ Target: 3
 Area: 1
 Radius: 1
 Karma: 0
-Building: 287
+Building: 0
 Unloot: 0
 Negative: 1
 OnEnemy: 1
@@ -3608,7 +3624,7 @@ LifeCost: 0
 StamCost: 1
 ItemLevel: 8
 Level: 5
-PowerMod: 200
+PowerMod: 300
 DurationMod: 0
 Target: 1
 Area: 1
@@ -4407,7 +4423,7 @@ Duration: 6;
 
 /116
 Name: Гейзер;
-Cost: 19
+Cost: 17
 LifeCost: 0
 StamCost: 4
 ItemLevel: 3
@@ -4698,12 +4714,12 @@ Duration: -1;
 
 /123
 Name: Ледяная глыба;
-Cost: 8
+Cost: 7
 LifeCost: 0
 StamCost: 1
 ItemLevel: 3
 Level: 2
-PowerMod: 100
+PowerMod: 150
 DurationMod: 0
 Target: 1
 Area: 1
@@ -4726,7 +4742,7 @@ AntiEffect: (0)
 
 Effects:
 Damage: 1
-Power: 12
+Power: 16
 Duration: -1;
 
 /124
@@ -4764,7 +4780,7 @@ Duration: 3;
 
 /125
 Name: Густой туман;
-Cost: 16
+Cost: 19
 LifeCost: 0
 StamCost: 3
 ItemLevel: 4
@@ -5085,7 +5101,7 @@ AntiEffect: (0)
 Effects:
 Poison_Strike: 41
 Power: 3
-Duration: 4;
+Duration: 6;
 
 /134
 Name: Кровь болот;
@@ -5382,7 +5398,7 @@ LifeCost: 0
 StamCost: 1
 ItemLevel: 2
 Level: 1
-PowerMod: 100
+PowerMod: 200
 DurationMod: 0
 Target: 1
 Area: 1
@@ -5410,7 +5426,7 @@ Duration: -1;
 
 /143
 Name: Погибель нечестивых;
-Cost: 6
+Cost: 9
 LifeCost: 0
 StamCost: 1
 ItemLevel: 2
@@ -5734,7 +5750,7 @@ Duration: 4;
 
 /151
 Name: Святое слово;
-Cost: 65
+Cost: 55
 LifeCost: 5
 StamCost: 7
 ItemLevel: 5
@@ -5767,7 +5783,7 @@ Duration: -1;
 
 /152
 Name: Божественная месть;
-Cost: 40
+Cost: 37
 LifeCost: 0
 StamCost: 5
 ItemLevel: 5
@@ -5795,7 +5811,7 @@ AntiEffect: (110)
 
 Effects:
 Damage: 1
-Power: 15
+Power: 16
 Duration: -1;
 
 /153
@@ -5838,7 +5854,7 @@ LifeCost: 0
 StamCost: 6
 ItemLevel: 4
 Level: 4
-PowerMod: 100
+PowerMod: 150
 DurationMod: 0
 Target: 5
 Area: 1
@@ -5912,7 +5928,7 @@ LifeCost: 0
 StamCost: 1
 ItemLevel: 4
 Level: 3
-PowerMod: 100
+PowerMod: 200
 DurationMod: 0
 Target: 1
 Area: 1
@@ -5931,10 +5947,10 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 110
 UnitKind: (0)
-AntiEffect: (110)
+AntiEffect: (0)
 
 Effects:
-Damage: 1
+ChainLightning: 259
 Power: 20
 Duration: -1;
 
@@ -6006,12 +6022,12 @@ Duration: 0;
 
 /159
 Name: Небесный гром;
-Cost: 12
+Cost: 10
 LifeCost: 0
 StamCost: 3
 ItemLevel: 4
 Level: 2
-PowerMod: 100
+PowerMod: 150
 DurationMod: 0
 Target: 1
 Area: 1
@@ -6034,7 +6050,7 @@ AntiEffect: (110, 103)
 
 Effects:
 Damage: 1
-Power: 12
+Power: 15
 Duration: -1
 
 Lightning: 244
@@ -6043,7 +6059,7 @@ Duration: -1;
 
 /160
 Name: Цепь молний;
-Cost: 60
+Cost: 50
 LifeCost: 0
 StamCost: 7
 ItemLevel: 4
@@ -6195,7 +6211,7 @@ Duration: 6;
 
 /164
 Name: Землетрясение;
-Cost: 50
+Cost: 45
 LifeCost: 0
 StamCost: 6
 ItemLevel: 4
@@ -6228,7 +6244,7 @@ Duration: -1;
 
 /165
 Name: Огненный дождь;
-Cost: 14
+Cost: 12
 LifeCost: 0
 StamCost: 4
 ItemLevel: 4
@@ -6551,7 +6567,7 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 163
-UnitKind: (-1)
+UnitKind: (-1, 26)
 AntiEffect: (215)
 
 Effects:
@@ -6720,11 +6736,11 @@ UnitKind: (2, 4, 22, 23)
 AntiEffect: (110)
 
 Effects:
-Reincarnation: 74
+Fearless: 19
 Power: 1
 Duration: 10
 
-Fearless: 19
+Reincarnation: 74
 Power: 1
 Duration: 10;
 
@@ -6758,7 +6774,7 @@ AntiEffect: (19, 110, 104)
 
 Effects:
 Morale: 12
-Power: 20
+Power: 16
 Duration: -1;
 
 /180
@@ -7088,7 +7104,7 @@ Duration: 4;
 
 /189
 Name: Объятия Тьмы;
-Cost: 18
+Cost: 21
 LifeCost: 0
 StamCost: 3
 ItemLevel: 5
@@ -7491,8 +7507,12 @@ UnitKind: (0)
 AntiEffect: (0)
 
 Effects:
+ExtraLong: 113
+Power: 3
+Duration: -1
+
 Summon: 1186
-Power: 0
+Power: 3
 Duration: -1;
 
 /198
@@ -7612,7 +7632,7 @@ Duration: 1;
 
 /201
 Name: Тёмное опустошение;
-Cost: 12
+Cost: 17
 LifeCost: 0
 StamCost: 4
 ItemLevel: 4
@@ -7695,7 +7715,7 @@ LifeCost: 0
 StamCost: 5
 ItemLevel: 4
 Level: 1
-PowerMod: 100
+PowerMod: 50
 DurationMod: 0
 Target: 4
 Area: 1
@@ -7728,7 +7748,7 @@ LifeCost: 0
 StamCost: 5
 ItemLevel: 4
 Level: 1
-PowerMod: 100
+PowerMod: 50
 DurationMod: 0
 Target: 4
 Area: 1
@@ -7761,7 +7781,7 @@ LifeCost: 0
 StamCost: 6
 ItemLevel: 5
 Level: 2
-PowerMod: 100
+PowerMod: 50
 DurationMod: 0
 Target: 4
 Area: 1
@@ -7794,7 +7814,7 @@ LifeCost: 0
 StamCost: 7
 ItemLevel: 5
 Level: 3
-PowerMod: 100
+PowerMod: 50
 DurationMod: 0
 Target: 4
 Area: 1
@@ -7827,7 +7847,7 @@ LifeCost: 0
 StamCost: 3
 ItemLevel: 4
 Level: 2
-PowerMod: 100
+PowerMod: 500
 DurationMod: 0
 Target: 4
 Area: 1
@@ -7933,7 +7953,7 @@ Duration: 3;
 
 /210
 Name: Излечение нежити;
-Cost: 20
+Cost: 18
 LifeCost: 0
 StamCost: 4
 ItemLevel: 4
@@ -7966,7 +7986,7 @@ Duration: -1;
 
 /211
 Name: Восстановление нежити;
-Cost: 12
+Cost: 13
 LifeCost: 0
 StamCost: 3
 ItemLevel: 4
@@ -8003,7 +8023,7 @@ Duration: -1;
 
 /212
 Name: Дезинтеграция;
-Cost: 80
+Cost: 75
 LifeCost: 0
 StamCost: 10
 ItemLevel: 6
@@ -8036,7 +8056,7 @@ Duration: -1;
 
 /213
 Name: Вечное рабство;
-Cost: 30
+Cost: 27
 LifeCost: 0
 StamCost: 3
 ItemLevel: 3
@@ -8105,15 +8125,15 @@ Name: Землепроходчество;
 Cost: 30
 LifeCost: 0
 StamCost: 5
-ItemLevel: 4
-Level: 3
+ItemLevel: 2
+Level: 2
 PowerMod: 0
 DurationMod: 100
 Target: 0
 Area: 2
 Radius: 0
 Karma: 0
-Building: 287
+Building: 0
 Unloot: 0
 Negative: 0
 OnEnemy: 0
@@ -8167,7 +8187,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 187
 UnitKind: (0)
-AntiEffect: (110)
+AntiEffect: (0)
 
 Effects:
 Defence: 4
@@ -8192,7 +8212,7 @@ Duration: 5;
 
 /217
 Name: Ловчая лоза;
-Cost: 10
+Cost: 11
 LifeCost: 0
 StamCost: 4
 ItemLevel: 3
@@ -8225,7 +8245,7 @@ Duration: 4;
 
 /218
 Name: Призрачный клинок;
-Cost: 8
+Cost: 7
 LifeCost: 0
 StamCost: 2
 ItemLevel: 3
@@ -8368,7 +8388,7 @@ Duration: -1;
 
 /221
 Name: Разрушение нежити;
-Cost: 100
+Cost: 80
 LifeCost: 15
 StamCost: 8
 ItemLevel: 6
@@ -8638,20 +8658,20 @@ Power: -1
 Duration: 3
 
 Attack: 2
-Power: -1
+Power: -2
 Duration: 3
 
 CounterAttack: 3
-Power: -1
+Power: -2
 Duration: 3
 
 RangedAttack: 8
-Power: -1
+Power: -2
 Duration: 3;
 
 /228
 Name: Ледяной шторм;
-Cost: 60
+Cost: 55
 LifeCost: 0
 StamCost: 8
 ItemLevel: 5
@@ -8782,7 +8802,7 @@ Duration: -1;
 
 /231
 Name: Массовое осушение;
-Cost: 60
+Cost: 50
 LifeCost: 0
 StamCost: 4
 ItemLevel: 4
@@ -8828,7 +8848,7 @@ LifeCost: 0
 StamCost: 3
 ItemLevel: 3
 Level: 3
-PowerMod: 50
+PowerMod: 100
 DurationMod: 0
 Target: 3
 Area: 1
@@ -8855,7 +8875,7 @@ FlagEffect: 1
 FlagEffect: 1
 
 Damage: 1
-Power: 10
+Power: 15
 Duration: -1;
 
 /233
@@ -9126,7 +9146,7 @@ FlagEffect: -1;
 
 /239
 Name: Адский огонь;
-Cost: 35
+Cost: 32
 LifeCost: 10
 StamCost: 6
 ItemLevel: 5
@@ -9167,7 +9187,7 @@ Duration: -1;
 
 /240
 Name: Вулкан;
-Cost: 80
+Cost: 70
 LifeCost: 0
 StamCost: 15
 ItemLevel: 5
@@ -9195,7 +9215,7 @@ AntiEffect: (101)
 
 Effects:
 Damage: 1
-Power: 10
+Power: 12
 Duration: -1
 
 ExplNorm: 242
@@ -9394,7 +9414,7 @@ PowerMod: 100
 DurationMod: 0
 Target: 0
 Area: 2
-Radius: 1
+Radius: 0
 Karma: 0
 Building: 137
 Unloot: 0
@@ -9558,7 +9578,7 @@ Duration: -1;
 
 /251
 Name: Прах Смерти;
-Cost: 80
+Cost: 70
 LifeCost: 0
 StamCost: 10
 ItemLevel: 6
@@ -9869,9 +9889,9 @@ ItemLevel: 3
 Level: 2
 PowerMod: 0
 DurationMod: 100
-Target: 1
+Target: 3
 Area: 1
-Radius: 0
+Radius: 1
 Karma: 0
 Building: 286
 Unloot: 0
@@ -9890,15 +9910,15 @@ AntiEffect: (110)
 
 Effects:
 Attack: 2
-Power: 5
+Power: 3
 Duration: 5
 
 CounterAttack: 3
-Power: 5
+Power: 3
 Duration: 5
 
 RangedAttack: 8
-Power: 5
+Power: 3
 Duration: 5
 
 AmmoResting: 200
@@ -10026,7 +10046,7 @@ Duration: -1;
 
 /263
 Name: Каменная корка;
-Cost: 12
+Cost: 14
 LifeCost: 0
 StamCost: 2
 ItemLevel: 2
@@ -10343,7 +10363,7 @@ LifeCost: 0
 StamCost: 3
 ItemLevel: 4
 Level: 3
-PowerMod: 150
+PowerMod: 200
 DurationMod: 0
 Target: 1
 Area: 1
@@ -10370,7 +10390,7 @@ FlagEffect: 1
 FlagEffect: 1
 
 Damage: 1
-Power: 15
+Power: 20
 Duration: -1;
 
 /272
@@ -10414,7 +10434,7 @@ Duration: -1;
 Name: Подвижность;
 Cost: 2
 LifeCost: 0
-StamCost: 1
+StamCost: 3
 ItemLevel: 8
 Level: 5
 PowerMod: 0
@@ -10447,7 +10467,7 @@ Duration: 1;
 Name: Зарядить;
 Cost: 2
 LifeCost: 0
-StamCost: 1
+StamCost: 2
 ItemLevel: 8
 Level: 5
 PowerMod: 0
@@ -10480,8 +10500,8 @@ Duration: -1;
 Name: Призвать волков;
 Cost: 18
 LifeCost: 0
-StamCost: 4
-ItemLevel: 2
+StamCost: 5
+ItemLevel: 3
 Level: 2
 PowerMod: 25
 DurationMod: 0
@@ -10515,12 +10535,12 @@ Duration: -1;
 
 /276
 Name: Призвать медведей;
-Cost: 35
+Cost: 45
 LifeCost: 0
-StamCost: 5
+StamCost: 6
 ItemLevel: 4
 Level: 3
-PowerMod: 100
+PowerMod: 75
 DurationMod: 0
 Target: 5
 Area: 1
@@ -10547,12 +10567,12 @@ Power: 1
 Duration: -1
 
 Summon: 1210
-Power: 10
+Power: 4
 Duration: -1;
 
 /277
 Name: Очищающее пламя;
-Cost: 50
+Cost: 45
 LifeCost: 10
 StamCost: 5
 ItemLevel: 4
@@ -10598,7 +10618,7 @@ LifeCost: 1
 StamCost: 1
 ItemLevel: 8
 Level: 5
-PowerMod: 200
+PowerMod: 125
 DurationMod: 0
 Target: 1
 Area: 1
@@ -10778,7 +10798,7 @@ Duration: -1;
 
 /283
 Name: Душеловка;
-Cost: 5
+Cost: 7
 LifeCost: 0
 StamCost: 1
 ItemLevel: 1
@@ -10816,7 +10836,7 @@ LifeCost: 1
 StamCost: 1
 ItemLevel: 8
 Level: 5
-PowerMod: 200
+PowerMod: 150
 DurationMod: 0
 Target: 1
 Area: 1
@@ -10879,6 +10899,10 @@ UnitKind: (0)
 AntiEffect: (0)
 
 Effects:
+ExtraLong: 113
+Power: 1
+Duration: -1
+
 Summon: 1218
 Power: 0
 Duration: -1;
@@ -10890,7 +10914,7 @@ LifeCost: 40
 StamCost: 3
 ItemLevel: 4
 Level: 2
-PowerMod: 100
+PowerMod: 500
 DurationMod: 0
 Target: 4
 Area: 1
@@ -11047,8 +11071,12 @@ UnitKind: (0)
 AntiEffect: (0)
 
 Effects:
+ExtraLong: 113
+Power: 3
+Duration: -1
+
 Summon: 1224
-Power: 0
+Power: 2
 Duration: -1;
 
 /290
@@ -11057,7 +11085,7 @@ Cost: 6
 LifeCost: 0
 StamCost: 2
 ItemLevel: 3
-Level: 8
+Level: 5
 PowerMod: 0
 DurationMod: 100
 Target: 1
@@ -11081,16 +11109,24 @@ AntiEffect: (110)
 
 Effects:
 Attack: 2
-Power: -2
+Power: -1
 Duration: 6
 
 CounterAttack: 3
-Power: -2
+Power: -1
 Duration: 6
 
 RangedAttack: 8
-Power: -2
+Power: -1
 Duration: 6
+
+Defence: 4
+Power: -2
+Duration: 4
+
+RangedDefence: 5
+Power: 2
+Duration: 4
 
 Resist: 6
 Power: -2
@@ -11492,7 +11528,7 @@ Negative: 1
 OnEnemy: 1
 OnAlly: 0
 Sacrifice: 0
-ResistPower: 50
+ResistPower: 75
 ResistDuration: 0
 DefencePower: 0
 RestoreOnly: 0
@@ -12384,7 +12420,7 @@ LifeCost: 3
 StamCost: 2
 ItemLevel: 8
 Level: 5
-PowerMod: 100
+PowerMod: 200
 DurationMod: 0
 Target: 3
 Area: 1
@@ -12668,20 +12704,20 @@ DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 279
-UnitKind: (-16)
+UnitKind: (-16, 97)
 AntiEffect: (0)
 
 Effects:
-Reincarnation: 74
-Power: 1
-Duration: 2
-
 Painless: 13
 Power: 1
 Duration: 2
 
 Smite_Evil: 120
 Power: 4
+Duration: 2
+
+Reincarnation: 74
+Power: 1
 Duration: 2
 
 NoCastOnSelf: 149
@@ -13469,7 +13505,7 @@ Power: -6
 Duration: 3
 
 Morale: 12
-Power: -2
+Power: 2
 Duration: -1;
 
 /347
@@ -13650,7 +13686,7 @@ Duration: 3;
 
 /351
 Name: Штормовой ветер;
-Cost: 12
+Cost: 15
 LifeCost: 0
 StamCost: 2
 ItemLevel: 4
@@ -13757,12 +13793,12 @@ Duration: -1;
 
 /354
 Name: Вызов пересмешника;
-Cost: 8
-LifeCost: 5
+Cost: 11
+LifeCost: 10
 StamCost: 2
 ItemLevel: 3
 Level: 1
-PowerMod: 100
+PowerMod: 50
 DurationMod: 0
 Target: 5
 Area: 1
@@ -14498,7 +14534,7 @@ LifeCost: 0
 StamCost: 1
 ItemLevel: 2
 Level: 1
-PowerMod: 0
+PowerMod: 25
 DurationMod: 0
 Target: 1
 Area: 0
@@ -14604,7 +14640,7 @@ Duration: -1;
 
 /377
 Name: Волшебная роща;
-Cost: 50
+Cost: 40
 LifeCost: 0
 StamCost: 5
 ItemLevel: 5
@@ -14631,22 +14667,26 @@ UnitKind: (0)
 AntiEffect: (0)
 
 Effects:
+ExtraLong: 113
+Power: 2
+Duration: -1
+
 Summon: 251
 Power: 2
 Duration: -1
 
 Summon: 1108
-Power: 0
+Power: 8
 Duration: -1;
 
 /378
 Name: Призвать стаю крыс;
 Cost: 25
 LifeCost: 0
-StamCost: 3
+StamCost: 5
 ItemLevel: 4
 Level: 3
-PowerMod: 150
+PowerMod: 100
 DurationMod: 0
 Target: 5
 Area: 1
@@ -14705,6 +14745,10 @@ UnitKind: (0)
 AntiEffect: (0)
 
 Effects:
+ExtraLong: 113
+Power: 1
+Duration: -1
+
 Summon: 1082
 Power: 0
 Duration: -1;
@@ -14850,19 +14894,19 @@ Duration: 4;
 
 /383
 Name: Обратить в медведя;
-Cost: 25
+Cost: 18
 LifeCost: 0
-StamCost: 4
-ItemLevel: 8
-Level: 5
+StamCost: 3
+ItemLevel: 3
+Level: 3
 PowerMod: 0
-DurationMod: 100
+DurationMod: 200
 Target: 1
 Area: 1
 Radius: 0
 Karma: 0
-Building: 0
-Unloot: 1
+Building: 287
+Unloot: 0
 Negative: 0
 OnEnemy: 0
 OnAlly: 1
@@ -14879,7 +14923,7 @@ AntiEffect: (110)
 Effects:
 Morph: 1210
 Power: 1
-Duration: 5;
+Duration: 6;
 
 /384
 Name: Духовная связь;
@@ -14921,7 +14965,7 @@ LifeCost: 0
 StamCost: 1
 ItemLevel: 8
 Level: 5
-PowerMod: 100
+PowerMod: 200
 DurationMod: 0
 Target: 1
 Area: 1
@@ -14944,7 +14988,7 @@ AntiEffect: (285)
 
 Effects:
 RedLifeCost: 285
-Power: 1
+Power: 3
 Duration: 4;
 
 /386
@@ -14986,7 +15030,7 @@ Duration: -1;
 
 /387
 Name: Призвать квазита;
-Cost: 8
+Cost: 9
 LifeCost: 0
 StamCost: 2
 ItemLevel: 2
@@ -15055,7 +15099,7 @@ Name: Призвать наяду;
 Cost: 6
 LifeCost: 0
 StamCost: 1
-ItemLevel: 1
+ItemLevel: 2
 Level: 1
 PowerMod: 150
 DurationMod: 0
@@ -15087,10 +15131,10 @@ Duration: -1;
 Name: Призвать волка;
 Cost: 4
 LifeCost: 0
-StamCost: 1
-ItemLevel: 1
+StamCost: 2
+ItemLevel: 2
 Level: 1
-PowerMod: 200
+PowerMod: 150
 DurationMod: 0
 Target: 5
 Area: 1
@@ -15115,3 +15159,69 @@ Effects:
 Summon: 1083
 Power: 5
 Duration: -1;
+
+/391
+Name: Призыв кадавра;
+Cost: 50
+LifeCost: 0
+StamCost: 8
+ItemLevel: 8
+Level: 5
+PowerMod: 100
+DurationMod: 0
+Target: 5
+Area: 1
+Radius: 0
+Karma: 0
+Building: 0
+Unloot: 1
+Negative: 0
+OnEnemy: 0
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 0
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 14
+UnitKind: (0)
+AntiEffect: (0)
+
+Effects:
+Summon: 1171
+Power: 0
+Duration: -1;
+
+/392
+Name: Смертельный яд;
+Cost: 44
+LifeCost: 0
+StamCost: 5
+ItemLevel: 5
+Level: 4
+PowerMod: 35
+DurationMod: 0
+Target: 0
+Area: 2
+Radius: 0
+Karma: -2
+Building: 288
+Unloot: 0
+Negative: 1
+OnEnemy: 1
+OnAlly: 0
+Sacrifice: 0
+ResistPower: 0
+ResistDuration: 25
+DefencePower: 0
+RestoreOnly: 0
+Cumulative: 0
+Sound: 262
+UnitKind: (2, 4, 22, 23)
+AntiEffect: (108)
+
+Effects:
+Poison: 1
+Power: -10
+Duration: 3;

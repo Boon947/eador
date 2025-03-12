@@ -1,4 +1,4 @@
-Quantity: 852
+Quantity: 868
 
 /0
 Name: Пусто;
@@ -573,7 +573,7 @@ Name: Окаменение;
 Only Once: 1
 Need: (0)
 Upg Type: 46
-Quantity: 4;
+Quantity: 3;
 
 /77
 Name: Паутина;
@@ -629,7 +629,7 @@ Name: Фуражир;
 Only Once: 0
 Need: (0)
 Upg Type: 54
-Quantity: 5;
+Quantity: 4;
 
 /85
 Name: Парирование +2;
@@ -997,9 +997,9 @@ Quantity: 1;
 /136
 Name: Подъятие зомби;
 Only Once: 1
-Need: (0)
+Need: (309)
 Upg Type: 2015
-Quantity: 2;
+Quantity: 3;
 
 /137
 Name: Повелитель нежити;
@@ -1062,7 +1062,7 @@ Name: Окаменение;
 Only Once: 1
 Need: (0)
 Upg Type: 46
-Quantity: 6;
+Quantity: 4;
 
 /146
 Name: Окаменение +1;
@@ -1121,7 +1121,7 @@ Name: Подъятие упыря;
 Only Once: 1
 Need: (0)
 Upg Type: 2028
-Quantity: 3;
+Quantity: 2;
 
 /154
 Name: Подъятие призрака;
@@ -2482,7 +2482,7 @@ Name: Сила духов;
 Only Once: 1
 Need: (0)
 Upg Type: 2368
-Quantity: 1;
+Quantity: 2;
 
 /321
 Name: Умения некроманта;
@@ -2512,7 +2512,7 @@ Name: Вызов Владыки бездны;
 Only Once: 1
 Need: (0)
 Upg Type: 2172
-Quantity: 2;
+Quantity: 4;
 
 /324
 Name: Атака с разгона;
@@ -3022,7 +3022,7 @@ Name: Излечение нежити;
 Only Once: 1
 Need: (0)
 Upg Type: 2210
-Quantity: 5;
+Quantity: 3;
 
 /384
 Name: Восстановление нежити;
@@ -3083,11 +3083,11 @@ Quantity: 4
 Upg Type: 2081
 Quantity: 1
 
-Upg Type: 2014
+Upg Type: 2204
 Quantity: 2
 
 Upg Type: 2153
-Quantity: 3
+Quantity: 2
 
 Upg Type: 2224
 Quantity: 3;
@@ -3128,7 +3128,7 @@ Name: Подъятие вампира;
 Only Once: 1
 Need: (0)
 Upg Type: 2061
-Quantity: 10;
+Quantity: 8;
 
 /397
 Name: Призвать дьявола;
@@ -3191,7 +3191,7 @@ Name: Кровь демонов;
 Only Once: 1
 Need: (0)
 Upg Type: 2232
-Quantity: 1;
+Quantity: 2;
 
 /406
 Name: Общее благословение;
@@ -3863,11 +3863,11 @@ Upg Type: 10
 Quantity: 1;
 
 /469
-Name: Ремонт +1;
+Name: Ремонт +3;
 Only Once: 0
 Need: (124)
 Upg Type: 124
-Quantity: 1;
+Quantity: 3;
 
 /470
 Name: Стать мастеровым;
@@ -3897,11 +3897,11 @@ Upg Type: 911
 Quantity: 1;
 
 /473
-Name: Призвать медведя;
+Name: Призвать медведей;
 Only Once: 1
 Need: (366)
 Upg Type: 2276
-Quantity: 3;
+Quantity: 5;
 
 /474
 Name: Безумная ярость -1;
@@ -4345,7 +4345,13 @@ Upg Type: 67
 Quantity: 3
 
 Upg Type: 35
-Quantity: 5;
+Quantity: 5
+
+Upg Type: 23
+Quantity: 1
+
+Upg Type: 375
+Quantity: 1;
 
 /525
 Name: Тотем;
@@ -4414,7 +4420,7 @@ Upg Type: 64
 Quantity: 216
 
 Upg Type: 95
-Quantity: 6;
+Quantity: 4;
 
 /531
 Name: Святой воитель;
@@ -4864,7 +4870,7 @@ Name: Создание хнары;
 Only Once: 1
 Need: (0)
 Upg Type: 2269
-Quantity: 4;
+Quantity: 3;
 
 /579
 Name: Газовая форма;
@@ -5901,7 +5907,7 @@ Name: Вызов демона;
 Only Once: 1
 Need: (0)
 Upg Type: 2310
-Quantity: 4
+Quantity: 3
 
 Upg Type: 10
 Quantity: 1;
@@ -6012,7 +6018,7 @@ Upg Type: 170
 Quantity: 1
 
 Upg Type: 171
-Quantity: 3
+Quantity: 4
 
 Upg Type: 172
 Quantity: 1
@@ -6366,7 +6372,7 @@ Name: Проглатывание 20;
 Only Once: 0
 Need: (0)
 Upg Type: 268
-Quantity: 5
+Quantity: 8
 
 Upg Type: 269
 Quantity: 20;
@@ -6379,11 +6385,11 @@ Upg Type: 269
 Quantity: 10;
 
 /753
-Name: Переваривание +5;
+Name: Переваривание +6;
 Only Once: 0
 Need: (268)
 Upg Type: 268
-Quantity: 5;
+Quantity: 6;
 
 /754
 Name: Могущество Леса;
@@ -6477,6 +6483,9 @@ Quantity: 1
 Upg Type: 9
 Quantity: 1
 
+Upg Type: 10
+Quantity: -2
+
 Upg Type: 364
 Quantity: 1;
 
@@ -6485,14 +6494,14 @@ Name: Снайперский выстрел;
 Only Once: 1
 Need: (363)
 Upg Type: 78
-Quantity: 3;
+Quantity: 4;
 
 /763
 Name: Путь Воды;
 Only Once: 1
 Need: (0)
 Upg Type: 8
-Quantity: 10
+Quantity: 14
 
 Upg Type: 9
 Quantity: 5
@@ -6513,7 +6522,7 @@ Quantity: 6
 Upg Type: 911
 Quantity: 2
 
-Upg Type: 2275
+Upg Type: 2379
 Quantity: 2
 
 Upg Type: 366
@@ -6524,6 +6533,9 @@ Name: Дистанционная атака +1;
 Only Once: 0
 Need: (365)
 Upg Type: 8
+Quantity: 1
+
+Upg Type: 95
 Quantity: 1;
 
 /766
@@ -6531,7 +6543,10 @@ Name: Дистанционная атака +2;
 Only Once: 0
 Need: (365)
 Upg Type: 8
-Quantity: 2;
+Quantity: 2
+
+Upg Type: 95
+Quantity: 1;
 
 /767
 Name: Контроль энергий +2;
@@ -6567,7 +6582,7 @@ Quantity: 1;
 /771
 Name: Обратить в медведя;
 Only Once: 1
-Need: (366)
+Need: (365)
 Upg Type: 2383
 Quantity: 3;
 
@@ -6576,7 +6591,7 @@ Name: Дополнительный выстрел;
 Only Once: 1
 Need: (365)
 Upg Type: 20
-Quantity: 4;
+Quantity: 3;
 
 /773
 Name: Путь Солнца;
@@ -6677,7 +6692,7 @@ Name: Путь Воина;
 Only Once: 1
 Need: (0)
 Upg Type: 8
-Quantity: 1
+Quantity: 2
 
 Upg Type: 77
 Quantity: 2
@@ -6690,26 +6705,35 @@ Name: Путь Охотника;
 Only Once: 1
 Need: (0)
 Upg Type: 35
-Quantity: 2
+Quantity: 4
+
+Upg Type: 32
+Quantity: 1
+
+Upg Type: 33
+Quantity: 1
+
+Upg Type: 34
+Quantity: 1
 
 Upg Type: 207
-Quantity: 40
+Quantity: 50
 
 Upg Type: 208
-Quantity: 40
+Quantity: 50
 
 Upg Type: 372
 Quantity: 1;
 
 /785
-Name: Содержание -40~;
+Name: Содержание -50~;
 Only Once: 0
 Need: (372)
 Upg Type: 207
-Quantity: 40
+Quantity: 50
 
 Upg Type: 208
-Quantity: 40
+Quantity: 50
 
 Upg Type: 372
 Quantity: -1
@@ -7067,11 +7091,11 @@ Upg Type: 277
 Quantity: 4;
 
 /832
-Name: Призвать орла;
+Name: Призвать волков;
 Only Once: 1
 Need: (366)
-Upg Type: 2379
-Quantity: 2;
+Upg Type: 275
+Quantity: 4;
 
 /833
 Name: Владыка мёртвых;
@@ -7259,19 +7283,149 @@ Quantity: 1;
 
 /852
 Name: Рой шершней;
-Only Once: 1
-Need: (0)
+Only Once: 0
+Need: (375)
 Upg Type: 8
-Quantity: 6
-
-Upg Type: 9
 Quantity: 3
 
-Upg Type: 10
+Upg Type: 9
 Quantity: 1
 
-Upg Type: 23
+Upg Type: 77
+Quantity: 4;
+
+/853
+Name: Дополнительный выстрел;
+Only Once: 1
+Need: (0)
+Upg Type: 20
+Quantity: 6;
+
+/854
+Name: Не влияет на мораль;
+Only Once: 1
+Need: (0)
+Upg Type: 99
+Quantity: 1;
+
+/855
+Name: Мощь ифрита;
+Only Once: 0
+Need: (0)
+Upg Type: 905
+Quantity: 1
+
+Upg Type: 908
+Quantity: 1;
+
+/856
+Name: Уклонение +2;
+Only Once: 1
+Need: (372)
+Upg Type: 222
+Quantity: 2;
+
+/857
+Name: Уклонение +2;
+Only Once: 1
+Need: (222)
+Upg Type: 222
+Quantity: 2;
+
+/858
+Name: Сила заклинаний;
+Only Once: 0
+Need: (365)
+Upg Type: 905
+Quantity: 1;
+
+/859
+Name: Подъятие скелета Мрака;
+Only Once: 1
+Need: (0)
+Upg Type: 2242
+Quantity: 3;
+
+/860
+Name: Книга малефикара;
+Only Once: 1
+Need: (0)
+Upg Type: 2242
 Quantity: 2
 
-Upg Type: 77
+Upg Type: 2210
+Quantity: 2
+
+Upg Type: 2211
+Quantity: 3
+
+Upg Type: 2055
+Quantity: 6
+
+Upg Type: 2258
+Quantity: 4;
+
+/861
+Name: Подъятие Лорда Мрака;
+Only Once: 1
+Need: (0)
+Upg Type: 2262
 Quantity: 6;
+
+/862
+Name: Призыв кадавра;
+Only Once: 1
+Need: (0)
+Upg Type: 2391
+Quantity: 4
+
+Upg Type: 911
+Quantity: 2;
+
+/863
+Name: Охотник на нежить;
+Only Once: 0
+Need: (202)
+Upg Type: 202
+Quantity: 1;
+
+/864
+Name: Охотник на демонов;
+Only Once: 0
+Need: (203)
+Upg Type: 203
+Quantity: 1;
+
+/865
+Name: Насылает чахотку;
+Only Once: 0
+Need: (177)
+Upg Type: 177
+Quantity: -1
+
+Upg Type: 178
+Quantity: 1;
+
+/866
+Name: Призвать стаю крыс;
+Only Once: 1
+Need: (0)
+Upg Type: 911
+Quantity: 1
+
+Upg Type: 2378
+Quantity: 4;
+
+/867
+Name: Двойной удар;
+Only Once: 1
+Need: (0)
+Upg Type: 279
+Quantity: 1;
+
+/868
+Name: Удешевление заклинаний;
+Only Once: 0
+Need: (0)
+Upg Type: 983
+Quantity: 17;

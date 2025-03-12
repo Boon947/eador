@@ -274,10 +274,10 @@ Class: 4
 
 Hero Upgrades:
 Lvl1: (905, 1)
-Lvl2: (905, 1)
-Lvl3: (905, 2)
-Lvl4: (905, 1)
-Lvl5: (905, 1)
+Lvl2: (905, 2)
+Lvl3: (905, 1; 983, 10)
+Lvl4: (905, 2)
+Lvl5: (905, 1; 983, 10)
 
 Squad Upgrades:
 Lvl1: (0, 0)
