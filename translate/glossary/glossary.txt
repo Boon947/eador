@@ -3899,3 +3899,8 @@ Mеню (Esc)	Menu (Esc)
 Рокот	Roar
 восстановит	recover
 племя	Tribe
+Двойной удар	Double Strike
+Исток	Source
+Содержание	Upkeep
+не используется	Not Used
+Обладает навыками	Possesses the skills
