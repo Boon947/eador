@@ -1,4 +1,4 @@
-Quantity: 641
+Quantity: 646
 
 /0
 Name: Empty;
@@ -1925,3 +1925,18 @@ Name: Electric shock;
 
 /641
 Name: Power absorbed!;
+
+/642
+Name: Retreat!;
+
+/643
+Name: once;
+
+/644
+Name: twice;
+
+/645
+Name: thrice;
+
+/646
+Name: several times;

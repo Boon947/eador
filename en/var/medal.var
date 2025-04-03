@@ -34,7 +34,7 @@ Rarity: 1
 Effects:
 
 Morale: 12
-Power: 4
+Power: 5
 
 BloodRage: 197
 Power: 1;
@@ -60,7 +60,7 @@ Stamina: 11
 Power: 4
 
 Reinvigoration: 21
-Power: 1;
+Power: 2;
 
 /5
 Name: Medal of Resilience;
@@ -120,13 +120,13 @@ Power: 3;
 
 /10
 Name: Medal of Agility;
-GoldSpent: 4
+GoldSpent: 3
 GemSpent: 0
 Rarity: 2
 Effects:
 
 RandedDefence: 5
-Power: 3;
+Power: 4;
 
 /11
 Name: Medal of Strength;
@@ -140,7 +140,7 @@ Power: 2;
 
 /12
 Name: Medal of Resolution;
-GoldSpent: 3
+GoldSpent: 4
 GemSpent: 0
 Rarity: 2
 Effects:
@@ -187,14 +187,11 @@ GemSpent: 0
 Rarity: 4
 Effects:
 
-BloodRage: 197
-Power: 2
+BloodRage: 122
+Power: 1
 
 Berserk: 25
-Power: 2
-
-Smite_good: 121
-Power: 3;
+Power: 2;
 
 /16
 Name: Scout's Ribbon;
@@ -220,7 +217,7 @@ Rarity: 2
 Effects:
 
 Repair: 124
-Power: 2;
+Power: 5;
 
 /18
 Name: Order of the Victor;
@@ -253,7 +250,7 @@ Rarity: 2
 Effects:
 
 Energy_Control: 95
-Power: 1
+Power: 3
 
 Skilled_Enchanter: 161
 Power: 1;

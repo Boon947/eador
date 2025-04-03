@@ -20,12 +20,12 @@ Bonus: 2
 
 Items: 2
 Morale: 12
-Power: 1
+Power: 2
 Area: 1;
 
 Items: 3
 Morale: 12
-Power: 1
+Power: 2
 Area: 1;
 
 
@@ -387,8 +387,8 @@ Power: 2
 Area: 0;
 
 Items: 5
-HeavenlyArmor: 282
-Power: 1
+HolyArmor: 232
+Power: 20
 Area: 0;
 
 
@@ -881,7 +881,7 @@ Power: 1
 Area: 0
 
 StealSoul: 57
-Power: 5
+Power: 6
 Area: 0
 
 CursedArmor: 283
@@ -1534,7 +1534,7 @@ Area: 0;
 
 
 /54
-Name: Strategist's Regalia;
+Name: General's Regalia;
 ItemsNum: 2
 Items: 186, 401
 Bonus: 1

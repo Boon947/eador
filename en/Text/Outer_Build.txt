@@ -22,7 +22,7 @@ Can only be built on a plain.#
 #Mill Upgrade.
 Income +10.
 Population mood +1.
-Increases the morale of province defenders by 2.#
+Increases the morale of province defenders by 3.#
 
 5. Storehouse
 #Income +2.
@@ -73,20 +73,20 @@ Improves population mood by 1 and increases Income by 3 if there is a Traveling 
 14. Pub
 #Income +3.
 Improves population mood by 1 if there is a Theater built in the stronghold.
-Increases the morale of province defenders by 1.#
+Increases the morale of province defenders by 2.#
 
 15. Tavern
 #Pub Upgrade.
 Income +6.
 If there is a Theater or a Brewery in the stronghold, population mood increases by 1.
-Increases the morale of province defenders by 2.#
+Increases the morale of province defenders by 4.#
 
 16. Inn
 #Tavern Upgrade.
 Income +12.
 If there is a Theater or a Brewery in the stronghold, population mood increases by 1.
 If there is a Gambling House in the stronghold, income increases by 2.
-Increases the morale of province defenders by 4.#
+Increases the morale of province defenders by 6.#
 
 17. Library
 #Access to the stronghold's library from this province.#
@@ -353,4 +353,5 @@ Can only be built in a forest.#
 Population mood +1.
 Increases population growth.
 If there is a Crystal Garden in the stronghold, population mood increases by 1.
-Increases the morale of province defenders by 4.#
+Increases the morale of province defenders by 4.
+Can only be built in a forest.#

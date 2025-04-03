@@ -136,10 +136,12 @@ Income +30, Blacksmith +1#
 #Magic Power increases the spellpower of the hero.
 
 Lvl 1: Spellpower +1
-Lvl 2: Spellpower +1
-Lvl 3: Spellpower +2
-Lvl 4: Spellpower +1
-Lvl 5: Spellpower +1#
+Lvl 2: Spellpower +2
+Lvl 3: Spellpower +1, Decrease
+spell prices -10~
+Lvl 4: Spellpower +2
+Lvl 5: Spellpower +1, Decrease
+spell prices -10~#
 
 /16 Concentration
 #Concentration increases the duration of the spells cast by the hero, and helps him to restore more energy while resting.
@@ -169,7 +171,7 @@ Lvl 4: Resistance Hero +1, Target -1
 Lvl 5: Resistance Hero +1, Target -1#
 
 /19 Wisdom
-#Wisdom increases the experience earned by the hero and allows him to learn additional spells.
+#Wisdom increases the experience earned by the hero, and allows him to learn additional spells.
 
 Lvl 1: Experience +10~, 1st circle Spell
 Lvl 2: Experience +10~, 1st circle Spell
@@ -217,9 +219,9 @@ Lvl 5: Init +1,      Speed +1,  Resist +1#
 #Scouting increases the speed of province exploration, and allows the hero to spy on the enemy's forces and perform acts of sabotage before attacking.
 
 Lvl 1: Exploration +5, Allows Scouting
-Lvl 2: Exploration +5, Raise false alarm
-Lvl 3: Exploration +5, Poison the water
-Lvl 4: Exploration +10, Create panic
+Lvl 2: Exploration +5, Raise false alarm (-6 Stamina)
+Lvl 3: Exploration +5, Poison the water (-2 Health X 3 turns)
+Lvl 4: Exploration +10, Create panic (-4 Morale)
 Lvl 5: Exploration +10, Scouting and Sabotage 50~ cheaper#
 
 /25 Archery

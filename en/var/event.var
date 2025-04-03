@@ -3926,7 +3926,7 @@ Answer1: 0;
 Index: 11
 Power: 1367
 Param1: 1370
-Param2: 50
+Param2: 40
 
 Index: 17
 Power: 1386
@@ -4256,10 +4256,10 @@ Power: 1
 Param1: 2
 Param2: 20
 
-Index: 29
-Power: -50
-Param1: 1
-Param2: 1;
+Index: 60
+Power: 50
+Param1: 4
+Param2: 5;
 
 /150 Серный дождь (ритуал)
 Type: 0
@@ -4290,9 +4290,9 @@ Power: -20
 Param1: 10
 Param2: 0
 
-Index: 29
-Power: -10
-Param1: 0
+Index: 60
+Power: 25
+Param1: 3
 Param2: 0;
 
 /151 Серный дождь (помощь раненым)
@@ -4341,8 +4341,8 @@ Power: 3
 Param1: 1
 Param2: 200
 
-Index: 29
-Power: -15
+Index: 60
+Power: 18
 Param1: 0
 Param2: 0
 
@@ -38105,12 +38105,12 @@ Param2: 1
 
 Index: 40
 Power: 3
-Param1: 6
+Param1: 5
 Param2: 4
 
 Index: 40
 Power: 6
-Param1: 6
+Param1: 5
 Param2: 4
 
 Index: 40
@@ -38506,9 +38506,14 @@ Power: 1
 Param1: 1
 Param2: 250
 
-Index: 29
-Power: -20
-Param1: 0
+Index: 60
+Power: 15
+Param1: 2
+Param2: 0
+
+Index: 60
+Power: 15
+Param1: 3
 Param2: 0;
 
 /1352 Атака ассасинов (помощь)
@@ -38632,9 +38637,14 @@ Power: 30
 Param1: 25
 Param2: 0
 
-Index: 29
-Power: -25
-Param1: 0
+Index: 60
+Power: 20
+Param1: 1
+Param2: 0
+
+Index: 60
+Power: 20
+Param1: 3
 Param2: 0
 
 Attitude: 2
@@ -39002,7 +39012,7 @@ Answer1: 0;
 Index: 11
 Power: 1368
 Param1: 1369
-Param2: 50;
+Param2: 35;
 
 /1368 (Кольцо убитого феникса - кольцо Земли)
 Type: 0
@@ -59651,7 +59661,7 @@ Answer2: 0;
 *Effects*:
 Index: 17
 Power: 2155
-Param1: 2
+Param1: 4
 Param2: 0
 
 Index: 18
@@ -59701,6 +59711,11 @@ Answer1: 0;
 *Effects*:
 Index: 17
 Power: 2153
+Param1: 0
+Param2: 0
+
+Index: 17
+Power: 2159
 Param1: 0
 Param2: 0;
 
@@ -59755,9 +59770,9 @@ Answer1: 0;
 
 *Effects*:
 Index: 11
-Power: 2153
-Param1: 2159
-Param2: 98;
+Power: 2159
+Param1: 2153
+Param2: 97;
 
 /2159 Нападение великанов по квесту кентавров, сильные 1
 Type: 0

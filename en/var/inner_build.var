@@ -5001,6 +5001,10 @@ Ability: 59
 Param1: 13
 Param2: 0
 
+Ability: 1
+Param1: 1
+Param2: 1
+
 Ability: 47
 Param1: 4
 Param2: 0
@@ -5033,7 +5037,15 @@ Param2: 3
 
 Ability: 59
 Param1: 77
-Param2: 0;
+Param2: 0
+
+Ability: 1
+Param1: 1
+Param2: 1
+
+Ability: 31
+Param1: 447
+Param2: 1;
 
 /199
 Name: Creature Pens;
@@ -5063,7 +5075,15 @@ Param2: 3
 
 Ability: 46
 Param1: -1
-Param2: 0;
+Param2: 0
+
+Ability: 31
+Param1: 391
+Param2: 1
+
+Ability: 31
+Param1: 494
+Param2: 1;
 
 /200
 Name: Orcish Quarter;
@@ -5578,7 +5598,15 @@ Resource: (1, 2)
 Ability:
 Ability: 59
 Param1: 129
-Param2: 0;
+Param2: 0
+
+Ability: 31
+Param1: 392
+Param2: 1
+
+Ability: 31
+Param1: 395
+Param2: 1;
 
 /220
 Name: Swampland;
@@ -5605,6 +5633,10 @@ Param2: 2
 Ability: 15
 Param1: 84
 Param2: 0
+
+Ability: 31
+Param1: 394
+Param2: 1
 
 Ability: 31
 Param1: 586
@@ -5634,7 +5666,11 @@ Param2: 0
 
 Ability: 48
 Param1: 1829
-Param2: 5;
+Param2: 5
+
+Ability: 31
+Param1: 582
+Param2: 1;
 
 /222
 Name: Orcish Barracks;
@@ -6491,7 +6527,11 @@ Param2: 0
 
 Ability: 15
 Param1: 104
-Param2: 0;
+Param2: 0
+
+Ability: 31
+Param1: 566
+Param2: 1;
 
 /258
 Name: Tower of Shadows;
@@ -6583,6 +6623,10 @@ Resource: (4, 9)
 Ability:
 Ability: 1
 Param1: 1
+Param2: 1
+
+Ability: 31
+Param1: 565
 Param2: 1
 
 Ability: 31

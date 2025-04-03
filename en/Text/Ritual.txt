@@ -58,7 +58,7 @@ Lasts 3 turns.#
 #A part of the province's population dies, its growth and income are lowered for 5 turns, and the owner of the province incurs much losses. The heroes stationed in the target province have to skip a turn.#
 
 17. Rain of Brimstone
-#Kills a part of the province's population and inflicts 10 points of magic damage on all units stationed there.#
+#Kills part of the province's population, inflicts 25 magic damage to all units.#
 
 18. Undead Uprising
 #An undead army attacks the province. If the undead defeat the defenders, the province turns into an unaligned dead land.#
@@ -74,13 +74,13 @@ Lasts 3 turns.#
 Can only be performed in a province with an empty building slot and no Tower of Lightning already present.#
 
 22. Conflagration
-#Causes damage to provincial fortifications and may burn down some buildings. Inflicts 15 points of magic damage on all units stationed there. Part of the population dies.#
+#Causes damage to provincial fortifications and may burn down some buildings. Inflicts 18 magic damage to all units. Part of the population dies.#
 
 23. Demon Invasion
 #A mighty army of demons attacks the province. If they defeat the defenders, the province becomes an unaligned land of Chaos.#
 
 24. Pestilence
-#All the living units stationed in the province lose half their hit points. Kills part of the population, lowers its mood, and decreases its growth for 10 turns.
+#Living units in the province lose half of their maximum Health. Kills part of the population, lowers its mood, and decreases its growth for 10 turns.
 Can only be performed in a populated province.#
 
 25. Gates of Chaos
@@ -98,11 +98,11 @@ There must be enough space in the hero's army.#
 Can be performed in a friendly province only (except in the capital).#
 
 29. Target of Brotherhood
-#Inflicts 20 points of magic damage to all the units stationed in the province. Kills part of the population, lowers its mood, and decreases its growth for 10 turns.
+#All units in the province (guards and hero's troops) receive 15 ranged and magic damage. Kills part of the population, lowers its mood, and decreases its growth for 10 turns.
 Can only be performed in an enemy populated province.#
 
 30. Bloody Hand
-#Inflicts 25 points of magic damage to all the units stationed in the province.
+#All units in the province (guards and hero's troops) receive 20 physical and magic damage.
 Such a sacrifice is repaid in crystals.
 Can only be performed in a friendly province.#
 

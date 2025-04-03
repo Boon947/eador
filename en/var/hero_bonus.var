@@ -1,4 +1,4 @@
-Quantity: 20
+Quantity: 21
 
 /0
 Name: Empty;
@@ -76,7 +76,7 @@ HeroClass: (1, 2, 3, 4)
 /12
 Name: Magic Shield;
 AbilityNumber: 3006
-UpgradeNumber: 819
+UpgradeNumber: 825
 HeroClass: (4)
 
 /13
@@ -126,3 +126,9 @@ Name: Summoner;
 AbilityNumber: 907
 UpgradeNumber: 526
 HeroClass: (3, 4)
+
+/21
+Name: Magic Source;
+AbilityNumber: 983
+UpgradeNumber: 868
+HeroClass: (2, 4)

@@ -3,7 +3,7 @@
 
 1. Workshop
 #Produces the simplest wooden weapons and leather armor.
-Allows heroes to purchase the following items: Short Spear, Wooden Shield, Common Arrows, Leather Jacket, Rope Sling.#
+Allows heroes to purchase the following items: Short Spear, Wooden Shield, Feathered Arrows, Leather Jacket, Rope Sling.#
 
 2. Forge
 #Produces the simplest iron armor and weapons.
@@ -106,6 +106,7 @@ The castle cannot have more than 4 buildings of this type.#
 #Type: Teaches spells of the first circle.
 Allows heroes to learn the spells Fear, Raise Skeleton, Raise Zombie, and Soul Trap.
 Allows to perform the ritual of Walking Dead.
+Allows Undead to heal in the castle garrison.
 The castle cannot have more than 4 buildings of this type.#
 
 23. School of Sorcery
@@ -160,7 +161,7 @@ Reduces the gem upkeep of garrison units by 10~.#
 #Income +4. Allows building a Granary in provinces.#
 
 37. Armory
-#Allows heroes to purchase the following items: Knife, Cudgel, Chestpiece, Hand Crossbow, Feathered Arrows. Increases recruits' experience by 20.#
+#Allows heroes to purchase the following items: Knife, Cudgel, Hand Crossbow, Jagged Arrows, Chestpiece. Increases recruits' experience by 20.#
 
 38. Drivers Guild
 #Speeds up the hero's movement from the capital by 1. Allows upgrading a Granary in provinces to a Stable.  Gives access to the location of horses hidden on the plains.
@@ -334,6 +335,7 @@ The castle cannot have more than 3 buildings of this type.#
 #Type: Teaches spells of the second circle.
 Allows heroes to learn the spells Raise Ghoul, Vampirism, Atrophy, and Eternal Slave.
 Allows to perform the ritual of Deadly Terror.
+Speed up recovery of Undead in the castle garrison.
 The castle cannot have more than 3 buildings of this type.#
 
 83. Sphere of Stone
@@ -381,7 +383,7 @@ The castle cannot have more than 4 buildings of this type.#
 90. Carpenter's Shop
 #Type: Sells common items
 Income +2.
-Allows heroes to purchase the following items: Long Spear, Hunting Bow, Light Crossbow, Jagged Arrows.
+Allows heroes to purchase the following items: Long Spear, Hunting Bow, Light Crossbow, Heavy Arrows.
 The castle cannot have more than 4 buildings of this type.#
 
 91. Tanner Store
@@ -570,6 +572,7 @@ The castle cannot have more than 2 buildings of this type.#
 #Type: Teaches circle III spells
 Allows heroes to learn the spells Raise Ghost, Life Drain, Mass Undead Restoration, and Fatigue.
 Allows to perform the ritual of Undead Uprising. Allows the creation of Dracoliches from the phylacteries.
+Speed up recovery of Undead in the castle garrison.
 The castle cannot have more than 2 buildings of this type.#
 
 138. Journeyman Jeweler
@@ -599,7 +602,7 @@ The castle cannot have more than 3 buildings of this type.#
 142. Journeyman Carpenter
 #Type: Sells quality items
 Income +3.
-Allows heroes to purchase the following items: Partisan, Long Bow, Heavy Crossbow, Heavy Arrows, Leather Sling.
+Allows heroes to purchase the following items: Partisan, Long Bow, Heavy Crossbow, Mithril Arrows, Leather Sling.
 The castle cannot have more than 3 buildings of this type.#
 
 143. Journeyman Tanner
@@ -729,6 +732,7 @@ The castle can only have one building of this type.#
 #Type: Teaches spells of the fourth circle.
 Allows to learn the spells Raise Vampire, Pestilence, Cloud of Terror, and Gates of Death.
 Allows to perform the ritual of Pestilence.
+Speed up recovery of Undead in the castle garrison.
 The castle can only have one building of this type.#
 
 175. Sphere of Flame
@@ -782,7 +786,7 @@ The castle cannot have more than 2 buildings of this type.#
 183. Master Carpenter
 #Type: Sells exceptional items
 Income +5.
-Allows heroes to purchase the following items: Halberd, Composite Bow, Guardsman's Crossbow, Mithril Arrows.
+Allows heroes to purchase the following items: Halberd, Composite Bow, Guardsman's Crossbow, Raider's Arrows.
 The castle cannot have more than 2 buildings of this type.#
 
 184. Master Tanner
@@ -837,14 +841,18 @@ Allows hiring the Elven squad guard. Income from forest provinces +2. Gem income
 #Income +5. Offers dwarven artifacts for sale. Mithril income +10.#
 
 197. Goblin Quarter
-#Allows the recruitment of Goblins. Lowers the population mood in the capital by 1.#
+#Allows the recruitment of Goblins. Lowers the population mood in the capital by 1.
+Provides the store with one Swamp Dragonfly egg.#
 
 198. Mud
 #Allows recruiting Hunters.
-Increases income from swamp provinces by 3.#
+Increases income from swamp provinces by 3.
+Allows recruiting Swamp Dragonflies, if their eggs are present in the treasury.
+Provides the store with one Basilisk egg.#
 
 199. Creature Pens
-#Income +2. Allows recruiting Wolfriders. Occasionally sells second rank creature eggs.#
+#Income +2. Allows recruiting Wolfriders. Occasionally sells second rank creature eggs.
+Allows recruiting Giant Spiders and Birdeaters if their eggs are present in the treasury.#
 
 200. Orcish Quarter
 #Allows recruiting Orcs and Bugbears. Lowers the population mood in the capital by 1.#
@@ -913,14 +921,16 @@ Provides 3 contract with the Lord of the Undead guard.#
 Periodically, craftsmen will build Earthshakers, and put them on sale.#
 
 219. Goblin Hut
-#Allows recruiting Trappers.#
+#Allows recruiting Trappers.
+Allows recruiting Basilisks and Slugs, if their eggs are present in the treasury.#
 
 220. Swampland
 #Yields 2 gems per turn.
-Sells Ericuba eggs (which will appear in the store). Allows you to hire Gang of goblins guards.#
+Allows recruiting Hydras and Ericubas using eggs (one Ericuba egg will appear in the shop). Allows you to hire Gang of goblins guards.#
 
 221. Goblin Ward
-#Allows recruiting Creature Masters. Allows you to build a Battlemage Garden in swamp provinces. Occasionally sells third rank creature eggs.#
+#Allows recruiting Creature Masters. Allows you to build a Battlemage Garden in swamp provinces. Occasionally sells third rank creature eggs.
+Allows recruiting Wyverns, if their eggs are present in the treasury.#
 
 222. Orcish Barracks
 #Allows recruiting Cleavers.
@@ -1070,7 +1080,7 @@ Allows to perform the ritual of Summon Kobolds.#
 Allows recruiting Nocturnal Hunters.#
 
 257. Temple of Shadows
-#Allows recruiting Dark Priestesses.
+#Allows recruiting Dark Priestesses (including via contracts).
 Allows hiring the Twilight Initiates guard.#
 
 258. Tower of Shadows
@@ -1087,7 +1097,7 @@ Allows you to hire an Army of Darkness guard.#
 Lowers the population mood in the capital by 1. Slows unrest growth in the capital.#
 
 261. Heart of the Night
-#Places a single Beholder egg in the store. Allows the recruitment of Illithids, if you have the proper scroll.#
+#Places a single Beholder egg in the store. Allows the growth of Beholders from their eggs. Allows the recruitment of Illithids, if you have the proper scroll.#
 
 262. Altar of Death
 #Lowers the population mood in the capital by 1.
@@ -1185,13 +1195,13 @@ The castle cannot have more than 3 buildings of this type.#
 
 287. Blooming Lane
 #Type: Teaches circle III spells
-Allows heroes to learn the spells Summon Wasp Cloud, Pathfinding, Summon Dire Bear, and Summon Rat Swarm.
+Allows heroes to learn spells Animal Assault, Summon Dire Bear, Summon Rat Swarm, and Bear Form.
 Allows to perform the ritual of Heavenly Guard. Allows summoning a Behemoth using a Soul Stone.
 The castle cannot have more than 2 buildings of this type.#
 
 288. Tree of Miracles
 #Type: Teaches spells of the fourth circle.
-Allows heroes to learn the spells Animal Assault, Thick Fog, Summon Wyvern, and Enchanted Grove.
+Allows learning spells Thick Fog, Summon Wyvern, Enchanted Grove, and Deadly Poison.
 Allows to perform the ritual of Blessed Land.
 The castle can only have one building of this type.#
 

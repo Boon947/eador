@@ -1,4 +1,4 @@
-Quantity: 593
+Quantity: 597
 
 /0
 Name: Empty;
@@ -2654,7 +2654,7 @@ Effect: 0
 Percent: 0
 
 /379
-Name: Summon Dire Bear Spell;
+Name: Summon Bears Spell;
 Number: 2276
 Numeric: 1
 Effect: 0
@@ -4156,4 +4156,32 @@ Name: Summon Wolf Spell;
 Number: 2390
 Numeric: 1
 Effect: 0
+Percent: 0
+
+/594
+Name: Hornet swarm;
+Number: 375
+Numeric: 0
+Effect: 0
+Percent: 0
+
+/595
+Name: Raise Lord of Darkness Spell;
+Number: 2262
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/596
+Name: Summon Cadaver Spell;
+Number: 2391
+Numeric: 1
+Effect: 0
+Percent: 0
+
+/597
+Name: Double Strike;
+Number: 279
+Numeric: 0
+Effect: 1
 Percent: 0

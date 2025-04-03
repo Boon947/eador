@@ -1,4 +1,4 @@
-Quantity: 11
+Quantity: 12
 
 
 
@@ -38,6 +38,9 @@ Name: Targ;
 /11
 Name: Ulvar;
 
+/12
+Name: Anavar;
+
 
 Scout
 *****
@@ -74,6 +77,9 @@ Name: Charez;
 
 /11
 Name: Dynrigg;
+
+/12
+Name: Sitar;
 
 
 Commander
@@ -112,6 +118,9 @@ Name: Mencor;
 /11
 Name: Voigryl;
 
+/12
+Name: Ilus;
+
 
 Mage
 ****
@@ -148,3 +157,6 @@ Name: Eleran;
 
 /11
 Name: Orongull;
+
+/12
+Name: Vortkarg;

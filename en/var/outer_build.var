@@ -230,7 +230,7 @@ Bonus: 0;
 
 Ability:
 Ability: 10
-Param1: 2
+Param1: 3
 Param2: 0
 
 Ability: 7
@@ -708,7 +708,7 @@ Param1: 1
 Param2: 44
 
 Ability: 10
-Param1: 1
+Param1: 2
 Param2: 0;
 
 /15
@@ -759,7 +759,7 @@ Param1: 1
 Param2: 47
 
 Ability: 10
-Param1: 2
+Param1: 4
 Param2: 0
 
 Ability: 7
@@ -818,7 +818,7 @@ Param1: 2
 Param2: 250
 
 Ability: 10
-Param1: 4
+Param1: 6
 Param2: 0
 
 Ability: 7

@@ -57,7 +57,7 @@ If morale drops to 0, the unit panics and may desert the battlefield.
 After battle, morale gradually increases to its base level.#
 
 /13 Feels No Pain
-#Wounds have no impact on the unit's attack.#
+#Wounds have no impact on the unit's attack. Unit is not affected by Witcher's Sign of Yrden.#
 
 /14 Flying
 #The unit can fly over other units and impassable tiles. It takes 1 movement point to pass over any terrain, without spending any stamina. The unit is not affected by any landscape features. He cannot be trampled either.#
@@ -75,11 +75,11 @@ After battle, morale gradually increases to its base level.#
 #The unit spends no stamina on any actions.#
 
 /19 Intrepid
-#The unit's morale does not decrease, but increases half as fast.#
+#The unit's morale does not decrease, but increases half as fast. Unit is not affected by spells: Fear, Terrible Howl, Deadly Terror, Panic, Mockery, Banshee's Howl, Axii Sign, Horror, Demonic Howl, and Infernal Howl.#
 
 /20 Double Shot
 #Stamina consumption: %d.
-A special ability allowing the unit to shoot twice at a target, at the expense of some stamina. This shooting is done with less precision than usual, and cannot penetrate enemy armor.#
+A special ability allowing the unit to shoot twice at a target, at the expense of some stamina. Using Double Shot disables Armor Piercing Shot and Precise Shot if equipped.#
 
 /21 Recuperation
 #The unit's stamina regain while resting is increased by %d.#
@@ -157,7 +157,7 @@ Ability has no effect when attacking incorporeal enemies.#
 #The unit poisons the enemies it attacks in melee, making them lose %d hit points per turn for 3 turns.#
 
 /42 Poison Immunity
-#The unit is not affected by poison.#
+#Unit is immune to poisons and poison spells such as Poison Rain and Deadly Poison.#
 
 /43 Hex
 #Effect duration: %d.
@@ -171,7 +171,7 @@ Has no effect on incorporeal enemies, Animals, and creatures with natural weapon
 #When attacking an enemy in melee, the unit reduces the target's defense by 1. The effect lasts for 3 turns. No effect on incorporeal enemies.#
 
 /46 Petrification
-#This special ranged attack allows the unit to turn the enemy into a statue for %d turns. A petrified enemy cannot do anything, but its armor and resistance are increased. An enemy's resistance can reduce the duration of the petrification.#
+#This special ranged attack allows the unit to turn the enemy into a statue for %d turns. A petrified enemy cannot act and takes damage every turn, but Armor and Resistance are increased by 3. Enemy's Resistance partially reduces Duration of petrification (Duration reduced by Resistance / 2).#
 
 /47 Web
 #Entanglement duration: %d.
@@ -182,20 +182,20 @@ Armor of entangled enemy is increased by %d, minus 1 every turn.#
 #The unit recovers %d hit points per turn. Speeds up hit points restoration when not in combat.#
 
 /49 Necrophage
-#This special ability allows the unit to consume corpses, thus regaining up to %d hit points.#
+#This special ability allows the unit to consume corpses, thus regaining up to %d hit points. Ratmen are able to eat corpses without wasting a turn.#
 
 /50 Intimidation
 #When attacking an enemy in melee, the unit reduces the target's morale by %d.#
 
 /51 Crippling Strike
-#When attacking an enemy in melee, the unit reduces the target's speed by 1 for %d turns. A Crippling Strike interrupts the enemy's ability to Hit and Run, preventing them from returning. No effect on incorporeal enemies.#
+#When attacking an enemy in melee, the unit reduces the target's speed by 1 for %d turns. A Crippling Strike interrupts the enemy's ability to Hit and Run, preventing them from returning. Has no effect on incorporeal enemies and Artillery.#
 
 /52 Damage Weapon
 #Effect duration: %d.
 Any creature attacking this unit in melee damages its weapon - attack and counterattack are reduced by 1. No effect on incorporeal enemies.#
 
 /53 Parry
-#When the unit is attacked in melee for the first time during the current turn, its defense is increased by %d.#
+#If unit is attacked in melee, Defense is increased by %d (%s per turn).#
 
 /54 Forager
 #This unit is able to fend for itself. Upkeep is reduced by %d gold. The higher the unit's level, the greater the savings will be.#
@@ -319,7 +319,7 @@ This unit requires +%d~, or +%d gold.#
 #Increases the income from plundering the provinces by %d~.#
 
 /89 Decrease Spell Cost
-#Decreases the cost of spellcasting by %d~ gems.#
+#Decreases the cost of crystals to cast spells %d~ (up to 90~ from all sources).#
 
 /90 Fast Casting
 #Can cast 2 spells per turn, if their levels combined is less than %d.#
@@ -567,7 +567,7 @@ Ammo units consumed by casting: %d.#
 Ammo units consumed by casting: %d.#
 
 /154 Fire Immunity
-#Grants the unit immunity from fire spells: Blast, Armageddon, Incineration, Firestorm, Igni Sign, Fireblast, Fire Shot, Fire Storm, Fire Rain, Mass Fire Immunity, Cleansing Flame, Volcano, Scorching Ground and Solar Blast.#
+#Grants the unit immunity from fire spells: Blast, Armageddon, Incineration, Firestorm, Igni Sign, Fireblast, Fire Rage, Fire Storm, Fire Rain, Mass Fire Immunity, Cleansing Flame, Volcano, Scorching Ground, Solar Blast, and Abysmal Joke.#
 
 /155 Summon Huorn Spell
 #This unit can cast the Summon Huorn Spell, summoning a Huorn to an adjacent tile.
@@ -868,7 +868,7 @@ Ammo units consumed by casting: %d.#
 The shot uses up additional ammo: %d.#
 
 /229 Mind Control Immunity
-#Grants the unit immunity to mind affecting spells and abilities: Fear, Sleep, Hallucinations, Word of Power, Cloud of Terror, Mass Suicide, Enslave Mind, Terrible Howl, Mind Control, Suicide, Submission, Intercept Control (only Mechanicals), Order, Deadly Terror, Panic, Imaginary Assassin, Bind Will, Strong Mind, Control Undead (only Undead), Banshee's Howl, Paralyze, Mass Sleep, Axii Sign, Healing Sleep, Nightmare, Horror, Confusion and Fierce Roar.#
+#Grants the unit immunity to mind affecting spells and abilities: Fear, Sleep, Hallucinations, Word of Power, Cloud of Terror, Mass Suicide, Enslave Mind, Terrible Howl, Mind Control, Suicide, Submission, Intercept Control (only Mechanicals), Order, Deadly Terror, Panic, Imaginary Assassin, Bind Will, Strong Mind, Control Undead (only Undead), Banshee's Howl, Paralyze, Mass Sleep, Heroism, Axii Sign, Healing Sleep, Nightmare, Horror, Demonic Howl, Confusion, Mental Shadow, and Infernal Howl.#
 
 /230 Celestial Thunder Spell
 #This unit can cast the Celestial Thunder spell, dealing damage to a single unit. Resistance protects only partially against this spell.
@@ -933,7 +933,7 @@ Ammo units consumed by casting: %d.#
 Ammo units consumed by casting: %d.#
 
 /245 Summon Hellhound Spell
-#This unit can cast the Summon Hellhound spell, summoning a hellhound to an adjacent tile. Caster loses 5 hit points.
+#This unit can cast the Summon Hellhound spell, summoning a hellhound to an adjacent tile. The caster loses 4 hit points.
 Ammo units consumed by casting: %d.#
 
 /246 Skeleton Transformation Spell
@@ -1068,7 +1068,7 @@ Her resistance is reduced by half and she loses 2 morale points each turn. Her s
 Ammo units consumed by casting: %d.#
 
 /280 Dark Crystal Spell
-#This unit can cast the Dark Crystal spell, which creates a Dark Crystal in an adjacent tile.
+#This unit can cast the "Dark Crystal" spell, which creates a Dark Crystal within four tiles of the unit.
 Ammo units consumed by casting: %d.#
 
 /281 Drow Rage Spell
@@ -1165,7 +1165,7 @@ Ammo units consumed by casting: %d.#
 Ammo units consumed by casting: %d.#
 
 /304 Mass Life Drain Spell
-#This unit can cast the Mass Life Drain spell, inflicting damage to all enemy units on the battlefield. The caster restores hit points equal to the damage dealt. Resistance protects only partially against this spell.
+#This unit can cast the Mass Life Drain spell, which deals damage to all enemies, while healing the caster's wounds. Enemies cannot fight in melee for 2 turns. Resistance protects only partially against this spell.
 Ammo units consumed by casting: %d.#
 
 /305 Summon Fiend Spell
@@ -1173,7 +1173,7 @@ Ammo units consumed by casting: %d.#
 Ammo units consumed by casting: %d.#
 
 /306 Summon Demon Spell
-#This unit can cast the Summon Demon spell, summoning a Demon to an adjacent tile. The sacrifice of a friendly unit is required for this summoning.
+#This unit can cast the Summon Demon spell, summoning a Demon to an adjacent tile.
 Ammo units consumed by casting: %d.#
 
 /307 Demon Blood Spell
@@ -1256,7 +1256,7 @@ Ammo units consumed by casting: %d.#
 Ammo units consumed by casting: %d.#
 
 /327 Blood Frenzy
-#The unit gets an extra turn whenever it kills an enemy in melee. Works only once per turn.#
+#Unit who kills an enemy in melee loses 2 Stamina, but gets the opportunity to act again this turn. Works only once per turn.#
 
 /328 Manic Rage
 #After taking damage, the unit enters a state of Manic Rage. It immediately gets the perks of the Battle Frenzy ability, but loses %d HP each turn. Due to the Manic Rage, the unit is susceptible to unpredictable outbursts of hostility.#
@@ -1303,7 +1303,7 @@ Cerberus Brand confers Crippling Strike 2 and increases Speed by 1, but decrease
 Ammo units consumed by casting: %d.#
 
 /340 Avatar of Light
-#This unit is not affected by the spells Vampirism, Dark Pact, Life Drain, Black Magic, Corruption, Mass Suicide, Sacrifice, Unholy Word, Vampire Touch, Divine Light, Holy Word, Anthem of the Damned, Embrace of Darkness, Dark Steel, Mass Life Drain, Nightmare, Blood Ritual, Blood Sacrifice and Death Ashes.#
+#This unit is not affected by the spells Vampirism, Dark Pact, Life Drain, Black Magic, Corruption, Mass Suicide, Sacrifice, Unholy Word, Vampiric Touch, Divine Light, Holy Word, Anthem of the Damned, Embrace of Darkness, Dark Steel, Mass Life Drain, Nightmare, Blood Ritual, Blood Sacrifice and Death Ashes.#
 
 /341 Armageddon Spell
 #This unit can cast the Armageddon spell, inflicting huge fire damage to all creatures on the battlefield.
@@ -1312,13 +1312,13 @@ Ammo units consumed by casting: %d.#
 /342 Workaholic
 #The unit spends its spare time working, increasing the income from a province he is stationed in by %d~.#
 
-/343 Siege Mode
+/343 Siege Mode - Not Used
 #This unit can switch to siege mode.
 In this mode, unit cannot move and fight, but its ranged attacks will damage not only the main target, but also up to three enemy units in a row.#
 
 /344 Siege Mode
 #This unit can switch to siege mode.
-In this mode the unit cannot move or fight, but his ranged attack is increased by 3 and his range by 1.#
+In this mode the unit cannot move or fight, but his ranged attack is increased by 4 and his range by 1.#
 
 /345 Siege Mode
 #This unit can switch to siege mode.
@@ -1451,8 +1451,8 @@ Ammo units consumed by casting: %d.#
 #Unit can cast "Summon Wolves", which summons two wolves plus one per unit rank on tiles adjacent to the unit.
 Ammo units consumed by casting: %d.#
 
-/379 Summon Dire Bear Spell
-#This unit can cast the Summon Dire Bear spell, summoning a dire bear to an adjacent tile.
+/379 Summon Bears Spell
+#This unit can cast the "Summon Bears" spell, which summons two dire bears in adjacent tiles.
 Ammo units consumed by casting: %d.#
 
 /380 Supplier
@@ -1500,7 +1500,7 @@ Ammo units consumed by casting: %d.#
 The poison gas causes %d damage each turn.#
 
 /391 Cause Leprosy
-#Whenever the unit inflicts melee damage to an enemy, it infects the target with a disease. Target's Attack and Resistance attributes are reduced by 2, and loses 2 morale points each turn.#
+#Whenever the unit inflicts melee damage to an enemy, it infects the target with a disease. All types of Attack are reduced by 1, all types of Defense by 2, each turn unit loses 2 Morale.#
 
 /392 Magic Spark Spell
 #When the unit dies, all adjacent enemy units will be affected by a Magic Spark spell.#
@@ -1744,7 +1744,7 @@ Ammo units consumed by casting: %d.#
 #Special ability allowing a unit to spend 2 additional stamina points to deal melee damage to an enemy, while restoring %d hit points. Health restored cannot be greater than the damage dealt.#
 
 /455 Crippling Shot
-#With its shot the unit is able to reduce an enemy's speed by 1 for %d turns. If no damage is dealt, the effect does not trigger. No effect on incorporeal enemies.#
+#With its shot the unit is able to reduce an enemy's speed by 1 for %d turns. If no damage is dealt, the effect does not trigger. Has no effect on incorporeal enemies and Artillery.#
 
 /456 Overwhelming Force
 #The target's defense is effectively halved against this unit's shots or strikes.#
@@ -1753,7 +1753,7 @@ Ammo units consumed by casting: %d.#
 #This unit restores %d stamina points per turn.#
 
 /458 Shield Wall
-#A special ability that allows the unit to increase their defense and ranged defense by %d and have vigilance until the next turn. The unit's attack is reduced by %d.#
+#A special ability that allows the unit to increase their defense and ranged defense by %d and have vigilance until the next turn. Meanwhile, unit's Attack and Counterattack are reduced by %d.#
 
 /459 Life Leech
 #When using Magic Shot on the enemy, the unit restores hit points equal to %d~ of the damage dealt.#
@@ -1776,9 +1776,10 @@ No effect on incorporeal enemies.#
 #The unit's melee attacks inflict %d points of magical damage on the enemy in addition to physical damage.#
 
 /465 Bloodlust
-#Damage received increases unit's morale by %d.
+#Heavy damage dealt to a unit increases Morale by %d.
 Also, killing an enemy in melee attack boosts the morale of the unit by an additional %d.
-When killing by a counterattack or a ranged attack, the unit receives only half of this value.#
+When killing by Counterattack or Ranged Attack, unit adds only half this value.
+Bloodlust alone does not prevent decrease in Morale from a serious injury!#
 
 /466 Damaged Aura
 #Melee attacks reduce the enemy's Resistance by 1 - no effect on mechanical units and golems. The effect lasts for 3 turns.#
@@ -1843,7 +1844,7 @@ Ammo units consumed by casting: %d.#
 Ammo units consumed by casting: %d.#
 
 /483 Pike Wall
-#If the unit attacks a charging enemy, it deals extra damage based on the enemy's charging distance. This unit always strikes first against charging enemies.#
+#If the unit attacks a charging enemy, it deals extra damage based on the enemy's charging distance. Unit always strikes first against charging enemies, and attacker takes additional damage.#
 
 /484 Interception
 #If an ally in an adjacent tile is attacked by an enemy, the unit takes the blow instead of the ally.#
@@ -2000,7 +2001,7 @@ Ammo units consumed by casting: %d.#
 #The unit's armor is so heavy that just moving costs %d stamina.#
 
 /526 Dodge
-#Every shot at the unit increases its Ranged Defense by %d until the end of the next turn.#
+#When firing at this unit, Ranged Attack is decreased by %d. Every shot fired at the unit increases its Ranged Defense by the same amount until the end of the next turn.#
 
 /527 Acid
 #This unit can use ammo to cast the Acid spell at will: target takes 15 HP damage, and their Armor is reduced by 2. The spell lasts 3 turns, armor partially protects from the effects of Acid. Spell Immunity and Resistance offer no protection.
@@ -2040,13 +2041,13 @@ Ammo units consumed by casting: %d.#
 #This unit chose the Path of Fire. They gained the ability Flaming Arrows 2.#
 
 /536 Path of Wind
-#This unit chose the Path of Wind. His Ranged Attack and Shooting Range have been increased by 1.#
+#This unit chose the Path of Wind. Range and Ranged Attack increased by 1, Ammo decreased by 2.#
 
 /537 Path of Water
 #This unit chose the Path of Water, and they are able to strike their enemies from the distance. Ranged Attack is increased by 10, Range by 5, unit receives the ability Magic Shot.#
 
 /538 Path of Earth
-#This unit chose the Path of Earth, and can use this power to cast spells and summon beasts. Summoning Power increased by 6, Summoning Range by 2. Unit can summon a wolf.
+#This unit chose the Path of Earth, and can use this power to cast spells and summon beasts. Summoning Power increased by 6, Summoning Range by 2. Unit can summon Eagles.
 In the future, it will be able to learn other spells.#
 
 /539 Bear Form Spell
@@ -2071,13 +2072,13 @@ Ammo units consumed by casting: %d.#
 #Unit chose the Path of Tenacity. Defense, Ranged Defense, and Recuperation are increased by 2.#
 
 /545 Path of the Warrior
-#Pathfinder chose Path of the Warrior. Ranged Attack is increased by 1, Precise Shot by 2.#
+#Pathfinder chose Path of the Warrior. Ranged Attack and Precision Shot increased by 2.#
 
 /546 Path of the Hunter
-#Pathfinder chose Path of the Hunter. Unit's gold and gem upkeep decreased by 40~. First Aid increased by 2.#
+#Pathfinder chose Path of the Hunter. Unit's gold and gem upkeep decreased by 50~.  First Aid increased by 4, Terrain Knowledge by 1.#
 
 /547 Path of the Hunter
-#Pathfinder chose Path of the Hunter. Unit's gold and gem upkeep decreased by 80~. First Aid increased by 2.#
+#Pathfinder chose Path of the Hunter. Unit's gold and gem upkeep decreased by 100~. First Aid increased by 4, Terrain Knowledge by 1.#
 
 /548 Spiritual Link Spell
 #Unit can cast the Spiritual Link spell, which allows sharing the Stamina cost of spells cast by the enchanted creature.
@@ -2085,7 +2086,7 @@ Additionally, resting the caster using Recuperation, and being the target of spe
 Ammo units consumed by casting: %d.#
 
 /549 Life Bond Spell
-#Unit can cast the Life Bond spell, which allows sharing the damage between the caster and the enchanted creature.
+#Unit can cast the Life Bond spell, which reduces damage to an enchanted creature at the cost of minor damage to the caster.
 Additionally, resting the caster using First Aid, and being the target of spells that restore Health, will also apply to the enchanted unit.
 Ammo units consumed by casting: %d.#
 
@@ -2189,7 +2190,7 @@ In addition, every time another Gnoll, or any creature with this ability, dies o
 If the unit has Rebirth, each ability level increases the power of the new creature.#
 
 /579 Summon Eagle Spell
-#Unit can cast Summon Eagle spell, to summon an Eagle next to the caster.
+#Unit can cast the Summon Eagle spell, to summon an Eagle within two tiles of the caster.
 Ammo units consumed by casting: %d.#
 
 /580 Lord of the Dead
@@ -2242,3 +2243,17 @@ Bonuses from multiple similar buffs from different allies do not stack.#
 /593 Summon Wolf Spell
 #This unit can cast the Summon Wolf spell, summoning a wolf to an adjacent tile.
 Ammo units consumed by casting: %d.#
+
+/594 Hornet swarm
+#Huorn can launch a swarm of hornets living in its branches at an enemy. This attack is similar to a shot, but deals almost no damage to Undead, Machines, Elementals, and Golems.#
+
+/595 Raise Lord of Darkness Spell
+#Unit can cast the Raise Lord of Darkness spell, to create a Lord of Darkness from a slain enemy's corpse.
+Ammo units consumed by casting: %d.#
+
+/596 Summon Cadaver Spell
+#Unit can cast the Summon Cadaver spell, to summon a Cadaver in adjacent tile.
+Ammo units consumed by casting: %d.#
+
+/597 Double Strike
+#When attacking an enemy in melee, unit can strike again if the enemy remains alive after the attack.#

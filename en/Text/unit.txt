@@ -131,7 +131,7 @@ The best warriors have a chance to be transferred to an elite squad.#
 #Harpies are known throughout Eador for their intolerable temper and a passion for glittery things. This winged folk lives in nests built on the slopes of steep cliffs and mountains. As a rule, harpies live in flocks, which helps them to fight off enemies together and carry out bold raids on neighboring villages in search for food and glittering trophies. Even during combat the harpies are unable to contain their passion for thieving. They are likely to steal arrows from the quiver of an archer who's left his guard down, or magical crystals from a sorcerer. #
 
 32. Basilisk
-#Basilisks dwell in moist and shady places, around swamps and underground lakes. These huge lizards have the ability to petrify enemies with their stare. The basilisk's curse wears off quickly, but it gives this slow lizard just enough time to approach the victim and inflict some damage with its sharp, strong teeth. Word has it that the goblins have managed to tame basilisks. Certain human monstrologists also possess the secret of taming the beasts. For the lizard to obey its master, however, it has to be trained from the very moment it hatches.
+#Basilisks dwell in moist and shady places, around swamps and underground lakes. These huge lizards have the ability to petrify enemies with their stare. The "Basilisk's Curse" wears off quickly, but allows the lizard to reach its target, and even injure a petrified enemy - a Basilisk's teeth are able to gnaw through the hardest stone. Word has it that the goblins have managed to tame basilisks. Certain human monstrologists also possess the secret of taming the beasts. For the lizard to obey its master, however, it has to be trained from the very moment it hatches.
 For the egg to be turned into a unit for a hero's party it is necessary to build the Pathfinders Guild.#
 
 33. Giant Spider
@@ -436,7 +436,7 @@ Forest Keepers are able to use the power of Nature to heal their allies' wounds,
 108. Huorn
 #Semi-intelligent beings, the huorn are tree-like creatures similar to treants. Huorns are typically the result of a specific ritual conducted by druids. However, some of the old trees, especially in the ancient forests, seem to be falling asleep, with their number constantly dwindling. They are able to reproduce,
 but they are unable to walk. They are more like plants than like animals. A tree that is transformed into a huorn represents an insurmountable obstacle for all flightless creatures. All attempts to cut down a huorn are quickly and ruthlessly opposed - its great strength and tirelessness allows it to fight off an entire horde of "woodcutters" and the hardness and inherent strength of this magical tree makes it a hard enemy to defeat.
-Old trees turned to Huorns often have nests of hornets or other large insects in their branches - and woe to anyone who disturbs their home!#
+Many Huorns, especially old ones, harbor nests of hornets or other large insects in their branches - and woe to anyone who disturbs their home!#
 
 109. Ghost Whisperer
 #Orcs don't practice what Human or Elven wizards would consider magic. They conjure lesser spirits, summoning them briefly from astral realms with special rituals and binding to primitive artifacts that are their totems. But Orc shamans - Ghost Whisperers - look nothing like the shamans of barbaric human tribes. Because totem spellcasting is so slow, Ghost Whisperers are expected to fight alongside the other orcs, should the need arise. That's why they wield massive staves as useful for skull cleaving as they are for spirit binding.#
@@ -526,7 +526,7 @@ Beast Masters, as they call themselves, are tough opponents to face, having many
 #In the swamps, there are many dangerous creatures. Some of them can even be tamed. One of these monsters is the Ericuba - a swamp creature.
 Goblins sometimes manage to sneak an egg out of one's lair, and even get away with it, except when the angry mother catches up with the thief. When such an egg is carefully stored in a warm and damp place, a small worm soon hatches. It grows very quickly, already taller than a goblin after a few days.
 In battle, the Ericuba can spit out its long, needle-like, poisonous teeth, causing significant damage and maiming the victim. She has nothing to worry about - they grow back very quickly, constantly renewing themselves in this way. Its poisonous teeth can shred a man to pieces, and the ferocity of its attack shocks enemies so much they freeze in horror. If necessary, an Ericuba may devour an ally to restore its own health. Of course, Ericubas feel at home in even the most impenetrable quagmire - they like to lurk, waiting until "dinner" comes too close.
-For the egg to be turned into a unit for a hero's party it is necessary to build the Monstrologists Guild.#
+For the egg to be turned into a unit for a hero's party, it is necessary to build a Monstrologists Guild or a Bog.#
 
 132. Halfling Rogue
 #Halflings, by their nature, are an untrustworthy lot. Some neighboring villages have outright banned their kind from entering due to the occurrence of countless thefts.
@@ -536,7 +536,8 @@ They are highly adept at finding hiding places like double bottoms in chests or 
 
 133. Border Sentinel
 #Halflings usually settle far away from other people's borders, and tend to keep to themselves. Sometimes they do have to deal with various types of "adventurers", and occasionally they must protect their land from hostile neighbours. Halflings aren't cut out for this activity, but they make enough money to hire people who can hold a sword.
-Highly experienced and skilled warriors, border guards tirelessly protect the outskirts of halfling villages, lurking in seemingly impenetrable thickets. Masters of solitary battles, these rangers are able to strike from a seemingly safe distance, and retreat just as quickly.#
+Highly experienced and skilled warriors, border guards tirelessly protect the outskirts of halfling villages, lurking in seemingly impenetrable thickets. Masters of solitary battles, these rangers are able to strike from a seemingly safe distance, and retreat just as quickly.
+For the contract to be turned into a unit for a hero's party it is necessary to build a Halfling Border Post.#
 
 134. White Mage
 #Few people know the reason why these practitioners of magic are often found near halfling settlements. Their motivation to protect their undersized friends is heightened by their disdain towards those who would seek to plunder their settlements. Armed with the power of light, they take comfort in their earned privacy.
@@ -735,7 +736,7 @@ Very little can slow down this abomination - it glides across any type of terrai
 The first mention of these creatures dates back to the time of the Schism of Shadows, when the Drow settled in the deep, and describes nightmare incarnate: the Beholder is not just a terrifying monster - it's not even a proper being. They have the semblance of a tangle of writhing snakes or marine reptiles hanging in the air. The only thing stable about the Beholder: the colossal lidless eye hidden in writhing shadows cast by nothing. A beholder's abilities are no less strange and mysterious than its looks: it is known for certain that it's immune to magic and can use energies of magical origin to strike down the poor souls it seemingly chooses at random from a distance. As for the actual harm done, though, rare survivors name anything and everything: from hypnosis or petrification to wounding by inexistent blades, poisoning without any venom, and burning in invisible fire. It seems a Beholder uses some unpredictable magic that can take many forms thought impossible.
 Beholders do, apparently, have free will; the one which is evil and hostile, and strong enough to subdue those who inadvertently take a look at the central eye.
 They are often seen alongside Drow, but it's not certain whether Beholders serve the Drow or the Drow serve Beholders or if these creatures have arranged a mutually beneficial alliance.
-For the eggs to be turned into a unit for a hero's party it is necessary to build the Heart of the Night.#
+For the eggs to be turned into a unit for a hero's party, it is necessary to build a Secret Library or a Heart of the Night.#
 
 183. Dark Priestess
 #The dark priestesses hold a special place in Drow society - they are healers. For the Drow, as it is for the elves, the birth of a child is a welcome, but unfortunately rare event. The continuous conflicts with other races cost many lives and if it weren't for the dark priestesses, even more lives would be lost. A dark priestess is able to heal even the most terrible wounds instantly, and her blessings turn allies into powerful and deadly warriors. A battle against a company of Drow with a dark priestess in their midst may show surprising come-backs on the side of the enemy and will therefore be hard to win.
@@ -753,7 +754,8 @@ For the contract to be turned into a unit for a hero's party it is necessary to 
 #The very existence of this magical entity contradicts all known laws of classical magic theory. It is a mystery how an entity governed by the laws of Chaos, and intrinsically opposed to Order, is able to crystallize into such an absolutely perfect structure. The Dark Crystal is a hard, impenetrable obstacle, and any attempt to breach the structure causes local instabilities in the surroundings. Terrible injuries await fools who dare to even scratch the crystal's surface.#
 
 187. Kobold-slave
-#Kobolds are natural inhabitants of the Underdark, which makes them unfortunate targets for slavery from their powerful neighbors, the Drow. This does not, however, mean that kobolds, as a species, are weak. Despite their small stature, they tend to have vile, crude tempers which fuels their fury in battle. As a precaution, for example, kobolds are kept in cages or in underground caves with a single, well-protected exit. To prevent kobolds from running away in the confusion of battle and to better hold the line, they are often shackled together or chained to a heavy load.#
+#Kobolds are natural inhabitants of the Underdark, which makes them unfortunate targets for slavery from their powerful neighbors, the Drow. This does not, however, mean that kobolds, as a species, are weak. Despite their small stature, they tend to have vile, crude tempers which fuels their fury in battle. As a precaution, for example, kobolds are kept in cages or in underground caves with a single, well-protected exit. To prevent kobolds from running away in the confusion of battle and to better hold the line, they are often shackled together or chained to a heavy load.
+For the contract to be turned into a unit for a hero's party, it is necessary to build Kobold Cages.#
 
 188. Kobold
 #Kobolds - small and vicious underground dwellers - have a rather unpleasant feature: they look like a cross between a rat and a lizard. For a long time surface dwellers were not even aware of their existence, as kobolds only lived in their deep caves. Their society had gradually grown over the years and eventually reached the surface where the races lived. But when the kobolds encountered the Dark Elves, most of them were killed and the rest of the subterranean species were enslaved by the Drow. Those who managed to avoid this fate, fled to the surface. Usually kobolds hide in secluded places, such as mines (often by killing the miners and taking their place).
@@ -955,7 +957,7 @@ Stopping such a colossus is incredibly difficult - only a really powerful or hug
 In addition to the laying on of hands, healing the wounds of his allies, a Paragon of Light can also treat his own wounds, just by praying to the Lord of the Light.#
 
 237. Maleficar
-#For the most powerful warlocks a day will come when all the secrets of Darkness are revealed to them. With a rich repertoire of dark spells, these adepts of Death can simply crush their enemies under a mass of walking corpses, who until recently were living enemies or allies.
+#For the most powerful warlocks a day will come when all the secrets of Darkness are revealed to them. With a rich repertoire of dark spells, these adepts of Death can simply crush their enemies under a mass of walking corpses, who until recently were living enemies or allies. Enemies defeated by the Maleficar will fuel the powers of his allies - or harm his enemies.
 The Maleficar, who in some ways is the quintessence of Darkness, is no longer subject to fear, poison, exhaustion or pain, just like the undead. Even the magic that can draw heat from the body is not able to harm this cold, almost heartless ruler of the Dark.#
 
 238. Berserker

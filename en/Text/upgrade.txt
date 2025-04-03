@@ -227,7 +227,7 @@
 #The unit learns to inflict severe damage on the enemy's armor in melee, decreasing its defense by 1.#
 
 /76 Petrification
-#This special type of ranged attack allows the unit to turn the enemy into a statue for 3 turns. The petrified enemy cannot do anything, but its defense is increased. An enemy's resistance can reduce the duration of the petrification.#
+#This special type of ranged attack allows the unit to turn the enemy into a statue for 3 turns. A petrified enemy cannot act and takes damage every turn, but Armor and Resistance are increased by 3. Enemy's Resistance slightly reduces duration of petrification.#
 
 /77 Web
 #This special ranged attack allows the unit to entangle an enemy in a web for 3 turns. An entangled enemy cannot do anything. The higher the enemy's Attack, Counterattack, or magical Ranged Attack, the faster he will get rid of the net.#
@@ -251,7 +251,7 @@
 #When the unit is attacked in melee for the first time in a given turn, his defense is increased by 2.#
 
 /84 Forager
-#The unit learns to obtain food by hunting. Its upkeep is reduced by 5 gold. The higher the unit's level, the greater the savings in gold.#
+#The unit learns to obtain food by hunting. Upkeep is reduced by 4 gold. The higher the unit's level, the greater the savings in gold.#
 
 /85 Parry
 #The unit's parrying skill improves, allowing him to increase his defense against the first melee attack an enemy makes against him in a given turn.#
@@ -434,7 +434,7 @@
 #The unit is taught to cast Mass Curse, reducing the combat attributes of the entire enemy army.#
 
 /145 Petrification
-#This special ranged attack allows the unit to turn the enemy into a statue for 6 turns. The petrified enemy cannot do anything, but its defense is increased. An enemy's resistance can reduce the duration of the petrification.#
+#This special type of ranged attack allows the unit to turn the enemy into a statue for 4 turns. A petrified enemy cannot act and takes damage every turn, but Armor and Resistance are increased. Enemy's Resistance slightly reduces duration of petrification.#
 
 /146 Petrification 1
 #Increases the duration of petrification by 1.#
@@ -979,7 +979,7 @@ Teach a unit to cast the "Quen" sign that increases armor and resistance.#
 #The unit is taught to cast "Anthem Of The Damned" spell, dealing damage to all mortals. Resistance protects only partially against this spell.#
 
 /326 Summon Hellhound Spell
-#The unit is taught to cast the "Summon Hellhound" spell, summoning a Hellhound to a tile adjacent to the summoner. Caster loses 5 hit points.#
+#The unit is taught to cast the "Summon Hellhound" spell, summoning a Hellhound to a tile adjacent to the summoner. The caster loses 4 hit points.#
 
 /327 Archdemon
 ##
@@ -1113,7 +1113,7 @@ Does not affect the undead, mechanical units and heroes.#
 #The unit is taught to cast the "Summon Beholder" spell, summoning a Beholder to a tile adjacent to the summoner.#
 
 /370 Dark Crystal Spell
-#This unit learns the Dark Crystal spell, which creates a Dark Crystal in an adjacent tile.#
+#Teach unit to cast the "Dark Crystal" spell, which creates a Dark Crystal within four tiles of the unit.#
 
 /371 Drow Rage Spell
 #The unit is taught to cast the "Drow Rage" spell, increasing attack and ranged attack of a friendly unit by 2, speed by 1 and grants bloodlust.#
@@ -1181,7 +1181,7 @@ Does not affect the undead, mechanical units and heroes.#
 /392 Word of Death Spell
 #The unit is taught to cast "Word of Death" spell, greatly reducing stamina of all living units on the battlefield.#
 
-/393 Raise Mummy Spell
+/393 Raise Mummy Spell - Not Used
 #The unit is taught to cast "Raise Mummy" spell, creating a mummy from the corpse of the dead unit.#
 
 /394 Raise Cadaver Spell
@@ -1209,13 +1209,13 @@ Does not affect the undead, mechanical units and heroes.#
 #The unit is taught to cast Summon Imp, summoning an imp in a neighboring tile. The caster loses 3 hit points.#
 
 /402 Summon Hellhound Spell
-#The unit is taught to cast the "Summon Hellhound" spell, summoning a Hellhound to a tile adjacent to the summoner. Caster loses 5 hit points.#
+#The unit is taught to cast the "Summon Hellhound" spell, summoning a Hellhound to a tile adjacent to the summoner. The caster loses 4 hit points.#
 
 /403 Summon Fiend Spell
 #The unit is taught to cast the "Summon Fiend" spell, summoning a Fiend to a tile adjacent to the summoner. Caster loses 6 hit points.#
 
 /404 Summon Demon Spell
-#The unit is taught to cast "Summon Demon", summoning a Demon to a tile adjacent to the summoner. The sacrifice of a friendly unit is required for this summoning.#
+#The unit is taught to cast "Summon Demon", summoning a Demon to a tile adjacent to the summoner. Caster loses 10 hit points.#
 
 /405 Demon Blood Spell
 #Teach unit to cast the Demon Blood spell, inflicting damage to all enemy and allied demons within a 1-tile radius, and healing the caster.#
@@ -1447,7 +1447,7 @@ Unit HP -8.#
 /468 Fix
 #The unit is taught the special ability to repair a friendly mechanical unit within shooting range.#
 
-/469 Fix +1
+/469 Fix +3
 #Increase the amount of health restored by means of repair.#
 
 /470 Become Workman
@@ -1459,8 +1459,8 @@ Unit HP -8.#
 /472 Summon Wolf Spell
 #The unit is taught to cast "Summon Wolf" spell, summoning wolf to summoner's adjacent tile.#
 
-/473 Summon Dire Bear Spell
-#The unit is taught to cast "Summon Dire Bear" spell, summoning dire bear to summoner's adjacent tile.#
+/473 Summon Bears Spell
+#Teach unit to cast the "Summon Bears" spell, which summons two dire bears in adjacent tiles.#
 
 /474 Manic Rage -1
 #Reduce the damage inflicted by Manic Rage by 1.#
@@ -1513,7 +1513,7 @@ Unit HP -8.#
 /490 Concoction Spell
 #This unit learns the Concoction spell, temporarily increasing a friendly creature's Attack, Defense and Ranged Defense, and granting the Necrophage ability, but also causing health loss.#
 
-/491 Gas Bomb
+/491 Gas Bomb - Not Used
 #The unit is taught to use special bombs that poison all living creatures within 1 tile of the target.#
 
 /492 Fierce Roar
@@ -1627,7 +1627,7 @@ Bloodsucker +10.#
 ##
 
 /526 Summoning Power
-#Increase the power of summoned units by 4 (Undead just by 1).#
+#Increase the power of summoned units by 4 (Undead just by 1). Summoning range will not increase.#
 
 /527 Armor of Faith
 #Reduces damage from Undead and Demons by 25~.#
@@ -1944,7 +1944,7 @@ Bloodsucker +10.#
 /631 Bloodsucker +10
 #Increase health recovered by 25~ of melee damage dealt.#
 
-/632 Master of Zombies
+/632 Master of Zombies - Not Used
 #Teaches a maleficar to raise the corpses of defeated enemies as zombies instead of skeletons.#
 
 /633 Shield Wall
@@ -2005,10 +2005,10 @@ Bloodsucker +10.#
 #Increases the magic damage inflicted by the unit's melee attack.#
 
 /652 Bloodlust
-#Damage taken increases the unit's morale, and when an enemy is killed, the unit gets an extra morale boost.#
+#Taking heavy damage increases the unit's morale, and killing enemy provides an extra morale boost.#
 
 /653 Bloodlust
-#Damage taken increases the unit's morale, and when an enemy is killed, the unit gets an extra morale boost.#
+#Taking heavy damage increases the unit's morale, and killing enemy provides an extra morale boost.#
 
 /654 Damaged Aura
 #The unit is taught to inflict severe damage to the enemy's aura in melee, decreasing its resistance by 1.#
@@ -2139,7 +2139,7 @@ Bloodsucker +10.#
 /696 Scorching Flesh 1
 #Makes the heat emitted by the unit stronger, causing it to burn its attacker more severely during melee.#
 
-/697 Siege Mode
+/697 Siege Mode - Not Used
 #The unit can switch to siege mode. In this mode, unit's Ranged Attacks will damage not only the main target, but also up to three enemy units in a row.#
 
 /698 Powerful Shot
@@ -2194,7 +2194,7 @@ Bloodsucker +10.#
 #The unit spends its spare time working, increasing the income from a province he is stationed in by 20~.#
 
 /715 Siege Mode
-#The unit can switch to siege mode, increasing its ranged attack by 3 and range by 1.#
+#The unit can switch to siege mode, increasing its ranged attack by 4 and range by 1.#
 
 /716 Siege Mode
 #The unit can switch to siege mode, increasing its ranged attack by 10 and range by 2. In this attack the unit will inflict permanent damage to the area.#
@@ -2302,19 +2302,19 @@ Bloodsucker +10.#
 #Unit can cast the Forest Protection spell on itself, increasing Defense and Ranged Defense of all nearby allies by 2.#
 
 /751 Gobble 20
-#Unit is able to completely swallow an enemy with less than 20 HP. Digestion restores 5 HP each turn.#
+#Unit is able to completely swallow an enemy with less than 20 HP. Digestion restores 8 HP each turn.#
 
 /752 Gobble +10
 #Increase the threshold for gobbling an enemy by 10 HP.#
 
-/753 Digestion +5
-#Increases by 5 the number of hit points restored when the unit is digesting an enemy.#
+/753 Digestion +6
+#Increases by 6 the number of hit points restored when the unit is digesting an enemy.#
 
 /754 Forest Might
 #Unit can cast the Forest Might spell on himself, increasing all types of Attack and Armor of all allies around him by 2.#
 
 /755 Forest Blessing
-#Unit can cast the Forest Blessing spell on himself, increasing all types of Attack and Armor of all allies around him by 2, and also enabling them to recover additional health and stamina when resting.#
+#Unit can cast the Forest Blessing spell on himself, increasing all types of Attack and Armor of all allies around him by 2, and enabling them to recover Stamina and Health when resting.#
 
 /756 Path of Power
 #Choose Grunas as your battle form. This powerful, heavy beast, part bear, part white tiger, has tremendous strength and endurance.#
@@ -2332,24 +2332,24 @@ Bloodsucker +10.#
 #By choosing the Path of Fire, unit will gain the ability Burning Arrows 2.#
 
 /761 Path of Wind
-#By choosing the Path of Wind, unit will increase Ranged Attack by 1, and Range by 1.#
+#By choosing the Path of Wind, unit will increase Ranged Attack by 1, and Range by 1. Ammo supply will be reduced by 2.#
 
 /762 Sniper Shot
 #The unit has studied the special ability that expend some stamina to increase its range by 1.#
 
 /763 Path of Water
-#By choosing the Path of Water, unit will be able to strike enemies from a distance with the help of his magic abilities. Ranged Attack will increase by 10, Range by 5, unit will receive the ability Magic Shot.#
+#By choosing the Path of Water, unit will be able to strike enemies from a distance with the help of his magic abilities. Ranged Attack will increase by 14, Range by 5, unit will receive the ability Magic Shot.#
 
 /764 Path of Earth
-#By chosing the Path of Earth, unit will be able to use his magical abilities to cast various spells. Summoning Power increased by 6, Summoning Range by 2. Unit can summon a wolf.#
+#By chosing the Path of Earth, unit will be able to use his magical abilities to cast various spells. Summoning Power increased by 6, Summoning Range by 2. Unit will be able to summon Eagles.#
 
 /765 Ranged Attack +1
-#Increase the unit's shooting strength.#
+#Increase unit's Ranged Attack and Energy Control by 1 (ignore 1 resistance of target on a hit or a shot).#
 
 /766 Ranged Attack +2
-#Increase the unit's shooting strength.#
+#Increase unit's Ranged Attack by 2 and Energy Control by 1 (ignore 1 resistance of target on a hit or a shot).#
 
-/767 Energy Control
+/767 Energy Control - Not Used
 #The ability to control magic energy allows the unit to ignore 2 points of target's resistance while using a magical ranged attack.#
 
 /768 Summoning Power +4
@@ -2398,19 +2398,19 @@ Bloodsucker +10.#
 #By choosing the Path of Tenacity, unit will instantly increase Defense, Ranged Defense, and Regeneration by 2.#
 
 /783 Path of the Warrior
-#By choosing the Path of the Warrior, Pathfinder will increase Ranged Attack by 1, and Precise Shot by 2.#
+#By choosing the Path of the Warrior, Pathfinder will increase Ranged Attack and Precise Shot by 2.#
 
 /784 Path of the Hunter
-#By choosing the Path of the Hunter, Pathfinder will reduce Upkeep by 40~. First Aid will increase by 2.#
+#By choosing the Path of the Hunter, Pathfinder will instantly gain knowledge of all territories, and increase First Aid by 4. Unit upkeep will decrease by 50~.#
 
 /785 Upkeep -40
-#Reduce Pathfinder's Gold and Gem Upkeep by an extra 40~.#
+#Reduce gold and gem upkeep of the Pathfinder by 50~.#
 
 /786 Spiritual Link Spell
 #Unit learns the Spiritual Link spell, which allows sharing the Stamina cost of spells cast by the enchanted creature.#
 
 /787 Life Bond Spell
-#Unit learns the Life Bond spell, which allows sharing the damage between the caster and the enchanted creature.#
+#Teach unit the Life Bond spell, which reduces damage to an enchanted creature at the cost of minor damage to the caster.#
 
 /788 Upkeep -20
 #Reduce gold and gem upkeep of the unit by 20~.#
@@ -2485,10 +2485,10 @@ Bloodsucker +10.#
 #Units in the hero's party heal 10~ faster.#
 
 /812 Authority
-#Units with negative karma in the hero's party receive an extra +5 Morale.#
+#Units with negative karma in the hero's party receive an extra +4 Morale.#
 
 /813 Leader
-#Units with positive karma in the hero's party receive an extra +5 Morale.#
+#Units with positive karma in the hero's party receive an extra +4 Morale.#
 
 /814 Inspired
 #Hero always starts battle with increased Morale.#
@@ -2544,8 +2544,8 @@ Bloodsucker +10.#
 /831 Gnoll Might 4
 #Unit learns ability Gnoll Might 4.#
 
-/832 Summon Eagle Spell
-#Teach unit to cast Summon Eagle spell, to summon an Eagle next to the caster.#
+/832 Summon Wolves Spell
+#Teach unit the "Summon Wolf" spell, to summon several wolves to adjacent tiles.#
 
 /833 Lord of the Dead
 #Henceforth, all Undead raised by the unit will be his level or higher.#
@@ -2605,4 +2605,52 @@ Bloodsucker +10.#
 #When the unit kills an enemy from range, it receives an extra turn.#
 
 /852 Hornet swarm
-#Teach unit to attack an enemy from a distance.#
+#Enhance unit's ability to attack the enemy from a distance.#
+
+/853 Double Shot
+#A special ability allowing the unit to take 2 shots at the target at once by spending some stamina.#
+
+/854 No effect on Morale
+#Presence of this unit in the army does not affect other units' Morale.#
+
+/855 Ifrit Might
+##
+
+/856 Dodge +2
+#Teach unit to defend against multiple shots.#
+
+/857 Dodge +2
+#Improves unit's ability to defend against multiple shots.#
+
+/858 Spellpower 1
+#Increase the unit's Spellpower by 1.#
+
+/859 Raise Skeleton of Doom
+#Teach unit the Raise Skeleton of Doom spell, to create a Skeleton of Doom from a slain enemy's corpse.#
+
+/860 Maleficar Tome 2
+##
+
+/861 Raise Lord of Darkness Spell
+#Teach unit the Raise Lord of Darkness spell, to create a Lord of Darkness from a slain enemy's corpse.#
+
+/862 Summon Cadaver Spell
+#Teach unit the Summon Cadaver spell, to summon a Cadaver in adjacent tile.#
+
+/863 Hunter of Undead 1
+#The unit is taught to inflict additional damage to the undead.#
+
+/864 Hunter of Demons 1
+#The unit is taught to inflict additional damage to demons.#
+
+/865 Cause Atrophy
+#Improves unit's ability to infect with disease when performing melee attack.#
+
+/866 Summon Rat Swarm Spell
+#Teach unit the Summon Rat Swarm spell, to summon six giant rats in adjacent tiles.#
+
+/867 Double Strike
+#When attacking an enemy in melee, unit can strike again if the enemy remains alive after the attack.#
+
+/868 Cheaper Spells
+#Cost of casting spells is reduced by 17~.#

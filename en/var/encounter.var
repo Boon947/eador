@@ -11304,8 +11304,8 @@ Answer2: 0;
 
 *Effects*:
 Index: 1
-Power: 350
-Param1: 150
+Power: 400
+Param1: 100
 Param2: 4;
 
 /451 Кристалл, золото (средний)
@@ -11326,8 +11326,8 @@ Answer2: 0;
 
 *Effects*:
 Index: 1
-Power: 600
-Param1: 350
+Power: 800
+Param1: 200
 Param2: 4;
 
 /452 Кристалл, золото (тяжёлый)
@@ -11348,8 +11348,8 @@ Answer2: 0;
 
 *Effects*:
 Index: 1
-Power: 1000
-Param1: 500
+Power: 1200
+Param1: 300
 Param2: 4;
 
 /453 Кристалл, кристаллы (лёгкий)
@@ -11370,7 +11370,7 @@ Answer2: 0;
 
 *Effects*:
 Index: 6
-Power: 150
+Power: 100
 Param1: 50
 Param2: 4;
 
@@ -11392,7 +11392,7 @@ Answer2: 0;
 
 *Effects*:
 Index: 6
-Power: 250
+Power: 200
 Param1: 100
 Param2: 4;
 
@@ -11414,8 +11414,8 @@ Answer2: 0;
 
 *Effects*:
 Index: 6
-Power: 350
-Param1: 200
+Power: 300
+Param1: 150
 Param2: 4;
 
 /456 Кристалл, предмет (лёгкий)

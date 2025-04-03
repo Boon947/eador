@@ -32,7 +32,7 @@ Cost of garrison units reduced by -50~.#
 
 8. Watchmen
 #Though lacking any special fighting strength, the watchmen are of great benefit in that they gather intelligence on the neighboring enemy areas.
-The province spotting range is increased.#
+Increases spotting range.#
 
 9. Brethren of Light
 #The Servants of Light are better suited for treating wounds and diseases than for fighting on a battlefield.
@@ -70,7 +70,7 @@ Incorruptible.#
 16. Secret Agents
 #The spies and assassins in your service can make decent province defenders. Moreover, they never cease to gather intelligence on your neighbors nor reports on potential troublemakers. The only drawback is that life in such a province becomes rather dangerous.
 Population mood -1.
-Provides detailed information of neighboring enemy provinces.
+Increases spotting range.
 Unrest growth rate reduced by 2.#
 
 17. Mob
@@ -112,7 +112,7 @@ Fortification rebuilding sped up by 5~.#
 
 26. Winged Guards
 #A company of gryphons and pegasi watches from the sky not just over their own province but over the neighboring lands as well. A swift attack by the winged guards can inflict serious damage to the enemy.
-The province spotting range is increased.#
+Increases spotting range.#
 
 27. Battlemages
 #A band of experienced mages and sorcerers are not just excellent defenders, but a good source of magic gems as well. But, to tell the truth, people tend to go missing once such guards arrive, and that negatively affects the population's mood.
@@ -298,7 +298,7 @@ Incorruptible.#
 
 64. Heavenly Guards
 #The pegasi summoned by means of a special ritual watch over your province and its surroundings. The local people are gladdened when they see winged horses hovering in the sky, guarding the peace.
-The province spotting range is increased.
+Increases spotting range.
 Population mood +2.#
 
 65. Recruits
@@ -422,7 +422,7 @@ Does not lower the mood in Orc provinces.#
 
 86. Border Guards
 #A party of Halfling border guards are hard to beat. Non-aggressive, but not weak, they are able to successfully resist an enemy assault. As scouts will constantly patrol the borders, it will be hard to approach the province unnoticed.
-The province spotting range is increased.
+Increases spotting range.
 Improves population mood in the Halfling province by 1.#
 
 87. Centaur Tribe
@@ -459,20 +459,20 @@ Does not lower the mood in Gnoll provinces.#
 
 92. Winged Watch
 #Winged Watches usually consist of a small group of Icari, led by a Luminary, vigilantly patrolling the area around the Alkari settlement and ready at any time to raise the alarm and if necessary call in reinforcements. In large populations however, the Watches usually consist of more members, and may be led by Memory Keepers and even Eternal Mentors. All the warriors of the Children of Heaven are faithful to their people and unable to deliberately betray them.
-The province spotting range is increased.
+Increases spotting range.
 Incorruptible.#
 
 93. Combat Wing
 #A large group of winged warriors are guarding the borders of the province. The height of their flight allows the Alkari to see very far, so an attack by an enemy is unlikely to surprise them, and the mental power of the accompanying squadron of Witnesses help raise the alarm quickly.
 Can only be placed in the plains, forest and hills provinces.
-The province spotting range is increased.
+Increases spotting range.
 Incorruptible.
 Improves population mood in the Alkari province by 1.#
 
 94. Celestial Squadron
 #A large army of Children of Heaven, led by Eternal Mentors and Arisen Luminaries, have vowed to guard the peace and quiet of your province and they never break their vows. By combining minds a Celestial Squadron operates like a single organism. Anyone spotted within the protected area is discovered and eliminated, the enemy spy or troops are crushed.
 Can only be placed in the plains, forest and hills provinces.
-The province spotting range is increased.
+Increases spotting range.
 Intrepid. Incorruptible.
 Improves population mood in the Alkari province by 1.#
 
@@ -493,7 +493,7 @@ Does not lower the mood in Ratman provinces.#
 
 98. Rat King
 #Hordes of Ratmen, led by their ruler - excellent protection for the province. To protect the master, Ratmen discreetly dart along the borders, giving advance warning of any possible attacks. Wanting to curry favor with him, they drag him to the best food - and in large quantities, extracting it from the locals, who obviously do not like that much.
-The province spotting range is increased.
+Increases spotting range.
 Province income -10~.
 Population mood -1.
 Does not lower the mood in Ratman provinces.#
@@ -511,7 +511,8 @@ Incorruptible. Intrepid.#
 
 101. Mechanicals
 #Dwarven mechanical creations are able to repel any enemy. When there are no enemies, their talents are very useful in the repair of the fortifications.
-Fortification rebuilding sped up by 10~.#
+Fortification rebuilding sped up by 10~.
+Can only be placed in hills.#
 
 102. Phantoms
 #A creation of the mighty mind, phantoms are tirelessly guarding the province. And the province's inhabitants, acknowledging the power of its ruler, try to keep their unrest to themselves.

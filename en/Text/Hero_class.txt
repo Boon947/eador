@@ -14,10 +14,10 @@
 #At the end of the Warrior path the hero becomes a Holy Knight, able to crush the forces of the dark with his strikes. A Holy Knight knows how to heal his own wounds.#
 
 /6 Assassin
-#A Warrior who has mastered scouting skills becomes an Assassin, able to poison his weapons with deadly venom and strike his enemy's most vulnerable spots.#
+#A Warrior who has mastered scouting skills becomes an Assassin, able to poison his weapons with deadly venom and strike his enemy's most vulnerable spots. Assassin is able to parry enemy attacks more often.#
 
 /7 Chieftain
-#A warrior who has learned the skill of command becomes a Chieftain, able to fall into a battle rage, becoming immune to wounds and gaining attack strength. The party of a Warrior Chieftain requires less upkeep and quickly gains combat experience.#
+#A warrior who has mastered the skill of commanding troops becomes a Chieftain, becoming more resistant to injury, and able to fall into a rage in battle, increasing his attack. The party of a Warrior Chieftain requires less upkeep and quickly gains combat experience.#
 
 /8 Dark Knight
 #A Warrior who has mastered the basics of dark magic becomes a Dark Knight, able to drink the souls of the enemies he defeats and inflict more damage to good creatures. A Dark Knight gets an extra slot for a Circle II spell.#
@@ -47,7 +47,7 @@
 #A Commander who has mastered the secrets of magic becomes a Priest, able to increase the morale and resistance of his units. Units in a Priest's army tolerate units of the opposite alignment.#
 
 /17 Battlemage
-#A Wizard who has mastered the art of fighting becomes a Battlemage, gaining higher resistance to hostile magic and the ability to better overcome enemy resistance. A Battlemage casts spells with more power, and has access to the library.#
+#A Wizard who has mastered the art of fighting becomes a Battlemage, gaining higher resistance to hostile magic and the ability to better overcome enemy resistance. A Battlemage's magic is stronger than usual, and he has access to the library.#
 
 /18 Druid
 #A Wizard who masters the secrets of Scouting becomes a Druid, able to summon powerful creatures and to use wands efficiently. Druid spells consume less gems.#
@@ -56,10 +56,10 @@
 #A Wizard who has mastered the basics of command becomes a Necromancer able to raise more powerful Undead. A Necromancer can keep in his army Undead more powerful than his skill usually allows, and his spells last longer than usual.#
 
 /20 Mage
-#Having completed the path of the Wizard, the hero becomes a Mage, able to cast two simple spells each turn.#
+#Having completed the path of the Wizard, the hero becomes a Mage, able to cast two simple spells each turn. A Mage casts spells with increased power.#
 
 /21 Paladin
-#After perfecting his mastery of the path of the Holy Knight, the hero becomes a Paladin, the terror of dark forces and a master of healing wounds. A Paladin's combat prowess allows him to always strike first.#
+#After perfecting his mastery of the path of the Holy Knight, the hero becomes a Paladin, the terror of dark forces. A Paladin's combat prowess allows him to always strike first.#
 
 /22 Master Assassin
 #Having mastered the path of the Assassin, the hero becomes a Master Assassin, a superior maker of poisons and a peerless master of the blade able to dodge an opponent's counterattack.#

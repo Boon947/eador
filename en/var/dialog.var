@@ -1,4 +1,4 @@
-Quantity: 2445
+Quantity: 2450
 
 /0
 Window: 0;
@@ -14905,9 +14905,9 @@ Answer1: Why on earth did I agree to do this?;#####
 /1944 Все враги сбежали с поля боя
 Window: 1;
 Bitmap: 0;
-Text: #All surviving enemies have deserted the battlefield! This is Victory, my Lord!#
-Answer1: Victory?! These scoundrels are still alive!;
-Answer2: Very well then.;#####
+Text: #All surviving enemies are deserting the battlefield! This is Victory, my Lord!#
+Answer1: That's good, let them run.;
+Answer2: Victory?! These scoundrels are still alive!;#####
 
 /1945 (Ручное управление защитниками провинции - вопрос)
 Window: 1;
@@ -18745,3 +18745,43 @@ Bitmap: 92;
 Text: #A group of giants has attacked the %s province!#
 Answer1: I've been waiting for you, beasts!;
 Answer2: Oh, why so soon?!;#####
+
+/2446 Все враги сбежали с поля боя - выбор (тёмный 1)
+Window: 1;
+Bitmap: 0;
+Text: #All surviving enemies are deserting the battlefield! This is Victory, my Lord!
+Do you want to go after them?#
+Answer1: Of course! They have my gold!;
+Answer2: I spit on them...;#####
+
+/2447 Все враги сбежали с поля боя - выбор (тёмный 2)
+Window: 1;
+Bitmap: 0;
+Text: #All surviving enemies are deserting the battlefield! This is Victory, my Lord!
+Do you want to go after them?#
+Answer1: Yes! I want their heads!;
+Answer2: I spit on them...;#####
+
+/2448 Все враги сбежали с поля боя - выбор (нейтральный)
+Window: 1;
+Bitmap: 0;
+Text: #All surviving enemies are deserting the battlefield! This is Victory, my Lord!
+Do you want to go after them?#
+Answer1: Yes! Don't let them get away!;
+Answer2: No, I've changed my mind...;#####
+
+/2449 Все враги сбежали с поля боя - выбор (светлый 1)
+Window: 1;
+Bitmap: 0;
+Text: #All surviving enemies are deserting the battlefield! This is Victory, my Lord!
+Do you want to go after them?#
+Answer1: Of course! It's a matter of honor!;
+Answer2: No, let them go...;#####
+
+/2450 Все враги сбежали с поля боя - выбор (светлый 2)
+Window: 1;
+Bitmap: 0;
+Text: #All surviving enemies are deserting the battlefield! This is Victory, my Lord!
+Do you want to go after them?#
+Answer1: Yes! Let's end their suffering!;
+Answer2: No, let them go...;#####

@@ -36,7 +36,7 @@ Talent6: 0, 0
 
 /5
 Name: Holy Knight;
-Talent1: 35, 3
+Talent1: 35, 4
 Talent2: 120, 1
 Talent3: 202, 1
 Talent4: 203, 1
@@ -45,20 +45,20 @@ Talent6: 960, 240
 
 /6
 Name: Assassin;
-Talent1: 41, 2
+Talent1: 41, 3
 Talent2: 42, 2
 Talent3: 76, 2
 Talent4: 77, 2
-Talent5: 960, 239
-Talent6: 0, 0
+Talent5: 377, 1
+Talent6: 960, 239
 
 /7
 Name: Chieftain;
 Talent1: 25, 3
-Talent2: 990, 15
-Talent3: 997, 10
-Talent4: 960, 238
-Talent5: 0, 0
+Talent2: 169, 2
+Talent3: 990, 15
+Talent4: 997, 10
+Talent5: 960, 238
 Talent6: 0, 0
 
 /8
@@ -181,20 +181,20 @@ Talent6: 0, 0
 /21
 Name: Paladin;
 Talent1: 16, 1
-Talent2: 35, 5
-Talent3: 120, 1
-Talent4: 902, 1
-Talent5: 960, 265
+Talent2: 120, 1
+Talent3: 902, 1
+Talent4: 960, 265
+Talent5: 0, 0
 Talent6: 0, 0
 
 /22
 Name: Master Assassin;
 Talent1: 26, 1
-Talent2: 41, 2
+Talent2: 41, 3
 Talent3: 42, 2
-Talent4: 960, 264
-Talent5: 0, 0
-Talent6: 0, 0
+Talent4: 76, 1
+Talent5: 377, 1
+Talent6: 960, 264
 
 /23
 Name: Great Chieftain;
