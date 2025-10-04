@@ -1,4 +1,4 @@
-Quantity: 597
+Quantity: 600
 
 /0
 Name: Пусто;
@@ -610,7 +610,7 @@ Effect: 1
 Percent: 0
 
 /87
-Name: Диверсия;
+Name: Разведка;
 Number: 981
 Numeric: 1
 Effect: 1
@@ -1723,21 +1723,21 @@ Effect: 0
 Percent: 0
 
 /246
-Name: Заклятье "Обращение в скелета";
+Name: Заклятье "Полиморфизм";
 Number: 2174
 Numeric: 1
 Effect: 0
 Percent: 0
 
 /247
-Name: Заклятье "Обращение в чёрта";
+Name: Заклятье "Двойник";
 Number: 2175
 Numeric: 1
 Effect: 0
 Percent: 0
 
 /248
-Name: Заклятье "Обращение в жреца";
+Name: Заклятье "Двойник";
 Number: 2176
 Numeric: 1
 Effect: 0
@@ -2739,7 +2739,7 @@ Percent: 0
 
 /391
 Name: Насылает проказу;
-Number: 176
+Number: 387
 Numeric: 0
 Effect: 0
 Percent: 0
@@ -4184,4 +4184,25 @@ Name: Двойной удар;
 Number: 279
 Numeric: 0
 Effect: 1
+Percent: 0
+
+/598
+Name: Стрельба на ходу;
+Number: 385
+Numeric: 0
+Effect: 1
+Percent: 0
+
+/599
+Name: Подвижный стрелок;
+Number: 386
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/600
+Name: Парализующее касание;
+Number: 392
+Numeric: 0
+Effect: 0
 Percent: 0

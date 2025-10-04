@@ -1,4 +1,4 @@
-Quantity: 868
+Quantity: 872
 
 /0
 Name: Пусто;
@@ -1358,8 +1358,11 @@ Quantity: 1;
 Name: Насылает проказу;
 Only Once: 0
 Need: (0)
-Upg Type: 176
-Quantity: 1;
+Upg Type: 387
+Quantity: 1
+
+Upg Type: 129
+Quantity: 290;
 
 /182
 Name: Контроль разума;
@@ -2571,18 +2574,18 @@ Upg Type: 2170
 Quantity: 4;
 
 /329
-Name: Обращение в скелета;
+Name: Полиморфизм;
 Only Once: 1
 Need: (0)
 Upg Type: 2174
-Quantity: 2;
+Quantity: 3;
 
 /330
-Name: Обращение в чёрта;
+Name: Двойник;
 Only Once: 1
 Need: (0)
 Upg Type: 2175
-Quantity: 3;
+Quantity: 1;
 
 /331
 Name: Обращение в жреца;
@@ -2780,7 +2783,7 @@ Name: Объятия Тьмы;
 Only Once: 1
 Need: (0)
 Upg Type: 2189
-Quantity: 3;
+Quantity: 2;
 
 /355
 Name: Смертельное касание;
@@ -2884,14 +2887,23 @@ Name: Паралич;
 Only Once: 1
 Need: (0)
 Upg Type: 2192
-Quantity: 4;
+Quantity: 3
+
+Upg Type: 392
+Quantity: 1
+
+Upg Type: 129
+Quantity: 192
+
+Upg Type: 130
+Quantity: 192;
 
 /366
 Name: Массовый сон;
 Only Once: 1
 Need: (0)
 Upg Type: 2193
-Quantity: 6;
+Quantity: 5;
 
 /367
 Name: Теневая форма;
@@ -4283,7 +4295,7 @@ Name: Волшебный дракон;
 Only Once: 1
 Need: (0)
 Upg Type: 2174
-Quantity: 2
+Quantity: 3
 
 Upg Type: 2024
 Quantity: 1
@@ -5879,8 +5891,11 @@ Need: (0)
 Upg Type: 170
 Quantity: 1
 
-Upg Type: 174
+Upg Type: 172
 Quantity: 1
+
+Upg Type: 175
+Quantity: 15
 
 Upg Type: 305
 Quantity: 1;
@@ -7429,3 +7444,34 @@ Only Once: 0
 Need: (0)
 Upg Type: 983
 Quantity: 17;
+
+/869
+Name: Облегчённая броня;
+Only Once: 1
+Need: (221)
+Upg Type: 221
+Quantity: -1;
+
+/870
+Name: Яростная атака;
+Only Once: 1
+Need: (66)
+Upg Type: 66
+Quantity: -2
+
+Upg Type: 65
+Quantity: 1;
+
+/871
+Name: Стрельба на ходу;
+Only Once: 1
+Need: (0)
+Upg Type: 385
+Quantity: 1;
+
+/872
+Name: Подвижный стрелок +1;
+Only Once: 1
+Need: (385)
+Upg Type: 386
+Quantity: 1;

@@ -1,4 +1,4 @@
-Quantity: 312
+Quantity: 313
 
 /0 Фон
 Layer: 0
@@ -859,7 +859,7 @@ Y: 552
 Group: 0
 Yplace: 640
 Buildings: (97)
-Antibuildings: (240)
+Antibuildings: (263)
 
 /86 Гильдия монстрологов
 Layer: 2
@@ -2609,7 +2609,7 @@ Y: 552
 Group: 0
 Yplace: 640
 Buildings: (240)
-Antibuildings: (263)
+Antibuildings: (0)
 
 /261 Игральня
 Layer: 2
@@ -3129,4 +3129,14 @@ Y: 62
 Group: 5
 Yplace: 0
 Buildings: (289)
+Antibuildings: (0)
+
+/313 Зал вождей
+Layer: 2
+Opacity: 0
+X: 404
+Y: 676
+Group: 0
+Yplace: 750
+Buildings: (290)
 Antibuildings: (0)

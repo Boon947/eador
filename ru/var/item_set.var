@@ -301,16 +301,29 @@ Area: 0;
 Name: Доспех Героя;
 ItemsNum: 5
 Items: 254, 276, 296, 317, 368
-Bonus: 3
+Bonus: 4
 
 Items: 2
 Morale: 12
 Power: 3
 Area: 1;
 
+Items: 3
+Life: 1
+Power: 2
+Area: 1
+
+Attack: 2
+Power: 1
+Area: 1;
+
 Items: 4
 Life: 1
-Power: 4
+Power: 2
+Area: 1
+
+Morale: 12
+Power: 2
 Area: 1;
 
 Items: 5
@@ -791,8 +804,8 @@ Power: 1
 Area: 0;
 
 Items: 5
-Explore: 996
-Power: 10
+Explore: 970
+Power: 1
 Area: 0;
 
 Items: 6
@@ -1507,8 +1520,8 @@ Power: 5
 Area: 0;
 
 Items: 3
-Explore: 996
-Power: 5
+Explore: 970
+Power: 1
 Area: 0
 
 Mobility: 998

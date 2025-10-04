@@ -1,4 +1,4 @@
-Quantity: 289
+Quantity: 290
 
 /0
 Name: Пусто;
@@ -821,7 +821,7 @@ Param1: 0
 Param2: 0
 
 Ability: 57
-Param1: 10
+Param1: 15
 Param2: 0;
 
 /36
@@ -2361,6 +2361,10 @@ Buildings: (25, 54)
 Resource: (1, 2, 3, 3)
 
 Ability:
+Ability: 28
+Param1: 10
+Param2: 0
+
 Ability: 31
 Param1: 391
 Param2: 1
@@ -2415,6 +2419,10 @@ Resource: (1, 1, 6, 6, 5, 7)
 Ability:
 Ability: 32
 Param1: 3
+Param2: 0
+
+Ability: 61
+Param1: 1
 Param2: 0;
 
 /100
@@ -3173,7 +3181,7 @@ Upgrade: 0
 Hidden: 0
 Level: 5
 
-Buildings: (104, 94, 240)
+Buildings: (104, 94, 263)
 Resource: (5, 5, 7, 7)
 
 *Ability*:
@@ -3724,7 +3732,7 @@ Param1: 99
 Param2: 0
 
 Ability: 57
-Param1: 10
+Param1: 15
 Param2: 0;
 
 /151
@@ -3743,6 +3751,10 @@ Resource: (6, 6, 6, 6, 6, 7)
 *Ability*:
 Ability: 32
 Param1: 5
+Param2: 0
+
+Ability: 61
+Param1: 1
 Param2: 0;
 
 /152
@@ -3924,7 +3936,7 @@ Param1: 406
 Param2: 1
 
 Ability: 57
-Param1: 15
+Param1: 20
 Param2: 0;
 
 /159
@@ -4756,7 +4768,7 @@ Param1: 71
 Param2: 1
 
 Ability: 57
-Param1: 20
+Param1: 25
 Param2: 0;
 
 /189
@@ -5057,7 +5069,7 @@ Upgrade: 0
 Hidden: 0
 Level: 0
 
-Buildings: (219)
+Buildings: (219, 54)
 Resource: (2, 4)
 
 Ability:
@@ -5592,7 +5604,7 @@ Upgrade: 197
 Hidden: 0
 Level: 0
 
-Buildings: (198, 97, 39)
+Buildings: (198, 40, 39)
 Resource: (1, 2)
 
 Ability:
@@ -5696,7 +5708,7 @@ Param2: 0;
 
 /223
 Name: Каменный истукан;
-GoldCost: 700
+GoldCost: 650
 GemCost: 100
 Group: 0
 Slot: 61
@@ -5704,7 +5716,7 @@ Upgrade: 201
 Hidden: 0
 Level: 0
 
-Buildings: (201, 222, 104)
+Buildings: (201, 224, 94, 104)
 Resource: (4, 4, 5, 5)
 
 Ability:
@@ -5712,30 +5724,30 @@ Ability: 59
 Param1: 110
 Param2: 0
 
-Ability: 59
-Param1: 195
-Param2: 0;
+Ability: 55
+Param1: 5
+Param2: 1;
 
 /224
 Name: Военный лагерь;
-GoldCost: 1200
-GemCost: 120
+GoldCost: 550
+GemCost: 20
 Group: 0
 Slot: 60
 Upgrade: 222
 Hidden: 0
 Level: 0
 
-Buildings: (202, 222, 223, 149)
-Resource: (1, 1, 1, 1, 7, 7)
+Buildings: (222, 104)
+Resource: (1, 1, 7)
 
 Ability:
 Ability: 59
-Param1: 111
+Param1: 195
 Param2: 0
 
-Ability: 15
-Param1: 85
+Ability: 63
+Param1: 5
 Param2: 0;
 
 /225
@@ -6145,9 +6157,33 @@ Ability: 31
 Param1: 511
 Param2: 1
 
-Ability: 57
-Param1: 25
-Param2: 0;
+Ability: 31
+Param1: 407
+Param2: 1
+
+Ability: 31
+Param1: 408
+Param2: 1
+
+Ability: 31
+Param1: 449
+Param2: 1
+
+Ability: 31
+Param1: 450
+Param2: 1
+
+Ability: 31
+Param1: 452
+Param2: 1
+
+Ability: 31
+Param1: 453
+Param2: 1
+
+Ability: 31
+Param1: 454
+Param2: 1;
 
 /240
 Name: Гильдия трапперов;
@@ -6155,11 +6191,11 @@ GoldCost: 500
 GemCost: 15
 Group: 0
 Slot: 0
-Upgrade: 97
+Upgrade: 0
 Hidden: 0
 Level: 4
 
-Buildings: (97, 56)
+Buildings: (0)
 Resource: (1, 2, 3, 3)
 
 Ability:
@@ -6669,11 +6705,11 @@ GoldCost: 800
 GemCost: 20
 Group: 0
 Slot: 0
-Upgrade: 240
+Upgrade: 97
 Hidden: 0
 Level: 3
 
-Buildings: (240)
+Buildings: (97, 56)
 Resource: (1, 2, 3, 7)
 
 Ability:
@@ -6681,16 +6717,20 @@ Ability: 31
 Param1: 393
 Param2: 1
 
-Ability: 28
-Param1: 5
-Param2: 0
-
 Ability: 14
 Param1: 4
 Param2: 1
 
 Ability: 31
 Param1: 648
+Param2: 1
+
+Ability: 31
+Param1: 455
+Param2: 1
+
+Ability: 31
+Param1: 582
 Param2: 1;
 
 /264
@@ -7257,7 +7297,7 @@ Upgrade: 0
 Hidden: 0
 Level: -1
 
-Buildings: (3)
+Buildings: (3, 40)
 Resource: (4, 2)
 
 Ability:
@@ -7384,3 +7424,24 @@ Param2: 5
 Ability: 11
 Param1: 56
 Param2: 2;
+
+/290
+Name: Зал вождей;
+GoldCost: 1200
+GemCost: 120
+Group: 0
+Slot: 62
+Upgrade: 202
+Hidden: 0
+Level: 0
+Buildings: (202, 223, 224, 149)
+Resource: (1, 1, 1, 1, 7, 7)
+
+Ability:
+Ability: 59
+Param1: 111
+Param2: 0
+
+Ability: 15
+Param1: 85
+Param2: 0;
