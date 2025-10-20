@@ -703,7 +703,6 @@ Mеню (Esc)	Menu (Esc)
 Доспех Единорога	Unicorn Armor
 Доспех Мантикоры	Manticore Armor
 Доспех Паладина	Paladin's Armor
-Доспех фельдмаршала	Marshal's Armor
 Доспехи Василиска	Basilisk Armor
 Достижения	Achievements
 Доход золота	Gold Income
@@ -1615,8 +1614,7 @@ Mеню (Esc)	Menu (Esc)
 Мародер 10	Marauder 10
 Мародер 15	Marauder 15
 Мародер	Marauder
-Маршал	Marshal
-Маршальский жезл	Marshal's Baton
+Маршальский жезл	Marshall's Baton
 Марш-бросок (M)	Forced March (M)
 Марш-бросок	Forced March
 Маска Людоеда	Ogre's Mask
@@ -3904,3 +3902,9 @@ Mеню (Esc)	Menu (Esc)
 Содержание	Upkeep
 не используется	Not Used
 Обладает навыками	Possesses the skills
+Полиморфизм	Polymorphism
+Двойник	Doppelganger
+касание	Touch
+Парализующее	Paralyzing
+Научить	Teach
+парить	float

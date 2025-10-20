@@ -3550,6 +3550,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>%d~.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>%d~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>%s</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -13694,10 +13702,42 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>/869</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>/869</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>/87</seg>
       </tuv>
       <tuv lang="EN-US">
         <seg>/87</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>/870</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>/870</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>/871</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>/871</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>/872</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>/872</seg>
       </tuv>
     </tu>
     <tu>
@@ -14306,6 +14346,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>14.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>140</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>140</seg>
       </tuv>
     </tu>
     <tu>
@@ -18054,6 +18102,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>www.eador.com                  Версия мода "Новые горизонты" 25.0101.f03</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>New Horizons 25.0101.f03.a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>www.snowball.ru/eador</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -18634,6 +18690,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>And the games seem to never end.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>А Ваши следопыты, отправленные к логову кикиморы, сообщили, что по берегам омута рядом с логовом, растут магические кристаллы.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>And the scouts sent to the Lurker's lair report that magic crystals grow along the banks of the pool near the lair.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19934,6 +19998,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>А особая метка, остающаяся после этого ритуала, делает изверга похожим на старших демонов, давая ему силы сопротивляться многим опасным заклинаниям.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>And the special mark left by the ritual makes the Fiend akin to elder Demons, giving him the strength to resist many dangerous spells.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>А остались и такие?</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -21230,6 +21302,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Авантюристы быстро разобрались, что к чему:</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>The adventurers quickly figured out what was going on:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Авантюристы вернулись из утомительного путешествия.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -21313,7 +21393,7 @@
         <seg>Авантюристы обезглавили болотную людоедку, а наместника доставили домой - абсолютно мокрого и абсолютно счастливого.</seg>
       </tuv>
       <tuv lang="EN-US">
-        <seg>The adventurers behead the swamp cannibal and convey the deputy, completely soaked and completely thrilled, back home.</seg>
+        <seg>The adventurers behead the swamp ogre, and return the deputy home, thoroughly wet and thrilled.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22950,6 +23030,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Атака и контратака воина уменьшены.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Unit's Attack and Counterattack are decreased.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Атака и скорость снижаются на 1.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -23010,6 +23098,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>Unit's attacks rarely incur counterattacks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Атаки, контратаки и выстрелы воина способны на 3 хода обездвижить любое живое существо, практически игнорируя сопротивление заклинаниям.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Unit's Attacks, Counterattacks, and Ranged Attack can immobilize any living creature for 3 turns, virtually ignoring Spell Resistance.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25143,6 +25239,14 @@
     <tu>
       <tuv lang="RU-RU">
         <seg>Благородные эльфы тоже вполне себе приручаются.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Благородные эльфы тоже приручаются.</seg>
       </tuv>
       <tuv lang="EN-US">
         <seg></seg>
@@ -30750,6 +30854,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>В провинции %s жители начали жаловаться на жуткие визги, которые раздаются по ночам со стороны болот.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>In the province of %s, the population has been complaining of eerie shrieks coming from the swamps at night.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>В провинции %s жители очень довольны Вашим правлением.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -30946,6 +31058,30 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>A troll has settled in the province of %s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>В провинции %s появилась поляна мандрагоры.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>A Mandrake Glade has appeared in Province %s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>В провинции %s появилась роща красных деревьев.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>A Redwood Grove has appeared in Province %s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>В провинции %s появились мерцающие топи с кристаллами арканита.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Shimmering Bogs with Arcanite crystals have appeared in Province %s.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31314,6 +31450,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>Those who want to appoint Burr-Burp as a new deputy end up winning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>В результате тяжёлой травмы скорость воина снижена на 1.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Due to heavy injury, unit Speed is decreased by 1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32218,6 +32362,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>A waterlogged and muddy maze of dark, dirt and stink.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>В этом режиме воин не может двигаться и сражаться, но его базовая сила выстрела увеличивается в полтора раза, а дальность выстрела - на 1.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>In this mode, unit cannot move or fight, but base Ranged Attack is increased by 50%, and Range by 1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33161,7 +33313,7 @@
         <seg>Ваш наместник из провинции %s сообщает, что к ним в провинцию пришёл бродячий чародей и просит помощи для открытия своей лавки.</seg>
       </tuv>
       <tuv lang="EN-US">
-        <seg>The deputy of the %s province has informed you that a traveling conjurer has come to their province and is asking for help to open his shop.</seg>
+        <seg>The deputy of the %s province reports that a traveling conjurer has come to their province, and is asking for help opening his shop.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37102,6 +37254,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Вероятнее всего, в самом омуте есть месторождение арканита.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Most likely, there is an Arcanite deposit in the pool itself.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Вероятно, они потерпели поражение, а может быть, и просто удрали с Вашими деньгами.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -37174,10 +37334,34 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Верховный жрец получает два дополнительных слота для заклинания II круга и один - для заклинания III круга.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>The High Priest gets additional spell slots: two Circle II, one Circle III.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Верховный жрец получает дополнительный слот для заклинания III круга.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>A High Priest gets extra slots for a Circle III spell.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Верховный жрец получает по одному дополнительному слоту для заклинания II и III круга.</seg>
       </tuv>
       <tuv lang="EN-US">
         <seg>A High Priest gets extra slots for a Circle II and III spell.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Верховный жрец умеет лучше перемещать маломобильные войска по своим землям (игнорирует разницу в скорости в 2 единицы).</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>The High Priest makes slow troops move faster in friendly territory (ignores 2-point Speed difference).</seg>
       </tuv>
     </tu>
     <tu>
@@ -38758,6 +38942,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Вложить золото по минимуму (-200 $ )</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Invest the minimum (-200 $ )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Вложить золото по минимуму.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -38770,6 +38962,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>Invest much gold!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Вложить разумные средства (-450 $ )</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Invest a reasonable amount (-450 $ )</seg>
       </tuv>
     </tu>
     <tu>
@@ -39570,6 +39770,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>Warlord</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Воевода умеет лучше перемещать маломобильные войска по своим землям  (игнорирует разницу в скорости до 1).</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>The Warlord makes slow troops move faster in friendly territory (ignores 1-point Speed difference).</seg>
       </tuv>
     </tu>
     <tu>
@@ -41422,6 +41630,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Воин может вызывать заклинание "Двойник", превращающее его в одно из существ на поле боя.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Unit can cast the Doppelganger spell, to transform into one of the creatures on the battlefield.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Воин может вызывать заклинание "Двойной выстрел", дающее дружественному воину способность двойного выстрела за дополнительный расход выносливости.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -41894,6 +42110,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Воин может вызывать заклинание "Общая ярость", наделяющее всех дружественных воинов бесстрашием, Устрашением 2, Жаждой крови 3 и Приливом сил 1.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>The unit can cast the "Mass Rage" spell, which endows every ally with Fearless, Intimidation 2, Bloodlust 3, Surge of Strength 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Воин может вызывать заклинание "Общее благословение", увеличивающее все параметры всех дружественных воинов, кроме нежити и демонов.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -42178,6 +42402,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>This unit can cast the Devour spell, taking hit points from a friendly unit and giving it to the caster.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Воин может вызывать заклинание "Полиморфизм", позволяющее дружественному воину превращаться в кого-то другого.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Unit can cast the Polymorphism spell, allowing an ally to transform into something else.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42894,6 +43126,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Воин может вызывать заклинание "Установить капкан", создающее капкан в пределах трёх тайлов от воина.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>This unit can cast the Set Trap spell, which sets a trap within 3 tiles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Воин может вызывать заклинание "Установить капкан", создающее капкан на соседнем с воином тайле.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -42906,6 +43146,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>This unit can cast the Set Snare spell, which places a snare in an adjacent tile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Воин может вызывать заклинание "Установить улей", создающее улей шершней в пределах четырёх тайлов от воина.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>This unit can cast the Set Hive spell, which places a hornet's nest within 4 tiles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43098,6 +43346,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>This unit can heal a target, restoring 5 HP and curing poison.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Воин может выстрелить в противника без потери хода.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Unit can shoot at the enemy without losing a turn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43614,6 +43870,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Воин не способен летать или парить.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Unit is unable to fly or float.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Воин не тратит выносливость ни на какие действия.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -43990,6 +44254,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Воин превращён в одно из существ на поле боя.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Unit is transformed into one of the creatures on the battlefield.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Воин превращён в осла.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -44218,6 +44490,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>The unit can only move on the ground.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Воин способен превратиться в любое существо на поле боя.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Unit is able to transform into any creature on the battlefield.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44870,6 +45150,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Воины отряда воеводы способны излечивать свои раны в бою и терпеть присутствие даже противоположных по духу бойцов.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Units in a Warlord's party can heal while in battle, and tolerate other units of opposite alignment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Воины отряда егеря обладают знанием всех местностей +1.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -45434,6 +45722,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>A Wizard who has mastered the art of fighting becomes a Battlemage, gaining higher resistance to hostile magic and the ability to better overcome enemy resistance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Волшебник, постигший воинское искусство, становится Чародеем, получающим сопротивление вражеской магии и лучше преодолевающим сопротивление врага.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>A Wizard who has mastered the art of fighting becomes a Battlemage, gaining Resistance to enemy magic, and can better overcome enemy Resistance.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47538,6 +47834,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>A reasonable objection.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Вполне терпимо.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>That is acceptable.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53878,6 +54182,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Выстрелить второй раз он не сможет.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>It may not shoot a second time.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Выступление перед жителями провинции с пламенной речью о коварстве крыс принесло свои плоды.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -54538,6 +54850,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>General</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Генерал умеет лучше перемещать маломобильные войска по своим землям (игнорирует разницу в скорости в 1 единицу).</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>The General makes slow troops move faster in friendly territory (ignores 1-point Speed difference).</seg>
       </tuv>
     </tu>
     <tu>
@@ -58574,6 +58894,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Головорез умеет чинить лук и стрелы, восстанавливая %d и %d прочности соответственно.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>The Cutthroat can repair his bow and arrows, restoring %d and %d Durability respectively.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Головорез умеет чинить лук и стрелы, восстанавливая %d прочности.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -62566,6 +62894,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Даёт всем дружественным воинам бесстрашие, Устрашение 2, Жажду крови 3 и Прилив сил 1.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Grants all allies Fearless, Intimidation 2, Bloodlust 3, and Surge of Strength 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Даёт договор со Стражами Древних.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -62722,6 +63058,22 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>Movement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Двойник</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Doppelganger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Двойник - service</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Doppelganger - service</seg>
       </tuv>
     </tu>
     <tu>
@@ -64398,6 +64750,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Дистанционная атака всех стрелков противника снижается на 3.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Ranged Attack of all non-melee enemies is reduced by 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Дистанционная атака увеличится на 10, дальность выстрела - на 5, воин получит Магический выстрел.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -64590,6 +64950,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Длительность заклинания</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Spell Duration</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Длительность заклинания - 3 хода, но каждый ход она возрастает до 3.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -64746,6 +65114,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>Effect duration:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Длительность:</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Duration:</seg>
       </tuv>
     </tu>
     <tu>
@@ -65505,7 +65881,7 @@
         <seg>Для этого им обычно выдают небольшой локтевой щит-баклер, не мешающий стрельбе, но значительно повышающий шансы остаться в живых, и лёгкую кожаную броню со шлемом.</seg>
       </tuv>
       <tuv lang="EN-US">
-        <seg>Besides their light leather armor and helmet, this significantly increases their chances of staying alive.</seg>
+        <seg>Thus, they are usually given a small elbow buckler (which doesn't hinder shooting while significantly increasing survival odds) as well as light leather armor and a helmet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68041,7 +68417,15 @@
         <seg>Доход золота с провинции вырос на %d.</seg>
       </tuv>
       <tuv lang="EN-US">
-        <seg>The gold income from the province is increased by %d.</seg>
+        <seg>Gold income from this province increases by %d.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Доход золота с провинции снизился на %d.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Gold income from this province decreases by %d.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68114,6 +68498,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>Income from provinces inhabited by Lizardmen +1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Доход кристаллов c провинций, населённых орками +1.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Income from provinces inhabited by Orcs +1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69194,6 +69586,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Друиды выполнили все необходимые приготовления - через некоторое время саженцы вырастут до полноценных деревьев.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>The druids have done their work - after some time, the seedlings will grow into full-fledged trees.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75782,6 +76182,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Жрец получает дополнительный слот для заклинания II круга.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>A Priest gets an extra slot for a Circle II spell.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Жрец получает один дополнительный слот для заклинания II круга.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -75818,6 +76226,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>The priest lays a triple eternal curse on you.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Жрец умеет лучше перемещать маломобильные войска по своим землям (игнорирует разницу в скорости в 1 единицу).</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>The Priest makes slow troops move faster in friendly territory (ignores 1-point Speed difference).</seg>
       </tuv>
     </tu>
     <tu>
@@ -76878,6 +77294,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Завораживающая мощь становится вполне ощутимой, когда это создание начинает плести высшие заклинания, создающие сильные и часто неповторимые эффекты.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Their mesmerizing might becomes quite palpable when they start weaving higher magic, creating powerful and often unique effects.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Завоёвывая новые осколки, Вы расширяете свой кругозор, но чем больше Вы познаёте мир, тем больше вопросов он вызывает.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -76914,6 +77338,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>Mysterious astral creatures live here.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Загнать в болота местных - пусть разбираются.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Send the locals to the swamps, and let them sort it out.</seg>
       </tuv>
     </tu>
     <tu>
@@ -77902,6 +78334,22 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Заклятье "Двойник"</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Doppelganger Spell</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Заклятье "Двойник" - service</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Doppelganger Spell - service</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Заклятье "Двойной выстрел"</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -78818,6 +79266,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>Devour Spell</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Заклятье "Полиморфизм"</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Polymorphism Spell</seg>
       </tuv>
     </tu>
     <tu>
@@ -79954,6 +80410,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>Purchase more grapes for winemaking (-100 $ )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Зал вождей</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Hall of Chieftains</seg>
       </tuv>
     </tu>
     <tu>
@@ -81142,6 +81606,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Заставить разбираться в этом следопытов (-50 $ )</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Send scouts to sort this out (-50 $ )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Заставить тела усопших охранять жизни живых - разве не гениальная идея?</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -81554,6 +82026,22 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>Enchanted Arrows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Зачарованные стрелы +4, Диверсии +1, Исследование провинций +10.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Enchanted Arrows +4, Sabotage +1, Province Exploration +10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Зачарованные стрелы +8, Диверсии +2, исследование провинций +20.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Enchanted Arrows +8, Sabotage +2, Province Exploration +20.</seg>
       </tuv>
     </tu>
     <tu>
@@ -83426,6 +83914,22 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>Swamp Knowledge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Знание всех территорий +1</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Terrain Knowledge +1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Знание всех территорий +1, Мобильность +1</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Terrain Knowledge +1, Mobility +1</seg>
       </tuv>
     </tu>
     <tu>
@@ -86145,7 +86649,7 @@
         <seg>И хотя на такую стрельбу уходит довольно много сил, они прекрасно понимают, что их жизнь зависит прежде всего от того, дойдёт ли противник до их рядов.</seg>
       </tuv>
       <tuv lang="EN-US">
-        <seg>as long as they're not forced into melee.</seg>
+        <seg>Even though this ability is exhausting, they are very aware that their survival depends primarily on preventing the enemy from reaching their ranks.</seg>
       </tuv>
     </tu>
     <tu>
@@ -87922,6 +88426,22 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>Cures poisoning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Излечивает свои войска после боя, дополнительно восстанавливая им 20~ здоровья.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Heals his troops after battle, restoring their health by an additional 20~ points.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Излечивает свои войска после боя, дополнительно восстанавливая им 35~ здоровья.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Heals his troops after battle, restoring their health by an additional 35~ points.</seg>
       </tuv>
     </tu>
     <tu>
@@ -89838,6 +90358,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Иногда кажется, что и сами волшебники толком не знают, что же именно они приносят оттуда.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Sometimes it seems even the wizards themselves don't really understand exactly what they've brought back.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Иногда кажется, что и сами волшебники толком не знают, что же именно они приносят.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -90694,6 +91222,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Исследование +10, Разведка и диверсии дешевле на 50~, Эффект диверсий +1</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Exploration +10, Scouting and Sabotage 50~ cheaper, Sabotage Effects +1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Исследование +5, Можно отравить запасы воды</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -90705,7 +91241,7 @@
         <seg>Исследование +5, Можно отравить запасы воды (-2 ед.</seg>
       </tuv>
       <tuv lang="EN-US">
-        <seg>Exploration +5, Poison the water (-2</seg>
+        <seg>Exploration +5, Poison the water supply (-2</seg>
       </tuv>
     </tu>
     <tu>
@@ -91478,6 +92014,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Их можно собрать сейчас, получив магические кристаллы, но можно и выращивать, получив отличный источник этого растения.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>They can be harvested now, yielding magic crystals, but they can also be grown, providing an excellent source of this plant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Их не зря зовут Светочами, Указующими Путь:</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -91794,6 +92338,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>The deputy of the %s province addresses your hero:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>К Вашему наместнику в провинции %s пришли друиды.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Druids have come to the deputy of Province %s.</seg>
       </tuv>
     </tu>
     <tu>
@@ -99550,6 +100102,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Командир умеет лучше перемещать маломобильные войска по своим землям (игнорирует разницу в скорости в 1 единицу).</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>The Commander makes slow troops move faster in friendly territory (ignores 1-point Speed difference).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Командир умеет лучше перемещать маломобильные войска по своим землям.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -99586,6 +100146,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>A Commander who has mastered the art of fighting becomes a Warlord, able to efficiently increase the defense of his units.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Командир, изучивший тайны магии, становится Жрецом, способным повышать боевой дух и сопротивление своих воинов, а также лечить их после боя.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>A Commander who has mastered the secrets of magic becomes a Priest, able to increase the Morale and Resistance of his units, and heal them after battle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -100410,6 +100978,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>Roots</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Корни можно собрать сейчас, получив магические кристаллы, но можно и выращивать, получив отличный источник этого растения.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>The roots can be harvested now, yielding magic crystals, but they can also be grown, providing an excellent source of this plant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -106358,6 +106934,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Лорды Хаоса не устраивают бунтов в отряде и сильно снижают желание бунтовать у других.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Chaos Lords prevent rebellions within a Party, and greatly reduce the likelihood of rebellion in others.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Лотерейный билет</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -106970,6 +107554,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>Any creature attacking this unit in melee damages its weapon - attack and counterattack are reduced by 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Любое существо, попавшее в капкан, будет немедленно поранено на 10 единиц жизни и травмировано на 3 хода (капкан не может убить попавшее в него существо).</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Creatures falling in a trap lose 10 HP, and remain injured for 3 turns (trap cannot the creature caught in it).</seg>
       </tuv>
     </tu>
     <tu>
@@ -109446,6 +110038,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Маршал умеет лучше перемещать маломобильные войска по своим землям (игнорирует разницу в скорости в 2 единицы).</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>The Marshall makes slow troops move faster in friendly territory (ignores 2-point Speed difference).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Маршал умеет лучше перемещать маломобильные войска по своим землям.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -111058,6 +111658,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>Local Lord</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Местным жителям пришлось изрядно поплутать в болотах, многие крестьяне заблудись, некоторые утонули.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>The locals wandered around the swamps; many peasants got lost, some drowned.</seg>
       </tuv>
     </tu>
     <tu>
@@ -117902,6 +118510,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Наделяет дружественного воина способностью превращаться в любого другого воина на поле боя.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Grants an ally the ability to transform into any other unit on the battlefield.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Наделяет заклинателя способностью Снабженец 2.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -119326,6 +119942,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Наносит 4 единицы урона всем воинам в радиусе 2 тайлов, лишает их способности к полёту и парению, а также калечит их, снижая скорость.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Deals 4 HP damage to all units within a 2-tile radius, disables their ability to fly or hover, and cripples them, reducing their speed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Наносит 4 единицы урона.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -120026,6 +120650,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>Hire adventurers (-200 $ )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Нанять авантюристов разобраться с происходящим (-150 $ )</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Hire adventurers to investigate (-150 $ )</seg>
       </tuv>
     </tu>
     <tu>
@@ -121230,6 +121862,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Научить воина атаковать всех врагов, находящихся на соседних с ним тайлах, без дополнительных трат выносливости.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Teach unit to attack all adjacent enemies without expending additional stamina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Научить воина атаковать противника с расстояния.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -121710,6 +122350,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Научить воина вызывать заклинание "Двойник", превращающее его в одно из существ на поле боя.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Teach unit to cast the Doppelganger spell, to transform into one of the creatures on the battlefield.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Научить воина вызывать заклинание "Двойной выстрел", дающее дружественному воину способность двойного выстрела за дополнительную плату выносливости.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -122150,6 +122798,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Научить воина вызывать заклинание "Общая ярость", наделяющее всех дружественных воинов бесстрашием, Устрашением 2, Жаждой крови 3 и Приливом сил 1.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Teach unit to cast the "Mass Rage" spell, which endows every ally with Fearless, Intimidation 2, Bloodlust 3, Surge of Strength 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Научить воина вызывать заклинание "Общее благословение", увеличивающее все параметры всех дружественных воинов, кроме нежити и демонов.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -122370,6 +123026,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>The unit is taught to cast "Devour" spell, consuming health from friendly units and healing the caster.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Научить воина вызывать заклинание "Полиморфизм", позволяющее дружественному воину превращаться в кого-то другого.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Teach unit to cast the Polymorphism spell, allowing an ally to transform into something else.</seg>
       </tuv>
     </tu>
     <tu>
@@ -123102,6 +123766,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Научить воина вызывать заклинание "Установить капкан", создающее капкан в пределах трёх тайлов от воина.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Teach unit to cast the Set Trap spell, which sets a trap within 3 tiles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Научить воина вызывать заклинание "Установить капкан", создающее капкан на соседнем с воином тайле.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -123114,6 +123786,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>This unit learns the Set Snare spell, which places a snare in an adjacent tile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Научить воина вызывать заклинание "Установить улей", создающее улей шершней в пределах четырёх тайлов от воина.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Teach unit to cast the Set Hive spell, which places a hornet's nest within 4 tiles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -124030,6 +124710,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Научить воина стрелять в противника без потери хода.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Tech unit to shoot at the enemy without losing a turn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Научить воина творить заклинания, расходуя на 1 выносливости меньше, чем обычно.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -124934,6 +125622,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Не действует на артиллерию, бестелесных противников, животных и существ с природным оружием.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Has no effect on Artillery, incorporeal enemies, Animals, and creatures with natural weapons.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Не действует на бестелесных противников и артиллерию.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -125090,6 +125786,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>Has no effect on Animals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Не действует на иммунных к магии и иммунных к внушениям существ.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Has no effect on creatures immune to Magic or Mind Control.</seg>
       </tuv>
     </tu>
     <tu>
@@ -125274,6 +125978,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>Has no effect on the Undead, Mechanical units, Heroes, Animals, Elementals, and Chaos Lords.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Не действует на нежить, механизмы, героев, животных, стихийных духов и големов.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Has no effect on the Undead, Mechanical units, Heroes, Animals, Elementals, and Golems.</seg>
       </tuv>
     </tu>
     <tu>
@@ -126206,6 +126918,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Не может быть наложено на иммунных к магии существ, а также на уже превращённых существ.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Cannot be cast on creatures immune to magic, or already transformed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Не может быть наложено на нежить и демонов.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -126434,6 +127154,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>Frankly, I didn't expect something that stupid from you.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Не оказывает влияния на бестелесных существ, а также на великанов.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Has no effect on incorporeal creatures or Giants.</seg>
       </tuv>
     </tu>
     <tu>
@@ -128598,6 +129326,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Нельзя превратиться в героя, ловушку или преграду, а также в иммунное к магии или превращённое существо.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Cannot transform into a Hero, Trap or Obstacle, or into a magic-immune or transformed creature.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Нельзя стоптать большое или летающее существо.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -128991,6 +129727,14 @@
     <tu>
       <tuv lang="RU-RU">
         <seg>Неплохо было бы завладеть этими богатствами, но защитники цитадели не будут этому рады, а ведь паладины - одни из сильнейших воинов Эадора.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>It would be nice to get hold of these riches, but the defenders of the citadel probably won't be inclined to humor us. In fact, Paladins are one of the strongest warriors in Eador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Неплохо было бы завладеть этими богатствами, но защитники цитадели не будут этому рады, а паладины - одни из сильнейших воинов Эадора.</seg>
       </tuv>
       <tuv lang="EN-US">
         <seg>It would be nice to get hold of these riches, but the defenders of the citadel probably won't be inclined to humor us. In fact, Paladins are one of the strongest warriors in Eador.</seg>
@@ -129510,6 +130254,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Несмотря на всё это, выяснить причину шума удалось:</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>In the end, they managed to find the origin of the noise:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Несмотря на запрет контрабанды, многие гоблины продолжили заниматься своим любимым делом.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -129914,6 +130666,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>Nevermind. &lt;leave&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Нет уж, золото нужно мне самому.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>No way, I need the gold for myself.</seg>
       </tuv>
     </tu>
     <tu>
@@ -139398,6 +140158,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Облегчённая броня</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Lightweight Armor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Обложить хуторян данью.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -142718,6 +143486,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Он не способен менять форму дополнительно.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>It is not able to shape-shift again.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Он не способен сражаться в ближнем бою, а его стрелковая атака обнулена.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -144286,6 +145062,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Они предложили засеять местную чащу саженцами красных деревьев взамен на небольшую, но постоянную плату.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>They offer to seed the local thicket with Redwood saplings in exchange for a small but recurring payment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Они предпочитают лёгкое оружие, которое очень просто спрятать и переносить, и прекрасно осведомлены о способах загона "дичи".</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -145062,6 +145846,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Опытные бойцы, ветераны-пращники умеют стрелять прямо на бегу.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>As skilled fighters, veteran slingers, are able to shoot while running.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Опытные и бывалые воины, стражи границ неусыпно охраняют подходы к посёлкам и деревушкам, скрываясь в непроходимых на первый взгляд дебрях.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -145138,6 +145930,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>These young men are provided small bucklers to help them survive the battlefield without hindering their ability to hurl their projectiles at the enemy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Опытных ветеранов ценят все командиры, стараясь не потерять такого стрелка в бою .</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Commanders value skilled veterans, and try to spare these marksmen in battle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -145330,6 +146130,30 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>Organize an operation to rescue the workers. (-50 $ )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Организовать ферму (-10 &amp; )</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Set up a farm (-10 &amp; )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Организовать ферму (-20 &amp; )</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Set up a farm (-20 &amp; )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Организовать ферму (-35 &amp; )</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Set up a farm (-35 &amp; )</seg>
       </tuv>
     </tu>
     <tu>
@@ -150270,6 +151094,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Отряд следопытов выяснил причину шума:</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>The scouting team discovered the origin of the noise:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Отряд стремительной конницы может остановить довольно сильного неприятеля.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -151506,6 +152338,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>A couple of gargoyles wouldn't be a bad thing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Парализующее касание</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Paralyzing Touch</seg>
       </tuv>
     </tu>
     <tu>
@@ -154614,6 +155454,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>По рукам, пусть приступают.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Deal, let them get started.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>По рукам, я добуду крылья.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -156378,6 +157226,22 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>Quick, agile, very resistant, they can annihilate a small army in a matter of minutes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Подвижный стрелок</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Mobile Shooter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Подвижный стрелок +1</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Mobile Shooter +1</seg>
       </tuv>
     </tu>
     <tu>
@@ -158350,6 +159214,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Позволяет найм Заклинателей духов.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Allows recruiting Spirit Conjurers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Позволяет найм Колоссов.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -158402,6 +159274,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>Allows recruiting Hissers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Позволяет найм бугаёв.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Allows recruiting Brutes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -159026,6 +159906,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>Allows the recruitment of Medusas and Wyverns, if their eggs are present in the treasury.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Позволяет нанимать медуз, виверн и мантикор при наличии их яиц в сокровищнице.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Allows recruiting Medusas, Wyverns, Manticores if their eggs are present in the treasury.</seg>
       </tuv>
     </tu>
     <tu>
@@ -159666,6 +160554,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>Allows the recruitment of Warlocks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Позволяет нанимать чудовищ, волшебных драконов, псионов, элементалисток, серафимов, драколичей и ахеронов при наличии соответствующего предмета в сокровищнице.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Allows you to hire Behemoths, Faerie Dragons, Psions, Elementals, Seraphims, Dracolich, Acherons if the appropriate item is in the treasury.</seg>
       </tuv>
     </tu>
     <tu>
@@ -161166,10 +162062,26 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Полиморфизм</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Polymorphism</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Полководец</seg>
       </tuv>
       <tuv lang="EN-US">
         <seg>Battlemaster</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Полководец умеет лучше перемещать маломобильные войска по своим землям (игнорирует разницу в скорости в 2 единицы).</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>The Battlemaster makes slow troops move faster in friendly territory (ignores 2-point Speed difference).</seg>
       </tuv>
     </tu>
     <tu>
@@ -163350,6 +164262,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>После выстрела воин сохранит свою оставшуюся скорость и сможет действовать дальше, двигаясь или атакуя.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>After shooting, unit retains remaining Speed, and can continue moving or attacking.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>После гибели Хранителя Чаши Жизни я стал единственным покровителем своего народа.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -163498,6 +164418,22 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>After one spraying, the spider raids are done with.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>После использования способности "Стрельба на ходу" скорость и выносливость воина увеличится на %d.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>After using the "Shooting on the Move" ability, unit's Speed and Stamina increase by %d.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>После использования способности "Стрельба на ходу" скорость и выносливость воина увеличится на 1.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>After using the "Shooting on the Move" ability, unit's Speed and Stamina increase by 1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -167206,6 +168142,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Превращает заклинателя в одно из существ на поле боя (своё или вражеское).</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Transforms the caster into one of the creatures on the battlefield (ally or foe).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Превращает своего или вражеского воина (с сопротивлением 11 и менее) в жреца.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -168266,6 +169210,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>When using Healing this unit can reduce the duration of poisoning and bleeding in friendly target by %d turns.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>При использовании врукопашную способность расходует заряды воина - если заряды отсутствуют, способность не сработает.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>When used in melee, the ability consumes the unit's charges - if depleted, ability does not trigger.</seg>
       </tuv>
     </tu>
     <tu>
@@ -169990,6 +170942,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Прикосновение, выстрел или заклинание воина способны на 3 хода обездвижить любое живое существо, практически игнорируя сопротивление заклинаниям.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Unit's touch, shots, and spells can immobilize any living creature for 3 turns, virtually ignoring Spell Resistance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Прилив сил</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -171518,6 +172478,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Продажа выбранных предметов принесёт Вам %d астральной энергии, но они больше не будут Вам доступны как бонус для атаки Осколков.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Selling the selected items will earn you %d Astral Energy, but they will no longer be available to you as a bonus for attacking Shards.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Продажа зачарованных предметов</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -171746,6 +172714,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>Sell it to the monstrologists (+200 $ )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Продать предмет</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Sell ​​item</seg>
       </tuv>
     </tu>
     <tu>
@@ -174094,6 +175070,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Пусть отдаст за это свиток с заклятьем (-100 $ )</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Only if he gives me a scroll for my help (-100 $ )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Пусть отдаст половину золота.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -175014,6 +175998,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Работники приступили к её добыче.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Workers have begun logging.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Работники провинции %s наконец разработали месторождение мифрила.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -175750,6 +176742,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Разведка увеличивает скорость исследования провинций, позволяет проводить разведку вражеских сил и устраивать диверсии.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Scouting increases the speed of province exploration, and allows the hero to spy on the enemy's forces and perform acts of sabotage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Разведчик</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -176186,6 +177186,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>Destroyed Settlement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Разработать месторождение (-100 $  -20 &amp; )</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Mine the deposit (-100 $  -20 &amp; )</seg>
       </tuv>
     </tu>
     <tu>
@@ -180737,7 +181745,7 @@
         <seg>Своей свирепостью он внушает врагам настоящий ужас.</seg>
       </tuv>
       <tuv lang="EN-US">
-        <seg>A fiend lord is able to cleave through the toughest of plates, and his ferocity inspires enthusiastic bloodletting from his pack.</seg>
+        <seg>His ferocity instills genuine terror in his enemies.</seg>
       </tuv>
     </tu>
     <tu>
@@ -182174,6 +183182,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Сила заклинания</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Spell Power</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Сила заклинания зависит от цены билета.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -182194,6 +183210,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>Effect increases with the caster's Spellpower.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Сила заклинания:</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Spell Power:</seg>
       </tuv>
     </tu>
     <tu>
@@ -183254,6 +184278,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Сколько-сколько?</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Wait... How much?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Сколько?!</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -183658,6 +184690,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>Unrest increases at a rate determined by the race inhabiting the province, the population mood, and level of the province.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Скорость не может стать выше нормальной для этого воина.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Speed ​​cannot rise above unit's nominal Speed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -184902,6 +185942,22 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Сменить "Защиту Леса" на "Могущество Леса", увеличивающее всем союзникам вокруг него все виды атаки и все виды брони на 2.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Improve Forest Protection to Forest Might, increasing for adjacent allies all types of Attack and Armor by 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Сменить "Могущество Леса" на "Благословение Леса", увеличивающее всем союзникам вокруг него все виды атаки и брони на 2, а также позволяющее при отдыхе восстанавливать выносливость и здоровье.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Improve Forest Might to Forest Blessing, increasing for adjacent allies all types of Attack and Armor by 2, and enabling them to recover Stamina and Health when resting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Сменить обличье (L)</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -185618,6 +186674,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>Reduces the risk of an epidemic in the capital.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Снижает дальность стрельбы на 2.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Reduces shooting Range by 2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -186438,6 +187502,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Собранные кристаллы доставлены в Вашу сокровищницу.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>The collected crystals have been delivered to your treasury.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Собрать аппарат.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -186462,6 +187534,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Собрать корни - кристаллы мне нужны сейчас!</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Harvest the roots - I need crystals now!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Собрать нужную сумму с жителей провинции.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -186482,6 +187562,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>Gather Ammo (P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Собрать только кристаллы.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Just collect the crystals.</seg>
       </tuv>
     </tu>
     <tu>
@@ -187390,6 +188478,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Создаёт капкан на поле боя в пределах трёх тайлов от мага.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Creates a trap on the battlefield within three tiles of the caster.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Создаёт капкан на соседнем с магом тайле.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -187498,6 +188594,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>Summons three Huorns in an adjacent tile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Создаёт улей шершней на поле боя в пределах четырёх тайлов от мага.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Creates a hornet hive on the battlefield within four tiles of the caster.</seg>
       </tuv>
     </tu>
     <tu>
@@ -187790,6 +188894,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Сопротивление (защита)</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Resistance (Defense)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Сопротивление +1, Боевой дух +1</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -187958,6 +189070,22 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Сопротивление заклинанию</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Spell Resistance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Сопротивление заклинаниям и иммунитет к магии не действуют.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Spell resistance and Magic Immunity do not apply.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Сопротивление заклинаниям не действует.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -187978,6 +189106,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>The target's resistance only partially protects it from the spell.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Сопротивление защищает лишь частично.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Resistance protects only partially.</seg>
       </tuv>
     </tu>
     <tu>
@@ -188010,6 +189146,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>Magic Resistance only partially protects from this spell.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Сопротивление магии и иммунитет к заклинаниям не действуют.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Magic Resistance and Spell Immunity do not apply.</seg>
       </tuv>
     </tu>
     <tu>
@@ -188154,6 +189298,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>Resistance!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Сопротивление:</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Resistance:</seg>
       </tuv>
     </tu>
     <tu>
@@ -189513,7 +190665,7 @@
         <seg>Став посредством дьявольского ритуала сильнее и сменив трезубец на большой, острый топор, изверг способен раскалывать самую прочную броню.</seg>
       </tuv>
       <tuv lang="EN-US">
-        <seg>Empowered by a higher demonic ritual, the fiend lord's trident is replaced by a massive, sharpened axe, befitting the demon's empowered strength.</seg>
+        <seg>Empowered by a higher demonic ritual, the Fiend Lord's trident is replaced by a massive, sharpened axe, which can cleave through the toughest armor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -191022,6 +192174,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Стратег умеет лучше перемещать маломобильные войска по своим землям (игнорирует разницу в скорости в 2 единицы).</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>The Strategist makes slow troops move faster in friendly territory (ignores 2-point Speed difference).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Стратег умеет лучше перемещать маломобильные войска по своим землям.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -191258,6 +192418,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>Shooting in thick fog is impossible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Стрельба на ходу</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Shooting on the move</seg>
       </tuv>
     </tu>
     <tu>
@@ -194250,6 +195418,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>Tactician</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Тактик умеет лучше перемещать маломобильные войска по своим землям (игнорирует разницу в скорости в 1 единицу).</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>The Tactician makes slow troops move faster in friendly territory (ignores 1-point Speed difference).</seg>
       </tuv>
     </tu>
     <tu>
@@ -203934,6 +205110,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Увеличивает доход золота с орочьих провинций.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Increases gold income from Orcish provinces.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Увеличивает доход золота с провинции на 15~.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -204774,6 +205958,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Увеличивает уровень навыка разведки на %d.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Increases Scouting skill level by %d.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Увеличивает цели Силу заклинаний, Длительность заклинаний и Преодоление сопротивления на 2, и Силу призыва на 4.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -204786,6 +205978,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>Increases the probability of trade caravans returning successfully.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Увеличивает ёмкость замкового хранилища.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Increases Castle storage capacity.</seg>
       </tuv>
     </tu>
     <tu>
@@ -208966,6 +210166,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>Усовершенствовать броню воина, сделав её легче без снижения прочности.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Improve unit's armor, by making it lighter without reducing Durability.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>Усовершенствовать оружие воина, что позволит ему игнорировать половину защиты противника.</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -209874,6 +211082,14 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>Farmers Market</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>Физическая защита:</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Physical Defense:</seg>
       </tuv>
     </tu>
     <tu>
@@ -229614,6 +230830,14 @@
     </tu>
     <tu>
       <tuv lang="RU-RU">
+        <seg>здоровья Х 3 хода, заражает врагов болезнью)</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Health for 3 turns, infects enemies with disease)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
         <seg>знаешь ли ты главный закон Астрала?</seg>
       </tuv>
       <tuv lang="EN-US">
@@ -230010,6 +231234,22 @@
       </tuv>
       <tuv lang="EN-US">
         <seg>one of the elven traits that makes human kings and princes envious - elves tend to trust in the wisdom and justice of their leaders.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>оказывается, на дальних топях созрели корни мандрагоры, и именно они стали причиной ночного шума.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Apparently, mandrake roots had ripened in the distant swamps, and were causing the nightly noise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU-RU">
+        <seg>оказывается, на дальних топях созрели корни мандрагоры.</seg>
+      </tuv>
+      <tuv lang="EN-US">
+        <seg>Apparently, mandrake roots had ripened in the distant swamps.</seg>
       </tuv>
     </tu>
     <tu>
