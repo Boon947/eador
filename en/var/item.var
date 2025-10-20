@@ -8561,7 +8561,7 @@ Resourse: (5)
 Effects:
 
 RangedAttack: 8
-Power: 1
+Power: 2
 Area: 0;
 
 
@@ -11399,9 +11399,13 @@ SpellPower: 905
 Power: 1
 Area: 0
 
+ExpGain: 990
+Power: 25
+Area: 0
+
 ExpGain: 991
 Power: 25
-Area: 1;
+Area: 0;
 
 /462
 Name: Oinor's Gloves;
@@ -11847,8 +11851,8 @@ Speed: 7
 Power: 1
 Area: 0
 
-Explore: 996
-Power: 10
+Explore: 970
+Power: 1
 Area: 0;
 
 /476

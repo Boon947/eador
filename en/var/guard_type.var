@@ -461,7 +461,7 @@ Guard3: 164
 
 /51
 Name: Ancient Guards;
-Power: 7
+Power: 9
 Karma: 0
 Guard0: 165
 Guard1: 166
@@ -614,7 +614,7 @@ Guard3: 205
 
 /68
 Name: Faerie Dragons;
-Power: 15
+Power: 17
 Karma: 0
 Guard0: 206
 Guard1: 206
@@ -623,7 +623,7 @@ Guard3: 206
 
 /69
 Name: Lord of Phantoms;
-Power: 16
+Power: 15
 Karma: 0
 Guard0: 207
 Guard1: 207
@@ -632,7 +632,7 @@ Guard3: 207
 
 /70
 Name: Lich;
-Power: 8
+Power: 11
 Karma: -3
 Guard0: 208
 Guard1: 209
@@ -1136,7 +1136,7 @@ Guard3: 386
 
 /126
 Name: Cult of Necrus;
-Power: 14
+Power: 16
 Karma: -3
 Guard0: 387
 Guard1: 387
@@ -1217,7 +1217,7 @@ Guard3: 413
 
 /135
 Name: Guards of Ages;
-Power: 12
+Power: 16
 Karma: 2
 Guard0: 414
 Guard1: 414
@@ -1226,7 +1226,7 @@ Guard3: 414
 
 /136
 Name: Rock Guards;
-Power: 16
+Power: 18
 Karma: -2
 Guard0: 415
 Guard1: 415
@@ -1235,7 +1235,7 @@ Guard3: 415
 
 /137
 Name: Guards of Secrets;
-Power: 12
+Power: 16
 Karma: 0
 Guard0: 416
 Guard1: 416

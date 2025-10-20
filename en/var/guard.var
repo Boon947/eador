@@ -924,7 +924,7 @@ Item3: 63, 1;
 /61 Кочевники 0
 Quantity: 2/2
 Initiative: 2/2
-Unit1: 26, 3, 1, 1
+Unit1: 26, 3, 1, 2
 Unit2: 25, 3, 1, 1;
 LootPoss: 10
 MaxLoot: 1
@@ -936,7 +936,7 @@ Item3: 63, 1;
 /62 Кочевники 1
 Quantity: 4/3
 Initiative: 2/3
-Unit1: 26, 6, 2, 1
+Unit1: 26, 6, 2, 2
 Unit2: 25, 6, 2, 1;
 LootPoss: 12
 MaxLoot: 1
@@ -948,8 +948,8 @@ Item3: 63, 1;
 /63 Кочевники 2
 Quantity: 6/4
 Initiative: 3/3
-Unit1: 26, 10, 2, 2
-Unit2: 25, 10, 3, 2
+Unit1: 26, 10, 3, 2
+Unit2: 25, 10, 2, 2
 Unit3: 138, 2, 1, 1;
 LootPoss: 14
 MaxLoot: 1
@@ -961,7 +961,7 @@ Item3: 63, 1;
 /64 Кочевники 3
 Quantity: 8/5
 Initiative: 4/3
-Unit1: 26, 15, 3, 2
+Unit1: 26, 15, 3, 4
 Unit2: 25, 15, 3, 2
 Unit3: 138, 7, 2, 1;
 LootPoss: 16
@@ -2430,7 +2430,7 @@ Initiative: 3/2
 Unit1: 70, 10, 1, 1;
 LootPoss: 8
 MaxLoot: 1
-Power: 12
+Power: 10
 Item1: 4, 2
 Item2: 130, 1
 Item3: 73, 1;
@@ -2454,7 +2454,7 @@ Unit2: 102, 4, 1, 3
 Unit3: 71, 2, 3, 3;
 LootPoss: 8
 MaxLoot: 1
-Power: 7
+Power: 9
 Item1: 1, 1
 Item2: 80, 1
 Item3: 67, 1;
@@ -2467,7 +2467,7 @@ Unit2: 102, 8, 2, 3
 Unit3: 71, 4, 4, 3;
 LootPoss: 9
 MaxLoot: 1
-Power: 10
+Power: 11
 Item1: 10, 2
 Item2: 120, 1
 Item3: 43, 1;
@@ -2480,7 +2480,7 @@ Unit2: 102, 12, 3, 3
 Unit3: 71, 6, 5, 3;
 LootPoss: 10
 MaxLoot: 2
-Power: 12
+Power: 14
 Item1: 11, 1
 Item2: 69, 1
 Item3: 85, 1;
@@ -2493,7 +2493,7 @@ Unit2: 102, 16, 4, 3
 Unit3: 71, 9, 6, 3;
 LootPoss: 12
 MaxLoot: 2
-Power: 14
+Power: 17
 Item1: 4, 2
 Item2: 130, 1
 Item3: 73, 1;
@@ -2738,7 +2738,7 @@ Unit4: 193, 10, 1, 3
 Unit5: 194, 6, 0, 2;
 LootPoss: 14
 MaxLoot: 2
-Power: 14
+Power: 12
 Item1: 4, 2
 Item2: 130, 1
 Item3: 73, 1;
@@ -3016,7 +3016,7 @@ Unit1: 162, 25, 1, 1
 Unit2: 162, 15, 1, 2;
 LootPoss: 22
 MaxLoot: 3
-Power: 15
+Power: 17
 Item1: 1, 1
 Item2: 17, 1
 Item3: 63, 1;
@@ -3028,7 +3028,7 @@ Unit1: 164, 30, 1, 1
 Unit2: 163, 20, 6, 3;
 LootPoss: 22
 MaxLoot: 3
-Power: 16
+Power: 15
 Item1: 1, 1
 Item2: 17, 1
 Item3: 63, 1;
@@ -3104,7 +3104,7 @@ Unit8: 74, 12, 0, 1
 Unit9: 189, 19, 1, 0;
 LootPoss: 22
 MaxLoot: 3
-Power: 17
+Power: 16
 Item1: 1, 1
 Item2: 17, 1
 Item3: 63, 1;
@@ -3244,7 +3244,7 @@ Unit5: 104, 20, 2, 2
 Unit6: 79, 16, 2, 2;
 LootPoss: 20
 MaxLoot: 2
-Power: 19
+Power: 18
 Item1: 1, 1
 Item2: 17, 1
 Item3: 63, 1;
@@ -3466,8 +3466,8 @@ Item3: 55, 1;
 /238 Скелетное охранение 0
 Quantity: 2/1
 Initiative: 1/0
-Unit1: 207, 1, 1, 0
-Unit2: 193, 4, 1, 1;
+Unit1: 207, 1, 0, 1
+Unit2: 193, 4, 2, 2;
 LootPoss: 5
 MaxLoot: 1
 Power: 4
@@ -3478,7 +3478,7 @@ Item3: 55, 1;
 /239 Скелетное охранение 1
 Quantity: 3/2
 Initiative: 1/1
-Unit1: 207, 4, 1, 0
+Unit1: 207, 3, 1, 0
 Unit2: 193, 7, 2, 1;
 LootPoss: 5
 MaxLoot: 1
@@ -3490,7 +3490,7 @@ Item3: 55, 1;
 /240 Скелетное охранение 2
 Quantity: 4/3
 Initiative: 2/1
-Unit1: 207, 7, 1, 0
+Unit1: 207, 5, 1, 0
 Unit2: 193, 10, 3, 1;
 LootPoss: 5
 MaxLoot: 1
@@ -3502,8 +3502,8 @@ Item3: 55, 1;
 /241 Скелетное охранение 3
 Quantity: 5/4
 Initiative: 2/2
-Unit1: 207, 11, 1, 0
-Unit2: 193, 14, 4, 1;
+Unit1: 207, 7, 1, 0
+Unit2: 193, 13, 4, 1;
 LootPoss: 5
 MaxLoot: 1
 Power: 9
@@ -5520,7 +5520,7 @@ Unit2: 59, 12, 3, 0
 Unit3: 64, 20, 5, 0;
 LootPoss: 11
 MaxLoot: 1
-Power: 14
+Power: 16
 Item1: 1, 1
 Item2: 17, 1
 Item3: 63, 1;
@@ -5936,7 +5936,7 @@ Unit3: 161, 25, 1, 2
 Unit4: 162, 20, 1, 2;
 LootPoss: 15
 MaxLoot: 1
-Power: 12
+Power: 16
 Item1: 1, 1
 Item2: 17, 1
 Item3: 63, 1;
@@ -5950,7 +5950,7 @@ Unit3: 160, 20, 1, 2
 Unit4: 164, 25, 1, 2;
 LootPoss: 15
 MaxLoot: 1
-Power: 16
+Power: 18
 Item1: 1, 1
 Item2: 17, 1
 Item3: 63, 1;
@@ -5964,7 +5964,7 @@ Unit3: 162, 25, 1, 2
 Unit4: 164, 25, 1, 2;
 LootPoss: 15
 MaxLoot: 1
-Power: 12
+Power: 16
 Item1: 1, 1
 Item2: 17, 1
 Item3: 63, 1;
@@ -6181,9 +6181,9 @@ Item2: 17, 1
 Item3: 63, 1;
 
 /431 Скелеты Мрака 0
-Quantity: 3/1
+Quantity: 2/1
 Initiative: 1/0
-Unit1: 207, 1, 1, 0
+Unit1: 207, 1, 0, 1
 Unit2: 193, 3, 2, 1;
 LootPoss: 10
 MaxLoot: 1
@@ -6207,8 +6207,8 @@ Item3: 63, 1;
 /433 Скелеты Мрака 2
 Quantity: 5/2
 Initiative: 1/2
-Unit1: 207, 6, 1, 0
-Unit2: 193, 4, 4, 1;
+Unit1: 207, 5, 1, 0
+Unit2: 193, 9, 4, 1;
 LootPoss: 14
 MaxLoot: 1
 Power: 4
@@ -6219,8 +6219,8 @@ Item3: 63, 1;
 /434 Скелеты Мрака 3
 Quantity: 6/2
 Initiative: 2/2
-Unit1: 207, 10, 1, 0
-Unit2: 193, 14, 5, 1;
+Unit1: 207, 7, 1, 0
+Unit2: 193, 12, 5, 1;
 LootPoss: 16
 MaxLoot: 1
 Power: 6
@@ -6896,12 +6896,12 @@ Item2: 17, 1
 Item3: 63, 1;
 
 /480 Обитатели подземелий 2
-Quantity: 9/3
+Quantity: 8/3
 Initiative: 2/1
-Unit1: 188, 15, 3, 2
-Unit2: 31, 10, 2, 2
+Unit1: 188, 15, 3, 4
+Unit2: 31, 10, 2, 3
 Unit3: 67, 6, 1, 2
-Unit4: 51, 4, 2, 2
+Unit4: 51, 4, 1, 2
 Unit5: 52, 3, 1, 2
 Unit6: 182, 1, 0, 1;
 LootPoss: 8
@@ -6912,15 +6912,15 @@ Item2: 17, 1
 Item3: 63, 1;
 
 /481 Обитатели подземелий 3
-Quantity: 12/4
+Quantity: 10/4
 Initiative: 2/2
-Unit1: 188, 20, 3, 2
-Unit2: 31, 14, 2, 2
-Unit3: 67, 9, 2, 2
-Unit4: 51, 7, 2, 2
-Unit5: 52, 6, 2, 2
-Unit6: 182, 4, 1, 1
-Unit7: 60, 1, 0, 0;
+Unit1: 188, 20, 2, 5
+Unit2: 31, 14, 2, 4
+Unit3: 67, 9, 2, 3
+Unit4: 51, 7, 2, 3
+Unit5: 52, 6, 1, 3
+Unit6: 182, 4, 1, 2
+Unit7: 60, 1, 0, 1;
 LootPoss: 10
 MaxLoot: 1
 Power: 13

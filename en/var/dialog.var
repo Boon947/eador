@@ -1,4 +1,4 @@
-Quantity: 2450
+Quantity: 2463
 
 /0
 Window: 0;
@@ -4744,7 +4744,7 @@ Answer4: Don't bother me with such trifles from now on.;#####
 /607 (Кикимора - нанять команду авантюристов)
 Window: 2;
 Bitmap: 129;
-Text: #The team of adventurers discovers the lurker's lair just in time - she has just put the deputy into a vat of swamp water and lit a fire underneath. The adventurers behead the swamp cannibal and convey the deputy, completely soaked and completely thrilled, back home.#
+Text: #The team of adventurers discovers the lurker's lair just in time - she has just put the deputy into a vat of swamp water and lit a fire underneath. The adventurers behead the swamp ogre, and return the deputy home, thoroughly wet and thrilled.#
 Answer1: Excellent!;
 Answer2: 200 gold coins for such trifle? What a rip-off!;#####
 
@@ -5849,10 +5849,10 @@ Answer2: That's my luck...;#####
 /752 (Лавка чародея - главное)
 Window: 2;
 Bitmap: 71;
-Text: #The deputy of the %s province has informed you that a traveling conjurer has come to their province and is asking for help to open his shop.#
+Text: #The deputy of the %s province reports that a traveling conjurer has come to their province, and is asking for help opening his shop.#
 Answer1: Drive the conjurer away from my domain!;
 Answer2: Help the conjurer open his shop. (-100 $ );
-Answer3: Let him give me a spell scroll for my help.;
+Answer3: Only if he gives me a scroll for my help (-100 $ );
 Answer4: Don't bother me with such trifling matters again!;#####
 
 /753 (Лавка чародея - открыть)
@@ -16809,7 +16809,7 @@ Answer2: Next time I will do it for real!;#####
 /2195 Эксперименты с чумой (хорошее), открыто, золотая жила
 Window: 2;
 Bitmap: 193;
-Text: #After handing over the agreed fee, the Plague Master leaves. After a while it is reported to you that as a result of the experiments, all locusts and other pests have perished. The gold income from the province is increased by %d.
+Text: #After handing over the agreed fee, the Plague Master leaves. After a while it is reported to you that as a result of the experiments, all locusts and other pests have perished. Gold income from this province increases by %d.
 The local residents didn't much like such experiments however, thinking you were going to sacrifice them to the dark gods. And although none of them was hurt, resentment in the province has grown.#
 Answer1: I don't understand why they are discontent?;
 Answer2: Next time I will do it for real!;#####
@@ -18640,8 +18640,8 @@ Text: #Your advisers report that local merchants are assembling a trade caravan.
 You may dispatch a small, medium, or large caravan - to either local, adjacent, or distant lands.
 The larger the caravan, the greater the profit, and the safer it will travel to the most remote corners of the shard.
 What is your decision?#
-Answer1: Invest the minimum. (-200 $ );
-Answer2: Invest a reasonable amount. (-450 $ );
+Answer1: Invest the minimum (-200 $ );
+Answer2: Invest a reasonable amount (-450 $ );
 Answer3: Invest much gold! (-1000 $ );
 Answer4: Why should I care? They can send it themselves.;#####
 
@@ -18785,3 +18785,100 @@ Text: #All surviving enemies are deserting the battlefield! This is Victory, my 
 Do you want to go after them?#
 Answer1: Yes! Let's end their suffering!;
 Answer2: No, let them go...;#####
+
+/2451 (Мандрагора - главное)
+Window: 2;
+Bitmap: 81;
+Text: #In the province of %s, the population has been complaining of eerie shrieks coming from the swamps at night.#
+Answer1: Hire adventurers to investigate (-150 $ );
+Answer2: Send scouts to sort this out (-50 $ );
+Answer3: Send the locals to the swamps, and let them sort it out.;
+Answer4: I'm not interested in this.;#####
+
+/2452 (Мандрагора - авантюристы)
+Window: 2;
+Bitmap: 97;
+Text: #The adventurers quickly figured out what was going on: Apparently, mandrake roots had ripened in the distant swamps, and were causing the nightly noise.
+The roots can be harvested now, yielding magic crystals, but they can also be grown, providing an excellent source of this plant.#
+Answer1: Harvest the roots - I need crystals now!;
+Answer2: Set up a farm (-10 & );#####
+
+/2453 (Мандрагора - следопыты)
+Window: 2;
+Bitmap: 64;
+Text: #The scouting team discovered the origin of the noise: Apparently, mandrake roots had ripened in the distant swamps.
+They can be harvested now, yielding magic crystals, but they can also be grown, providing an excellent source of this plant.#
+Answer1: Harvest the roots - I need crystals now!;
+Answer2: Set up a farm (-20 & );#####
+
+/2454 (Мандрагора - местные жители)
+Window: 2;
+Bitmap: 129;
+Text: #The locals wandered around the swamps; many peasants got lost, some drowned. In the end, they managed to find the origin of the noise: Apparently, mandrake roots had ripened in the distant swamps.
+They can be harvested now, yielding magic crystals, but they can also be grown, providing an excellent source of this plant.#
+Answer1: Harvest the roots - I need crystals now!;
+Answer2: Set up a farm (-35 & );#####
+
+/2455 (Мандрагора - ферма)
+Window: 2;
+Bitmap: 260;
+Text: #A Mandrake Glade has appeared in Province %s.#
+Answer1: Excellent!;
+Answer2: Can't be helped.;#####
+
+/2456 (Мандрагора - кристаллы)
+Window: 4;
+Bitmap: 49;
+Text: #The collected crystals have been delivered to your treasury.#
+Answer1: Excellent!;
+Answer2: So little...;#####
+
+/2457 (Кикимора - нанять авантюристов, арканит)
+Window: 2;
+Bitmap: 129;
+Text: #The team of adventurers discovers the lurker's lair just in time - she has just put the deputy into a vat of swamp water and lit a fire underneath. The adventurers behead the swamp ogre, and return the deputy home, thoroughly wet and thrilled.
+And the scouts sent to the Lurker's lair report that magic crystals grow along the banks of the pool near the lair. Most likely, there is an Arcanite deposit in the pool itself.#
+Answer1: Just collect the crystals.;
+Answer2: Mine the deposit (-100 $  -20 & );#####
+
+/2458 (Арканит - месторождение)
+Window: 2;
+Bitmap: 46;
+Text: #Shimmering Bogs with Arcanite crystals have appeared in Province %s.#
+Answer1: Excellent!;
+Answer2: Big deal...;#####
+
+/2459 (Арканит - кристаллы)
+Window: 4;
+Bitmap: 49;
+Text: #The collected crystals have been delivered to your treasury.#
+Answer1: Excellent!;
+Answer2: So little...;#####
+
+/2460 (Красное дерево - главное)
+Window: 2;
+Bitmap: 188;
+Text: #Druids have come to the deputy of Province %s. They offer to seed the local thicket with Redwood saplings in exchange for a small but recurring payment.#
+Answer1: Deal, let them get started.;
+Answer2: No way, I need the gold for myself.;#####
+
+/2461 (Красное дерево - согласился)
+Window: 2;
+Bitmap: 188;
+Text: #The druids have done their work - after some time, the seedlings will grow into full-fledged trees. Gold income from this province decreases by %d.#
+Answer1: That is acceptable.;
+Answer2: Wait... How much?;#####
+
+/2462 (Красное дерево - готово)
+Window: 2;
+Bitmap: 15;
+Text: #A Redwood Grove has appeared in Province %s. Workers have begun logging.#
+Answer1: Excellent!;
+Answer2: They'd better!;#####
+
+/2463 Продажа предметов в астрале
+Window: 1;
+Bitmap: 0;
+Text: #Selling the selected items will earn you %d Astral Energy, but they will no longer be available to you as a bonus for attacking Shards. Are you sure you want to do this?#
+Answer1: Yes;
+Answer2: No;#####

@@ -631,7 +631,7 @@ Teach a unit to cast the "Quen" sign that increases armor and resistance.#
 #The unit can cast the "Soothe Spirits" spell, which restores 6 HP to friendly elementals.#
 
 /210 Mass Rage
-#The unit can cast the "Mass Rage" spell, which gives all friendly units Fearless, Intimidation 2, and Bloodlust 3.#
+#Teach unit to cast the "Mass Rage" spell, which endows every ally with Fearless, Intimidation 2, Bloodlust 3, Surge of Strength 1.#
 
 /211 Tribe's Blood
 #The unit can cast the "Tribe's Blood" spell, which heals all nearby friendly units for 4 HP, cures poisoning and bleeding, and reduces the effects of Rotting Wounds.#
@@ -751,13 +751,13 @@ Teach a unit to cast the "Quen" sign that increases armor and resistance.#
 #This unit learns the Poison Claw spell, which makes an allied animal's melee attack poisonous.#
 
 /250 Set Trap Spell
-#This unit learns the Set Trap spell, which places a trap in an adjacent tile.#
+#Teach unit to cast the Set Trap spell, which sets a trap within 3 tiles.#
 
 /251 Set Snare Spell
 #This unit learns the Set Snare spell, which places a snare in an adjacent tile.#
 
 /252 Set Hive Spell
-#This unit learns the Set Hive spell, which places a hornet's nest in an adjacent tile.#
+#Teach unit to cast the Set Hive spell, which places a hornet's nest within 4 tiles.#
 
 /253 Swamp Blood Spell
 #This unit learns the Swamp Blood spell, which grants an ally poison immunity.#
@@ -987,14 +987,14 @@ Teach a unit to cast the "Quen" sign that increases armor and resistance.#
 /328 Elementalist Tome
 ##
 
-/329 Skeleton Transformation Spell
-#The unit is taught to cast "Skeleton Transformation" spell, transforming friendly or enemy unit into the skeleton.#
+/329 Polymorphism Spell
+#Teach unit to cast the Polymorphism spell, allowing an ally to transform into something else.#
 
-/330 Fiend Transformation Spell
-#The unit is taught to cast "Fiend Transformation" spell, transforming a friendly or enemy unit into fiend. Resistance protects only partially against this spell.#
+/330 Doppelganger Spell
+#Teach unit to cast the Doppelganger spell, to transform into one of the creatures on the battlefield.#
 
-/331 Cleric Transformation Spell
-#The unit is taught to cast "Cleric Transformation" spell, transforming a friendly or enemy unit into cleric. Resistance has almost no protection against this spell. Magic immunity does not apply.#
+/331 Doppelganger Spell - service
+#Teach unit to cast the Doppelganger spell, to transform into one of the creatures on the battlefield.#
 
 /332 Fire Blade Spell
 #The unit is taught to cast "Fire Blade" spell, increasing all kinds of attacks of friendly unit by 4 and changing damage to magical.#
@@ -1098,7 +1098,7 @@ Does not affect the undead, mechanical units and heroes.#
 #Increase power of summoned creatures by 4 (Undead - by 1) and summoning range by 1.#
 
 /365 Paralyze Spell
-#The unit is taught to cast the "Paralyze" spell, paralyzing a target unit which can't move and fight. The target's resistance only partially protects it from the spell. Has no effect on the Undead and Mechanical units.#
+#Unit's touch, shots, and spells can immobilize any living creature for 3 turns, virtually ignoring Spell Resistance.#
 
 /366 Mass Sleep Spell
 #The unit is taught to cast the "Mass Sleep" spell, making all enemies fall asleep. Sleeping units cannot fight or move for the duration of the spell, unless they are attacked. Has no effect on the Undead and Mechanical units.#
@@ -2236,10 +2236,10 @@ Bloodsucker +10.#
 #The unit can strike the enemy with his shield. The unit does not deal damage, but the blow reduces the target's Stamina by 3. The enemy does not counterattack.#
 
 /729 Hunter Skill
-#Sabotage +1, Province Exploration +10.#
+#Enchanted Arrows +4, Sabotage +1, Province Exploration +10.#
 
 /730 Ranger Skill
-#Sabotage +2, Province Exploration +20.#
+#Enchanted Arrows +8, Sabotage +2, Province Exploration +20.#
 
 /731 Pike Wall
 #The unit can efficiently resist against charging strikes.#
@@ -2311,10 +2311,10 @@ Bloodsucker +10.#
 #Increases by 6 the number of hit points restored when the unit is digesting an enemy.#
 
 /754 Forest Might
-#Unit can cast the Forest Might spell on himself, increasing all types of Attack and Armor of all allies around him by 2.#
+#Improve Forest Protection to Forest Might, increasing for adjacent allies all types of Attack and Armor by 2.#
 
 /755 Forest Blessing
-#Unit can cast the Forest Blessing spell on himself, increasing all types of Attack and Armor of all allies around him by 2, and enabling them to recover Stamina and Health when resting.#
+#Improve Forest Might to Forest Blessing, increasing for adjacent allies all types of Attack and Armor by 2, and enabling them to recover Stamina and Health when resting#
 
 /756 Path of Power
 #Choose Grunas as your battle form. This powerful, heavy beast, part bear, part white tiger, has tremendous strength and endurance.#
@@ -2654,3 +2654,15 @@ Bloodsucker +10.#
 
 /868 Cheaper Spells
 #Cost of casting spells is reduced by 17~.#
+
+/869 Lightweight Armor
+#Improve unit's armor, by making it lighter without reducing Durability.#
+
+/870 Mass Attack
+#Teach unit to attack all adjacent enemies without expending additional stamina.#
+
+/871 Shooting on the move
+#Tech unit to shoot at the enemy without losing a turn. After shooting, unit retains remaining Speed, and can continue moving or attacking. It may not shoot a second time.#
+
+/872 Mobile Shooter +1
+#After using the "Shooting on the Move" ability, unit's Speed and Stamina increase by 1.#

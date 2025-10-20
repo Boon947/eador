@@ -1,4 +1,4 @@
-Quantity: 868
+Quantity: 872
 
 /0
 Name: Empty;
@@ -1358,8 +1358,11 @@ Quantity: 1;
 Name: Cause Leprosy;
 Only Once: 0
 Need: (0)
-Upg Type: 176
-Quantity: 1;
+Upg Type: 387
+Quantity: 1
+
+Upg Type: 129
+Quantity: 290;
 
 /182
 Name: Mind Control;
@@ -2571,18 +2574,18 @@ Upg Type: 2170
 Quantity: 4;
 
 /329
-Name: Skeleton Transformation;
+Name: Polymorphism;
 Only Once: 1
 Need: (0)
 Upg Type: 2174
-Quantity: 2;
+Quantity: 3;
 
 /330
-Name: Fiend Transformation;
+Name: Doppelganger;
 Only Once: 1
 Need: (0)
 Upg Type: 2175
-Quantity: 3;
+Quantity: 1;
 
 /331
 Name: Cleric Transformation;
@@ -2780,7 +2783,7 @@ Name: Embrace of Darkness;
 Only Once: 1
 Need: (0)
 Upg Type: 2189
-Quantity: 3;
+Quantity: 2;
 
 /355
 Name: Deadly Touch;
@@ -2884,14 +2887,23 @@ Name: Paralyze;
 Only Once: 1
 Need: (0)
 Upg Type: 2192
-Quantity: 4;
+Quantity: 3
+
+Upg Type: 392
+Quantity: 1
+
+Upg Type: 129
+Quantity: 192
+
+Upg Type: 130
+Quantity: 192;
 
 /366
 Name: Mass Sleep;
 Only Once: 1
 Need: (0)
 Upg Type: 2193
-Quantity: 6;
+Quantity: 5;
 
 /367
 Name: Shadow Form;
@@ -4283,7 +4295,7 @@ Name: Faerie Dragon;
 Only Once: 1
 Need: (0)
 Upg Type: 2174
-Quantity: 2
+Quantity: 3
 
 Upg Type: 2024
 Quantity: 1
@@ -5879,8 +5891,11 @@ Need: (0)
 Upg Type: 170
 Quantity: 1
 
-Upg Type: 174
+Upg Type: 172
 Quantity: 1
+
+Upg Type: 175
+Quantity: 15
 
 Upg Type: 305
 Quantity: 1;
@@ -7429,3 +7444,34 @@ Only Once: 0
 Need: (0)
 Upg Type: 983
 Quantity: 17;
+
+/869
+Name: Lightweight Armor;
+Only Once: 1
+Need: (221)
+Upg Type: 221
+Quantity: -1;
+
+/870
+Name: Mass Attack;
+Only Once: 1
+Need: (66)
+Upg Type: 66
+Quantity: -2
+
+Upg Type: 65
+Quantity: 1;
+
+/871
+Name: Shooting on the move;
+Only Once: 1
+Need: (0)
+Upg Type: 385
+Quantity: 1;
+
+/872
+Name: Mobile Shooter +1;
+Only Once: 1
+Need: (385)
+Upg Type: 386
+Quantity: 1;

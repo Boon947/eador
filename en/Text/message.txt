@@ -1,4 +1,4 @@
-Quantity: 136
+Quantity: 140
 
 0. Empty
 #No description#
@@ -372,7 +372,7 @@ Your world is the main source of Energy income. Each Shard joined to your world 
 #Try powerful spells and rituals, train elite warriors and fight huge monsters. Obtain legendary artifacts and collect rare armor sets.#
 
 113. Hint Miscellaneous
-# New Horizons 25.0101.f01.a#
+# New Horizons 25.0101.f03.a#
 
 114. No lottery
 #  
@@ -455,3 +455,15 @@ A promoted unit will be fully healed.#
 136. Upgrade path selection window
 #Unit can choose one of two possible upgrade paths now.
 Decision may be postponed, but you should not wait.#
+
+137. Spell Power
+#Spell Power: %d~.#
+
+138. Spell Duration
+#Duration: %d~.#
+
+139. Spell Resistance
+#Resistance: %d~.#
+
+140. Resistance (Defense)
+#Physical Defense: %d~.#

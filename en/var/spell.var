@@ -1048,7 +1048,7 @@ OnEnemy: 1
 OnAlly: 0
 Sacrifice: 0
 ResistPower: 0
-ResistDuration: 100
+ResistDuration: 50
 DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
@@ -1164,7 +1164,7 @@ Stamina: 11
 Power: -2
 Duration: 6
 
-Morale: 12
+MoraleChange: 211
 Power: -1
 Duration: 6
 
@@ -1228,8 +1228,8 @@ LifeCost: 0
 StamCost: 4
 ItemLevel: 3
 Level: 2
-PowerMod: 50
-DurationMod: 0
+PowerMod: 0
+DurationMod: 50
 Target: 3
 Area: 1
 Radius: 2
@@ -1242,20 +1242,28 @@ OnAlly: 1
 Sacrifice: 0
 ResistPower: 0
 ResistDuration: 0
-DefencePower: 100
+DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 42
-UnitKind: (0)
-AntiEffect: (0)
+UnitKind: (24)
+AntiEffect: (80)
 
 Effects:
-Damage: 1
-Power: 5
-Duration: -1
+Fly: 14
+Power: -99
+Duration: 4
 
-Stamina: 11
-Power: 2
+Float: 15
+Power: -99
+Duration: 4
+
+Cripple: 127
+Power: 1
+Duration: 4
+
+Damage: 1
+Power: 4
 Duration: -1
 
 Stamina: 247
@@ -1900,7 +1908,7 @@ AntiEffect: (0)
 
 Effects:
 Resurrect: 1
-Power: 30
+Power: 35
 Duration: -1;
 
 /50
@@ -2396,7 +2404,7 @@ Stamina: 11
 Power: -2
 Duration: 6
 
-Stamina: 11
+MoraleChange: 211
 Power: -1
 Duration: 6
 
@@ -4083,7 +4091,7 @@ Duration: 2;
 
 /108
 Name: Insanity;
-Cost: 20
+Cost: 13
 LifeCost: 0
 StamCost: 3
 ItemLevel: 3
@@ -4161,6 +4169,10 @@ Duration: 2
 
 Fear: 50
 Power: 2
+Duration: 2
+
+RegStamina: 195
+Power: 1
 Duration: 2
 
 Bloodlust: 197
@@ -5072,7 +5084,7 @@ Duration: -1;
 
 /133
 Name: Poison Claw;
-Cost: 8
+Cost: 4
 LifeCost: 0
 StamCost: 2
 ItemLevel: 2
@@ -6576,43 +6588,43 @@ Power: 16
 Duration: -1;
 
 /174
-Name: Skeleton Transformation;
+Name: Polymorphism;
 Cost: 35
 LifeCost: 0
-StamCost: 4
+StamCost: 6
 ItemLevel: 8
 Level: 5
 PowerMod: 0
-DurationMod: 100
+DurationMod: 50
 Target: 1
 Area: 1
 Radius: 0
 Karma: 0
 Building: 0
 Unloot: 0
-Negative: 1
-OnEnemy: 1
+Negative: 0
+OnEnemy: 0
 OnAlly: 1
 Sacrifice: 0
 ResistPower: 0
-ResistDuration: 100
+ResistDuration: 0
 DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 84
-UnitKind: (2, 5)
-AntiEffect: (110, 90)
+UnitKind: (2, 4, 5, 19, 22, 23)
+AntiEffect: (110, 90, 176)
 
 Effects:
-Morph: 1019
-Power: 1
-Duration: 4;
+SelfMorphing: 176
+Power: 2175
+Duration: 5;
 
 /175
-Name: Fiend Transformation;
+Name: Doppelganger;
 Cost: 45
 LifeCost: 0
-StamCost: 5
+StamCost: 1
 ItemLevel: 8
 Level: 5
 PowerMod: 0
@@ -6623,29 +6635,29 @@ Radius: 0
 Karma: 0
 Building: 0
 Unloot: 1
-Negative: 1
+Negative: 0
 OnEnemy: 1
 OnAlly: 1
 Sacrifice: 0
 ResistPower: 0
-ResistDuration: 50
+ResistDuration: 0
 DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 84
-UnitKind: (3, 5)
+UnitKind: (5, 20, 29)
 AntiEffect: (110, 90)
 
 Effects:
-Morph: 1037
+Morph: 2001
 Power: 1
 Duration: 4;
 
 /176
-Name: Cleric Transformation;
-Cost: 70
+Name: Doppelganger;
+Cost: 45
 LifeCost: 0
-StamCost: 8
+StamCost: 1
 ItemLevel: 8
 Level: 5
 PowerMod: 0
@@ -6656,23 +6668,23 @@ Radius: 0
 Karma: 0
 Building: 0
 Unloot: 1
-Negative: 1
+Negative: 0
 OnEnemy: 1
 OnAlly: 1
 Sacrifice: 0
 ResistPower: 0
-ResistDuration: 25
+ResistDuration: 0
 DefencePower: 0
 RestoreOnly: 0
 Cumulative: 0
 Sound: 84
-UnitKind: (5)
-AntiEffect: (90)
+UnitKind: (5, 20, 29)
+AntiEffect: (110, 90)
 
 Effects:
-Morph: 1045
+Morph: 2001
 Power: 1
-Duration: 3;
+Duration: 4;
 
 /177
 Name: Summon Phantom;
@@ -7245,7 +7257,7 @@ StamCost: 2
 ItemLevel: 8
 Level: 5
 PowerMod: 0
-DurationMod: 50
+DurationMod: 100
 Target: 1
 Area: 1
 Radius: 0
@@ -7771,7 +7783,7 @@ AntiEffect: (0)
 
 Effects:
 Summon: 1092
-Power: 0
+Power: 5
 Duration: -1;
 
 /205
@@ -8106,7 +8118,7 @@ Negative: 1
 OnEnemy: 1
 OnAlly: 1
 Sacrifice: 0
-ResistPower: 100
+ResistPower: 0
 ResistDuration: 0
 DefencePower: 0
 RestoreOnly: 0
@@ -8776,7 +8788,7 @@ Stamina: 11
 Power: -2
 Duration: 3
 
-Morale: 12
+MoraleChange: 211
 Power: -2
 Duration: 3
 
@@ -8885,7 +8897,7 @@ LifeCost: 0
 StamCost: 2
 ItemLevel: 3
 Level: 3
-PowerMod: 100
+PowerMod: 50
 DurationMod: 0
 Target: 0
 Area: 2
@@ -11132,7 +11144,7 @@ Resist: 6
 Power: -2
 Duration: 6
 
-ChangeMorale: 211
+MoraleChange: 211
 Power: -2
 Duration: 6;
 
@@ -13639,7 +13651,7 @@ Stamina: 11
 Power: -2
 Duration: 3
 
-Morale: 211
+MoraleChange: 211
 Power: -2
 Duration: 3;
 
@@ -13680,7 +13692,7 @@ Stamina: 11
 Power: -2
 Duration: 3
 
-Morale: 211
+MoraleChange: 211
 Power: -2
 Duration: 3;
 
@@ -13719,7 +13731,11 @@ Duration: 5
 
 Float: 15
 Power: -99
-Duration: 5;
+Duration: 5
+
+ShootingRange: 9
+Power: -2
+Duration: 6;
 
 /352
 Name: Abysmal Joke;
@@ -13920,7 +13936,7 @@ RestoreOnly: 0
 Cumulative: 0
 Sound: 209
 UnitKind: (2, 4, 5, 19, 21, 22, 23)
-AntiEffect: (110)
+AntiEffect: (0)
 
 Effects:
 Damage: 1
@@ -14424,6 +14440,10 @@ UnitKind: (0)
 AntiEffect: (0)
 
 Effects:
+ExtraLong: 113
+Power: 2
+Duration: -1
+
 Summon: 1227
 Power: 0
 Duration: -1;
@@ -14490,6 +14510,10 @@ UnitKind: (0)
 AntiEffect: (0)
 
 Effects:
+ExtraLong: 113
+Power: 3
+Duration: -1
+
 Summon: 1228
 Power: 0
 Duration: -1;

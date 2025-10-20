@@ -479,8 +479,8 @@ The elemental spirit of water crushes its enemies under thick, conjured blocks o
 One option to combat elementals is to banish them back to their plane - a difficult task, but not impossible. Weapons often struggle to pierce the water elemental, and strong magic is required to afflict its glowing presence.#
 
 119. Veteran Slinger
-#After spending a certain time in service, inexperienced youths can become veteran slingers. These young men are provided small bucklers to help them survive the battlefield without hindering their ability to hurl their projectiles at the enemy. Besides their light leather armor and helmet, this significantly increases their chances of staying alive.
-Experienced veteran slingers are capable of quickly shooting down their targets, as long as they're not forced into melee.#
+#After spending a certain time in service, inexperienced youths can become veteran slingers. Commanders value skilled veterans, and try to spare these marksmen in battle. Thus, they are usually given a small elbow buckler (which doesn't hinder shooting while significantly increasing survival odds) as well as light leather armor and a helmet.
+As skilled fighters, veteran slingers, are able to shoot while running. Even though this ability is exhausting, they are very aware that their survival depends primarily on preventing the enemy from reaching their ranks.#
 
 120. Sentinel
 #While pikemen are tasked with facing enemies of one particular city, sentinels are seasoned veterans who ensure the safety of the people with their oaths to prevent any bloodshed. Adding chain mail and plate armor, armed with lances, these fighters are able to tightly block any passage, holding it as long as necessary. Their long reach can strike a foe before he can even approach. Sentinels also wear strong platemail to prevent grave injuries. Armed with well-forged weapons and suited in superior armor, sentinels are trained to withstand blows that would ordinarily cripple a man. Enemy forces will have to put in a lot of effort to merely budge these combatants.#
@@ -659,8 +659,8 @@ For the contract to be turned into a unit for a hero's party it is necessary to 
 
 162. Faerie Dragon
 #Some speak of faerie dragons as mysterious creatures native to the Astral plane. Others, however, claim that they originate from a certain sector of the Astral plane only. Nevertheless, the faerie dragon, free of will and conscience, is considered the embodiment of magic.
-Only a few great wizards have succeeded in obtaining a faerie dragon egg from the Astral plane. One might suggest that this 'egg' is not actually an egg, but rather a spiritual projection of the Astral plane. Then again, one might also suggest that the wizards themselves do not fully comprehend what plight they bring upon mortals.
-Faerie dragons are mighty, as befit their kin, and radiate an unmatched beauty. Their mesmerizing presence is emphasized by their ability to weave higher magic. This magic is of supreme magnitude, it could shred even the greatest wizard's spell resistance.
+Only a few great wizards have succeeded in obtaining a faerie dragon egg from the Astral plane. One might suggest that this 'egg' is not actually an egg, but rather a spiritual projection of the Astral plane. Sometimes it seems even the wizards themselves don't really understand exactly what they've brought back.
+Faerie dragons are mighty, as befit their kin, and radiate an unmatched beauty. Their mesmerizing might becomes quite palpable when they start weaving higher magic, creating powerful and often unique effects. This magic is of supreme magnitude, it could shred even the greatest wizard's spell resistance.
 For the egg to be turned into a unit for a hero's party it is necessary to build the School of High Magic.#
 
 163. Phantom
@@ -772,7 +772,7 @@ For the contract to be turned into a unit for a hero's party it is necessary to 
 
 191. Fiend Lord
 #The fiend who has been selected as the most intelligent and brutal of a pack of Chaos minions is declared a fiend lord. The fiend lord is provided a small cluster of devils and hellhounds to execute his will. Orders from the fiend lord are carried out swiftly and without question.
-Disobedience is not tolerated, often resulting in swift execution to lesser, rebellious demons. Empowered by a higher demonic ritual, the fiend lord's trident is replaced by a massive, sharpened axe, befitting the demon's empowered strength. A fiend lord is able to cleave through the toughest of plates, and his ferocity inspires enthusiastic bloodletting from his pack.#
+Disobedience is not tolerated, often resulting in swift execution to lesser, rebellious demons. Empowered by a higher demonic ritual, the Fiend Lord's trident is replaced by a massive, sharpened axe, which can cleave through the toughest armor. His ferocity instills genuine terror in his enemies. And the special mark left by the ritual makes the Fiend akin to elder Demons, giving him the strength to resist many dangerous spells.#
 
 192. Preacher
 #There are times when monks are dispatched on pilgrimages. These pilgrimages range from passing on the word of the Lord of Light or simply offering assistance to those in need. Be that as it may, these preachers rarely travel alone, often seeking out armed groups or caravans for protection. They are often met with great joy, as tales of their powerful healing talents have spread far and wide along the realm of Eador. A preacher has the capacity to not only bless and heal an entire army, but he also possesses knowledge of the most sought after ability: resurrection.#

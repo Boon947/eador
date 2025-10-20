@@ -103,8 +103,8 @@ Talent1: 1032, 1
 Talent2: 1033, 1
 Talent3: 1034, 1
 Talent4: 999, 2
-Talent5: 960, 245
-Talent6: 0, 0
+Talent5: 970, 1
+Talent6: 960, 245
 
 /13
 Name: Warlord;
@@ -112,8 +112,8 @@ Talent1: 1004, 1
 Talent2: 1005, 1
 Talent3: 1021, 1
 Talent4: 1035, 2
-Talent5: 960, 247
-Talent6: 0, 0
+Talent5: 1098, 1
+Talent6: 960, 247
 
 /14
 Name: Tactician;
@@ -137,9 +137,9 @@ Talent6: 0, 0
 Name: Priest;
 Talent1: 1006, 1
 Talent2: 1012, 2
-Talent3: 1098, 1
-Talent4: 902, 1
-Talent5: 960, 249
+Talent3: 902, 1
+Talent4: 960, 249
+Talent5: 0, 0
 Talent6: 0, 0
 
 /17
@@ -247,8 +247,8 @@ Talent1: 1032, 2
 Talent2: 1033, 2
 Talent3: 1034, 2
 Talent4: 999, 1
-Talent5: 960, 270
-Talent6: 0, 0
+Talent5: 970, 1
+Talent6: 960, 270
 
 /29
 Name: Battlemaster;
@@ -281,9 +281,9 @@ Talent6: 0, 0
 Name: High Priest;
 Talent1: 1006, 1
 Talent2: 1012, 2
-Talent3: 903, 1
-Talent4: 960, 274
-Talent5: 0, 0
+Talent3: 902, 1
+Talent4: 903, 1
+Talent5: 960, 274
 Talent6: 0, 0
 
 /33

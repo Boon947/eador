@@ -155,7 +155,7 @@ Allows performing the Magic Crystal ritual.#
 
 35. Sorcerer's Workshop
 #Allows heroes to purchase the following items: Short Staff, Simple Wand, Toga, Sandals, Simple Cap.
-Reduces the gem upkeep of garrison units by 10~.#
+Reduces the gem upkeep of garrison units by 15~.#
 
 36. Pottery
 #Income +4. Allows building a Granary in provinces.#
@@ -414,14 +414,15 @@ The castle cannot have more than 4 buildings of this type.#
 #Yields 2 gems per turn.#
 
 97. Swamp Trappers Guild
-#Allows the recruitment of Giant Spiders, Birdeaters, and Giant Slugs, if their eggs are present in the treasury.#
+#Allows the recruitment of Giant Spiders, Birdeaters, and Giant Slugs, if their eggs are present in the treasury.
+Reduces the upkeep of garrison units by 10~.#
 
 98. Chamber of Commerce
 #Income +20.  Reduces the cost of buying resources by 10~. Allows upgrading a Tavern in provinces to an Inn.
 Increases gold income from trade caravans.#
 
 99. Finance House
-#Income +3~ of gold already available.#
+#Income +3~ of gold already available. Increases Castle storage capacity.#
 
 100. War School
 #Increases recruits' experience by 40. Allows hiring the Men of War guard.#
@@ -454,7 +455,7 @@ Allows turning second circle spellbook spells back into scrolls.#
 #Reduces the cost of construction in the castle by 10~. Allows upgrading a Fort in provinces to a Citadel.#
 
 109. Treasury
-#Reduces gold losses when under plunder by 30~. Increases storage capacity.#
+#Reduces gold losses when under plunder by 30~. Increases Castle storage capacity.#
 
 110. Merchants Guild
 #Income +30.  Reduces the cost of buying resources by 10~. Allows upgrading a Mall in provinces to a Market.#
@@ -637,10 +638,10 @@ The castle cannot have more than 3 buildings of this type.#
 
 150. Artifact Market
 #Allows heroes to purchase simple magic items. Allows hiring the Gargoyles guard.
-Reduces the gem upkeep of garrison units by 10~.#
+Reduces the gem upkeep of garrison units by 15~.#
 
 151. Bank
-#Income +5~ of gold already available.#
+#Income +5~ of gold already available. Increases Castle storage capacity.#
 
 152. Oracle
 #Yields 3 gems per turn. Increases the chance of good events and reduces the chance of bad events. Reduces the delay between rituals by 1.#
@@ -663,7 +664,7 @@ Provides 2 contracts with the Vassal guard.#
 
 158. Artifact Master
 #Allows heroes to purchase quality magic items. Allows hiring the Gargoyle Masters guard. Allows the recruitment of Golems, if their ingots are present.
-Reduces the gem upkeep of garrison units by 15~.#
+Reduces the gem upkeep of garrison units by 20~.#
 
 159. Tower of Knowledge
 #Yields 5 gems per turn. Allows upgrading a Library in provinces to a Magic Tower. Shoots at enemies during the defense of the capital.
@@ -813,7 +814,7 @@ Allows hiring the Vassal guard.#
 
 188. Tower of Artifacts
 #Allows heroes to purchase rare magic items. Allows performing an additional ritual per turn. Provides 1 contract with the Ancient Guards guard.
-Reduces the gem upkeep of garrison units by 20~.#
+Reduces the gem upkeep of garrison units by 25~.#
 
 189. Fountain of Youth
 #Increases population growth in all provinces.#
@@ -937,10 +938,10 @@ Allows recruiting Wyverns, if their eggs are present in the treasury.#
 Allows building Orcish Outpost in provinces.#
 
 223. Stone Idol
-#Allows recruiting Spirit Conjurer and Brutes.#
+#Allows recruiting Spirit Conjurers. Income from provinces inhabited by Orcs +1.#
 
 224. Warcamp
-#Allows recruiting Chieftains. Allows you to hire Great Horde guards.#
+#Allows recruiting Brutes. Increases gold income from Orcish provinces.#
 
 225. Halfling's Suburb 
 #Allows recruiting Border Guards. Allows recruiting Border Guard defender.
@@ -1005,7 +1006,7 @@ Gives 3 contracts with the Lord of Phantoms guardian.#
 
 239. Reliquary
 #Yields 15 gems per turn. Allow heroes to acquire rare magical items. Allows you to hire Dragons if their eggs are present in the treasury.
-Reduces the gem upkeep of garrison units by 25~.#
+Allows you to hire Behemoths, Faerie Dragons, Psions, Elementals, Seraphims, Dracolich, Acherons if the appropriate item is in the treasury.#
 
 240. Trappers Guild
 #Allows the recruitment of Medusas and Wyverns, if their eggs are present in the treasury. Reduces the upkeep of garrison units by 10~.#
@@ -1105,7 +1106,9 @@ Allows to perform the ritual of Call of Darkness.
 Adds Altar of Death to capital.#
 
 263. Handler's Guild
-#Allows you to hire Manticores if you have their eggs in the treasury. Allows recruiting Lycans, if you have the proper scroll. Increases income from swamp provinces by 1. Reduces the upkeep of garrison units by 5~.#
+#Allows recruiting Medusas, Wyverns, Manticores if their eggs are present in the treasury.
+Allows recruiting Lycans, if you have the proper scroll.
+Increases income from swamp provinces by 1.#
 
 264. Gnoll's Quarters
 #Allows recruiting Pack Warriors. Lowers the population mood in the capital by 1. Reduces the population growth in the capital by 1. Allows performing the Gathering the Pack ritual.#
@@ -1210,3 +1213,6 @@ The castle can only have one building of this type.#
 Adds to the store 1 Behemoth Soul Stone.
 Provides 2 schematics of the Monument of Nature.
 Gives 3 contracts with the Dragon guardian.#
+
+290. Hall of Chieftains
+#Allows recruiting Chieftains. Allows you to hire Great Horde guards.#

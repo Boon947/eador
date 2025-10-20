@@ -1,4 +1,4 @@
-Quantity: 2161
+Quantity: 2187
 
 /0
 Type: 0
@@ -4257,7 +4257,7 @@ Param1: 2
 Param2: 20
 
 Index: 60
-Power: 50
+Power: 60
 Param1: 4
 Param2: 5;
 
@@ -14466,7 +14466,7 @@ Karma: 0
 *Answers*:
 Answer1: 13
 Answer2: 504
-Answer3: 505
+Answer3: 2162
 Answer4: 506;
 
 *Effects*:
@@ -59851,3 +59851,739 @@ Index: 15
 Power: 2
 Param1: 0
 Param2: 0;
+
+/2162 (Лавка чародея - вилка 1)
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 505
+Param1: 2163
+Param2: 25;
+
+/2163 (Лавка чародея - вилка 2)
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 2164
+Param1: 2165
+Param2: 80;
+
+/2164 (Лавка чародея - дать случайное заклинание М1)
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 40
+Power: 10
+Param1: 1
+Param2: 1
+
+Index: 9
+Power: 35
+Param1: -1
+Param2: 0
+
+Index: 1
+Power: -100
+Param1: 0
+Param2: 0;
+
+/2165 (Лавка чародея - дать случайное заклинание М2)
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 40
+Power: 10
+Param1: 2
+Param2: 1
+
+Index: 9
+Power: 35
+Param1: -1
+Param2: 0
+
+Index: 1
+Power: -100
+Param1: 0
+Param2: 0;
+
+/2166 (Мандрагора - главное)
+Type: 1
+Possibility: 5
+Dialog: 2451
+DlgParam1: 1
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 2167
+Answer2: 2168
+Answer3: 2169
+Answer4: 2175;
+
+*Effects*:
+Index: 4
+Power: 1
+Param1: 1
+Param2: 150
+
+Index: 4
+Power: 2
+Param1: 1
+Param2: 50
+
+Index: 8
+Power: 16
+Param1: 0
+Param2: 0
+
+Index: 8
+Power: 2
+Param1: 4
+Param2: 0
+
+Index: 8
+Power: 11
+Param1: 0
+Param2: 0;
+
+/2167 (Мандрагора - авантюристы)
+Type: 0
+Possibility: 0
+Dialog: 2452
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 1
+
+*Answers*:
+Answer1: 2174
+Answer2: 2170;
+
+*Effects*:
+Index: 1
+Power: -150
+Param1: 0
+Param2: 0
+
+Index: 4
+Power: 2
+Param1: 2
+Param2: 10;
+
+/2168 (Мандрагора - следопыты)
+Type: 0
+Possibility: 0
+Dialog: 2453
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 2174
+Answer2: 2171;
+
+*Effects*:
+Index: 1
+Power: -50
+Param1: 0
+Param2: 0
+
+Attitude: 2
+Power: -1
+Param1: 0
+Param2: 0
+
+Index: 4
+Power: 2
+Param1: 2
+Param2: 20;
+
+/2169 (Мандрагора - местные жители)
+Type: 0
+Possibility: 0
+Dialog: 2454
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: -3
+
+*Answers*:
+Answer1: 2174
+Answer2: 2172;
+
+*Effects*:
+Attitude: 2
+Power: -1
+Param1: 0
+Param2: 0
+
+Population: 3
+Power: -10
+Param1: 5
+Param2: 0;
+
+/2170 (Мандрагора - авантюристы, плата за ферму)
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 6
+Power: -10
+Param1: 0
+Param2: 0
+
+Index: 11
+Power: 2173
+Param1: 0
+Param2: 0;
+
+/2171 (Мандрагора - следопыты, плата за ферму)
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 6
+Power: -20
+Param1: 0
+Param2: 0
+
+Index: 11
+Power: 2173
+Param1: 0
+Param2: 0;
+
+/2172 (Мандрагора - местные, плата за ферму)
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 6
+Power: -35
+Param1: 0
+Param2: 0
+
+Index: 11
+Power: 2173
+Param1: 0
+Param2: 0;
+
+/2173 (Мандрагора - сайт)
+Type: 0
+Possibility: 0
+Dialog: 2455
+DlgParam1: 1
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer2: 0;
+
+*Effects*:
+Index: 9
+Power: 4
+Param1: -1
+Param2: -1;
+
+/2174 (Мандрагора - собрать кристаллы)
+Type: 0
+Possibility: 0
+Dialog: 2455
+DlgParam1: 1
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer2: 0;
+
+*Effects*:
+Index: 6
+Power: 75
+Param1: 50
+Param2: 0;
+
+/2175 (Мандрагора - не интересует)
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: -5
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 9
+Power: 4
+Param1: 1
+Param2: 1;
+
+/2176 (Кикимора - главное)
+Type: 1
+Possibility: 8
+Dialog: 606
+DlgParam1: 1
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 640
+Answer2: 2179
+Answer3: 2178
+Answer4: 160;
+
+*Effects*:
+Index: 4
+Power: 2
+Param1: 1
+Param2: 200
+
+Index: 4
+Power: 3
+Param1: 1
+Param2: 100
+
+Index: 2
+Power: -1
+Param1: 0
+Param2: 0
+
+Index: 8
+Power: 16
+Param1: 0
+Param2: 0
+
+Index: 8
+Power: 2
+Param1: 4
+Param2: 0
+
+Index: 8
+Power: 11
+Param1: 0
+Param2: 0
+
+Index: 8
+Power: 8
+Param1: 1
+Param2: 0;
+
+/2177 (Кикимора - нанять команду авантюристов)
+Type: 0
+Possibility: 0
+Dialog: 607
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 2
+
+*Answers*:
+Answer1: 0
+Answer2: 13;
+
+*Effects*:
+Index: 2
+Power: 2
+Param1: 0
+Param2: 0;
+
+/2178 (Кикимора - заплатить добровольцам из провинции)
+Type: 0
+Possibility: 0
+Dialog: 608
+DlgParam1: 1
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 2
+
+*Answers*:
+Answer1: 13
+Answer2: 12;
+
+*Effects*:
+Index: 1
+Power: -100
+Param1: 0
+Param2: 0
+
+Index: 2
+Power: 1
+Param1: 0
+Param2: 0;
+
+/2179 Кикимора, авантюристы, вилка 1
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 3
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 1
+Power: -200
+Param1: 0
+Param2: 0
+
+Index: 11
+Power: 2180
+Param1: 721
+Param2: 70;
+
+/2180 Кикимора, авантюристы, вилка 2
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 11
+Power: 2177
+Param1: 2181
+Param2: 50;
+
+/2181 (Кикимора - арканит)
+Type: 0
+Possibility: 0
+Dialog: 2457
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 2183
+Answer2: 2182;
+
+*Effects*:
+Index: 4
+Power: 2
+Param1: 1
+Param2: 100
+
+Index: 4
+Power: 2
+Param1: 2
+Param2: 20;
+
+/2182 (Арканит - сайт)
+Type: 0
+Possibility: 0
+Dialog: 2458
+DlgParam1: 1
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer2: 0;
+
+*Effects*:
+Gold: 1
+Power: -100
+Param1: 0
+Param2: 0
+
+Gem: 6
+Power: -20
+Param1: 0
+Param2: 0
+
+Index: 9
+Power: 5
+Param1: -1
+Param2: -1;
+
+/2183 (Арканит - собрать кристаллы)
+Type: 0
+Possibility: 0
+Dialog: 2459
+DlgParam1: 1
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0
+Answer2: 0;
+
+*Effects*:
+Index: 6
+Power: 150
+Param1: 100
+Param2: 0;
+
+/2184 (Красное дерево - главное)
+Type: 1
+Possibility: 10
+Dialog: 2460
+DlgParam1: 1
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 2185
+Answer2: 0;
+
+*Effects*:
+Index: 8
+Power: 16
+Param1: 0
+Param2: 0
+
+Index: 8
+Power: 2
+Param1: 2
+Param2: 0
+
+Index: 8
+Power: 11
+Param1: 0
+Param2: 0;
+
+/2185 (Красное дерево - согласился)
+Type: 0
+Possibility: 0
+Dialog: 2461
+DlgParam1: 2
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 2186
+Answer2: 2186;
+
+*Effects*:
+Index: 5
+Power: -4
+Param1: 2
+Param2: 0;
+
+/2186 (Красное дерево - таймер)
+Type: 0
+Possibility: 0
+Dialog: 0
+DlgParam1: 0
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 0;
+
+*Effects*:
+Index: 17
+Power: 2187
+Param1: 3
+Param2: 4
+
+Index: 18
+Power: 2187
+Param1: 1
+Param2: 0;
+
+/2187 (Красное дерево - готово)
+Type: 0
+Possibility: 0
+Dialog: 2462
+DlgParam1: 1
+DlgParam2: 0
+Attacker: 0
+EventWin: 0
+EventLose: 0
+EventDraw: 0
+ProvType: 0
+Karma: 0
+
+*Answers*:
+Answer1: 12
+Answer2: 13;
+
+*Effects*:
+Index: 9
+Power: 2
+Param1: -1
+Param2: -1;

@@ -179,7 +179,7 @@
 #The unit's soul is burning with rage. It receives Intrepid, Bloodlust 2, and each blow reduces target's morale by 1. The unit's resistance is increased by 2, Speed by 1. Ranged attacks are disabled.#
 
 60. Mass Rage
-#The unit's soul is burning with rage. It receives Intrepid, Bloodlust 3, and each blow reduces target's morale by 2.#
+#The unit's soul is burning with rage. It receives Intrepid, Bloodlust 3, and each blow reduces target's morale by 2. The enchanted unit recovers 1 stamina point each turn.#
 
 61. Elemental Rage
 #Unit is possessed by Spirits. Each turn it loses %d HP, but Spellpower and Spell Duration are each turn increased by 1, Summoning Power by 3.#
@@ -280,14 +280,14 @@
 93. Mass Fire Immunity
 #The unit is immune to fire spells. The unit's ranged defense is increased by 1.#
 
-94. Skeleton Transformation
-#The unit is turned into a skeleton.#
+94. Polymorphism
+#Unit is able to transform into any creature on the battlefield.#
 
-95. Fiend Transformation
-#The unit is turned into a fiend.#
+95. Doppelganger
+#Unit is transformed into one of the creatures on the battlefield. It is not able to shape-shift again.#
 
-96. Cleric Transformation
-#The unit is turned into a cleric.#
+96. Doppelganger
+#Unit is transformed into one of the creatures on the battlefield. It is not able to shape-shift again.#
 
 97. Fanaticism
 #If a unit dies while under effect of this spell, it is immediately resurrected with full health. Morale of the unit is not effected for duration of the spell.#
@@ -466,7 +466,7 @@ It loses 3 points of stamina and morale each turn.#
 #The unit's equipment burst into flame. The unit loses 3 hit points each turn.#
 
 155. Shield Wall
-#The unit's attack is reduced. The unit's defense and ranged defense are increased until its next turn. The unit is vigilant.#
+#Unit's Attack and Counterattack are decreased. The unit's defense and ranged defense are increased until its next turn. The unit is vigilant.#
 
 156. Mobility
 #Mechanical unit is able to move faster. Speed is increased by 1.#
@@ -707,3 +707,6 @@ If a spell that restores Health is cast on the caster, it will also affect the e
 
 232. Bear Form
 #Unit is transformed into a Dire Bear.#
+
+232. Rain of Stones
+#Unit is unable to fly or float. Due to heavy injury, unit Speed is decreased by 1.#

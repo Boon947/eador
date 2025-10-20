@@ -1,4 +1,4 @@
-Quantity: 597
+Quantity: 600
 
 /0
 Name: Empty;
@@ -610,7 +610,7 @@ Effect: 1
 Percent: 0
 
 /87
-Name: Sabotage;
+Name: Scouting;
 Number: 981
 Numeric: 1
 Effect: 1
@@ -1723,21 +1723,21 @@ Effect: 0
 Percent: 0
 
 /246
-Name: Skeleton Transformation Spell;
+Name: Polymorphism Spell;
 Number: 2174
 Numeric: 1
 Effect: 0
 Percent: 0
 
 /247
-Name: Fiend Transformation Spell;
+Name: Doppelganger Spell;
 Number: 2175
 Numeric: 1
 Effect: 0
 Percent: 0
 
 /248
-Name: Cleric Transformation Spell;
+Name: Doppelganger Spell;
 Number: 2176
 Numeric: 1
 Effect: 0
@@ -2739,7 +2739,7 @@ Percent: 0
 
 /391
 Name: Cause Leprosy;
-Number: 176
+Number: 387
 Numeric: 0
 Effect: 0
 Percent: 0
@@ -4184,4 +4184,25 @@ Name: Double Strike;
 Number: 279
 Numeric: 0
 Effect: 1
+Percent: 0
+
+/598
+Name: Shooting on the move;
+Number: 385
+Numeric: 0
+Effect: 1
+Percent: 0
+
+/599
+Name: Mobile Shooter;
+Number: 386
+Numeric: 1
+Effect: 1
+Percent: 0
+
+/600
+Name: Paralyzing Touch;
+Number: 392
+Numeric: 0
+Effect: 0
 Percent: 0

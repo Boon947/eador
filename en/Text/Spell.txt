@@ -174,8 +174,8 @@ Has no effect on the Undead, Mechanical units, and Elementals.#
 27. Hallucination
 #Circle 2.
 School: Astral Magic.
-Reduces the missile attack of all ranged enemy units by 3. Lasts 5 turns.
-Duration increases with the caster's Concentration.
+Ranged Attack of all non-melee enemies is reduced by 3. Lasts 5 turns.
+Duration increases with the caster's Concentration. Resistance protects only partially.
 Has no effect on the Undead, Mechanical units, and Elementals.#
 
 28. Raise Ghoul
@@ -208,8 +208,10 @@ Summoning range and Gargoyle's attributes depend on the caster's Summoning Power
 32. Rain of Stones
 #Circle 2.
 School: Elemental Magic.
-Inflicts 5 points of physical damage on all units within a range of 2 tiles. Consumes 2 stamina points.
-Damage increases slightly with the caster's Spellpower.#
+Deals 4 HP damage to all units within a 2-tile radius, disables their ability to fly or hover, and cripples them, reducing their speed. Lasts 3 turns.
+Duration slightly increases with the caster's Concentration.
+Magic Resistance and Spell Immunity do not apply.
+Has no effect on incorporeal creatures or Giants.#
 
 33. Stone Skin
 #Circle 2.
@@ -727,7 +729,7 @@ Has no effect on the Undead, Mechanical units, and Elementals.#
 #Circle 4.
 School: Chaos Magic.
 The caster loses 50 hit points.
-All friendly units receive Fearless, Intimidation 2, and Bloodlust 3. Lasts 2 turns.
+Grants all allies Fearless, Intimidation 2, Bloodlust 3, and Surge of Strength 1. Lasts 2 turns.
 Duration increases with the caster's Concentration.
 Has no effect on the Undead, Mechanical units, and Elementals.#
 
@@ -1157,29 +1159,30 @@ School: Chaos Magic.
 Inflicts 16 points of damage to all Mortals on the battlefield. Resistance protects only partially against this spell. Magic immunity does not apply.
 Damage increases with the caster's Spellpower. Has no effect on Cultists.#
 
-174. Skeleton Transformation
+174. Polymorphism
 #Circle 4.
 School: Metamorphosis.
-Transforms friendly or enemy unit (with the resistance of 3 or less) in to the Skeleton.
+Grants an ally the ability to transform into any other unit on the battlefield.
+Lasts 5 turns.
+Duration slightly increases with the caster's Concentration.
+Has no effect on the Undead, Mechanical units, Heroes, Animals, Elementals, and Golems.
+Cannot be cast on creatures immune to magic, or already transformed.#
+
+175. Doppelganger
+#Circle 4.
+School: Metamorphosis.
+Transforms the caster into one of the creatures on the battlefield (ally or foe).
 Lasts 4 turns.
 Duration increases with the caster's Concentration.
-Does not affect the undead and heroes.#
+Cannot transform into a Hero, Trap or Obstacle, or into a magic-immune or transformed creature.#
 
-175. Fiend Transformation
+176. Doppelganger - service
 #Circle 4.
 School: Metamorphosis.
-Transforms friendly or enemy unit (with the resistance of 7 or less) in to the Fiend.
+Transforms the caster into one of the creatures on the battlefield (ally or foe).
 Lasts 4 turns.
 Duration increases with the caster's Concentration.
-Does not affect the demons and heroes.#
-
-176. Cleric Transformation
-#Circle 4.
-School: Metamorphosis.
-Transforms friendly or enemy unit (with the resistance of 11 or less) in to the Cleric. Magic immunity does not apply.
-Lasts 3 turns.
-Duration increases with the caster's Concentration.
-Does not affect heroes.#
+Cannot transform into a Hero, Trap or Obstacle, or into a magic-immune or transformed creature.#
 
 177. Summon Phantom
 #Circle 3.
@@ -1284,7 +1287,7 @@ Has no effect on the Undead, Mechanical units, and Elementals.#
 #Circle 3.
 School: Astral Magic.
 The target unit cannot move and fight. Lasts 4 turns. The target's resistance only partially protects it from the spell.
-Duration slightly increases with the caster's Concentration.
+Duration increases with the caster's Concentration.
 Has no effect on the Undead, Mechanical units, and Elementals.#
 
 193. Mass Sleep
@@ -1442,7 +1445,7 @@ Only works on the Undead.#
 #Circle 4.
 School: Necromancy.
 Decreases the stamina of all living creatures on the battlefield by 12.
-Effect increases slightly with the caster's Spellpower. Magic immunity does not apply.
+Effect increases slightly with the caster's Spellpower. Spell resistance and Magic Immunity do not apply.
 Has no effect on Elementals, Heroes, and tireless creatures.#
 
 215. Pathfinding
@@ -1572,7 +1575,7 @@ Only works on Demons. Has no effect on Chaos Lords.#
 #Circle 3.
 School: Sacred Magic.
 Increases Attacks, Defenses, and Resistance of all friendly units by 1. Lasts 5 turns.
-Effect increases with the caster's Spellpower.
+The effect slightly increases with the caster's Spellpower.
 The spell has no effect on undead and demons.#
 
 234. Healing Sleep
@@ -2390,7 +2393,8 @@ Has no effect on the Undead, Mechanical units, and Elementals.#
 351. Storm Wind
 #Circle 3.
 School: Elemental Magic.
-Prevents all units in a radius of 2 tiles from flying and floating. Lasts 5 turns. Resistance has almost no protection against this spell. Magic immunity does not apply.
+Prevents all units in a radius of 2 tiles from flying and floating. Reduces shooting Range by 2.
+Lasts 5 turns. Resistance has almost no protection against this spell. Magic immunity does not apply.
 Duration slightly increases with the caster's Concentration.#
 
 352. Abysmal Joke
@@ -2518,18 +2522,22 @@ Summoning range and Fire Elemental's attributes depend on caster's Summoning Pow
 
 370. Set Trap
 #Combat abilities.
-Installs a trap in an adjacent tile.
-Summoning range and Trap's attributes depend on caster's Summoning Power.#
+Creates a trap on the battlefield within three tiles of the caster.
+Summoning range and Trap's attributes depend on caster's Summoning Power.
+Creatures falling in a trap lose 10 HP, and remain injured for 3 turns (trap cannot the creature caught in it).
+A trap increases the cost of crossing the tile by 1.#
 
 371. Set Snare
 #Combat abilities.
 Installs a snare in an adjacent tile.
-Summoning range and Snare's attributes depend on caster's Summoning Power.#
+Summoning range and Snare's attributes depend on caster's Summoning Power.
+Creatures caught in a Snare lose 5 stamina, and cannot deal any damage until the next turn.#
 
 372. Set Hive
 #Combat abilities.
-Installs a hornet's nest in an adjacent tile.
-Summoning range and Hive's attributes depend on caster's Summoning Power.#
+Creates a hornet hive on the battlefield within four tiles of the caster.
+Summoning range and Hive's attributes depend on caster's Summoning Power.
+Any living creature careless enough to poke a Hornet's Nest will have to face the spiteful insects. Unit loses 4 HP and 2 Stamina each turn, and suffers from Itch.#
 
 373. Subdue Beast
 #Circle 2.

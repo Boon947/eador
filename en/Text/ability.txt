@@ -165,7 +165,7 @@ An enemy damaged by this unit is hexed; Armor and Resistance are decreased by 1 
 
 /44 Steal Ammo
 #Attacking an enemy in melee decreases their ammo and morale by %d. Also, stolen Ammo of the appropriate type restores the unit's Ammo.
-Has no effect on incorporeal enemies, Animals, and creatures with natural weapons. Morale is reduced only when theft is successful.#
+Has no effect on Artillery, incorporeal enemies, Animals, and creatures with natural weapons. Morale is reduced only when theft is successful.#
 
 /45 Damage Armor
 #When attacking an enemy in melee, the unit reduces the target's defense by 1. The effect lasts for 3 turns. No effect on incorporeal enemies.#
@@ -312,8 +312,8 @@ This unit requires +%d~, or +%d gold.#
 /86 Fast Draw
 #The hero can change weapons in battle without spending a turn.#
 
-/87 Sabotage
-#Increases the level of the Scouting skill, and the effect of acts of Sabotage by %d.#
+/87 Scouting
+#Increases Scouting skill level by %d.#
 
 /88 Province Plunder
 #Increases the income from plundering the provinces by %d~.#
@@ -641,7 +641,7 @@ Ammo units consumed by casting: %d.#
 Ammo units consumed by casting: %d.#
 
 /172 Mass Rage
-#The unit can cast the "Mass Rage" spell, which gives all friendly units Fearless, Intimidation 2, and Bloodlust 3. The caster loses 50 hit points.
+#The unit can cast the "Mass Rage" spell, which endows every ally with Fearless, Intimidation 2, Bloodlust 3, Surge of Strength 1. The caster loses 50 hit points.
 Ammo units consumed by casting: %d.#
 
 /173 Tribe's Blood
@@ -745,7 +745,7 @@ Ammo units consumed by casting: %d.#
 Ammo units consumed by casting: %d.#
 
 /198 Set Trap Spell
-#This unit can cast the Set Trap spell, which places a trap in an adjacent tile.
+#This unit can cast the Set Trap spell, which sets a trap within 3 tiles.
 Ammo units consumed by casting: %d.#
 
 /199 Set Snare Spell
@@ -753,7 +753,7 @@ Ammo units consumed by casting: %d.#
 Ammo units consumed by casting: %d.#
 
 /200 Set Hive Spell
-#This unit can cast the Set Hive spell, which places a hornet's nest in an adjacent tile.
+#This unit can cast the Set Hive spell, which places a hornet's nest within 4 tiles.
 Ammo units consumed by casting: %d.#
 
 /201 Swamp Blood Spell
@@ -936,16 +936,16 @@ Ammo units consumed by casting: %d.#
 #This unit can cast the Summon Hellhound spell, summoning a hellhound to an adjacent tile. The caster loses 4 hit points.
 Ammo units consumed by casting: %d.#
 
-/246 Skeleton Transformation Spell
-#This unit can cast the Skeleton Transformation spell, transforming a friendly or enemy unit into a skeleton.
+/246 Polymorphism Spell
+#Unit can cast the Polymorphism spell, allowing an ally to transform into something else.
 Ammo units consumed by casting: %d.#
 
-/247 Fiend Transformation Spell
-#This unit can cast the Fiend Transformation spell, transforming a friendly or enemy unit into a fiend. Resistance protects only partially against this spell.
+/247 Doppelganger Spell
+#Unit can cast the Doppelganger spell, to transform into one of the creatures on the battlefield.
 Ammo units consumed by casting: %d.#
 
-/248 Cleric Transformation Spell
-#This unit can cast the Cleric Transformation spell, transforming a friendly or enemy unit into a cleric. Magic immunity does not apply.
+/248 Doppelganger Spell - service
+#Unit can cast the Doppelganger spell, to transform into one of the creatures on the battlefield.
 Ammo units consumed by casting: %d.#
 
 /249 Fire Blade Spell
@@ -1303,7 +1303,7 @@ Cerberus Brand confers Crippling Strike 2 and increases Speed by 1, but decrease
 Ammo units consumed by casting: %d.#
 
 /340 Avatar of Light
-#This unit is not affected by the spells Vampirism, Dark Pact, Life Drain, Black Magic, Corruption, Mass Suicide, Sacrifice, Unholy Word, Vampiric Touch, Divine Light, Holy Word, Anthem of the Damned, Embrace of Darkness, Dark Steel, Mass Life Drain, Nightmare, Blood Ritual, Blood Sacrifice and Death Ashes.#
+#This unit is not affected by the spells Vampirism, Dark Pact, Life Drain, Black Magic, Corruption, Mass Suicide, Sacrifice, Unholy Word, Vampire Touch, Divine Light, Holy Word, Anthem of the Damned, Embrace of Darkness, Dark Steel, Mass Life Drain, Nightmare, Blood Ritual, Blood Sacrifice and Death Ashes.#
 
 /341 Armageddon Spell
 #This unit can cast the Armageddon spell, inflicting huge fire damage to all creatures on the battlefield.
@@ -1312,9 +1312,9 @@ Ammo units consumed by casting: %d.#
 /342 Workaholic
 #The unit spends its spare time working, increasing the income from a province he is stationed in by %d~.#
 
-/343 Siege Mode - Not Used
+/343 Siege Mode
 #This unit can switch to siege mode.
-In this mode, unit cannot move and fight, but its ranged attacks will damage not only the main target, but also up to three enemy units in a row.#
+In this mode, unit cannot move or fight, but base Ranged Attack is increased by 50%, and Range by 1.#
 
 /344 Siege Mode
 #This unit can switch to siege mode.
@@ -1489,7 +1489,8 @@ Ammo units consumed by casting: %d.#
 Ammo units consumed by casting: %d.#
 
 /388 Shield Bash
-#A special ability allowing the unit, at the cost of some Stamina, to strike with his shield instead of his weapon. The unit does not deal damage, and the enemy will not suffer the effects of regular attacks, but the blow stuns him, reducing his Stamina by %d. The enemy does not counterattack.#
+#A special ability allowing the unit, at the cost of some Stamina, to strike with his shield instead of his weapon. The unit does not deal damage, and the enemy will not suffer the effects of regular attacks, but the blow stuns him, reducing his Stamina by %d. The enemy does not counterattack.
+No effect on incorporeal enemies.#
 
 /389 Concoction Spell
 #This unit can cast the Concoction spell, temporarily increasing a friendly creature's Attack, Defense and Ranged Defense, and granting the Necrophage ability, but also causing health loss.
@@ -1951,10 +1952,10 @@ With Ranged Dfefense, Morale decreases less.#
 
 /511 Panic
 #Stamina consumption: %d.
-The unit can, at the cost of extra stamina, retreat faster towards its edge of the battlefield, and desert. When in effect, the unit's morale decreases by 1.#
+The unit can, at the cost of extra stamina, retreat faster towards its edge of the battlefield, and desert.#
 
 /512 Trap
-#Creatures falling in a Trap lose 10 HP, and will remain injured for 3 turns. A trap increases the cost of crossing the tile by 1.#
+#Creatures falling in a trap lose 10 HP, and remain injured for 3 turns (trap cannot the creature caught in it). A trap increases the cost of crossing the tile by 1.#
 
 /513 Snare
 #Creatures caught in a Snare lose 5 stamina, and cannot deal any damage until the next turn.#
@@ -1979,7 +1980,8 @@ Be wary of abilities Roots and Crippling Strike: if an enemy counterattacks with
 
 /519 Backstab
 #With Backstab, a unit deals %d additional damage.
-An attack is considered a backstab when an ally stands in the opposite tile. A successful backstab increases the unit's morale.#
+An attack is considered a backstab when an ally stands in the opposite tile. A successful backstab increases the unit's morale.
+No effect on incorporeal enemies.#
 
 /520 Rat Swarm Spell
 #This unit can cast the Summon Rat Swarm spell, which summons six giant rats in an adjacent tile.
@@ -2257,3 +2259,12 @@ Ammo units consumed by casting: %d.#
 
 /597 Double Strike
 #When attacking an enemy in melee, unit can strike again if the enemy remains alive after the attack.#
+
+/598 Shooting on the move
+#Unit can shoot at the enemy without losing a turn. After shooting, unit retains remaining Speed, and can continue moving or attacking. It may not shoot a second time.#
+
+/599 Mobile Shooter
+#After using the "Shooting on the Move" ability, unit's Speed and Stamina increase by %d. Speed ??cannot rise above unit's nominal Speed.#
+
+/600 Paralyzing Touch
+#Unit's Attacks, Counterattacks, and Ranged Attack can immobilize any living creature for 3 turns, virtually ignoring Spell Resistance. Has no effect on creatures immune to Magic or Mind Control. When used in melee, the ability consumes the unit's charges - if depleted, ability does not trigger.#

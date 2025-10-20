@@ -216,13 +216,13 @@ Lvl 4: Init +1, Ranged Def +1, Defense +1
 Lvl 5: Init +1,      Speed +1,  Resist +1#
 
 /24 Scouting
-#Scouting increases the speed of province exploration, and allows the hero to spy on the enemy's forces and perform acts of sabotage before attacking.
+#Scouting increases the speed of province exploration, and allows the hero to spy on the enemy's forces and perform acts of sabotage.
 
 Lvl 1: Exploration +5, Allows Scouting
 Lvl 2: Exploration +5, Raise false alarm (-6 Stamina)
-Lvl 3: Exploration +5, Poison the water (-2 Health X 3 turns)
+Lvl 3: Exploration +5, Poison the water supply (-2 Health for 3 turns, infects enemies with disease)
 Lvl 4: Exploration +10, Create panic (-4 Morale)
-Lvl 5: Exploration +10, Scouting and Sabotage 50~ cheaper#
+Lvl 5: Exploration +10, Scouting and Sabotage 50~ cheaper, Sabotage Effects +1#
 
 /25 Archery
 #Archery increases the hero's shooting accuracy and spare ammo. It also helps him to bypass some of the enemy's defense while shooting.

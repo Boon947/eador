@@ -4204,7 +4204,7 @@ Param2: 0;
 /103
 Name: Vassal;
 Illustration: 31
-Power: 3
+Power: 4
 GoldCost: 25
 GemGost: 5
 GoldPayment: 0
@@ -4224,12 +4224,12 @@ Desert: 1
 Tundra: 1
 Resource: (0)
 Units:
-Unit1: 44, 5, 1
-Unit2: 5, 8, 2
-Unit3: 6, 9, 2
-Unit4: 7, 11, 3
-Unit5: 8, 10, 2
-Unit6: 23, 7, 1;
+Unit1: 44, 20, 1
+Unit2: 5, 18, 3
+Unit3: 6, 19, 2
+Unit4: 7, 12, 4
+Unit5: 8, 15, 2
+Unit6: 286, 7, 1;
 Loot:
 Item1: 1, 1
 Item2: 17, 1
